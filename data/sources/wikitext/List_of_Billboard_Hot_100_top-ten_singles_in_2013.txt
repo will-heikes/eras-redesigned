@@ -1,0 +1,628 @@
+{{short description|None}}
+
+This is a list of singles that charted in the top ten of the [[Billboard Hot 100|''Billboard'' Hot 100]], an all-genre singles chart, in 2013.
+
+During the year, 62 songs and 59 acts charted in the tier, and 34 of these acts scored their first top-ten single in the US either as a lead or featured artist. [[Drake (rapper)|Drake]] had the most top tens in 2013, with four, while [[Lorde]]'s debut single "[[Royals (Lorde song)|Royals]]" became the longest-running top-ten single of the year, spending twenty-three consecutive weeks in the tier. [[Macklemore]] and [[Ryan Lewis]] spent the most consecutive weeks in the top ten during 2013, with thirty-two spanning from January 5 to August 10.
+
+==Top-ten singles==
+;Key
+*{{Color box|#99FFFF|{{up-arrow}}|border=silver}} – indicates single's top 10 entry was also its Hot 100 debut
+*{{Color box|#FFFF00|{{dagger}}|border=silver}} – indicates Best performing song of the year
+*<small>(#)</small> – 2013 year-end top 10 single position and rank
+*The "weeks in top ten" column reflects each song's entire chart life, not just its run during 2013.
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles which peaked in 2013
+!Top ten<br/>entry date
+!Single
+!Artist(s)
+! data-sort-type="number" | Peak
+!Peak date
+! data-sort-type="number" | Weeks in<br />top ten
+!References
+|-
+!colspan=7|[[List of Billboard Hot 100 top-ten singles in 2012#2013 peaks|Singles from 2012]]
+|-
+|June 9
+|bgcolor = #99FFFF | "[[Home (Phillip Phillips song)|Home]]" {{up-arrow}}
+|[[Phillip Phillips]]
+|align=center|6
+|January 19
+|align=center|13
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/485449/phillip-phillips-storms-hot-100s-top-10-gotye-has-years-longest-running-no-1|magazine=Billboard|title=Phillip Phillips Storms Hot 100's Top 10, Gotye Has Year's Longest-Running No. 1|first=Gary|last=Trust|date=2012-05-30|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=phillip phillips|chart=all}}|magazine=Billboard|title=Phillip Phillips Album & Song Chart History|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/473844/rihanna-remains-atop-hot-100-adds-radio-songs-reign|magazine=Billboard|title=Rihanna Remains Atop Hot 100, Adds Radio Songs Reign|first=Gary|last=Trust|date=2012-12-05|access-date=2012-12-27}}</ref>
+|-
+|October 27
+|bgcolor = #99FFFF | "[[I Knew You Were Trouble]]" {{up-arrow}}
+|[[Taylor Swift]]
+|align=center|2
+|January 12
+|align=center|16
+|align=center|<ref name="oct272012">{{Cite news|url=http://www.billboard.com/articles/news/474594/psy-still-stuck-at-no-2-as-maroon-5-tops-hot-100|title=PSY Still Stuck At No. 2 as Maroon 5 Tops Hot 100|first=Gary|last=Trust|date=2012-10-17|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=taylor swift|chart=all}}|magazine=Billboard|title=Taylor Swift Album & Song Chart History|access-date=2012-12-27}}</ref><ref name="dec292012">{{Cite magazine|url=http://www.billboard.com/articles/news/1481307/bruno-mars-has-top-hot-100-spot-locked-up-again|magazine=Billboard|title=
+Bruno Mars Has Top Hot 100 Spot 'Locked' Up Again |first=Gary|last=Trust|date=2012-12-12|access-date=2012-12-19}}</ref>
+|-
+|December 22
+|"[[Beauty and a Beat]]"
+|[[Justin Bieber]] featuring [[Nicki Minaj]]
+|align=center|5
+|January 5
+|align=center|10
+|align=center|<ref name="dec222012">{{Cite magazine|url=http://www.billboard.com/articles/news/1481445/bruno-mars-makes-heaven-ly-ascent-to-no-1-on-hot-100|magazine=Billboard|title=Bruno Mars Makes 'Heaven'-ly Ascent To No. 1 On Hot 100|first=Gary|last=Trust|date=2012-12-12|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=justin bieber|chart=all}}|magazine=Billboard|title=Justin Bieber Album & Song Chart History|access-date=2012-12-27}}</ref><ref name="jan52013">{{Cite magazine|url=http://www.billboard.com/articles/news/1481232/bruno-mars-marks-a-chart-first-with-hot-100-leader-heaven|magazine=Billboard|title=Bruno Mars Marks a Chart First With Hot 100 Leader 'Heaven'|first=Gary|last=Trust|date=2012-12-27|access-date=2012-12-27}}</ref>
+|-
+!colspan=7|Singles from 2013
+|-
+|January 5
+|style= "background:#FFFF00" |"[[Thrift Shop (song)|Thrift Shop]]" {{dagger}} <small>(#1)</small>
+|[[Macklemore & Ryan Lewis]] featuring [[Wanz]]
+|align=center|1
+|February 2
+|align=center|21
+|align=center|<ref name="jan52013" /><ref name="feb22013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis Crown Hot 100, Justin Timberlake Soars To Top 5|url=http://www.billboard.com/articles/news/1521657/macklemore-ryan-lewis-crown-hot-100-justin-timberlake-soars-to-top-5|magazine=Billboard|date=2013-01-23|access-date=2013-01-23}}</ref><ref name="feb232013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis' 'Thrift Shop' No. 1 For Fourth Week|url=http://www.billboard.com/articles/news/1538888/macklemore-ryan-lewis-thrift-shop-no-1-on-hot-100-for-fourth-week|magazine=Billboard|date=2013-02-13|access-date=2013-02-13}}</ref>
+|-
+|January 19
+|"[[Scream & Shout]]"
+|[[will.i.am]] and [[Britney Spears]]
+|align=center|3
+|February 16
+|align=center|11
+|align=center|<ref name="jan52013" /><ref name="feb162013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis Lead Hot 100 for Third Straight Week|url=http://www.billboard.com/articles/news/1537998/macklemore-ryan-lewis-lead-hot-100-for-third-straight-week|magazine=Billboard|date=2013-02-06|access-date=2013-02-06}}</ref>
+|-
+|January 26
+|"[[Don't You Worry Child]]"{{ref label|ReEntryD|D}}
+|[[Swedish House Mafia]] featuring [[John Martin (singer)|John Martin]]
+|align=center|6
+|February 9 
+|align=center|6
+|align=center|<ref name="feb92013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis Remain Atop Hot 100, A$AP Rocky Reaches Top 10|url=http://www.billboard.com/articles/news/1536280/macklemore-ryan-lewis-remain-atop-hot-100-aap-rocky-reaches-top-10|magazine=Billboard|date=2013-01-30|access-date=2013-01-30}}</ref>
+|-
+|February 2
+|"[[Suit & Tie]]"{{ref label|ReEntryC|C}}
+|[[Justin Timberlake]] featuring [[Jay-Z]]
+|align=center|3
+|April 6
+|align=center|13
+|align=center|<ref name="feb22013" />
+|-
+|February 9
+|"[[Fuckin' Problems]]"
+|[[ASAP Rocky]] featuring [[Drake (musician)|Drake]], [[2 Chainz]] and [[Kendrick Lamar]]
+|align=center|8
+|February 16
+|align=center|2
+|align=center|<ref name="feb162013" /><ref name="feb92013" />
+|-
+|rowspan=2|February 16
+|"[[Sweet Nothing (Calvin Harris song)|Sweet Nothing]]"
+|[[Calvin Harris]] featuring [[Florence Welch]]
+|align=center|10
+|February 16
+|align=center|1
+|align=center|<ref name="feb162013" />
+|-
+|"[[Try (Pink song)|Try]]"
+|[[Pink (singer)|Pink]]
+|align=center|9
+|February 16
+|align=center|1
+|align=center|<ref name="feb162013" />
+|-
+|rowspan=2|February 23
+|"[[Daylight (Maroon 5 song)|Daylight]]"
+|Maroon 5
+|align=center|7
+|February 23
+|align=center|1
+|align=center|<ref name="feb232013" />
+|-
+|"[[When I Was Your Man]]" <small>(#8)</small>
+|Bruno Mars
+|align=center|1
+|April 20
+|align=center|16
+|align=center|<ref name="feb232013" /><ref name="mar92013">{{cite magazine|first=Gary|last=Trust|title=Baauer's 'Harlem Shake' Tops Hot 100 For Second Week|url=http://www.billboard.com/articles/news/1550092/baauers-harlem-shake-tops-hot-100-for-second-week|magazine=Billboard|date=2013-02-27|access-date=2013-02-27}}</ref>
+|-
+|rowspan=3|March 2
+|bgcolor = #99FFFF | "[[Harlem Shake (song)|Harlem Shake]]" <small>(#4)</small> {{up-arrow}}
+|[[Baauer]]
+|align=center|1
+|March 2
+|align=center|8
+|align=center|<ref name="mar22013">{{cite magazine|first=Gary|last=Trust|title=Baauer's 'Harlem Shake' Debuts Atop Revamped Hot 100|url=http://www.billboard.com/articles/news/1549388/baauers-harlem-shake-debuts-atop-revamped-hot-100|magazine=Billboard|date=2013-02-20|access-date=2013-02-20}}</ref>
+|-
+|"[[Started from the Bottom]]"
+|Drake
+|align=center|6
+|March 9
+|align=center|10
+|align=center|<ref name="mar92013" /><ref name="mar22013" />
+|-
+|"[[Stay (Rihanna song)|Stay]]"
+|Rihanna featuring [[Mikky Ekko]]
+|align=center|3
+|March 2
+|align=center|16
+|align=center|<ref name="mar22013" />
+|-
+|March 9
+|"[[Love Me (Lil Wayne song)|Love Me]]"{{ref label|ReEntryE|E}}
+|[[Lil Wayne]] featuring [[Future (rapper)|Future]] and Drake
+|align=center|9
+|March 23
+|align=center|4
+|align=center|<ref name="mar232013">{{cite magazine|first=Gary|last=Trust|title=Baauer Leads Hot 100 Again, Macklemore & Ryan Lewis Rule Radio Songs|url=http://www.billboard.com/articles/news/1551797/baauer-leads-hot-100-again-macklemore-ryan-lewis-rule-radio-songs|magazine=Billboard|date=2013-03-13|access-date=2013-03-13}}</ref>
+|-
+|rowspan|March 30
+|"[[Just Give Me a Reason]]" <small>(#7)</small>
+|Pink featuring [[Nate Ruess]]
+|align=center|1
+|April 27
+|align=center|15
+|align=center|<ref name="mar302013">{{cite magazine|first=Gary|last=Trust|title=Baauer Tops Hot 100 for Fifth Week, Despite Continued Streaming Slide|url=http://www.billboard.com/articles/news/1553826/baauer-tops-hot-100-for-fifth-week-despite-continued-streaming-slide|magazine=Billboard|date=2013-03-20|access-date=2013-03-20}}</ref>
+|-
+|rowspan|April 6
+|"[[Feel This Moment]]"
+|[[Pitbull (rapper)|Pitbull]] featuring [[Christina Aguilera]]
+|align=center|8
+|April 6
+|align=center|7
+|align=center|<ref name="april62013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis Return To Top Of Hot 100|url=https://www.billboard.com/pro/macklemore-ryan-lewis-return-to-top-of-hot-100/|magazine=Billboard|date=2013-03-27|access-date=2013-03-27}}</ref>
+|-
+|rowspan=2|April 13
+|bgcolor = #99FFFF | "[[The Way (Ariana Grande song)|The Way]]" {{up-arrow}}{{ref label|ReEntryH|H}}{{ref label|ReEntryI|I}}
+|[[Ariana Grande]] featuring [[Mac Miller]]
+|align=center|9
+|June 22
+|align=center|4
+|align=center|<ref name="april132013">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis Top Hot 100; Imagine Dragons, Ariana Grande Hit Top 10|url=http://www.billboard.com/articles/news/1555888/macklemore-ryan-lewis-top-hot-100-imagine-dragons-ariana-grande-hit-top-10|magazine=Billboard|date=2013-03-13|access-date=2013-03-13}}</ref>
+|-
+|"[[Radioactive (Imagine Dragons song)|Radioactive]]" <small>(#3)</small> {{ref label|ReEntryF|F}}
+|[[Imagine Dragons]]
+|align=center|3
+|July 6
+|align=center|20
+|align=center|<ref name="april132013"/>
+|-
+|rowspan=2|April 20
+|"[[Can't Hold Us]]" <small>(#5)</small>
+|Macklemore and Ryan Lewis featuring [[Ray Dalton]]
+|align=center|1
+|May 18
+|align=center|17
+|align=center|<ref name="april202013">{{cite magazine|first=Gary|last=Trust|title=Bruno Mars Lands Fifth Hot 100 No. 1 With 'When I Was Your Man'|url=http://www.billboard.com/articles/news/1556766/bruno-mars-lands-fifth-hot-100-no-1-with-when-i-was-your-man|magazine=Billboard|date=2013-04-13|access-date=2013-04-13}}</ref>
+|-
+|"[[Cruise (song)|Cruise (Remix)]]" <small>(#9)</small> {{ref label|ReEntryG|G}}
+|[[Florida Georgia Line]] featuring [[Nelly]]<!-- Nelly was credited during the run in the top 10.  Do not remove his name from here. -->
+|align=center|4
+|July 6
+|align=center|14
+|align=center|<ref name="april202013" />
+|-
+|rowspan=2|April 27
+|"[[Heart Attack (Demi Lovato song)|Heart Attack]]"
+|[[Demi Lovato]]
+|align=center|10
+|April 27
+|align=center|1
+|align=center|<ref name="april27" />
+|-
+|"[[Mirrors (Justin Timberlake song)|Mirrors]]" <small>(#6)</small>
+|Justin Timberlake
+|align=center|2
+|June 15
+|align=center|15
+|align=center|<ref name="april27">{{cite magazine|first=Gary|last=Trust|title=P!nk Powers to No. 1 On Hot 100 With 'Just Give Me A Reason'|url=http://www.billboard.com/articles/news/1558437/pink-powers-to-no-1-on-hot-100-with-just-give-me-a-reason|magazine=Billboard|date=2013-04-27|access-date=2013-04-17}}</ref>
+|-
+|rowspan|May 4
+|"[[Gentleman (Psy song)|Gentleman]]"
+|[[Psy]]
+|align=center|5
+|May 4
+|align=center|1
+|align=center|
+|-
+|rowspan|May 11
+|"[[I Love It (Icona Pop song)|I Love It]]"
+|[[Icona Pop]] featuring [[Charli XCX]]
+|align=center|7
+|May 18
+|align=center|8
+|align=center|<ref name="may11">{{cite magazine|first=Gary|last=Trust|title=P!nk Holds at No. 1 on Hot 100, While Rihanna Rules at Radio|url=http://www.billboard.com/articles/news/1560133/pink-holds-at-no-1-on-hot-100-while-rihanna-rules-at-radio|magazine=Billboard|date=2013-05-01|access-date=2013-05-01}}</ref>
+|-
+|rowspan|May 25
+|"[[Come & Get It (Selena Gomez song)|Come & Get It]]"
+|[[Selena Gomez]]
+|align=center|6
+|May 25
+|align=center|9
+|align=center|<ref name="may25">{{cite magazine|first=Gary|last=Trust|title=Macklemore & Ryan Lewis 'Hold' Atop Hot 100|url=http://www.billboard.com/articles/news/1562282/macklemore-ryan-lewis-hold-atop-hot-100|magazine=Billboard|date=2013-05-15|access-date=2013-05-15}}</ref>
+|-
+|rowspan|June 1
+|"[[Get Lucky (Daft Punk song)|Get Lucky]]"
+|[[Daft Punk]] featuring [[Pharrell Williams]]
+|align=center|2
+|June 29
+|align=center|15
+|align=center|<ref name="june1">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/1563139/cant-stop-macklemore-ryan-lewis-atop-hot-100|title='Can't' Stop Macklemore & Ryan Lewis Atop Hot 100|magazine=Billboard|date=2013-05-22|access-date=2013-05-22}}</ref>
+|-
+|rowspan|June 15
+|"[[Blurred Lines (song)|Blurred Lines]]" <small>(#2)</small>
+|[[Robin Thicke]] featuring [[T.I.]] and Pharrell Williams
+|align=center|1
+|June 22
+|align=center|21
+|align=center|<ref name="june15">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/1565745/macklemore-ryan-lewis-still-atop-hot-100-robin-thicke-reaches-top-10|title=Macklemore & Ryan Lewis Still Atop Hot 100, Robin Thicke Reaches Top 10|magazine=Billboard|date=2013-06-05|access-date=2013-06-05}}</ref>
+|-
+|rowspan=2|July 6
+|"[[Treasure (Bruno Mars song)|Treasure]]"
+|Bruno Mars
+|align=center|5
+|August 3
+|align=center|9
+|align=center|<ref name="july6">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/1568185/robin-thicke-still-atop-hot-100-miley-cyrus-bruno-mars-reach-top-10|title=Robin Thicke Still Atop Hot 100; Miley Cyrus, Bruno Mars Reach Top 10|magazine=Billboard|date=2013-06-26|access-date=2013-06-26}}</ref>
+|-
+|"[[We Can't Stop]]"
+|[[Miley Cyrus]]
+|align=center|2
+|August 3
+|align=center|11
+|align=center|<ref name="july6"/>
+|-
+|rowspan|July 20
+|"[[Cups (Anna Kendrick song)|Cups (Pitch Perfect's "When I'm Gone")]]"
+|[[Anna Kendrick]]
+|align=center|6
+|August 17
+|align=center|7
+|align=center|<ref name="july20">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/1569412/robin-thickes-blurred-lines-leads-hot-100-for-fifth-week|title=Robin Thicke's 'Blurred Lines' Leads Hot 100 For Fifth Week|magazine=Billboard|date=2013-07-10|access-date=2013-07-10}}</ref>
+|-
+|rowspan|July 27
+|bgcolor = #99FFFF | "[[Holy Grail (Jay-Z song)|Holy Grail]]" {{up-arrow}}
+|Jay-Z featuring Justin Timberlake
+|align=center|4
+|September 21
+|align=center|16
+|align=center|<ref name="july27">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/2082329/robin-thicke-tops-hot-100-for-sixth-week-jay-z-justin-timberlake-debut-in-top#disqus_thread|title=Robin Thicke Tops Hot 100 For Sixth Week; Jay Z, Justin Timberlake Debut In Top 10|magazine=Billboard|date=July 17, 2013|access-date=July 17, 2013}}</ref>
+|-
+|rowspan|August 10
+|bgcolor = #99FFFF | "[[Best Song Ever (One Direction song)|Best Song Ever]]" {{up-arrow}}
+|[[One Direction]]
+|align=center|2
+|August 10
+|align=center|1
+|align=center|<ref name="august10">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5344492/one-direction-blasts-onto-hot-100-at-no-2-robin-thicke-still-no-1|title=One Direction Blasts Onto Hot 100 at No. 2, Robin Thicke Still No. 1|magazine=Billboard|date=July 31, 2013|access-date=July 31, 2013}}</ref>
+|-
+|rowspan=3|August 17
+|"[[Clarity (Zedd song)|Clarity]]"
+|[[Zedd]] featuring [[Foxes (singer)|Foxes]]
+|align=center|8
+|August 17
+|align=center|2
+|align=center|<ref name="august17">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5638328/robin-thicke-extends-hot-100-run-to-nine-weeks-sets-audience-and-sales-records|title=Robin Thicke Extends Hot 100 Run to Nine Weeks, Sets Audience and Sales Records|magazine=Billboard|date=August 7, 2013|access-date=August 7, 2013}}</ref>
+|-
+|"[[Love Somebody (Maroon 5 song)|Love Somebody]]"
+|Maroon 5
+|align=center|10
+|August 17
+|align=center|2
+|align=center|<ref name="august17"/>
+|-
+|"[[Safe and Sound (Capital Cities song)|Safe and Sound]]"{{ref label|ReEntryJ|J}}{{ref label|ReEntryK|K}}
+|[[Capital Cities (band)|Capital Cities]]
+|align=center|8
+|September 7
+|align=center|6 
+|align=center|<ref name="august17"/>
+|-
+|rowspan=2|August 31
+|bgcolor = #99FFFF | "[[Applause (Lady Gaga song)|Applause]]" {{up-arrow}}
+|[[Lady Gaga]]
+|align=center|4
+|September 7
+|align=center|14
+|align=center|<ref name="august31">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5660927/robin-thicke-no-1-katy-perry-no-2-on-hot-100|title=Robin Thicke No. 1, Katy Perry No. 2 On Hot 100|magazine=Billboard|date=August 21, 2013|access-date=August 21, 2013}}</ref>
+|-
+|"[[Roar (Katy Perry song)|Roar]]" <small>(#10)</small>
+|[[Katy Perry]]
+|align=center|1
+|September 14
+|align=center|17
+|align=center|<ref name="august31"/>
+|-
+|rowspan=2|September 7
+|"[[Summertime Sadness|Summertime Sadness (Remix)]]"
+|[[Lana Del Rey]] featuring [[Cedric Gervais]]
+|align=center|6
+|September 21
+|align=center|8
+|align=center|<ref name="september7">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5672768/robin-thicke-leads-hot-100-katy-perry-holds-at-no-2|title=Robin Thicke Leads Hot 100, Katy Perry Holds At No. 2|magazine=Billboard|date=August 28, 2013|access-date=August 28, 2013}}</ref>
+|-
+|"[[Wake Me Up (Avicii song)|Wake Me Up!]]"
+|[[Avicii]]
+|align=center|4
+|October 5 
+|align=center|21
+|align=center|<ref name="september7"/>
+|-
+|rowspan=2|September{{nbsp}}14
+|bgcolor = #99FFFF | "[[Berzerk (song)|Berzerk]]" {{up-arrow}}
+|[[Eminem]]
+|align=center|3
+|September{{nbsp}}14
+|align=center|3
+|align=center|<ref name="september14">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5680131/katy-perry-dethrones-robin-thicke-atop-hot-100|title=Katy Perry Dethrones Robin Thicke Atop Hot 100|magazine=Billboard|date=September 4, 2013|access-date=September 4, 2013}}</ref>
+|-
+|"[[Royals (Lorde song)|Royals]]"
+|[[Lorde]]
+|align=center|1
+|October 12
+|align=center|23
+|align=center|<ref name="october12">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5740767/lordes-royals-crowns-hot-100|title=Lorde's 'Royals' Crowns Hot 100|magazine=Billboard|date=October 2, 2013|access-date=October 2, 2013}}</ref>
+|-
+|rowspan|September 21
+|"[[Hold On, We're Going Home]]"{{ref label|ReEntryL|L}}
+|Drake featuring [[Majid Jordan]]
+|align=center|4
+|October 12
+| align="center" |13
+|align=center|<ref name="october12"/>
+|-
+|rowspan|September 28
+|"[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]"
+|Miley Cyrus
+|align=center|1
+|September 28
+|align=center|16
+|align=center|<ref name="september28">{{cite news|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5695590/miley-cyrus-wrecking-ball-swings-to-top-of-hot-100|title=Miley Cyrus' 'Wrecking Ball' Swings Atop Hot 100|date=September 18, 2013|access-date=September 18, 2013}}</ref>
+|-
+|rowspan|October 12
+|"[[The Fox (What Does the Fox Say?)]]"
+|[[Ylvis]]
+|align=center|6
+|October 19
+|align=center|5
+|align=center|<ref name="october12"/>
+|-
+|rowspan|November 2
+|bgcolor = #99FFFF | "[[Rap God]]" {{up-arrow}}
+|Eminem
+|align=center|7
+|November 2
+|align=center|1
+|align=center|<ref name="november2">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5763255/lordes-royals-is-hot-100s-ruler-for-fourth-week|title=Lorde's 'Royals' Is Hot 100's Ruler For Fourth Week|magazine=Billboard|date=October 23, 2013|access-date=October 23, 2013}}</ref>
+|-
+|November 9
+|"[[Demons (Imagine Dragons song)|Demons]]"
+| Imagine Dragons
+|align=center|6
+|December 7   
+| align="center" |12
+|align=center|<ref name="november9">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5770722/lordes-royals-crowns-hot-100-for-fifth-week|title=Lorde's 'Royals' Crowns Hot 100 For Fifth Week|magazine=Billboard|date=October 30, 2013|access-date=October 30, 2013}}</ref>
+|-
+|rowspan=2|November 16
+|bgcolor = #99FFFF | "[[The Monster (song)|The Monster]]" {{up-arrow}}
+| Eminem featuring Rihanna
+| align="center" |1
+|December 21
+| align="center" |13
+|align=center|<ref name="november23">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5785931/lordes-royals-leads-hot-100-lady-gagas-dope-debuts-at-no-8|title=Lorde's 'Royals' Leads Hot 100, Lady Gaga's 'Dope' Debuts At No. 8|magazine=Billboard|date=November 13, 2013|access-date=November 13, 2013}}</ref>
+|-
+|bgcolor = #99FFFF | "[[Story of My Life (One Direction song)|Story of My Life]]" {{up-arrow}}{{ref label|ReEntryM|M}}
+| One Direction
+|align=center|6
+|November 16
+| align="center" |7 
+|align=center|<ref name="november16">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5778259/lordes-royals-rules-hot-100-for-sixth-week|title=Lorde's 'Royals' Rules Hot 100 For Sixth Week|magazine=Billboard|date=November 6, 2013|access-date=November 6, 2013}}</ref>
+|-
+|November 23
+|bgcolor = #99FFFF | "[[Dope (Lady Gaga song)|Dope]]" {{up-arrow}}
+| Lady Gaga
+|align=center|8
+|November 23
+|align=center|1
+|align=center|<ref name="november23"/>
+|-
+
+|December 14
+|"[[Say Something (A Great Big World song)|Say Something]]"
+|[[A Great Big World]] and Christina Aguilera
+| align="center" | 4
+|December 28
+| align="center" |14
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5812407/miley-cyrus-wrecking-ball-swings-back-to-no-1-on-hot-100|magazine=Billboard|title=Miley Cyrus' 'Wrecking Ball' Swings Back To No. 1 On Hot 100|first=Gary|last=Trust|date=2013-12-04|access-date=2013-12-05}}</ref>
+|-
+|}
+
+===2012 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2012}}
+
+{|class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2013 which peaked in 2012
+!Top ten<br/>entry date
+!Single
+!Artist(s)
+!Peak
+!Peak date
+!Weeks in<br />top ten
+!References
+|-
+|September 1
+|"[[One More Night (Maroon 5 song)|One More Night]]"
+|[[Maroon 5]]
+|align=center|1
+|September 29
+|align=center|21
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/480315/taylor-swift-scores-first-hot-100-no-1|magazine=Billboard|title=Taylor Swift Scores First Hot 100 No. 1|first=Gary|last=Trust|date=2012-08-22|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=maroon 5|chart=hot-100}} |magazine=Billboard |title=Maroon 5 Album & Song Chart History |access-date=January 10, 2018}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/475016/maroon-5-reaches-no-1-on-hot-100-with-one-more-night|magazine=Billboard|title=Maroon 5 Reaches No. 1 on Hot 100 with 'One More Night'|first=Gary|last=Trust|date=2012-09-19|access-date=2012-12-27}}</ref>
+|-
+| October 6
+| "[[Gangnam Style]]"{{ref label|ReEntryA|A}}
+| [[Psy (rapper)|Psy]]
+| align=center|2
+| October 6
+| align=center|12
+| align="center" |<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474916/maroon-5-still-tops-hot-100-psy-one-step-from-no-1|magazine=Billboard|title=Maroon 5 Still Tops Hot 100, PSY One Step From No. 1|first=Gary|last=Trust|date=2012-09-26|access-date=2012-09-26}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=psy|chart=all}}|magazine=Billboard|title=PSY Album & Song Chart History|access-date=2012-09-29}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-dec-2-2012-songs-brit-225430921.html|title=Week Ending Dec. 2, 2012. Songs: will & Brit|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-12-05|access-date=2012-12-12}}</ref>
+|-
+|October 27
+|"[[Die Young (Kesha song)|Die Young]]"
+|[[Kesha]]
+|align=center|2
+|December 8
+|align=center|12
+|align=center|<ref name="oct272012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=ke$ha|chart=all}}|magazine=Billboard|title=Ke$ha Album & Song Chart History|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/473967/rihanna-scores-double-domination-atop-hot-100-billboard-200|magazine=Billboard|title=Rihanna Scores Double Domination Atop Hot 100, Billboard 200|first=Gary|last=Trust|date=2012-11-28|access-date=2012-12-27}}</ref>
+|-
+||November 3
+|"[[Diamonds (Rihanna song)|Diamonds]]"
+|[[Rihanna]]
+|align=center|1
+|December 1
+|align=center|15
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474494/maroon-5-spend-one-more-week-atop-hot-100|magazine=Billboard|title=Maroon 5 Spend 'One More' Week Atop Hot 100|first=Gary|last=Trust|date=2012-10-24|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=rihanna|chart=all}} |magazine=Billboard |title=Rihanna Album & Song Chart History  |access-date=2012-12-27 |url-status=dead |archive-url=https://www.webcitation.org/6421XVwUP?url=http://www.billboard.com/#/song/rihanna/rehab/11472607 |archive-date=2011-12-18 }}</ref><ref name="dec12012">{{Cite magazine|url=http://www.billboard.com/articles/news/474050/rihannas-diamonds-tops-hot-100-lumineers-leap-to-top-10|magazine=Billboard|title=Rihanna's 'Diamonds' Tops Hot 100, Lumineers Leap to Top 10|first=Gary|last=Trust|date=2012-11-21|access-date=2012-12-27}}</ref>
+|-
+|November 10
+|"[[Locked Out of Heaven]]"
+|[[Bruno Mars]]
+|align=center|1
+|December 22
+|align=center|20
+|align=center|<ref name="dec222012" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474391/maroon-5-psy-spend-a-sixth-week-in-hot-100s-top-spots|magazine=Billboard|title=Maroon 5, PSY Spend a Sixth Week in Hot 100's Top Spots|first=Gary|last=Trust|date=2012-10-31|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=bruno mars|chart=all}}|magazine=Billboard|title=Bruno Mars Album & Song Chart History|access-date=2012-01-31}}</ref>
+|-
+|November 24
+|"[[I Cry (Flo Rida song)|I Cry]]"{{ref label|ReEntryB|B}}
+|[[Flo Rida]]
+|align=center|6
+|December 22
+|align=center|9
+| align="center" |<ref name="dec222012" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474165/maroon-5s-one-more-night-ties-for-hot-100s-longest-lead-this-year|magazine=Billboard|title=Maroon 5's 'One More Night' Ties for Hot 100's Longest Lead This Year|first=Gary|last=Trust|date=2012-11-14|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=flo rida|chart=all}}|magazine=Billboard|title=Flo Rida Album & Song Chart History|access-date=2012-12-27}}</ref>
+
+|-
+|December 1
+|"[[Ho Hey]]"
+|[[The Lumineers]]
+|align=center|3
+|December 29
+|align=center|14
+|align=center|<ref name="dec12012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=the lumineers|chart=all}}|magazine=Billboard|title=The Lumineers Album & Song Chart History|access-date=2012-12-27}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/1481307/bruno-mars-has-top-hot-100-spot-locked-up-again|magazine=Billboard|title=Bruno Mars Has Top Hot 100 Spot 'Locked' Up Again|first=Gary|last=Trust|date=2012-12-19|access-date=2012-12-27}}</ref>
+|-
+|}
+
+===2014 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2014}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2013 which peaked in 2014
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+! References
+|-
+|November 9
+|"[[Counting Stars]]"
+| [[OneRepublic]]
+| align="center" |2
+|January 18
+| align="center" |25
+|align=center|<ref name="november23"/>
+|-
+|November 30
+|"[[Timber (Pitbull song)|Timber]]"
+| Pitbull featuring Kesha
+| align="center" |1 
+|January 18
+|align=center|17
+|align=center|<ref name="november30">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5793365/lordes-royals-reigns-on-hot-100-for-eighth-week|title=Lorde's 'Royals' Reigns On Hot 100 for Eighth Week|magazine=Billboard|date=November 20, 2013|access-date=November 20, 2013}}</ref>
+|-
+|December 7
+|"[[Let Her Go (Passenger song)|Let Her Go]]"{{ref label|ReEntryL|L}}
+| [[Passenger (singer)|Passenger]]
+| align="center" | 5
+|February 22
+| align="center" |12
+|align=center|<ref name="december7">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5800854/lorde-royals-hot-100-chart-nine-weeks-eminem|title=Lorde's 'Royals' Rules Hot 100 For Ninth Week|magazine=Billboard|date=November 27, 2013|access-date=November 27, 2013}}</ref>
+|-
+|}
+
+==Artists with most top-ten songs==
+[[File:Drake at Bun-B Concert 2011.jpg|thumb|right|upright|[[Drake (rapper)|Drake]] scored the most top ten hits in 2013 with four, including "[[Fuckin' Problems]]", "[[Started from the Bottom]]", "[[Love Me (Lil Wayne song)|Love Me]]" and "[[Hold On, We're Going Home]]".]]
+[[File:Lorde in Seattle 2013 -1.jpg|thumb|right|[[Lorde]]'s "[[Royals (Lorde song)|Royals]]" was the longest running top 10 single in 2013, spending 23 weeks in the top 10.]]
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ List of artists by total songs peaking in the top-ten
+! scope="col"| Artist
+! scope="col"| Numbers of songs
+|-
+! scope="row"| [[Drake (musician)|Drake]]
+| 4
+|-
+! scope="row"| [[Bruno Mars]]
+| rowspan="5" | 3
+|-
+! scope="row"| [[Eminem]]
+|-
+! scope="row"| [[Justin Timberlake]]
+|-
+! scope="row"| [[Maroon 5]]
+|-
+! scope="row"| [[Rihanna]]
+|-
+! scope="row"| [[Christina Aguilera]]
+| rowspan="11" | 2
+|-
+! scope="row"| [[Imagine Dragons]]
+|-
+! scope="row"| [[Jay-Z]]
+|-
+! scope="row"| [[Kesha]]
+|-
+! scope="row"| [[Lady Gaga]]
+|-
+! scope="row"| [[Macklemore & Ryan Lewis]]
+|-
+! scope="row"| [[Miley Cyrus]]
+|-
+! scope="row"| [[One Direction]]
+|-
+! scope="row"| [[Pharrell Williams]]
+|-
+! scope="row"| [[Pink (singer)|Pink]]
+|-
+! scope="row"| [[Pitbull (rapper)|Pitbull]]
+|-
+|}
+
+==See also==
+*[[2013 in American music]]
+*[[List of Billboard Hot 100 number ones of 2013|List of ''Billboard'' Hot 100 number ones of 2013]]
+*[[Billboard Year-End Hot 100 singles of 2013|''Billboard'' Year-End Hot 100 singles of 2013]]
+
+==Notes==
+
+:{{note label|ReEntryA|A}}The single re-entered the top ten on the week ending January 12, 2013.<ref name="jan122013">{{Cite magazine|url=http://www.billboard.com/articles/news/1481615/bruno-mars-locked-at-no-1-on-hot-100-taylor-swift-closing-in|magazine=Billboard|title=Bruno Mars 'Locked' at No. 1 on Hot 100, Taylor Swift Closing In|first=Gary|last=Trust|date=2013-01-03|access-date=2013-01-03}}</ref>
+:{{note label|ReEntryA|B}}The single re-entered the top ten on the week ending January 19, 2013.<ref name="jan192013">{{Cite magazine|url=http://www.billboard.com/articles/news/1484103/bruno-mars-still-atop-hot-100-william-britney-spears-enter-top-10|magazine=Billboard|title=
+Bruno Mars Still Atop Hot 100, Will.i.am & Britney Spears Enter Top 10|first=Gary|last=Trust|date=2013-01-09|access-date=2013-01-09}}</ref>
+:{{note label|ReEntryC|C}}The single re-entered the top ten on the week ending February 23, 2013.<ref name="feb232013" />
+:{{note label|ReEntryD|D}}The single re-entered the top ten on the week ending March 16, 2013.<ref>{{cite web|url=http://edit.billboard.com/articles/news/1550739/baauers-harlem-shake-still-atop-hot-100-although-lead-shrinks|title=Baauer's 'Harlem Shake' Still Atop Hot 100, Although Lead Shrinks|last=Trust|first=Gary|date=2013-03-06|access-date=2013-03-06}}</ref>
+:{{note label|ReEntryE|E}}The single re-entered the top ten on the week ending March 23, 2013.
+:{{note label|ReEntryF|F}}The single re-entered the top ten on the week ending May 11, 2013.
+:{{note label|ReEntryG|G}}The single re-entered the top ten on the week ending May 18, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/1560817/macklemore-ryan-lewis-cant-hold-us-tops-hot-100|title=Macklemore & Ryan Lewis' 'Can't Hold Us' Tops Hot 100|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]] |date=2013-05-08|access-date=2013-05-08}}</ref>
+:{{note label|ReEntryH|H}}The single re-entered the top ten on the week ending June 22, 2013.<ref>{{cite web|url=http://edit.billboard.com/articles/news/1566519/robin-thickes-blurred-lines-hits-no-1-on-hot-100|title=Robin Thicke's 'Blurred Lines' Hits No. 1 on Hot 100|last=Trust|first=Gary|date=2013-06-12|access-date=2013-06-12}}</ref>
+:{{note label|ReEntryI|I}} The single re-entered the top ten on the week ending July 13, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/1568859/robin-thickes-blurred-lines-holds-atop-hot-100|title=Robin Thicke's 'Blurred Lines' Holds Atop Hot 100|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]] |date=2013-07-03|access-date=2013-07-03}}</ref>
+:{{note label|ReEntryJ|J}} The single re-entered the top ten on the week ending September 21, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/5687387/katy-perrys-roar-rules-hot-100-for-second-week-lorde-reaches-top-3|title=Katy Perry's 'Roar' Rules Hot 100 For Second Week, Lorde Reaches Top 3|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]] |date=2013-09-11|access-date=2013-09-11}}</ref>
+:{{note label|ReEntryK|K}} The single re-entered the top ten on the week ending October 5, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/5733088/miley-cyrus-wrecking-ball-spends-second-week-atop-hot-100|title=Miley Cyrus' 'Wrecking Ball' Spends Second Week Atop Hot 100|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]] |date=2013-09-25|access-date=2013-09-25}}</ref>
+:{{note label|ReEntryL|L}} The single re-entered the top ten on the week ending December 21, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/5820081/eminem-rihanna-rule-hot-100-with-the-monster|title=Eminem, Rihanna Rule Hot 100 With 'The Monster'|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]] |date=2013-12-11|access-date=2013-12-11}}</ref>
+:{{note label|ReEntryM|M}} The single re-entered the top ten on the week ending December 28, 2013.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5840334/eminem-rihanna-remain-atop-hot-100-with-the-monster|magazine=Billboard|title=Eminem, Rihanna Remain Atop Hot 100 With 'The Monster'|first=Gary|last=Trust|date=2013-12-18|access-date=2013-11-18}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20051031005909/http://www.billboard.com/bbcom/index.jsp Billboard.com]
+*[http://www.billboard.biz Billboard.biz]
+*[http://www.billboard.com/#/charts/hot-100?begin=1&order=position The ''Billboard'' Hot 100]
+
+{{USTop10s}}
+{{billboard}}
+
+{{italic title|string=Billboard}}
+
+[[Category:2013 record charts|United States Hot 100 Top Ten Singles]]
+[[Category:Lists of Billboard Hot 100 top-ten singles|2013]]

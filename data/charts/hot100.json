@@ -1,0 +1,2429 @@
+{
+  "chart": "US Billboard Hot 100",
+  "years": [
+    2013,
+    2014,
+    2015
+  ],
+  "note": "Top-ten entries come from Wikipedia's yearly top-ten lists. Dates are Billboard chart issue dates. weeks_in_top_ten counts all weeks, including any re-entry, so the end of a run is approximate.",
+  "top_ten": [
+    {
+      "title": "Home",
+      "artist": "Phillip Phillips",
+      "entry_date": "2012-06-09",
+      "peak": 6,
+      "peak_date": "2013-01-19",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "I Knew You Were Trouble",
+      "artist": "Taylor Swift",
+      "entry_date": "2012-10-27",
+      "peak": 2,
+      "peak_date": "2013-01-12",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Beauty and a Beat",
+      "artist": "Justin Bieber featuring Nicki Minaj",
+      "entry_date": "2012-12-22",
+      "peak": 5,
+      "peak_date": "2013-01-05",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "entry_date": "2013-01-05",
+      "peak": 1,
+      "peak_date": "2013-02-02",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Scream & Shout",
+      "artist": "will.i.am and Britney Spears",
+      "entry_date": "2013-01-19",
+      "peak": 3,
+      "peak_date": "2013-02-16",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Don't You Worry Child",
+      "artist": "Swedish House Mafia featuring John Martin",
+      "entry_date": "2013-01-26",
+      "peak": 6,
+      "peak_date": "2013-02-09",
+      "weeks_in_top_ten": 6,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Suit & Tie",
+      "artist": "Justin Timberlake featuring Jay-Z",
+      "entry_date": "2013-02-02",
+      "peak": 3,
+      "peak_date": "2013-04-06",
+      "weeks_in_top_ten": 13,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Fuckin' Problems",
+      "artist": "ASAP Rocky featuring Drake, 2 Chainz and Kendrick Lamar",
+      "entry_date": "2013-02-09",
+      "peak": 8,
+      "peak_date": "2013-02-16",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Sweet Nothing",
+      "artist": "Calvin Harris featuring Florence Welch",
+      "entry_date": "2013-02-16",
+      "peak": 10,
+      "peak_date": "2013-02-16",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Try",
+      "artist": "Pink",
+      "entry_date": "2013-02-16",
+      "peak": 9,
+      "peak_date": "2013-02-16",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Daylight",
+      "artist": "Maroon 5",
+      "entry_date": "2013-02-23",
+      "peak": 7,
+      "peak_date": "2013-02-23",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "entry_date": "2013-02-23",
+      "peak": 1,
+      "peak_date": "2013-04-20",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "entry_date": "2013-03-02",
+      "peak": 1,
+      "peak_date": "2013-03-02",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Started from the Bottom",
+      "artist": "Drake",
+      "entry_date": "2013-03-02",
+      "peak": 6,
+      "peak_date": "2013-03-09",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Stay",
+      "artist": "Rihanna featuring Mikky Ekko",
+      "entry_date": "2013-03-02",
+      "peak": 3,
+      "peak_date": "2013-03-02",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Love Me",
+      "artist": "Lil Wayne featuring Future and Drake",
+      "entry_date": "2013-03-09",
+      "peak": 9,
+      "peak_date": "2013-03-23",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Just Give Me a Reason",
+      "artist": "Pink featuring Nate Ruess",
+      "entry_date": "2013-03-30",
+      "peak": 1,
+      "peak_date": "2013-04-27",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Feel This Moment",
+      "artist": "Pitbull featuring Christina Aguilera",
+      "entry_date": "2013-04-06",
+      "peak": 8,
+      "peak_date": "2013-04-06",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "entry_date": "2013-04-13",
+      "peak": 3,
+      "peak_date": "2013-07-06",
+      "weeks_in_top_ten": 20,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "The Way",
+      "artist": "Ariana Grande featuring Mac Miller",
+      "entry_date": "2013-04-13",
+      "peak": 9,
+      "peak_date": "2013-06-22",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Can't Hold Us",
+      "artist": "Macklemore and Ryan Lewis featuring Ray Dalton",
+      "entry_date": "2013-04-20",
+      "peak": 1,
+      "peak_date": "2013-05-18",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Cruise (Remix)",
+      "artist": "Florida Georgia Line featuring Nelly",
+      "entry_date": "2013-04-20",
+      "peak": 4,
+      "peak_date": "2013-07-06",
+      "weeks_in_top_ten": 14,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Heart Attack",
+      "artist": "Demi Lovato",
+      "entry_date": "2013-04-27",
+      "peak": 10,
+      "peak_date": "2013-04-27",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "entry_date": "2013-04-27",
+      "peak": 2,
+      "peak_date": "2013-06-15",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Gentleman",
+      "artist": "Psy",
+      "entry_date": "2013-05-04",
+      "peak": 5,
+      "peak_date": "2013-05-04",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "I Love It",
+      "artist": "Icona Pop featuring Charli XCX",
+      "entry_date": "2013-05-11",
+      "peak": 7,
+      "peak_date": "2013-05-18",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Come & Get It",
+      "artist": "Selena Gomez",
+      "entry_date": "2013-05-25",
+      "peak": 6,
+      "peak_date": "2013-05-25",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Get Lucky",
+      "artist": "Daft Punk featuring Pharrell Williams",
+      "entry_date": "2013-06-01",
+      "peak": 2,
+      "peak_date": "2013-06-29",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell Williams",
+      "entry_date": "2013-06-15",
+      "peak": 1,
+      "peak_date": "2013-06-22",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Treasure",
+      "artist": "Bruno Mars",
+      "entry_date": "2013-07-06",
+      "peak": 5,
+      "peak_date": "2013-08-03",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "entry_date": "2013-07-06",
+      "peak": 2,
+      "peak_date": "2013-08-03",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Cups (Pitch Perfect's \"When I'm Gone\")",
+      "artist": "Anna Kendrick",
+      "entry_date": "2013-07-20",
+      "peak": 6,
+      "peak_date": "2013-08-17",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Holy Grail",
+      "artist": "Jay-Z featuring Justin Timberlake",
+      "entry_date": "2013-07-27",
+      "peak": 4,
+      "peak_date": "2013-09-21",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Best Song Ever",
+      "artist": "One Direction",
+      "entry_date": "2013-08-10",
+      "peak": 2,
+      "peak_date": "2013-08-10",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Clarity",
+      "artist": "Zedd featuring Foxes",
+      "entry_date": "2013-08-17",
+      "peak": 8,
+      "peak_date": "2013-08-17",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Love Somebody",
+      "artist": "Maroon 5",
+      "entry_date": "2013-08-17",
+      "peak": 10,
+      "peak_date": "2013-08-17",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Safe and Sound",
+      "artist": "Capital Cities",
+      "entry_date": "2013-08-17",
+      "peak": 8,
+      "peak_date": "2013-09-07",
+      "weeks_in_top_ten": 6,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Applause",
+      "artist": "Lady Gaga",
+      "entry_date": "2013-08-31",
+      "peak": 4,
+      "peak_date": "2013-09-07",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "entry_date": "2013-08-31",
+      "peak": 1,
+      "peak_date": "2013-09-14",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Summertime Sadness (Remix)",
+      "artist": "Lana Del Rey featuring Cedric Gervais",
+      "entry_date": "2013-09-07",
+      "peak": 6,
+      "peak_date": "2013-09-21",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Wake Me Up!",
+      "artist": "Avicii",
+      "entry_date": "2013-09-07",
+      "peak": 4,
+      "peak_date": "2013-10-05",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Berzerk",
+      "artist": "Eminem",
+      "entry_date": "2013-09-14",
+      "peak": 3,
+      "peak_date": "2013-09-14",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "entry_date": "2013-09-14",
+      "peak": 1,
+      "peak_date": "2013-10-12",
+      "weeks_in_top_ten": 23,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Hold On, We're Going Home",
+      "artist": "Drake featuring Majid Jordan",
+      "entry_date": "2013-09-21",
+      "peak": 4,
+      "peak_date": "2013-10-12",
+      "weeks_in_top_ten": 13,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "entry_date": "2013-09-28",
+      "peak": 1,
+      "peak_date": "2013-09-28",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "The Fox (What Does the Fox Say?)",
+      "artist": "Ylvis",
+      "entry_date": "2013-10-12",
+      "peak": 6,
+      "peak_date": "2013-10-19",
+      "weeks_in_top_ten": 5,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Rap God",
+      "artist": "Eminem",
+      "entry_date": "2013-11-02",
+      "peak": 7,
+      "peak_date": "2013-11-02",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "entry_date": "2013-11-09",
+      "peak": 2,
+      "peak_date": "2014-01-18",
+      "weeks_in_top_ten": 25,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "entry_date": "2013-11-09",
+      "peak": 6,
+      "peak_date": "2013-12-07",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Story of My Life",
+      "artist": "One Direction",
+      "entry_date": "2013-11-16",
+      "peak": 6,
+      "peak_date": "2013-11-16",
+      "weeks_in_top_ten": 7,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "The Monster",
+      "artist": "Eminem featuring Rihanna",
+      "entry_date": "2013-11-16",
+      "peak": 1,
+      "peak_date": "2013-12-21",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Dope",
+      "artist": "Lady Gaga",
+      "entry_date": "2013-11-23",
+      "peak": 8,
+      "peak_date": "2013-11-23",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Timber",
+      "artist": "Pitbull featuring Kesha",
+      "entry_date": "2013-11-30",
+      "peak": 1,
+      "peak_date": "2014-01-18",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Let Her Go",
+      "artist": "Passenger",
+      "entry_date": "2013-12-07",
+      "peak": 5,
+      "peak_date": "2014-02-22",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Say Something",
+      "artist": "A Great Big World and Christina Aguilera",
+      "entry_date": "2013-12-14",
+      "peak": 4,
+      "peak_date": "2013-12-28",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Dark Horse",
+      "artist": "Katy Perry featuring Juicy J",
+      "entry_date": "2014-01-18",
+      "peak": 1,
+      "peak_date": "2014-02-08",
+      "weeks_in_top_ten": 22,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Pompeii",
+      "artist": "Bastille",
+      "entry_date": "2014-02-01",
+      "peak": 5,
+      "peak_date": "2014-03-15",
+      "weeks_in_top_ten": 15,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Team",
+      "artist": "Lorde",
+      "entry_date": "2014-02-01",
+      "peak": 6,
+      "peak_date": "2014-03-15",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Talk Dirty",
+      "artist": "Jason Derulo featuring 2 Chainz",
+      "entry_date": "2014-02-08",
+      "peak": 3,
+      "peak_date": "2014-02-22",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Drunk in Love",
+      "artist": "Beyoncé featuring Jay Z",
+      "entry_date": "2014-02-15",
+      "peak": 2,
+      "peak_date": "2014-02-15",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "entry_date": "2014-02-15",
+      "peak": 1,
+      "peak_date": "2014-03-08",
+      "weeks_in_top_ten": 22,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "All of Me",
+      "artist": "John Legend",
+      "entry_date": "2014-03-08",
+      "peak": 1,
+      "peak_date": "2014-05-17",
+      "weeks_in_top_ten": 23,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Let It Go",
+      "artist": "Idina Menzel",
+      "entry_date": "2014-03-22",
+      "peak": 5,
+      "peak_date": "2014-04-05",
+      "weeks_in_top_ten": 9,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "The Man",
+      "artist": "Aloe Blacc",
+      "entry_date": "2014-03-29",
+      "peak": 8,
+      "peak_date": "2014-04-12",
+      "weeks_in_top_ten": 5,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "We Might Be Dead by Tomorrow",
+      "artist": "Soko",
+      "entry_date": "2014-03-29",
+      "peak": 9,
+      "peak_date": "2014-03-29",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Turn Down for What",
+      "artist": "DJ Snake and Lil Jon",
+      "entry_date": "2014-04-12",
+      "peak": 4,
+      "peak_date": "2014-06-14",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Loyal",
+      "artist": "Chris Brown featuring Lil Wayne and French Montana or Too Short or Tyga",
+      "entry_date": "2014-05-03",
+      "peak": 9,
+      "peak_date": "2014-05-03",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Not a Bad Thing",
+      "artist": "Justin Timberlake",
+      "entry_date": "2014-05-03",
+      "peak": 8,
+      "peak_date": "2014-05-03",
+      "weeks_in_top_ten": 6,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "entry_date": "2014-05-10",
+      "peak": 1,
+      "peak_date": "2014-06-07",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Problem",
+      "artist": "Ariana Grande featuring Iggy Azalea",
+      "entry_date": "2014-05-17",
+      "peak": 2,
+      "peak_date": "2014-06-07",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Ain't It Fun",
+      "artist": "Paramore",
+      "entry_date": "2014-05-24",
+      "peak": 10,
+      "peak_date": "2014-05-24",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "A Sky Full of Stars",
+      "artist": "Coldplay",
+      "entry_date": "2014-05-31",
+      "peak": 10,
+      "peak_date": "2014-05-31",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Love Never Felt So Good",
+      "artist": "Michael Jackson and Justin Timberlake",
+      "entry_date": "2014-05-31",
+      "peak": 9,
+      "peak_date": "2014-05-31",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Am I Wrong",
+      "artist": "Nico & Vinz",
+      "entry_date": "2014-06-07",
+      "peak": 4,
+      "peak_date": "2014-07-05",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Wiggle",
+      "artist": "Jason Derulo featuring Snoop Dogg",
+      "entry_date": "2014-06-07",
+      "peak": 5,
+      "peak_date": "2014-06-21",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Rude",
+      "artist": "Magic!",
+      "entry_date": "2014-06-14",
+      "peak": 1,
+      "peak_date": "2014-07-26",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Summer",
+      "artist": "Calvin Harris",
+      "entry_date": "2014-06-14",
+      "peak": 7,
+      "peak_date": "2014-07-19",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Stay With Me",
+      "artist": "Sam Smith",
+      "entry_date": "2014-06-21",
+      "peak": 2,
+      "peak_date": "2014-08-16",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Maps",
+      "artist": "Maroon 5",
+      "entry_date": "2014-07-19",
+      "peak": 6,
+      "peak_date": "2014-08-09",
+      "weeks_in_top_ten": 8,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Latch",
+      "artist": "Disclosure featuring Sam Smith",
+      "entry_date": "2014-07-26",
+      "peak": 7,
+      "peak_date": "2014-08-09",
+      "weeks_in_top_ten": 4,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Chandelier",
+      "artist": "Sia",
+      "entry_date": "2014-08-09",
+      "peak": 8,
+      "peak_date": "2014-08-23",
+      "weeks_in_top_ten": 8,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "entry_date": "2014-08-16",
+      "peak": 1,
+      "peak_date": "2014-09-20",
+      "weeks_in_top_ten": 25,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande and Nicki Minaj",
+      "entry_date": "2014-08-16",
+      "peak": 3,
+      "peak_date": "2014-10-04",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Boom Clap",
+      "artist": "Charli XCX",
+      "entry_date": "2014-08-23",
+      "peak": 8,
+      "peak_date": "2014-10-04",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Black Widow",
+      "artist": "Iggy Azalea featuring Rita Ora",
+      "entry_date": "2014-08-30",
+      "peak": 3,
+      "peak_date": "2014-10-18",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Break Free",
+      "artist": "Ariana Grande featuring Zedd",
+      "entry_date": "2014-08-30",
+      "peak": 4,
+      "peak_date": "2014-08-30",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Anaconda",
+      "artist": "Nicki Minaj",
+      "entry_date": "2014-09-06",
+      "peak": 2,
+      "peak_date": "2014-09-06",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "entry_date": "2014-09-06",
+      "peak": 1,
+      "peak_date": "2014-09-06",
+      "weeks_in_top_ten": 24,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Don't Tell 'Em",
+      "artist": "Jeremih featuring YG",
+      "entry_date": "2014-10-04",
+      "peak": 6,
+      "peak_date": "2014-10-25",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Habits (Stay High)",
+      "artist": "Tove Lo",
+      "entry_date": "2014-10-11",
+      "peak": 3,
+      "peak_date": "2014-11-08",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Rather Be",
+      "artist": "Clean Bandit featuring Jess Glynne",
+      "entry_date": "2014-10-11",
+      "peak": 10,
+      "peak_date": "2014-10-11",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "entry_date": "2014-10-18",
+      "peak": 3,
+      "peak_date": "2014-11-22",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Hot Boy",
+      "artist": "Bobby Shmurda",
+      "entry_date": "2014-10-25",
+      "peak": 6,
+      "peak_date": "2014-11-22",
+      "weeks_in_top_ten": 6,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Don't",
+      "artist": "Ed Sheeran",
+      "entry_date": "2014-11-01",
+      "peak": 9,
+      "peak_date": "2014-11-15",
+      "weeks_in_top_ten": 3,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Take Me to Church",
+      "artist": "Hozier",
+      "entry_date": "2014-11-08",
+      "peak": 2,
+      "peak_date": "2014-12-20",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Love Me Harder",
+      "artist": "Ariana Grande and The Weeknd",
+      "entry_date": "2014-11-22",
+      "peak": 7,
+      "peak_date": "2014-11-22",
+      "weeks_in_top_ten": 7,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "entry_date": "2014-11-29",
+      "peak": 1,
+      "peak_date": "2014-11-29",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "I'm Not the Only One",
+      "artist": "Sam Smith",
+      "entry_date": "2014-11-29",
+      "peak": 5,
+      "peak_date": "2014-12-27",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Jealous",
+      "artist": "Nick Jonas",
+      "entry_date": "2014-11-29",
+      "peak": 7,
+      "peak_date": "2015-01-24",
+      "weeks_in_top_ten": 10,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "The Heart Wants What It Wants",
+      "artist": "Selena Gomez",
+      "entry_date": "2014-12-13",
+      "peak": 6,
+      "peak_date": "2014-12-13",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "entry_date": "2014-12-13",
+      "peak": 1,
+      "peak_date": "2015-01-17",
+      "weeks_in_top_ten": 31,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Lips Are Movin",
+      "artist": "Meghan Trainor",
+      "entry_date": "2014-12-20",
+      "peak": 4,
+      "peak_date": "2014-12-27",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2014"
+    },
+    {
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "entry_date": "2014-12-27",
+      "peak": 2,
+      "peak_date": "2015-01-31",
+      "weeks_in_top_ten": 23,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "entry_date": "2015-01-31",
+      "peak": 2,
+      "peak_date": "2015-03-28",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "entry_date": "2015-02-07",
+      "peak": 10,
+      "peak_date": "2015-02-07",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "FourFiveSeconds",
+      "artist": "Rihanna, Kanye West and Paul McCartney",
+      "entry_date": "2015-02-21",
+      "peak": 4,
+      "peak_date": "2015-02-28",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Love Me like You Do",
+      "artist": "Ellie Goulding",
+      "entry_date": "2015-02-21",
+      "peak": 3,
+      "peak_date": "2015-03-07",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Style",
+      "artist": "Taylor Swift",
+      "entry_date": "2015-02-28",
+      "peak": 6,
+      "peak_date": "2015-03-21",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Earned It",
+      "artist": "The Weeknd",
+      "entry_date": "2015-03-07",
+      "peak": 3,
+      "peak_date": "2015-05-02",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Time of Our Lives",
+      "artist": "Pitbull and Ne-Yo",
+      "entry_date": "2015-03-14",
+      "peak": 9,
+      "peak_date": "2015-03-21",
+      "weeks_in_top_ten": 4,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Lay Me Down",
+      "artist": "Sam Smith",
+      "entry_date": "2015-03-28",
+      "peak": 8,
+      "peak_date": "2015-03-28",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Trap Queen",
+      "artist": "Fetty Wap",
+      "entry_date": "2015-03-28",
+      "peak": 2,
+      "peak_date": "2015-05-16",
+      "weeks_in_top_ten": 25,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "G.D.F.R.",
+      "artist": "Flo Rida featuring Sage the Gemini and Lookas",
+      "entry_date": "2015-04-04",
+      "peak": 8,
+      "peak_date": "2015-04-18",
+      "weeks_in_top_ten": 7,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Somebody",
+      "artist": "Natalie La Rose featuring Jeremih",
+      "entry_date": "2015-04-11",
+      "peak": 10,
+      "peak_date": "2015-04-11",
+      "weeks_in_top_ten": 2,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "entry_date": "2015-04-18",
+      "peak": 1,
+      "peak_date": "2015-04-25",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Shut Up and Dance",
+      "artist": "Walk the Moon",
+      "entry_date": "2015-04-25",
+      "peak": 4,
+      "peak_date": "2015-05-30",
+      "weeks_in_top_ten": 18,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Want to Want Me",
+      "artist": "Jason Derulo",
+      "entry_date": "2015-05-09",
+      "peak": 5,
+      "peak_date": "2015-06-20",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Nasty Freestyle",
+      "artist": "T-Wayne",
+      "entry_date": "2015-05-16",
+      "peak": 9,
+      "peak_date": "2015-05-16",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Bad Blood",
+      "artist": "Taylor Swift featuring Kendrick Lamar",
+      "entry_date": "2015-06-06",
+      "peak": 1,
+      "peak_date": "2015-06-06",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Hey Mama",
+      "artist": "David Guetta featuring Nicki Minaj, Bebe Rexha and Afrojack",
+      "entry_date": "2015-06-06",
+      "peak": 8,
+      "peak_date": "2015-06-06",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Honey, I'm Good.",
+      "artist": "Andy Grammer",
+      "entry_date": "2015-06-20",
+      "peak": 9,
+      "peak_date": "2015-06-20",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "entry_date": "2015-06-27",
+      "peak": 1,
+      "peak_date": "2015-07-25",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "entry_date": "2015-07-11",
+      "peak": 1,
+      "peak_date": "2015-08-22",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Good for You",
+      "artist": "Selena Gomez featuring ASAP Rocky",
+      "entry_date": "2015-07-11",
+      "peak": 5,
+      "peak_date": "2015-10-03",
+      "weeks_in_top_ten": 11,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Watch Me (Whip/Nae Nae)",
+      "artist": "Silentó",
+      "entry_date": "2015-07-11",
+      "peak": 3,
+      "peak_date": "2015-07-18",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Fight Song",
+      "artist": "Rachel Platten",
+      "entry_date": "2015-07-18",
+      "peak": 6,
+      "peak_date": "2015-08-29",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Where Are Ü Now",
+      "artist": "Skrillex & Diplo with Justin Bieber",
+      "entry_date": "2015-07-18",
+      "peak": 8,
+      "peak_date": "2015-07-18",
+      "weeks_in_top_ten": 3,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Lean On",
+      "artist": "Major Lazer and DJ Snake featuring MØ",
+      "entry_date": "2015-08-01",
+      "peak": 4,
+      "peak_date": "2015-08-29",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "entry_date": "2015-08-01",
+      "peak": 1,
+      "peak_date": "2015-10-03",
+      "weeks_in_top_ten": 21,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "My Way",
+      "artist": "Fetty Wap featuring Monty",
+      "entry_date": "2015-08-08",
+      "peak": 7,
+      "peak_date": "2015-08-08",
+      "weeks_in_top_ten": 4,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Drag Me Down",
+      "artist": "One Direction",
+      "entry_date": "2015-08-22",
+      "peak": 3,
+      "peak_date": "2015-08-22",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "679",
+      "artist": "Fetty Wap featuring Remy Boyz",
+      "entry_date": "2015-09-05",
+      "peak": 4,
+      "peak_date": "2015-10-31",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Locked Away",
+      "artist": "R. City featuring Adam Levine",
+      "entry_date": "2015-09-12",
+      "peak": 6,
+      "peak_date": "2015-10-03",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "entry_date": "2015-09-19",
+      "peak": 1,
+      "peak_date": "2015-09-19",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "entry_date": "2015-09-26",
+      "peak": 10,
+      "peak_date": "2015-09-26",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "entry_date": "2015-10-03",
+      "peak": 2,
+      "peak_date": "2015-10-24",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Wildest Dreams",
+      "artist": "Taylor Swift",
+      "entry_date": "2015-10-10",
+      "peak": 5,
+      "peak_date": "2015-11-07",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Stitches",
+      "artist": "Shawn Mendes",
+      "entry_date": "2015-10-17",
+      "peak": 4,
+      "peak_date": "2015-11-07",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Perfect",
+      "artist": "One Direction",
+      "entry_date": "2015-11-07",
+      "peak": 10,
+      "peak_date": "2015-11-07",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "entry_date": "2015-11-14",
+      "peak": 1,
+      "peak_date": "2015-11-14",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Focus",
+      "artist": "Ariana Grande",
+      "entry_date": "2015-11-21",
+      "peak": 7,
+      "peak_date": "2015-11-21",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Like I'm Gonna Lose You",
+      "artist": "Meghan Trainor featuring John Legend",
+      "entry_date": "2015-11-21",
+      "peak": 8,
+      "peak_date": "2015-12-12",
+      "weeks_in_top_ten": 10,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    },
+    {
+      "title": "Ex's & Oh's",
+      "artist": "Elle King",
+      "entry_date": "2015-11-28",
+      "peak": 10,
+      "peak_date": "2015-11-28",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2015"
+    }
+  ],
+  "number_ones": [
+    {
+      "week": "2013-01-05",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-01-12",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-01-19",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-01-26",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-02-02",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-02-09",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-02-16",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-02-23",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-03-02",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-03-09",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-03-16",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-03-23",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-03-30",
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-04-06",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-04-13",
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis featuring Wanz",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-04-20",
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-04-27",
+      "title": "Just Give Me a Reason",
+      "artist": "Pink featuring Nate Ruess",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-05-04",
+      "title": "Just Give Me a Reason",
+      "artist": "Pink featuring Nate Ruess",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-05-11",
+      "title": "Just Give Me a Reason",
+      "artist": "Pink featuring Nate Ruess",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-05-18",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis featuring Ray Dalton",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-05-25",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis featuring Ray Dalton",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-06-01",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis featuring Ray Dalton",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-06-08",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis featuring Ray Dalton",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-06-15",
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis featuring Ray Dalton",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-06-22",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-06-29",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-07-06",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-07-13",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-07-20",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-07-27",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-08-03",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-08-10",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-08-17",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-08-24",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-08-31",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-09-07",
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke featuring T.I. and Pharrell",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-09-14",
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-09-21",
+      "title": "Roar",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-09-28",
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-10-05",
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-10-12",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-10-19",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-10-26",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-11-02",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-11-09",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-11-16",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-11-23",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-11-30",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-12-07",
+      "title": "Royals",
+      "artist": "Lorde",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-12-14",
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-12-21",
+      "title": "The Monster",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2013-12-28",
+      "title": "The Monster",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2013"
+    },
+    {
+      "week": "2014-01-04",
+      "title": "The Monster",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-01-11",
+      "title": "The Monster",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-01-18",
+      "title": "Timber",
+      "artist": "Pitbull featuring Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-01-25",
+      "title": "Timber",
+      "artist": "Pitbull featuring Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-02-01",
+      "title": "Timber",
+      "artist": "Pitbull featuring Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-02-08",
+      "title": "Dark Horse",
+      "artist": "Katy Perry featuring Juicy J",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-02-15",
+      "title": "Dark Horse",
+      "artist": "Katy Perry featuring Juicy J",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-02-22",
+      "title": "Dark Horse",
+      "artist": "Katy Perry featuring Juicy J",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-03-01",
+      "title": "Dark Horse",
+      "artist": "Katy Perry featuring Juicy J",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-03-08",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-03-15",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-03-22",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-03-29",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-04-05",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-04-12",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-04-19",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-04-26",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-05-03",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-05-10",
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-05-17",
+      "title": "All of Me",
+      "artist": "John Legend",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-05-24",
+      "title": "All of Me",
+      "artist": "John Legend",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-05-31",
+      "title": "All of Me",
+      "artist": "John Legend",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-06-07",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-06-14",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-06-21",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-06-28",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-07-05",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-07-12",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-07-19",
+      "title": "Fancy",
+      "artist": "Iggy Azalea featuring Charli XCX",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-07-26",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-08-02",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-08-09",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-08-16",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-08-23",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-08-30",
+      "title": "Rude",
+      "artist": "Magic!",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-09-06",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-09-13",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-09-20",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-09-27",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-10-04",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-10-11",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-10-18",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-10-25",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-11-01",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-11-08",
+      "title": "All About That Bass",
+      "artist": "Meghan Trainor",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-11-15",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-11-22",
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-11-29",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-12-06",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-12-13",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-12-20",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2014-12-27",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2014"
+    },
+    {
+      "week": "2015-01-03",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-01-10",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-01-17",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-01-24",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-01-31",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-02-07",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-02-14",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-02-21",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-02-28",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-03-07",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-03-14",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-03-21",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-03-28",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-04-04",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-04-11",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-04-18",
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-04-25",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-05-02",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-05-09",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-05-16",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-05-23",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-05-30",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-06-06",
+      "title": "Bad Blood",
+      "artist": "Taylor Swift featuring Kendrick Lamar",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-06-13",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-06-20",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-06-27",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-07-04",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-07-11",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-07-18",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa featuring Charlie Puth",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-07-25",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-08-01",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-08-08",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-08-15",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-08-22",
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-08-29",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-09-05",
+      "title": "Cheerleader",
+      "artist": "Omi",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-09-12",
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-09-19",
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-09-26",
+      "title": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-10-03",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-10-10",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-10-17",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-10-24",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-10-31",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-11-07",
+      "title": "The Hills",
+      "artist": "The Weeknd",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-11-14",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-11-21",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-11-28",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-12-05",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-12-12",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-12-19",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    },
+    {
+      "week": "2015-12-26",
+      "title": "Hello",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2015"
+    }
+  ]
+}

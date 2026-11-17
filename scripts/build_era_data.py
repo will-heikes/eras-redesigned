@@ -169,6 +169,7 @@ def strip_template_calls(text, names):
 def clean(text):
     """Wikitext fragment -> plain text."""
     text = strip_template_calls(text, ["efn", "sfn", "refn", "abbr\\|Ref"])
+    text = re.sub(r"\{\{\s*nbsp\s*\}\}", " ", text, flags=re.I)
     text = re.sub(r"\{\{\s*(?:won|Won)\s*\}\}", "Won", text)
     text = re.sub(r"\{\{\s*(?:nom|Nom)\s*\}\}", "Nominated", text)
     text = re.sub(r"\{\{\s*pending\s*\}\}", "Pending", text, flags=re.I)

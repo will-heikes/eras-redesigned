@@ -1,0 +1,590 @@
+{{short description|None}}
+
+{{primary sources|date=December 2014}}
+
+[[File:ArianaGrandeDecember2013.jpg|thumb|right|upright|[[Ariana Grande]] scored the most top ten hits in 2014 with four, including "[[Problem (Ariana Grande song)|Problem]]", "[[Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)|Bang Bang]]", "[[Break Free (Ariana Grande song)|Break Free]]" and "[[Love Me Harder]]".]]
+
+This is a list of singles that charted in the top ten of the [[Billboard Hot 100|''Billboard'' Hot 100]], an all-genre singles chart, in 2014.
+
+During the year, 59 songs (including those who peaked in 2013 and 2015 prior to their entry) and 66 acts charted in the tier, and 28 of these acts scored their first top-ten single in the US either as a lead or featured artist. [[Ariana Grande]] had the most top tens in 2014, with four, while [[Pharrell Williams|Pharrell Willams]]'s single "[[Happy (Pharrell Williams song)|Happy]]" became the longest-running number one song in the U.S., spending ten consecutive weeks in the countdown; and [[OneRepublic]]'s "[[Counting Stars]]" and [[Meghan Trainor]]'s "[[All About That Bass]]" became the longest top-ten singles of the year, spending twenty-five consecutive weeks in the tier. [[John Legend]]'s first top ten hit "[[All of Me (John Legend song)|All of Me]]" became the third-longest ascent to number one after [[Los del Río|Los del Rio]]'s hit song "[[Macarena (song)|Macarena]]" and [[Lonestar]]'s [[Amazed]], reached on its thirtieth week, and spending twenty-three weeks in the top 10.
+
+==Top-ten singles==
+'''Key'''
+*{{Color box|#99FFFF|{{up-arrow}}|border=silver}} – indicates single's top 10 entry was also its Hot 100 debut
+*{{Color box|#FFFF00|{{dagger}}|border=silver}} – indicates Best performing song of the year
+*{{small|(#)}} – 2014 year-end top 10 single position and rank
+*The "weeks in top ten" column reflects each song's entire chart life, not just its run during 2014.
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles which peaked in 2014
+!Top ten<br/>entry date
+!Single
+!Artist(s)
+! data-sort-type="number" | Peak 
+!Peak date
+! data-sort-type="number" | Weeks in<br />top ten
+!References
+|-
+!colspan=7|[[List of Billboard Hot 100 top-ten singles in 2013#2014 peaks|Singles from 2013]]
+|-
+|November 9
+|"[[Counting Stars]]" {{small|(#5)}}
+| [[OneRepublic]]
+| align="center" |2
+|January 18
+| align="center" |25
+|align=center|<ref name="november23">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5785931/lordes-royals-leads-hot-100-lady-gagas-dope-debuts-at-no-8|title=Lorde's 'Royals' Leads Hot 100, Lady Gaga's 'Dope' Debuts At No. 8|magazine=Billboard|publisher=Prometheus Global Media|date=November 13, 2013|accessdate=November 13, 2013}}</ref><ref name="january18">{{Cite magazine|url=http://www.billboard.com/articles/news/5862620/pitbull-kesha-take-timber-to-top-of-hot-100|magazine=Billboard|title=Pitbull, Ke$ha Take 'Timber' to Top of Hot 100|first=Gary|last=Trust|date=2014-01-08|accessdate=2014-01-08}}</ref>
+|-
+|November 30
+|"[[Timber (Pitbull song)|Timber]]"
+| [[Pitbull (rapper)|Pitbull]] featuring [[Kesha]]
+| align="center" |1 
+|January 18
+|align=center|17
+|align=center|<ref name="january18" /><ref name="november30">{{Cite magazine|url=http://www.billboard.com/articles/news/5793365/lordes-royals-reigns-on-hot-100-for-eighth-week|magazine=Billboard|title=Lorde's 'Royals' Reigns On Hot 100 for Eighth Week|first=Gary|last=Trust|date=2013-11-20|accessdate=2013-11-20}}</ref>
+|-
+|December 7
+|"[[Let Her Go]]"
+| [[Passenger (singer)|Passenger]]
+| align="center" |5
+|February 22
+| align="center" |12
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5800854/lorde-royals-hot-100-chart-nine-weeks-eminem|magazine=Billboard|title=Lorde's 'Royals' Rules Hot 100 For Ninth Week|first=Gary|last=Trust|date=2013-11-27|accessdate=2013-11-27}}</ref><ref name=":0">{{Cite magazine|url=http://www.billboard.com/articles/news/5901262/katy-perry-rules-hot-100-pharrell-flies-to-no-2|title=Katy Perry Rules Hot 100, Pharrell Flies to No. 2|magazine=[[Billboard (magazine)|Billboard]] |access-date=2016-06-25}}</ref>
+|-
+!colspan=7|Singles from 2014
+|-
+|January 18
+|"[[Dark Horse (Katy Perry song)|Dark Horse]]" {{small|(#2)}}
+| [[Katy Perry]] featuring [[Juicy J]]
+| align="center" |1
+|February 8
+| align="center" |22
+|align=center|<ref name="Trust">{{Cite magazine|url=http://www.billboard.com/articles/news/5885830/katy-perry-dark-horse-hot-100-no-1|magazine=Billboard|title=Katy Perry's 'Dark Horse' Gallops to No. 1 On Hot 100|first=Gary|last=Trust|date=2014-01-29|accessdate=2014-01-29}}</ref>
+|-
+|rowspan=2|February 1
+|"[[Pompeii (Bastille song)|Pompeii]]"{{ref label|ReEntryD|D}}
+| [[Bastille (band)|Bastille]]
+| align="center" |5
+|March 15
+| align="center" |15
+|align=center|<ref name=":1" />
+|-
+|"[[Team (Lorde song)|Team]]"
+| [[Lorde]]
+| align="center" |6
+|March 15
+| align="center" |14
+|align=center|<ref name=":1">{{Cite magazine|url=http://www.billboard.com/articles/news/5877859/pitbull-kehas-timber-still-tops-hot-100-bastille-lorde-reach-top-10|magazine=Billboard|title=Pitbull & Ke$ha's 'Timber' Still Tops Hot 100; Bastille, Lorde Reach Top 10|first=Gary|last=Trust|date=2014-01-22|accessdate=2014-01-26}}</ref>
+|-
+|February 8
+|"[[Talk Dirty (Jason Derulo song)|Talk Dirty]]" {{small|(#6)}}
+| [[Jason Derulo]] featuring [[2 Chainz]]
+| align="center" |3
+|February 22
+| align="center" |18
+|align=center|<ref name=":0" /><ref name="Trust"/>
+|-
+|rowspan=2|February 15
+|"[[Drunk in Love]]"
+| [[Beyoncé]] featuring [[Jay Z]]
+| align="center" |2
+|February 15
+| align="center" |8
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5894008/katy-perry-tops-hot-100-beyonce-bounds-to-no-2|magazine=Billboard|title=Katy Perry Tops Hot 100, Beyonce Bounds to No. 2|first=Gary|last=Trust|date=2014-02-05|accessdate=2014-02-05}}</ref>
+|-
+|style= "background:#FFFF00" |"[[Happy (Pharrell Williams song)|Happy]]" {{dagger}} {{small|(#1)}}
+| [[Pharrell Williams]]
+| align="center" |1
+|March 8
+| align="center" |22
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5915783/pharrell-williams-happy-hits-no-1-on-hot-100|magazine=Billboard|title=Pharrell Williams' 'Happy' Hits No. 1 On Hot 100|first=Gary|last=Trust|date=2014-02-26|accessdate=2014-02-26}}</ref>
+|-
+|March 8
+|"[[All of Me (John Legend song)|All of Me]]" {{small|(#3)}}
+| [[John Legend]]
+| align="center" |1
+|May 17
+| align="center" |23
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/6021173/pharrell-williams-leads-hot-100-john-legend-idina-menzel-on-the-move|magazine=Billboard|title=Pharrell Williams Leads Hot 100; John Legend, Idina Menzel On the Move|first=Gary|last=Trust|date=2014-03-26|accessdate=2014-03-26}}</ref>
+|-
+|March 22
+|"[[Let It Go (Disney song)#Idina Menzel version|Let It Go]]"{{ref label|ReEntryE|E}}
+| [[Idina Menzel]]
+| align="center" |5
+|April 5
+| align="center" |9
+|align=center|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5930474/pharrell-williams-idina-menzel-ride-oscar-gains-on-hot-100|title=Pharrell Williams, Idina Menzel Ride Oscar Gains On Hot 100|magazine=Billboard|publisher=Prometheus Global Media|date=March 12, 2014|accessdate=March 12, 2014}}</ref>
+|-
+|rowspan=2|March 29
+|bgcolor = #99FFFF | "[[We Might Be Dead by Tomorrow|We Might Be Dead by<br />Tomorrow]]" {{up-arrow}}
+| [[Soko (singer)|Soko]]
+| align="center" |9
+|March 29
+| align="center" |1
+|align=center|<ref>{{cite magazine|first=William|last=Gruger|url=https://www.billboard.com/pro/viral-first-kiss-video-sends-soko-to-no-1-debut-on-streaming/|title='First Kiss' Video Sends Soko to No. 1 Debut On Streaming Songs, Top 10 Start On Hot 100|magazine=Billboard|publisher=Prometheus Global Media|date=March 19, 2014|access-date=March 19, 2014}}</ref>
+|-
+|"[[The Man (Aloe Blacc song)|The Man]]"
+| [[Aloe Blacc]]
+| align="center" |8
+|April 12
+| align="center" |5
+|align=center|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5937710/pharrell-williams-tops-hot-100-again-soko-surprises-with-top-10-debut|title=Pharrell Williams Tops Hot 100 Again; Soko Surprises With Top 10 Debut|magazine=Billboard|publisher=Prometheus Global Media|date=March 19, 2014|accessdate=March 19, 2014}}</ref>
+|-
+|April 12
+|"[[Turn Down for What]]"
+| [[DJ Snake]] and [[Lil Jon]]
+| align="center" |4
+|June 14
+| align="center" |15
+|align=center|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/6032600/pharrell-williams-happy-hot-100-dj-snake-lil-jon-hit-top-10|title=Pharrell Williams' 'Happy' Holds Atop Hot 100; DJ Snake & Lil Jon Hit Top 10|magazine=Billboard|publisher=Prometheus Global Media|date=April 2, 2014|accessdate=April 2, 2014}}
+</ref>
+|-
+|rowspan=2|May 3
+|"[[Loyal (Chris Brown song)|Loyal]]"
+| [[Chris Brown]] featuring [[Lil Wayne]] and <br/>[[French Montana]] or [[Too Short]] or [[Tyga]]
+| align="center" |9
+|May 3
+| align="center" |2
+|align=center|
+|-
+|"[[Not a Bad Thing]]"
+| [[Justin Timberlake]]
+|align="center" |8
+|May 3
+| align="center" |6
+|align=center|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/biz/articles/6062908/pharrell-williams-still-atop-hot-100-justin-timberlake-chris-brown-reach-top-10|title=Pharrell Williams Still Atop Hot 100; Justin Timberlake, Chris Brown Reach Top 10|magazine=Billboard|publisher=Prometheus Global Media|date=April 23, 2014|accessdate=April 23, 2014}}</ref>
+|-
+|May 10
+|"[[Fancy (Iggy Azalea song)|Fancy]]" {{small|(#4)}}
+| [[Iggy Azalea]] featuring [[Charli XCX]]
+|align="center" |1
+|June 7
+| align="center" |17
+|align="center"|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/6070358/pharrell-williams-tops-hot-100-chart-10-weeks-iggy-azalea-top-10|title=Pharrell Williams Tops Hot 100 For 10th Week, Iggy Azalea Vaults Into Top 10|magazine=Billboard|publisher=Prometheus Global Media|date=April 30, 2014|accessdate=April 30, 2014}}</ref>
+|-
+|May 17
+|bgcolor = #99FFFF | "[[Problem (Ariana Grande song)|Problem]]" {{small|(#9)}} {{up-arrow}}
+| [[Ariana Grande]] featuring Iggy Azalea
+|align="center" |2
+|June 7
+| align="center" |16
+|align="center"|
+|-
+|May 24
+|"[[Ain't It Fun (Paramore song)|Ain't It Fun]]" 
+| [[Paramore]] 
+|align="center" |10
+|May 24
+| align="center" |1
+|align="center"|
+|-
+|rowspan=2|May 31
+|"[[Love Never Felt So Good]]" 
+| [[Michael Jackson]] and Justin Timberlake 
+|align="center" |9
+|May 31
+| align="center" |1
+|align="center"|
+|-
+|"[[A Sky Full of Stars]]" 
+| [[Coldplay]] 
+|align="center" |10
+|May 31
+| align="center" |1
+|align="center"|
+|-
+|rowspan=2|June 7
+|"[[Am I Wrong (song)|Am I Wrong]]"
+|[[Nico & Vinz]]
+|align="center" |4
+|July 5
+| align="center" |14
+|align="center"|<ref>{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/6099390/iggy-azalea-tops-hot-100-fancy-matches-beatles|title=Iggy Azalea Tops Hot 100 With 'Fancy,' Matches Beatles' Historic Mark|magazine=Billboard|publisher=Prometheus Global Media|date=May 28, 2014|accessdate=May 28, 2014}}</ref>
+|-
+|"[[Wiggle (Jason Derulo song)|Wiggle]]"
+|Jason Derulo featuring [[Snoop Dogg]]
+|align="center" |5
+|June 21
+| align="center" |9
+|align="center"|
+|-
+|rowspan=2|June 14
+|"[[Rude (song)|Rude]]" {{small|(#7)}}
+|[[Magic! (band)|Magic!]]
+|align="center" |1
+|July 26
+| align="center" |16
+|align="center"|
+|-
+|"[[Summer (Calvin Harris song)|Summer]]"
+|[[Calvin Harris]]
+|align="center" |7
+|July 19
+| align="center" |9
+|align="center"|
+|-
+|June 21
+|"[[Stay with Me (Sam Smith song)|Stay With Me]]"{{small|(#10)}} 
+|[[Sam Smith (singer)|Sam Smith]]
+|align="center" |2
+|August 16
+| align="center" |21
+|align="center"|
+|-
+|July 19 
+|"[[Maps (Maroon 5 song)|Maps]]"{{ref label|ReEntryG|G}}
+|[[Maroon 5]]
+|align="center" |6
+|August 9
+| align="center" |8
+|align="center"|
+|-
+|July 26
+|"[[Latch (song)|Latch]]"
+|[[Disclosure (band)|Disclosure]] featuring Sam Smith
+|align="center" |7
+|August 9
+| align="center" |4
+|align="center"|
+|-
+|August 9
+|"[[Chandelier (song)|Chandelier]]"{{ref label|ReEntryI|I}}
+|[[Sia]]
+|align="center" |8
+|August 23
+| align="center" |8
+|align="center"|
+|-
+|rowspan=2|August 16
+|bgcolor = #99FFFF | "[[Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)|Bang Bang]]" {{up-arrow}}
+|[[Jessie J]], Ariana Grande and [[Nicki Minaj]] 
+|align="center" |3
+|October 4
+| align="center" |16
+|align="center"|
+|-
+|"[[All About That Bass]]" {{small|(#8)}}
+|[[Meghan Trainor]]
+|align="center" |1
+|{{nowrap|September 20}}
+| align="center" |25
+|align="center"|
+|-
+|August 23
+|"[[Boom Clap]]"{{ref label|ReEntryF|F}} {{ref label|ReEntryH|H}}
+|Charli XCX
+|align="center" |8
+|October 4
+| align="center" |4
+|align="center"|
+|-
+|rowspan=2|August 30
+|"[[Black Widow (Iggy Azalea song)|Black Widow]]"
+|Iggy Azalea featuring [[Rita Ora]]
+|align="center" |3
+|October 18
+| align="center" |13
+|align="center"|
+|-
+|"[[Break Free (song)|Break Free]]"
+|Ariana Grande featuring [[Zedd (musician)|Zedd]]
+|align="center" |4
+|August 30
+| align="center" |8
+|align="center"|
+|-
+|rowspan=2|September 6 
+|bgcolor = #99FFFF | "[[Shake It Off]]" {{up-arrow}}
+|[[Taylor Swift]] 
+|align="center" |1
+|September 6 
+| align="center" |24
+|align="center"|
+|-
+|"[[Anaconda (Nicki Minaj song)|Anaconda]]"
+|Nicki Minaj 
+|align="center" |2
+|September 6 
+| align="center" |8
+|align="center"|
+|-
+|October 4
+|"[[Don't Tell 'Em]]"
+|[[Jeremih]] featuring [[YG (rapper)|YG]]
+|align="center" |6
+|October 25
+| align="center" |8
+|align="center"|
+|-
+|rowspan=2|October 11
+|"[[Habits (Stay High)]]"
+|[[Tove Lo]]
+|align="center" |3
+|November 8
+| align="center" |10
+|align="center"|
+|-
+|"[[Rather Be]]"
+|[[Clean Bandit]] featuring [[Jess Glynne]]
+|align="center" |10
+|October 11
+| align="center" |1
+|align="center"|
+|-
+|October 18
+|"[[Animals (Maroon 5 song)|Animals]]"
+|Maroon 5
+|align="center"|3
+|November 22
+| align="center" |14
+|align=center|
+|-
+|October 25
+|"[[Hot Nigga|Hot Boy]]"
+|[[Bobby Shmurda]]
+|align="center"|6
+|November 22
+| align="center" |6
+|align=center|
+|-
+|November 1
+|"[[Don't (Ed Sheeran song)|Don't]]"{{ref label|ReEntryJ|J}} {{ref label|ReEntryK|K}}
+|[[Ed Sheeran]]
+|align="center"|9
+|November 15
+| align="center" |3
+|align=center|
+|-
+|November 8
+|"[[Take Me to Church]]"
+|[[Hozier]]
+|align="center"|2
+|December 20
+| align="center" |20
+|align=center|
+|-
+|November 22
+|"[[Love Me Harder]]"{{ref label|ReEntryK|K}}
+|Ariana Grande and [[The Weeknd]]
+|align="center"|7
+|November 22
+| align="center" |7
+|align=center|
+|-
+|rowspan=2|November 29
+|"[[Blank Space]]"
+|Taylor Swift
+|align="center"|1
+|November 29
+| align="center" |17
+|align=center|<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-blank-space-hot-100/|magazine=Billboard|title=Taylor Swift Makes Hot 100 History With 'Blank Space'|first=Gary|last=Trust|date=2014-11-19|access-date=2014-11-19}}</ref>
+|-
+|"[[I'm Not the Only One]]"
+|Sam Smith
+|align="center"|5
+|December 27
+| align="center" |14
+|align=center|
+|-
+|December 13 
+|"[[The Heart Wants What It Wants]]"
+|[[Selena Gomez]]
+|align="center"|6
+|December 13
+| align="center" |1
+|align=center|<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-taylor-swift-no-1-selena-gomez-mark-ronson/|magazine=Billboard|title=Taylor Swift No. 1 on the Hot 100, Selena Gomez, Mark Ronson Hit Top 10|first=Gary|last=Trust|date=2014-12-03|access-date=2014-12-03}}</ref> 
+|-
+|December 20
+|"[[Lips Are Movin]]"
+|Meghan Trainor 
+|align="center"|4
+|December 27
+| align="center" |12 
+|align=center|<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-meghan-trainor-hot-100/|magazine=Billboard|title=Taylor Swift Tops Hot 100, Meghan Trainor Scores Second Top 10|first=Gary|last=Trust|date=2014-12-10|access-date=2014-12-10}}</ref> 
+|-
+|}
+
+===2013 peaks===
+
+{{main article|List of Billboard Hot 100 top-ten singles in 2013}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2014 which peaked in 2013
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+! References
+|-
+|August 31
+|"[[Roar (song)|Roar]]"{{ref label|ReEntryA|A}}
+|[[Katy Perry]]
+|align=center|1
+|September 14
+|align=center|17
+|align=center|<ref name="august31">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5660927/robin-thicke-no-1-katy-perry-no-2-on-hot-100|title=Robin Thicke No. 1, Katy Perry No. 2 On Hot 100|magazine=Billboard|publisher=Prometheus Global Media|date=August 21, 2013|accessdate=August 21, 2013}}</ref>
+|-
+|September 7
+|"[[Wake Me Up (Avicii song)|Wake Me Up!]]"
+|[[Avicii]]
+|align=center|4
+|October 5 
+|align=center|21
+|align=center|<ref name="september7">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5672768/robin-thicke-leads-hot-100-katy-perry-holds-at-no-2|title=Robin Thicke Leads Hot 100, Katy Perry Holds At No. 2|magazine=Billboard|publisher=Prometheus Global Media|date=August 28, 2013|accessdate=August 28, 2013}}</ref>
+|-
+|September 14
+|"[[Royals (Lorde song)|Royals]]"
+|[[Lorde]]
+|align=center|1
+|October 12
+|align=center|23
+|align=center|<ref name="october12">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5740767/lordes-royals-crowns-hot-100|title=Lorde's 'Royals' Crowns Hot 100|magazine=Billboard|publisher=Prometheus Global Media|date=October 2, 2013|accessdate=October 2, 2013}}</ref>
+|-
+|rowspan|September 28
+|"[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]"{{ref label|ReEntryB|B}}
+|[[Miley Cyrus]]
+|align=center|1
+|September 28
+|align=center|16
+|align=center|<ref name="september28">{{cite news|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5695590/miley-cyrus-wrecking-ball-swings-to-top-of-hot-100|title=Miley Cyrus' 'Wrecking Ball' Swings Atop Hot 100|date=September 18, 2013|accessdate=September 18, 2013}}</ref>
+|-
+|November 9
+|"[[Demons (Imagine Dragons song)|Demons]]"
+| [[Imagine Dragons]]
+|align=center|6
+|December 7
+| align="center" |12
+|align=center|<ref name="november9">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5770722/lordes-royals-crowns-hot-100-for-fifth-week|title=Lorde's 'Royals' Crowns Hot 100 For Fifth Week|magazine=Billboard|publisher=Prometheus Global Media|date=October 30, 2013|accessdate=October 30, 2013}}</ref>
+|-
+|rowspan=2|November 16
+|bgcolor = #99FFFF | "[[The Monster (song)|The Monster]]" {{up-arrow}}
+| [[Eminem]] featuring [[Rihanna]]
+| align="center" |1
+|December 21
+| align="center" |13
+|align=center|<ref name="november23"/>
+|-
+|bgcolor = #99FFFF | "[[Story of My Life (One Direction song)|Story of My Life]]" {{up-arrow}}{{ref label|ReEntryC|C}}
+| [[One Direction]]
+|align=center|6
+|November 16
+| align="center" |7 
+|align=center|<ref name="november16">{{cite magazine|first=Gary|last=Trust|url=http://www.billboard.com/articles/news/5778259/lordes-royals-rules-hot-100-for-sixth-week|title=Lorde's 'Royals' Rules Hot 100 For Sixth Week|magazine=Billboard|publisher=Prometheus Global Media|date=November 6, 2013|accessdate=November 6, 2013}}</ref>
+|-
+|December 14 
+|"[[Say Something (A Great Big World song)|Say Something]]"
+|[[A Great Big World]] and [[Christina Aguilera]]
+| align="center" | 4 
+|December 28
+| align="center" |14
+|align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5812407/miley-cyrus-wrecking-ball-swings-back-to-no-1-on-hot-100|magazine=Billboard|title=Miley Cyrus' 'Wrecking Ball' Swings Back To No. 1 On Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2013-12-04|accessdate=2013-12-05}}</ref>
+|-
+|}
+
+===2015 peaks===
+{{main article|List of Billboard Hot 100 top-ten singles in 2015}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2014 which peaked in 2015
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+! References
+|-
+|November 29
+|"[[Jealous (Nick Jonas song)|Jealous]]"{{ref label|ReEntryL|L}}
+|[[Nick Jonas]]
+|align="center"|7
+|January 24
+| align="center" |10
+|align=center|
+|-
+|December 13
+|"[[Uptown Funk]]"
+|[[Mark Ronson]] featuring [[Bruno Mars]]
+|align="center"|1
+|January 17
+| align="center" |31 
+| align="center" |
+|-
+|December 27
+|"[[Thinking Out Loud]]"
+|Ed Sheeran
+|align="center"|2
+|January 31
+| align="center" |23 
+| align="center" |
+|-
+|}
+
+==Artists with most top-ten songs==
+[[File:ArianaGrandeDecember2013.jpg|thumb|right|upright|[[Ariana Grande]] scored the most top ten hits in 2014 with four, including "[[Problem (Ariana Grande song)|Problem]]", "[[Bang Bang (Jessie J, Ariana Grande and Nicki Minaj song)|Bang Bang]]", "[[Break Free (Ariana Grande song)|Break Free]]" and "[[Love Me Harder]]".]]
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ List of artists by total songs peaking in the top-ten
+! scope="col"| Artist
+! scope="col"| Numbers of songs
+|-
+! scope="row"| [[Ariana Grande]]
+| 4
+|-
+! scope="row"| [[Iggy Azalea]]
+| rowspan="2" | 3
+|-
+! scope="row"| [[Sam Smith]]
+|-
+! scope="row"| [[Charli XCX]]
+| rowspan="7" | 2
+|-
+! scope="row"| [[Ed Sheeran]]
+|-
+! scope="row"| [[Jason Derulo]]
+|-
+! scope="row"| [[Justin Timberlake]]
+|-
+! scope="row"| [[Maroon 5]]
+|-
+! scope="row"| [[Meghan Trainor]]
+|-
+! scope="row"| [[Nicki Minaj]]
+|-
+|}
+
+==Notes==
+:{{note label|ReEntryA|A}}The single re-entered the top ten on the week ending January 11, 2014.<ref name="jan112014">{{Cite magazine|url=http://www.billboard.com/articles/news/5855137/eminem-rihanna-rule-hot-100-for-a-fourth-week-miley-cyrus-returns|magazine=Billboard|title=Eminem, Rihanna Rule Hot 100 for a Fourth Week; Miley Cyrus Returns|first=Gary|last=Trust|date=2014-01-02|accessdate=2014-01-02}}</ref>
+:{{note label|ReEntryB|B}}The single re-entered the top ten on the week ending January 18, 2014.<ref name="january18" />
+:{{note label|ReEntryC|C}}The single re-entered the top ten on the week ending January 25, 2014.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5869763/pitbull-kesha-timber-remains-atop-hot-100|magazine=Billboard|title=Pitbull and Ke$ha's 'Timber' Remains Atop Hot 100|first=Gary|last=Trust|date=2014-01-15|accessdate=2014-01-15}}</ref>
+:{{note label|ReEntryD|D}}The single re-entered the top ten on the week ending February 22, 2014.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5901262/katy-perry-rules-hot-100-pharrell-flies-to-no-2|magazine=Billboard|title=Katy Perry Rules Hot 100, Pharrell Flies to No. 2|first=Gary|last=Trust|date=2014-02-12|accessdate=2014-02-12}}</ref>
+:{{note label|ReEntryE|E}}The single re-entered the top ten on the week ending April 5, 2014.
+:{{note label|ReEntryF|F}}The single re-entered the top ten on the week ending September 13, 2014.
+:{{note label|ReEntryG|G}}The single re-entered the top ten on the week ending September 20, 2014.
+:{{note label|ReEntryH|H}}The single re-entered the top ten on the week ending September 27, 2014.
+:{{note label|ReEntryI|I}}The single re-entered the top ten on the week ending October 4, 2014.
+:{{note label|ReEntryJ|J}}The single re-entered the top ten on the week ending November 15, 2014.
+:{{note label|ReEntryK|K}}The single re-entered the top ten on the week ending December 6, 2014.
+:{{note label|ReEntryL|L}}The single re-entered the top ten on the week ending December 20, 2014.
+
+==See also==
+* [[2014 in American music]]
+* [[List of Billboard Hot 100 number ones of 2014|List of ''Billboard'' Hot 100 number ones of 2014]]
+* [[Billboard Year-End Hot 100 singles of 2014|''Billboard'' Year-End Hot 100 singles of 2014]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20051031005909/http://www.billboard.com/bbcom/index.jsp Billboard.com]
+*[http://www.billboard.biz Billboard.biz]
+*[http://www.billboard.com/#/charts/hot-100?begin=1&order=position The ''Billboard'' Hot 100]
+
+{{USTop10s|state=expanded}}
+{{billboard}}
+
+{{italic title|string=Billboard}}
+
+[[Category:2014 record charts|United States Hot 100 Top Ten Singles]]
+[[Category:Lists of Billboard Hot 100 top-ten singles|2014]]
