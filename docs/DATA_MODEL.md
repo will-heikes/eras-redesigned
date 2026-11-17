@@ -100,3 +100,30 @@ python3 scripts/build_chart_landscape.py 2013 2014 2015
 
 For a new album, copy `data/sources/eras/prism.json`, list the album page and a
 page for each track that has its own article, then run the two commands.
+
+## Alternate eras (`eras/`)
+
+An alternate era only lists its singles. Everything else (peaks, competition)
+is looked up from the real data, so a scenario can never contain made-up numbers.
+
+```json
+{
+  "id": "prism-legendary-lovers-4th",
+  "title": "Legendary Lovers as the fourth single",
+  "album_id": "prism",
+  "singles": [
+    { "song_id": "roar", "date": "2013-08-10" },
+    { "song_id": "legendary-lovers", "date": "2014-04-21" }
+  ]
+}
+```
+
+`eras/index.json` lists the scenarios for each album. The tool's Export JSON
+button downloads a scenario in this format: save it into `data/eras/` and add
+its id to the index to keep it.
+
+## The tool (`site/`)
+
+Open `site/index.html` through a local web server from the repository root,
+for example `python3 -m http.server`, then visit `http://localhost:8000/site/`.
+Edits made in the page are kept in that browser until you press Reset.

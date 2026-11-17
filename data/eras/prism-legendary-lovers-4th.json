@@ -1,0 +1,12 @@
+{
+  "id": "prism-legendary-lovers-4th",
+  "title": "Legendary Lovers as the fourth single",
+  "album_id": "prism",
+  "singles": [
+    { "song_id": "roar", "date": "2013-08-10" },
+    { "song_id": "unconditionally", "date": "2013-10-16" },
+    { "song_id": "dark-horse", "date": "2013-12-17" },
+    { "song_id": "legendary-lovers", "date": "2014-04-21" },
+    { "song_id": "this-is-how-we-do", "date": "2014-07-31" }
+  ]
+}

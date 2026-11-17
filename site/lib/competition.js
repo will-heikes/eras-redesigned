@@ -18,7 +18,7 @@ const weeksBetween = (a, b) => Math.round((toTime(b) - toTime(a)) / (7 * DAY));
 
 // Approximate last top-ten week: assumes a continuous run. Songs flagged as
 // re-entries may have had gaps.
-const lastTopTenWeek = (s) => toIso(toTime(s.entry_date) + (s.weeks_in_top_ten - 1) * 7 * DAY);
+export const lastTopTenWeek = (s) => toIso(toTime(s.entry_date) + (s.weeks_in_top_ten - 1) * 7 * DAY);
 
 function describe(song, week) {
   const toPeak = weeksBetween(week, song.peak_date);
