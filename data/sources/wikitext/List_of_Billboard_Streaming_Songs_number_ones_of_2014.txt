@@ -1,0 +1,217 @@
+{{Use mdy dates|date=November 2022}}
+{{short description|None}}
+
+This is a list of songs that reached number one on the ''[[Billboard (magazine)|Billboard]]'' magazine '''[[Streaming Songs]]''' chart in 2014.
+
+==Chart history==
+{| class="wikitable" style="font-size:90%;"
+|+Key
+| style="background:#ff9;"|{{dagger|alt=Best-charting streaming song of 2014}}
+|Indicates best-charting streaming song of 2014<ref>{{cite magazine |url=http://www.billboard.com/charts/year-end/2014/streaming-songs |title=Streaming Songs: Year End 2014 |magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|}
+{| class="wikitable" style="text-align: center;"
+!Issue date
+!Song
+!Artist(s)
+!Weekly streams
+|-
+|January 4
+|"[[The Monster (song)|The Monster]]"
+|[[Eminem]] featuring [[Rihanna]]
+|7.6 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5847923/eminem-rihanna-top-hot-100-beyonce-debuts | title= Eminem, Rihanna Top Hot 100; Beyonce Debuts | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|January 11
+|"[[Adore You (Miley Cyrus song)|Adore You]]"
+|rowspan="3"|[[Miley Cyrus]]
+|7 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5855137/eminem-rihanna-rule-hot-100-for-a-fourth-week-miley-cyrus-returns | title= Eminem, Rihanna Rule Hot 100 for a Fourth Week; Miley Cyrus Return | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|January 18
+|rowspan="2"|"[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]"
+|7.6 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5862620/pitbull-kesha-take-timber-to-top-of-hot-100 | title= Pitbull, Ke$ha Take 'Timber' to Top of Hot 100 | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|January 25
+|
+|-
+|February 1
+|"[[Drunk in Love]]"
+|[[Beyoncé]] featuring [[Jay Z]]
+|5.5 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5877859/pitbull-kehas-timber-still-tops-hot-100-bastille-lorde-reach-top-10 | title= Pitbull & Ke$ha's 'Timber' Still Tops Hot 100; Bastille, Lorde Reach Top 10 | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|February 8
+|style="background:#ff9;" rowspan="1"|"[[Dark Horse (Katy Perry song)|Dark Horse]]" {{Dagger}}
+|rowspan="1"|[[Katy Perry]] featuring [[Juicy J]]
+|5.6 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5885830/katy-perry-dark-horse-hot-100-no-1 | title= Katy Perry's 'Dark Horse' Gallops to No. 1 On Hot 100 | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|February 15
+|rowspan="3"|"Drunk in Love"
+|rowspan="3"|Beyoncé featuring Jay-Z
+|9.4 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5894008/katy-perry-tops-hot-100-beyonce-bounds-to-no-2 | title= Katy Perry Tops Hot 100, Beyonce Bounds to No. 2 | publisher=Billboard.com | accessdate=February 5, 2014}}</ref>
+|-
+|February 22
+|6.7 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5901262/katy-perry-rules-hot-100-pharrell-flies-to-no-2 | title= Katy Perry Rules Hot 100, Pharrell Flies to No. 2 | publisher=Billboard.com | accessdate=February 19, 2014}}</ref>
+|-
+|March 1
+|7.3 million <ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5908526/katy-perrys-dark-horse-ekes-out-hot-100-win-over-pharrells-happy|magazine=Billboard|title=Katy Perry's 'Dark Horse' Ekes Out Hot 100 Win Over Pharrell's 'Happy'|first=Gary|last=Trust|date=February 19, 2014|accessdate=February 19, 2014}}</ref>
+|-
+|March 8
+|style="background:#ff9;" rowspan="3"|"Dark Horse" {{Dagger}}
+|rowspan="3"|Katy Perry featuring Juicy J
+|11.6 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5915783/pharrell-williams-happy-hits-no-1-on-hot-100|title= Pharrell Williams' 'Happy' Hits No. 1 On Hot 100|publisher= Billboard.com|accessdate = February 26, 2014}}</ref>
+|-
+|March 15
+|11.2 million<ref>{{cite web|url=http://www.billboard.com/articles/news/5923189/pharrell-williams-happy-holds-at-no-1-on-hot-100-chart|title= Pharrell's 'Happy' Holds at No. 1 On Hot 100|publisher= Billboard.com|accessdate = March 5, 2014}}</ref>
+|-
+|March 22
+|8.9 million<ref>{{cite news|url=http://www.billboard.com/articles/news/5930474/pharrell-williams-idina-menzel-ride-oscar-gains-on-hot-100|title=Pharrell Williams, Idina Menzel Ride Oscar Gains On Hot 100|publisher=Billboard.com|accessdate=March 12, 2014}}</ref>
+|-
+|March 29
+|rowspan="1"|"[[We Might Be Dead By Tomorrow]]"
+|rowspan="1"|[[Soko (singer)|Soko]]
+|11.5 million<ref>{{cite news|url=https://www.billboard.com/pro/viral-first-kiss-video-sends-soko-to-no-1-debut-on-streaming/|title='First Kiss' Video Sends Soko to No. 1 Debut On Streaming Songs, Top 10 Start On Hot 100|publisher=Billboard.com|access-date=March 19, 2014}}</ref>
+|-
+|April 5
+|style="background:#ff9;" rowspan="4"|"Dark Horse" {{Dagger}}
+|rowspan="4"|Katy Perry featuring Juicy J
+|
+|-
+|April 12
+|8.8 million <!--- On the issue date April 19, "Dark Horse" had a 5% down; just add the 5% (the result is 8.820 million) --->
+|-
+|April 19
+|8.4 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6042268/hot-100-pharrell-williams-john-legend-katy-perry|title=Pharrell Williams Leads Hot 100; John Legend Gains At No. 2|publisher=Billboard.com|accessdate=April 9, 2014}}</ref>
+|-
+|April 26
+|8.2 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6055524/pharrell-williams-tops-hot-100-ed-sheeran-blasts-in-at-no-15|title=Pharrell Williams Tops Hot 100; Ed Sheeran Blasts In at No. 15|publisher=Billboard.com|accessdate=April 17, 2014}}</ref>
+|-
+|May 3
+|rowspan="4"|"[[Happy (Pharrell Williams song)|Happy]]"
+|rowspan="4"|[[Pharrell Williams]]
+|9.2 million<ref>{{cite news|url=http://m.billboard.com/entry/view/id/86854|title= Pharrell Williams Still Atop Hot 100; Justin Timberlake, Chris Brown Reach Top 10|publisher=Billboard.com|accessdate=April 24, 2014}}</ref>
+|-
+|May 10
+|8.4 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6070358/pharrell-williams-tops-hot-100-chart-10-weeks-iggy-azalea-top-10|title=Pharrell Williams Tops Hot 100 For 10th Week, Iggy Azalea Vaults Into Top 10|publisher=Billboard.com|accessdate=May 7, 2014}}</ref>
+|-
+|May 17
+|8.6 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6077635/hot-100-john-legend-all-of-me-ariana-grande-iggy-azalea|title=John Legend's 'All Of Me' Tops Hot 100, Ariana Grande Debuts At No. 3|publisher=Billboard.com|accessdate=May 7, 2014}}</ref>
+|-
+|May 24
+|9.3 million<ref>{{cite news|url=http://www.billboard.com/biz/articles/news/chart-alert/6084938/john-legend-leads-hot-100-paramore-iggy-azalea-jason-derulo|title=John Legend Leads Hot 100, Paramore Hits Top 10|publisher=Billboard.com|accessdate=May 14, 2014}}</ref>
+|-
+|May 31
+|rowspan="13"|"[[Fancy (Iggy Azalea song)|Fancy]]"
+|rowspan="13"|[[Iggy Azalea]] featuring [[Charli XCX]]
+|8.4 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6092276/michael-jackson-coldplay-hot-100-top-10-john-legend-no-1|title=Michael Jackson, Coldplay Hit Hot 100's Top 10; John Legend Still No. 1|publisher=Billboard.com|accessdate=May 21, 2014}}</ref>
+|-
+|June 7
+|14 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6099390/iggy-azalea-tops-hot-100-fancy-matches-beatles|title=Iggy Azalea Tops Hot 100 With 'Fancy,' Matches Beatles' Historic Mark|publisher=Billboard.com|accessdate=May 28, 2014}}</ref>
+|-
+|June 14
+|13.5 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6106532/iggy-azalea-hot-100-fancy-magic-calvin-harris|title=Iggy Azalea Remains Atop Hot 100 With 'Fancy'; MAGIC!, Calvin Harris Hit Top 10|publisher=Billboard.com|accessdate=June 4, 2014}}</ref>
+|-
+|June 21
+|12.5 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6114212/iggy-azalea-hot-100-sam-smith-top-ten|title=Iggy Azalea Continues Record-Tying Run Atop Hot 100; Sam Smith Soars Into Top 10|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|June 28
+|12.2 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6121624/iggy-azalea-fancy-no-1-hot-100-four-weeks-psy-debuts-top-30|title=Iggy Azalea's 'Fancy' No. 1 On Hot 100 For Fourth Week; PSY Debuts In Top 30|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|July 5
+|11.6 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6133923/hot-100-iggy-azalea-maroon-5-fancy-maps|title=Iggy Azalea Leads Hot 100 For Fifth Week, Maroon 5 Debuts In Top 20|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|July 12
+|11.1 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6143261/hot-100-iggy-azalea-fancy-magic-rude-shawn-mendes|title=Iggy Azalea Claims Longest Hot 100 Reign For A Female Rapper With 'Fancy'|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|July 19
+|10.7 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6150450/hot-100-iggy-azalea-fancy-maroon-5-maps|title=Iggy Azalea Tops Hot 100 For Seventh Week, Maroon 5's 'Maps' Finds Top 10|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|July 26
+|10.6 million<ref>{{cite news|url=https://www.billboard.com/pro/magic-rude-hot-100-iggy-azalea-fancy-sam-smith-disclosure-latch/|title=MAGIC!'s 'Rude' Tops Hot 100; Iggy Azalea's 'Fancy' Falls to No. 2|publisher=Billboard.com|access-date=August 7, 2014}}</ref>
+|-
+|August 2
+|12.2 million<ref>{{cite news|url=https://www.billboard.com/pro/magic-rude-no-1-hot-100-sam-smith-stay-with-me-iggy-azalea/|title=MAGIC!'s 'Rude' No. 1 On Hot 100, Sam Smith's 'Stay With Me' Surges|publisher=Billboard.com|access-date=August 7, 2014}}</ref>
+|-
+|August 9
+|10.1 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6193717/hot-100-magic-rude-sia-chandelier-jason-aldean|title=MAGIC! No. 1 On Hot 100, Sia Swings Into Top 10|publisher=Billboard.com|accessdate=August 7, 2014}}</ref>
+|-
+|August 16
+|8.6 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6214513/hot-100-magic-charli-xcx-meghan-trainor|title=MAGIC! Still No. 1 On Hot 100 as Meghan Trainor & Charli XCX Soar|publisher=Billboard.com|accessdate=August 13, 2014}}</ref>
+|-
+|August 23
+|8.9 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6214513/hot-100-magic-charli-xcx-meghan-trainor|title=MAGIC! Still No. 1 On Hot 100 as Meghan Trainor & Charli XCX Soar|publisher=Billboard.com|accessdate=August 13, 2014}}</ref>
+|-
+|August 30
+|rowspan="1"|"[[All About That Bass]]"
+|rowspan="1"|[[Meghan Trainor]]
+|8.1 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6221978/hot-100-ariana-grande-iggy-azalea-top-10-magic|title=Ariana Grande, Iggy Azalea Triple Up In Hot 100's Top 10, MAGIC! Still No. 1|publisher=Billboard.com|accessdate=August 20, 2014}}</ref>
+|-
+|September 6
+|rowspan="3"|"[[Anaconda (Nicki Minaj song)|Anaconda]]"
+|rowspan="3"|[[Nicki Minaj]]
+|32.1 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6229439/taylor-swift-shake-it-off-no-1-hot-100-nicki-minaj-anaconda|title=Taylor Swift's 'Shake It Off' Debuts At No. 1 On Hot 100|publisher=Billboard.com|accessdate=August 27, 2014}}</ref>
+|-
+|September 13
+|17.3 million<ref>{{cite news|url=http://www.billboard.com/articles/news/6236690/taylor-swifts-shake-it-off-holds-at-no-1-on-hot-100|title=Taylor Swift's 'Shake It Off' Holds At No. 1 On Hot 100|publisher=Billboard.com|accessdate=September 4, 2014}}</ref>
+|-
+|September 20
+|13.1 million<ref>{{cite news|url=https://www.billboard.com/pro/meghan-trainor-tops-hot-100-all-about-that-bass/|title=Meghan Trainor Tops Hot 100 With 'All About That Bass'|publisher=Billboard.com|access-date=September 4, 2014}}</ref>
+|-
+|September 27
+|rowspan="8"|"All About That Bass"
+|rowspan="8"|Meghan Trainor
+|15.5 million<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/6251722/hot-100-meghan-trainor-no-1-females-top-five|magazine=Billboard|title=Meghan Trainor Leads Hot 100's All-Female Top Five Again|first=Gary|last=Trust|date=September 17, 2014|accessdate=September 17, 2014}}</ref>
+|-
+|October 4
+|15.7 million<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/6259336/hot-100-meghan-trainor-jeremih-jennifer-lopez|magazine=Billboard|title=Meghan Trainor No. 1 On Hot 100, Jeremih Hits Top 10, Jennifer Lopez Debuts|first=Gary|last=Trust|date=September 24, 2014|accessdate=September 24, 2014}}</ref>
+|-
+|October 11
+|14.3 million<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/6266798/hot-100-meghan-trainor-tove-lo-clean-bandit|magazine=Billboard|title=Meghan Trainor Tops Hot 100; Tove Lo, Clean Bandit Climb Into Top 10|first=Gary|last=Trust|date=October 1, 2014|accessdate=October 1, 2014}}</ref>
+|-
+|October 18
+|13.9 million<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/6274312/hot-100-update-meghan-trainor-taylor-swift-iggy-azalea|magazine=Billboard|title=Meghan Trainor Leads Hot 100's Record-Setting All-Female Top Five|first=Gary|last=Trust|date=October 8, 2014|accessdate=October 8, 2014}}</ref>
+|-
+|October 25
+|13.4 million<ref>{{Cite magazine|url=http://www.billboard.com/articles/6281818/meghan-trainor-hot-100-tove-lo-bobby-shmurda|magazine=Billboard|title=Meghan Trainor Tops Hot 100; Tove Lo Joins All-Female Top Five, Bobby Shmurda Hits Top 10|first=Gary|last=Trust|date=October 15, 2014|accessdate=October 15, 2014}}</ref>
+|-
+|November 1
+|12.9 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-meghan-trainor-ed-sheeran-glen-campbell/|magazine=Billboard|title=Meghan Trainor Rules Hot 100, Ed Sheeran Hits Top 10, Glen Campbell Returns|first=Gary|last=Trust|date=October 22, 2014|access-date=October 22, 2014}}</ref>
+|-
+|November 8
+|13.2 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-meghan-trainor-hozier-top-10/|magazine=Billboard|title=Meghan Trainor Tops Hot 100 For Eighth Week, Hozier Hits Top 10|first=Gary|last=Trust|date=October 29, 2014|access-date=October 29, 2014}}</ref>
+|-
+|November 15
+|11.9 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-shake-it-off-returns-no-1-hot-100/|magazine=Billboard|title=Taylor Swift's 'Shake It Off' Returns to No. 1 on Hot 100|first=Gary|last=Trust|date=November 5, 2014|access-date=November 5, 2014}}</ref>
+|-
+|November 22
+|"[[Shake It Off (Taylor Swift song)|Shake It Off]]"
+|rowspan="6"|[[Taylor Swift]]
+|16.1 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-blank-space-hot-100/|magazine=Billboard|title=Taylor Swift Makes Hot 100 History With 'Blank Space'|date=November 19, 2014|access-date=November 19, 2014}}</ref>
+|-
+|November 29
+|rowspan="5"|"[[Blank Space]]"
+|19.2 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-taylor-swift-ariana-grande-the-weeknd-top-10/|magazine=Billboard|title=Taylor Swift Still No. 1 on Hot 100, Ariana Grande & The Weeknd Hit Top 10|date=November 12, 2014|access-date=November 30, 2014}}</ref>
+|-
+|December 6
+|14.2 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-taylor-swift-blank-space-meghan-trainor-hozier/|magazine=Billboard|title=Taylor Swift's 'Blank Space' No. 1 on Hot 100 for Second Week|date=November 26, 2014|access-date=November 26, 2014}}</ref>
+|-
+|December 13
+|14.2 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/hot-100-taylor-swift-no-1-selena-gomez-mark-ronson/|magazine=Billboard|title=Taylor Swift No. 1 on Hot 100, Selena Gomez, Mark Ronson Hit Top 10|date=December 3, 2014|access-date=December 3, 2014}}</ref>
+|-
+|December 20
+|12 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-meghan-trainor-hot-100/?mobile_redirection=false|magazine=Billboard|title=Taylor Swift Tops Hot 100, Meghan Trainor Scores Second Top 10|date=December 10, 2014|access-date=December 10, 2014}}</ref>
+|-
+|December 27
+|12.2 million<ref>{{Cite magazine|url=https://www.billboard.com/pro/taylor-swift-leads-hot-100-ed-sheeran-top-10/?mobile_redirection=false|magazine=Billboard|title=Taylor Swift Leads Billboard Hot 100, Ed Sheeran Soars to Top 10|date=December 17, 2014|access-date=December 17, 2014}}</ref>
+
+|}
+
+==See also==
+*[[2014 in music]]
+*[[List of Billboard Hot 100 number-one singles of 2014]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Hot 100 component charts}}
+{{Billboard}}
+
+[[Category:2014 record charts|United States Streaming Songs]]
+[[Category:Lists of number-one songs in the United States|Streaming 2014]]

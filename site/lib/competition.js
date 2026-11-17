@@ -65,6 +65,8 @@ export function competitionOn(dateIso, hot100, options = {}) {
     chart_week: week,
     lookahead_until: horizon,
     number_one: numberOne,
+    digital_number_one: (hot100.digital_number_ones || []).find((w) => w.week === week) || null,
+    streaming_number_one: (hot100.streaming_number_ones || []).find((w) => w.week === week) || null,
     in_top_ten: inTopTen,
     arriving_in_top_ten: arriving,
     number_ones_ahead: numberOnes,

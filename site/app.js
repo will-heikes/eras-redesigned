@@ -234,7 +234,14 @@ function renderCompetition() {
   const song = state.songs[item.song_id];
   const r = competitionOn(item.date, state.hot100, { lookaheadWeeks: state.lookahead });
   const lane = state.sel.lane;
-  const pk = song.key_peaks_original_era || {};
+  const usPeak = (chart) => {
+    let best = null;
+    for (const tb of song.weekly_charts || []) {
+      if (tb.version || (tb.period && Math.min(...(tb.period.match(/\d{4}/g) || [0]).map(Number)) >= 2020)) continue;
+      for (const e of tb.entries) if (e.chart === chart && Number.isInteger(e.position) && (best == null || e.position < best)) best = e.position;
+    }
+    return best;
+  };
   const fact = (v, l) => `<div class="fact"><b>${v ?? "—"}</b><span>${l}</span></div>`;
   const realRole = song.single ? `Real single ${song.single.order}` : song.role === "promotional single" ? "Real promo single" : "Album track";
   const ones = r.number_ones_ahead.filter((w, k, a) => k === 0 || a[k - 1].title !== w.title);
@@ -244,14 +251,17 @@ function renderCompetition() {
       <div class="kicker">${lane === "alt" ? "Alternate" : "Real"} single ${state.sel.i + 1} · released ${fmt(item.date)} · chart week ${fmt(r.chart_week)}</div>
       <div class="song ${lane === "alt" ? "alt" : ""}">${esc(song.title)}</div>
       <div class="facts">
-        ${fact(realRole.replace(/^Real s/, "S").replace(/^Real p/, "P"), "Real role")}
-        ${fact(pk.us, "US peak")}${fact(pk.uk, "UK peak")}${fact(pk.can, "CAN peak")}${fact(pk.aus, "AUS peak")}
+        ${fact(realRole.replace(/^Real s/, "S").replace(/^Real p/, "P"), "Real role").replace('class="fact"', 'class="fact wide"')}
+        ${fact(usPeak("US Billboard Hot 100"), "Hot 100")}${fact(usPeak("US Pop Airplay (Billboard)"), "Pop radio")}${fact(usPeak("US Adult Pop Airplay (Billboard)"), "Adult Pop")}${fact(usPeak("US Adult Contemporary (Billboard)"), "AC")}
         ${fact(r.in_top_ten.length, "In top ten")}${fact(r.in_top_ten.filter((s) => s.status === "climbing").length, "Still climbing")}
       </div>
     </div>
-    <div class="number-one"><span class="lbl">No. 1 that week</span>
-      <span class="t">${r.number_one ? esc(r.number_one.title) : "—"}</span>
-      <span class="mono">${r.number_one ? esc(r.number_one.artist) : ""}</span></div>
+    <div class="ones">
+      ${[["Hot 100", r.number_one, null, "var(--one)"], ["Digital Songs", r.digital_number_one, "weekly_sales", "var(--digital)"], ["Streaming Songs", r.streaming_number_one, "weekly_streams", "var(--stream)"]]
+        .map(([l, w, k, c]) => `<div class="one" style="border-top-color:${c}"><span class="lbl" style="color:${c}">No. 1 · ${l}</span>
+          <span class="t">${w ? esc(w.title) : "—"}</span>
+          <span class="mono">${w ? esc(w.artist) : ""}${w && k && w[k] ? ` · ${esc(w[k])}` : ""}</span></div>`).join("")}
+    </div>
 
     <div class="section-title"><h2>In the top ten that week</h2></div>
     ${compRows(r.in_top_ten, r.chart_week)}

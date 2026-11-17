@@ -1,0 +1,213 @@
+{{short description|None}}
+{{italic title|string=Billboard}}
+{{Use mdy dates|date=November 2022}}
+
+This is a list of the U.S. ''[[Billboard magazine|Billboard]]'' magazine '''[[Streaming Songs]]''' number-ones of 2013.
+
+==Chart history==
+{| class="wikitable" style="font-size:90%;"
+|+Key
+| style="background:#ff9;"|{{dagger|alt=Best-charting streaming song of 2013}}
+|Indicates best-charting streaming song of 2013<ref>{{cite magazine |url=http://www.billboard.com/charts/year-end/2013/streaming-songs |title=Streaming Songs: Year End 2013 |magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|}
+{| class="wikitable" style="text-align: center;"
+!Issue date
+!Song
+!Artist(s)
+!Weekly Streams
+|-
+|January 19
+|rowspan="6"|"[[Thrift Shop (song)|Thrift Shop]]"
+|rowspan="6"|[[Macklemore]] & [[Ryan Lewis]] featuring [[Wanz]]
+|1.26 million
+|-
+|January 26
+|1.46 million
+|-
+|February 2
+|1.68 million
+|-
+|February 9
+|1.86 million
+|-
+|February 16
+|2 million
+|-
+|February 23
+|2.1 million
+|-
+|March 2
+| style="background:#ff9;" rowspan="8"|"[[Harlem Shake (song)|Harlem Shake]]" {{Dagger}}
+| rowspan="8"|[[Baauer]]
+|103 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1549388/baauers-harlem-shake-debuts-atop-revamped-hot-100 |title= Baauer's 'Harlem Shake' Debuts Atop Revamped Hot 100 |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|March 9
+|98 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1550092/baauers-harlem-shake-tops-hot-100-for-second-week |title= Baauer's 'Harlem Shake' Tops Hot 100 for Second Week |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|March 16
+|54 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1550739/baauers-harlem-shake-still-atop-hot-100-although-lead-shrinks |title= Baauer's 'Harlem Shake' Still Atop Hot 100, Although Lead Shrinks |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|March 23
+|48 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1551797/baauer-leads-hot-100-again-macklemore-ryan-lewis-rule-radio-songs |title= Baauer Leads Hot 100 Again, Macklemore & Ryan Lewis Rule Radio Songs |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|March 30
+|28 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1553826/baauer-tops-hot-100-for-fifth-week-despite-continued-streaming-slide |title= Baauer Tops Hot 100 for Fifth Week, Despite Continued Streaming Slide |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|April 6
+|20 million <ref>{{cite web|url=https://www.billboard.com/pro/macklemore-ryan-lewis-return-to-top-of-hot-100/ |title= Macklemore & Ryan Lewis Return To Top Of Hot 100 |publisher=Billboard.com |access-date=May 11, 2013}}</ref>
+|-
+|April 13
+|14 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1555888/macklemore-ryan-lewis-top-hot-100-imagine-dragons-ariana-grande-hit-top-10 |title= Macklemore & Ryan Lewis Top Hot 100; Imagine Dragons, Ariana Grande Hit Top 10 |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|April 20
+|9.7 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1556766/bruno-mars-lands-fifth-hot-100-no-1-with-when-i-was-your-man |title= Bruno Mars Lands Fifth Hot 100 No. 1 With 'When I Was Your Man' |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|April 27
+|rowspan="2"|"[[Gentleman (Psy song)|Gentleman]]"
+|rowspan="2"|[[Psy|PSY]]
+|8.6 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1558437/pink-powers-to-no-1-on-hot-100-with-just-give-me-a-reason |title= P!nk Powers to No. 1 On Hot 100 With 'Just Give Me A Reason' |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|May 4
+|13.9 million <ref>{{cite web|url=http://www.billboard.com/articles/news/1559199/pink-remains-atop-hot-100-psy-enters-top-10 |title= P!nk Remains Atop Hot 100, PSY Enters Top 10 |publisher=Billboard.com |accessdate=May 11, 2013}}</ref>
+|-
+|May 11
+|rowspan="2"|"Thrift Shop"
+|rowspan="2"|Macklemore & Ryan Lewis featuring Wanz
+|
+|-
+|May 18
+|
+|-
+|May 25
+|rowspan="6"|"[[Gangnam Style]]"
+|rowspan="6"|PSY
+|
+|-
+|June 1
+|
+|-
+|June 8
+|
+|-
+|June 15
+|
+|-
+|June 22
+|
+|-
+|June 29
+|
+|-
+|July 6
+|rowspan="11"|"[[We Can't Stop]]"
+|rowspan="11"|[[Miley Cyrus]]
+|9.6 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke Still Atop Hot 100; Miley Cyrus, Bruno Mars Reach Top 10|url=http://www.billboard.com/articles/news/1568185/robin-thicke-still-atop-hot-100-miley-cyrus-bruno-mars-reach-top-10|publisher=Billboard|accessdate=June 28, 2013}}</ref> 
+|-
+|July 13
+|8 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke's 'Blurred Lines' Holds Atop Hot 100|url=http://www.billboard.com/articles/news/1568859/robin-thickes-blurred-lines-holds-atop-hot-100|publisher=Billboard}}</ref> 
+|-
+|July 20
+|7.8 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke's 'Blurred Lines' Leads Hot 100 For Fifth Week|url=http://www.billboard.com/articles/news/1569412/robin-thickes-blurred-lines-leads-hot-100-for-fifth-week0|publisher=Billboard}}</ref> 
+|-
+|July 27
+|7.4 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke Tops Hot 100 For Sixth Week; Jay Z, Justin Timberlake Debut In Top 10|url=http://www.billboard.com/articles/news/2082329/robin-thicke-tops-hot-100-for-sixth-week-jay-z-justin-timberlake-debut-in-top|publisher=Billboard}}</ref> 
+|-
+|August 3
+|10.1 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke: Longest Hot 100 Reign This Year|url=http://www.billboard.com/articles/news/4441914/robin-thicke-longest-hot-100-reign-this-year|publisher=Billboard}}</ref> 
+|-
+|August 10
+|8.9 million <ref>{{cite web|last=Trust|first=Gary|title=One Direction Blasts Onto Hot 100 at No. 2, Robin Thicke Still No. 1|url=http://www.billboard.com/articles/news/5344492/one-direction-blasts-onto-hot-100-at-no-2-robin-thicke-still-no-1|publisher=Billboard}}</ref> 
+|-
+|August 17
+|8.28 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke Extends Hot 100 Run to Nine Weeks, Sets Audience and Sales Records|url=http://www.billboard.com/articles/news/5638328/robin-thicke-extends-hot-100-run-to-nine-weeks-sets-audience-and-sales-records|publisher=Billboard}}</ref> 
+|-
+|August 24
+|7.7 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke Leads Hot 100 For 10th Week, Katy Perry's 'Roar' Debuts|url=http://www.billboard.com/articles/news/5650672/robin-thicke-leads-hot-100-for-10th-week-katy-perrys-roar-debuts|publisher=Billboard}}</ref> 
+|-
+|August 31
+|6.9 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke No. 1, Katy Perry No. 2 On Hot 100|url=http://www.billboard.com/articles/news/5660927/robin-thicke-no-1-katy-perry-no-2-on-hot-100|publisher=Billboard}}</ref> 
+|-
+|September 7 
+|6.4 million <ref>{{cite web|last=Trust|first=Gary|title=Robin Thicke Leads Hot 100, Katy Perry Holds At No. 2|url=http://www.billboard.com/articles/news/5672768/robin-thicke-leads-hot-100-katy-perry-holds-at-no-2|publisher=Billboard}}</ref>
+|-
+|September 14
+|8.1 million <ref>{{cite web|last=Trust|first=Gary|title=Katy Perry Dethrones Robin Thicke Atop Hot 100|url=http://www.billboard.com/articles/news/5680131/katy-perry-dethrones-robin-thicke-atop-hot-100|publisher=Billboard}}</ref>
+|-
+|September 21
+|rowspan="1"|"[[Roar (song)|Roar]]"
+|rowspan="1"|[[Katy Perry]]
+|12 million <ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5687387/katy-perrys-roar-rules-hot-100-for-second-week-lorde-reaches-top-3|magazine=Billboard|title=Katy Perry's 'Roar' Rules Hot 100 For Second Week, Lorde Reaches Top 3|first=Gary|last=Trust|date=September 11, 2013|accessdate=September 11, 2013}}</ref>
+|-
+|September 28
+|rowspan="3"|"[[Wrecking Ball (Miley Cyrus song)|Wrecking Ball]]"
+|rowspan="3"|Miley Cyrus
+|36.5 million <ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5695590/miley-cyrus-wrecking-ball-swings-to-top-of-hot-100|magazine=Billboard|title=Miley Cyrus' 'Wrecking Ball' Swings Atop Hot 100|first=Gary|last=Trust|date=September 18, 2013|accessdate=September 18, 2013}}</ref>
+|-
+|October 5
+|14.3 million <ref>{{cite magazine|last=Trust|first=Gary|title=Miley Cyrus' 'Wrecking Ball' Spends Second Week Atop Hot 100|magazine=[[Billboard (magazine)|Billboard]] |url=http://www.billboard.com/articles/news/5733088/miley-cyrus-wrecking-ball-spends-second-week-atop-hot-100}}</ref> 
+|-
+|October 12
+|11.8 million <ref>{{cite magazine|last=Trust|first=Gary|title=Lorde's 'Royals' Crowns Hot 100|magazine=[[Billboard (magazine)|Billboard]] |url=http://www.billboard.com/articles/news/5740767/lordes-royals-crowns-hot-100}}</ref>
+|-
+|October 19
+|"[[The Fox (What Does the Fox Say?)]]"
+|[[Ylvis]]
+|12.4 million <ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5748210/lordes-royals-remains-atop-hot-100|magazine=Billboard|title=Lorde's 'Royals' Remains Atop Hot 100|first=Gary|last=Trust|date=October 9, 2013|accessdate=October 9, 2013}}</ref>
+|-
+|October 26
+|"Wrecking Ball"
+|Miley Cyrus
+|13 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5755784/lordes-royals-rules-hot-100-for-third-week | title= Lorde's 'Royals' Rules Hot 100 For Third Week | publisher=Billboard.com}}</ref>
+|-
+|November 2
+|"The Fox (What Does the Fox Say?)"
+|Ylvis
+|10.9 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5763255/lordes-royals-is-hot-100s-ruler-for-fourth-week | title= Lorde's 'Royals' Is Hot 100's Ruler For Fourth Week | publisher=Billboard.com}}</ref>
+|-
+|November 9
+|rowspan="2"|"Wrecking Ball"
+|rowspan="2"|Miley Cyrus
+|8.9 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5770722/lordes-royals-crowns-hot-100-for-fifth-week | title= Lorde's 'Royals' Crowns Hot 100 For Fifth Week | publisher=Billboard.com}}</ref>
+|-
+|November 16
+|8.6 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5778259/lordes-royals-rules-hot-100-for-sixth-week | title= Lorde's 'Royals' Rules Hot 100 for Sixth Week | publisher=Billboard.com}}</ref>
+|-
+|November 23
+|"[[Dope (Lady Gaga song)|Dope]]"
+|[[Lady Gaga]]
+|8.2 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5785931/lordes-royals-leads-hot-100-lady-gagas-dope-debuts-at-no-8 | title= Lorde's 'Royals' Leads Hot 100, Lady Gaga's 'Dope' Debuts At No. 8 | publisher=Billboard.com}}</ref>
+|-
+|November 30
+|rowspan="5"|"Wrecking Ball"
+|rowspan="5"|Miley Cyrus
+|8.7 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5793365/lordes-royals-reigns-on-hot-100-for-eighth-week | title= Lorde's 'Royals' Reigns On Hot 100 for Eighth Week | publisher=Billboard.com}}</ref>
+|-
+|December 7
+|7.8 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5800854/lorde-royals-hot-100-chart-nine-weeks-eminem | title= Lorde's "Royals" Rules Hot 100 For Ninth Week | publisher=Billboard.com}}</ref>
+|-
+|December 14
+|18.6 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5812407/miley-cyrus-wrecking-ball-swings-back-to-no-1-on-hot-100 | title= Miley Cyrus' "Wrecking Ball" Swings Back to No. 1 On Hot 100 | publisher=Billboard.com}}</ref>
+|-
+|December 21
+|8 million <ref>{{cite web|url=http://www.billboard.com/articles/news/5820081/eminem-rihanna-rule-hot-100-with-the-monster | title= Eminem, Rihanna Rule Hot 100 With 'The Monster' | publisher=Billboard.com}}</ref>
+|-
+|December 28
+|
+|-
+|}
+
+==See also==
+*[[2013 in music]]
+*[[List of Billboard Hot 100 number-one singles of 2013]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*[http://www.billboard.com/charts/streaming-songs Current ''Billboard'' Streaming Songs chart]
+
+{{Hot 100 component charts}}
+{{Billboard}}
+
+[[Category:2013 record charts|United States Streaming]]
+[[Category:Lists of number-one songs in the United States|Streaming 2013]]

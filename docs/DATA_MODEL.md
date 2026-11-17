@@ -66,7 +66,9 @@ Hot 100 top-ten singles" and "number ones" pages.
 | Field | Meaning |
 | --- | --- |
 | `top_ten[]` | Every song that peaked in the top ten: `title`, `artist`, `entry_date` (first top-ten week), `peak`, `peak_date`, `weeks_in_top_ten`, `notes` (re-entries) |
-| `number_ones[]` | `week`, `title`, `artist` for every chart week |
+| `number_ones[]` | `week`, `title`, `artist` for every Hot 100 chart week |
+| `digital_number_ones[]` | No. 1 on Billboard's Digital Songs each week, with `weekly_sales` |
+| `streaming_number_ones[]` | No. 1 on Billboard's Streaming Songs each week, with `weekly_streams` |
 
 Dates are Billboard issue dates (Saturdays). Wikipedia gives total weeks in the
 top ten, not the exit date, so the end of each run is estimated as entry date

@@ -8,8 +8,18 @@ const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<
 const fmt = (d) => d ? new Date(t(d)).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }) : "";
 const j = async (p) => { const r = await fetch(DATA + p); if (!r.ok) throw new Error(`${p}: ${r.status}`); return r.json(); };
 
-const MARKETS = [["us", "US"], ["uk", "UK"], ["can", "CAN"], ["aus", "AUS"]];
-const DISC_KEYS = { us: null, uk: "UK", can: "CAN", aus: "AUS" };
+const RADIO = [
+  ["US Pop Airplay (Billboard)", "Pop"],
+  ["US Adult Pop Airplay (Billboard)", "Adult Pop"],
+  ["US Adult Contemporary (Billboard)", "AC"],
+  ["US Rhythmic Airplay (Billboard)", "Rhythmic"],
+  ["US Dance/Mix Show Airplay (Billboard)", "Dance/Mix"],
+];
+const CLUB = ["US Dance Club Songs (Billboard)", "Club"];
+const US_AWARDS = new Set(["American Music Awards", "Grammy Awards", "Billboard Music Awards", "Billboard Mid-Year Awards",
+  "MTV Video Music Awards", "People's Choice Awards", "Teen Choice Awards", "iHeartRadio Music Awards",
+  "Nickelodeon Kids' Choice Awards", "Kids' Choice Awards", "Radio Disney Music Awards", "ASCAP Pop Music Awards",
+  "BMI Pop Awards", "CMT Music Awards", "Vevo Certified Awards", "Vevo Hot This Year Awards"]);
 
 function tier(p) {
   if (p == null) return "tnone";
@@ -24,15 +34,14 @@ function cert(song, region) {
   return c ? c.certification : null;
 }
 
-function peaksFor(song) {
-  const kp = song.key_peaks_original_era;
-  const out = {};
-  for (const [k] of MARKETS) {
-    out[k] = kp ? kp[k] : null;
-    if (out[k] == null && song.discography_peaks && DISC_KEYS[k]) out[k] = song.discography_peaks[DISC_KEYS[k]] ?? null;
-  }
-  const bub = song.discography_peaks?.["US Bub."];
-  return { ...out, bubbling: out.us == null && bub != null ? bub : null };
+const originalTables = (song) => (song.weekly_charts || []).filter((tb) => !tb.version &&
+  (!tb.period || Math.min(...(tb.period.match(/\d{4}/g) || [0]).map(Number)) < 2020));
+
+function usPeak(song, chart) {
+  let best = null;
+  for (const tb of originalTables(song)) for (const e of tb.entries)
+    if (e.chart === chart && Number.isInteger(e.position) && (best == null || e.position < best)) best = e.position;
+  return best;
 }
 
 function laterCharting(song) {
@@ -40,6 +49,19 @@ function laterCharting(song) {
     .filter((tb) => !tb.version && tb.period && Math.min(...(tb.period.match(/\d{4}/g) || [9999]).map(Number)) >= 2020)
     .map((tb) => tb.period);
   return [...new Set(years)];
+}
+
+const toNum = (v) => {
+  if (!v) return 0;
+  const m = String(v).replace(/,/g, "").match(/([\d.]+)\s*(million)?/i);
+  return m ? parseFloat(m[1]) * (m[2] ? 1e6 : 1) : 0;
+};
+
+// weeks at No. 1 on a weekly list, plus the best week's units
+function numberOneWeeks(list, song, artist, unitsKey) {
+  const weeks = (list || []).filter((w) => w.title.toLowerCase() === song.title.toLowerCase() && w.artist.includes(artist));
+  const best = weeks.reduce((a, w) => (toNum(w[unitsKey]) > toNum(a?.[unitsKey]) ? w : a), null);
+  return { weeks: weeks.length, best: best ? best[unitsKey] : null, first: weeks[0]?.week || null, list: weeks };
 }
 
 async function load() {
@@ -51,90 +73,111 @@ async function load() {
   const byId = Object.fromEntries(songs.map((s) => [s.id, s]));
   document.title = `${album.title}`;
 
+  const us = {};
+  for (const s of songs) {
+    us[s.id] = {
+      hot100: usPeak(s, "US Billboard Hot 100") ?? s.key_peaks_original_era?.us ?? null,
+      bubbling: s.discography_peaks?.["US Bub."] ?? null,
+      radio: Object.fromEntries(RADIO.map(([c, l]) => [l, usPeak(s, c)])),
+      club: usPeak(s, CLUB[0]),
+      popDigital: usPeak(s, "US Pop Digital Songs (Billboard)"),
+      hot100One: numberOneWeeks(hot100.number_ones, s, artist.name),
+      digital: numberOneWeeks(hot100.digital_number_ones, s, artist.name, "weekly_sales"),
+      streaming: numberOneWeeks(hot100.streaming_number_ones, s, artist.name, "weekly_streams"),
+    };
+  }
+
   // ----- header
-  document.getElementById("kicker").textContent = `${artist.name} · Studio album`;
+  document.getElementById("kicker").textContent = `${artist.name} · Studio album · US charts`;
   document.getElementById("album-title").textContent = album.title;
   const usCert = cert(album, "United States");
   document.getElementById("album-sub").innerHTML =
     `Released <b>${fmt(album.release_date)}</b> · ${esc(album.label)} · ${album.tracklist.length} tracks · ${album.singles.length} singles${usCert ? ` · RIAA <b>${esc(usCert)}</b>` : ""}`;
-  document.getElementById("album-stats").innerHTML = MARKETS.map(([k, label]) => {
-    const p = album.key_peaks[k];
-    return `<div class="stat ${p === 1 ? "top" : ""}"><b>${p ?? "—"}</b><span>${label} albums peak</span></div>`;
-  }).join("");
+  const sum = (k) => songs.reduce((n, s) => n + us[s.id][k].weeks, 0);
+  const stat = (v, l, top) => `<div class="stat ${top ? "top" : ""}"><b>${v ?? "—"}</b><span>${l}</span></div>`;
+  document.getElementById("album-stats").innerHTML =
+    stat(album.key_peaks.us, "Billboard 200 peak", album.key_peaks.us === 1) +
+    stat(sum("hot100One"), "Wks at No. 1, Hot 100") +
+    stat(sum("digital"), "Wks at No. 1, Digital") +
+    stat(sum("streaming"), "Wks at No. 1, Streaming");
 
-  // ----- singles list (official + promo), chronological
-  // one row per song that was promoted: official singles plus promo-only songs
+  // ----- singles (official + promo-only), chronological
   const items = [
     ...album.singles.map((s) => ({ song: byId[s.song_id], date: s.date, label: `Single ${s.order}`, promo: false, promoDate: byId[s.song_id].promotional_release })),
     ...songs.filter((s) => s.promotional_release && !s.single).map((s) => ({ song: s, date: s.promotional_release, label: "Promo single", promo: true })),
   ].sort((a, b) => a.date.localeCompare(b.date));
 
-  // match each single to its Hot 100 top-ten run(s)
   const runs = hot100.top_ten.filter((r) => r.artist.includes(artist.name));
   const runFor = (song) => runs.filter((r) => r.title.toLowerCase() === song.title.toLowerCase());
 
-  renderTimeline(album, items, runFor);
+  renderTimeline(album, items, runFor, us);
 
   document.getElementById("singles").innerHTML = items.map(({ song, date, label, promo, promoDate }) => {
-    const p = peaksFor(song);
-    const us = cert(song, "United States");
+    const u = us[song.id];
+    const riaa = cert(song, "United States");
     const run = runFor(song)[0];
+    const cellsHtml = [["Pop", u.radio.Pop], ["Adult Pop", u.radio["Adult Pop"]], ["AC", u.radio.AC],
+      ["Rhythmic", u.radio.Rhythmic], ["Digital #1", u.digital.weeks ? `${u.digital.weeks} wks` : null], ["Stream #1", u.streaming.weeks ? `${u.streaming.weeks} wk${u.streaming.weeks > 1 ? "s" : ""}` : null]]
+      .map(([l, v]) => `<div><span>${l}</span>${v ?? "—"}</div>`).join("");
     return `<div class="card ${promo ? "promo" : ""}">
       <div class="ord">${label}</div>
       <div class="ttl">${esc(song.title)}</div>
       <div class="dt">${fmt(date)}${promoDate ? ` · promo ${fmt(promoDate).replace(/, \d{4}$/, "")}` : ""}</div>
-      <div class="big">${p.us ? `#${p.us}` : "—"}<small>HOT 100</small></div>
-      <div class="mini-peaks">${MARKETS.slice(1).map(([k, l]) => `<div><span>${l}</span>${p[k] ?? "—"}</div>`).join("")}</div>
-      <div class="cert">${run ? `<b>${run.weeks_in_top_ten}</b> wks in top ten · ` : ""}${us ? `RIAA <b>${esc(us)}</b>` : "No RIAA cert listed"}</div>
+      <div class="big">${u.hot100 ? `#${u.hot100}` : "—"}<small>HOT 100</small></div>
+      <div class="mini-peaks">${cellsHtml}</div>
+      <div class="cert">${run ? `<b>${run.weeks_in_top_ten}</b> wks top ten · ` : ""}${u.digital.best ? `best sales wk <b>${esc(u.digital.best)}</b> · ` : ""}${riaa ? `RIAA <b>${esc(riaa)}</b>` : "No RIAA cert listed"}</div>
     </div>`;
   }).join("");
 
-  // ----- heat table
-  const head = `<thead><tr><th class="n">#</th><th>Track</th><th>Role</th><th class="n">Length</th>${MARKETS.map(([, l]) => `<th class="n">${l}</th>`).join("")}<th>RIAA</th></tr></thead>`;
+  // ----- grid
+  const head = `<thead>
+    <tr><th></th><th></th><th></th><th class="n grp">Overall</th><th colspan="${RADIO.length}" class="grp">Radio airplay</th><th class="grp">Clubs</th><th colspan="2" class="grp">No. 1 weeks</th><th></th></tr>
+    <tr><th class="n">#</th><th>Track</th><th>Role</th><th class="n">Hot 100</th>${RADIO.map(([, l]) => `<th class="n">${l}</th>`).join("")}<th class="n">${CLUB[1]}</th><th class="n">Digital</th><th class="n">Streaming</th><th>RIAA</th></tr>
+  </thead>`;
+  const cell = (p) => `<td class="cell ${tier(p)}">${p ?? "—"}</td>`;
+  const ones = (n) => `<td class="cell ${n ? "t1" : "tnone"}">${n ? `${n} wk${n > 1 ? "s" : ""}` : "—"}</td>`;
   const rows = album.tracklist.map((tr) => {
     const s = byId[tr.song_id];
-    const p = peaksFor(s);
+    const u = us[s.id];
     const later = laterCharting(s);
     const role = s.single ? `<span class="role single">Single ${s.single.order}</span>`
       : s.role === "promotional single" ? `<span class="role promo">Promo</span>` : `<span class="role">Album track</span>`;
-    const cell = (k) => {
-      if (k === "us" && p.us == null && p.bubbling != null) return `<td class="cell t100">B${p.bubbling}</td>`;
-      return `<td class="cell ${tier(p[k])}">${p[k] ?? "—"}</td>`;
-    };
+    const hot = u.hot100 == null && u.bubbling != null ? `<td class="cell t100">B${u.bubbling}</td>` : cell(u.hot100);
+    const dig = u.digital.weeks ? ones(u.digital.weeks) : u.popDigital ? `<td class="cell t100" title="Pop Digital Songs">PD ${u.popDigital}</td>` : ones(0);
     return `<tr class="${s.single || s.role === "promotional single" ? "" : "album-track"}">
       <td class="n">${tr.track}</td>
-      <td class="title">${esc(s.title)}${s.featuring ? ` <span class="mono">feat. ${esc(s.featuring)}</span>` : ""}${tr.edition === "deluxe" ? ` <span class="mono">deluxe</span>` : ""}${later.length ? ` <span class="role" style="border-color:var(--accent);color:var(--accent)">Charted again ${esc(later[0])}</span>` : ""}</td>
+      <td class="title">${esc(s.title)}${s.featuring ? ` <span class="mono">feat. ${esc(s.featuring)}</span>` : ""}${tr.edition === "deluxe" ? ` <span class="mono">deluxe</span>` : ""}${later.length ? ` <span class="role later">Charted again ${esc(later[0])}</span>` : ""}</td>
       <td>${role}</td>
-      <td class="n">${esc(s.length || "")}</td>
-      ${MARKETS.map(([k]) => cell(k)).join("")}
+      ${hot}${RADIO.map(([, l]) => cell(u.radio[l])).join("")}${cell(u.club)}${dig}${ones(u.streaming.weeks)}
       <td class="mono">${esc(cert(s, "United States") || "")}</td>
     </tr>`;
   }).join("");
   document.getElementById("tracks").innerHTML = head + `<tbody>${rows}</tbody>`;
 
-  // ----- album certs: major markets, rest behind a toggle
-  const MAJOR = ["United States", "United Kingdom", "Canada", "Australia", "Germany", "France", "Brazil", "Mexico"];
-  const certs = (album.certifications || []).filter((c) => c.certification);
-  const certRow = (c) => `<tr><td>${esc(c.region)}</td><td>${esc(c.certification)}</td><td class="n">${c.cert_year ?? ""}</td></tr>`;
-  const major = MAJOR.map((r) => certs.find((c) => c.region === r)).filter(Boolean);
-  const rest = certs.filter((c) => !MAJOR.includes(c.region));
+  // ----- No. 1 weeks by song
+  const oneRows = items.filter((i) => !i.promo || us[i.song.id].digital.weeks || us[i.song.id].streaming.weeks).map(({ song }) => {
+    const u = us[song.id];
+    return `<tr><td class="title">${esc(song.title)}</td>
+      <td class="n">${u.hot100One.weeks || "—"}</td>
+      <td class="n">${u.digital.weeks || "—"}</td><td class="n mono">${esc(u.digital.best || "")}</td>
+      <td class="n">${u.streaming.weeks || "—"}</td><td class="n mono">${esc(u.streaming.best || "")}</td></tr>`;
+  }).join("");
   document.getElementById("album-certs").innerHTML =
-    `<thead><tr><th>Region</th><th>Certification</th><th class="n">Year</th></tr></thead><tbody>${major.map(certRow).join("")}</tbody>` +
-    `<tbody class="more" hidden>${rest.map(certRow).join("")}</tbody>`;
-  addToggle("album-certs", `Show ${rest.length} more regions`);
+    `<thead><tr><th>Song</th><th class="n">Hot 100</th><th class="n">Digital</th><th class="n">Best sales wk</th><th class="n">Streaming</th><th class="n">Best streams wk</th></tr></thead><tbody>${oneRows}</tbody>`;
 
-  // ----- awards (album + songs, original era first)
+  // ----- US awards, 2013-2015
   const awards = [
     ...(album.awards || []).map((a) => ({ ...a, work: album.title })),
     ...songs.flatMap((s) => (s.awards || []).map((a) => ({ ...a, work: s.title }))),
-  ].filter((a) => a.year && a.year <= 2015).sort((a, b) => a.year - b.year || (a.result === "Won" ? -1 : 1));
+  ].filter((a) => a.year && a.year <= 2015 && US_AWARDS.has(a.award))
+    .sort((a, b) => a.year - b.year || (a.result === "Won" ? -1 : 1));
   const won = awards.filter((a) => a.result === "Won");
   const nom = awards.filter((a) => a.result !== "Won");
   const awardRow = (a) => `<tr><td class="n">${a.year}</td><td>${esc(a.award)}<div class="mono">${esc(a.category || "")}</div></td><td>${esc(a.work)}</td><td class="status ${a.result === "Won" ? "climbing" : "past-peak"}">${esc(a.result)}</td></tr>`;
   document.getElementById("awards-summary").innerHTML =
-    `<div class="stat top"><b>${won.length}</b><span>Won, 2013–15</span></div><div class="stat"><b>${awards.length}</b><span>Nominations</span></div>` +
-    `<div class="stat"><b>${awards.filter((a) => a.award === "Grammy Awards").length}</b><span>Grammy noms</span></div>` +
-    `<div class="stat"><b>${awards.filter((a) => a.award === "Grammy Awards" && a.result === "Won").length}</b><span>Grammy wins</span></div>`;
+    stat(won.length, "US awards won") + stat(awards.length, "US nominations") +
+    stat(awards.filter((a) => a.award === "Grammy Awards").length, "Grammy noms") +
+    stat(awards.filter((a) => a.award === "Grammy Awards" && a.result === "Won").length, "Grammy wins");
   document.getElementById("awards").innerHTML =
     `<thead><tr><th class="n">Year</th><th>Award</th><th>Work</th><th>Result</th></tr></thead><tbody>${won.map(awardRow).join("")}</tbody>` +
     `<tbody class="more" hidden>${nom.map(awardRow).join("")}</tbody>`;
@@ -156,7 +199,7 @@ function addToggle(tableId, label) {
   table.closest(".tbl").after(btn);
 }
 
-function renderTimeline(album, items, runFor) {
+function renderTimeline(album, items, runFor, us) {
   const dates = items.map((i) => t(i.date));
   const runEnds = items.flatMap((i) => runFor(i.song).map((r) => t(lastTopTenWeek(r))));
   const minD = Math.min(...dates, t(album.release_date)) - 5 * 7 * DAY;
@@ -197,6 +240,12 @@ function renderTimeline(album, items, runFor) {
       parts.push(`<line x1="${px}" x2="${xx}" y1="${y}" y2="${y}" stroke="var(--ink-3)" stroke-dasharray="3 3"/>`);
       parts.push(`<rect x="${px - 6}" y="${y - 6}" width="12" height="12" fill="var(--bg)" stroke="var(--real)" stroke-width="2"><title>Promo release ${fmt(it.promoDate)}</title></rect>`);
     }
+    const tick = (w, dy, color, what) => {
+      const wx = x(t(w.week));
+      return `<rect x="${wx - 3}" y="${y + dy}" width="6" height="4" fill="${color}"><title>No. 1 on ${what}: ${fmt(w.week)}</title></rect>`;
+    };
+    us[it.song.id].digital.list.forEach((w) => parts.push(tick(w, -14, "var(--digital)", "Digital Songs")));
+    us[it.song.id].streaming.list.forEach((w) => parts.push(tick(w, 10, "var(--stream)", "Streaming Songs")));
     parts.push(it.promo
       ? `<rect x="${xx - 6}" y="${y - 6}" width="12" height="12" fill="var(--bg)" stroke="var(--real)" stroke-width="2"/>`
       : `<rect x="${xx - 7}" y="${y - 7}" width="14" height="14" fill="var(--real)"/>`);

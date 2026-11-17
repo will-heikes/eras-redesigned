@@ -1,0 +1,286 @@
+{{Short description|2015 highest-selling digital singles in the United States}}
+{{Use mdy dates|date=November 2022}}
+
+The '''List of number-one digital songs of 2015 in the United States''' are based upon the highest-selling [[music download|digital single]]s ranked in the [[Hot Digital Songs]] chart, published by ''[[Billboard (magazine)|Billboard]]'' magazine. The data are compiled by [[Nielsen SoundScan]] based on each single's weekly digital sales, which combines sales of different versions of a single for a summarized figure.
+
+==Chart history==
+{| class="wikitable" style="font-size:90%;"
+|+Key
+| style="background:#ff9;"|{{dagger|alt=Best-charting digital song of 2015}}
+|Indicates best-charting digital song of 2015<ref>{{cite magazine |url=http://www.billboard.com/charts/year-end/2015/digital-songs |title=Digital Songs: Year End 2015 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=December 13, 2015}}</ref>
+|}
+{| class="wikitable sortable"
+!Issue date
+!Song
+!Artist(s)
+!Weekly sales
+!Ref(s)
+|-
+|January 3
+| style="background:#ff9; text-align:center;" rowspan="1"|"[[Uptown Funk]]" {{Dagger}}
+|style="text-align: center;" rowspan="1"|[[Mark Ronson]] featuring [[Bruno Mars]]
+|style="text-align: center;"|288,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Keith|last=Caulfield|title=Taylor Swift Tops Hot 100 for Sixth Week|url=https://www.billboard.com/pro/taylor-swift-hot-100-sixth-week-blank-space/|magazine=Billboard|date=December 24, 2014|access-date=July 1, 2015}}</ref>
+|-
+|January 10
+|style="text-align: center;" rowspan="1"|"[[Blank Space]]"
+|style="text-align: center;" rowspan="1"|[[Taylor Swift]]
+|style="text-align: center;"|503,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Keith|last=Caulfield|title=Taylor Swift Helps Tie Record Streak for Women Atop Hot 100|url=https://www.billboard.com/pro/taylor-swift-hot-100-record-streak-women/|magazine=Billboard|date=December 31, 2014|access-date=July 1, 2015}}</ref>
+|-
+|January 17
+| style="background:#ff9; text-align:center;" rowspan="6"|"Uptown Funk" {{Dagger}}
+|style="text-align: center;" rowspan="6"|Mark Ronson featuring Bruno Mars
+|style="text-align: center;"|382,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Keith|last=Caulfield|title=Mark Ronson, Bruno Mars Top Hot 100 With 'Uptown Funk!'|url=https://www.billboard.com/pro/hot-100-uptown-funk-mark-ronson-bruno-mars/|magazine=Billboard|date=July 1, 2015|access-date=July 1, 2015}}</ref>
+|-
+|January 24
+|style="text-align: center;"|341,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Keith|last=Caulfield|title=Mark Ronson, Bruno Mars Top Hot 100 With 'Uptown Funk!'|url=https://www.billboard.com/pro/hot-100-uptown-funk-mark-ronson-bruno-mars/|magazine=Billboard|date=July 1, 2015|access-date=July 1, 2015}}</ref>
+|-
+|January 31
+|style="text-align: center;"|400,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Keith|last=Caulfield|title=Mark Ronson, Bruno Mars Top Hot 100 With 'Uptown Funk!'|url=https://www.billboard.com/pro/hot-100-uptown-funk-mark-ronson-bruno-mars/|magazine=Billboard|date=July 1, 2015|access-date=July 1, 2015}}</ref>
+|-
+|February 7
+|style="text-align: center;"|341,000
+|style="text-align: center;"|<ref>{{citation |title=Mark Ronson & Bruno Mars still top Hot 100; Fall Out Boy hits top 10|url=https://www.billboard.com/pro/mark-ronson-bruno-mars-rule-hot-100-fall-out-boy-top-10/}}</ref>
+|-
+|February 14
+|style="text-align: center;"|365,000
+|style="text-align: center;"|<ref>{{cite magazine|first=Gary|last=Trust|title=Mark Ronson & Bruno Mars Top Hot 100; Rihanna, Kanye West & Paul McCartney Near Top 10|url=https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100-rihanna-kanye-west-paul-mccartney/|magazine=Billboard|date=April 2, 2015|access-date=June 2, 2015}}</ref>
+|-
+|February 21
+|style="text-align: center;"|319,000
+|style="text-align: center;"|<ref>{{citation |title=Rihanna, Kanye West, Paul McCartney, and Ellie Goulding hit top 10; Mark Ronson & Bruno Mars still top Hot 100|url=http://www.billboard.com/articles/6465909/hot-100-rihanna-kanye-west-paul-mccartney-ellie-goulding-mark-ronson}}</ref>
+|-
+|February 28
+|style="text-align: center;" rowspan="1"|"[[Thinking Out Loud]]"
+|style="text-align: center;" rowspan="1"|[[Ed Sheeran]]
+|style="text-align: center;"|314,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Bruno Mars gains longest Hot 100 reign; Taylor Swift hits top 10 |magazine=Billboard |url= http://www.billboard.com/articles/6473187/bruno-mars-longest-hot-100-reign-taylor-swift-top-10}}</ref>
+|-
+|March 7
+| style="background:#ff9; text-align:center;" rowspan="6"|"Uptown Funk" {{Dagger}}
+|style="text-align: center;" rowspan="6"|Mark Ronson featuring Bruno Mars
+|style="text-align: center;"|257,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Mark Ronson & Bruno Mars Tops Hot 100 Again; The Weeknd hits top 10 |magazine=Billboard |url= https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100/}}</ref>
+|-
+|March 14
+|style="text-align: center;"|240,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Pitbull & Ne-Yo hit top 10 as Mark Ronson & Bruno Mars top Hot 100 again |magazine=Billboard |url= https://www.billboard.com/pro/pitbull-ne-yo-hot-100-top-10/}}</ref>
+|-
+|March 21
+|style="text-align: center;"|210,000
+|style="text-align: center;"|<ref>{{cite magazine |title="Uptown Funk" top Hot 100 for 10th week, Ed Sheeran spends 8th week at No.2 |magazine=Billboard |url= https://www.billboard.com/pro/mark-ronson-bruno-mars-10th-week-hot-100/}}</ref>
+|-
+|March 28
+|style="text-align: center;"|189,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Mark Ronson & Bruno Mars top Hot 100, Sam Smith & Fetty Wrap hit top 10| magazine=Billboard |url= https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100-sam-smith-fetty-wap/}}</ref>
+|-
+|April 4
+|style="text-align: center;"|187,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Mark Ronson & Bruno Mars top Hot 100 for 12th week, Flo Rida hits top 10| magazine=Billboard |url=https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100-12th-week/}}</ref>
+|-
+|April 11
+|style="text-align: center;"|165,000
+|style="text-align: center;"|<ref>{{cite magazine |title="Uptown Funk" is Longest No. 1 song of 2010s decade| magazine=Billboard |url=https://www.billboard.com/pro/uptown-funk-longest-leading-hot-100-no-1-2010s/}}</ref>
+|-
+|April 18
+|style="text-align: center;" rowspan="7"|"[[See You Again (Wiz Khalifa song)|See You Again]]"
+|style="text-align: center;" rowspan="7"|[[Wiz Khalifa]] featuring [[Charlie Puth]]
+|style="text-align: center;"|168,000
+|style="text-align: center;"|<ref>{{cite magazine |title="Uptown Funk" ties for second-longest No. 1 in Billboard history| magazine=Billboard |url=https://www.billboard.com/pro/uptown-funk-second-longest-hot-100-number-one/}}</ref>
+|-
+|April 25
+|style="text-align:center;"|464,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Furious 7 Soundtrack Speeds to No. 1 on Billboard 200| magazine=Billboard |url=https://www.billboard.com/pro/furious-7-soundtrack-no-1-billboard-200-chart/}}</ref><ref>{{cite magazine |title=See You Again" knocks "Uptown Funk" from No. 1 on Hot 100| magazine=Billboard |url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-no-1-hot-100/}}</ref>
+|-
+|May 2
+|style="text-align:center;"|375,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Wiz Khalifa's "See You Again" tops Billboard Hot 100 for 2nd week| magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-tops-hot-100-second-week/}}</ref>
+|-
+|May 9
+|style="text-align:center;"|316,000
+|style="text-align: center;"|<ref>{{cite magazine |title=Wiz Khalifa rules Hot 100, Jason Derulo hits top 10| magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-hot-100-jason-derulo/}}</ref>
+|-
+|May 16
+|style="text-align:center;"|285,000
+|style="text-align: center;"|<ref>{{cite magazine|title=Wiz Khalifa tops Hot 100, T-Wayne vaults into top 10| magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-tops-hot-100-t-wayne/}}</ref>
+|-
+|May 23
+|style="text-align:center;"|251,000
+|style="text-align: center;"|<ref>{{cite magazine|title=Wiz Khalifa tops Hot 100, Britney Spears & Iggy Azalea debuts| magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-hot-100-britney-spears-iggy-azalea-debut/}}</ref>
+|-
+|May 30
+|style="text-align:center;"|229,000
+|style="text-align: center;"|<ref>{{cite magazine|title=Wiz Khalifa tops Hot 100, Taylor Swift re-enters after BBMA video release|magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-hot-100-taylor-swift-bbmas/}}</ref>
+|-
+|June 6
+|style="text-align: center;" rowspan="5"|"[[Bad Blood (Taylor Swift song)|Bad Blood]]"
+|style="text-align: center;" rowspan="5"|Taylor Swift featuring [[Kendrick Lamar]]
+|style="text-align: center;"|385,000
+|style="text-align: center;"|<ref>{{cite magazine|title=Taylor Swift blasts in at No. 1|magazine=Billboard|url=https://www.billboard.com/pro/taylor-swift-bad-blood-tops-hot-100/}}</ref>
+|-
+|June 13
+|style="text-align: center;"|241,000
+|style="text-align: center;"|<ref>{{cite magazine|title=See You Again" returns to No. 1|magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-returns-no-1-hot-100/}}</ref>
+|-
+|June 20
+|style="text-align: center;"|213,000
+|style="text-align: center;"|<ref>{{cite magazine|title=See You Again" spends eighth week at the top|magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-no-1-hot-100/}}</ref>
+|-
+|June 27
+|style="text-align: center;"|206,000
+|style="text-align: center;"|<ref>{{cite magazine|title=See You Again" No. 1 on Hot 100, OMI jumps into top 10|magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-no-1-omi-cheerleader/}}</ref>
+|-
+|July 4
+|style="text-align: center;"|173,000
+|style="text-align: center;"|<ref>{{cite magazine|title=See You Again" spends 10th week at No. 1|magazine=Billboard|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-hot-100-10th-week/}}</ref>
+|-
+|July 11
+|style="text-align: center;" rowspan="1"|"[[Good for You (Selena Gomez song)|Good for You]]"
+|style="text-align: center;" rowspan="1"|[[Selena Gomez]] featuring [[ASAP Rocky]]
+|style="text-align: center;"|179,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/wiz-khalifa-no-1-hot-100-selena-gomez-debuts/|title=See You Again" tops Hot 100, Selena Gomez debuts at No. 9|magazine=Billboard}}</ref>
+|-
+|July 18
+|style="text-align: center;" rowspan="4"|"[[Cheerleader (Omi song)|Cheerleader]]"
+|style="text-align: center;" rowspan="4"|[[OMI (singer)|OMI]]
+|style="text-align: center;"|170,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/wiz-khalifa-see-you-again-ties-longest-leading-rap-number-one/|title=See You Again" ties for longest rap No. 1 on Hot 100|magazine=Billboard}}</ref>
+|-
+|July 25
+|style="text-align: center;"|276,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-cheerleader-hot-100/|title=Cheerleader" leaps to No. 1|magazine=Billboard}}</ref>
+|-
+|August 1
+|style="text-align: center;"|172,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-cheerleader-hot-100-the-weeknd/|title=Cheerleader" tops Hot 100, The Weeknd pushes in|magazine=Billboard}}</ref>
+|-
+|August 8
+|style="text-align: center;"|163,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-cheerleader-third-week-hot-100/|title=Cheerleader" spends third week at No. 1 on Hot 100|magazine=Billboard}}</ref>
+|-
+|August 15
+|style="text-align: center;" rowspan="1"|"[[Can't Feel My Face]]"
+|style="text-align: center;" rowspan="1"|[[The Weeknd]]
+|style="text-align: center;"|148,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-cheerleader-number-1-hot-100-fourth-week/?mobile_redirection=false|title=Cheerleader" spends fourth week at No. 1 on Hot 100|magazine=Billboard}}</ref>
+|-
+|August 22
+|style="text-align: center;" rowspan="1"|"[[Drag Me Down]]"
+|style="text-align: center;" rowspan="1"|[[One Direction]]
+|style="text-align: center;"|350,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-no-1-hot-100-cant-feel-my-face-one-direction-drag-me-down/|title=Can't Feel My Face" tops Hot 100, One Direction debuts at number 3|magazine=Billboard}}</ref>
+|-
+|August 29
+|style="text-align: center;" rowspan="2"|"Can't Feel My Face"
+|style="text-align: center;" rowspan="2"|The Weeknd
+|style="text-align: center;"|119,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-cheerleader-no-1-return-hot-100-lana-del-rey-debut/|title=Cheerleader" back at No. 1 on Hot 100|magazine=[[Billboard (magazine)|Billboard]] }}</ref>
+|-
+|September 5
+|style="text-align: center;"|109,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/omi-no-1-hot-100-sixth-week/|title=OMI spends sixth week at No. 1|magazine=Billboard}}</ref>
+|-
+|September 12
+|style="text-align: center;" rowspan="1"|"[[Locked Away]]"
+|style="text-align: center;" rowspan="1"|[[R. City]] featuring [[Adam Levine]]
+|style="text-align: center;"|92,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-cant-feel-my-face-returns-no-1-hot-100/|title=The Weeknd back at No. 1|magazine=Billboard}}</ref>
+|-
+|September 19
+|style="text-align: center;" rowspan="3"|"[[What Do You Mean?]]"
+|style="text-align: center;" rowspan="3"|[[Justin Bieber]]
+|style="text-align: center;"|337,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/justin-bieber-what-do-you-mean-first-hot-100-number-one/|title=Justin Bieber Scores First Hot 100 No. 1 With Debut of 'What Do You Mean?'|magazine=Billboard}}</ref>
+|-
+|September 26
+|style="text-align: center;"|159,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-no-1-2-hot-100-cant-feel-my-face-the-hills/|title=The Weeknd takes the No. 1 and No. 2 spots on Hot 100|magazine=Billboard}}</ref>
+|-
+|October 3
+|style="text-align: center;"|128,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-replaces-himself-hot-100-the-hills-no-1/|title=The Weeknd replaces himself at No. 1 with 'The Hills'|magazine=Billboard|access-date=September 21, 2015}}</ref>
+|-
+|October 10
+|style="text-align: center;" rowspan="2"|"[[The Hills (song)|The Hills]]"
+|style="text-align: center;" rowspan="2"|The Weeknd
+|style="text-align: center;"|110,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-hot-100-taylor-swift-top-10/|title=The Weeknd Holds Atop Hot 100, Taylor Swift hits top 10|magazine=Billboard}}</ref>
+|-
+|October 17
+|style="text-align: center;"|105,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-no-1-hot-100-shawn-mendes-first-top-10/|title=The Weekend No. 1 on Hot 100 Again, Shawn Mendes earns first top 10|magazine=Billboard}}</ref>
+|-
+|October 24
+|style="text-align: center;" rowspan="1"|"[[Hotline Bling]]"
+|style="text-align: center;" rowspan="1"|[[Drake (rapper)|Drake]]
+|style="text-align: center;"|121,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/weeknd-no-1-hot-100-drake-hotline-bling-no-2/|title=The Weeknd No. 1 on Hot 100, Drake's 'Hotline Bling' Bounds to No. 2|magazine=Billboard}}</ref>
+|-
+|October 31
+|style="text-align: center;" rowspan="1"|"The Hills"
+|style="text-align: center;" rowspan="1"|The Weeknd
+|style="text-align: center;"|189,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/the-weeknd-the-hills-no-1-hot-100-fifth-week/|title=The Hills" spends fifth week at No. 1 on Hot 100|magazine=Billboard}}</ref>
+|-
+|November 7
+|style="text-align: center;" rowspan="1"|"Hotline Bling"
+|style="text-align: center;" rowspan="1"|Drake
+|style="text-align: center;"|153,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/weeknd-tops-hot-100-adele-no-1-next-week/|title=The Weeknd No. 1 for Sixth Week, Adele No. 1 next week?|magazine=Billboard}}</ref>
+|-
+|November 14
+|style="text-align: center;" rowspan="4"|"[[Hello (Adele song)|Hello]]"
+|style="text-align: center;" rowspan="4"|[[Adele]]
+|style="text-align: center;"|1,112,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hello-no-1-hot-100-debut-one-million-downloads-week/|title=Adele Says 'Hello' to No. 1 Hot 100 Debut; First Song to Sell 1 Million Downloads in a Week|magazine=Billboard}}</ref>
+|-
+|November 21
+|style="text-align: center;"|635,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hello-hot-100-second-week/|title=Adele's 'Hello' Tops Hot 100 for Second Week; Ariana Grande, Meghan Trainor Hit Top 10|magazine=Billboard}}</ref>
+|-
+|November 28
+|style="text-align: center;"|480,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hello-hot-100-no-1-third-week-fastest-radio-songs/|title=Adele's 'Hello' Leads Hot 100 for Third Week, Is Fastest Radio Songs No. 1 in 22 Years|magazine=Billboard}}</ref>
+|-
+|December 5
+|style="text-align: center;"|327,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-tops-hot-100-fourth-week-justin-bieber-alessia-cara/|title=Adele Tops Hot 100 for Fourth Week; Justin Bieber, Alessia Cara Hit Top 10|magazine=Billboard}}</ref>
+|-
+|December 12
+|style="text-align: center;" rowspan="1"|"[[Sorry (Justin Bieber song)|Sorry]]"
+|style="text-align: center;" rowspan="1"|Justin Bieber
+|style="text-align: center;"|178,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hello-no-1-hot-100-fifth-week/|title=Adele's 'Hello' Leads Hot 100 for Fifth Week|magazine=Billboard}}</ref>
+|-
+|December 19
+|style="text-align: center;" rowspan="1"|"Hello"
+|style="text-align: center;" rowspan="1"|Adele
+|style="text-align: center;"|233,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hello-leads-hot-100-sixth-week/|title=Adele's 'Hello' Leads Hot 100 for Sixth Week, Selena Gomez Goes Top 10|magazine=Billboard}}</ref>
+|-
+|December 26
+|style="text-align: center;" rowspan="1"|"[[Somebody to Love (Queen song)|Somebody to Love]]"
+|style="text-align: center;" rowspan="1"|[[Jordan Smith (musician)|Jordan Smith]]
+|style="text-align: center;"|164,000
+|style="text-align: center;"|<ref>{{cite magazine|url=https://www.billboard.com/pro/adele-hot-100-seventh-week-no-1/|title=Adele Matches Longest Hot 100 Reign With Seventh Week at No. 1 for 'Hello'|magazine=Billboard}}</ref>
+|}
+
+==See also==
+*[[2015 in music]]
+*[[List of Billboard Hot 100 number-one singles of 2015]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.billboard.com/charts/digital-song-sales Current Digital Songs chart]
+
+{{Hot 100 component charts}}
+
+[[Category:2015 record charts|United States Digital Songs]]
+[[Category:Lists of number-one digital songs in the United States|2015]]
+[[Category:2015 in American music|Number-one digital songs]]

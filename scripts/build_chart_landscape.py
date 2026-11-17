@@ -99,6 +99,35 @@ def number_ones(year):
     return out
 
 
+def weekly_list(page, year, units_label):
+    """Generic 'Issue date | Song | Artist | <units>' number-one list."""
+    path = os.path.join(WIKI, page + ".txt")
+    if not os.path.exists(path):
+        return []
+    text = strip_refs(open(path).read())
+    m = re.search(r"==\s*Chart history\s*==(.*?)(\n==[^=]|\Z)", text, re.S)
+    out = []
+    for tm in re.finditer(r"\{\|(.*?)\n\|\}", m.group(1), re.S):
+        rows = wikitable_rows(tm.group(1))
+        if not rows:
+            continue
+        header = [clean(cell_value(r)).lower() for r, _ in rows[0]]
+        if not header or "issue date" not in header[0]:
+            continue
+        for row in rows[1:]:
+            if len(row) < 3:
+                continue
+            week = month_day(cell_value(row[0][0]), year)
+            if not week:
+                continue
+            rec = {"week": week, "title": song_title(row[1][0]), "artist": clean(cell_value(row[2][0]))}
+            if len(row) > 3 and len(header) > 3 and "ref" not in header[3]:
+                rec[units_label] = clean(cell_value(row[3][0])) or None
+            rec["source"] = wiki_url(page)
+            out.append(rec)
+    return out
+
+
 def main(years):
     songs, seen = [], set()
     for y in years:
@@ -112,6 +141,10 @@ def main(years):
     for y in years:
         ones += number_ones(y)
     ones.sort(key=lambda w: w["week"])
+    digital, streaming = [], []
+    for y in years:
+        digital += weekly_list(f"List_of_number-one_digital_songs_of_{y}_(U.S.)", y, "weekly_sales")
+        streaming += weekly_list(f"List_of_Billboard_Streaming_Songs_number_ones_of_{y}", y, "weekly_streams")
     out = {
         "chart": "US Billboard Hot 100",
         "years": years,
@@ -120,11 +153,13 @@ def main(years):
                 "including any re-entry, so the end of a run is approximate.",
         "top_ten": songs,
         "number_ones": ones,
+        "digital_number_ones": sorted(digital, key=lambda w: w["week"]),
+        "streaming_number_ones": sorted(streaming, key=lambda w: w["week"]),
     }
     os.makedirs(os.path.join(DATA, "charts"), exist_ok=True)
     with open(os.path.join(DATA, "charts", "hot100.json"), "w") as f:
         json.dump(out, f, indent=2, ensure_ascii=False)
-    print(f"wrote {len(songs)} top-ten songs and {len(ones)} number-one weeks")
+    print(f"wrote {len(songs)} top-ten songs, {len(ones)} Hot 100 / {len(digital)} digital / {len(streaming)} streaming number-one weeks")
 
 
 if __name__ == "__main__":
