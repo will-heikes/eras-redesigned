@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Era Redesign</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="topbar">
+  <a class="brand" href="./">Eras <b>Redesigned</b></a>
+  <div class="tabs"><a href="./">Album</a><a href="redesign.html" aria-current="page">Redesign</a></div>
+</nav>
+<header class="masthead">
+  <div class="mast-left">
+    <div class="kicker" id="kicker">Era redesign</div>
+    <h1 id="era-title">Loading</h1>
+  </div>
+  <div class="mast-right">
+    <label class="field">
+      <span>Scenario</span>
+      <select id="scenario"></select>
+    </label>
+    <button id="btn-export" type="button" class="primary">Export JSON</button>
+    <button id="btn-reset" type="button">Reset</button>
+  </div>
+</header>
+
+<main>
+  <section class="band">
+    <div class="band-head">
+      <h2>Timeline</h2>
+      <div class="legend">
+        <span><i class="sw sw-real"></i>Real single</span>
+        <span><i class="sw sw-promo"></i>Real promo</span>
+        <span><i class="sw sw-alt"></i>Alternate single</span>
+        <span><i class="sw sw-one"></i>Hot 100 No. 1</span>
+      </div>
+    </div>
+    <div id="timeline" class="timeline"></div>
+  </section>
+
+  <section class="grid">
+    <div class="col">
+      <div class="band-head"><h2>Singles</h2><button id="btn-add" type="button">+ Add single</button></div>
+      <div class="tbl"><table class="singles">
+        <thead>
+          <tr><th class="n">#</th><th>Real</th><th class="n">US</th><th>Alternate</th><th>Date</th><th></th></tr>
+        </thead>
+        <tbody id="singles-body"></tbody>
+      </table></div>
+      <p class="fine">Click a row to see what that single was, or would have been, up against.</p>
+    </div>
+
+    <div class="col col-wide" id="competition"></div>
+  </section>
+</main>
+
+<footer class="fine">
+  Chart data: English Wikipedia (CC BY-SA 4.0), Billboard Hot 100 top-ten and number-one lists.
+  Top-ten runs end on an estimated week. Runs marked * include a re-entry.
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

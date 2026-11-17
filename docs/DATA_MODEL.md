@@ -35,7 +35,7 @@ data/
 | `key_peaks` | Best position on the four headline charts: `us` (Billboard 200), `uk`, `can`, `aus` |
 | `weekly_charts[]` | Tables as they appear on Wikipedia: `period` (e.g. `2013-15`) and `entries[]` of `chart`, `position` |
 | `year_end_charts[]` | `year` and `entries[]` |
-| `certifications[]` | `region`, `certification`, optional `units_reported`, `cert_year`, `type` |
+| `certifications[]` | `region`, `certification`, optional `units_reported`, `cert_year`, `type` (`standard`, or `streaming only` for streaming-only certifications) |
 | `awards[]` | `year`, `award`, `category`, `result` (`Won` or `Nominated`) |
 
 ## Song
@@ -125,5 +125,5 @@ its id to the index to keep it.
 ## The tool (`site/`)
 
 Open `site/index.html` through a local web server from the repository root,
-for example `python3 -m http.server`, then visit `http://localhost:8000/site/`.
+for example `python3 -m http.server`, then visit `http://localhost:8000/site/` for the album page and `site/redesign.html` for the tool.
 Edits made in the page are kept in that browser until you press Reset.

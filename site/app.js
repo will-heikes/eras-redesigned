@@ -122,15 +122,15 @@ function renderTimeline() {
     const xx = x(m.getTime());
     const jan = m.getUTCMonth() === 0 || firstMonth;
     firstMonth = false;
-    parts.push(`<line x1="${xx}" x2="${xx}" y1="14" y2="${H - 22}" stroke="${jan ? "#111" : "#c9c5b8"}" stroke-width="${jan ? 2 : 1}"/>`);
+    parts.push(`<line x1="${xx}" x2="${xx}" y1="14" y2="${H - 22}" stroke="${jan ? "var(--rule)" : "var(--hair)"}" stroke-width="1"/>`);
     const label = m.toLocaleDateString("en-US", { month: "short", timeZone: "UTC" }).toUpperCase() + (jan ? ` ${m.getUTCFullYear()}` : "");
     parts.push(`<text x="${xx + 4}" y="${H - 8}" font-size="12" font-weight="${jan ? 800 : 400}">${label}</text>`);
   }
 
   // lane labels
   const laneLabel = (y, txt, color) => parts.push(`<text x="0" y="${y + 5}" font-size="12" font-weight="800" fill="${color}">${txt}</text>`);
-  laneLabel(lanes.one, "NO. 1", "#111");
-  laneLabel(lanes.real, "REAL", "#111");
+  laneLabel(lanes.one, "NO. 1", "var(--ink-2)");
+  laneLabel(lanes.real, "REAL", "var(--ink-2)");
   laneLabel(lanes.alt, "ALTERNATE", "var(--accent)");
 
   // number-one runs
@@ -143,11 +143,11 @@ function renderTimeline() {
   runs.forEach((r, k) => {
     const x1 = x(t(r.start) - 3.5 * DAY), x2 = x(t(r.end) + 3.5 * DAY);
     const same = r.artist.includes(state.artist.name);
-    parts.push(`<rect x="${x1}" y="${lanes.one - 16}" width="${Math.max(1, x2 - x1)}" height="32" fill="${same ? "var(--accent)" : "var(--one)"}" stroke="#111" stroke-width="1"><title>${esc(r.title)} - ${esc(r.artist)} (${fmt(r.start)} to ${fmt(r.end)})</title></rect>`);
+    parts.push(`<rect x="${x1}" y="${lanes.one - 16}" width="${Math.max(1, x2 - x1)}" height="32" fill="${same ? "var(--accent)" : "var(--one-bg)"}" stroke="var(--bg)" stroke-width="2"><title>${esc(r.title)} - ${esc(r.artist)} (${fmt(r.start)} to ${fmt(r.end)})</title></rect>`);
     if (x2 - x1 > 46) {
       const max = Math.floor((x2 - x1 - 8) / 7.2);
       const txt = r.title.length > max ? r.title.slice(0, Math.max(1, max - 1)) + "…" : r.title;
-      parts.push(`<text x="${x1 + 4}" y="${lanes.one + 4}" font-size="12" font-weight="600" fill="${same ? "#fff" : "#111"}" pointer-events="none">${esc(txt)}</text>`);
+      parts.push(`<text x="${x1 + 4}" y="${lanes.one + 4}" font-size="12" font-weight="600" fill="${same ? "#fff" : "var(--ink)"}" pointer-events="none">${esc(txt)}</text>`);
     }
   });
 
@@ -174,14 +174,14 @@ function renderTimeline() {
     const sel = state.sel.lane === lane && state.sel.i === i && kind !== "promo";
     const shape = kind === "promo"
       ? `<rect x="${xx - 6}" y="${y - 6}" width="12" height="12" fill="var(--paper)" stroke="${color}" stroke-width="3"/>`
-      : `<rect x="${xx - 8}" y="${y - 8}" width="16" height="16" fill="${color}" ${sel ? 'stroke="#111" stroke-width="3"' : ""}/>`;
+      : `<rect x="${xx - 8}" y="${y - 8}" width="16" height="16" fill="${color}" ${sel ? 'stroke="var(--ink)" stroke-width="3"' : ""}/>`;
     return `<g class="mk" data-lane="${lane}" data-i="${i}" data-kind="${kind}" style="cursor:${kind === "promo" ? "default" : "pointer"}">
       <line x1="${xx}" x2="${xx}" y1="${y}" y2="${y + slot - (slot < 0 ? -2 : 10)}" stroke="${color}" stroke-width="1"/>${shape}
       <text x="${xx + 6}" y="${y + slot}" font-size="${kind === "promo" ? 11 : 13}" font-weight="${kind === "promo" ? 600 : 800}" fill="${color}">${esc(label)}</text>
       <title>${esc(title(item.song_id))}: ${fmt(item.date)}</title></g>`;
   };
-  realSingles().forEach((r, i) => parts.push(marker(r, "real", "#111", i, "single")));
-  state.real.filter((r) => r.promo).forEach((r, i) => parts.push(marker(r, "real", "#111", i, "promo")));
+  realSingles().forEach((r, i) => parts.push(marker(r, "real", "var(--real)", i, "single")));
+  state.real.filter((r) => r.promo).forEach((r, i) => parts.push(marker(r, "real", "var(--real)", i, "promo")));
   state.alt.singles.forEach((a, i) => a.date && parts.push(marker(a, "alt", "var(--accent)", i, "single")));
 
   document.getElementById("timeline").innerHTML =
@@ -205,9 +205,9 @@ function runBar(s, week) {
   const x = (ms) => Math.max(0, Math.min(W, ((ms - from) / (to - from)) * W));
   const a = x(t(s.entry_date) - 3.5 * DAY), b = x(t(s.approx_last_top_ten_week) + 3.5 * DAY), p = x(t(s.peak_date)), w = x(t(week));
   return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" aria-hidden="true">
-    <line x1="0" x2="${W}" y1="${H / 2}" y2="${H / 2}" stroke="#c9c5b8"/>
-    <rect x="${a}" y="4" width="${Math.max(2, b - a)}" height="${H - 8}" fill="#111"/>
-    <rect x="${p - 2}" y="0" width="4" height="${H}" fill="var(--one)" stroke="#111" stroke-width="1"/>
+    <line x1="0" x2="${W}" y1="${H / 2}" y2="${H / 2}" stroke="var(--hair)"/>
+    <rect x="${a}" y="4" width="${Math.max(2, b - a)}" height="${H - 8}" fill="var(--ink-2)"/>
+    <rect x="${p - 2}" y="0" width="4" height="${H}" fill="var(--one)"/>
     <line x1="${w}" x2="${w}" y1="0" y2="${H}" stroke="var(--accent)" stroke-width="2"/>
   </svg>`;
 }

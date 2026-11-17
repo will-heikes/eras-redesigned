@@ -3,63 +3,75 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Era Redesign</title>
+<title>Album</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=JetBrains+Mono:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400..700&family=Geist+Mono:wght@400..600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<nav class="topbar">
+  <a class="brand" href="./">Eras <b>Redesigned</b></a>
+  <div class="tabs"><a href="./" aria-current="page">Album</a><a href="redesign.html">Redesign</a></div>
+</nav>
+
 <header class="masthead">
-  <div class="mast-left">
-    <div class="kicker" id="kicker">Era redesign</div>
-    <h1 id="era-title">Loading</h1>
+  <div>
+    <div class="kicker" id="kicker">Loading</div>
+    <h1 id="album-title"></h1>
+    <div class="sub" id="album-sub"></div>
   </div>
-  <div class="mast-right">
-    <label class="field">
-      <span>Scenario</span>
-      <select id="scenario"></select>
-    </label>
-    <button id="btn-export" type="button">Export JSON</button>
-    <button id="btn-reset" type="button">Reset</button>
-  </div>
+  <div class="stats" id="album-stats"></div>
 </header>
 
 <main>
   <section class="band">
     <div class="band-head">
-      <h2>Timeline</h2>
+      <h2>The era</h2>
       <div class="legend">
-        <span><i class="sw sw-real"></i>Real single</span>
-        <span><i class="sw sw-promo"></i>Real promo</span>
-        <span><i class="sw sw-alt"></i>Alternate single</span>
-        <span><i class="sw sw-one"></i>Hot 100 No. 1</span>
+        <span><i class="sw sw-real"></i>Single</span>
+        <span><i class="sw sw-promo"></i>Promo single</span>
+        <span><i class="sw sw-alt"></i>Hot 100 top-ten run</span>
       </div>
     </div>
     <div id="timeline" class="timeline"></div>
   </section>
 
-  <section class="grid">
-    <div class="col">
-      <div class="band-head"><h2>Singles</h2><button id="btn-add" type="button">+ Add single</button></div>
-      <div class="tbl"><table class="singles">
-        <thead>
-          <tr><th class="n">#</th><th>Real</th><th class="n">US</th><th>Alternate</th><th>Date</th><th></th></tr>
-        </thead>
-        <tbody id="singles-body"></tbody>
-      </table></div>
-      <p class="fine">Click a row to see what that single was, or would have been, up against.</p>
-    </div>
+  <section class="band">
+    <div class="band-head"><h2>Singles</h2><span class="fine">Hot 100 peak, original release window</span></div>
+    <div class="cards" id="singles"></div>
+  </section>
 
-    <div class="col col-wide" id="competition"></div>
+  <section class="band">
+    <div class="band-head">
+      <h2>Every track, every major chart</h2>
+      <div class="scale">
+        <span class="t1" style="background:var(--tier-1)">No. 1</span>
+        <span style="background:var(--tier-10)">Top 10</span>
+        <span style="background:var(--tier-40)">Top 40</span>
+        <span style="background:var(--tier-100);color:var(--ink-2)">Charted</span>
+      </div>
+    </div>
+    <div class="tbl"><table class="heat" id="tracks"></table></div>
+    <p class="fine">Peaks from each song's original release window (before 2020). Songs without their own Wikipedia article use the discography's "other charted songs" table. B = Bubbling Under Hot 100 position.</p>
+  </section>
+
+  <section class="band two">
+    <div>
+      <div class="band-head"><h2>Album certifications</h2></div>
+      <div class="tbl"><table id="album-certs"></table></div>
+    </div>
+    <div>
+      <div class="band-head"><h2>Awards</h2></div>
+      <div class="stats" id="awards-summary" style="margin-bottom:16px"></div>
+      <div class="tbl"><table id="awards"></table></div>
+    </div>
   </section>
 </main>
 
 <footer class="fine">
-  Chart data: English Wikipedia (CC BY-SA 4.0), Billboard Hot 100 top-ten and number-one lists.
-  Top-ten runs end on an estimated week. Runs marked * include a re-entry.
+  Data: English Wikipedia (CC BY-SA 4.0). Each data file in the repository links the articles it came from.
 </footer>
-
-<script type="module" src="app.js"></script>
+<script type="module" src="album.js"></script>
 </body>
 </html>

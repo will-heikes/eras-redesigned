@@ -305,97 +305,97 @@
       "region": "Australia",
       "certification": "4× Platinum",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Austria",
       "certification": "Gold",
       "cert_year": 2024,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Brazil",
       "certification": "Diamond",
       "cert_year": 2024,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Canada",
       "certification": "3× Platinum",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Finland",
       "certification": "Platinum",
       "units_reported": "4,000",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "France",
       "certification": "Gold",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Germany",
       "certification": "Gold",
       "cert_year": 2018,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Italy",
       "certification": "Platinum",
       "cert_year": 2014,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "New Zealand",
       "certification": "Platinum",
       "cert_year": 2022,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Norway",
       "certification": "Platinum",
       "cert_year": 2020,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "South Korea",
       "certification": null,
       "units_reported": "28,686",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Spain",
       "certification": "Gold",
       "cert_year": 2024,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United Kingdom",
       "certification": "Platinum",
       "cert_year": 2026,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United States",
       "certification": "2× Platinum",
       "cert_year": 2017,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Denmark",
       "certification": "Gold",
       "cert_year": 2014,
-      "type": "streaming"
+      "type": "streaming only"
     },
     {
       "region": "Sweden",
       "certification": "Platinum",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "streaming only"
     }
   ],
   "awards": [],

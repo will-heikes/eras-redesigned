@@ -426,7 +426,7 @@ def parse_certifications(text):
     certs = []
     secs = sections(text)
     body = chart_section(secs, "certifications and sales", "certifications")
-    category = "sales/streaming"
+    category = "standard"
     for line in re.split(r"(?=\{\{\s*Certification Table)", body, flags=re.I):
         if re.match(r"\{\{\s*Certification Table Separator", line, re.I):
             m = re.search(r"title\s*=\s*([^|}]*)", line)
@@ -450,7 +450,7 @@ def parse_certifications(text):
             entry["units_reported"] = clean(p["salesamount"])
         if p.get("certyear"):
             entry["cert_year"] = int(p["certyear"]) if p["certyear"].strip().isdigit() else p["certyear"]
-        entry["type"] = "streaming" if (p.get("streamsonly", "").lower() == "true" or "stream" in category) else "sales"
+        entry["type"] = "streaming only" if (p.get("streamsonly", "").lower() == "true" or "stream" in category) else "standard"
         certs.append(entry)
     return certs
 

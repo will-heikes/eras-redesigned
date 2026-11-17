@@ -289,79 +289,79 @@
       "region": "Australia",
       "certification": "3× Platinum",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Brazil",
       "certification": "Diamond",
       "cert_year": 2024,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Canada",
       "certification": "2× Platinum",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Finland",
       "certification": "Platinum",
       "units_reported": "4,000",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "France",
       "certification": null,
       "units_reported": "10,500",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Italy",
       "certification": "Gold",
       "cert_year": 2014,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "New Zealand",
       "certification": "Platinum",
       "cert_year": 2015,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Norway",
       "certification": "Platinum",
       "cert_year": 2015,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "South Korea",
       "certification": null,
       "units_reported": "2,263",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Sweden",
       "certification": "Platinum",
       "cert_year": 2014,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United Kingdom",
       "certification": "Silver",
       "cert_year": 2016,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United States",
       "certification": "2× Platinum",
       "cert_year": 2019,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "Denmark",
       "certification": "Gold",
       "cert_year": 2014,
-      "type": "streaming"
+      "type": "streaming only"
     }
   ],
   "awards": [],

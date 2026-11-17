@@ -149,26 +149,26 @@
       "region": "Brazil",
       "certification": "Gold",
       "cert_year": 2024,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "New Zealand",
       "certification": "Gold",
       "cert_year": 2026,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "South Korea (Gaon)",
       "certification": null,
       "units_reported": "2,330",
       "cert_year": 2013,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United Kingdom",
       "certification": "Silver",
       "cert_year": 2026,
-      "type": "streaming"
+      "type": "standard"
     }
   ],
   "awards": [],

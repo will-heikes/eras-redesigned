@@ -141,25 +141,25 @@
       "region": "Australia",
       "certification": "Gold",
       "cert_year": 2023,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "South Korea",
       "certification": null,
       "units_reported": "8,029",
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "New Zealand",
       "certification": "Gold",
       "cert_year": 2015,
-      "type": "streaming"
+      "type": "standard"
     },
     {
       "region": "United States",
       "certification": null,
       "units_reported": "150,000",
-      "type": "streaming"
+      "type": "standard"
     }
   ],
   "awards": [],
