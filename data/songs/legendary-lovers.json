@@ -1,0 +1,195 @@
+{
+  "id": "legendary-lovers",
+  "title": "Legendary Lovers",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 2,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:44",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "McKee",
+    "Walter"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin",
+    "Cirkut"
+  ],
+  "single": null,
+  "release_history": [
+    {
+      "region": "Various",
+      "date": "2026-05-29",
+      "format": "{{hlist|Digital download|streaming}}",
+      "version": "Remix featuring Chief Keef",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2013-10-18",
+  "infobox_type": "song",
+  "genre": [
+    "Worldbeat",
+    "[[folk music",
+    "folk]]"
+  ],
+  "lead": "\"Legendary Lovers\" is a song by American singer-songwriter Katy Perry from her fourth studio album, Prism, released on October 18, 2013, by Capitol Records. It is the album's second track, and was written by Perry herself, alongside Bonnie McKee, Cirkut, Dr. Luke, and Max Martin, while the latter three also handled its production. It is a worldbeat and folk song set to a danceable bhangra beat and is influenced by country music, while its instrumentation is composed of tablas, oriental strings, a coral sitar, and a double violin. Its lyrical content combines Eastern philosophy with mild sexual references, expressing \"eternal passion\" and also referencing the romances of infamous fictional characters and historical figures.",
+  "key_peaks_original_era": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2013-2014",
+      "entries": [
+        {
+          "chart": "Belgium (Ultratip Bubbling Under Wallonia)",
+          "position": 9
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 33
+        },
+        {
+          "chart": "South Korea International (Gaon)",
+          "position": 92
+        },
+        {
+          "chart": "US Pop Digital Songs (Billboard)",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "period": "2026",
+      "entries": [
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 34
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 29
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 47
+        },
+        {
+          "chart": "Global Excl. US (Billboard)",
+          "position": 158
+        },
+        {
+          "chart": "Greece International (IFPI)",
+          "position": 87
+        },
+        {
+          "chart": "Netherlands (Single Tip)",
+          "position": 3
+        },
+        {
+          "chart": "Norway (IFPI Norge)",
+          "position": 62
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 96
+        },
+        {
+          "chart": "Poland (Polish Streaming Top 100)",
+          "position": 33
+        },
+        {
+          "chart": "Portugal (AFP)",
+          "position": 117
+        },
+        {
+          "chart": "Slovakia (Singles Digitál Top 100)",
+          "position": 72
+        },
+        {
+          "chart": "Sweden Heatseeker (Sverigetopplistan)",
+          "position": 7
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "period": "2026",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 70
+        },
+        {
+          "chart": "New Zealand Hot Singles (RMNZ)",
+          "position": 7
+        }
+      ],
+      "version": "Legendary Lovers (Save Me)"
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Brazil",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "Gold",
+      "cert_year": 2026,
+      "type": "streaming"
+    },
+    {
+      "region": "South Korea (Gaon)",
+      "certification": null,
+      "units_reported": "2,330",
+      "cert_year": 2013,
+      "type": "streaming"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Silver",
+      "cert_year": 2026,
+      "type": "streaming"
+    }
+  ],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": null,
+    "AUT": 34,
+    "CAN": null,
+    "CZR": 29,
+    "GER": 57,
+    "KOR Intl.": 92,
+    "NOR": 62,
+    "POL": 33,
+    "SVK": 72,
+    "UK": null
+  },
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Legendary_Lovers_(song)",
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-17"
+}

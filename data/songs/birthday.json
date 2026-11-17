@@ -1,0 +1,338 @@
+{
+  "id": "birthday",
+  "title": "Birthday",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 3,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:35",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "McKee",
+    "Walter"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin",
+    "Cirkut"
+  ],
+  "single": {
+    "order": 4,
+    "date": "2014-04-21",
+    "source": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  },
+  "release_history": [
+    {
+      "region": "United States",
+      "date": "2014-04-21",
+      "format": "Contemporary hit radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2014-04-21",
+      "format": "Rhythmic contemporary",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2014-05-20",
+      "format": "Digital download",
+      "version": "Cash Cash remix",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2014-05-22",
+      "format": "Digital download",
+      "version": "Cash Cash remix",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2014-06-06",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2014-04-21",
+  "infobox_type": "single",
+  "genre": [
+    "Disco"
+  ],
+  "lead": "\"Birthday\" is a song by American singer Katy Perry from her fourth studio album, Prism (2013). She co-wrote the song with Bonnie McKee and its producers Dr. Luke, Max Martin, and Cirkut. The song was recorded in Studios across California, alongside MXM Studios, based in Stockholm, Sweden. Inspired by Mariah Carey's first album, critics compared \"Birthday\" to the work of other musicians like Prince and Daft Punk. Through double entendres in the lyrics of \"Birthday\", Perry makes sexual references while celebrating a partner's birthday. Capitol Records sent the track to mainstream and rhythmic radio on April 21, 2014 as the album's fourth single.",
+  "key_peaks_original_era": {
+    "us": 17,
+    "uk": 22,
+    "can": 7,
+    "aus": 25
+  },
+  "key_peaks_all_time": {
+    "us": 17,
+    "uk": 22,
+    "can": 7,
+    "aus": 25
+  },
+  "weekly_charts": [
+    {
+      "period": "2014",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 25
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 51
+        },
+        {
+          "chart": "Belgium (Ultratip Bubbling Under Flanders)",
+          "position": 2
+        },
+        {
+          "chart": "Belgium (Ultratip Bubbling Under Wallonia)",
+          "position": 2
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 7
+        },
+        {
+          "chart": "Canada AC (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "Canada CHR/Top 40 (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "Canada Hot AC (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 185
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 32
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 32
+        },
+        {
+          "chart": "Finland Airplay (Radiosoittolista)",
+          "position": 25
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 57
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 69
+        },
+        {
+          "chart": "Hungary (Editors' Choice Top 40)",
+          "position": 21
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 47
+        },
+        {
+          "chart": "Israel (Media Forest TV Airplay)",
+          "position": 1
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 49
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 34
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 56
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 17
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 16
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 37
+        },
+        {
+          "chart": "Slovakia (Singles Digitál Top 100)",
+          "position": 24
+        },
+        {
+          "chart": "Slovenia (SloTop50)",
+          "position": 26
+        },
+        {
+          "chart": "South Africa (EMA)",
+          "position": 3
+        },
+        {
+          "chart": "South Korea International Singles (Gaon Digital Chart)",
+          "position": 10
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 22
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 17
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 29
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 11
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 8
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 8
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 25
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2014",
+      "entries": [
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 50
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 197
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 80
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 33
+        },
+        {
+          "chart": "US Mainstream Top 40 (Billboard)",
+          "position": 50
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "3× Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Canada",
+      "certification": "2× Platinum",
+      "cert_year": 2023,
+      "type": "streaming"
+    },
+    {
+      "region": "Finland",
+      "certification": "Platinum",
+      "units_reported": "4,000",
+      "type": "streaming"
+    },
+    {
+      "region": "France",
+      "certification": null,
+      "units_reported": "11,500",
+      "type": "streaming"
+    },
+    {
+      "region": "Italy",
+      "certification": "Gold",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Norway",
+      "certification": "Gold",
+      "cert_year": 2021,
+      "type": "streaming"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "21,763",
+      "type": "streaming"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Gold",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "United States",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Birthday_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  ],
+  "retrieved": "2026-11-17"
+}

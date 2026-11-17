@@ -1,0 +1,46 @@
+{
+  "id": "by-the-grace-of-god",
+  "title": "By the Grace of God",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 13,
+  "edition": "standard",
+  "featuring": null,
+  "length": "4:27",
+  "writers": [
+    "Perry",
+    "Greg Wells"
+  ],
+  "producers": [
+    "Wells",
+    "Perry"
+  ],
+  "single": null,
+  "first_release": "2013-10-18",
+  "lead": null,
+  "weekly_charts": [],
+  "year_end_charts": [],
+  "certifications": [],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": 10,
+    "AUT": null,
+    "CAN": null,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": 105,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": 179
+  },
+  "key_peaks_original_era": null,
+  "key_peaks_all_time": null,
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-17"
+}

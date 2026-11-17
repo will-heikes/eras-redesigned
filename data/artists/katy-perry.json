@@ -1,0 +1,15 @@
+{
+  "id": "katy-perry",
+  "name": "Katy Perry",
+  "albums": [
+    {
+      "album_id": "prism",
+      "title": "Prism",
+      "release_date": "2013-10-18"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Katy_Perry",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography"
+  ]
+}

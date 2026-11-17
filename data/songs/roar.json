@@ -1,0 +1,861 @@
+{
+  "id": "roar",
+  "title": "Roar",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 1,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:43",
+  "writers": [
+    "Katy Perry",
+    "Lukasz Gottwald",
+    "Max Martin",
+    "Bonnie McKee",
+    "Henry Walter"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin",
+    "Cirkut"
+  ],
+  "single": {
+    "order": 1,
+    "date": "2013-08-10",
+    "source": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  },
+  "release_history": [],
+  "first_release": "2013-08-10",
+  "infobox_type": "single",
+  "genre": [
+    "Power pop"
+  ],
+  "lead": "\"Roar\" is a song by American singer-songwriter Katy Perry. It was released on August 10, 2013, by Capitol Records as the lead single from her fourth studio album, Prism (2013). Perry co-wrote the song in March 2013 with Bonnie McKee and its producers Dr. Luke, Max Martin, and Cirkut. \"Roar\" was recorded that month at Luke's in the Boo in Malibu, California, Playback Recording Studio in Santa Barbara, California, Secret Garden Studios in Montecito, California, and MXM Studios in Stockholm, Sweden. The track is a power pop song containing elements of arena rock and lyrics centering on standing up for oneself and self-empowerment.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 1
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 1
+  },
+  "weekly_charts": [
+    {
+      "period": "2013-2015",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 1
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 1
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 5
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 6
+        },
+        {
+          "chart": "Brazil (Billboard Brasil Hot 100)",
+          "position": 28
+        },
+        {
+          "chart": "Brazil Hot Pop Songs",
+          "position": 5
+        },
+        {
+          "chart": "Bulgaria (BAMP)",
+          "position": 1
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "Canada AC (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Canada CHR/Top 40 (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Canada Hot AC (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 10
+        },
+        {
+          "chart": "Croatia International Airplay (Top lista)",
+          "position": 1
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 2
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 22
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 2
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Finland (Suomen virallinen lista)",
+          "position": 4
+        },
+        {
+          "chart": "Finnish Airplay (Radiosoitto)",
+          "position": 18
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 5
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 2
+        },
+        {
+          "chart": "Greece Digital Songs (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Hong Kong (HKRIA)",
+          "position": 5
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 3
+        },
+        {
+          "chart": "Hungary (Single Top 40)",
+          "position": 8
+        },
+        {
+          "chart": "Iceland (RÚV)",
+          "position": 9
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 1
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 1
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 4
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 4
+        },
+        {
+          "chart": "Lebanon (Lebanese Top 20)",
+          "position": 1
+        },
+        {
+          "chart": "Luxembourg Digital Songs (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 1
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 5
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 4
+        },
+        {
+          "chart": "Perú (UNIMPRO)",
+          "position": 1
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 2
+        },
+        {
+          "chart": "Portugal Digital Songs (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "Romania (Airplay 100)",
+          "position": 66
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 10
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 2
+        },
+        {
+          "chart": "Slovakia (Singles Digitál Top 100)",
+          "position": 81
+        },
+        {
+          "chart": "Slovenia (SloTop50)",
+          "position": 1
+        },
+        {
+          "chart": "South Africa (EMA)",
+          "position": 2
+        },
+        {
+          "chart": "South Korea (Gaon Chart International)",
+          "position": 1
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 5
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 5
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 3
+        },
+        {
+          "chart": "Turkey (Number One Top 20)",
+          "position": 7
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 14
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 6
+        },
+        {
+          "chart": "Venezuela Pop Rock (Record Report)",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2013",
+      "entries": [
+        {
+          "chart": "Argentina International Digital Sales (CAPIF)",
+          "position": 5
+        },
+        {
+          "chart": "Australia (ARIA)",
+          "position": 1
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 22
+        },
+        {
+          "chart": "Belgium (Ultratop Flanders)",
+          "position": 38
+        },
+        {
+          "chart": "Belgium (Ultratop Wallonia)",
+          "position": 48
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 10
+        },
+        {
+          "chart": "CIS (TopHit)",
+          "position": 76
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 33
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 30
+        },
+        {
+          "chart": "Germany (Media Control AG)",
+          "position": 23
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 25
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 9
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 24
+        },
+        {
+          "chart": "Italy Airplay (EarOne)",
+          "position": 21
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 21
+        },
+        {
+          "chart": "Mexico (Monitor Latino)",
+          "position": 92
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 13
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 14
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 3
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 77
+        },
+        {
+          "chart": "South Korea (Gaon International Chart)",
+          "position": 67
+        },
+        {
+          "chart": "Slovenia (SloTop50)",
+          "position": 4
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 43
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 38
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 29
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 140
+        },
+        {
+          "chart": "UK Singles (Official Charts Company)",
+          "position": 6
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 10
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 21
+        },
+        {
+          "chart": "US Adult Top 40 (Billboard)",
+          "position": 20
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 27
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 42
+        },
+        {
+          "chart": "US Mainstream Top 40 (Billboard)",
+          "position": 13
+        },
+        {
+          "chart": "Worldwide Singles (IFPI)",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 60
+        },
+        {
+          "chart": "Belgium (Ultratop Wallonia)",
+          "position": 80
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 40
+        },
+        {
+          "chart": "CIS (TopHit)",
+          "position": 90
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 119
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 81
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 38
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 98
+        },
+        {
+          "chart": "Slovenia (SloTop50)",
+          "position": 31
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 93
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 49
+        },
+        {
+          "chart": "UK Singles (Official Charts Company)",
+          "position": 88
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 46
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 11
+        },
+        {
+          "chart": "US Adult Top 40 (Billboard)",
+          "position": 39
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "22× Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Austria",
+      "certification": "2× Platinum",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Belgium",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "streaming"
+    },
+    {
+      "region": "Brazil",
+      "certification": "5× Diamond",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2017,
+      "type": "streaming"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "streaming"
+    },
+    {
+      "region": "Finland",
+      "certification": "7× Platinum",
+      "units_reported": "28,000",
+      "type": "streaming"
+    },
+    {
+      "region": "France",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Germany",
+      "certification": "3× Gold",
+      "cert_year": 2018,
+      "type": "streaming"
+    },
+    {
+      "region": "Italy",
+      "certification": "2× Platinum",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "Mexico",
+      "certification": "2× Platinum+Gold",
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "7× Platinum",
+      "cert_year": 2026,
+      "type": "streaming"
+    },
+    {
+      "region": "Norway",
+      "certification": "8× Platinum",
+      "cert_year": 2021,
+      "type": "streaming"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "135,221",
+      "type": "streaming"
+    },
+    {
+      "region": "Spain",
+      "certification": "2× Platinum",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Sweden",
+      "certification": "4× Platinum",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "5× Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "United States",
+      "certification": "15× Platinum",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Denmark",
+      "certification": "2× Platinum",
+      "cert_year": 2013,
+      "type": "streaming"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Japan",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "15,000,000",
+      "type": "streaming"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2013,
+      "award": "Capricho Awards de Gato Nacional",
+      "category": "International Hit",
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "Digital Spy Reader Awards",
+      "category": "Best Song",
+      "result": "Nominated"
+    },
+    {
+      "year": 2013,
+      "award": "The Official Number One Awards",
+      "category": "Number One Single",
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "The Official Specialist Number One Awards",
+      "category": "Number One Singles Downloads",
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "The Official Vodafone Big Top 40 Number One Awards",
+      "category": "Number One Award",
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "The Official Vodafone Big Top 40 Number One Awards",
+      "category": null,
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "The Official Vodafone Big Top 40 Number One Awards",
+      "category": null,
+      "result": "Won"
+    },
+    {
+      "year": 2013,
+      "award": "Queerty Awards",
+      "category": "Anthem of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2013,
+      "award": "Vevo Certified Awards",
+      "category": "Vevo Certified Award",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "ARIA Number One Chart Awards",
+      "category": "Number One Single",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "ARIA Number One Chart Awards",
+      "category": "Year-End Number One Single",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "ASCAP Pop Music Awards",
+      "category": "Most Performed Song",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Billboard Music Awards",
+      "category": "Top Hot 100 Song",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Billboard Music Awards",
+      "category": "Top Digital Song",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Billboard Music Awards",
+      "category": "Top Radio Song",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Billboard Music Awards",
+      "category": "Top Streaming Song (Video)",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Grammy Awards",
+      "category": "Song of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Grammy Awards",
+      "category": "Best Pop Solo Performance",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "MTV Video Music Awards Japan",
+      "category": "Best Video of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "MTV Video Music Awards Japan",
+      "category": "Best Female Video",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Myx Music Awards",
+      "category": "Favorite International Video",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Nickelodeon Kids Choice Awards",
+      "category": "Favourite Song",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "NRJ Music Awards",
+      "category": "International Song of the Year",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "People's Choice Awards",
+      "category": "Favorite Song",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "People's Choice Awards",
+      "category": "Favorite Music Video",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Premios Juventud",
+      "category": "Favourite Song, Not in Spanish",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Radio Disney Music Awards",
+      "category": "Song of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "RTHK International Pop Poll Awards",
+      "category": "Top Ten International Gold Songs",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "RTHK International Pop Poll Awards",
+      "category": "Super Gold Song",
+      "result": "Won"
+    },
+    {
+      "year": 2015,
+      "award": "CMT Music Awards",
+      "category": "Performance of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2017,
+      "award": "RIAA Diamond Awards",
+      "category": "Diamond Song Award",
+      "result": "Won"
+    },
+    {
+      "year": 2018,
+      "award": "Now That's What I Call Music! Awards",
+      "category": "Song of the Teens",
+      "result": "Nominated"
+    },
+    {
+      "year": 2023,
+      "award": "Spotify Awards",
+      "category": "Billion-Play Award",
+      "result": "Won"
+    },
+    {
+      "year": 2024,
+      "award": "MTV Video Music Awards",
+      "category": "VMAs Most Iconic Performance",
+      "result": "Won"
+    },
+    {
+      "year": 2025,
+      "award": "QQ Music",
+      "category": "20th Anniversary Top Western Songs",
+      "result": "Won"
+    }
+  ],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Roar_(song)",
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  ],
+  "retrieved": "2026-11-17"
+}

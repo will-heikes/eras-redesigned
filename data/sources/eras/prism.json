@@ -1,0 +1,90 @@
+{
+  "artist": {
+    "id": "katy-perry",
+    "name": "Katy Perry",
+    "page": "Katy_Perry",
+    "discography_page": "Katy_Perry_discography"
+  },
+  "album": {
+    "id": "prism",
+    "title": "Prism",
+    "page": "Prism_(Katy_Perry_album)"
+  },
+  "songs": [
+    {
+      "id": "roar",
+      "title": "Roar",
+      "page": "Roar_(song)"
+    },
+    {
+      "id": "legendary-lovers",
+      "title": "Legendary Lovers",
+      "page": "Legendary_Lovers_(song)"
+    },
+    {
+      "id": "birthday",
+      "title": "Birthday",
+      "page": "Birthday_(Katy_Perry_song)"
+    },
+    {
+      "id": "walking-on-air",
+      "title": "Walking on Air",
+      "page": "Walking_on_Air_(Katy_Perry_song)"
+    },
+    {
+      "id": "unconditionally",
+      "title": "Unconditionally",
+      "page": "Unconditionally"
+    },
+    {
+      "id": "dark-horse",
+      "title": "Dark Horse",
+      "page": "Dark_Horse_(Katy_Perry_song)"
+    },
+    {
+      "id": "this-is-how-we-do",
+      "title": "This Is How We Do",
+      "page": "This_Is_How_We_Do"
+    },
+    {
+      "id": "international-smile",
+      "title": "International Smile"
+    },
+    {
+      "id": "ghost",
+      "title": "Ghost"
+    },
+    {
+      "id": "love-me",
+      "title": "Love Me"
+    },
+    {
+      "id": "this-moment",
+      "title": "This Moment"
+    },
+    {
+      "id": "double-rainbow",
+      "title": "Double Rainbow"
+    },
+    {
+      "id": "by-the-grace-of-god",
+      "title": "By the Grace of God"
+    },
+    {
+      "id": "spiritual",
+      "title": "Spiritual"
+    },
+    {
+      "id": "it-takes-two",
+      "title": "It Takes Two"
+    },
+    {
+      "id": "choose-your-battles",
+      "title": "Choose Your Battles"
+    }
+  ],
+  "extra_pages": [
+    "Katy_Perry_discography"
+  ],
+  "retrieved": "2026-11-17"
+}

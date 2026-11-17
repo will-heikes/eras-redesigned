@@ -1,0 +1,860 @@
+{{Good article}}
+{{pp-vandalism|expiry=indef|small=yes}}
+{{Use American English|date=April 2026}}
+{{Use mdy dates|date=August 2026}}
+{{Infobox album
+| name         = Prism
+| type         = Studio
+| artist       = [[Katy Perry]]
+| cover        = Katy Perry - Prism cover.png
+| border       = yes
+| alt          = Perry standing in a field of flowers
+| released     = {{Start date|2013|10|18}}
+| recorded     = 2012–2013
+| studio       = 
+* Luke's in the Boo ([[Malibu, California]])
+* Playback ([[Santa Barbara, California]])
+* [[MXM Studios|MXM]] ([[Stockholm, Sweden]])
+* Secret Garden ([[Montecito, California]])
+* [[Conway Recording Studios|Conway]] ([[Hollywood, Los Angeles|Hollywood]])
+* Apmamman (Stockholm, Sweden)
+* Rocket Carousel (Los Angeles)
+| genre        = [[Pop music|Pop]]
+| length       = 48:39
+| label        = [[Capitol Records|Capitol]]
+| producer     =
+* [[Max Martin]]
+* [[Dr. Luke]]
+* Katy Perry
+* [[Cirkut (record producer)|Cirkut]]
+* [[Klas Åhlund]]
+* [[Stargate (music producers)|Stargate]]
+* [[Benny Blanco]]
+* Bloodshy
+* [[Greg Kurstin]]
+* [[Greg Wells]]
+| prev_title   = [[Teenage Dream: The Complete Confection]]
+| prev_year    = 2012
+| next_title   = [[Witness (Katy Perry album)|Witness]]
+| next_year    = 2017
+| misc         = {{Singles
+ | type        = studio
+ | single1     = [[Roar (song)|Roar]]
+ | single1date = August 10, 2013
+ | single2     = [[Unconditionally]]
+ | single2date = October 16, 2013
+ | single3     = [[Dark Horse (Katy Perry song)|Dark Horse]]
+ | single3date = December 17, 2013
+ | single4     = [[Birthday (Katy Perry song)|Birthday]]
+ | single4date = April 21, 2014
+ | single5     = [[This Is How We Do]]
+ | single5date = July 31, 2014
+}}
+}}
+
+'''''Prism'''''<!-- Do not add capitals as the stylization. This does not appear universally on print media and is linked to the font on the cover --> is the fourth studio album by American singer [[Katy Perry]].<!--Fourth is correct; first was Katy Hudson, second was One of the Boys, and third was Teenage Dream--> It was released by [[Capitol Records]] on October 18, 2013. Although the album was initially planned to be "darker" than her previous material, ''Prism'' ultimately became a prominently dance-inspired record. Perry worked with several past collaborators, while enlisting new producers and guest vocals. Perry partially handled production with [[Dr. Luke]], [[Max Martin]], [[Stargate (music producers)|Stargate]], [[Benny Blanco]], [[Greg Wells]], [[Cirkut]], and others. The album includes a guest appearance from [[Juicy J]] of [[Three 6 Mafia]]. Much of ''Prism'' revolves around the themes of living in the present, relationships, and [[self-empowerment]]. The album received generally positive reviews; critics praised its lyrics for being more "mature" and personal, while others considered ''Prism'' more formulaic than her previous work.
+
+''Prism'' charted at number one in Australia, Canada, Ireland, New Zealand, Scotland, the United Kingdom, and the United States. It became Perry's fastest-selling album in the US, and the second-best-selling album in Australia in 2013. The [[International Federation of the Phonographic Industry]] (IFPI) reported that ''Prism'' was the sixth best-selling album in the world in 2013, the best-selling album in the world in 2013 released by a woman, and labeled Perry "a global phenomenon." It has sold more than eight million copies worldwide and received multi-Platinum certifications in Australia, Austria, Canada, Denmark, Finland, France, India, Indonesia, Mexico, New Zealand, Norway, the Philippines, Poland, and the US. ''Prism'' was also nominated for [[Grammy Award for Best Pop Vocal Album|Best Pop Vocal Album]] at the [[57th Annual Grammy Awards]].
+
+"[[Roar (song)|Roar]]" was released on August 10, 2013, as the album's lead single and topped the US [[Billboard Hot 100|''Billboard'' Hot 100]]. A second single, "[[Unconditionally]]", debuted on October 16, 2013, and reached the top 10 in Italy. "[[Dark Horse (Katy Perry song)|Dark Horse]]" followed as the album's third single three months later on December 17, 2013, and reached number one in the United States. "[[Birthday (Katy Perry song)|Birthday]]" and "[[This Is How We Do]]" were the fourth and fifth singles, respectively. The track "[[Walking on Air (Katy Perry song)|Walking on Air]]" was also released as a [[promotional single]]. ''Prism'' was promoted further through the [[Prismatic World Tour]]. A concert from the tour was eventually released as ''[[The Prismatic World Tour Live]]'' in 2015.
+
+== Background ==
+{{Quote box
+ |quote = I've been thinking about my future and what the next move is in terms of what I need to do. I think it would be pretty stupid to try and redo [''Teenage Dream''] that had all of this success. Maybe it's time to do something that's different that can't be compared. I just feel like I'm going to be criticized regardless of what I do next, so I might as well do something that I feel really passionate about.<ref name="capitalfm"/>
+ |source = —Perry on ''Prism''
+ |align = left
+ |width = 250px
+ |bgcolor = #EBE3B9
+}}
+
+After concluding her [[California Dreams Tour]], Perry stated that she intended to "live a little" before recording any new material that was "worth listening to".<ref>{{cite news|title=Katy Perry Wants To 'Live A Little' Before Third Album |newspaper=Capital |date=December 15, 2011 |access-date=March 15, 2014 |url=http://www.capitalfm.com/artists/katy-perry/news/third-album/ |publisher=Capital. Global Group |url-status=live |archive-url=https://web.archive.org/web/20131012032109/http://www.capitalfm.com/artists/katy-perry/news/third-album/ |archive-date=October 12, 2013 }}</ref> When ex-husband [[Russell Brand]] left her on December 30, 2011,<ref name="partofme3d">{{cite AV media|people=Cutforth, Dan; Lipsitz, Jane (directors);Perry, Katy (autobiographer)|date=July 5, 2012|title=[[Katy Perry: Part of Me]]|medium=Motion picture|location=United States; filmed in studios:[[Insurge Pictures]], [[Imagine Entertainment]], Perry Productions et la.|publisher=[[Paramount Pictures]]}}</ref> she felt devastated and contemplated suicide.<ref name="BillboardCoverStory">{{cite magazine|last=Diehl |first=Matt |title=Katy Perry's 'PRISM': The Billboard Cover Story |url=https://www.billboard.com/music/music-news/katy-perrys-prism-the-billboard-cover-story-5740580/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=September 27, 2013 |date=September 27, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130927154909/http://www.billboard.com/articles/columns/pop-shop/5740580/katy-perrys-prism-the-billboard-cover-story |archive-date=September 27, 2013 }}</ref> Perry revealed to ''[[Vogue (magazine)|Vogue]]'' in June 2012 that she planned to record a "darker" album than her previous records. She stated: "It was inevitable, after what I went through. If I had a time machine and could go back in time, I would. But I can't, so, you'll discover another part of me."<ref name="luomo">{{cite web|last=Fossi |first=Michele |title=The new cover with Katy Perry on L'Uomo Vogue |url=http://www.vogue.it/en/uomo-vogue/cover-story/2012/06/katy-perry-cover |website=[[Vogue (magazine)|Vogue]] |publisher=[[Advance Publications]] |date=June 22, 2012 |access-date=March 14, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140125153211/http://www.vogue.it/en/uomo-vogue/cover-story/2012/06/katy-perry-cover |archive-date=January 25, 2014 }}</ref> To ''[[Interview (magazine)|Interview]]'', she mentioned that she aspired to include a more acoustic vibe to the record.<ref name="capitalfm">{{cite web|title=Katy Perry On New Album: "It Would Be Stupid To Recreate 'Teenage Dream'" |url=http://www.capitalfm.com/artists/katy-perry/news/new-album-direction/ |date=March 2, 2012 |access-date=March 15, 2014 |publisher=[[Capital (radio network)|Capital]]. [[Global Group]] |url-status=live |archive-url=https://web.archive.org/web/20131012023411/http://www.capitalfm.com/artists/katy-perry/news/new-album-direction/ |archive-date=October 12, 2013 }}</ref>
+
+Perry also said that her music would be getting "real fucking dark" and "[[Shoegaze|shoegazing]]", though she also stated that her fans would be able to relate to it.<ref>{{Cite news|title=Katy Perry's New LP Will Be "F****** Dark" After Brand Split|url=https://www.mtv.co.uk/news/c34o8k/katy-perrys-new-lp-will-be-f-dark-after-brand-split|date=March 2, 2012|access-date=January 26, 2021|publisher=MTV}}</ref> "I imagine that maybe my next record would be a little bit more of an artistic venture," she said. "Not that I'm going to self-sabotage either and be like, 'I'm going to make a crazy record that nobody really understands.'"<ref>{{cite news|publisher=[[MTV News]] |date=March 5, 2012 |access-date=March 15, 2014 |title=Katy Perry Isn't Looking To Top Herself On Next Album |url=http://www.mtv.com/news/articles/1680452/katy-perry-third-album.jhtml |author=Garibaldi, Christina |url-status=dead |archive-url=https://web.archive.org/web/20131012005921/http://www.mtv.com/news/articles/1680452/katy-perry-third-album.jhtml |archive-date=October 12, 2013 }}</ref> That November, she told ''[[Billboard (magazine)|Billboard]]'' about her plans for the album, saying she had already envisioned several aspects of it. Perry told the magazine that she already had songs and ideas, and knew the type of record she would make next. She also said that although she had not started recording yet, she already knew how the artwork, coloring and tone of the album would turn out. Perry further detailed: "I have to let the music take shape first. I even know what type of tour I'm doing next. I'll be very pleased if the vision I have in my head becomes a reality. But I have to honor the music."<ref>{{cite magazine|magazine=Billboard |access-date=March 15, 2014 |date=November 30, 2012 |last=Mitchell |first=Gail |title=Katy Perry Q&A: Billboard's Woman of the Year 2012 |url=http://www.billboard.com/articles/news/473939/katy-perry-qa-billboards-woman-of-the-year-2012?page=0%2C1 |url-status=live |archive-url=https://web.archive.org/web/20130508091858/http://www.billboard.com/articles/news/473939/katy-perry-qa-billboards-woman-of-the-year-2012?page=0%2C1 |archive-date=May 8, 2013 }}</ref>
+
+== Recording ==
+Development of ''Prism'' began while Perry was on the [[California Dreams Tour]]. She began with a process she deemed "slow cooking", in which she recorded random "fragments of ideas" into her mobile phone's [[dictaphone]] application. A member of Direct Management Group, Ngoc Hoang, then transcribed the audio files and placed them into what Perry described as a "treasure chest"; Perry consulted this material later during the album's recording sessions. Although Perry officially started recording the album in November 2012, accompanied by [[Greg Wells]] and [[Greg Kurstin]], she noted that she was still in a "dark place", and that she had not "let the light in". The sessions began again in March 2013, following a trip to Madagascar which Perry credited as having "put [her] priorities in perspective", leading her to "do more work on [her]self". Perry also viewed a video made by [[Eckhart Tolle]], which discusses loss. She commented: "When you lose something, all your foundations crumble—but that also leaves a big hole that's open for something great to come through."<ref name=BillboardCoverStory/>
+
+Once she felt prepared to record again, she reunited with her team from ''Teenage Dream''—[[Dr. Luke]], [[Bonnie McKee]], and [[Cirkut (record producer)|Cirkut]]—in Perry's hometown of [[Santa Barbara, California]], where they spent a month recording at Playback Recording Studio. She then went to [[Stockholm]], where she worked with Scandinavian record producer [[Max Martin]] to do what Perry called "put[ting] the ice on the cake". She also recruited other collaborators, such as Norwegian team [[Stargate (music producers)|Stargate]], Bloodshy, [[Benny Blanco]], [[Jonatha Brooke]] and [[Sia]].<ref name=BillboardCoverStory/> By April 2013, recording for the album was halfway complete, and Perry described to the [[American Society of Composers, Authors and Publishers|ASCAP]] how she worked with these collaborators. She said Wells allowed her to "vomit words"; with Martin, she shaped the songs' melodies; Luke mostly helmed the production, and she worked with "topline and melody". Perry described writing sessions with McKee as "emotional abuse", adding that they argue over the "best lyric", as if they were fighting in a boxing ring.<ref name="doublerainbow">{{cite magazine|url=http://www.billboard.com/articles/news/1558827/katy-perry-is-halfway-there-on-third-album-talks-new-songs-like-double-rainbow |title=Katy Perry Is Halfway There on Third Album, Talks New Songs Like 'Double Rainbow' |magazine=Billboard |access-date=March 15, 2014 |date=April 18, 2013 |first=Gallo |last=Phil |url-status=live |archive-url=https://web.archive.org/web/20140327021904/http://www.billboard.com/articles/news/1558827/katy-perry-is-halfway-there-on-third-album-talks-new-songs-like-double-rainbow |archive-date=March 27, 2014 }}</ref> McKee, who wrote four songs for ''Prism'', spoke with [[MTV]] about the album, describing it as "a little bit more grown up" and "interesting".<ref>{{cite web|title=Katy Perry's 'Soulmate' Gives Details On 'More Mature' Album |last=Vena |first=Jocelyn |url=http://www.mtv.com/news/articles/1709867/katy-perry-bonnie-mckee-new-album.jhtml |date=July 2, 2013 |publisher=MTV News. Viacom |access-date=March 15, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140127163239/http://www.mtv.com/news/articles/1709867/katy-perry-bonnie-mckee-new-album.jhtml |archive-date=January 27, 2014 }}</ref>
+
+== Composition ==
+[[File:Katy Perry - The Prismatic 10.jpg|thumb|upright|left|Perry performing the album's second track, "[[Legendary Lovers (song)|Legendary Lovers]]", at the [[Prismatic World Tour]]]]
+A pop album,<ref name="LATimes" /> ''Prism'' opens with "[[Roar (song)|Roar]]", which contains elements of [[arena rock]] and [[glam rock]], and lyrically is an empowerment anthem.<ref name="MTV2">{{cite web|last=Montgomery |first=James |title=Katy Perry's 'Roar:' The Power Of Positive Thinking |url=http://www.mtv.com/news/articles/1712162/katy-perry-roar-release.jhtml |publisher=MTV News. Viacom |date=August 12, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130815053720/http://www.mtv.com/news/articles/1712162/katy-perry-roar-release.jhtml |archive-date=August 15, 2013 }}</ref> Comparisons were established between "Roar" and "[[Brave (Sara Bareilles song)|Brave]]" by [[Sara Bareilles]].<ref name="Angeles">{{cite news|last=Kennedy |first=Gerrick D. |url=http://www.latimes.com/entertainment/music/posts/la-et-ms-listen-to-katy-perry-roar-20130811,0,3722661.story |title=Listen to Katy Perry's new single 'Roar' |newspaper=[[Los Angeles Times]] |date=August 11, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130812125251/http://www.latimes.com/entertainment/music/posts/la-et-ms-listen-to-katy-perry-roar-20130811%2C0%2C3722661.story |archive-date=August 12, 2013 }}</ref><ref name="MusicMix">{{cite magazine|last=Anderson |first=Kyle |url=http://music-mix.ew.com/2013/08/12/katy-perry-roar-sara-bareilles-brave/ |title=Katy Perry's 'Roar' sounds an awful lot like Sara Bareilles' 'Brave', says the Internet |magazine=[[Entertainment Weekly]] |date=August 12, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130813013816/http://music-mix.ew.com/2013/08/12/katy-perry-roar-sara-bareilles-brave/ |archive-date=August 13, 2013 }}</ref><ref name="Brave-ly Roar">{{cite news|last=Pavlova |first=Victoria |title=Katy Perry And Sara Bareilles "Brave"-ly "Roar" In The Face of Plagiarism Speculation |newspaper=Contactmusic.com |url=http://www.contactmusic.com/article/katy-perry-roar-sara-bareilles-brave-similarity_3810877 |publisher=[[Contactmusic.com]]. [[Channel 4]] |date=August 13, 2013 |access-date=June 7, 2014 |url-status=live |archive-url=https://web.archive.org/web/20130814112829/http://www.contactmusic.com/article/katy-perry-roar-sara-bareilles-brave-similarity_3810877 |archive-date=August 14, 2013 }}</ref> "[[Legendary Lovers (song)|Legendary Lovers]]", a [[bhangra (music)|bhangra]]-based song, deals with the concepts of karma and infinity.<ref name="PrismTracks" /> "[[Birthday (Katy Perry song)|Birthday]]" was described by Perry as her own attempt at "writing something [[Mariah Carey]] would have put on [[Mariah Carey (album)|her first record]]". Musically, it is a "fluffy" pop song<ref name="MTVPrism"/> that is primarily styled in the genre of [[disco]].<ref name=LATimes>{{cite news|last=Roberts |first=Randall |url=http://www.latimes.com/entertainment/music/posts/la-et-ms-katy-perry-prism-review-20131022,0,6156766.story |title=Review: Hits pack Katy Perry's 'Prism' |newspaper=[[Los Angeles Times]] |date=October 22, 2013 |access-date=October 22, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140125034828/http://www.latimes.com/entertainment/music/posts/la-et-ms-katy-perry-prism-review-20131022%2C0%2C6156766.story |archive-date=January 25, 2014 }}</ref> "[[Walking on Air (Katy Perry song)|Walking on Air]]", the album's second promotional single, is an early [[1990s in music|1990s]]-inspired [[deep house]]-[[Eurodance]]-[[disco]] song, inspired heavily by [[CeCe Peniston]] and [[Crystal Waters]]. It was produced by [[Klas Åhlund]] and [[Max Martin]].<ref name="buzzworthy">{{cite news|last=Walker |first=John |title=Katy Perry's 'Walking on Air' Is An Orgasmic '90s House Throwback' |url=http://buzzworthy.mtv.com/2013/09/30/katy-perry-walking-on-air/ |publisher=MTV News. Viacom |access-date=October 4, 2013 |date=September 30, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131004220414/http://buzzworthy.mtv.com/2013/09/30/katy-perry-walking-on-air/ |archive-date=October 4, 2013 }}</ref><ref name="billboard">{{cite magazine|last=Lipshutz |first=Jason |title=Katy Perry Is 'Walking on Air': Hear The New 'PRISM' Track |url=https://www.billboard.com/music/music-news/katy-perry-is-walking-on-air-hear-the-new-prism-track-5740653/ |access-date=October 4, 2013 |date=September 30, 2013 |magazine=Billboard |url-status=live |archive-url=https://web.archive.org/web/20131004052947/http://www.billboard.com/articles/columns/pop-shop/5740653/katy-perry-is-walking-on-air-hear-the-new-prism-track |archive-date=October 4, 2013 }}</ref> "[[Unconditionally]]", Perry's personal favorite song on the album and second official single, is a "soaring" [[power ballad]] with an "epic chorus".<ref name="DavidAtlanta">{{cite web |last=Sarkesian |first=Elijah |title=Katy Perry's 'Prism' – Exclusive Album Preview! |url=http://davidatlanta.com/2013/09/katy-perrys-prism-exclusive-album-preview/ |publisher=DavidAtlanta |access-date=September 17, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130921054626/http://davidatlanta.com/2013/09/katy-perrys-prism-exclusive-album-preview/ |archive-date=September 21, 2013  }}</ref> Jason Lipshutz from ''[[Billboard (magazine)|Billboard]]'' noted that the song includes a "woodblock percussion" as well as "a dramatic bass line" and deemed it the album's "most mature offering". Furthermore, he called it "an ode to love that looks past all flaws" and stated that the song serves as a "compellingly grounded predicate" to the [[Teenage Dream (Katy Perry song)|title track]] from ''[[Teenage Dream]]''.<ref name=PrismTracks/> Perry described the song as being about [[unconditional love]] that could come in all forms, including those from relationships, from parent to child and from sibling to sibling.<ref name="KatyInspiration">{{cite web|title=Katy Perry: Hanging with Stevie Nicks & Ariana Grande and Inspiration For "PRISM" – YouTube | date=October 14, 2013 |url=https://www.youtube.com/watch?v=Ur7S2WOFHH4 |publisher=YouTube |access-date=October 14, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131014213731/http://www.youtube.com/watch?v=Ur7S2WOFHH4 |archive-date=October 14, 2013 }}</ref>
+
+"[[Dark Horse (Katy Perry song)|Dark Horse]]" is a song with strong influences from [[Trap music (hip hop)|trap]],<ref name="Trap1">{{cite web|url=https://consequence.net/2013/09/listen-katy-perry-goes-trap-with-juicy-j-on-dark-horse/ |title=Listen: Katy Perry goes trap with Juicy J on "Dark Horse" |publisher=[[Consequence of Sound]] |date=September 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130921151619/https://consequence.net/2013/09/listen-katy-perry-goes-trap-with-juicy-j-on-dark-horse/ |archive-date=September 21, 2013 }}</ref> [[Grime music|grime]], [[Hip hop music|hip hop]],<ref name=PrismTracks/><ref name="Billboard3">{{cite magazine|url=https://www.billboard.com/music/music-news/miley-cyrus-britney-spears-katy-perry-whose-new-song-is-best-5695549/ |title=Miley Cyrus, Britney Spears, Katy Perry: Whose New Song Is Best? |magazine=Billboard |date=September 17, 2013 |access-date=June 7, 2014 |url-status=live |archive-url=https://web.archive.org/web/20130922051500/http://www.billboard.com/articles/columns/pop-shop/5695549/miley-cyrus-britney-spears-katy-perry-whose-new-song-is-best |archive-date=September 22, 2013 }}</ref> and "Southern rap-techno mashup" styles.<ref name="Time">{{cite news |url=http://entertainment.time.com/2013/09/06/katy-perry-previews-new-album-prism-at-nyc-event/ |title=Katy Perry Previews New Album 'Prism' at NYC Event |first=Mesfin |last=Fedaku |magazine=[[Time (magazine)|Time]] |date=September 6, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130911082714/http://entertainment.time.com/2013/09/06/katy-perry-previews-new-album-prism-at-nyc-event/ |archive-date=September 11, 2013 |access-date=November 5, 2013 }}</ref> "[[This Is How We Do]]", produced by Max Martin and Klas Ahlund, was described as a possible "song of summer" for 2014.<ref name="PrismTracks"/> Shirley Halperin from ''[[The Hollywood Reporter]]'' described "This Is How We Do" as "a sunny 80s throwback", while [[Edna Gundersen]] from ''[[USA Today]]'' described it as a "buoyant pop blast with hip-hop underpinnings" and praised the song's recurring refrain ("It's no big deal!").<ref name="ShedLight">{{cite news|last=Gundersen |first=Edna |title=Katy Perry sheds light on 'Prism' at L.A. preview event |url=https://www.usatoday.com/story/life/music/2013/09/13/katy-perry-previews-prism-album-in-los-angeles/2812283/ |newspaper=[[USA Today]] |author-link=Edna Gundersen |date=September 13, 2013 |access-date=June 7, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140218235627/http://www.usatoday.com/story/life/music/2013/09/13/katy-perry-previews-prism-album-in-los-angeles/2812283/ |archive-date=February 18, 2014 }}</ref> James Montgomery from [[MTV News]] called the song a "cocksure, club-ready banger".<ref name="MTVPrism">{{cite news|last=Montgomery |first=James |title=Katy Perry Premieres Prism in New York: Here's Our Take! Perry previewed 10 new Prism songs in NYC, and MTV News was there! |url=http://www.mtv.com/news/articles/1713597/katy-perry-prism-album-review.jhtml |publisher=MTV News. Viacom |access-date=September 17, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130918160831/http://www.mtv.com/news/articles/1713597/katy-perry-prism-album-review.jhtml |archive-date=September 18, 2013 }}</ref> With "Double Rainbow", produced by Greg Kurstin and co-writer [[Sia]], Perry was able to "dump pent-up emotions" and "get things off her chest".<ref name="7Things">{{cite journal|last=Halperin |first=Shirley |title=Katy Perry Premieres 'Prism': 7 Things Learned at Her Invite-Only Listening Party |url=http://www.hollywoodreporter.com/earshot/katy-perry-premieres-prism-7-629152 |journal=The Hollywood Reporter |access-date=September 13, 2013 |date=September 13, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130916230503/http://www.hollywoodreporter.com/earshot/katy-perry-premieres-prism-7-629152 |archive-date=September 16, 2013 }}</ref> The song was described as a "massive ballad".<ref name="ShedLight"/> Lipshutz deemed it a "breathy love track" with a "powerful chorus that explodes upon impact" with lyrics that include "One man's trash is another man's treasure / so if it's up to me, I'm gonna keep you forever". He added that "Kurstin brings the pop sensibility he's flashed with artists like [[Kelly Clarkson]] and [[Pink (singer)|P!nk]], while Sia's presence connects this sleek, shimmering pop track to [her [[David Guetta]] collaboration] '[[Titanium (David Guetta song)|Titanium]]'".<ref name="PrismTracks"/> Elijah Sarkesian felt that "Some of Katy's finest vocals of the album are on this song".<ref name="DavidAtlanta"/>
+
+Perry described "Love Me" as a song "about loving yourself the way you want to be loved".<ref name=KatyInspiration/> Gundersen called it "irresistibly catchy and energetic".<ref name=ShedLight/> The song was produced by Bloodshy.<ref name=PrismTracks/> Sarkesian called it "an interesting mix – the lyrics are dark, but the music is very dance-centric. At the very least, it'll do well in clubs".<ref name=DavidAtlanta/> Montgomery stated that "Love Me" and "International Smile" both "seem destined for the dance floors".<ref name=MTVPrism/> The latter was inspired by Perry's friend Mia Moretti, and was compared to the songs on Perry's previous album. Lipshutz called it a "straightforward pop-rock offering" and described its guitar hook as "kicky", adding that the song also includes a "Melting [[Daft Punk]]-esque vocoder breakdown".<ref name=PrismTracks/> Halperin stated that in the song, Perry sings the "hooky" line: "Please fasten your seat belts and make sure your champagne glasses are empty".<ref name="7Things"/>
+
+Halperin described "This Moment" and "Ghost" as "mid-tempo ballads that are closest in DNA to Perry's previous smashes".<ref name="7Things"/> Perry stated that she was inspired to write "This Moment" after she heard the audio book of Eckhart Tolle's ''[[The Power of Now]]''; the song's lyrics talk about "living in the present"; with Perry "add[ing] a romantic spin" to it. Gary Trust described "Ghost" as a "mesmerizing ballad",<ref name="PrismPicks">{{cite magazine|last=Trust |first=Gary |title=Katy Perry's Future 'Prism' Hits: Industry Picks |url=http://www.billboard.com/articles/news/5687255/katy-perrys-future-prism-hits-industry-picks |magazine=Billboard |access-date=September 19, 2013 |date=September 9, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130911205056/http://www.billboard.com/articles/news/5687255/katy-perrys-future-prism-hits-industry-picks |archive-date=September 11, 2013 }}</ref> while Gundersen described it as "powerful, dark, and haunting".<ref name="ShedLight"/> Lipshutz felt that "Ghost" and "[[By the Grace of God (song)|By the Grace of God]]" contain the album's "most somber moments".<ref name="PrismTracks"/> While talking about each ''Prism'' track, Perry mentioned that "By the Grace of God" was the first song she wrote and recorded for the album back in November 2012 while she was in her "dark" phase.<ref name="KatyPrismDescriptions">{{cite web|last=Perry |first=Katy |title=Katy Perry – Prism (Albumplayer mit Interview) |url=https://www.youtube.com/watch?v=dCIVlrUWMn8 |publisher=YouTube |date=November 4, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140106164914/http://www.youtube.com/watch?v=dCIVlrUWMn8 |archive-date=January 6, 2014 }}</ref> Jody Rosen from ''Vulture'' described the bonus track "Spiritual" as an inspirational song.<ref name="Vulture">{{cite web|last=Rosen |first=Judy |title=Music Review: Jody Rosen on Katy Perry's Prism |url=http://www.vulture.com/2013/10/music-review-jody-rosen-on-katy-perry-prism.html |publisher=Vulture |date=October 22, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140102021207/http://www.vulture.com/2013/10/music-review-jody-rosen-on-katy-perry-prism.html |archive-date=January 2, 2014 }}</ref> Kevin Fallon of ''[[The Daily Beast]]'' described "It Takes Two" as a "sweeping ballad" which allowed Perry to "show off a full-throated belt that so many of her more bubbly tracks mask".<ref name="Fallon">{{cite web|url=http://www.thedailybeast.com/articles/2013/10/22/prism-review-katy-perry-perfects-the-pop-blockbuster.html |title='Prism' Review: Katy Perry Perfects the Pop Blockbuster |first=Kevin |last=Fallon |website=[[The Daily Beast]] |publisher=[[The Daily Beast Newsweek Publishing]] |date=October 22, 2013 |access-date=January 7, 2014 |url-status=live |archive-url=https://web.archive.org/web/20131230114759/http://www.thedailybeast.com/articles/2013/10/22/prism-review-katy-perry-perfects-the-pop-blockbuster.html |archive-date=December 30, 2013 }}</ref> In "Choose Your Battles", Perry "pounds her chest and spews venom at the man she cannot understand".<ref name="fillbillboardreview">{{cite magazine|last=Lipshutz |first=Jason |title=Katy Perry's 'PRISM': Track-By-Track Review |url=http://www.billboard.com/articles/review/5763162/katy-perrys-prism-track-by-track-review |magazine=Billboard |access-date=December 19, 2013 |date=October 21, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140219095623/http://www.billboard.com/articles/review/5763162/katy-perrys-prism-track-by-track-review |archive-date=February 19, 2014 }}</ref>
+
+== Release and promotion ==
+=== Promotion and countdown singles ===
+[[File:PWT Prudential Center 12.jpg|thumb|Perry performing "Dark Horse" during The Prismatic World Tour in New Jersey on July 11, 2014]]
+
+On July 29, 2013, a golden truck driving in Los Angeles revealed the album's title, ''Prism'', and its October 22, 2013, release date.<ref name="Truck">{{cite web|url=http://www.billboard.com/articles/news/5077575/katy-perry-announces-prism-album-with-golden-truck |title=Katy Perry Announces 'Prism' Album With Golden Truck |magazine=Billboard |date=July 29, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130928093340/http://www.billboard.com/articles/news/5077575/katy-perry-announces-prism-album-with-golden-truck |archive-date=September 28, 2013 }}</ref> On August 9, the truck was hit by a drunk driver in [[Pennsylvania]], but no injuries were reported.<ref name="TruckHit">{{cite web|title=Katy Perry – Promotional Truck Hit By Drunk Driver |url=http://www.tmz.com/2013/08/09/katy-perry-truck-hit-drunk-driver-accident-pennsylvania-prism/ |publisher=[[TMZ]]. [[Time Warner]] |date=August 9, 2013 |access-date=August 29, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130828101436/http://www.tmz.com/2013/08/09/katy-perry-truck-hit-drunk-driver-accident-pennsylvania-prism |archive-date=August 28, 2013 }}</ref> On August 20, [[Pepsi]] revealed a partnership with Perry through which fans were given the opportunity to unlock song titles, lyrics, and snippets from ''Prism'' by tweeting the hashtag #KATYNOW. Additionally, Pepsi provided previews of the songs "[[Dark Horse (Katy Perry song)|Dark Horse]]" and "[[Walking on Air (Katy Perry song)|Walking on Air]]", and fans could vote on which song would be released early on music platforms.<ref name="Pepsi">{{cite magazine|last=Hampp |first=Andrew |title=Katy Perry Teams With Pepsi, MTV To Debut New 'Prism' Song |url=http://www.billboard.com/biz/articles/news/branding/5657804/katy-perry-teams-with-pepsi-mtv-to-debut-new-prism-song |magazine=Billboard |date=August 20, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130820171253/http://www.billboard.com/biz/articles/news/branding/5657804/katy-perry-teams-with-pepsi-mtv-to-debut-new-prism-song |archive-date=August 20, 2013 }}</ref> The former song was declared the winner and was released on iTunes on September 17, 2013.<ref name="HorseInspiration">{{cite web|url=http://www.mtv.com/videos/misc/949302/2013-vma-katy-perrys-dark-horse-inspiration.jhtml |title=2013 VMA: Katy Perry's 'Dark Horse' Inspiration |publisher=MTV. Viacom |date=August 25, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130921075320/http://www.mtv.com/videos/misc/949302/2013-vma-katy-perrys-dark-horse-inspiration.jhtml |archive-date=September 21, 2013 }}</ref> It debuted at number 17 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and at number ten on the [[New Zealand Singles Chart]].<ref name="NZ40">{{cite web|title=NZ Top 40 Singles Chart |url=https://aotearoamusiccharts.co.nz/archive/singles/2013-09-20 |publisher=New Zealand Music Chart |access-date=September 19, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140103151034/http://nztop40.co.nz/chart/singles?chart=2355 |archive-date=January 3, 2014 }}</ref> Perry first performed "Dark Horse" three days later at the [[iHeartRadio]] Music Festival.<ref name="iHeartRadio">{{cite web|title=Katy Perry – 2013 iHeartRadio Music Festival LIVE |url=https://www.youtube.com/watch?v=3J-6aSzIfSg |via=YouTube |access-date=September 20, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131017172226/http://www.youtube.com/watch?v=3J-6aSzIfSg |archive-date=October 17, 2013 }}</ref>
+
+Three listening parties for ''Prism'' were held: the first took place in New York on September 5, 2013, for an audience of 100 industry insiders and journalists, where twelve tracks were played.<ref name="PrismTracks">{{cite magazine|last=Lipshutz |first=Jason |title=Katy Perry's 'Prism' Album Preview: 10 Things You Need To Know |url=https://www.billboard.com/music/music-news/katy-perrys-prism-album-preview-10-things-you-need-to-know-5687099/ |access-date=September 6, 2013 |magazine=Billboard |date=September 6, 2013 |url-status=live |archive-url=https://web.archive.org/web/20160304072407/http://www.billboard.com/articles/columns/pop-shop/5687099/katy-perrys-prism-album-preview-10-things-you-need-to-know |archive-date=March 4, 2016 }}</ref> A second ''Prism'' listening party took place the next day in [[Atlanta]].<ref name=DavidAtlanta/> "[[Walking on Air (Katy Perry song)|Walking on Air]]" was released as the second promotional single on September 30.<ref name="iTunesWalkingOnAir">{{cite web|title="Walking on Air" out on iTunes |url=https://music.apple.com/us/album/prism-deluxe-version/690928033 |publisher=iTunes Store |date=September 30, 2013 |url-status=live |archive-url=https://web.archive.org/web/20160204183559/https://itunes.apple.com/us/album/prism-deluxe-version/id690928033 |archive-date=February 4, 2016 }}</ref> The song peaked at number 34 on the ''Billboard'' Hot 100 and at number 80 in the United Kingdom.<ref>{{Cite magazine|title=Katy Perry|url=https://www.billboard.com/artist/katy-perry/chart-history/hsi/|access-date=October 21, 2021|magazine=Billboard}}</ref><ref>{{Cite web|title=Official Singles Chart Top 100 |url=https://www.officialcharts.com/charts/singles-chart/20131027/7501/|access-date=October 21, 2021|publisher=[[Official Charts]]}}</ref>
+
+''Prism'' was released on October 18, 2013.<ref>{{cite magazine|last=Hill |first=Nick |title=Katy Perry Scores Billboard No.1 With 'Prism', Topping Miley Cyrus' Sales |magazine=[[Contactmusic.com]] |url=http://www.contactmusic.com/article/katy-perry-billboard-no-1-prism-topping-miley-cyrus-sales_3929412 |date=October 31, 2013 |access-date=August 18, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140828223953/http://www.contactmusic.com/article/katy-perry-billboard-no-1-prism-topping-miley-cyrus-sales_3929412 |archive-date=August 28, 2014 }}</ref> [[Ryan McGinley]] shot its album cover, which was unveiled on September 6, 2013, on a [[Jumbotron]] during ''[[Good Morning America]]''.<ref name="prismcover">{{cite magazine|title=Katy Perry shows 'Prism' cover, announces 'Roar' contest on 'GMA' |magazine=[[Entertainment Weekly]] |access-date=November 4, 2013 |date=September 6, 2013 |url=http://popwatch.ew.com/2013/09/06/katy-perry-prism-album-cover/ |url-status=live |archive-url=https://web.archive.org/web/20131104233115/http://popwatch.ew.com/2013/09/06/katy-perry-prism-album-cover/ |archive-date=November 4, 2013 }}</ref> For the deluxe edition, 300,000 copies with an iridescent [[digipak]] package were printed and came with the album's logo printed onto [[seed paper]].<ref name="stream">{{cite magazine|last=Danton |first=Eric R. |title=Katy Perry Streams 'Prism' Before Release |url=https://www.rollingstone.com/music/news/katy-perry-streams-prism-before-release-20131018 |magazine=[[Rolling Stone]] |access-date=November 5, 2013 |date=October 18, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131021043426/http://www.rollingstone.com/music/news/katy-perry-streams-prism-before-release-20131018 |archive-date=October 21, 2013 }}</ref>
+
+=== Prismatic World Tour ===
+{{See also|Prismatic World Tour}}
+Perry began the [[Prismatic World Tour]] on May 7, 2014, at the [[Odyssey Arena]] in [[Belfast]], Northern Ireland. The first leg of the tour also featured performances in Scotland and England that month.<ref name="prismtourannouncement1">{{cite web|url=http://www.reveal.co.uk/showbiz-celeb-gossip/news/a531850/katy-perry-announces-uk-dates-for-prismatic-world-tour-2014.html |title=Katy Perry announces UK dates for Prismatic World Tour 2014 |date=November 18, 2013 |publisher=reveal.co.uk |first=Lara |last=Martin |url-status=live |archive-url=https://web.archive.org/web/20131121034317/http://www.reveal.co.uk/showbiz-celeb-gossip/news/a531850/katy-perry-announces-uk-dates-for-prismatic-world-tour-2014.html |archive-date=November 21, 2013 }}</ref><ref name="prismtourannouncement2">{{cite web|url=http://www.entertainmentwise.com/news/132915/First-Stop-UK-Katy-Perry-Announces-Prismatic-Arena-Tour-Dates |title='First Stop UK!': Katy Perry Announces 'Prismatic' Arena Tour Dates |website=Entertainment Wise |date=November 18, 2013 |first=Shaun |last=Kitchener |url-status=live |archive-url=https://web.archive.org/web/20131119121155/http://www.entertainmentwise.com/news/132915/First-Stop-UK-Katy-Perry-Announces-Prismatic-Arena-Tour-Dates |archive-date=November 19, 2013 }}</ref> The second leg was announced on January 15, 2014, with concerts in Canada, Mexico, and the United States. The leg ran from June to October 2014.<ref name="NorthAmericaAnnounce">{{cite web |last=Perry |first=Katy |title=PRISMATIC WORLD TOUR – NORTH AMERICAN DATES ANNOUNCED! |url=http://www.katyperry.com/news/prismatic-world-tour-north-american-dates-announced/?home=true |publisher=katyperry.com |access-date=January 15, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140116120728/http://www.katyperry.com/news/prismatic-world-tour-north-american-dates-announced/?home=true |archive-date=January 16, 2014  }}</ref>
+
+== Singles ==
+"[[Roar (song)|Roar]]" was sent to mainstream radio stations on August 10, 2013, as the album's lead single, and its digital release followed two days later.<ref name="roars">{{cite magazine|last=Caulfield |first=Keith |title=Katy Perry's 'Roar' Arrives Early: Listen |url=https://www.billboard.com/pro/katy-perrys-roar-arrives-early-listen/ |magazine=Billboard |access-date=November 5, 2013 |date=August 10, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140620112642/http://www.billboard.com/articles/columns/pop-shop/5645570/katy-perrys-roar-arrives-early-listen |archive-date=June 20, 2014 }}</ref> It received mixed-to-positive commentary from music critics, who commended its "easy" and "poppy" beat, while others were ambivalent toward its clichéd lyrics.<ref name="RollingStone">{{cite magazine|last=Coleman |first=Miriam |url=https://www.rollingstone.com/music/news/katy-perry-drops-new-song-roar-20130811 |title=Katy Perry Drops New Song, 'Roar' |magazine=Rolling Stone |date=August 11, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130812112437/http://www.rollingstone.com/music/news/katy-perry-drops-new-song-roar-20130811 |archive-date=August 12, 2013 }}</ref><ref name="Track">{{cite magazine|last=Hampp |first=Andrew |url=http://www.billboard.com/articles/review/5645969/katy-perry-roar-track-review |title=Katy Perry, 'Roar: Track Review |magazine=Billboard |date=August 12, 2013 |access-date=August 13, 2013 |url-status=live |archive-url=https://web.archive.org/web/20130814235701/http://www.billboard.com/articles/review/5645969/katy-perry-roar-track-review |archive-date=August 14, 2013 }}</ref> Commercially, it was a success, topping the ''Billboard'' Hot 100 and charts in Australia, Canada, New Zealand, and the United Kingdom.<ref name="charth">{{cite magazine|title=Katy Perry – chart history |url=http://www.billboard.com/artist/305595/katy-perry/chart |magazine=Billboard |access-date=December 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131222230608/http://www.billboard.com/artist/305595/katy-perry/chart |archive-date=December 22, 2013 }}</ref> It became Australia's best performing song of 2013 with 560,000 copies sold by the end of the year and spending nine weeks atop the nation's charts.<ref name="aussales">{{cite web |last1=Adams |first1=Cameron |title=ARIA album charts: Pink and Katy Perry score highest sellers in Australia in 2013 |url=http://www.perthnow.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-fnhiy8bj-1226796832354 |access-date=October 30, 2017 |date=January 7, 2014 |publisher=Perth Now |url-status=dead |archive-url=https://web.archive.org/web/20171107020858/http://www.perthnow.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-fnhiy8bj-1226796832354 |archive-date=November 7, 2017  }}</ref> The song was nominated for the [[Grammy Award for Song of the Year|Song of the Year]] and the [[Grammy Award for Best Pop Solo Performance|Best Pop Solo Performance]] awards at the [[56th Annual Grammy Awards]].<ref>{{cite web|title=Exploring The Song Of The Year Nominees |url=http://www.grammy.com/news/exploring-the-song-of-the-year-nominees |date=December 9, 2013 |access-date=December 17, 2013 |publisher=National Academy of Recording Arts and Sciences |url-status=live |archive-url=https://web.archive.org/web/20131212211434/http://www.grammy.com/news/exploring-the-song-of-the-year-nominees |archive-date=December 12, 2013 }}</ref><ref>{{cite web|title=Exploring The Pop Field Nominees |url=http://www.grammy.com/news/exploring-the-pop-field-nominees-0 |publisher=National Academy of Recording Arts and Sciences |access-date=December 18, 2013 |date=December 16, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131217031151/http://www.grammy.com/news/exploring-the-pop-field-nominees-0 |archive-date=December 17, 2013 }}</ref>
+
+"[[Unconditionally]]" was released as the album's second single on October 16, 2013.<ref name="Fuse">{{cite web|url=http://www.fuse.tv/2013/10/katy-perry-unconditionally |title=Listen: Katy Perry Wails on New Single 'Unconditionally' |first=Jeff |last=Benjamin |website=[[Fuse (TV channel)|Fuse]] |publisher=[[The Madison Square Garden Company]] |date=October 16, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131017063219/http://www.fuse.tv/2013/10/katy-perry-unconditionally |archive-date=October 17, 2013 }}</ref> It received generally favorable reviews from critics, who praised it as "soaring" and "effortless".<ref>{{cite web|last=Copsey|first=Robert|title=Katy Perry 'Unconditionally' single review: Soaring, effortless ballad|url=https://www.digitalspy.com/music/single-reviews/a536157/katy-perry-unconditionally-single-review-soaring-effortless-ballad/|publisher=[[Digital Spy]]|date=December 5, 2013|access-date=August 11, 2025}}</ref> A lyric video for the song was released two days after its debut,<ref name="UnconditionallyYouTube">{{cite web|last=Perry |first=Katy |title=Unconditionally (Lyric Video) |date=October 18, 2013 |url=https://www.youtube.com/watch?v=hHimjVYsd6I |publisher=YouTube |access-date=October 18, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131019001249/http://www.youtube.com/watch?v=hHimjVYsd6I |archive-date=October 19, 2013 }}</ref> and its official music video was released on November 19, 2013.<ref name="UnconditionallyVideoReleaseDate">{{cite news|last=Montgomery |first=James |title=Katy Perry's 'Unconditionally' Video |newspaper=MTV News |url=http://www.mtv.com/news/articles/1717761/katy-perry-unconditionally-video-premiere.jhtml |publisher=MTV News. Viacom |access-date=November 19, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131120022937/http://www.mtv.com/news/articles/1717761/katy-perry-unconditionally-video-premiere.jhtml |archive-date=November 20, 2013 }}</ref> To promote the single, Perry performed on various occasions, including a [[geisha]]-themed performance of it on the 2013 American Music Awards, which attracted negative press, controversy, and accusations of cultural appropriation.<ref name="OpenAMA2013">{{cite news|last=Talbott |first=Chris |title=Katy Perry Kicks off AMAs With Beautiful Moment |url=https://abcnews.go.com/Entertainment/wireStory/katy-perry-miley-cyrus-book-end-amas-20995268 |publisher=[[ABC News (United States)|ABC News]]. [[The Walt Disney Company]] |date=November 24, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131125054004/https://abcnews.go.com/Entertainment/wireStory/katy-perry-miley-cyrus-book-end-amas-20995268 |archive-date=November 25, 2013 }}</ref><ref>{{cite magazine|last=Gibson |first=Megan |title=American Music Awards: Katy Perry Performance, Racist or Not? |url=https://entertainment.time.com/2013/11/25/how-offensive-was-katy-perrys-ama-performance/ |magazine=Time |access-date=November 30, 2013 |date=November 25, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131129212613/http://entertainment.time.com/2013/11/25/how-offensive-was-katy-perrys-ama-performance/ |archive-date=November 29, 2013 }}</ref> "Unconditionally" peaked at number 14 on the ''Billboard'' Hot 100 and charted moderately worldwide, reaching the top 30 in the singles charts of Canada and Germany<ref name="charth"/> and the Top 10 in Italy.<ref>{{cite web|url=http://italiancharts.com/showitem.asp?interpret=Katy+Perry&titel=Unconditionally&cat=s|title=italiancharts.com – Katy Perry – Unconditionally|publisher=Italian charts|access-date=July 5, 2014|archive-url=https://web.archive.org/web/20140425170235/http://italiancharts.com/showitem.asp?interpret=Katy+Perry&titel=Unconditionally&cat=s|archive-date=April 25, 2014|url-status=live}}</ref>
+
+"[[Dark Horse (Katy Perry song)|Dark Horse]]" was released on December 17, 2013, as the album's third official single.<ref>{{cite web |url=http://daily.plaympe.com/katy-perry-feat-juicy-j-dark-horse-2/ |title=Katy Perry feat. Juicy J – Dark Horse |publisher=Play MPE. Destiny Media Technologies |date=December 17, 2013 |access-date=December 18, 2013 |archive-url=https://web.archive.org/web/20131219063251/http://daily.plaympe.com/katy-perry-feat-juicy-j-dark-horse-2/ |archive-date=December 19, 2013}}</ref><ref name="Rhythmic">{{cite magazine|url=https://www.billboard.com/pro/katy-perry-rides-in-on-a-dark-horse-her-aptly-titled-unexpected/ |title=Katy Perry Rides In On A 'Dark Horse,' Her Aptly Titled, Unexpected Hit (Updated) |magazine=Billboard |date=December 9, 2013 |access-date=December 18, 2013 |last=Trust |first=Gary |url-status=live |archive-url=https://web.archive.org/web/20161111132238/http://www.billboard.com/articles/columns/chart-beat/5819941/katy-perry-rides-in-on-a-dark-horse-her-aptly-titled-unexpected |archive-date=November 11, 2016 }}</ref> It had previously been released as the album's first promotional single exactly three months before its single release. The following week, the song leaped to number four due to topping the Hot Digital Songs, selling 243,000 copies. With "Dark Horse" topping the Hot Digital Songs chart, it became Perry's tenth [[Hot Digital Songs|digital number-one single]].<ref>{{cite magazine|url=http://www.billboard.com/articles/news/5869748/frozen-chills-for-second-week-at-no-1-on-billboard-200 |title='Frozen' Chills For Second Week At No. 1 On Billboard 200 |first=Keith |last=Caulfield |magazine=Billboard |date=January 15, 2014 |access-date=January 15, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140117160222/http://www.billboard.com/articles/news/5869748/frozen-chills-for-second-week-at-no-1-on-billboard-200 |archive-date=January 17, 2014 }}</ref><ref>{{cite magazine|url=http://www.billboard.com/articles/news/5869763/pitbull-kesha-timber-remains-atop-hot-100 |title=Pitbull and Ke$ha's 'Timber' Remains Atop Hot 100 |first=Gary |last=Trust |magazine=Billboard |date=January 15, 2014 |access-date=January 15, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140117160229/http://www.billboard.com/articles/news/5869763/pitbull-kesha-timber-remains-atop-hot-100 |archive-date=January 17, 2014 }}</ref> The song topped the ''Billboard'' Hot 100 chart on January 29, 2014, becoming Perry's ninth number-one single in the United States.<ref>{{cite magazine|title=Katy Perry's 'Dark Horse' Gallops to No. 1 On Hot 100 |last=Trust |first=Gary |url=http://www.billboard.com/articles/news/5885830/katy-perry-dark-horse-hot-100-no-1 |magazine=Billboard |date=January 29, 2014 |access-date=January 30, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140131082410/http://www.billboard.com/articles/news/5885830/katy-perry-dark-horse-hot-100-no-1 |archive-date=January 31, 2014 }}</ref> It was nominated for [[Grammy Award for Best Pop Duo/Group Performance|Best Pop Duo/Group Performance]] at the [[57th Annual Grammy Awards]].<ref>{{cite news|last1=Moraski |first1=Lauren |title=Grammy Awards 2015 nominations announced |url=http://www.cbsnews.com/news/grammy-awards-2015-nominations-announced/ |access-date=December 6, 2014 |publisher=CBS News |date=December 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141205170353/http://www.cbsnews.com/news/grammy-awards-2015-nominations-announced/ |archive-date=December 5, 2014 }}</ref>
+
+On April 3, 2014, "[[Birthday (Katy Perry song)|Birthday]]" was announced as the album's fourth official single. It debuted at number 91 on the ''Billboard'' Hot 100<ref name="BillboardDebut">{{cite magazine|url=http://www.billboard.com/articles/news/6055524/pharrell-williams-tops-hot-100-ed-sheeran-blasts-in-at-no-15 |title=Pharrell Williams Tops Hot 100; Ed Sheeran Blasts In at No. 15 |access-date=April 16, 2014 |date=April 16, 2014 |first=Gary |last=Trust |magazine=Billboard |url-status=live |archive-url=https://web.archive.org/web/20140418201239/http://www.billboard.com/articles/news/6055524/pharrell-williams-tops-hot-100-ed-sheeran-blasts-in-at-no-15 |archive-date=April 18, 2014 }}</ref> and was sent to [[Mainstream Top 40|mainstream]] radio in the U.S. on April 21, 2014.<ref>{{cite web|url=http://www.fmqb.com/Article.asp?id=16691 |title=FMQB: Radio Industry News, Music Industry Updates, Nielsen Ratings, Music News and more! |url-status=dead |archive-url=https://web.archive.org/web/20140628011329/http://www.fmqb.com/article.asp?id=16691 |archive-date=June 28, 2014 }}</ref><ref>{{cite magazine|url=http://www.billboard.com/biz/articles/news/chart-alert/6042266/pharrell-williams-leads-hot-100-john-legend-gains-at-no-2 |title=Pharrell Williams Leads Hot 100, John Legend Gains At No. 2 |magazine=[[Billboard (magazine)|Billboard]] |date=April 9, 2014 |access-date=April 10, 2014 |author=Trust, Gary |url-status=live |archive-url=https://web.archive.org/web/20140411230757/http://www.billboard.com/biz/articles/news/chart-alert/6042266/pharrell-williams-leads-hot-100-john-legend-gains-at-no-2 |archive-date=April 11, 2014 }}</ref> The single peaked at number 17 in the US, becoming her 15th song to reach the top 20 in the nation.<ref name="charth"/>
+
+"[[This Is How We Do]]" was released as the fifth official single from the album. A lyric video of the song was released on July 24, 2014.<ref>{{cite magazine|url=http://www.billboard.com/articles/6185609/katy-perry-this-is-how-we-do-lyric-video |magazine=Billboard |title=Katy Perry Releases Lyric Video For New Single 'This Is How We Do' |date=July 24, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140727081430/http://www.billboard.com/articles/6185609/katy-perry-this-is-how-we-do-lyric-video |archive-date=July 27, 2014 }}</ref> One week later, its official music video premiered and the track was sent to French radio on the same day.<ref>{{Cite web|url=http://www.chartsinfrance.net/Katy-Perry/news-92921.html|title=Clip de 'This Is How We Do' : Katy Perry rend hommage à la culture pop !|publisher=Pure Charts in France|language=fr|first=Jonathan|last=Hamard|date=July 31, 2014|access-date=July 23, 2021}}</ref> The song debuted at number 88 on the ''Billboard'' Hot 100 on August 9, 2014, and peaked at number 24.<ref name="charth"/>
+
+== Critical reception ==
+{{Music ratings
+| ADM        = 5.8/10<ref>{{cite web|url=http://www.anydecentmusic.com/review/5937/Katy-Perry-Prism.aspx|title=Prism by Katy Perry reviews|publisher=AnyDecentMusic?|access-date=March 31, 2018|archive-url=https://web.archive.org/web/20180226151958/http://www.anydecentmusic.com/review/5937/Katy-Perry-Prism.aspx|archive-date=February 26, 2018|url-status=live}}</ref>
+| MC         = 61/100<ref name="Metacritic"/>
+| rev1       = [[AllMusic]]
+| rev1Score  = {{Rating|3.5|5}}<ref name=allmusic/>
+| rev2       = ''[[The A.V. Club]]''
+| rev2Score  = C+<ref name=avclub/>
+| rev3       = ''[[Chicago Tribune]]''
+| rev3Score  = {{Rating|2|4}}<ref name=chicago/>
+| rev4       = ''[[Consequence (website)|Consequence]]''
+| rev4Score  = {{rating|3.5|5}}<ref name=consequence/>
+| rev5       = ''[[Entertainment Weekly]]''
+| rev5Score  = B+<ref name=EWREVIEW/>
+| rev6       = ''[[The Guardian]]''
+| rev6Score  = {{Rating|3|5}}<ref name=guardian/>
+| rev7       = ''[[Los Angeles Times]]''
+| rev7Score  = {{Rating|3|4}}<ref name="LATimes"/>
+| rev8       = ''[[Rolling Stone]]''
+| rev8Score  = {{rating|3|5}}<ref name=RollingStoneReview/>
+| rev9       = ''[[Slant Magazine]]''
+| rev9Score  = {{Rating|3|5}}<ref name=slant/>
+| rev10      = ''[[Spin (magazine)|Spin]]''
+| rev10Score = 5/10<ref name=spinrev/>
+}}
+
+Upon its release, ''Prism'' received generally favorable reviews from music critics. On [[Metacritic]], it has a score of 61 out of 100, based on 26 reviews.<ref name="Metacritic">{{cite web|url=http://www.metacritic.com/music/prism/katy-perry |title=Prism |publisher=[[Metacritic]] |access-date=November 15, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131209172300/http://www.metacritic.com/music/prism/katy-perry |archive-date=December 9, 2013 }}</ref> Jon Dolan from ''[[Rolling Stone]]'' awarded the album three out of five stars, writing that "Perry and her longtime collaborators [[Dr. Luke]] and [[Max Martin]] often go for a darker, moodier intimacy à la high-end Swedish divas [[Robyn]] and [[Lykke Li]]. Perry has always done a great job of letting us know she's in on the joke of pop stardom. Sadly, she doesn't always bring that same sense of humor and self-awareness to the joke of pop-star introspection. The album's raft of ripe-lotus ballads is larded with [[Alanis Morissette|Alanis]]-ian poesy she can't pull off".<ref name="RollingStoneReview">{{cite magazine|last=Dolan |first=Jon |title=Katy Perry 'Prism' Review |url=https://www.rollingstone.com/music/albumreviews/prism-20131016 |magazine=[[Rolling Stone]] |date=October 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20160409165951/http://www.rollingstone.com/music/albumreviews/prism-20131016 |archive-date=April 9, 2016 }}</ref> Giving the album a B+ rating, Nick Catucci from ''[[Entertainment Weekly]]'' stated that "Katy's superpower, now more than ever, is minting songs so relatable that their insights quickly scale up to inspirational." He also added that "now she grasps that she's making the mainstream, not just swimming in it".<ref name="EWREVIEW">{{cite magazine|last=Catucci |first=Nick |title=Prism review |url=https://ew.com/article/2014/01/08/prism-review/ |magazine=Entertainment Weekly |date=October 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20141018084603/http://www.ew.com/ew/article/0%2C%2C20746141%2C00.html |archive-date=October 18, 2014 }}</ref>
+
+Helen Brown from ''[[The Daily Telegraph]]'' gave the album five out of five stars, stating Perry "sounds like a woman, and an artist, who's finally found herself" and praised the "vulnerability" of the album.<ref name="TelegraphReview">{{cite news|last=Brown |first=Helen |title=Katy Perry, Prism, review |url=https://www.telegraph.co.uk/culture/music/rockandpopreviews/10386191/Katy-Perry-Prism-review.html |newspaper=[[The Daily Telegraph]] |access-date=October 17, 2013 |location=London |date=October 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140126035023/http://www.telegraph.co.uk/culture/music/rockandpopreviews/10386191/Katy-Perry-Prism-review.html |archive-date=January 26, 2014 }}</ref> [[Stephen Thomas Erlewine]] from [[AllMusic]], Alexis Petridis from ''[[The Guardian]]'', and Sal Cinquemani from ''[[Slant Magazine]]'' all also gave the album three out of five stars.<ref name=slant>{{cite web|last=Cinquemani |first=Sal |url=http://www.slantmagazine.com/music/review/katy-perry-prism |title=Katy Perry: Prism |website=Slant Magazine |date=October 18, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140125115444/http://www.slantmagazine.com/music/review/katy-perry-prism |archive-date=January 25, 2014 }}</ref> Erlewine dubbed ''Prism'' "a tighter, cleaner record than its predecessors".<ref name=allmusic>{{cite web|url=http://www.allmusic.com/album/prism-mw0002577862 |title=''Prism''— Katy Perry |author-link=Stephen Thomas Erlewine |first=Stephen Thomas |last=Erlewine |publisher=[[AllMusic]] |date=September 4, 2020 |url-status=live |archive-url=https://web.archive.org/web/20131024001157/http://www.allmusic.com/album/prism-mw0002577862 |archive-date=October 24, 2013}}</ref> Petridis called it "Katy Perry's most spiritual album to date".<ref name=guardian>{{cite news|last=Petridis |first=Alexis |url=https://www.theguardian.com/music/2013/oct/17/katy-perry-prism-review |title=Katy Perry: ''Prism'' |newspaper=[[The Guardian]] |date=October 10, 2013 |url-status=live |archive-url=https://web.archive.org/web/20161202014256/https://www.theguardian.com/music/2013/oct/17/katy-perry-prism-review |archive-date=December 2, 2016}}</ref> Mesfin Fekadu from [[ABC News (United States)|ABC News]] deemed the tracks "likable", but felt the album lacked "some of the fiery fierceness and excitement that dominated ''[[Teenage Dream]]''".<ref name="ABCReview">{{cite web|url=https://abcnews.go.com/m/story?id=20636044 |last=Fekadu |first=Mesfin |title=Music Review: Katy Perry Plays It Safe on 'Prism' |publisher=ABC News. The Walt Disney Company |date=October 21, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140125180258/https://abcnews.go.com/m/story?id=20636044 |archive-date=January 25, 2014 }}</ref> James Reed from ''[[The Boston Globe]]'' wrote Perry "always seemed like the pop star who knows precisely what she does best" and called the album "an unabashedly fun listen".<ref name="BostonGlobeReview">{{cite news|last=Reed |first=James |title=Katy Perry shows many colors on 'Prism' |url=https://www.bostonglobe.com/arts/music/2013/10/20/perry-shows-many-colors-prism/fIMiSxHkP3V3r4yN5Z8r4H/story.html |newspaper=[[Boston Globe]] |publisher=[[John W. Henry]] |date=October 21, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140125095113/http://www.bostonglobe.com/arts/music/2013/10/20/perry-shows-many-colors-prism/fIMiSxHkP3V3r4yN5Z8r4H/story.html |archive-date=January 25, 2014 }}</ref> Chris Bosman from ''[[Consequence (website)|Consequence]]'' gave the album three and a half out of five stars, calling Perry "a champion of choruses".<ref name=consequence>{{cite web|url=https://consequence.net/2013/10/album-review-katy-perry-prism/ |title=Album Review: Katy Perry – Prism |website=[[Consequence (website)|Consequence]]|date=October 21, 2013 |access-date=January 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140210155350/https://consequence.net/2013/10/album-review-katy-perry-prism/ |archive-date=February 10, 2014 }}</ref> [[Greg Kot]] from ''[[Chicago Tribune]]'' gave the album 2 out of 4 stars, commenting "Though not exactly spiritual, ''Prism'' does come off as a more serious—if no less formulaic—album than its predecessor".<ref name=chicago>{{cite news|last=Kot |first=Greg |author-link=Greg Kot |url=http://articles.chicagotribune.com/2013-10-20/entertainment/chi-kate-perry-prism-review-20131020_1_katy-perry-russell-brand-album-review |title=Kate Perry, 'Prism' album review |newspaper=[[Chicago Tribune]] |date=October 20, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140125230556/http://articles.chicagotribune.com/2013-10-20/entertainment/chi-kate-perry-prism-review-20131020_1_katy-perry-russell-brand-album-review |archive-date=January 25, 2014 }}</ref> Marah Eakin from ''[[The A.V. Club]]'' gave the album a C+, commenting "A lot of ''Prism'' is simply forgettable", though praised the tracks "Roar", "Birthday", and "This Is How We Do".<ref name="avclub">{{cite web|last=Eakin |first=Marah |url=https://www.avclub.com/katy-perry-prism-1798178398 |title=Katy Perry: Prism |website=[[The A.V. Club]] |date=October 18, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131023060527/http://www.avclub.com/articles/katy-perry-prism%2C104560/ |archive-date=October 23, 2013 }}</ref> Rob Harvilla from ''[[Spin (magazine)|Spin]]'' gave the album a 5/10 rating, and felt some of the material was not "all that desirable".<ref name=spinrev>{{cite magazine|last=Harvilla |first=Rob |url=https://www.spin.com/2013/10/katy-perry-prism-capitol/ |title=Katy Perry, 'Prism' Review |magazine=[[Spin (magazine)|Spin]] |date=September 17, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140125021650/https://www.spin.com/2013/10/katy-perry-prism-capitol/ |archive-date=January 25, 2014 }}</ref>
+
+Elysa Gardner from ''[[USA Today]]'' gave the album a three-out-of-four rating and found the album to be "genuine and endearing".<ref name="USATodayReview">{{cite news|last=Gardner |first=Elysa |title=Review: Katy Perry's 'Prism' honors spirit and flesh |url=https://www.usatoday.com/story/life/music/2013/10/18/katy-perry-prism-album-review-listen-up/2978993/ |newspaper=[[USA Today]] |date=October 21, 2013 |access-date=November 13, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131023111739/http://www.usatoday.com/story/life/music/2013/10/18/katy-perry-prism-album-review-listen-up/2978993/ |archive-date=October 23, 2013 }}</ref> Trent Wolbe from ''[[The Verge]]'' gave an overall 4/4 rating and praised Perry's ability to "wrapping hyper-specific emotions into a new format that everyone can relate to". He particularly praised the tracks "International Smile" and "Birthday", declaring the chorus of "Birthday" to be "fucking perfect".<ref name="VergeReview">{{cite news|last=Wolbe |first=Trent |title=Get real: Katy Perry lets go of the teenage dream with 'Prism' |url=https://www.theverge.com/2013/10/23/4877672/get-real-katy-perry-lets-go-of-the-teenage-dream-with-prism |work=[[The Verge]] |access-date=October 23, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131023174943/http://www.theverge.com/2013/10/23/4877672/get-real-katy-perry-lets-go-of-the-teenage-dream-with-prism |archive-date=October 23, 2013 }}</ref> Jody Rosen from ''Vulture'' was disappointed with every track on the album except for "Roar".<ref name=Vulture/> Randall Roberts of ''[[Los Angeles Times]]'' gave the album a three-out-of-four rating, calling it "a shimmering, dynamic, heavy-duty modern pop album".<ref name=LATimes/>
+
+== Accolades ==
+=== Awards and nominations ===
+{| class="wikitable plainrowheaders"
+|+Name of award, year listed, category, and result
+! Award
+! Year
+! Category
+! Result
+! Ref.
+|-
+! scope="row" | [[American Music Awards]]
+| rowspan="10" scope="row" | 2014
+| Favorite Pop/Rock Album
+| {{nom}}
+| align="center"|<ref>{{cite news|url=http://www.latimes.com/entertainment/music/posts/la-et-ms-american-music-awards-2014-complete-list-of-nominees-20141013-story.html|title=American Music Awards 2014: Complete list of winners and nominees|newspaper=[[Los Angeles Times]]|date=October 13, 2014|access-date=July 20, 2015|url-status=live |archive-url=https://web.archive.org/web/20150707033541/http://www.latimes.com/entertainment/music/posts/la-et-ms-american-music-awards-2014-complete-list-of-nominees-20141013-story.html|archive-date=July 7, 2015}}</ref>
+|-
+! scope="row" | [[Australian Recording Industry Association#ARIA No. 1 Chart Awards|ARIA Number One Chart Awards]]
+| Number One Album
+| {{won}}
+| align="center"|<ref>{{cite web|url=https://www.aria.com.au/charts/news/all-the-aria-albums-chart-1s|publisher=[[Australian Recording Industry Association]]|access-date=September 19, 2025|title=All the ARIA Albums Chart #1s|url-status=live|archive-url=https://web.archive.org/web/20250914143245/https://www.aria.com.au/charts/news/all-the-aria-albums-chart-1s|archive-date=September 14, 2025}}</ref>
+|-
+! scope="row" | [[Digital Spy#Digital Spy Awards|Digital Spy Reader Awards]]
+| Best Album
+| {{won}}
+| align="center"|<ref>{{cite web|url=https://www.digitalspy.com/showbiz/a540263/digital-spy-2013-readers-awards-the-winners/|publisher=[[Digital Spy]]|date=December 27, 2013|title=Digital Spy 2013 readers' awards: The winners!|last=Nissim|first=Mayer|access-date=September 17, 2025}}</ref>
+|-
+! scope="row" | [[Grammy Awards]]
+|Best Pop Vocal Album
+| {{nom}}
+| align="center"|<ref>{{cite news|url=http://www.latimes.com/entertainment/music/la-et-ms-grammys-2015-nominees-winners-list-story.html|title=Grammys 2015: Complete list of winners and nominees|newspaper=[[Los Angeles Times]]|date=February 8, 2015|access-date=November 14, 2015|url-status=live|archive-url=https://web.archive.org/web/20151113092219/http://www.latimes.com/entertainment/music/la-et-ms-grammys-2015-nominees-winners-list-story.html|archive-date=November 13, 2015}}</ref>
+|-
+! scope="row" | [[Juno Award]]s
+| [[Juno Award for International Album of the Year|International Album of the Year]]
+| {{nom}}
+|style="text-align:center;"|<ref>2015 Juno Awards:
+*{{cite magazine|last=Bliss|first=Karen|url=http://www.billboard.com/articles/events/grammys-2015/6451070/juno-awards-nominations|title=Magic!, Kiesza and Leonard Cohen Lead Juno Awards Nominations|magazine=Billboard|access-date=January 27, 2015|date=January 27, 2015|url-status=live|archive-url=https://web.archive.org/web/20150130011353/http://www.billboard.com/articles/events/grammys-2015/6451070/juno-awards-nominations|archive-date=January 30, 2015}}
+*{{cite news|url=https://www.thestar.com/entertainment/music/2015/03/14/juno-awards-2015-list-of-winners.html|newspaper=[[Toronto Star]]|date=March 14, 2015|access-date=January 22, 2016|first=Ben|last=Rayner|title=Juno Awards 2015: List of Saturday's winners|url-status=live|archive-url=https://web.archive.org/web/20160420063000/http://www.thestar.com/entertainment/music/2015/03/14/juno-awards-2015-list-of-winners.html|archive-date=April 20, 2016}}
+</ref>
+|-
+! scope="row" | [[LOS40 Music Awards]]
+| [[Premios 40 Principales for Best International Album|Best International Album]]
+| {{nom}}
+| align="center"|<ref>{{cite web|title=Premios 40 Principales|date=2014|url=http://los40.com/especiales/2014/conciertos-40/premios-40-principales/2014/ganadores/|publisher=[[Los Premios 40 Principales]]|access-date=December 16, 2015|language=es|url-status=dead|archive-url=https://web.archive.org/web/20160130093830/http://los40.com/especiales/2014/conciertos-40/premios-40-principales/2014/ganadores/|archive-date=January 30, 2016}}</ref>
+|-
+! rowspan="2" scope="row" | [[Official Charts|The Official Specialist Number One Awards]]{{efn|The Specialist Number One Awards were launched in January 2021. These awards recognize all number one albums and singles that have reached the top of any OCC chart, excluding the [[UK singles chart|Official Singles]] and [[UK Albums Chart|Official Albums]] charts, for any prior years.<ref>{{cite web|url=https://www.officialcharts.com/chart-news/new-official-chart-award-launched-to-celebrate-number-1-success-in-uks-genre-and-specialist-charts-including-vinyl-afrobeats-and-classical__32320/|title=New Official Chart award launched to celebrate Number 1 success in UK's genre and specialist charts – including vinyl, afrobeats and classical|publisher=[[Official Charts]]|access-date=September 22, 2025|date=January 28, 2021|last=Kreisler|first=Lauren|url-status=live|archive-url=https://web.archive.org/web/20210207165554/https://www.officialcharts.com/chart-news/new-official-chart-award-launched-to-celebrate-number-1-success-in-uks-genre-and-specialist-charts-including-vinyl-afrobeats-and-classical__32320/|archive-date=February 7, 2021}}</ref>}}
+| Number One [[UK Album Downloads Chart|Album Downloads]]
+| {{won}}
+|rowspan="2" style="text-align:center;"|<ref>{{cite web|url=https://www.officialcharts.com/artist/5088/katy-perry/|title=Katy Perry songs and albums|publisher=[[Official Charts]]|access-date=September 19, 2025|url-status=live|archive-url=https://web.archive.org/web/20250514192646/https://www.officialcharts.com/artist/5088/katy-perry/|archive-date=May 14, 2025}}</ref>
+|-
+| Number One Physical Albums
+| {{won}}
+|-
+! scope="row" | [[Rockol#Rockol Awards|''Rockol'' Awards]]
+| Best International Album
+| {{won}}
+| align="center"|<ref>
+{{cite magazine|title=Emma, Katy Perry, Amoroso, Muse, Miley: ecco i vincitori dei Rockol Awards|url=https://www.rockol.it/news-569325/rockol-awards-vincitori-emma-katy-perry|magazine=[[Rockol]]|language=it|access-date=September 6, 2025|date=January 23, 2014}}</ref>
+|-
+! scope="row" | [[TeleHit#Telehit Awards|TeleHit Awards]]
+| Best Female Pop Album
+| {{won}}
+| align="center"|<ref>
+{{cite web|url=https://www.youtube.com/watch?v=fnJN35KS47g|title=Katy Perry se lleva el premio "Mejor Álbum Pop Femenino"|language=es|publisher=[[TeleHit]]|date=November 19, 2014|access-date=September 11, 2025|via=YouTube}}</ref>
+|}
+
+=== Critic rankings and listicles ===
+{| class="wikitable sortable plainrowheaders"
+|+Name of publication, year listed, name of [[listicle]], and result
+! scope="col"| Publication
+! scope="col"| Year
+! scope="col"| Listicle
+! scope="col" | Result
+! scope="col" class="unsortable"| {{Abbr|Ref.|References}}
+|-
+! scope="row"| ''[[The Guardian]]''
+| rowspan="3" scope="row" | 2013
+| rowspan="3" scope="row" | Best Albums of the Year
+| Placed
+| align="center"|<ref>{{Cite news|url=https://www.theguardian.com/music/musicblog/2013/dec/23/best-albums-tracks-2013-writers-votes|last=Hughes|first=Tom|title=The best albums of 2013: how our writers voted|newspaper=[[The Guardian]]|date=December 23, 2013|access-date=September 29, 2025|archive-url=https://web.archive.org/web/20180409094117/https://www.theguardian.com/music/musicblog/2013/dec/23/best-albums-tracks-2013-writers-votes|archive-date=April 9, 2018|url-status=live}}</ref>
+|-
+! scope="row"| ''[[MusicOMH]]''
+| 95th
+| align="center"|<ref>{{cite magazine|url=https://www.musicomh.com/features/lists/musicomhs-top-100-albums-2013-complete-list|title=MusicOMH's Top 100 Albums of 2013: Full List and Playlist|date=December 9, 2013|access-date=September 29, 2025|magazine=[[MusicOMH]]|url-access=subscription|archive-date=September 29, 2025|archive-url=https://web.archive.org/web/20250929075754/https://www.musicomh.com/features/lists/musicomhs-top-100-albums-2013-complete-list|url-status=live}}</ref>
+|-
+! scope="row"| [[Radio.com]]
+| 9th
+| align="center"|<ref>{{cite news|date=December 12, 2013|title=Radio.com's Best Albums of 2013|url=https://www.cbsnews.com/sanfrancisco/news/radio-coms-best-albums-of-2013-1/|access-date=September 29, 2025|publisher=[[CBS News]]|archive-date=September 28, 2025|archive-url=https://web.archive.org/web/20250928232027/https://www.cbsnews.com/sanfrancisco/news/radio-coms-best-albums-of-2013-1/|url-status=live}}</ref>
+|}
+
+== Commercial performance ==
+=== Worldwide and digital platforms ===
+''Prism'' sold 453,000 copies worldwide in its first week of release.<ref>{{cite web|title=El cuarto álbum de Katy Perry vendió 2.8 millones de discos en su año de estreno|url=https://www.ciudad.com.ar/virales/cuarto-album-katy-perry-vendio-28-millones-discos-ano-estreno_106094/|access-date=May 24, 2026|date=September 6, 2018|publisher=[[Ciudad Magazine]]|language=es|trans-title=Katy Perry's fourth album sold 2.8 million records in its release year|archive-url=https://web.archive.org/web/20260523201553/https://www.ciudad.com.ar/virales/cuarto-album-katy-perry-vendio-28-millones-discos-ano-estreno_106094/|archive-date=May 23, 2026|url-status=live}}</ref> The [[International Federation of the Phonographic Industry]] (IFPI) reported that ''Prism'' was the best-selling album released by a woman in 2013 and ranked as the sixth best-selling album overall that year. The IFPI called Perry "a global phenomenon."<ref name=ifpi14/> The record was also the 26th best-selling album worldwide in 2014.<ref name=ifpi15/> ''Prism'' has sold more than eight million copies worldwide as of October 2015.<ref name=wwsales>{{cite news|title=La californiana Katy Perry regresa a la Argentina para presentar su disco ''Prism'' en el hipódromo de Palermo|url=http://noticias.terra.com.ar/argentina/la-californiana-katy-perry-regresa-a-la-argentina-para-presentar-su-disco-prism-en-el-hipodromo-de-palermo,8fb6fda031562ae84034a97d233c9113pch06jkj.html|access-date=July 28, 2025|date=October 2, 2015|agency=[[Terra (company)|Terra]]|language=es|trans-title=Californian Katy Perry returns to Argentina to present her album ''Prism'' at the Palermo racetrack|archive-url=https://web.archive.org/web/20151004175225/http://noticias.terra.com.ar/argentina/la-californiana-katy-perry-regresa-a-la-argentina-para-presentar-su-disco-prism-en-el-hipodromo-de-palermo,8fb6fda031562ae84034a97d233c9113pch06jkj.html|archive-date=October 4, 2015|url-status=dead}}</ref>
+
+On [[Spotify]], ''Prism'' has reached more than a billion streams as of September 2021.<ref>{{cite web|last=White|first=Jack|date=September 21, 2021|title=Katy Perry's 2019 single Harleys in Hawaii enjoys huge uplift thanks to TikTok|url=https://www.officialcharts.com/chart-news/katy-perrys-2019-single-harleys-in-hawaii-enjoys-huge-uplift-in-streams-as-you-and-i-tiktok-trend-takes-off__34076/|access-date=September 26, 2021|publisher=[[Official Charts]]|archive-date=December 20, 2021|archive-url=https://web.archive.org/web/20211220050120/https://www.officialcharts.com/chart-news/katy-perrys-2019-single-harleys-in-hawaii-enjoys-huge-uplift-in-streams-as-you-and-i-tiktok-trend-takes-off__34076/|url-status=live}}</ref> With "Roar" and "Dark Horse", ''Prism'' became the first studio album to have two songs from its tracklist to have more than four billion views on YouTube.<ref>{{cite news|title=Katy Perry hace historia en Vevo con dos videos que superan los 4 000 000 000 de vistas|publisher=[[Bolivisión|RQP Bolivia]]|url=https://www.rqp.com.bo/2025/06/23/katy-perry-hace-historia-en-vevo-con-dos-videos-que-superan-los-4-000-000-000-de-vistas/|language=es|trans-title=Katy Perry makes Vevo history with two videos surpassing four billion views.|date=June 23, 2025|access-date=October 9, 2025|archive-url=https://web.archive.org/web/20260518172736/https://www.rqp.com.bo/2025/06/23/katy-perry-hace-historia-en-vevo-con-dos-videos-que-superan-los-4-000-000-000-de-vistas/|archive-date=May 18, 2026|url-status=live}}</ref>
+
+=== The Americas ===
+In the United States, ''Prism'' debuted at number one on the [[Billboard 200|''Billboard'' 200]], becoming her second consecutive number one album in the country. The album sold 286,000 copies in its first week. ''Prism'' earned the largest first-week sales total by a female artist for 2013, surpassing [[Miley Cyrus]]' [[Bangerz]] (270,000 copies). However, this mark was surpassed by [[Beyoncé]]'s ''[[Beyoncé (album)|self-titled album]]'' (617,213 digital copies), released in December 2013.<ref>{{cite magazine|url=https://www.billboard.com/articles/news/5840086/its-official-beyonce-makes-history-with-fifth-no-1-album|title=It's Official: Beyoncé Makes History with Fifth No. 1 Album|date=December 17, 2013|last=Caulfield|first=Keith|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 20, 2025|url-access=subscription|archive-date=April 2, 2014|archive-url=https://web.archive.org/web/20140402041030/http://www.billboard.com/articles/news/5840086/its-official-beyonce-makes-history-with-fifth-no-1-album|url-status=live}}</ref> At the time of its release, ''Prism'' had the fourth-highest first-week sales of the year for a pop record, trailing behind [[Daft Punk]]'s May 2013 album ''[[Random Access Memories]]'', which sold 339,000 copies, and [[Justin Timberlake]]'s ''[[The 20/20 Experience]]'', which debuted to 968,000 copies and its follow-up, ''[[The 20/20 Experience – 2 of 2]]'', which debuted to just 350,000 copies. The first week's sales also marked Perry's highest weekly sales, with her previous album ''Teenage Dream'' selling 192,000 copies in its first week in August 2010. ''Prism'' has the highest first-week sales for a female pop artist since [[Madonna]]'s twelfth studio album, ''[[MDNA (album)|MDNA]]''.<ref>{{cite magazine|last=Caulfield|first=Keith|title=Katy Perry's ''Prism'' Shines at No. 1 on ''Billboard'' 200 |url=http://www.billboard.com/articles/news/5770710/katy-perrys-prism-shines-at-no-1-on-billboard-200|url-access=subscription|magazine=[[Billboard (magazine)|Billboard]]|date=October 30, 2013|url-status=live|archive-url=https://web.archive.org/web/20131101190513/http://www.billboard.com/articles/news/5770710/katy-perrys-prism-shines-at-no-1-on-billboard-200|archive-date=November 1, 2013}}</ref> The album sold 92,000 copies during its second week of availability, falling to number two on the ''Billboard'' 200. This represented the smallest sales dip for a number one album in the US since the August 2013 release of ''[[The Civil Wars (album)|The Civil Wars]]''.<ref>{{cite magazine|last=Caulfield|first=Keith|title=Arcade Fire's ''Reflektor'' Debuts at No. 1 on ''Billboard'' 200|url=http://www.billboard.com/articles/news/5778250/arcade-fires-reflektor-debuts-at-no-1-on-billboard-200|magazine=[[Billboard (magazine)|Billboard]]|access-date=November 9, 2013|date=November 6, 2013|url-status=live|archive-url=https://web.archive.org/web/20131109012434/http://www.billboard.com/articles/news/5778250/arcade-fires-reflektor-debuts-at-no-1-on-billboard-200|archive-date=November 9, 2013}}</ref> ''Prism'' became Perry's second-longest charting album, remaining on the ''Billboard'' 200 for 102 weeks.<ref name=USBB/> According to [[Nielsen Music]], the album has sold 1.74&nbsp;million copies in the US as of August 2020.<ref>{{cite magazine|url=https://www.billboard.com/articles/business/chart-beat/9441173/katy-perry-career-bests-american-idol|title=Ask ''Billboard'': Katy Perry's Career Bests, from ''One of the Boys'' to ''Smile'', and Every Hot 100 'Idol' Top 10|last=Trust|first=Gary|magazine=[[Billboard (magazine)|Billboard]]|date=August 28, 2020|url-access=subscription|access-date=October 15, 2025|archive-date=August 29, 2020|archive-url=https://web.archive.org/web/20200829235512/https://www.billboard.com/articles/business/chart-beat/9441173/katy-perry-career-bests-american-idol|url-status=live}}</ref> It was later certified five-times Platinum by the [[Recording Industry Association of America]] (RIAA) for shifting five million [[album-equivalent units]] in the country.<ref name="US Certs"/> In Canada, ''Prism'' debuted atop the ''Billboard'' [[Canadian Album Chart]] for the week ending November 9, 2013.<ref>{{cite magazine|title=''Billboard'' Canadian Albums: The Week of November 9, 2013|url=https://www.billboard.com/charts/canadian-albums/2013-11-09/|magazine=[[Billboard (magazine)|Billboard]]|url-access=subscription|access-date=May 19, 2026|url-status=live|archive-url=https://web.archive.org/web/20150924191549/https://www.billboard.com/charts/canadian-albums/2013-11-09/|archive-date=September 24, 2015}}</ref> It stayed on the chart for a total of 35 weeks and was certified eight-times Platinum by [[Music Canada]] in September 2024 for sales exceeding 640,000 units.<ref name=BBcanada/><ref name=MCcert/> Elsewhere, ''Prism'' has been certified four-times Platinum+Gold in [[Asociación Mexicana de Productores de Fonogramas y Videogramas|Mexico]] and two-times Platinum in [[Pro-Música Brasil|Brazil]].<ref name=PMB1/><ref name=PMB2/><ref name=Mexicocert/>
+
+=== Asia-Pacific ===
+In Australia, ''Prism'' debuted at number one on the [[ARIA Albums Chart]], giving Perry her second chart-topping album in the country after ''Teenage Dream''. It was the nation's 688th album to top its charts overall and 342nd to enter at the summit.<ref>{{cite web|last=Ryan|first=Gavin|title=ARIA Albums: Katy Perry ''Prism'' Debuts at Number One|url=http://www.noise11.com/news/aria-albums-katy-perry-prism-debuts-at-number-one-20131102|publisher=[[Paul Cashmere|The Noise Network]]|date=November 2, 2013|access-date=December 23, 2017|archive-url=https://web.archive.org/web/20131206161838/http://www.noise11.com/news/aria-albums-katy-perry-prism-debuts-at-number-one-20131102|archive-date=December 6, 2013|url-status=live}}</ref> With only three months of availability, ''Prism'' became the second-best-selling album of 2013 in Australia, with 179,000 copies sold.<ref>{{cite news|last=Adams|first=Cameron|title=ARIA album charts: Pink and Katy Perry score highest sellers in Australia in 2013|url=http://www.perthnow.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-fnhiy8bj-1226796832354|access-date=September 30, 2025|date=January 7, 2014|newspaper=[[PerthNow]]|url-status=dead|archive-url=https://web.archive.org/web/20171107020858/http://www.perthnow.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-fnhiy8bj-1226796832354|archive-date=November 7, 2017}}</ref> The album was also the 14th best-selling album of the 2010s in the country and has been certified six-times Platinum by the [[Australian Recording Industry Association]] (ARIA).<ref name=ARIA2010s/><ref name=ARIAcert/> In New Zealand, ''Prism'' also debuted at number one during the week ending November 7, 2013.<ref name=NZ/> The album was certified six-times Platinum by [[Recorded Music NZ]] in May 2026.<ref name=RMNZcert/> ''Prism'' has become one of the best-performing albums on both the Australian and New Zealand album charts since 1988.<ref>{{cite web|url=http://australian-charts.com/bestall_a.asp|title=Australia's Best of All Time – Albums|publisher=Hung Medien|access-date=March 22, 2026|archive-date=March 22, 2026|archive-url=https://web.archive.org/web/20260322124816/https://australian-charts.com/bestall_a.asp|url-status=live}}</ref><ref>{{cite web|url=https://charts.nz/bestall_a.asp|title=New Zealand's Best of All Time – Albums|publisher=Hung Medien|access-date=March 22, 2026|archive-date=March 22, 2026|archive-url=https://web.archive.org/web/20260322101936/https://charts.nz/bestall_a.asp|url-status=live}}</ref> In South Korea, all 13 tracks from ''Prism'', with an additional three from the deluxe edition, made it onto the [[Circle Digital Chart|Gaon International Digital Chart]] for the week ending October 26, 2013.<ref>{{cite web|url=https://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=44&current_year=2013&chart_Time=week|title=Gaon Digital Chart 2013년 11월 1주차|publisher=[[Gaon Music Chart]]|language=ko|trans-title=Gaon Digital Chart Week 1, November 2013|access-date=October 23, 2025|archive-url=https://web.archive.org/web/20131102074340/https://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=44&current_year=2013&chart_Time=week|archive-date=November 2, 2013|url-status=dead}}</ref> The album has been certified four-times Platinum in the Philippines and two-times Platinum in [[Indian Music Industry|India]] and Indonesia.<ref name=Philippines/><ref name=IMIcert/><ref name=Indonesia/>
+
+=== Europe ===
+''Prism'' debuted atop the [[UK Albums Chart]], giving Perry her second number-one album after ''Teenage Dream'' in 2010. According to the [[Official Charts]], ''Prism'' outsold the number two placer on the chart, [[James Blunt]]'s ''[[Moon Landing (album)|Moon Landing]]'', by almost 12,000 copies.<ref>{{cite web|last=Myers|first=Justin|date=October 27, 2013|title=Katy Perry scores second Number 1 album with ''Prism''|url=https://www.officialcharts.com/chart-news/katy-perry-scores-second-number-1-album-with-prism__3278/|access-date=May 19, 2026|publisher=[[Official Charts]]|archive-date=June 4, 2015|archive-url=https://web.archive.org/web/20150604041258/https://www.officialcharts.com/chart-news/katy-perry-scores-second-number-1-album-with-prism__3278/|url-status=live}}</ref> The album charted for a total of 53 weeks and was later certified Platinum by the [[British Phonographic Industry]] (BPI).<ref name=OCC/><ref name=BPIcert/> As of May 2026, it has sold 574,224 copies in the UK.<ref name=MusicWeeksales>{{cite magazine|url=https://www.musicweek.com/analysis/read/charts-analysis-rein-me-in-holds-off-drake-s-bid-for-chart-double/094186|title=Charts analysis: Rein Me In holds off Drake's bid for chart double|magazine=[[Music Week]]|date=May 22, 2026|url-access=subscription|access-date=May 22, 2026|first=Alan|last=Jones}}</ref> ''Prism'' also debuted at number one in [[Irish Albums Chart|Ireland]] and [[Scottish Singles and Albums Charts|Scotland]],<ref name=Ireland/><ref name=Scotland/> while reaching the top five in [[Ö3 Austria Top 40|Austria]],<ref name=Austria/> [[Ultratop|Belgium (Flanders)]],<ref name=Flanders/> [[Hitlisten|Denmark]],<ref name=DenmarkAlbum/> [[French Albums Chart|France]],<ref name=France/> [[GfK Entertainment charts#Charts|Germany]],<ref name=Germany/> [[IFPI Greece|Greece]],<ref name=Greece/> [[Federazione Industria Musicale Italiana|Italy]],<ref name=Italy/> the [[Dutch Album Top 100|Netherlands]],<ref name=DutchAlbum/> [[VG-lista|Norway]],<ref name=Norway/> [[Spanish Albums Chart|Spain]],<ref name=Spain/> [[Sverigetopplistan|Sweden]],<ref name=Sweden/> and [[Swiss Hitparade|Switzerland]].<ref name=Switzerland/> The album has been certified five-times Platinum in [[IFPI Norge|Norway]],<ref name=Norwaycert/> three-times Platinum in [[IFPI Austria|Austria]],<ref name=Austriacert/> and two-times Platinum in [[IFPI Danmark|Denmark]] and [[Polish Society of the Phonographic Industry|Poland]].<ref name=Denmarkcert/><ref name=Poland/>
+
+== Track listing ==
+Credits adapted from the liner notes of ''Prism''.<ref name="LinerNotes">{{cite AV media notes|title=Prism|others=Katy Perry|year=2013|publisher=[[Capitol Records]]|location=United States}}</ref>
+
+{{track listing
+| headline = Standard edition
+| extra_column    = Producer(s)
+| total_length    = 48:39
+
+| title_width=30%
+| writing_width=45%
+| extra_width=25%
+
+| title1 = [[Roar (song)|Roar]]
+| writer1 = {{flatlist|
+* [[Katy Perry]]
+* [[Dr. Luke|Lukasz Gottwald]]
+* [[Max Martin]]
+* [[Bonnie McKee]]
+* [[Cirkut (record producer)|Henry Walter]]
+}}
+| extra1 = {{flatlist|
+* [[Dr. Luke]]
+* Martin
+* [[Cirkut (record producer)|Cirkut]]
+}}
+| length1 = 3:43
+| title2 = [[Legendary Lovers (song)|Legendary Lovers]]
+| writer2 = {{flatlist|
+* Perry
+* Gottwald
+* Martin
+* McKee
+* Walter
+}}
+| extra2  = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length2 = 3:44
+
+| title3 = [[Birthday (Katy Perry song)|Birthday]]
+| writer3 = {{flatlist|
+* Perry
+* Gottwald
+* Martin
+* McKee
+* Walter
+}}
+| extra3 = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length3 = 3:35
+
+| title4 = [[Walking on Air (Katy Perry song)|Walking on Air]]
+| writer4 = {{flatlist|
+* Perry
+* [[Klas Åhlund]]
+* Martin
+* [[Absent Minded (Swedish rapper)|Adam Baptiste]]
+* Camela Leierth
+}}
+| extra4 = {{flatlist|
+* Åhlund
+* Martin
+}}
+| length4 = 3:42
+
+| title5 = [[Unconditionally]]
+| writer5 = {{flatlist|
+* Perry
+* Gottwald
+* Martin
+* Walter
+}}
+| extra5 = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length5 = 3:48
+
+| title6 = [[Dark Horse (Katy Perry song)|Dark Horse]]
+| note6 = featuring [[Juicy J]]
+| writer6 = {{flatlist|
+* Perry
+* [[Juicy J|Jordan Houston]]
+* Gottwald
+* [[Sarah Hudson (singer)|Sarah Theresa Hudson]]
+* Martin
+* Walter
+}}
+| extra6 = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length6 = 3:35
+
+| title7 = [[This Is How We Do]]
+| writer7 = {{flatlist|
+* Perry
+* Åhlund
+* Martin
+}}
+| extra7 = {{flatlist|
+* Åhlund
+* Martin
+}}
+| length7 = 3:24
+
+| title8 = International Smile
+| writer8 = {{flatlist|
+* Perry
+* Gottwald
+* Martin
+* Walter
+}}
+| extra8 = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length8 = 3:47
+
+| title9 = Ghost
+| writer9 = {{flatlist|
+* Perry
+* Gottwald
+* Martin
+* McKee
+* Walter
+}}
+| extra9 = {{flatlist|
+* Dr. Luke
+* Martin
+* Cirkut
+}}
+| length9 = 3:23
+
+| title10 = Love Me
+| writer10 = {{flatlist|
+* Perry
+* Martin
+* [[Christian Karlsson (DJ)|Christian "Bloodshy" Karlsson]]
+* [[Vincent Pontare]]
+* [[Magnus Lidehäll]]
+}}
+| extra10 = Bloodshy
+| length10 = 3:52
+
+| title11  = This Moment
+| writer11 = {{flatlist|
+* Perry
+* [[Stargate (music producers)|Tor Erik Hermansen]]
+* [[Stargate (music producers)|Mikkel Storleer Eriksen]]
+* [[Benny Blanco|Benjamin Levin]]
+}}
+| extra11 = {{flatlist|
+* [[Stargate (music producers)|Stargate]]
+* [[Benny Blanco]]
+}}
+| length11 = 3:46
+
+| title12 = Double Rainbow
+| writer12 = {{flatlist|
+* Perry
+* [[Sia|Sia Furler]]
+* [[Greg Kurstin]]
+}}
+| extra12 = Kurstin
+| length12 = 3:51
+
+| title13 = [[By the Grace of God (song)|By the Grace of God]]
+| writer13 = {{flatlist|
+* Perry
+* [[Greg Wells]]
+}}
+| extra13 = {{flatlist|
+* Wells
+* Perry
+}}
+| length13 = 4:27
+}}
+{{track listing
+| headline = Deluxe edition<ref>{{cite web|url=https://music.apple.com/us/album/prism-deluxe/690928033 |title=iTunes – Music – PRISM (Deluxe) by Katy Perry |publisher=iTunes Store (US). Apple Inc. |date=October 22, 2013 |access-date=October 20, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131020001459/https://itunes.apple.com/us/album/prism-deluxe/id690928033 |archive-date=October 20, 2013 }}</ref>
+| extra_column    = Producer(s)
+| total_length    = 61:35
+
+| title_width=30%
+| writing_width=45%
+| extra_width=25%
+
+| title14 = Spiritual
+| writer14 = {{flatlist|
+* Perry
+* Kurstin
+* [[John Mayer]]
+}}
+| extra14 = Kurstin
+| length14 = 4:35
+
+| title15 = It Takes Two
+| writer15 = {{flatlist|
+* Perry
+* Hermansen
+* Eriksen
+* Levin
+* [[Emeli Sandé]]
+}}
+| extra15 = {{flatlist|
+* Stargate
+* Blanco
+}}
+| length15 = 3:54
+
+| title16 = Choose Your Battles
+| writer16 = {{flatlist|
+* Perry
+* [[Jonatha Brooke]]
+* Wells
+}}
+| extra16 = {{flatlist|
+* Wells
+* Perry
+}}
+| length16 = 4:27
+}}
+
+=== Notes ===
+* Japan deluxe edition includes the Cazzette Remix and instrumental version of "Roar" as bonus tracks, as well a DVD, which features the music, lyric and five teaser videos of "Roar".<ref name="Prism Japan Deluxe Edition">{{cite web|url=http://www.hmv.co.jp/en/artist_Katy-Perry_000000000394656/item_Prism-DVD-Deluxe-Edition_5529330 |title=Prism (+DVD)(Deluxe Edition) |publisher=HMV.co.jp |url-status=live |archive-url=https://web.archive.org/web/20140326043645/http://www.hmv.co.jp/en/artist_Katy-Perry_000000000394656/item_Prism-DVD-Deluxe-Edition_5529330 |archive-date=March 26, 2014 }}</ref><ref name="universal-music.co.jp">{{cite web|url=http://www.universal-music.co.jp/katy-perry/products/tyci-69001/ |title=Katy Perry – ケイティ・ペリー – プリズム(初回限定価格盤) – UNIVERSAL MUSIC JAPAN |website=Universal Music Japan |url-status=live |archive-url=https://web.archive.org/web/20140413142417/http://www.universal-music.co.jp/katy-perry/products/tyci-69001/ |archive-date=April 13, 2014 }}</ref><ref name="cede.de">{{cite web |url=http://www.cede.de/en/music/?branch_sub=1&view=detail&id=1119225&branch=1 |title=Prism – Deluxe Japan Edition (+1DVD) by Katy Perry – Music-CD – CeDe.ch |url-status=dead |archive-url=https://web.archive.org/web/20141016055528/http://www.cede.de/en/music/?branch_sub=1&view=detail&id=1119225&branch=1 |archive-date=October 16, 2014 |access-date=April 11, 2014 }}</ref>
+* Japan Trip Special Edition includes the Johnson Somerset Remix of "Roar" and Country Club Martini Crew Remix of "Unconditionally", as well as a DVD which features the making of the music video of "Roar", and the music video and making of the music video of "Unconditionally".<ref name="Prism Japan Trip Special Edition">{{cite web|url=http://www.universal-music.co.jp/katy-perry/products/tyci-60009/ |title=Katy Perry – Prism (Japan Special Edition) |publisher=Universal Music Japan |url-status=live |archive-url=https://web.archive.org/web/20140413132810/http://www.universal-music.co.jp/katy-perry/products/tyci-60009/ |archive-date=April 13, 2014 }}</ref>
+
+== Personnel ==
+Credits adapted from the liner notes.<ref name="notes">{{cite AV media notes|others=[[Katy Perry]]|title=Prism|year=2013|type=liner notes|publisher=[[Capitol Records]]}}</ref>
+
+{{Div col|colwidth=30em}}
+* [[Klas Åhlund]] – production, programming
+* Cory Bice – assistant
+* Tim Blacksmith – management
+* Ron Blake – saxophone
+* [[Benny Blanco]] – instrumentation, production, programming
+* Delbert Bowers – assistant
+* Peter Carlsson – engineer
+* [[Cirkut (record producer)|Cirkut]] – instrumentation, production, programming
+* Bradford Cobb – management
+* Danny D. – management
+* Sabina Ddumba – background vocals
+* [[Dr. Luke]] – coral [[sitar]], executive producer, instrumentation, production, programming
+* Eric Eylands – assistant
+* Rachael Findlen – assistant
+* Justin Fox – assistant recording engineer
+* [[Alex Foster (musician)|Alex Foster]] – saxophone
+* Mike Foster – engineer
+* Chris Galland – assistant
+* [[Earl Gardner (musician)|Earl Gardner]] – trumpet
+* [[Chris Gehringer]] – mastering
+* [[Serban Ghenea|Şerban Ghenea]] – mixing
+* Clint Gibbs – engineer
+* John Hanes – engineer
+* Ngoc Hoàng – management
+* Sam Holland – engineer
+* Ian Mcgregor – engineer
+* Michael Ilbert – engineer
+* Ava James – vocals
+* Steven Jensen – management
+* [[Juicy J]] – featured artist, vocals
+* Aditya Kalyanpur – tabla
+* Christian Karlsson – engineer, instrumentation, production, programming
+* Martin Kirkup – management
+* [[Greg Kurstin]] – engineer, guitar, keyboards, production, programming
+* Ronobit Lahiri – sitar
+* Tucker Bodine – engineer
+* Andrew Luftman – production co-ordination
+* Magnus – engineer, instrumentation, programming
+* [[Manny Marroquin]] – mixing
+* [[Max Martin]] – executive producer, instrumentation, production, programming, background vocals
+* [[John Mayer]] – guitar
+* Dan McCarroll – A&R
+* [[Ryan McGinley]] – photography
+* Mogollon – art direction, design
+* Dave O'Donnell – horn engineer
+* Alex Pasco – engineer
+* [[Katy Perry]] – executive producer, primary artist, production, lead vocals, background vocals
+* [[Lenny Pickett]] – horn arrangements, saxophone
+* [[Vincent Pontare]] – engineer, instrumentation, programming
+* Irene Richter – production co-ordination
+* [[Saturday Night Live Band]] – main personnel
+* Chris Sclafani – assistant
+* Gingger Shankar – double violin
+* Jesse Shatkin – engineer
+* [[Stargate (music producers)|Stargate]] – instrumentation, production, programming, composition, engineering
+* Tensta Gospel Choir – background vocals
+* [[Steve Turre]] – trombone
+* [[Greg Wells]] – drums, piano, production, programming, synthesizer
+* [[Steven Wolf]] – drums
+* Scott "Yarmov" Yarmovsky – production co-ordination
+* Kenta Yonesaka – assistant
+{{div col end}}
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders"
+|-
+! Chart (2013–15)
+! Peak<br>position
+|-
+!scope="row"{{album chart|Australia|1|artist=Katy Perry|album=Prism|access-date=November 4, 2013}}
+|-
+!scope="row"{{album chart|Austria|3|artist=Katy Perry|album=Prism|access-date=November 4, 2013|refname=Austria}}
+|-
+!scope="row"{{album chart|Flanders|5|artist=Katy Perry|album=Prism|access-date=November 2, 2013|refname=Flanders}}
+|-
+!scope="row"{{album chart|Wallonia|7|artist=Katy Perry|album=Prism|access-date=November 2, 2013}}
+|-
+!scope="row"{{album chart|BillboardCanada|1|artist=Katy Perry|album=Prism|access-date=November 2, 2013|refname=BBcanada}}
+|-
+!scope="row"|Chinese Albums ([[Sino Chart]])<ref>{{cite web |url=http://www.sino-chart.com/chart/201401/29920.html |script-title=zh:综合榜 2013年 第03周 |language=zh |access-date=January 21, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140125095959/http://www.sino-chart.com/chart/201401/29920.html |archive-date=January 25, 2014 }}</ref>
+| style="text-align:center;"|3
+|-
+!scope="row"{{album chart|Croatia|5|artist=Katy Perry|album=Prism|id=1252|M|url=https://web.archive.org/web/20160309153050/http://hdu-toplista.com/index.php?id=1252&w=details&what=arhiva|title=Croatia Album Chart|publisher=hdu-toplista.com}}
+|-
+!scope="row"{{album chart|Czech|11|artist=Katy Perry|album=Prism|year=2013|week=43|access-date=January 4, 2014}}
+|-
+!scope="row"{{album chart|Denmark|4|artist=Katy Perry|album=Prism|access-date=November 1, 2013|refname=DenmarkAlbum}}
+|-
+!scope="row"{{album chart|Netherlands|4|artist=Katy Perry|album=Prism|access-date=October 29, 2013|refname=DutchAlbum}}
+|-
+!scope="row"{{album chart|France|4|artist=Katy Perry|album=Prism|access-date=November 4, 2013|refname=France}}
+|-
+!scope="row"{{album chart|Finland|15|artist=Katy Perry|album=Prism|access-date=October 29, 2013}}
+|-
+!scope="row"{{album chart|Germany|id=222102|4|artist=Katy Perry|album=Prism|access-date=October 29, 2013|refname=Germany}}
+|-
+!scope="row"{{album chart|Greece|5|artist=Katy Perry|album=Prism|access-date=January 4, 2014|refname=Greece}}
+|-
+!scope="row"{{album chart|Hungary|10|year=2013|week=43}}
+|-
+!scope="row"{{album chart|Ireland|1|year=2013|week=43|refname=Ireland}}
+|-
+!scope="row"{{album chart|Italy|5|artist=Katy Perry|album=Prism|refname=Italy}}
+|-
+!scope="row"|Japanese Albums ([[Oricon Albums Chart|Oricon]])<ref>{{cite web|url=https://www.oricon.co.jp/prof/458098/products/1041982/1/|title=Katy Perry − Prism|language=ja|publisher=[[Oricon]]|access-date=January 16, 2026|url-status=live}}</ref>
+|style="text-align:center;"|5
+|-
+!scope="row"|Mexican Albums ([[AMPROFON]])<ref name=Mexico>{{cite web|url=http://www.centrodedesarrollodigital.com/amprofonanual/100.php|title=Los Más Vendidos 2013|language=es|trans-title=Best-Sellers of 2013|publisher=[[Asociación Mexicana de Productores de Fonogramas y Videogramas]] (AMPROFON)|access-date=February 10, 2017|url-status=dead|archive-url=https://web.archive.org/web/20140203074839/http://www.centrodedesarrollodigital.com/amprofonanual/100.php|archive-date=February 3, 2014}}</ref>
+| style="text-align:center;"|2
+|-
+{{album chart|New Zealand|1|artist=Katy Perry|album=Prism|access-date=May 18, 2026|rowheader=true|refname=NZ}}
+|-
+!scope="row"{{album chart|Norway|3|artist=Katy Perry|album=Prism|access-date=October 29, 2013|refname=Norway}}
+|-
+!scope="row"{{album chart|Poland|34|id=836|access-date=November 4, 2013}}
+|-
+!scope="row"{{album chart|Portugal|10|artist=Katy Perry|album=Prism}}
+|-
+!scope="row"{{album chart|Scotland|1|date=20131102|rowheader=true|access-date=September 2, 2026}}
+|-
+!scope="row"|South African Albums ([[Radio Sonder Grense|RSG]])<ref>{{cite web|url=http://www.rsg.co.za|language=af|title=South African Albums Chart Top 20: November 16, 2013|publisher=[[Radio Sonder Grense]]|archive-url=https://web.archive.org/web/20131117033131/http://www.rsg.co.za/|archive-date=November 17, 2013|url-status=deviated|access-date=May 18, 2026}}</ref>
+| style="text-align:center;"|7
+|-
+! scope="row"| South Korean Albums ([[Gaon Album Chart|Gaon]])<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?termGbn=week&hitYear=2013&targetTime=44&nationGbn=T|title=2013년 44주차 Album Chart|language=ko|publisher=[[Gaon Music Chart]]|access-date=June 15, 2016|archive-url=https://web.archive.org/web/20170622160027/http://gaonchart.co.kr/main/section/chart/album.gaon?termGbn=week&hitYear=2013&targetTime=44&nationGbn=T|archive-date=June 22, 2017|url-status=dead}}</ref>
+|align="center"| 21
+|-
+! scope="row"| South Korean Albums International ([[Gaon Album Chart|Gaon]])<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/album.gaon?termGbn=week&hitYear=2013&targetTime=44&nationGbn=E|title=2013년 44주차 Album Chart|language=ko|publisher=[[Gaon Music Chart]]|access-date=June 15, 2017|archive-url=https://web.archive.org/web/20170622160027/http://gaonchart.co.kr/main/section/chart/album.gaon?termGbn=week&hitYear=2013&targetTime=44&nationGbn=E|archive-date=June 22, 2017|url-status=dead}}</ref>
+|align="center"| 4
+|-
+!scope="row"{{album chart|Spain|3|artist=Katy Perry|album=Prism|refname=Spain}}
+|-
+!scope="row"{{album chart|Sweden|3|artist=Katy Perry|album=Prism|refname=Sweden}}
+|-
+!scope="row"{{album chart|Switzerland|2|artist=Katy Perry|album=Prism|access-date=October 29, 2013|refname=Switzerland}}
+|-
+!scope="row"|Taiwan International Albums ([[G-Music]])<ref>{{cite web|url=http://www.g-music.com.tw/GMusicBillboard2.aspx|title=G-Music 風雲榜 (西洋榜)|trans-title=G-Music Chart (Western Chart)|language=zh|publisher=[[G-Music]]|access-date=January 7, 2026|url-status=dead|archive-url=https://web.archive.org/web/20131117193530/http://www.g-music.com.tw/GMusicBillboard2.aspx|archive-date=November 17, 2013}}</ref>
+|align="center"| 1
+|-
+{{album chart|UK|1|artist=Katy Perry|album=Prism|access-date=May 19, 2026|rowheader=true|refname=OCC}}
+|-
+|-
+!scope="row"{{album chart|Billboard200|1|artist=Katy Perry|album=Prism|access-date=October 30, 2013|refname=USBB}}
+|-
+|}
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+! scope="col"| Chart (2026)
+! scope="col"| Peak<br />position
+|-
+{{album chart|Slovakia|69|year=2026|week=29|rowheader=true|access-date=July 20, 2026}}
+|}
+{{col-2}}
+
+=== Monthly charts ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+! scope="col" | Chart (2013)
+! scope="col" | Peak<br />position
+|-
+! scope="row"| South Korean Albums (Gaon)<ref>{{cite web |title=2013년 10월 Album Chart |url=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2013&termGbn=month |url-status=dead |archive-url=https://web.archive.org/web/20170805143317/http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2013&termGbn=month |archive-date=August 5, 2017 |access-date=April 6, 2026 |publisher=[[Gaon Music Chart]] |language=ko}}</ref>
+| 56
+|-
+! scope="row"| Uruguayan Albums ([[List of music recording certifications|CUD]])<ref>{{cite web|url=https://www.cudisco.org/|archive-url=https://web.archive.org/web/20140222141339/http://www.cudisco.org/|title=Ranking: Diciembbre 2013|publisher=[[List of music recording certifications|Uruguayan Chamber of Disc (CUD)]]|access-date=July 16, 2023|language=es|trans-title=Ranking: December 2013|archive-date=February 22, 2014|url-status=dead}}</ref>
+| 18
+|}
+
+=== Year-end charts ===
+{|class="wikitable sortable plainrowheaders"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Position
+|-
+!scope="row"|Australian Albums (ARIA)<ref name="ARIA 2013">{{cite web |url=http://www.ariacharts.com.au/news/44186/aria-announces-2013-end-of-year-charts,-p!nk-and-katy-perry-dominate |title=2013 Year End Albums Chart |publisher=[[Australian Recording Industry Association]] |access-date=February 7, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140215045918/http://ariacharts.com.au/news/44186/aria-announces-2013-end-of-year-charts%2C-p%21nk-and-katy-perry-dominate |archive-date=February 15, 2014 }}</ref>
+| style="text-align:center;"|2
+|-
+!scope="row"|Belgian Albums (Ultratop Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2013&cat=a |title=Ultratop Belgian Charts |publisher=ultratop.be |access-date=January 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140417130753/http://www.ultratop.be/nl/annual.asp?year=2013&cat=a |archive-date=April 17, 2014 }}</ref>
+| style="text-align:center;"|101
+|-
+!scope="row"|Belgian Albums (Ultratop Wallonia)<ref>{{cite web|url=http://www.ultratop.be/fr/annual.asp?year=2013&cat=a |title=Ultratop Belgian Charts |publisher=ultratop.be |access-date=January 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140417130807/http://www.ultratop.be/fr/annual.asp?year=2013&cat=a |archive-date=April 17, 2014 }}</ref>
+| style="text-align:center;"|120
+|-
+!scope="row"|Canadian Albums (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2013/top-canadian-albums?page=2 |title=Canadian Albums |magazine=Billboard |access-date=December 30, 2013 |url-status=live |archive-url=https://web.archive.org/web/20140105070003/http://www.billboard.com/charts/year-end/2013/top-canadian-albums?page=2 |archive-date=January 5, 2014 }}</ref>
+| style="text-align:center;"|29
+|-
+!scope="row"|Danish Albums (Hitlisten)<ref>{{cite web |archive-url=https://web.archive.org/web/20140526051943/http://hitlisten.nu/aarslister.asp|archive-date=May 26, 2014|url=http://hitlisten.nu/aarslister.asp |title=Album-Top 100 2013|publisher=Hitlisten.NU. [[IFPI Denmark]] |access-date=April 10, 2014}}</ref>
+| style="text-align:center;"|82
+|-
+!scope="row"|Dutch Albums (Album Top 100)<ref>{{cite web|url=http://dutchcharts.nl/jaaroverzichten.asp?year=2013&cat=a |title=Jaaroverzichten – Album 2013 |language=nl |trans-title= Year-End Charts – Album 2013|publisher=dutchcharts.nl |access-date=April 10, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140215091751/http://dutchcharts.nl/jaaroverzichten.asp?year=2013&cat=a |archive-date=February 15, 2014 }}</ref>
+| style="text-align:center;"|86
+|-
+!scope="row"|French Albums (SNEP)<ref>{{cite web|url=https://snepmusique.com/les-tops/le-top-de-lannee/top-albums-annee/?annee=2013|title=Top de l'année Top Albums 2013|publisher=SNEP|language=fr|access-date=January 25, 2021}}</ref>
+| style="text-align:center;"|70
+|-
+!scope="row"|Germany ([[GfK Entertainment|Official German Charts]])<ref>{{cite web|url=https://www.offiziellecharts.de/charts/album-jahr/for-date-2013 |title=Top 100 Album-Jahrescharts |language=de |website=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=August 10, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150519073341/https://www.offiziellecharts.de/charts/album-jahr/for-date-2013 |archive-date=May 19, 2015 }}</ref>
+| style="text-align:center;"|94
+|-
+!scope="row"|Irish Albums (IRMA)<ref>{{cite web|url=http://irma.ie/best2013.htm |title=Best of 2013|publisher=[[Irish Recorded Music Association]] (IRMA) |access-date=January 5, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141114194334/http://irma.ie/best2013.htm |archive-date=November 14, 2014 }}</ref>
+| style="text-align:center;"|18
+|-
+!scope="row"|Italian Albums (FIMI)<ref>{{cite web|url=http://www.fimi.it/up/files/pdfddm/Classifiche_Annuali_2013.zip |title=Classifiche annuali top 100 album combined 2013 |publisher=Federation of the Italian Music Industry |language=it |trans-title=2013 Annual chart top 100 combined albums |access-date=January 7, 2014 |format=PDF |url-status=live |archive-url=https://web.archive.org/web/20140107154658/http://www.fimi.it/up/files/pdfddm/Classifiche_Annuali_2013.zip |archive-date=January 7, 2014 }}</ref>
+| style="text-align:center;"|69
+|-
+!scope="row"|Mexican Albums (AMPROFON)<ref name=Mexico/>
+|style="text-align:center;"|43
+|-
+!scope="row"|New Zealand Albums (RMNZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-albums/2013-12-31|title=End of Year Top 50 Albums (2013)|publisher=[[Recorded Music NZ]]|website=aotearoamusiccharts.co.nz|access-date=October 16, 2026|url-status=live|archive-url=https://web.archive.org/web/20260727144854/https://aotearoamusiccharts.co.nz/archive/annual-albums/2013-12-31|archive-date=July 27, 2026}}</ref>
+|style="text-align:center;"|8
+|-
+!scope="row"|Swedish Albums (Sverigetopplistan)<ref>{{cite web|url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20130001 |title=Årslista Album – År 2013 |language=sv |publisher=[[Sverigetopplistan]]. [[Swedish Recording Industry Association]] |access-date=April 4, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141012232732/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20130001 |archive-date=October 12, 2014 }}</ref>
+|style="text-align:center;"|53
+|-
+!scope="row"|Swiss Albums (Schweizer Hitparade)<ref>{{cite web|author=Steffen Hung |url=http://swisscharts.com/year.asp?key=2013 |title=Swiss Year-End Charts 2013 |publisher=swisscharts.com |access-date=January 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140125135012/http://swisscharts.com/year.asp?key=2013 |archive-date=January 25, 2014 }}</ref>
+| style="text-align:center;"|77
+|-
+!scope="row"|UK Albums (Official Charts)<ref>{{cite web|url=http://www.officialcharts.com/chart-news/the-official-top-40-biggest-artist-albums-of-2013-2708/ |title=The Official Top 40 Biggest Selling Artist Albums Of 2013 |publisher=Officialcharts.com |access-date=January 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140218110807/http://www.officialcharts.com/chart-news/the-official-top-40-biggest-artist-albums-of-2013-2708/ |archive-date=February 18, 2014 }}</ref>
+| style="text-align:center;"|28
+|-
+!scope="row"|US ''Billboard'' 200<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2013/the-billboard-200?page=4 |title=Billboard 200 Albums |magazine=Billboard |access-date=December 13, 2013 |url-status=live |archive-url=https://web.archive.org/web/20131217193308/http://www.billboard.com/charts/year-end/2013/the-billboard-200?page=4 |archive-date=December 17, 2013 }}</ref>
+| style="text-align:center;"|49
+|-
+! scope="row"| Worldwide Albums ([[IFPI]])<ref name=ifpi14>{{cite web|url=https://www.pro-musicabr.org.br/wp-content/uploads/2015/01/Digital_Music_Report_2014.pdf|title=IFPI Digital Music Report 2014|date=2014|publisher=[[International Federation of the Phonographic Industry]] (IFPI)|access-date=September 9, 2025|via=[[Pro-Música Brasil]]|archive-url=https://web.archive.org/web/20250609031419/https://www.pro-musicabr.org.br/wp-content/uploads/2015/01/Digital_Music_Report_2014.pdf|archive-date=June 9, 2025|url-status=live}}</ref>
+| style="text-align:center;"|6
+|}
+{|class="wikitable sortable plainrowheaders"
+|-
+!scope="col"| Chart (2014)
+!scope="col"| Position
+|-
+!scope="row"|Australian Albums (ARIA)<ref name="Top 2014 Albums Australia">{{cite web|url=http://aria.com.au/aria-charts-end-of-year-charts-top-100-albums-2014.htm |title=End of Year Charts – ARIA Top 100 Albums 2014 |website=[[ARIA Charts]] |publisher=[[Australian Recording Industry Association]] |access-date=January 7, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150111061700/http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-albums-2014.htm |archive-date=January 11, 2015 }}</ref>
+| style="text-align:center;"|7
+|-
+!scope="row"|Austrian Albums (Ö3 Austria)<ref>{{cite web|url=http://oe3.orf.at/charts/stories/2686464/ |title=Fehler 404 – Ö3 Charts |website=orf.at |access-date=February 10, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20150104152025/http://oe3.orf.at/charts/stories/2686464/ |archive-date=January 4, 2015 }}</ref>
+| style="text-align:center;"|73
+|-
+!scope="row"|Canadian Albums (''Billboard'')<ref name="Top 2014 Albums Canada">{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/top-canadian-albums |title=Canadian Albums |magazine=Billboard |access-date=December 14, 2014 |url-status=live |archive-url=https://web.archive.org/web/20150208132034/http://www.billboard.com/charts/year-end/2014/top-canadian-albums |archive-date=February 8, 2015 }}</ref>
+| style="text-align:center;"|5
+|-
+!scope="row"|Dutch Albums (Album Top 100)<ref>{{cite web|url=http://www.dutchcharts.nl/jaaroverzichten.asp?year=2014&cat=a |title=Jaaroverzichten – Album 2014|language=nl |trans-title= Year-End Charts – Album 2014|publisher=dutchcharts.nl |access-date=June 7, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150102164442/http://dutchcharts.nl/jaaroverzichten.asp?year=2014&cat=a |archive-date=January 2, 2015 }}</ref>
+| style="text-align:center;"|70
+|-
+!scope="row"| French Albums (SNEP)<ref>{{cite web|url=http://www.snepmusique.com/actualites-du-snep/bilan-de-lannee-2014/ |title=Bilan 2014 du Marché de la Musique Enregistrée |language=fr|trans-title=2014 Report on the Recorded Music Market|publisher=Syndicat National de l'Édition Phonographique |access-date=June 7, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150502004202/http://www.snepmusique.com/actualites-du-snep/bilan-de-lannee-2014/ |archive-date=May 2, 2015 |date=February 3, 2015 }}</ref>
+| style="text-align:center;"|94
+|-
+!scope="row"|Italian Albums (FIMI)<ref>{{cite web|url=http://www.fimi.it/5233 |publisher=[[Federazione Industria Musicale Italiana]] |language=it |access-date=January 14, 2015 |title=Classifiche Annuali 2014|trans-title=Annual Rankings 2014|url-status=dead |archive-url=https://web.archive.org/web/20150113005101/http://www.fimi.it/5233 |archive-date=January 13, 2015 }}</ref>
+| style="text-align:center;"|65
+|-
+!scope="row"|Mexican Albums (AMPROFON)<ref>{{cite web |url=http://www.centrodedesarrollodigital.com/amprofonanual/100.php |title=Los Más Vendidos 2014|language=es|trans-title=Best-Sellers of 2014|publisher=[[Asociación Mexicana de Productores de Fonogramas y Videogramas]] (AMPROFON)|access-date=May 23, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150215070225/http://www.centrodedesarrollodigital.com/amprofonanual/100.php|archive-date=February 15, 2015}}</ref>
+|align="center"|40
+|-
+!scope="row"|New Zealand Albums (RMNZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-albums/2014-12-31|title=End of Year Top 50 Albums (2014)|publisher=[[Recorded Music NZ]]|website=aotearoamusiccharts.co.nz|access-date=October 16, 2026|url-status=live|archive-url=https://web.archive.org/web/20260916231555/https://aotearoamusiccharts.co.nz/archive/annual-albums/2014-12-31|archive-date=September 16, 2026}}</ref>
+|style="text-align:center;"|11
+|-
+!scope="row"|Swedish Albums (Sverigetopplistan)<ref>{{cite web|url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20140001 |title=Årslista Album – År 2014 |language=sv |publisher=[[Sverigetopplistan]]. [[Swedish Recording Industry Association]] |access-date=June 7, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160201210425/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20140001 |archive-date=February 1, 2016 }}</ref>
+|style="text-align:center;"|11
+|-
+!scope="row"|Swiss Albums (Schweizer Hitparade)<ref>{{cite web|title=Swiss Year-End Charts 2014 |url=http://www.swisscharts.com/charts/jahreshitparade |access-date=January 9, 2015 |url-status=live |archive-url=https://web.archive.org/web/20141220110530/http://swisscharts.com/charts/jahreshitparade |archive-date=December 20, 2014 }}</ref>
+| style="text-align:center;"|63
+|-
+!scope="row"|UK Albums (Official Charts)<ref>{{cite web
+ |url=http://www.officialcharts.com/charts/end-of-year-artist-albums-chart/
+ |title=End of Year Album Chart Top 100 – 2014
+ |publisher=Officialcharts.com
+ |access-date=June 7, 2015
+ |url-status=live
+ |archive-url=https://web.archive.org/web/20150403152500/http://www.officialcharts.com/charts/end-of-year-artist-albums-chart/
+ |archive-date=April 3, 2015
+}}</ref>
+| style="text-align:center;"|52
+|-
+!scope="row"|US ''Billboard'' 200<ref name="Top 2014 Albums USA">{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/top-billboard-200-albums |title=Billboard 200 Albums |magazine=Billboard |access-date=December 14, 2014 |url-status=live |archive-url=https://web.archive.org/web/20141212203747/http://www.billboard.com/charts/year-end/2014/top-billboard-200-albums |archive-date=December 12, 2014 }}</ref>
+| style="text-align:center;"|8
+|-
+! scope="row"| Worldwide Albums ([[IFPI]])<ref name=ifpi15>{{cite web|url=https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/RIN/RIN_2014_VOE_2015.pdf|title=Recording Industry in Numbers|date=2015|publisher=[[International Federation of the Phonographic Industry]] (IFPI)|access-date=September 19, 2025|via=[[Bundesverband Musikindustrie]] (BVMI)|archive-url=https://web.archive.org/web/20220214003818/https://www.musikindustrie.de/fileadmin/bvmi/upload/06_Publikationen/RIN/RIN_2014_VOE_2015.pdf|archive-date=February 14, 2022|url-status=live}}</ref>
+| style="text-align:center;"|26
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|-
+!scope="col"| Chart (2015)
+!scope="col"| Position
+|-
+! scope="row"| Australian Albums (ARIA)<ref>{{cite web|url=http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-albums-2015.htm |title=ARIA Charts – End of Year Charts – Top 100 Albums 2015 |publisher=[[Australian Recording Industry Association]] |access-date=January 6, 2016 |url-status=live |archive-url=https://web.archive.org/web/20160112063600/http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-albums-2015.htm |archive-date=January 12, 2016 }}</ref>
+| style="text-align:center;"|54
+|-
+! scope="row"|Swedish Albums (Sverigetopplistan)<ref>[http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20150001 "Årslista Album – År 2015"] {{webarchive|url=https://web.archive.org/web/20160127000900/http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=83&dfom=20150001 |date=January 27, 2016 }} (in Swedish). [[Sverigetopplistan]]. Retrieved April 22, 2017.</ref>
+| style="text-align:center;"|61
+|-
+!scope="row"|US ''Billboard'' 200<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/top-billboard-200-albums |title=Billboard 200 Albums |magazine=Billboard |access-date=December 9, 2015 |url-status=live |archive-url=https://web.archive.org/web/20151211210130/http://www.billboard.com/charts/year-end/2015/top-billboard-200-albums |archive-date=December 11, 2015 }}</ref>
+| style="text-align:center;"|83
+|}
+
+=== Decade-end charts ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2010–2019)
+! scope="col"| Position
+|-
+! scope="row"| Australian Albums (ARIA)<ref name=ARIA2010s>{{cite web|url=https://www.ariacharts.com.au/annual-charts/2019/end-of-decade-albums-chart|title=2019 ARIA End of Decade Albums Chart|date=January 2020|access-date=January 17, 2020|archive-url=https://web.archive.org/web/20200111005803/https://www.ariacharts.com.au/annual-charts/2019/end-of-decade-albums-chart|archive-date=January 11, 2020|url-status=dead}}</ref>
+| 14
+|-
+! scope="row"| Norway (VG-lista)<ref>{{cite web | url=https://ifpi.no/topp-40-2010-2019-272 | title=Topp 40 2010–2019 | publisher=[[International Federation of the Phonographic Industry]] Norway | date=January 13, 2020 | access-date=July 6, 2020 | language=no | archive-url=https://web.archive.org/web/20200114123544/https://ifpi.no/topp-40-2010-2019-272 | archive-date=January 14, 2020}}</ref>
+|34
+|-
+! scope="row"| US ''Billboard'' 200<ref>{{cite magazine|url=https://www.billboard.com/charts/decade-end/billboard-200|title=Decade-End Charts: Billboard 200|magazine=Billboard|access-date=November 15, 2019|archive-url=https://web.archive.org/web/20200320084752/https://www.billboard.com/charts/decade-end/billboard-200|archive-date=March 20, 2020|url-status=live}}</ref>
+| 56
+|}
+{{col-end}}
+
+== Certifications and sales ==
+{{Certification Table Top|caption=Certifications and sales for ''Prism''}}
+{{Certification Table Entry|region=Argentina&NoBreak;|award=Platinum|nosales=true|certref=<ref name=wwsales/><ref>{{cite news|title=Katy Perry se presenta en Argentina|trans-title=Katy Perry performs in Argentina|url=https://www.diariopanorama.com/noticia/196023/katy-perry-se-presenta-argentina|access-date=July 28, 2025|date=April 15, 2015|work=Diario Panorama|language=es|archive-url=https://ghostarchive.org/archive/20250816080842/https://www.diariopanorama.com/noticia/196023/katy-perry-se-presenta-argentina|archive-date=August 16, 2025|url-status=live}}</ref>}}
+{{Certification Table Entry|region=Australia|type=album|award=Platinum|number=6|certyear=2023|access-date=November 17, 2023|refname=ARIAcert}}
+{{Certification Table Entry|region=Austria|type=album|artist = Katy Perry|title=Prism|award=Platinum|number=3|certyear=2014|relyear=2013|access-date=March 14, 2017|refname=Austriacert}}
+{{Certification Table Entry|region=Brazil|type=album|artist=Katy Perry|title=Prism|note=Physical|award=Platinum|relyear=2013|certyear=2015|access-date=May 18, 2026|refname=PMB1}}
+{{Certification Table Entry|region=Brazil|type=album|artist=Katy Perry|title=Prism|award=Platinum|relyear=2013|certyear=2015|note=Digital|access-date=May 18, 2026|digital=true|refname=PMB2}}
+{{Certification Table Entry|region=Canada|artist=Katy Perry|title=Prism|award=Platinum|number=8|type=album|relyear=2013|certyear=2024|access-date=February 28, 2025|refname=MCcert}}
+{{Certification Table Entry|region=Chile&NoBreak;|award=Platinum|nosales=true|certref=<ref>{{cite news|last=Charpentier|first=Denisse|title=Katy Perry vendrá por primera vez a Chile|trans-title=Katy Perry will come to Chile for the first time|url=https://www.biobiochile.cl/noticias/2015/03/19/katy-perry-vendra-por-primera-vez-a-chile.shtml|access-date=July 28, 2025|date=March 19, 2015|publisher=[[Radio Bío-Bío]]|language=es|archive-url=https://web.archive.org/web/20191021173056/https://www.biobiochile.cl/noticias/2015/03/19/katy-perry-vendra-por-primera-vez-a-chile.shtml|archive-date=October 21, 2019|url-status=live}}</ref>}}
+{{Certification Table Entry|region=China&NoBreak;|award=Gold|nosales=true|certref=<ref>{{cite news|title=Katy Perry探班中央民族乐团排练 穿旗袍秀中国风|url=http://ent.news.cn/2014-01/13/c_125992812.htm|access-date=July 27, 2025|date=January 13, 2014|agency=[[Xinhuanet]]|language=zh|trans-title=Katy Perry visits the Central National Orchestra's rehearsal, wearing a qipao to show off Chinese style|archive-url=https://web.archive.org/web/20160314104753/http://ent.news.cn/2014-01/13/c_125992812.htm|archive-date=March 14, 2016|url-status=dead}}</ref>}}
+{{Certification Table Entry|region=Denmark|artist=Katy Perry|title=Prism|award=Platinum|number=2|type=album|relyear=2013|certyear=2025|id=15997|access-date=October 8, 2025|refname=Denmarkcert}}
+{{Certification Table Entry|region=Finland&NoBreak;|type=album|award=Platinum|number=4|title=Prism|artist=Katy Perry|certref=<ref name=fin>{{cite web|title=Email from Rosanna Paasovaara of Universal Music Finland|url=https://imgur.com/a/email-from-rosanna-paasovaara-of-universal-music-finland-m4nC7Gi|publisher=[[Universal Music Finland]]|via=[[Imgur]]|date=August 6, 2026|access-date=August 7, 2026}}</ref>|salesamount=80,000|salesref=<ref name=fin/>}}{{Certification Table Entry|region=France|type=album|award=Platinum|number=2|artist=Katy Perry|title=Prism|relyear=2013|certyear=2025|access-date=September 1, 2026}}
+{{Certification Table Entry|region=Germany|type=album|artist=Katy Perry|title=Prism|relyear=2013|certyear=2026|award=Platinum|access-date=February 23, 2026}}
+{{Certification Table Entry|region=India ([[Indian Music Industry|IMI]])|award=Platinum|number=3|certref=<ref name=IMIcert>{{cite web|title=Certificate given to Ms. Katy Perry by Universal Music|url=https://indianmi.org/portfolio/certificate-given-to-ms-katty-perry-by-universal-music-08-11-2019/|publisher=[[Indian Music Industry]]|date=November 8, 2019|access-date=October 28, 2023|archive-date=October 28, 2023|archive-url=https://web.archive.org/web/20231028190250/https://indianmi.org/gallery/certificate-given-to-ms-katty-perry-by-universal-music/|url-status=live}}</ref>
+|salesamount=90,000|salesref=<ref>{{cite web|title=Standards: Gold and Platinum Awards|url=https://indianmi.org/awards/standards/|publisher=[[Indian Music Industry]]|access-date=April 3, 2024|archive-url=https://web.archive.org/web/20260518152842/https://indianmi.org/awards/standards/|archive-date=May 18, 2026|url-status=live}}</ref>}}
+{{Certification Table Entry|region=Indonesia&NoBreak;|type=album|award=Platinum|number=2|title=Prism|artist=Katy Perry|certref=<ref name=Indonesia>{{cite news|last=Alpito|first=Agustinus Shindu|title=Katy Perry Diganjar Double Platinum di Indonesia|url=https://www.medcom.id/hiburan/musik/GNleLJPb-katy-perry-diganjar-double-platinum-di-indonesia|work=Medcom.id|date=May 10, 2015|language=id|trans-title=Katy Perry Awarded Double Platinum in Indonesia|access-date=July 27, 2025|archive-url=https://ghostarchive.org/archive/20250816080843/https://www.medcom.id/hiburan/musik/GNleLJPb-katy-perry-diganjar-double-platinum-di-indonesia|archive-date=August 16, 2025|url-status=live}}</ref>|salesamount=20,000|salesref=<ref name=Indonesia/>}}
+{{Certification Table Entry|region=Ireland|award=Gold|type=album|artist=Katy Perry|relyear=2013|certyear=2013|title=Prism|access-date=February 4, 2014}}
+{{Certification Table Entry|region=Italy|artist=Katy Perry|title=Prism|award=Platinum|type=album|relyear=2013|certyear=2021|id=1788|access-date=February 15, 2021}}
+{{Certification Table Entry|region=Mexico|artist=Katy Perry|title=Prism|award=Platinum+Gold|number=4|type=album|relyear=2013|date=January 30, 2014|access-date=October 21, 2014|refname=Mexicocert}}
+{{Certification Table Entry|region=Netherlands|artist=Katy Perry|title=Prism|award=Platinum|relyear=2013|certyear=2015|type=album|access-date=July 31, 2018|refname="nvpi"}}
+{{Certification Table Entry|region=New Zealand|artist=Katy Perry|title=Prism|award=Platinum|number=6|type=album|relyear=2013|certyear=2026|access-date=May 8, 2026|source=radioscope|refname=RMNZcert}}
+{{Certification Table Entry|artist=Katy Perry|title=Prism|region=Norway|relyear=2013|certyear=2021|award=Platinum|number=5|type=album|access-date=November 19, 2021|refname=Norwaycert}}
+{{Certification Table Entry|region=Peru|type=album|title=Prism|artist=Katy Perry|award=Platinum|certref=<ref name=perucert>{{cite news|url=https://elcomercio.pe/luces/musica/katy-perry-recibio-disco-platino-peru-199402-noticia/|title=Katy Perry recibió Disco de Platino en el Perú|newspaper=[[El Comercio (Peru)|El Comercio]]|language=es|trans-title=Katy Perry received a Platinum Record in Peru|date=September 24, 2015|access-date=July 29, 2025|archive-url=https://ghostarchive.org/archive/20250816090839/https://elcomercio.pe/luces/musica/katy-perry-recibio-disco-platino-peru-199402-noticia/|archive-date=August 16, 2025|url-status=live}}</ref>|relyear=2013|salesamount=5,000|salesref=<ref name=perucert/>}}
+{{Certification Table Entry|region=Philippines&NoBreak;|type=album|award=Platinum|number=4|title=Prism|artist=Katy Perry|certref=<ref name=Philippines>{{cite news|title=Katy receives 4× Platinum award|url=https://www.pressreader.com/philippines/the-philippine-star/20150527/282484297357889?srsltid=AfmBOoofGKFbY6NgPiBt-wKj54QBgRX3uSKEXGLUmOgSqxObAet9f1S-|newspaper=[[The Philippine Star]]|date=May 27, 2015|access-date=May 7, 2025|via=[[PressReader]]|archive-url=https://web.archive.org/web/20250507084438/https://www.pressreader.com/philippines/the-philippine-star/20150527/282484297357889?srsltid=AfmBOoofGKFbY6NgPiBt-wKj54QBgRX3uSKEXGLUmOgSqxObAet9f1S-|archive-date=May 7, 2025|url-status=live}}</ref>|salesamount=60,000|salesref=<ref name=Philippines/>}}
+{{Certification Table Entry|region=Poland|artist=Katy Perry |title = Prism|number=2|type=album|award=Platinum|date=February 11, 2015|access-date=February 12, 2015|relyear=2013|certyear=2015|certmonth=2|refname=Poland}}
+{{Certification Table Entry|region=Singapore|award=Platinum|type=album|artist=Katy Perry|relyear=2013|title=Prism|certyear=2019|access-date=January 18, 2021}}
+{{Certification Table Entry|region=South Africa&NoBreak;|award=Platinum|nosales=true|certref=<ref>{{cite web|last=Owen|first=Therese|title=Something to rock everyone's Xmas sock|url=https://iol.co.za/entertainment/music/2014-12-17-something-to-rock-everyones-xmas-sock/|access-date=July 27, 2025|date=December 17, 2014|work=[[Independent Online]]|archive-url=https://web.archive.org/web/20150626121827/http://mobi.iol.co.za/#!/article/something-to-rock-everyone-s-xmas-sock-1.1796602|archive-date=June 26, 2015|url-status=live}}</ref>}}
+{{Certification Table Entry|region=Sweden|award=Platinum|type=album|artist=Katy Perry|relyear=2013|title=Prism|certyear=2014|certweek=30|position=20|access-date=August 24, 2022}}
+{{Certification Table Entry|region=Switzerland|award=Platinum|type=album|artist=Katy Perry|relyear=2013|certyear=2026|title=Prism|access-date=October 2, 2026|refname="Swiss Music certifications"}}
+{{Certification Table Entry|region=United Kingdom|type=album|title=Prism|artist=Katy Perry|award=Platinum|relyear=2013|certyear=2014|id=12617-3279-2|access-date=February 28, 2014|refname=BPIcert|salesamount=574,224|salesref=<ref name=MusicWeeksales/>}}
+{{Certification Table Entry|type=album|region=United States|artist=Katy Perry|title=Prism|award=Platinum|number=5|certyear=2022|relyear=2013|access-date=January 7, 2026|refname="US Certs"}}
+{{Certification Table Summary}}
+{{Certification Table Entry|region=Worldwide|nocert=true|salesamount=8,000,000|salesref=<ref name=wwsales/>}}
+{{Certification Table Bottom|streaming=true}}
+
+== See also ==
+* [[Album era]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Katy Perry}}
+
+{{Authority control}}
+
+[[Category:2013 albums]]
+[[Category:Capitol Records albums]]
+[[Category:Katy Perry albums]]
+[[Category:Albums produced by Klas Åhlund]]
+[[Category:Albums produced by Dr. Luke]]
+[[Category:Albums produced by Max Martin]]
+[[Category:Albums produced by Benny Blanco]]
+[[Category:Albums produced by Bloodshy & Avant]]
+[[Category:Albums produced by Cirkut]]
+[[Category:Albums produced by Greg Kurstin]]
+[[Category:Albums produced by Greg Wells]]
+[[Category:Albums produced by Stargate]]
+[[Category:Albums involved in plagiarism controversies]]

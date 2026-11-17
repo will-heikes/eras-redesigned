@@ -1,0 +1,173 @@
+{
+  "id": "walking-on-air",
+  "title": "Walking on Air",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 4,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:42",
+  "writers": [
+    "Perry",
+    "Klas Åhlund",
+    "Martin",
+    "Adam Baptiste",
+    "Camela Leierth"
+  ],
+  "producers": [
+    "Åhlund",
+    "Martin"
+  ],
+  "single": null,
+  "release_history": [
+    {
+      "date": "2013-09-30",
+      "format": "Digital download",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2013-09-30",
+  "infobox_type": "promo",
+  "genre": [
+    "{{hlist",
+    "Deep house",
+    "Eurodance",
+    "[[Disco music",
+    "disco]]}}"
+  ],
+  "lead": "\"Walking on Air\" is a song recorded by American singer Katy Perry for her fourth studio album, Prism (2013), included as its fourth track. The song was written by Perry, alongside Adam Baptiste, Caméla Leierth, and the song's producers Klas Åhlund and Max Martin. It was released to digital retailers on September 30, 2013, by Capitol Records, as the record's second promotional single, following the release of \"Dark Horse\". The song was part of a poll promoted by Pepsi, along with \"Dark Horse\", where fans could vote for which song they wanted to become the first promotional single from Prism. Inspired by CeCe Peniston and Crystal Waters, \"Walking on Air\" is a deep house and disco song influenced by 1990s Eurodance.",
+  "key_peaks_original_era": {
+    "us": 34,
+    "uk": 80,
+    "can": 12,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": 34,
+    "uk": 80,
+    "can": 12,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2013-2014",
+      "entries": [
+        {
+          "chart": "Australia (ARIA Digital Track Chart)",
+          "position": 18
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 35
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 44
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 30
+        },
+        {
+          "chart": "Belgium (Ultratop Wallonia Dance)",
+          "position": 26
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 12
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 189
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 35
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 16
+        },
+        {
+          "chart": "Finland Download (Latauslista)",
+          "position": 23
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 25
+        },
+        {
+          "chart": "Greece Digital Songs (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "Hong Kong (HKRIA)",
+          "position": 15
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 13
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 20
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 47
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 12
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 15
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 80
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 34
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "Gold",
+      "cert_year": 2023,
+      "type": "streaming"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "8,029",
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "Gold",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "United States",
+      "certification": null,
+      "units_reported": "150,000",
+      "type": "streaming"
+    }
+  ],
+  "awards": [],
+  "role": "promotional single",
+  "promotional_release": "2013-09-30",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Walking_on_Air_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  ],
+  "retrieved": "2026-11-17"
+}

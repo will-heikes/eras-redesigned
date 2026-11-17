@@ -1,0 +1,49 @@
+{
+  "id": "it-takes-two",
+  "title": "It Takes Two",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 15,
+  "edition": "deluxe",
+  "featuring": null,
+  "length": "3:54",
+  "writers": [
+    "Perry",
+    "Hermansen",
+    "Eriksen",
+    "Levin",
+    "Emeli Sandé"
+  ],
+  "producers": [
+    "Stargate",
+    "Blanco"
+  ],
+  "single": null,
+  "first_release": "2013-10-18",
+  "lead": null,
+  "weekly_charts": [],
+  "year_end_charts": [],
+  "certifications": [],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": null,
+    "AUT": null,
+    "CAN": null,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": 112,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": 180
+  },
+  "key_peaks_original_era": null,
+  "key_peaks_all_time": null,
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-17"
+}

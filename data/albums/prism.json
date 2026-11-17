@@ -1,0 +1,701 @@
+{
+  "id": "prism",
+  "title": "Prism",
+  "artist_id": "katy-perry",
+  "release_date": "2013-10-18",
+  "label": "Capitol",
+  "genre": "Pop",
+  "length": "48:39",
+  "producers": [
+    "Max Martin",
+    "Dr. Luke",
+    "Katy Perry",
+    "Cirkut",
+    "Klas Åhlund",
+    "Stargate",
+    "Benny Blanco",
+    "Bloodshy",
+    "Greg Kurstin",
+    "Greg Wells"
+  ],
+  "previous_album": "Teenage Dream: The Complete Confection",
+  "next_album": "Witness",
+  "lead": "Prism is the fourth studio album by American singer Katy Perry. It was released by Capitol Records on October 18, 2013. Although the album was initially planned to be \"darker\" than her previous material, Prism ultimately became a prominently dance-inspired record. Perry worked with several past collaborators, while enlisting new producers and guest vocals. Perry partially handled production with Dr. Luke, Max Martin, Stargate, Benny Blanco, Greg Wells, Cirkut, and others. The album includes a guest appearance from Juicy J of Three 6 Mafia. Much of Prism revolves around the themes of living in the present, relationships, and self-empowerment. The album received generally positive reviews; critics praised its lyrics for being more \"mature\" and personal, while others considered Prism more formulaic than her previous work.",
+  "tracklist": [
+    {
+      "track": 1,
+      "song_id": "roar",
+      "title": "Roar",
+      "edition": "standard"
+    },
+    {
+      "track": 2,
+      "song_id": "legendary-lovers",
+      "title": "Legendary Lovers",
+      "edition": "standard"
+    },
+    {
+      "track": 3,
+      "song_id": "birthday",
+      "title": "Birthday",
+      "edition": "standard"
+    },
+    {
+      "track": 4,
+      "song_id": "walking-on-air",
+      "title": "Walking on Air",
+      "edition": "standard"
+    },
+    {
+      "track": 5,
+      "song_id": "unconditionally",
+      "title": "Unconditionally",
+      "edition": "standard"
+    },
+    {
+      "track": 6,
+      "song_id": "dark-horse",
+      "title": "Dark Horse",
+      "edition": "standard"
+    },
+    {
+      "track": 7,
+      "song_id": "this-is-how-we-do",
+      "title": "This Is How We Do",
+      "edition": "standard"
+    },
+    {
+      "track": 8,
+      "song_id": "international-smile",
+      "title": "International Smile",
+      "edition": "standard"
+    },
+    {
+      "track": 9,
+      "song_id": "ghost",
+      "title": "Ghost",
+      "edition": "standard"
+    },
+    {
+      "track": 10,
+      "song_id": "love-me",
+      "title": "Love Me",
+      "edition": "standard"
+    },
+    {
+      "track": 11,
+      "song_id": "this-moment",
+      "title": "This Moment",
+      "edition": "standard"
+    },
+    {
+      "track": 12,
+      "song_id": "double-rainbow",
+      "title": "Double Rainbow",
+      "edition": "standard"
+    },
+    {
+      "track": 13,
+      "song_id": "by-the-grace-of-god",
+      "title": "By the Grace of God",
+      "edition": "standard"
+    },
+    {
+      "track": 14,
+      "song_id": "spiritual",
+      "title": "Spiritual",
+      "edition": "deluxe"
+    },
+    {
+      "track": 15,
+      "song_id": "it-takes-two",
+      "title": "It Takes Two",
+      "edition": "deluxe"
+    },
+    {
+      "track": 16,
+      "song_id": "choose-your-battles",
+      "title": "Choose Your Battles",
+      "edition": "deluxe"
+    }
+  ],
+  "singles": [
+    {
+      "order": 1,
+      "title": "Roar",
+      "date": "2013-08-10",
+      "song_id": "roar"
+    },
+    {
+      "order": 2,
+      "title": "Unconditionally",
+      "date": "2013-10-16",
+      "song_id": "unconditionally"
+    },
+    {
+      "order": 3,
+      "title": "Dark Horse",
+      "date": "2013-12-17",
+      "song_id": "dark-horse"
+    },
+    {
+      "order": 4,
+      "title": "Birthday",
+      "date": "2014-04-21",
+      "song_id": "birthday"
+    },
+    {
+      "order": 5,
+      "title": "This Is How We Do",
+      "date": "2014-07-31",
+      "song_id": "this-is-how-we-do"
+    }
+  ],
+  "key_peaks": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 1
+  },
+  "weekly_charts": [
+    {
+      "period": "2013-15",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 1
+        },
+        {
+          "chart": "Austria Albums (Ö3 Austria)",
+          "position": 3
+        },
+        {
+          "chart": "Belgium Albums (Ultratop Flanders)",
+          "position": 5
+        },
+        {
+          "chart": "Belgium Albums (Ultratop Wallonia)",
+          "position": 7
+        },
+        {
+          "chart": "Canada (Billboard Canadian Albums)",
+          "position": 1
+        },
+        {
+          "chart": "Chinese Albums (Sino Chart)",
+          "position": 3
+        },
+        {
+          "chart": "Croatia Albums (HDU)",
+          "position": 5
+        },
+        {
+          "chart": "Czech Albums (ČNS IFPI)",
+          "position": 11
+        },
+        {
+          "chart": "Denmark Albums (Hitlisten)",
+          "position": 4
+        },
+        {
+          "chart": "Netherlands (Album Top 100)",
+          "position": 4
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 4
+        },
+        {
+          "chart": "Finland Albums (Suomen virallinen lista)",
+          "position": 15
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 4
+        },
+        {
+          "chart": "Greece Albums (IFPI)",
+          "position": 5
+        },
+        {
+          "chart": "Hungary Albums (MAHASZ)",
+          "position": 10
+        },
+        {
+          "chart": "Ireland Albums (IRMA)",
+          "position": 1
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 5
+        },
+        {
+          "chart": "Japanese Albums (Oricon)",
+          "position": 5
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 2
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 3
+        },
+        {
+          "chart": "Poland Albums (ZPAV)",
+          "position": 34
+        },
+        {
+          "chart": "Portugal Albums (AFP)",
+          "position": 10
+        },
+        {
+          "chart": "Scotland Albums (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "South African Albums (RSG)",
+          "position": 7
+        },
+        {
+          "chart": "South Korean Albums (Gaon)",
+          "position": 21
+        },
+        {
+          "chart": "South Korean Albums International (Gaon)",
+          "position": 4
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 3
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 3
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 2
+        },
+        {
+          "chart": "Taiwan International Albums (G-Music)",
+          "position": 1
+        },
+        {
+          "chart": "UK Albums (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "period": "2026",
+      "entries": [
+        {
+          "chart": "Slovak Albums (ČNS IFPI)",
+          "position": 69
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2013",
+      "entries": [
+        {
+          "chart": "Australian Albums (ARIA)",
+          "position": 2
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 101
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Wallonia)",
+          "position": 120
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 29
+        },
+        {
+          "chart": "Danish Albums (Hitlisten)",
+          "position": 82
+        },
+        {
+          "chart": "Dutch Albums (Album Top 100)",
+          "position": 86
+        },
+        {
+          "chart": "French Albums (SNEP)",
+          "position": 70
+        },
+        {
+          "chart": "Germany (Official German Charts)",
+          "position": 94
+        },
+        {
+          "chart": "Irish Albums (IRMA)",
+          "position": 18
+        },
+        {
+          "chart": "Italian Albums (FIMI)",
+          "position": 69
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 43
+        },
+        {
+          "chart": "New Zealand Albums (RMNZ)",
+          "position": 8
+        },
+        {
+          "chart": "Swedish Albums (Sverigetopplistan)",
+          "position": 53
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 77
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 28
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 49
+        },
+        {
+          "chart": "Worldwide Albums (IFPI)",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "entries": [
+        {
+          "chart": "Australian Albums (ARIA)",
+          "position": 7
+        },
+        {
+          "chart": "Austrian Albums (Ö3 Austria)",
+          "position": 73
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "Dutch Albums (Album Top 100)",
+          "position": 70
+        },
+        {
+          "chart": "French Albums (SNEP)",
+          "position": 94
+        },
+        {
+          "chart": "Italian Albums (FIMI)",
+          "position": 65
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 40
+        },
+        {
+          "chart": "New Zealand Albums (RMNZ)",
+          "position": 11
+        },
+        {
+          "chart": "Swedish Albums (Sverigetopplistan)",
+          "position": 11
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 63
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 52
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 8
+        },
+        {
+          "chart": "Worldwide Albums (IFPI)",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "entries": [
+        {
+          "chart": "Australian Albums (ARIA)",
+          "position": 54
+        },
+        {
+          "chart": "Swedish Albums (Sverigetopplistan)",
+          "position": 61
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 83
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Argentina",
+      "certification": "Platinum",
+      "type": "streaming"
+    },
+    {
+      "region": "Australia",
+      "certification": "6× Platinum",
+      "cert_year": 2023,
+      "type": "streaming"
+    },
+    {
+      "region": "Austria",
+      "certification": "3× Platinum",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "Canada",
+      "certification": "8× Platinum",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Chile",
+      "certification": "Platinum",
+      "type": "streaming"
+    },
+    {
+      "region": "China",
+      "certification": "Gold",
+      "type": "streaming"
+    },
+    {
+      "region": "Denmark",
+      "certification": "2× Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Finland",
+      "certification": "4× Platinum",
+      "units_reported": "80,000",
+      "type": "streaming"
+    },
+    {
+      "region": "France",
+      "certification": "2× Platinum",
+      "cert_year": 2025,
+      "type": "streaming"
+    },
+    {
+      "region": "Germany",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "streaming"
+    },
+    {
+      "region": "India (IMI)",
+      "certification": "3× Platinum",
+      "units_reported": "90,000",
+      "type": "streaming"
+    },
+    {
+      "region": "Indonesia",
+      "certification": "2× Platinum",
+      "units_reported": "20,000",
+      "type": "streaming"
+    },
+    {
+      "region": "Ireland",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "streaming"
+    },
+    {
+      "region": "Italy",
+      "certification": "Platinum",
+      "cert_year": 2021,
+      "type": "streaming"
+    },
+    {
+      "region": "Mexico",
+      "certification": "4× Platinum+Gold",
+      "type": "streaming"
+    },
+    {
+      "region": "Netherlands",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "6× Platinum",
+      "cert_year": 2026,
+      "type": "streaming"
+    },
+    {
+      "region": "Norway",
+      "certification": "5× Platinum",
+      "cert_year": 2021,
+      "type": "streaming"
+    },
+    {
+      "region": "Peru",
+      "certification": "Platinum",
+      "units_reported": "5,000",
+      "type": "streaming"
+    },
+    {
+      "region": "Philippines",
+      "certification": "4× Platinum",
+      "units_reported": "60,000",
+      "type": "streaming"
+    },
+    {
+      "region": "Poland",
+      "certification": "2× Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "Singapore",
+      "certification": "Platinum",
+      "cert_year": 2019,
+      "type": "streaming"
+    },
+    {
+      "region": "South Africa",
+      "certification": "Platinum",
+      "type": "streaming"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "Switzerland",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "streaming"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Platinum",
+      "units_reported": "574,224",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "United States",
+      "certification": "5× Platinum",
+      "cert_year": 2022,
+      "type": "streaming"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "8,000,000",
+      "type": "streaming"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2014,
+      "award": "American Music Awards",
+      "category": "Favorite Pop/Rock Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "ARIA Number One Chart Awards",
+      "category": "Number One Album",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Digital Spy Reader Awards",
+      "category": "Best Album",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Grammy Awards",
+      "category": "Best Pop Vocal Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "Juno Awards",
+      "category": "International Album of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "LOS40 Music Awards",
+      "category": "Best International Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "The Official Specialist Number One Awards",
+      "category": "Number One Album Downloads",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "The Official Specialist Number One Awards",
+      "category": "Number One Physical Albums",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "Rockol Awards",
+      "category": "Best International Album",
+      "result": "Won"
+    },
+    {
+      "year": 2014,
+      "award": "TeleHit Awards",
+      "category": "Best Female Pop Album",
+      "result": "Won"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  ],
+  "retrieved": "2026-11-17"
+}

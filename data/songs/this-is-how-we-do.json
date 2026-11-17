@@ -1,0 +1,375 @@
+{
+  "id": "this-is-how-we-do",
+  "title": "This Is How We Do",
+  "artist_id": "katy-perry",
+  "album_id": "prism",
+  "track": 7,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:24",
+  "writers": [
+    "Perry",
+    "Åhlund",
+    "Martin"
+  ],
+  "producers": [
+    "Åhlund",
+    "Martin"
+  ],
+  "single": {
+    "order": 5,
+    "date": "2014-07-31",
+    "source": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  },
+  "release_history": [
+    {
+      "region": "France",
+      "date": "2014-07-31",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Universal"
+    },
+    {
+      "region": "United States",
+      "date": "2014-08-11",
+      "format": "{{Hlist|Hot adult contemporary radio|rhythmic contemporary radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2014-08-12",
+      "format": "Contemporary hit radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Finland",
+      "date": "2014-08-25",
+      "format": "Digital download",
+      "version": "Remix featuring Riff Raff",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2014-08-25",
+      "format": "Digital download",
+      "version": "Remix featuring Riff Raff",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2014-08-25",
+      "format": "Digital download",
+      "version": "Remix featuring Riff Raff",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2014-09-05",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2014-07-31",
+  "infobox_type": "single",
+  "genre": [
+    "Dance-pop"
+  ],
+  "lead": "\"This Is How We Do\" is a song by American singer Katy Perry from her fourth studio album, Prism (2013). Perry co-wrote the track with its producers Max Martin and Klas Åhlund and recorded it in Stockholm, Sweden. The song was released as the album's fifth and final single along with its music video on July 31, 2014. \"This Is How We Do\" is a dance-pop song influenced by hip hop, having \"synth squiggles\" and \"melodic dots\" as its main instrumentation. Lyrically, it has Perry sing-talking about her hangout routine with her friends. The song's official remix featuring American rapper Riff Raff was released on August 25, 2014.",
+  "key_peaks_original_era": {
+    "us": 24,
+    "uk": 33,
+    "can": 9,
+    "aus": 18
+  },
+  "key_peaks_all_time": {
+    "us": 24,
+    "uk": 33,
+    "can": 9,
+    "aus": 18
+  },
+  "weekly_charts": [
+    {
+      "period": "2013-2014",
+      "entries": [
+        {
+          "chart": "Argentina (Los 40)",
+          "position": 13
+        },
+        {
+          "chart": "Australia (ARIA)",
+          "position": 18
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 14
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 36
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 37
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 9
+        },
+        {
+          "chart": "Canada AC (Billboard)",
+          "position": 44
+        },
+        {
+          "chart": "Canada CHR/Top 40 (Billboard)",
+          "position": 13
+        },
+        {
+          "chart": "Canada Hot AC (Billboard)",
+          "position": 12
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 150
+        },
+        {
+          "chart": "Colombia (National-Report)",
+          "position": 13
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 27
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 12
+        },
+        {
+          "chart": "Finland Airplay (Radiosoittolista)",
+          "position": 24
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 14
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 34
+        },
+        {
+          "chart": "Hungary (Editors' Choice Top 40)",
+          "position": 34
+        },
+        {
+          "chart": "Hungary (Stream Top 40)",
+          "position": 20
+        },
+        {
+          "chart": "Iceland (Tónlistinn)",
+          "position": 28
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 31
+        },
+        {
+          "chart": "Israel (Media Forest TV Airplay)",
+          "position": 3
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 34
+        },
+        {
+          "chart": "Lebanon Airplay (Lebanese Top 20)",
+          "position": 15
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 18
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 14
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 20
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 13
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 25
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 28
+        },
+        {
+          "chart": "Slovakia (Singles Digitál Top 100)",
+          "position": 17
+        },
+        {
+          "chart": "Slovenia (SloTop50)",
+          "position": 48
+        },
+        {
+          "chart": "South Korea (Gaon International Chart)",
+          "position": 73
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 26
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 41
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 33
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 24
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 22
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 15
+        },
+        {
+          "chart": "Venezuela Pop General (Record Report)",
+          "position": 24
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2014",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 89
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 61
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 81
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 84
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 43
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "3× Platinum",
+      "cert_year": 2023,
+      "type": "streaming"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "streaming"
+    },
+    {
+      "region": "Canada",
+      "certification": "2× Platinum",
+      "cert_year": 2023,
+      "type": "streaming"
+    },
+    {
+      "region": "Finland",
+      "certification": "Platinum",
+      "units_reported": "4,000",
+      "type": "streaming"
+    },
+    {
+      "region": "France",
+      "certification": null,
+      "units_reported": "10,500",
+      "type": "streaming"
+    },
+    {
+      "region": "Italy",
+      "certification": "Gold",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "Norway",
+      "certification": "Platinum",
+      "cert_year": 2015,
+      "type": "streaming"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "2,263",
+      "type": "streaming"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2014,
+      "type": "streaming"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Silver",
+      "cert_year": 2016,
+      "type": "streaming"
+    },
+    {
+      "region": "United States",
+      "certification": "2× Platinum",
+      "cert_year": 2019,
+      "type": "streaming"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2014,
+      "type": "streaming"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/This_Is_How_We_Do",
+    "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
+  ],
+  "retrieved": "2026-11-17"
+}
