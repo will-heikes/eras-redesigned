@@ -1,0 +1,1345 @@
+{{Short description|None}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox artist discography
+| Artist          = [[Avicii]]
+| Image           = Avicii @ London tentparty.jpg
+| Caption         = Avicii performs in [[London]] in 2011
+| Alt             = A man standing at a mixing desk on stage smiles as he performs, wearing a striped shirt and a pair of headphones around his neck.
+| Studio          = 3
+| EP              = 6
+| Compilation     = 6
+| Singles         = 56
+| Music videos    = 29
+| Option          = 1
+| Option name     = Remix albums
+| 1Option         = 1
+| 1Option name    = Mix albums
+| 2Option         = 1
+| 2Option name    = Promotional singles
+}}
+Swedish [[disc jockey|DJ]] and record producer [[Avicii]] released three [[studio album]]s, six [[compilation album]]s, one [[remix album]], one [[DJ mix|mix album]], 56 [[Single (music)|single]]s, one [[Promotional recording#Promo single|promotional single]] and 29 [[music video]]s.<ref>{{Cite magazine |title=Avicii's Team Announces Posthumous Album 'Tim' |url=https://www.billboard.com/articles/news/dance/8505809/posthumous-avicii-album-tim |url-status=live |magazine=Billboard |archive-url=https://web.archive.org/web/20190412171717/https://www.billboard.com/articles/news/dance/8505809/posthumous-avicii-album-tim |archive-date=12 April 2019 |access-date=2019-05-14}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2019/04/05/arts/music/avicii-tim-bergling-new-music.html|title=Avicii's Death Left Many Questions. Will His New Music Provide Answers?|last=Farber|first=Jim|date=2019-04-05|work=The New York Times|access-date=2019-05-14|language=en-US|issn=0362-4331|archive-date=19 February 2020|archive-url=https://web.archive.org/web/20200219050730/https://www.nytimes.com/2019/04/05/arts/music/avicii-tim-bergling-new-music.html|url-status=live}}</ref>
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+ List of studio albums, with selected chart positions, sales figures and certifications
+! scope="col" rowspan="2" style="width:1em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+! scope="col" rowspan="2" style="width:15em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web | url=http://swedishcharts.com/showinterpret.asp?interpret=Avicii | title=Discography Avicii | publisher=Hung Medien | work=swedishcharts.com | access-date=28 July 2026 | archive-date=16 December 2012 | archive-url=https://web.archive.org/web/20121216064251/http://swedishcharts.com/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUSAl">{{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Avicii |title=Discography Avicii |publisher=Hung Medien |work=australian-charts.com |access-date=28 July 2026 |url-status=live |archive-url=https://web.archive.org/web/20140330230238/http://australian-charts.com/showinterpret.asp?interpret=Avicii |archive-date=30 March 2014 }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web | url=http://austriancharts.at/showinterpret.asp?interpret=Avicii | title=Discographie Avicii | publisher=Hung Medien | work=austriancharts.at | access-date=12 October 2013 | language=de | archive-date=9 November 2012 | archive-url=https://web.archive.org/web/20121109061805/http://www.austriancharts.at/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="BELFL">{{cite web | url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Avicii | title=Discografie Avicii | publisher=Hung Medien | work=ultratop.be | access-date=25 May 2025 | language=nl | archive-date=1 December 2012 | archive-url=https://web.archive.org/web/20121201153902/http://www.ultratop.be/nl/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web | url=http://lescharts.com/showinterpret.asp?interpret=Avicii | title=Discographie Avicii | publisher=Hung Medien | work=lescharts.com | access-date=12 October 2013 | language=fr | archive-date=18 April 2014 | archive-url=https://web.archive.org/web/20140418033925/http://lescharts.com/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artist_search=Avicii&do_search=do|title=Discographie Avicii|publisher=GfK Entertainment|access-date=17 April 2019|archive-date=21 April 2018|archive-url=https://web.archive.org/web/20180421165106/https://www.offiziellecharts.de/suche?artist_search=avicii&do_search=do|url-status=live}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Dutch Album Top 100|NLD]]<br /><ref name="NLD">{{cite web | url=http://dutchcharts.nl/showinterpret.asp?interpret=Avicii | title=Discografie Avicii | publisher=Hung Medien | work=dutchcharts.nl | access-date=23 May 2025 | language=nl | archive-date=5 November 2012 | archive-url=https://web.archive.org/web/20121105214702/http://www.dutchcharts.nl/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web | url=http://swisscharts.com/artist/Avicii | title=Avicii | publisher=Hung Medien | work=swisscharts.com | access-date=3 April 2013 | format=select "Charts" tab | archive-date=18 July 2014 | archive-url=https://web.archive.org/web/20140718053643/http://swisscharts.com/artist/Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UKAl">{{cite web | url=http://www.officialcharts.com/artist/7203/AVICII/ | title=Avicii | publisher=[[Official Charts Company]] | access-date=1 April 2015 | format=select "Albums" tab | archive-date=2 April 2015 | archive-url=https://web.archive.org/web/20150402112524/http://www.officialcharts.com/artist/7203/AVICII/ | url-status=live }}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200">{{cite magazine | url=https://www.billboard.com/artist/avicii/chart-history/tlp/ | title=Avicii – Chart History: Billboard 200 | magazine=[[Billboard (magazine)|Billboard]] | access-date=28 May 2025 | archive-date=23 February 2019 | archive-url=https://web.archive.org/web/20190223193321/https://www.billboard.com/music/avicii/chart-history/billboard-200 | url-status=live }}</ref>
+|-
+! scope="row"| ''[[True (Avicii album)|True]]''
+|
+* Released: 13&nbsp;September&nbsp;2013 <small>(SWE)</small><ref>{{cite web | url=https://music.apple.com/se/album/true/1440872730 | title=True av Avicii | work=[[iTunes Store]] | date=13 September 2013 | access-date=12 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109100200/https://itunes.apple.com/se/album/true/id675749329 | url-status=live }}</ref>
+* Labels: [[PRMD Music|PRMD]], [[Universal Music Group|Universal]]
+* Formats: [[Compact Disc|CD]], [[LP record|LP]], [[Music download|digital download]]
+| 1 || 1 || 3 || 5 || 8 || 5 || 2 || 2 || 2 || 5
+|
+* [[Nielsen Soundscan|US]]: 319,000<ref>{{cite web|archive-url= https://web.archive.org/web/20150917090733/http://hitsdailydouble.com/new_album_releases |archive-date=17 September 2015 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |website=Hits Daily Double |publisher=HITS Digital Ventures }}</ref>
+|
+* [[Swedish Recording Industry Association|GLF]]: 3× Platinum<ref name="GLF">{{cite certification|region=Sweden|artist=Avicii|access-date=10 October 2025}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 2× Platinum<ref name="ARIA21">{{cite certification|region=Australia|type=single|certyear=2021|access-date=February 7, 2022}}</ref>
+* [[Pro-Música Brasil|PMB]]:{{Certification|Platinum}} <ref name=":0">{{Cite web |title=CERTIFICADOS |url=https://pro-musicabr.org.br/home/certificados/?busca_artista=Avicii&busca_tipo_produto=%C3%81LBUM&busca_tipo_certificado=&busca_pela_gravadora=&busca_ano= |access-date=2024-08-28 |website=Pro-Música Brasil |language=pt-BR}}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Avicii|access-date=31 July 2026}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Platinum<ref name="BVMI">{{cite certification|region=Germany|artist=Avicii|access-date=18 October 2025}}</ref>
+* IFPI AUT: 3× Platinum<ref name="AUT-cert">{{cite certification | region=Austria | artist=Avicii | access-date=12 October 2013}}</ref>
+* IFPI SWI: Gold<ref name="SWI-cert">{{cite web | url=http://swisscharts.com/search_certifications.asp?search=Avicii | title=The Official Swiss Charts and Music Community: Awards (Avicii) | publisher=Hung Medien | work=swisscharts.com | access-date=12 October 2013 | archive-date=31 October 2013 | archive-url=https://web.archive.org/web/20131031011300/http://swisscharts.com/search_certifications.asp?search=Avicii | url-status=live }}</ref>
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Avicii|access-date=26 April 2021}}</ref>
+* [[SNEP]]: Platinum<ref name="SNEP">{{cite certification|region=France|artist=Avicii|access-date=16 December 2025}}</ref>
+|-
+! scope="row"| ''[[Stories (Avicii album)|Stories]]''
+|
+* Released: 2&nbsp;October&nbsp;2015 <small>(SWE)</small><ref>{{cite web | url=https://music.apple.com/se/album/true/1440872730 | title=True av Avicii | work=iTunes Store | date=13 September 2013 | access-date=24 April 2018 | language=sv | archive-date=17 December 2016 | archive-url=https://web.archive.org/web/20161217212139/https://itunes.apple.com/se/album/true/id675749329 | url-status=live }}</ref>
+* Labels: PRMD, Universal
+* Formats: CD, LP, digital download
+| 1 || 10 || 6 || 7 || 19 || 8 || 7 || 3 || 9 || 17
+|
+|
+* GLF: 2× Platinum<ref name="GLF"/>
+* BPI: Gold<ref name="BPI"/>
+* IFPI AUT: Gold<ref name="AUT-cert"/>
+|-
+! scope="row"| ''[[Tim (Avicii album)|Tim]]''
+|
+* Released: 6&nbsp;June&nbsp;2019 <small>(SWE)</small><ref>{{cite web|url=https://pitchfork.com/news/new-avicii-album-tim-announced/|title=New Avicii Album Tim Announced|website=[[Pitchfork (website)|Pitchfork]]|last=Monroe|first=Jazz|date=5 April 2019|access-date=5 April 2019|archive-date=6 April 2019|archive-url=https://web.archive.org/web/20190406142401/https://pitchfork.com/news/new-avicii-album-tim-announced/|url-status=live}}</ref>
+* Label: Universal
+* Formats: CD, LP, digital download
+| 1 || 6 || 3 || 1 || 11 || 5 || 1 || 2 || 7 || 11
+|
+|
+* BPI: Silver<ref name="BPI"/>
+* SNEP: Gold<ref name="SNEP"/>
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of compilation albums
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20.5em;"| Album details
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2" style="width:15em;"| Certifications
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUSAl"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Dutch Album Top 100|NLD]]<br /><ref name="NLD"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UKAl"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200"/>
+|-
+! scope="row"| ''Avicii Presents Strictly Miami (DJ Edition) [Unmixed]''
+|
+* Released: 4 April 2011 <small>(US)</small><ref>{{cite web | url=https://itunes.apple.com/gb/album/avicii-presents-strictly-miami-dj-edition-unmixed/1249674162 | title=Avicii Presents Strictly Miami (DJ Edition) [Unmixed] by Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | date=4 April 2011 | access-date=5 May 2019 | archive-date=5 November 2021 | archive-url=https://web.archive.org/web/20211105145555/https://music.apple.com/gb/album/avicii-presents-strictly-miami-dj-edition-unmixed/1249674162 | url-status=dead }}</ref>
+* Label: [[Strictly Rhythm]]
+* Formats: CD, digital download
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| ''The Singles''
+|
+* Released: 31&nbsp;May&nbsp;2011 <small>(US)</small><ref>{{cite web | url=https://itunes.apple.com/us/album/the-singles/id439124893 | title=The Singles by Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | date=14 June 2011 | access-date=12 October 2013 | archive-date=28 April 2014 | archive-url=https://web.archive.org/web/20140428184254/https://itunes.apple.com/us/album/the-singles/id439124893 | url-status=dead }}</ref>
+* Label: [[Ultra Records|Ultra]]
+* Formats: CD, digital download
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| ''The Collection – taken from Superstar (Deluxe Edition)''
+|
+* Released: 5&nbsp;August&nbsp;2011 <small>(US)</small><ref>{{cite web | url=https://thedjlist.com/djs/avicii/albums/the-collection-taken-from-superstar-deluxe-edition-b/ | title=The Collection – taken from Superstar (Deluxe Edition) by Avicii | access-date=5 April 2019 | archive-date=5 May 2019 | archive-url=https://web.archive.org/web/20190505103347/https://thedjlist.com/djs/avicii/albums/the-collection-taken-from-superstar-deluxe-edition-b/ | url-status=live }}</ref>
+* Label: Superstar Recordings
+* Formats: CD, digital download
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| ''Live a Life You Will Remember''<ref>{{Cite web|url=https://music.apple.com/us/album/live-a-life-you-will-remember-ep/1565597984|title=Live A Life You Will Remember – EP by Avicii on Apple Music|publisher=[[Apple Music]]|access-date=21 May 2021|archive-date=21 May 2021|archive-url=https://web.archive.org/web/20210521174734/https://music.apple.com/us/album/live-a-life-you-will-remember-ep/1565597984|url-status=live}}</ref>
+|
+* Released: 7 May 2021
+* Label: Universal Music Sweden
+* Formats: streaming
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| ''[[Avicii Forever]]''<ref>{{Cite web|url=https://open.spotify.com/prerelease/3Jtk9nnvKDL3VfUzQ1o0d6?si=8be54d78ae6d419b | title=Spotify | website=[[Spotify]] }}</ref>
+|
+* Released: 16 May 2025
+* Label: Universal Music Sweden
+* Formats: CD, LP, digital download
+| 2 || 28 || 19 || 12 || 20 || 142
+|
+* BPI: Gold<ref name="BPI"/>
+|}
+
+===Remix albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of remix albums, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20.5em;"| Album details
+! scope="col" colspan="5"| Peak chart positions
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUSAl"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ultratop#Ultratop 200 Albums (Flemish chart)|BEL<br />(FL)]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200"/>
+|-
+! scope="row"| ''True: Avicii by Avicii''
+|
+* Released: 21&nbsp;March&nbsp;2014 <small>(SWE)</small><ref>{{cite web | title=True: Avicii By Avicii av Avicii | url=https://music.apple.com/se/album/true-avicii-by-avicii/1440824514 | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | date=January 2014 | access-date=22 March 2014 | language=sv | archive-date=3 January 2015 | archive-url=https://web.archive.org/web/20150103065024/https://itunes.apple.com/se/album/true-avicii-by-avicii/id829899973 | url-status=live }}</ref>
+* Labels: PRMD, Universal
+* Formats: CD, digital download
+| 15 || 16 || 29 || 15 || 139
+|}
+
+===Mix albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of mix albums
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:20.5em;"| Album details
+|-
+! scope="row"| ''Avicii Presents Strictly Miami''
+|
+* Released: 5&nbsp;April&nbsp;2011 <small>(SWE)</small><ref>{{cite web | url=https://music.apple.com/se/album/avicii-presents-strictly-miami/521445306 | title=Avicii Presents Strictly Miami (DJ Edition–Unmixed) av Various Artists | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | date=5 April 2011 | access-date=12 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109110906/https://itunes.apple.com/se/album/avicii-presents-strictly-miami/id521445306 | url-status=live }}</ref>
+* Label: [[Strictly Rhythm]]
+* Formats: CD, digital download
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of extended plays, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:20.5em;"| Details
+! scope="col" colspan="7"| Peak chart positions
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUSAl"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200"/>
+|-
+! scope="row"| ''Muja''<ref>{{Cite web |url=https://www.beatport.com/release/muja-ep/166335 |title=Muja EP by Avicii on Beatport |website=[[Beatport]] |access-date=9 June 2019 |archive-date=9 June 2019 |archive-url=https://web.archive.org/web/20190609092822/https://www.beatport.com/release/muja-ep/166335 |url-status=live }}</ref>
+|
+* Released: 15 April 2009
+* Label: Vicious Grooves
+* Formats: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[I Always DJ Naked]]''<ref>{{Cite web |url=https://www.beatport.com/release/i-always-dj-naked-ep/290747 |title=I Always DJ Naked by Killers & Rockers on Beatport |website=[[Beatport]] |access-date=5 May 2019 |archive-date=5 May 2019 |archive-url=https://web.archive.org/web/20190505105212/https://www.beatport.com/release/i-always-dj-naked-ep/290747 |url-status=live }}</ref><br><small style="font-size:85%;">(with [[Starkillers]] as [[Killers & Rockers]])</small>
+|
+* Released: 19 October 2010
+* Label: [[Ultra Records]]
+* Formats: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''iTunes Festival: London 2013''<ref>{{Cite web |url=https://soundcloud.com/edclvset2016/avicii-itunes-festival-13-09 |title=Avicii - iTunes Festival - 13.09.2013 |website=[[SoundCloud]]}}</ref>
+|
+* Recorded: 15 September 2013
+* Label: [[Universal Music Group|Universal]]
+* Formats: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''The Days / The Nights''
+|
+* Released: 1 December 2014
+* Label: PRMD, [[Universal Music Group|Universal]]
+* Formats: [[Twelve-inch single|12"]], digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''Pure Grinding / For a Better Day''
+|
+* Released: 28 August 2015
+* Label: PRMD
+* Formats: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[Avīci (01)]]''
+|
+* Released: 10 August 2017
+* Label: Universal Music Sweden
+* Formats: CD, digital download
+| 1 || 14 || 9 || 57 || 37 || 11 || 52
+|-
+| colspan="9" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" | [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:14em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUSsin">Peak chart positions for singles in Australia:
+* All except noted: {{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Avicii |title=Discography Avicii |publisher=Hung Medien |work=australian-charts.com |access-date=21 January 2026 |url-status=dead |archive-url=https://web.archive.org/web/20140330230238/http://australian-charts.com/showinterpret.asp?interpret=Avicii |archive-date=30 March 2014 }}
+* "Fade into Darkness": {{cite web |url=http://www.aria.com.au/Issue1143.pdf |archive-url=https://webarchive.nla.gov.au/awa/20120315130000/http://pandora.nla.gov.au/pan/23790/20120316-0000/Issue1143.pdf |url-status=dead |archive-date=2012-03-15 |title=The ARIA Report: Issue 1143 (Week Commencing 23 January 2012) |publisher=[[Australian Recording Industry Association]] |access-date=12 October 2013 |page=2 }}{{cbignore|bot=medic}}
+* "Silhouettes": {{cite web |url=http://www.aria.com.au/Issue1176.pdf |archive-url=https://webarchive.nla.gov.au/awa/20120924042300/http://pandora.nla.gov.au/pan/23790/20120924-1423/Issue1176.pdf |url-status=dead |archive-date=2012-09-24 |title=The ARIA Report: Issue 1176 (Week Commencing 10 September 2012) |publisher=[[Australian Recording Industry Association]] |access-date=12 October 2013 |page=4 }}{{cbignore|bot=medic}}
+* "For a Better Day": {{cite web |url=http://www.noise11.com/news/aria-singles-what-do-you-mean-justin-bieber-is-no-1-20150905 |title=ARIA Singles: 'What Do You Mean?' Justin Bieber Is No 1 |publisher=Noise11 |last=Ryan |first=Gavin |date=5 September 2015 |access-date=5 September 2015 |ref=none |archive-date=25 October 2015 |archive-url=https://web.archive.org/web/20151025070418/http://www.noise11.com/news/aria-singles-what-do-you-mean-justin-bieber-is-no-1-20150905 |url-status=live }}
+* "Forever Yours (Tribute)": {{cite magazine|title=The ARIA Report: Week Commencing 17 February 2020|publisher=[[Australian Recording Industry Association]]|issue=1563|date=17 February 2020}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br/>(FL)]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dutch Single Top 100|NLD]]<br /><ref name="NLD"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UKsin">Peak chart positions for singles in the United Kingdom:
+* All except "Fade into Darkness", "Blessed", "Dancing in My Head", "Lay Me Down" and "Divine Sorrow": {{cite web | url=http://www.officialcharts.com/artist/7203/AVICII/ | title=Avicii | publisher=[[Official Charts Company]] | access-date=1 April 2015 | format=select "Singles" tab | archive-date=2 April 2015 | archive-url=https://web.archive.org/web/20150402112524/http://www.officialcharts.com/artist/7203/AVICII/ | url-status=live }}
+* "Fade into Darkness": {{cite web | url=http://zobbel.de/cluk/CLUK2011.HTM | title=Chart Log UK – Weekly Updates Sales 2011 | website=zobbel.de | access-date=12 October 2013 | author=Zywietz, Tobias | ref=none | archive-date=15 August 2011 | archive-url=https://web.archive.org/web/20110815022911/http://zobbel.de/cluk/CLUK2011.HTM | url-status=live }}
+* "Blessed" and "Dancing in My Head": {{cite web | url=http://zobbel.de/cluk/CLUK2012.HTM | title=Chart Log UK – Weekly Updates Sales 2012 | website=zobbel.de | access-date=12 October 2013 | author=Zywietz, Tobias | ref=none | archive-date=29 October 2013 | archive-url=https://web.archive.org/web/20131029190421/http://zobbel.de/cluk/CLUK2012.HTM | url-status=live }}
+* "Lay Me Down": {{cite web | url=http://zobbel.de/cluk/130928cluk.txt | title=Chart Log UK: New Entries Update – 28.09.2013 (wk38) | website=zobbel.de | access-date=12 October 2013 | author=Zywietz, Tobias | ref=none | archive-date=26 February 2014 | archive-url=https://web.archive.org/web/20140226053217/http://zobbel.de/cluk/130928cluk.txt | url-status=live }}
+* "Broken Arrows": {{cite web|url=http://www.zobbel.de/cluk/151010cluk.txt|title=Chart Log UK: New Entries Update – 10.10.2015 (wk41)|website=zobbel.de|access-date=19 October 2015|author=Zywietz, Tobias|ref=none|archive-date=22 December 2015|archive-url=https://web.archive.org/web/20151222113405/http://www.zobbel.de/cluk/151010cluk.txt|url-status=live}}
+* "Divine Sorrow": {{cite web | url=http://www.zobbel.de/cluk/141129cluk.txt | title=Chart Log UK: New Entries Update – 29.11.2014 (wk47) | website=zobbel.de | access-date=4 May 2018 | author=Zywietz, Tobias | ref=none | archive-date=9 December 2014 | archive-url=https://web.archive.org/web/20141209010435/http://www.zobbel.de/cluk/141129cluk.txt | url-status=live }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US100">{{cite magazine | url=https://www.billboard.com/artist/avicii/chart-history/hsi/ | title=Avicii – Chart History: The Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | access-date=24 October 2020 | archive-date=29 October 2020 | archive-url=https://web.archive.org/web/20201029194555/https://www.billboard.com/music/avicii/chart-history/HSI | url-status=live }}</ref>
+|-
+! scope="row"|"Lazy Lace"<ref>{{Cite web |date=2011-10-24 |title=Interview: Avicii On Manager Ash, Studio Setup, Nightmare Gigs |url=https://magneticmag.com/2011/10/coincidence-or-reincarnation-an-enlightening-interview-with-avicii/ |access-date=2025-01-03 |website=magneticmag.com |language=en-US}}</ref>
+|2007
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Sound of Now"<ref>{{cite web | url=http://www.beatport.com/release/sound-of-now/142836 | title=Sound of Now <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=28 September 2013 | archive-url=https://web.archive.org/web/20130928070610/http://www.beatport.com/release/sound-of-now/142836 | url-status=live }}</ref>
+| 2008
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Muja"<ref>{{cite web | url=http://www.beatport.com/release/muja-ep/166335 | title=Muja EP <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=30 September 2013 | archive-url=https://web.archive.org/web/20130930012635/http://www.beatport.com/release/muja-ep/166335 | url-status=live }}</ref>
+| rowspan="5" | 2009
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Muja EP''
+|-
+! scope="row" | "Ryu"<ref>{{cite web | url=https://itunes.apple.com/se/album/ryu/id334828426 | title=Ryu av Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109112440/https://itunes.apple.com/se/album/ryu/id334828426 | url-status=dead }}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|''Ryu / Strutnut''
+|-
+! scope="row" | "Even"<ref>{{cite web | url=http://www.beatport.com/release/even/201895 | title=Even <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=28 September 2013 | archive-url=https://web.archive.org/web/20130928041359/http://www.beatport.com/release/even/201895 | url-status=live }}</ref><br /><small>(with Sebastien Drums)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="18" {{Non-album singles}}
+|-
+! scope="row" | "Alcoholic"<ref>{{cite web | url=https://www.beatport.com/track/alcoholic-original-mix/939952 | title=Alcoholic <nowiki>[Joia]</nowiki> | publisher=[[Beatport]] | access-date=28 April 2018 | archive-date=24 February 2019 | archive-url=https://web.archive.org/web/20190224001642/https://www.beatport.com/track/alcoholic-original-mix/939952 | url-status=live }}</ref><br /><small>(as Tim Berg)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Break da Floor"<ref>{{cite web | url=https://music.apple.com/se/album/break-da-floor/345235246 | title=Break Da Floor av DJ Ralph & Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=27 December 2014 | archive-url=https://web.archive.org/web/20141227141906/https://itunes.apple.com/se/album/break-da-floor/id345235246 | url-status=live }}</ref><br /><small>(with Ralph)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Bom"<ref>{{cite web|url=http://www.beatport.com/release/bom/216022 |title=Bom <nowiki>[Vicious]</nowiki> |publisher=[[Beatport]] |access-date=13 October 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131029193138/http://www.beatport.com/release/bom/216022 |archive-date=29 October 2013 }}</ref>
+| rowspan="8" | 2010
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Insomnia"<ref>{{cite web|url=https://www.beatport.com/track/insomnia-original-mix/1252989|title=Insomnia <nowiki>[Spinnin']</nowiki>|publisher=[[Beatport]]|access-date=11 April 2019|archive-date=11 April 2019|archive-url=https://web.archive.org/web/20190411141042/https://www.beatport.com/track/insomnia-original-mix/1252989|url-status=live}}</ref><br /><small>(as Tom Hangs with [[Starkillers]], Pimp Rockers and Marco Machiavelli)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Seek Bromance|Bromance]]"<br /><small>(as Tim Berg)</small>
+<!--stop removing "as tim berg" the fact that its the same person is irrellivent as this is a SEPARATE ALIAS.-->
+| 16 || — || — || 1 || — || — || 2 || — || — || —
+|
+* [[Belgian Entertainment Association|BEA]]: Gold<ref name="BEA-2010">{{cite certification | region=Belgium | certyear=2010 | access-date=12 October 2013}}</ref>
+* [[NVPI]]: Gold<ref name="NVPI-2">{{cite web | url=https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/ | title=Goud/Platina | publisher=[[NVPI]] | access-date=27 August 2018 | language=nl | format=enter "Tim Berg" into the "Artiest of Titel" box | archive-date=23 August 2018 | archive-url=https://web.archive.org/web/20180823060828/https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/ | url-status=live }}</ref>
+|-
+! scope="row" | "[[My Feelings for You]]"<br /><small>(with Sebastien Drums)</small>
+| 37 || — || 34 || — || — || 25 || 24 || 40 || 46 || —
+|
+* BVMI: Gold<ref name="BVMI"/>
+|-
+! scope="row" | "[[Seek Bromance]]"<br /><small>(Avicii's Vocal Extended) (as Tim Berg)</small>
+| 20 || 32 || 53 || — || 12 || 61 || — || 13 || 13 || —
+|
+* GLF: Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=411860 | title=Tim Berg – Seek Bromance | publisher=[[Grammofon Leverantörernas Förening]] | access-date=12 October 2013 | language=sv | archive-date=14 November 2017 | archive-url=https://web.archive.org/web/20171114145353/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=411860 | url-status=dead }}</ref>
+* ARIA: Gold<ref>{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.auSINGLEaccreds2011.htm |title=ARIA Charts – Accreditations – 2011 Singles |publisher=[[Australian Recording Industry Association]] |access-date=12 October 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120212185101/http://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.auSINGLEaccreds2011.htm |archive-date=12 February 2012 }}</ref>
+* BEA: Gold<ref name="BEA-2010"/>
+* BPI: Gold<ref name="BPI2">{{cite web | url=http://www.bpi.co.uk/certified-awards/search.aspx | title=Certified Awards | publisher=[[British Phonographic Industry]] | access-date=20 March 2015 | format=enter "Tim Berg" into the "Keywords" box, then select "Search" | archive-date=1 August 2017 | archive-url=https://web.archive.org/web/20170801142929/http://www.bpi.co.uk/certified-awards/Search.aspx | url-status=live }}</ref>
+|-
+! scope="row" | "Tweet It"<ref>{{cite web | url=https://itunes.apple.com/us/album/tweet-it-single/id432013245 | title=Tweet It – Single by Tim Berg, Norman Doray & Sebastien Drums | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109112533/https://itunes.apple.com/us/album/tweet-it-single/id432013245 | url-status=dead }}</ref><br /><small>(as Tim Berg with Norman Doray and Sebastien Drums)</small>
+| — || — || — || — || — || — || 55 || — || — || —
+|
+|-
+! scope="row" | "Malo"<ref>{{cite web | url=https://itunes.apple.com/se/album/malo-remixes/id412866458 | title=Malo (Remixes) av Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109100135/https://itunes.apple.com/se/album/malo-remixes/id412866458 | url-status=dead }}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Don't Hold Back"<ref>{{cite web|url=https://music.apple.com/de/album/dont-hold-back-feat-andy-p-john-dahlb%C3%A4ck-avicii-mix-single/921502571?l=en|title=Don't Hold Back (feat. Andy P) [John Dahlbäck & AVICII Mix) von Jovicii|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=29 May 2019|language=de|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092329/https://music.apple.com/de/album/dont-hold-back-feat-andy-p-john-dahlb%C3%A4ck-avicii-mix-single/921502571?l=en|url-status=live}}</ref><br /><small>(with [[John Dahlbäck]] as Jovicii featuring Andy P)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Street Dancer]]"
+| rowspan="10" | 2011
+| — || — || — || — || — || — || 33 || — || — || —
+|
+|-
+! scope="row" | "So Excited"<ref>{{cite web | url=http://www.beatport.com/release/so-excited/178977 | title=So Excited <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=28 September 2013 | archive-url=https://web.archive.org/web/20130928070425/http://www.beatport.com/release/so-excited/178977 | url-status=live }}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "iTrack"<ref>{{cite web|url=https://music.apple.com/se/album/itrack-ep/970481540|title=iTrack – EP av Tim Berg, Oliver Ingrosso & Otto Knows|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=29 May 2019|language=sv|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092318/https://music.apple.com/se/album/itrack-ep/970481540|url-status=live}}</ref><br /><small>(with [[Oliver Ingrosso]] and [[Otto Knows]])</small>
+| — || — || — || — || — || — || 30 || — || — || —
+|
+|-
+! scope="row" | "[[Sweet Dreams (Are Made of This)|Sweet Dreams]]" (Avicii Swede Dreams Mix)<ref>{{cite web | url=https://itunes.apple.com/se/album/sweet-dreams-ep/id424045126 | title=Sweet Dreams – EP av Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109112451/https://itunes.apple.com/se/album/sweet-dreams-ep/id424045126 | url-status=dead }}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Blessed (Avicii song)|Blessed]]"<br /><small>(Avicii Edit) (as Tom Hangs featuring [[Shermanology]])</small>
+| —{{efn|group=upper-alpha|The Avicii radio edit of "Blessed" did not enter the [[Sverigetopplistan]], but peaked at number 19 on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2018&dspp=18|title=Veckolista Heatseeker, vecka 18, 2018|publisher=[[Sverigetopplistan]]|language=sv|access-date=24 April 2021|archive-date=24 April 2021|archive-url=https://web.archive.org/web/20210424123000/https://www.sverigetopplistan.se/chart/215?dspy=2018&dspp=18|url-status=live}}</ref>}} || — || — || —{{efn|group=upper-alpha|"Blessed" did not enter the Flanders Ultratop 50, but peaked at number 56 on the Ultratip chart.<ref name="BELFL"/>}} || 69 || 50 || 9 || — || 164 || —
+|
+|-
+! scope="row" | "Jailbait"<ref>{{cite web | url=https://itunes.apple.com/se/album/jailbait-remixes/id442917410 | title=Jailbait (Remixes) av Avicii | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=9 November 2013 | archive-url=https://web.archive.org/web/20131109100153/https://itunes.apple.com/se/album/jailbait-remixes/id442917410 | url-status=dead }}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Snus"<ref>{{cite web | url=https://itunes.apple.com/se/album/snus/id447626210 | title=Snus av Avicii & Sebastien Drums | publisher=[[Apple Inc.|Apple]] | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=6 March 2016 | archive-url=https://web.archive.org/web/20160306061021/https://itunes.apple.com/se/album/snus/id447626210 | url-status=dead }}</ref><br /><small>(with Sebastien Drums)</small>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Fade into Darkness]]"
+| 4 || 70 || — || — || — || — || — || — || 196 || —
+|
+* GLF: 5× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=963048 | title=Avicii – Fade into Darkness | publisher=[[Grammofon Leverantörernas Förening]] | access-date=12 October 2013 | language=sv | archive-date=29 October 2013 | archive-url=https://web.archive.org/web/20131029190337/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=963048 | url-status=dead }}</ref>
+|''Avicii Forever''
+|-
+! scope="row" | "[[Collide (Leona Lewis and Avicii song)|Collide]]"<br /><small>(with [[Leona Lewis]])</small>
+| —{{efn|group=upper-alpha|"Collide" did not enter the [[Sverigetopplistan|Swedish Singellista Chart]], but peaked at number 17 on the Swedish Heatseeker Chart.<ref>{{cite web|url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=215&dfom=20180420|title=Veckolista Heatseeker – Vecka 17, 27 april 2018|publisher=[[Sverigetopplistan]]|access-date=27 April 2018|archive-date=28 April 2018|archive-url=https://web.archive.org/web/20180428011743/http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=215&dfom=20180420|url-status=live}}</ref>}} || — || 29 || —{{efn|group=upper-alpha|"Collide" did not enter the Flanders Ultratop 50, but peaked at number 13 on the Ultratip chart.<ref name="BELFL"/>}} || — || — || — || — || 4 || —
+|
+* BPI: Silver<ref name="BPI"/>
+| {{N/A|Non-album single}}
+|-
+! scope="row" | "[[Levels (Avicii song)|Levels]]"
+| 1 || 24 || 4 || 4 || 14 || 6 || 4 || 5 || 4 || 60
+|
+* GLF: 8× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110101&sart=1344499 | title=Avicii – Levels | publisher=[[Grammofon Leverantörernas Förening]] | access-date=12 October 2013 | language=sv | archive-date=10 February 2015 | archive-url=https://web.archive.org/web/20150210180842/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110101&sart=1344499 | url-status=dead }}</ref>
+* ARIA: 7× Platinum<ref name="ARIA21"/>
+* BEA: Platinum<ref name="BEA-2012">{{cite certification | region=Belgium | certyear=2012 | access-date=12 October 2013}}</ref>
+* BPI: 3× Platinum<ref name="BPI"/>
+* BVMI: 3× Platinum<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="AUT-cert"/>
+* IFPI SWI: 2× Platinum<ref name="SWI-cert"/>
+* NVPI: 4× Platinum<ref name="NVPI">{{cite web | url=https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/ | title=Goud/Platina | publisher=[[NVPI]] | access-date=27 August 2018 | language=nl | format=enter "Avicii" into the "Artiest of Titel" box | archive-date=23 August 2018 | archive-url=https://web.archive.org/web/20180823060828/https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/ | url-status=live }}</ref>
+* RIAA: 3× Platinum<ref name="RIAA"/>
+|''Avicii Forever''
+|-
+! scope="row" | "Before This Night Is Through (Bad Things)"<ref>{{cite web|url=https://music.apple.com/us/album/bad-things-the-ten-year-anniversary-album-from-joia-records/491660805?i=491661312|title=Bad Things – The Ten Year Anniversary Album from Joia Records by Various Artists|publisher=[[Apple Inc.]]|work=[[iTunes Store]]|access-date=29 May 2019|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092322/https://music.apple.com/us/album/bad-things-the-ten-year-anniversary-album-from-joia-records/491660805?i=491661312|url-status=live}}</ref><br /><small>(as Tim Berg)</small>
+|rowspan="7"|2012
+| — || — || — || — || — || — || — || — || — || —
+|
+|''Bad Things – The Ten Year Anniversary Album from Joia Records''
+|-
+! scope="row" | "[[Silhouettes (Avicii song)|Silhouettes]]"
+| 11 || 53 || 26 || —{{efn|group=upper-alpha|"Silhouettes" did not enter the Flanders Ultratop 50, but peaked at number four on the Ultratip chart.<ref name="BELFL"/>}} || — || 87 || 35 || — || 22 || —
+|
+* GLF: 3× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20120427&sart=2091176 | title=Avicii – Silhouettes | publisher=[[Grammofon Leverantörernas Förening]] | access-date=12 October 2013 | language=sv | archive-date=29 October 2013 | archive-url=https://web.archive.org/web/20131029200508/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20120427&sart=2091176 | url-status=dead }}</ref>
+* ARIA: Platinum<ref name="ARIA21"/>
+* BPI: Gold<ref name="BPI"/>
+|''Avicii Forever''
+|-
+! scope="row" | "[[Superlove (Lenny Kravitz song)|Superlove]]" (Remix)<br /><small>(vs. [[Lenny Kravitz]])</small>
+| — || — || — || 7 || — || — || 15 || — || 49 || —
+|
+|rowspan="4" {{Non-album singles}}
+|-
+! scope="row" | "Two Million"<ref>{{cite web|url=https://dancingastronaut.com/2012/05/avicii-two-million-original-mix|title=Avicii – Two Million (Original Mix)|website=Dancing Astronaut|first=JR|last=Thornton|date=30 May 2012|access-date=29 May 2019|archive-date=25 May 2019|archive-url=https://web.archive.org/web/20190525220538/https://dancingastronaut.com/2012/05/avicii-two-million-original-mix/|url-status=live}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Last Dance"<ref>{{cite web|url=https://music.apple.com/it/album/last-dance-single/1317040203|title=Last Dance – Single di Avicii|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=29 May 2019|language=it|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092318/https://music.apple.com/it/album/last-dance-single/1317040203|url-status=live}}</ref>
+| — || — || — || —{{efn|group=upper-alpha|"Last Dance" did not enter the Flanders Ultratop 50, but peaked at number nine on the Ultratip chart.<ref name="BELFL"/>}} || 40 || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Dancing in My Head]]"<br /><small>(with [[Eric Turner (singer)|Eric Turner]])</small>
+| — || — || — || — || — || — || 54 || — || 188 || —
+|
+|-
+! scope="row" | "[[I Could Be the One (Avicii and Nicky Romero song)|I Could Be the One]]"<br /><small>(vs. [[Nicky Romero]])</small>
+| 3 || 4 || 15 || 8 || 22 || 37 || 7 || 26 || 1 || —{{efn|group=upper-alpha|"I Could Be the One" did not enter the [[Billboard Hot 100|''Billboard'' Hot 100]], but peaked at number one on the [[Bubbling Under Hot 100 Singles]] chart.<ref name="BU-100">{{cite magazine | url=https://www.billboard.com/artist/avicii/chart-history/hbu/ | title=Avicii – Chart History: Bubbling Under Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | access-date=1 May 2018 | archive-date=19 May 2018 | archive-url=https://web.archive.org/web/20180519195425/https://www.billboard.com/music/avicii/chart-history/bubbling-under-hot-100 | url-status=live }}</ref>}}
+|
+* ARIA: 4× Platinum<ref name="ARIA21"/>
+* BEA: Gold<ref name="BEA-2013">{{cite certification | region=Belgium | certyear=2013 | access-date=12 October 2013}}</ref>
+* BPI: 2× Platinum<ref name="BPI" />
+* BVMI: Gold<ref name="BVMI"/>
+* NVPI: 3× Platinum<ref name="NVPI" />
+* RIAA: Platinum<ref name="RIAA" />
+|''Avicii Forever''
+|-
+! scope="row" | "Three Million (Your Love Is Amazing)"<ref>{{cite web|url=https://dancingastronaut.com/2013/01/avicii-passes-3-million-fans-on-facebook-gives-away-three-million-your-love-is-amazing|title=Avicii passes 3 million fans on Facebook, gives away "Three Million (Your Love is Amazing)"|website=Dancing Astronaut|first=Amanda|last=Claudio|date=30 January 2013|access-date=29 May 2019|archive-date=25 May 2019|archive-url=https://web.archive.org/web/20190525220528/https://dancingastronaut.com/2013/01/avicii-passes-3-million-fans-on-facebook-gives-away-three-million-your-love-is-amazing/|url-status=live}}</ref><br/><small>(feat. Negin)</small>
+|rowspan="9"| 2013
+| — || — || — || — || — || — || — || — || — || —
+|
+|rowspan="2" {{Non-album singles}}
+|-
+! scope="row" | "[[X You]]"
+| 19 || — || — || —{{efn|group=upper-alpha|"X You" did not enter the Flanders Ultratop 50, but peaked at number 34 on the Ultratip chart.<ref name="BELFL"/>}} || — || — || 48 || — || 47 || —
+|
+* GLF: Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=3045565 | title=Avicii – X You | publisher=[[Grammofon Leverantörernas Förening]] | access-date=25 December 2013 | language=sv | archive-date=4 August 2017 | archive-url=https://web.archive.org/web/20170804013328/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20110722&sart=3045565 | url-status=dead }}</ref>
+|-
+! scope="row" | "UMF ([[Ultra Music Festival]] Anthem)"<ref>{{cite web|url=https://itunes.apple.com/gb/album/ultra-music-festival-anthems-ep/622626470|title=Ultra Music Festival Anthems – EP by Various Artists on Apple Music|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=11 April 2019|archive-date=5 November 2021|archive-url=https://web.archive.org/web/20211105145555/https://music.apple.com/gb/album/ultra-music-festival-anthems-ep/622626470|url-status=dead}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Ultra Music Festival Anthems EP''
+|-
+! scope="row" | "[[We Write the Story]]"<br /><small>(with B&B and Choir)</small>
+| — || — || — || — || — || — || 73 || — || — || —
+|
+| ''[[Eurovision Song Contest 2013#Official album|Eurovision Song Contest: Malmö 2013]]''
+|-
+! scope="row" | "[[Wake Me Up (Avicii song)|Wake Me Up]]"
+| 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 1 || 4
+|
+* GLF: 13× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130617&sart=3239891 | title=Avicii – Wake Me Up! | publisher=[[Grammofon Leverantörernas Förening]] | access-date=12 October 2013 | language=sv | archive-date=23 December 2014 | archive-url=https://web.archive.org/web/20141223223319/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130617&sart=3239891 | url-status=dead }}</ref>
+* ARIA: 15× Platinum<ref>{{cite web |date=16 November 2020 |title=ARIA Dance Singles Chart |url=http://cdn.aria.com.au/pdfs/7504DEF50B8AB5E9BFA48FD38DEBA359355F4F8EB475697FCACFAAA76355F658/ARIA%20Dance%20Singles%20Chart.pdf?seq=33 |url-status=live |archive-url=https://web.archive.org/web/20201114102425/http://cdn.aria.com.au/pdfs/7504DEF50B8AB5E9BFA48FD38DEBA359355F4F8EB475697FCACFAAA76355F658/ARIA%20Dance%20Singles%20Chart.pdf?seq=33 |archive-date=14 November 2020 |access-date=14 November 2020 |work=ARIA}}</ref>
+* BEA: 4× Platinum<ref name="BEA-2016">{{cite certification | region=Belgium | certyear=2016 | access-date=20 April 2018}}</ref>
+* BPI: 7× Platinum<ref name="BPI" />
+* BVMI: 11× Gold<ref name="BVMI"/>
+* IFPI SWI: 3× Platinum<ref name="SWI-cert" />
+* IFPI AUT: 2× Platinum<ref name="AUT-cert" />
+* NVPI: 8× Platinum<ref name="NVPI" />
+* RIAA: 11× Platinum<ref name="RIAA" />
+| ''True''
+|-
+! scope="row" | "Speed" ([[Burn (energy drink)|Burn]] and [[Lotus F1]] Team Mix)<ref>{{cite web|url=https://music.apple.com/se/album/speed-burn-lotus-team-f1-mix-single/1445303995|title=Speed (Burn & Lotus Team F1 Mix) – Single av Avicii|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=29 May 2019|language=sv|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092319/https://music.apple.com/se/album/speed-burn-lotus-team-f1-mix-single/1445303995|url-status=live}}</ref>
+| — || — || 50 || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row" | "[[You Make Me]]"
+| 1 || 12 || 7 || 20 || 58 || 34 || 20 || 29 || 5 || 85
+|
+* GLF: 4× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130830&sart=3404324 | title=Avicii – You Make Me | publisher=[[Grammofon Leverantörernas Förening]] | access-date=23 December 2014 | language=sv | archive-date=23 December 2014 | archive-url=https://web.archive.org/web/20141223223258/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130830&sart=3404324 | url-status=dead }}</ref>
+* ARIA: 2× Platinum<ref name="ARIA21"/> 
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* NVPI: 2× Platinum<ref name="NVPI"/>
+* RIAA: Gold<ref name="RIAA"/>
+| rowspan="4" | ''True''
+|-
+! scope="row" | "[[Hey Brother]]"
+| 1 || 2 || 1 || 3 || 4 || 1 || 1 || 1 || 2 || 16
+|
+* GLF: 7× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3449916 | title=Avicii – Hey Brother | publisher=[[Grammofon Leverantörernas Förening]] | access-date=30 October 2013 | language=sv | archive-date=1 November 2013 | archive-url=https://web.archive.org/web/20131101154922/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3449916 | url-status=dead }}</ref>
+* ARIA: 8× Platinum<ref name="ARIA21"/>
+* BEA: Platinum<ref name="BEA-2015">{{cite certification | region=Belgium | certyear=2015 | access-date=20 April 2018}}</ref>
+* BPI: 3× Platinum<ref name="BPI"/>
+* BVMI: 2× Platinum<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="AUT-cert"/>
+* IFPI SWI: Platinum<ref name="SWI-cert"/>
+* NVPI: 3× Platinum<ref name="NVPI"/>
+* RIAA: 4× Platinum<ref name="RIAA" />
+|-
+! scope="row"| "[[Addicted to You (Avicii song)|Addicted to You]]"
+| 11 || 5 || 3 || 5 || 6 || 6 || 6 || 4 || 14 || —
+|
+* GLF: 3× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3450128 | title=Avicii – Addicted To You | publisher=[[Grammofon Leverantörernas Förening]] | access-date=23 December 2014 | language=sv | archive-date=4 August 2017 | archive-url=https://web.archive.org/web/20170804013230/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3450128 | url-status=dead }}</ref>
+* ARIA: 4× Platinum<ref name="ARIA21"/>
+* BEA: Gold<ref name="BEA-2014">{{cite certification | region=Belgium | certyear=2014 | access-date=24 January 2014}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: 3× Gold<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="AUT-cert"/>
+|-
+! scope="row"| "[[Lay Me Down (Avicii song)|Lay Me Down]]"
+| rowspan="3"| 2014
+| 39 || — || 17 || —{{efn|group=upper-alpha|"Lay Me Down" did not enter the Flanders Ultratop 50, but peaked at number four on the Ultratip chart.<ref name="BELFL"/>}} || 47 || 35 || 44 || 41 || 200 || —
+|
+* GLF: Gold<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3450108 | title=Avicii – Lay Me Down | publisher=[[Grammofon Leverantörernas Förening]] | access-date=23 December 2014 | language=sv | archive-date=4 August 2017 | archive-url=https://web.archive.org/web/20170804013427/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20130917&sart=3450108 | url-status=dead }}</ref>
+|-
+! scope="row"| "[[The Days (Avicii song)|The Days]]" 
+| 1 || 10 || 3 || —{{efn|group=upper-alpha|"The Days" did not enter the Flanders Ultratop 50, but peaked at number two on the Ultratip chart.<ref name="BELFL"/>}} || 52 || 7 || 10 || 8 || 82 || 78 
+|
+* GLF: Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20141003&sart=4585472 | title=Avicii – The Days | publisher=[[Grammofon Leverantörernas Förening]] | access-date=23 December 2014 | language=sv | archive-date=23 December 2014 | archive-url=https://web.archive.org/web/20141223223332/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20141003&sart=4585472 | url-status=dead }}</ref>
+* ARIA: 2× Platinum<ref name="ARIA21" />
+* BPI: Silver<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+| rowspan="2"| ''The Days / Nights EP''
+|-
+! scope="row"| "[[The Nights]]"
+| 2 || 9 || 6 || 14 || 79 || 19 || 19 || 17 || 6 || —{{efn|group=upper-alpha|"The Nights" did not enter the ''Billboard'' Hot 100, but peaked at number nine on the Bubbling Under Hot 100 Singles chart.<ref name="BU-100"/>}}
+|
+* GLF: Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20141003&sart=4934391 | title=Avicii – The Nights | publisher=[[Grammofon Leverantörernas Förening]] | access-date=10 February 2015 | language=sv | archive-date=10 February 2015 | archive-url=https://web.archive.org/web/20150210182427/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20141003&sart=4934391 | url-status=dead }}</ref>
+* ARIA: 5× Platinum<ref name="ARIA21"/>
+* BPI: 3× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="AUT-cert"/>
+* RIAA: Platinum<ref name="RIAA"/>
+|-
+! scope="row"| "Feeling Good"<ref>{{cite web|url=https://music.apple.com/us/album/feeling-good-single/1444868726|title=Feeling Good – Single by Avicii|publisher=[[Apple Inc.|Apple]]|work=[[iTunes Store]]|access-date=29 May 2019|archive-date=27 September 2019|archive-url=https://web.archive.org/web/20190927123623/https://music.apple.com/us/album/feeling-good-single/1444868726|url-status=live}}</ref>
+| rowspan="5"| 2015
+| 27 || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Waiting for Love (Avicii song)|Waiting for Love]]"
+| 1 || 15 || 1 || 15 || 14 || 8 || 6 || 7 || 6 || —{{efn|group=upper-alpha|"Waiting for Love" did not enter the ''Billboard'' Hot 100, but peaked at number 10 on the Bubbling Under Hot 100 Singles chart.<ref name="BU-100"/>}}
+|
+* GLF: 7× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150522&sart=5833719 | title=Avicii – Waiting For Love | publisher=[[Grammofon Leverantörernas Förening]] | access-date=20 April 2018 | language=sv | archive-date=21 April 2018 | archive-url=https://web.archive.org/web/20180421031136/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150522&sart=5833719 | url-status=dead }}</ref>
+* ARIA: 4× Platinum<ref name="ARIA21"/>
+* BEA: Platinum<ref name="BEA-2016"/>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="AUT-cert"/>
+* RIAA: Gold<ref name="RIAA"/>
+| rowspan="4"| ''Stories''
+|-
+! scope="row"| "[[For a Better Day]]"
+| 5 || 51 || 10 || — || 26 || 18 || 17 || 16 || 68 || —
+|
+* GLF: 2× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150828&sart=6216521 | title=Avicii – For A Better Day | publisher=[[Grammofon Leverantörernas Förening]] | access-date=20 April 2018 | language=sv | archive-date=21 April 2018 | archive-url=https://web.archive.org/web/20180421030947/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150828&sart=6216521 | url-status=dead }}</ref>
+* BPI: Silver<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+|-
+! scope="row"| "[[Pure Grinding]]"
+| 19 || — || 71 || — || — || 94 || — || — || — || —
+|
+* GLF: Platinum<ref name="GLF"/>
+|-
+! scope="row"| "[[Broken Arrows (song)|Broken Arrows]]"
+| 4 || 30 || 70 || — || — || 82 || 43 || 57 || 178 || —{{efn|group=upper-alpha|"Broken Arrows" did not enter the ''Billboard'' Hot 100, but peaked at number 17 on the Bubbling Under Hot 100 Singles chart.<ref name="BU-100"/>}}
+|
+* GLF: 3× Platinum<ref>{{cite web | url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150929&sart=6415294 | title=Avicii – Broken Arrows | publisher=[[Grammofon Leverantörernas Förening]] | access-date=20 April 2018 | language=sv | archive-date=21 April 2018 | archive-url=https://web.archive.org/web/20180421030832/http://www.sverigetopplistan.se/netdata/ghl002.mbr/artdata?dfom=20150929&sart=6415294 | url-status=dead }}</ref>
+* BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| "[[Taste the Feeling]]"<br /><small>(vs. [[Conrad Sewell]])</small>
+| 2016
+| 60 || — || 17 || — || 148 || 53 || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Without You (Avicii song)|Without You]]"<br /><small>(featuring [[Sandro Cavazza]])</small>
+| rowspan="2"| 2017
+| 1 || 20 || 7 || 15 || 30 || 18 || 13 || 10 || 32 || —{{efn|group=upper-alpha|"Without You" did not enter the ''Billboard'' Hot 100, but peaked at number 14 on the Bubbling Under Hot 100 Singles chart.<ref name="BU-100"/>}}
+|
+* GLF: 7× Platinum<ref name="GLF"/>
+* BEA: Platinum<ref name="BEA-2019">{{cite certification|region=Belgium|type=single|certyear=2019|access-date=5 June 2019}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="AUT-cert"/>
+* RIAA: Gold<ref name="RIAA"/>
+* SNEP: Diamond<ref name="SNEP"/>
+| rowspan="2"| ''Avīci (01)''
+|-
+! scope="row"| "[[Lonely Together (Avicii song)|Lonely Together]]"<br /><small>(featuring [[Rita Ora]])</small>
+| 3 || 32 || 18 || 36 || 66 || 24 || 22 || 22 || 4 || —{{efn|group=upper-alpha|"Lonely Together" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the Bubbling Under Hot 100 Singles chart.<ref name="BU-100"/>}}
+|
+* BEA: Gold<ref name="BEA-2018">{{cite certification|region=Belgium|type=single|certyear=2018|access-date=9 February 2018}}</ref>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* RIAA: Platinum<ref name="RIAA"/>
+* SNEP: Platinum<ref name="SNEP"/>
+|- <!-- Please do not add songs from "Avīci (01)" here unless you can source them as being singles -->
+! scope="row"| "[[SOS (Avicii song)|SOS]]"<br /><small>(featuring [[Aloe Blacc]])</small><!-- Aloe Blacc listed as a featured artist in most sources per iTunes, Spotify, YouTube, etc. -->
+| rowspan="4"| 2019
+| 1 || 7 || 4 || 2 || 49 || 8 || 2 || 3 || 6 || 68
+|
+* ARIA: 3× Platinum<ref name="ARIA21"/>
+* BEA: Platinum<ref name="BEA-2019"/>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* RIAA: Gold<ref name="RIAA"/>
+* SNEP: Gold<ref name="SNEP"/>
+| rowspan="4"| ''Tim''
+|-
+! scope="row"| "[[Tough Love (Avicii song)|Tough Love]]"<br /><small>(featuring [[Vargas & Lagola]] and [[Agnes Carlsson|Agnes]])</small><ref>{{Cite web |url=https://www.youredm.com/2019/05/08/new-avicii-song-tough-love-drops-tomorrow/amp/ |title=New Avicii Song "Tough Love" Drops Tomorrow &#124; Your EDM |date=22 February 2014 |access-date=8 May 2019 |archive-date=8 May 2019 |archive-url=https://web.archive.org/web/20190508192925/https://www.youredm.com/2019/05/08/new-avicii-song-tough-love-drops-tomorrow/amp/ |url-status=live }}</ref>
+| 2 || — || 45 || —{{efn|group=upper-alpha|"Tough Love" did not enter the Flanders Ultratop 50, but peaked at number 18 on the Ultratip chart.<ref name="BELFL"/>}} || — || 72 || 60 || 31 || 60 || —
+|
+|-
+! scope="row"| "[[Heaven (Avicii song)|Heaven]]"<br /><small>(featuring [[Chris Martin]])</small><ref>{{cite web|url=https://www.hitzound.com/aviciis-single-heaven-gaat-6-juni-in-premiere/|title=Avicii's single 'Heaven' gaat 6 juni in première|date=5 June 2019|access-date=5 June 2019|via=hitzound.com|archive-date=5 June 2019|archive-url=https://web.archive.org/web/20190605191359/https://www.hitzound.com/aviciis-single-heaven-gaat-6-juni-in-premiere/|url-status=live}}</ref>
+| 2 || 20 || 21 || 15 || 119 || 30 || 16 || 11 || 20 || 83
+|
+* BPI: Gold<ref name="BPI" />
+* RIAA: Gold<ref name="RIAA"/>
+* SNEP: Gold<ref name="SNEP"/>
+|-
+! scope="row"| "Fades Away" (Tribute Concert Version)<ref>{{Cite web |url=https://dancingastronaut.com/2019/12/the-tribute-concert-version-of-aviciis-fades-away-surfaces/ |title=The tribute concert version of Avicii's 'Fades Away' surfaces |last=Sweeney |first=Farrell |date=7 December 2019 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20191208055028/https://dancingastronaut.com/2019/12/the-tribute-concert-version-of-aviciis-fades-away-surfaces/ |archive-date=8 December 2019 |access-date=21 December 2019}}</ref> <br /><small>(featuring [[MishCatt]])</small>
+| 77 || — || — || —{{efn|group=upper-alpha|"Fades Away" did not enter the Flanders Ultratop 50, but peaked at number two on the Ultratip chart.<ref name="BELFL"/>}} || — || — || — || — || — || —
+|
+* GLF: Gold<ref name="GLF"/>
+|-
+! scope="row"| "[[Forever Yours (Tribute)]]"<br /><small>(with [[Kygo]] and Sandro Cavazza)</small><ref>{{Cite web |url=https://edm.com/music-releases/avicii-kygo-sandro-cavazza-avicii-forever-yours |title=Kygo and Sandro Cavazza release Avicii's unfinished single, 'Forever Yours' |last=Sunkel |first=Cameron |date=25 January 2020 |website=EDM.com |archive-url=https://web.archive.org/web/20200207081301/https://edm.com/music-releases/avicii-kygo-sandro-cavazza-avicii-forever-yours |archive-date=7 February 2020 |access-date=7 February 2020}}</ref>
+| 2020
+| 4 || 96 || — || —{{efn|group=upper-alpha|"Forever Yours (Tribute)" did not enter the Flanders Ultratop 50, but peaked at number eight on the Ultratip chart.<ref name="BELFL"/>}} || — || 65 || 64 || 25 || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Forever Yours (Tim's 2016 Ibiza Version)]]"<br /><small>(with Sandro Cavazza)</small><ref>{{Cite web |url=https://djmag.com/news/aviciis-forever-yours-tims-2016-ibiza-version-final-show-released-single-listen |title=Avicii's 'Forever Yours - Tim's 2016 Ibiza Version' from final show released as single: Listen |last=Cetin |first=Marissa |date=14 February 2025 |website=djmag.com |access-date=15 February 2025}}</ref>
+|rowspan="2"| 2025
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2"| ''Avicii Forever''
+|-
+! scope="row"| "Let's Ride Away"<br />{{small|(with [[Elle King]])}}<ref>{{cite web |url=https://djmag.com/news/avicii-forever-compilation-released-new-single-lets-ride-away-listen|title=Avicii ''Forever'' compilation released with new single, "Let's Ride Away" |website=[[DJ Mag]]|date=16 May 2025|access-date=17 May 2025}}</ref>
+| 17 || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as featured artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="8"| Peak chart positions
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop#Ultratip|BEL<br />(FL)<br />Tip]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[VG-lista|NOR]]<br /><ref name="NOR">{{cite web | url=http://norwegiancharts.com/showinterpret.asp?interpret=Avicii | title=Discography Avicii | publisher=Hung Medien | work=norwegiancharts.com | access-date=4 May 2018 | archive-date=3 November 2012 | archive-url=https://web.archive.org/web/20121103040408/http://www.norwegiancharts.com/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Productores de Música de España|SPA]]<br /><ref name="SPA">{{cite web | url=http://spanishcharts.com/search.asp?search=Avicii&cat=s | title=Search for: Avicii (Singles) | publisher=Hung Medien | work=spanishcharts.com | access-date=4 May 2018 | archive-date=5 May 2018 | archive-url=https://web.archive.org/web/20180505070216/http://spanishcharts.com/search.asp?search=Avicii&cat=s | url-status=live }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UKsin"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Bubbling Under Hot 100|US<br />Bub.]]<br /><ref name="BU-100"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="USDance">{{cite magazine | url=https://www.billboard.com/artist/avicii/chart-history/dan/ | title=Avicii – Chart History: Dance/Electronic Songs | publisher=[[Prometheus Global Media]] | magazine=[[Billboard (magazine)|Billboard]] | access-date=11 May 2018 | archive-date=9 May 2018 | archive-url=https://web.archive.org/web/20180509065201/https://www.billboard.com/music/Avicii/chart-history/dance-electronic-songs | url-status=live }}</ref>
+|-
+! scope="row" | "[[Divine Sorrow]]"<br /><small>([[Wyclef Jean|Wyclef]] featuring Avicii)</small>
+| rowspan="3" | 2014
+| 7 || 23 || 105 || 25 || 38 || 174 || 9 || 12
+| ''[[J'ouvert (EP)|J'ouvert]] (EP)''
+|-
+! scope="row" | "[[Dar um Jeito (We Will Find a Way)]]"<br /><small>([[Santana (band)|Santana]] and [[Wyclef Jean|Wyclef]] featuring Avicii and [[Alexandre Pires]])</small>
+| — || 16 || — || — || 49 || — || — || —
+| ''[[One Love, One Rhythm – The 2014 FIFA World Cup Official Album|One Love, One Rhythm]]''
+|-
+! scope="row" | "忘我 (Lose Myself)"<ref>{{cite web|url=https://www.youredm.com/2014/09/03/avicii-taiwanese-star-wang-leehom-collaborate-lose|title=Avicii and Taiwanese Star Wang Leehom Collaborate in 'Lose Myself'|first=Brendan|last=Duncan|website=Your EDM|date=3 September 2014|access-date=11 April 2019|archive-date=11 April 2019|archive-url=https://web.archive.org/web/20190411145527/https://www.youredm.com/2014/09/03/avicii-taiwanese-star-wang-leehom-collaborate-lose/|url-status=live}}</ref><br /><small>([[Wang Leehom]] featuring Avicii)</small>
+| — || — || — || — || — || — || — || —
+|''[[Your Love (Wang Leehom album)|你的愛 (Your Love)]]''
+|-
+! scope="row" | "Back Where I Belong" <br /><small>([[Otto Knows]] featuring Avicii)</small>
+| 2016
+| 32 || ― || ― || — || ― || — || ― || —
+| {{n/a|Non-album single}}
+|-
+| colspan="11" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of promotional singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop#Ultratip|BEL<br />(FL)<br />Tip]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop#Ultratip|BEL<br />(WA)<br />Tip]]<br /><ref name="BELWA">{{cite web | url=http://www.ultratop.be/fr/showinterpret.asp?interpret=Avicii | title=Discographie Avicii | publisher=Hung Medien | work=ultratop.be | access-date=11 May 2018 | language=fr | archive-date=1 December 2012 | archive-url=https://web.archive.org/web/20121201131430/http://www.ultratop.be/fr/showinterpret.asp?interpret=Avicii | url-status=live }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NLD]]<br /><ref name="NLD"/>
+|-
+! scope="row" | "[[Fade into Darkness|Penguin/Fade into Darkness (Instrumental Mix)]]"
+| 2011
+| 16 || 33 || 60
+| {{n/a|Non-album single}}
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of songs, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:2em;"| Year
+! colspan="5" scope="col" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:14em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop#Ultratop 50 Singles (Flemish chart)|BEL<br />(FL)<br />Tip]]<br /><ref name="BELFL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Single Top 100|NLD]]<br /><ref name="NLD"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[VG-lista|NOR]]<br /><ref name="NOR"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="USDance"/>
+|-
+! scope="row" | "[[Sunshine (David Guetta song)|Sunshine]]"<br /><small>(with [[David Guetta]])</small>
+| 2011
+| 59 || — || — || — || —
+|
+| ''[[Nothing but the Beat]]''
+|-
+! scope="row" | "Run Away"<br /><small>([[Kate Ryan]] featuring Tim Berg)</small>
+| 2012
+| — || 37 || — || — || —
+|
+| ''[[Electroshock (album)|Electroshock]]''
+|-
+! scope="row" | "Dear Boy"
+| rowspan="6" | 2013
+| 18 || — || — || — || 34
+|
+| rowspan="6" | ''True''
+|-
+! scope="row" | "Liar Liar"
+| 26 || — || — || — || 45
+|
+|-
+! scope="row" | "Shame on Me"
+| 32 || — || — || — || —
+|
+|-
+! scope="row" | "[[Hope There's Someone]]"
+| 47 || — || — || — || —
+|
+|-
+! scope="row" | "Heart Upon My Sleeve"
+| 51 || — || — || — || 49
+|
+|-
+! scope="row" | "All You Need Is Love"
+| 33 || — || — || — || —
+|
+|-
+! scope="row" | "[[Gonna Love Ya]]"
+| rowspan="11" | 2015
+| 3 || — || — || 25 || 32
+|
+* GLF: 3× Platinum<ref name="GLF"/>
+| rowspan="10" | ''Stories''
+|-
+! scope="row" | "Somewhere in Stockholm"
+| 30 || — || — || — || —
+|
+|-
+! scope="row" | "Trouble"
+| 33 || — || — || — || 46
+|
+|-
+! scope="row" | "Sunset Jesus"
+| 37 || — || — || — || 49
+|
+|-
+! scope="row" | "Talk to Myself"
+| 43 || — || — || — || 25
+|
+|-
+! scope="row" | "Ten More Days"
+| 45 || — || — || — || —
+|
+|-
+! scope="row" | "Can't Catch Me"
+| 55 || — || — || — || —
+|
+|-
+! scope="row" | "True Believer"
+| 64 || — || — || — || 50
+|
+|-
+! scope="row" | "City Lights"
+| 66 || — || — || — || —
+|
+|-
+! scope="row" | "Touch Me"
+| 69 || — || — || — || —
+|
+|-
+! scope="row" | "Stories – Megamix"
+| —{{efn-ua|"Stories – Megamix" did not enter the [[Swedish Singles Chart]], but peaked at number 17 on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2015&dspp=40|title=Veckolista Heatseeker, vecka 40, 2015|language=sv|publisher=[[Sverigetopplistan]]|access-date=2 May 2021|archive-date=2 May 2021|archive-url=https://web.archive.org/web/20210502092153/https://www.sverigetopplistan.se/chart/215?dspy=2015&dspp=40|url-status=live}}</ref>}} || — || — || — || —
+|
+|{{non-album single}}
+|-
+! scope="row" | "Friend of Mine"<br /><small>(featuring [[Vargas and Lagola|Vargas & Lagola]])</small>
+| rowspan="4"| 2017
+| 5 || — || — || — || 44
+|
+| rowspan="4"| ''Avīci (01)''
+|-
+! scope="row" | "You Be Love"<br /><small>(featuring Billy Raffoul)</small>
+| 9 || — || — || — || 41
+|
+|-
+! scope="row" | "What Would I Change It To"<br /><small>(featuring [[AlunaGeorge]])</small>
+| 11 || — || — || — || —
+|
+|-
+! scope="row" | "[[So Much Better (song)|So Much Better]]" (Avicii Remix)<br /><small>(with Sandro Cavazza)</small>
+| 12 || — || — || — || —
+|
+|-
+! scope="row" | "Peace of Mind"<br /><small>(featuring Vargas & Lagola)</small>
+| rowspan="9"| 2019
+| 17 || — || 99 || — || 22
+|
+| rowspan="9"| ''Tim''
+|-
+! scope="row" | "Bad Reputation"<br /><small>(featuring [[Joe Janiak]])</small>
+| 9 || — || 84 || — || 23
+|
+|-
+! scope="row" | "Ain't a Thing"<br /><small>(featuring Bonn)</small>
+| 21 || — || — || — || 26
+|
+|-
+! scope="row" | "Hold the Line"<br /><small>(featuring [[Arizona (American band)|Arizona]])</small>
+| 16 || — || 93 || — || 18
+|
+|-
+! scope="row" | "Freak"<br /><small>(featuring Bonn)</small>
+| 12 || — || — || — || 25
+|
+|-
+! scope="row" | "Excuse Me Mr. Sir"<br /><small>(featuring Vargas & Lagola)</small>
+| 30 || — || — || — || 34
+|
+|-
+! scope="row" | "Heart Upon My Sleeve"<br /><small>(with [[Imagine Dragons]])</small>
+| 11 || — || 96 || — || 14
+|
+|-
+! scope="row" | "Never Leave Me"<br /><small>(featuring Joe Janiak)</small>
+| 28 || — || — || — || 29
+|
+|-
+! scope="row" | "Fades Away"<br /><small>(featuring [[Noonie Bao]])</small>
+| 26 || — || — || — || 28
+|
+|-
+| colspan="15" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Remixes==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of remixes, with other performing artists and remixers, showing year released and album name
+! scope="col" style="width:20em;"| Title
+! scope="col"| Year
+! scope="col"| Performing artist(s)
+! scope="col" style="width:22em;"| Other remixer(s)
+! scope="col" style="width:17em;"| Album
+|-
+! scope="row"| "When I'm Thinking of You" (Avicii vs. Philgood Remix)<ref>{{cite web | url=http://www.beatport.com/release/when-im-thinking-of-you/128933 | title=When I'm Thinking of You <nowiki>[Nero Recordings]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=25 September 2013 | archive-url=https://web.archive.org/web/20130925061710/http://www.beatport.com/release/when-im-thinking-of-you/128933 | url-status=live }}</ref>
+| rowspan="5"| 2008
+| Francesco Diaz, Young Rebels
+| Philgood
+| ''When I'm Thinking of You''
+|-
+! scope="row"| "Solaris" (Avicii Greets Joia Mix)<ref>{{cite web | url=https://music.apple.com/se/album/solaris-ep/296996441 | title=Solaris – EP av Roman Salzger | work=[[iTunes Store]] | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074022/https://itunes.apple.com/se/album/solaris-ep/id296996441 | url-status=live }}</ref>
+| Roman Salzger
+| rowspan="2" {{n/a|None}}
+| ''Solaris – EP''
+|-
+! scope="row"| "Dancin'" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/dancin/id517933630 | title=Dancin' av Sebastien Benett | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074102/https://itunes.apple.com/se/album/dancin/id517933630 | url-status=dead }}</ref>
+| Sebastien Benett
+| ''Dancin'''
+|-
+! scope="row"| "Bang That Box" (Avicii vs. Philgood Remix)<ref>{{cite web | url=https://music.apple.com/se/album/bang-that-box-feat-terri-b/378793737 | title=Bang That Box (feat. Terri B) av Roger Sanchez | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074035/https://itunes.apple.com/se/album/bang-that-box-feat.-terri-b/id378793737 | url-status=live }}</ref>
+| [[Roger Sanchez]], [[Terri Bjerre|Terri B.]]
+| rowspan="2" | Philgood
+| ''Bang That Box''
+|-
+! scope="row"| "D10" (Avicii vs. Philgood's Vicious Remix)<ref>{{cite web | url=http://www.beatport.com/release/d10/146679 | title=D10 <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=26 September 2013 | archive-url=https://web.archive.org/web/20130926004547/http://www.beatport.com/release/d10/146679 | url-status=live }}</ref>
+| [[Dirty South (musician)|Dirty South]]
+| ''D10''
+|-
+! scope="row"| "Lost in Acid" (Tim Berg's Acidic Remix)<ref>{{Cite web|title=Lost in Acid (Tim Berg's Acidic Remix) by David Tort on Beatport|url=https://www.beatport.com/track/lost-in-acid/851870|access-date=2021-03-05|website=beatport.com|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524093821/https://www.beatport.com/track/lost-in-acid/851870|url-status=live}}</ref>
+| rowspan="23" |2009
+|David Tort
+|None
+|''Acid''
+|-
+! scope="row" | "Born to Rave" (Avicii and Philgood Born to Do It Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/born-to-rave-ep/id307469480 | title=Born to Rave – EP av DJ Ralph | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074032/https://itunes.apple.com/se/album/born-to-rave-ep/id307469480 | url-status=dead }}</ref>
+| DJ Ralph
+| rowspan="2" |Philgood
+| ''Born to Rave – EP''
+|-
+! scope="row"| "Life Goes On" (Avicii vs. Philgood Remix)<ref>{{cite web | url=http://www.beatport.com/release/life-goes-on-2009-remixes/155544 | title=Life Goes On (2009 Remixes) <nowiki>[Subliminal Records]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=26 October 2013 | archive-url=https://web.archive.org/web/20131026072458/http://www.beatport.com/release/life-goes-on-2009-remixes/155544 | url-status=live }}</ref>
+| Richard Grey, [[Erick Morillo]], [[Jose Nuñez (DJ)|José Nunez]]
+| ''Life Goes On (2009 Remixes) (feat. Shawnee Taylor) – EP''
+|-
+! scope="row"| "Whatever Kind" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/se/album/whatever-kind/333812369 | title=Whatever kind av Mic Newman | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074043/https://itunes.apple.com/se/album/whatever-kind/id333812369 | url-status=live }}</ref>
+| Mic Newman
+| rowspan="7" {{n/a|None}}
+| ''Whatever Kind''
+|-
+! scope="row"| "You Used to Hold Me" (Avicii Remember Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/you-used-to-hold-me-feat./id302938419 | title=You Used to Hold Me (feat. Terri B.) av D.O.N.S. | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074040/https://itunes.apple.com/se/album/you-used-to-hold-me-feat./id302938419 | url-status=dead }}</ref>
+| D.O.N.S., Terri B.
+| ''You Used to Hold Me (feat. Terri B.)''
+|-
+! scope="row"| "Somewhere" (Avicii Remix)<ref>{{cite web | url=http://www.beatport.com/release/somewhere/174936 | title=Somewhere <nowiki>[PinkStar Records]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=25 September 2013 | archive-url=https://web.archive.org/web/20130925061717/http://www.beatport.com/release/somewhere/174936 | url-status=live }}</ref>
+| Albin Myers, Sandro Monte, Abigail Bailey
+| ''Somewhere (feat. Abigail Bailey)''
+|-
+! scope="row"| "Sometimes I Feel" (Avicii's Out of Miami Mix)<ref>{{cite web | url=https://music.apple.com/se/album/sometimes-i-feel-feat-paulina/321932703 | title=Sometimes I Feel (feat. Paulina) – EP av Dim Chris & Sebastien Drums | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074011/https://itunes.apple.com/se/album/sometimes-i-feel-feat.-paulina/id321932703 | url-status=live }}</ref>
+| Dim Chris, Sebastien Drums, Paulina
+| ''Sometimes I Feel (feat. Paulina) – EP''
+|-
+! scope="row"| "Star Airlines" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/star-airlines-single/id517079436 | title=Star Airlines – Single av Sebastien Benett | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074045/https://itunes.apple.com/se/album/star-airlines-single/id517079436 | url-status=dead }}</ref>
+| Sebastien Benett
+| ''Star Airlines – Single''
+|-
+! scope="row"| "We Are" (Avicii Remix)<ref>{{cite web | url=http://www.beatport.com/release/we-are-remixes/180438 | title=We Are (Remixes) <nowiki>[Vicious]</nowiki> | publisher=[[Beatport]] | access-date=13 October 2013 | archive-date=24 October 2013 | archive-url=https://web.archive.org/web/20131024070146/http://www.beatport.com/release/we-are-remixes/180438 | url-status=live }}</ref>
+| Dirty South
+| ''We Are (Remixes)''
+|-
+! scope="row"| "Lipstick" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/se/album/lipstick/325026692 | title=Lipstick av Greg Cerrone | work=[[iTunes Store]] | date=17 August 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074051/https://itunes.apple.com/se/album/lipstick/id325026692 | url-status=live }}</ref>
+| Greg Cerrone
+| ''Lipstick''
+|-
+! scope="row"| "Tear the Club Up" (Avicii vs. Philgood Two Angry Mix)<ref>{{cite web | url=https://music.apple.com/se/album/tear-the-club-up-single/326757943 | title=Tear the Club Up – Single av Zoo Brazil | work=iTunes Store | date=24 August 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074030/https://itunes.apple.com/se/album/tear-the-club-up-single/id326757943 | url-status=live }}</ref>
+| Zoo Brazil
+| Philgood
+| ''Tear the Club Up – Single''
+|-
+! scope="row"| "Music Around the World" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/tr/album/music-around-world-feat.-teacha/id322999308 | title=Music Around the World (feat. Teacha) – EP Austin Leeds & Nick Terranova | work=iTunes Store | date=21 July 2009 | access-date=20 October 2015 | archive-date=4 November 2016 | archive-url=https://web.archive.org/web/20161104020202/https://itunes.apple.com/tr/album/music-around-world-feat.-teacha/id322999308 | url-status=dead }}</ref>
+| [[Austin Leeds]], Nick Terranova, Teacha
+| rowspan="14" {{n/a|None}}
+| ''Music Around the World (feat. Teacha) – EP''
+|-
+! scope="row"| "Boogers" (Avicii's Dumb Dumb Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/boogers-ep/id330206858 | title=Boogers – EP av MYNC, Harry Choo Choo Romero & Jose Nunez | work=iTunes Store | date=21 September 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074021/https://itunes.apple.com/se/album/boogers-ep/id330206858 | url-status=dead }}</ref>
+| MYNC, [[Harry Romero|Harry Choo Choo Romero]], José Nunez
+| ''Boogers – EP''
+|-
+! scope="row"| "Better Days" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/se/album/better-days/373723322 | title=Better Days by The Cut | work=iTunes Store | date=16 September 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074100/https://itunes.apple.com/se/album/better-days/id373723322 | url-status=live }}</ref>
+| The Cut
+| ''Better Days''
+|-
+! scope="row"| "Shy Shy" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/shy-shy-part-two/id335127756 | title=Shy Shy (Part Two) by EDX | work=iTunes Store | date=28 September 2009 | access-date=13 October 2013 | language=sv | archive-date=1 January 2014 | archive-url=https://web.archive.org/web/20140101072644/https://itunes.apple.com/se/album/shy-shy-part-two/id335127756 | url-status=dead }}</ref>
+| EDX
+| ''Shy Shy (Part Two)''
+|-
+! scope="row"| "Got 2 Get Up" (Avicii Remix)<ref>{{cite web | url=http://www.beatport.com/release/got-2-get-up/197037 | title=Got 2 Get Up <nowiki>[Vicious]</nowiki> | publisher=Beatport | access-date=13 October 2013 | archive-date=30 October 2013 | archive-url=https://web.archive.org/web/20131030161915/http://www.beatport.com/release/got-2-get-up/197037 | url-status=live }}</ref>
+| [[Tim Dudfield|Mr. Timothy]], Inaya Day
+| ''Got 2 Get Up''
+|-
+! scope="row"| "Touch Me (In the Morning)" (Avicii's Massive Mix)<ref>{{cite web | url=http://www.beatport.com/release/touch-me-in-the-morning/198233 | title=Touch Me (In The Morning) <nowiki>[Stealth Records]</nowiki> | publisher=Beatport | access-date=13 October 2013 | archive-date=25 September 2013 | archive-url=https://web.archive.org/web/20130925062234/http://www.beatport.com/release/touch-me-in-the-morning/198233 | url-status=live }}</ref>
+| Kid Massive, Elliotte Williams N'Dure
+| ''Touch Me (In the Morning)''
+|-
+! scope="row"| "[[Dreamer (Livin' Joy song)|Dreamer 2009]]" (Avicii Dream On Mix)<ref>{{cite web | url=https://music.apple.com/se/album/dreamer-2009-remixes-ep/340093888 | title=Dreamer 2009 (Remixes) – EP by Veersus, Maxie Devine & Viani DJ | work=iTunes Store | date=19 November 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074059/https://itunes.apple.com/se/album/dreamer-2009-remixes-ep/id340093888 | url-status=live }}</ref>
+| Veersus, Maxie Devine, [[Livin' Joy|Viani DJ, Janice Robinson]]
+| ''Dreamer 2009 (Remixes) – EP''
+|-
+! scope="row"| "[[Escape Me]]" (Avicii's Remix at Night)<ref>{{cite AV media notes | others=[[Tiësto]] | year=2010 | title=[[Kaleidoscope: Remixed]] | type=liner notes | publisher=Musical Freedom | id=MF025DDR}}</ref>
+| [[Tiësto]], C.C. Sheffield
+| ''[[Kaleidoscope: Remixed]]''
+|-
+! scope="row"| "Fade" (Avicii 2009 Remix)<ref>{{cite web | url=https://www.amazon.co.uk/Fade-Avicii-Remix/dp/B002WXLBAQ | title=Fade (Avicii Remix): Solu Music | publisher=[[Amazon.com|Amazon.co.uk]] | access-date=15 October 2013 | archive-date=3 February 2014 | archive-url=https://web.archive.org/web/20140203100807/http://www.amazon.co.uk/Fade-Avicii-Remix/dp/B002WXLBAQ | url-status=live }}</ref>
+| [[Solu Music]], Kimblee
+| {{n/a|None}}
+|-
+! scope="row"| "The Drums" (Avicii's Mouthful Remix)<ref>{{cite AV media notes | others=[[Alex Gaudino]] | year=2010 | title=My Destination (The Remixes) | type=liner notes | publisher=Rise Records | id=RISE 485 CD}}</ref>
+| [[Alex Gaudino]], Nari & Milani
+| ''My Destination (The Remixes)''
+|-
+! scope="row"| "[[One Love (David Guetta song)|One Love]]" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/one-love-feat.-estelle/id342672421 | title=One Love (feat. Estelle) av David Guetta | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074025/https://itunes.apple.com/se/album/one-love-feat.-estelle/id342672421 | url-status=dead }}</ref>
+| [[David Guetta]], [[Estelle (musician)|Estelle]]
+| ''One Love (Remixes) [feat. Estelle]''
+|-
+! scope="row"| "In the Air" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/in-air-avicii-remix-feat./id350616430 | title=In the Air (Avicii Remix) <nowiki>[feat. Jeremy Carr]</nowiki> – Single av Austin Leeds | work=iTunes Store | date=8 December 2009 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074054/https://itunes.apple.com/se/album/in-air-avicii-remix-feat./id350616430 | url-status=dead }}</ref>
+| Austin Leeds, Jeremy Carr
+| ''In the Air (feat. Jeremy Carr)''
+|-
+! scope="row"| "Set Me Free" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/us/album/set-me-free/516261279 | title=Set Me Free – Phonat | work=iTunes Store | date=5 January 2010 | access-date=20 October 2015 | archive-date=7 March 2016 | archive-url=https://web.archive.org/web/20160307011419/https://itunes.apple.com/us/album/set-me-free/id516261279 | url-status=live }}</ref>
+| rowspan="16"| 2010
+| Phonat
+| ''Set Me Free''
+|-
+! scope="row"| "Spotlight" (Avicii Rising Star Mix)<ref>{{cite web | url=https://music.apple.com/se/album/spotlight/425185490 | title=Spotlight – EP av The Good Guys | work=iTunes Store | date=April 2011 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074104/https://itunes.apple.com/se/album/spotlight-ep/id425185490 | url-status=live }}</ref>
+| The Good Guys, Tesz Milan
+| ''Spotlight – EP''
+|-
+! scope="row"| "Do It with Me" (Avicii vs. Philgood Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/do-it-me-avicii-vs.-philgood/id351726489 | title=Do It With Me (Avicii vs. Philgood Remix) <nowiki>[feat. Steve Bartland]</nowiki> – Single av Austin Leeds & Etienne Osbourne | work=iTunes Store | date=16 February 2010 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074010/https://itunes.apple.com/se/album/do-it-me-avicii-vs.-philgood/id351726489 | url-status=dead }}</ref>
+| Austin Leeds, Etienne Osbourne, Steve Bartland
+| Philgood
+| ''Do It With Me (Avicii vs. Philgood Remix) [feat. Steve Bertrand] – Single''
+|-
+! scope="row"| "Stop the Rock" (Avicii's Showstopping Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/stop-the-rock-ep/id482036840 | title=Stop the Rock – EP av Jason Rooney | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074027/https://itunes.apple.com/se/album/stop-the-rock-ep/id482036840 | url-status=dead }}</ref>
+| Jason Rooney
+| rowspan="19" {{n/a|None}}
+| ''Stop the Rock – EP''
+|-
+! scope="row"| "[[Can't Fight This Feeling (Junior Caldera song)|Can't Fight This Feeling]]" (Avicii Universe Mix)<ref>{{cite web | url=http://www.beatport.com/release/cant-fight-this-feeling/220938 | title=Can't Fight This Feeling <nowiki>[Colorz Records]</nowiki> | publisher=Beatport | access-date=13 October 2013 | archive-date=27 September 2013 | archive-url=https://web.archive.org/web/20130927125817/http://www.beatport.com/release/cant-fight-this-feeling/220938 | url-status=live }}</ref>
+| [[Junior Caldera]], [[Sophie Ellis-Bextor]]
+| ''Can't Fight This Feeling (Club Remixes) [feat. Sophie Ellis-Bextor] – EP''
+|-
+! scope="row"| "Salinas" (Tim Berg Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/salinas/id361405194 | title=Salinas av Dimitri Vegas & Like Mike | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074024/https://itunes.apple.com/se/album/salinas/id361405194 | url-status=dead }}</ref>
+| [[Dimitri Vegas & Like Mike]]
+| ''Salinas''
+|-
+! scope="row"| "[[Remedy (Little Boots song)|Remedy]]" (Avicii Club Mix)<ref>{{cite web | url=http://www.beatport.com/release/remedy/241514 | title=Remedy <nowiki>[Elektra Records]</nowiki> | publisher=Beatport | access-date=13 October 2013 | archive-date=30 September 2013 | archive-url=https://web.archive.org/web/20130930052759/http://www.beatport.com/release/remedy/241514 | url-status=live }}</ref>
+| [[Little Boots]]
+| ''Remedy Remixes – EP''
+|-
+! scope="row"| "Cookies with a Smile" (Avicii Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/cookies-with-a-smile-ep/id367825926 | title=Cookies With a Smile – EP av Dada Life | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074015/https://itunes.apple.com/se/album/cookies-with-a-smile-ep/id367825926 | url-status=dead }}</ref>
+| [[Dada Life]]
+| ''Cookies With a Smile – EP''
+|-
+! scope="row"| "New New New" (Avicii Meets Yellow Mix)<ref>{{cite AV media notes | others=[[Bob Sinclar]] | year=2010 | title=Strictly Bob Sinclar | type=liner notes | publisher=[[Strictly Rhythm]] | id=SR352CD}}</ref>
+| [[Bob Sinclar]], Vybrate, Queen Ifrica, Makedah
+| ''Strictly Bob Sinclar''
+|-
+! scope="row"| "[[Gettin' Over You]]" (Avicii's Vocal Mix at Night)<ref>{{cite web | url=https://itunes.apple.com/se/album/gettin-over-you-feat.-fergie/id371748847 | title=Gettin' Over You (feat. Fergie & LMFAO) – EP av David Guetta & Chris Willis | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074037/https://itunes.apple.com/se/album/gettin-over-you-feat.-fergie/id371748847 | url-status=dead }}</ref>
+| David Guetta, [[Chris Willis]], [[Fergie (singer)|Fergie]], [[LMFAO]]
+| ''Gettin' Over You – EP''
+|-
+! scope="row"| "I Feel Love" (Avicii's Forgotten Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/i-feel-love-feat.-wynter-gordon/id397982737 | title=I Feel Love (feat. Wynter Gordon) – EP av Rhythm Masters & MYNC | work=iTunes Store | date=24 October 2010 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074057/https://itunes.apple.com/se/album/i-feel-love-feat.-wynter-gordon/id397982737 | url-status=dead }}</ref>
+| [[Rhythm Masters]], MYNC, [[Wynter Gordon]]
+| ''I Feel Love (feat. Wynter Gordon) – EP''
+|-
+! scope="row"| "[[I Like It (Enrique Iglesias song)|I Like It]]" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/se/album/i-like-it-feat-pitbull-remixes/1445289797 | title=I Like It (feat. Pitbull) <nowiki>[Remixes]</nowiki> av Enrique Iglesias | work=iTunes Store | date=January 2010 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074017/https://itunes.apple.com/se/album/i-like-it-feat.-pitbull-remixes/id379606791 | url-status=live }}</ref>
+| [[Enrique Iglesias]], [[Pitbull (rapper)|Pitbull]]
+| ''I Like It (feat. Pitbull) [Remixes]''
+|-
+! scope="row"| "Getting Personal" (Avicii's Italectronic Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/getting-personal-remixes-feat./id381093827 | title=Getting Personal (Remixes) <nowiki>[feat. Mia Crispin]</nowiki> av Maurizio Gubellini | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074005/https://itunes.apple.com/se/album/getting-personal-remixes-feat./id381093827 | url-status=dead }}</ref>
+| Maurizio Gubellini, Mia Crispin
+| ''Getting Personal (Remixes) [feat. Mia Crispin]''
+|-
+! scope="row"| "[[Hang with Me]]" (Avicii's Exclusive Club Mix)<ref>{{cite web | url=https://itunes.apple.com/se/album/hang-with-me-remixes/id390937671 | title=Hang With Me (Remixes) av Robyn | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074029/https://itunes.apple.com/se/album/hang-with-me-remixes/id390937671 | url-status=dead }}</ref>
+| [[Robyn]]
+| ''Hang With Me – EP''
+|-
+! scope="row"| "Painted Faces" (Avicii Remix)<ref>{{cite web | url=https://music.apple.com/se/album/painted-faces-single/478224086 | title=Painted Faces – Single av Paul Thomas & Sonny Wharton | work=iTunes Store | date=11 October 2010 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074049/https://itunes.apple.com/se/album/painted-faces-single/id478224086 | url-status=live }}</ref>
+| Paul Thomas, Sonny Wharton
+| ''Painted Faces – Single''
+|-
+! scope="row"| "[[Rapture (iiO song)#Nadia Ali re-release|Rapture]]" (Avicii New Generation Remix)<ref>{{cite web | url=https://itunes.apple.com/se/album/rapture-ep/id414672097 | title=Rapture – EP av Nadia Ali | work=iTunes Store | access-date=13 October 2013 | language=sv | archive-date=12 November 2012 | archive-url=https://web.archive.org/web/20121112050423/https://itunes.apple.com/se/album/rapture-ep/id414672097 | url-status=dead }}</ref>
+| [[Nadia Ali (singer)|Nadia Ali]]
+| ''[[Queen of Clubs Trilogy: Onyx Edition]]''
+|-
+! scope="row"| "[[Derezzed]]" (Avicii Remix)<ref>{{cite AV media notes | others=[[Daft Punk]] | year=2011 | title=[[Tron: Legacy (soundtrack)#Remix album|Tron: Legacy Reconfigured]] | type=liner notes | publisher=[[Walt Disney Records]] | id=D001354002}}</ref>{{efn|group=upper-alpha|name="artist-credits"|On these songs, Avicii has also received an artist credit.<ref>{{cite web | url=http://www.allmusic.com/album/mw0002111228 | title=''Tron: Legacy Reconfigured'' – Daft Punk > Overview | work=[[AllMusic]] | access-date=13 October 2013 | author=Phares, Heather | archive-date=3 December 2015 | archive-url=https://web.archive.org/web/20151203143534/http://www.allmusic.com/album/mw0002111228 | url-status=live }}</ref><ref>{{cite web | url=http://www.allmusic.com/album/mw0002187771 | title=''Nothing But the Beat'' – David Guetta > Overview | work=AllMusic | access-date=13 October 2013 | author=Jeffries, David | archive-date=30 May 2014 | archive-url=https://web.archive.org/web/20140530111643/http://www.allmusic.com/album/mw0002187771 | url-status=live }}</ref><ref>{{cite web | url=http://www.allmusic.com/album/mw0002401308 | title=''Electroshock'' – Kate Ryan > Overview | work=AllMusic | access-date=13 October 2013 | archive-date=4 November 2016 | archive-url=https://web.archive.org/web/20161104055004/http://www.allmusic.com/album/mw0002401308 | url-status=live }}</ref>}}
+| rowspan="2"| 2011
+| [[Daft Punk]]
+| ''[[Tron: Legacy Reconfigured]]''
+|-
+! scope="row"| "[[Drowning (Armin van Buuren song)|Drowning]]" (Avicii Remix)<ref>{{cite AV media notes | others=[[Armin van Buuren]] | year=2011 | title=[[Mirage – The Remixes]] | type=liner notes | publisher=[[Armada Music]] | id=ARMA298}}</ref>
+| [[Armin van Buuren]], Laura V
+| ''Mirage – The Remixes''
+|-
+! scope="row"| "[[Girl Gone Wild]]" (Avicii's UMF Mix)<ref>{{cite web | url=https://music.apple.com/se/album/girl-gone-wild-remixes/522125819 | title=Girl Gone Wild (Remixes) av Madonna | work=iTunes Store | date=January 2012 | access-date=13 October 2013 | language=sv | archive-date=9 June 2014 | archive-url=https://web.archive.org/web/20140609074019/https://itunes.apple.com/se/album/girl-gone-wild-remixes/id522125819 | url-status=live }}</ref>
+| rowspan="1"| 2012
+| [[Madonna]]
+| ''Girl Gone Wild (Remixes)''
+|-
+! scope="row"| "[[Get Free (Major Lazer song)|Get Free]]" (Avicii Edit)<ref>{{cite web | url=http://www.okayplayer.com/news/dancehall-edm-major-lazer-lazer-strikes-back-volume-3-ep-mp3-free-download.html | title=Major Lazer – Lazer Strikes Back Vol. 3 (free EP) | website=[[Okayplayer]] | date=24 March 2013 | access-date=13 October 2013 | archive-date=2 February 2014 | archive-url=https://web.archive.org/web/20140202181205/http://www.okayplayer.com/news/dancehall-edm-major-lazer-lazer-strikes-back-volume-3-ep-mp3-free-download.html | url-status=live }}</ref>
+| rowspan="2"| 2013
+| [[Major Lazer]], [[Amber Coffman]]
+| ''Lazer Strikes Back Vol. 3''
+|-
+! scope="row"| "[[Miami 82]]" (Avicii Edit)<ref>{{cite web | url=http://www.vibe.com/article/listen-avicii-remixes-syn-cole-miami-82 | title=Listen: Avicii Remixes Syn Cole 'Miami 82' | work=[[Vibe (magazine)|Vibe]] | date=12 November 2013 | access-date=23 November 2013 | author=Polonsky, Sarah | archive-date=17 November 2013 | archive-url=https://web.archive.org/web/20131117155034/http://www.vibe.com/article/listen-avicii-remixes-syn-cole-miami-82 | url-status=live }}</ref>
+| [[Syn Cole]]
+| {{n/a|None}}
+|-
+! scope="row"| "[[Derezzed]]" (Avicii "So Amazing Mix")<ref>{{cite web | url=http://www.latimes.com/entertainment/music/posts/la-et-ms-armin-van-buuren-avicii-kaskade-tapped-for-disney-remix-album-20140312-story.html#axzz2zHh6MWl7 | title=Armin van Buuren, Avicii tapped for Disney remix album | work=[[Los Angeles Times]] | date=12 March 2014 | access-date=29 July 2014 | author=Kennedy, Gerrick D. | archive-date=1 August 2014 | archive-url=https://web.archive.org/web/20140801222538/http://www.latimes.com/entertainment/music/posts/la-et-ms-armin-van-buuren-avicii-kaskade-tapped-for-disney-remix-album-20140312-story.html#axzz2zHh6MWl7 | url-status=live }}</ref>
+| rowspan="1"| 2014
+| [[Daft Punk]], Negin
+| ''[[Dconstructed]]''
+|-
+! scope="row"| "[[Insomnia (Faithless song)|Insomnia 2.0]]" (Avicii Remix)<ref>{{cite web|url=https://music.apple.com/us/album/insomnia-2-0-avicii-remix-radio-edit-single/1018266345|title=Insomnia 2.0 (Avicii Remix [Radio Edit]) – Single|date=24 July 2015|access-date=24 July 2015|publisher=iTunes Store|location=Russia|archive-date=7 March 2016|archive-url=https://web.archive.org/web/20160307061203/https://itunes.apple.com/us/album/insomnia-2.0-avicii-remix/id1018266345|url-status=live}}</ref>
+| rowspan="1"| 2015
+| [[Faithless]]
+| Faithless
+| ''Faithless 2.0''
+|-
+! scope="row"| "Beautiful Heartbeat" (Avicii Remix)<br/><small>(featuring Frida Sundemo)</small>
+| 2016
+| [[Morten Breum|MORTEN]]
+| rowspan="3" {{n/a|None}}
+| ''Beautiful Heartbeat – Single''
+|-
+|-
+! scope="row"| "[[So Much Better (song)|So Much Better]]" (Avicii Remix)
+| 2017
+| [[Sandro Cavazza]]
+| ''Sandro Cavazza – EP''
+|-
+!scope="row"| "[[Beautiful Drug]]" (feat. Avicii) - Remix <ref>{{Cite web |title=Spotify |url=https://open.spotify.com/album/1Svj8dxhfgppS9tU8xnvWo?si=1fezTd_7TIeR9PC3vloV2g |access-date=2024-02-17 |website=open.spotify.com}}</ref>
+|2024
+|[[Zac Brown Band]]
+| ''Jekyll + Hyde''
+|}
+
+== Writing and production credits==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+
+! scope="col" style="width:20em;"| Title
+! scope="col"| Year
+! scope="col"| Performing artist(s)
+! scope="col" style="width:22em;"| Co-producer(s)
+! scope="col" style="width:17em;"| Album
+|-
+! scope="row"| "[[You're Gonna Love Again]]"<ref>{{cite web|url=https://www.qobuz.com/us-en/album/collateral-nervo/0617465633157|title=Collateral by Nervo – Download and listen to the album|access-date=16 May 2019|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524092318/https://www.qobuz.com/us-en/album/collateral-nervo/0617465633157|url-status=live}}</ref>
+| rowspan="2" | 2012
+| [[NERVO]]
+| Olivia Nervo, Miriam Nervo
+| ''[[Collateral (album)|Collateral]]''
+|-
+! scope="row"| "Animal"<ref>{{cite web|url=http://music.naver.com/album/index.nhn?albumId=323362&trackId=3242619|title=1집 I'm Da One|work=[[Naver]] Music|publisher=[[Naver Corporation]]|access-date=20 August 2014|archive-date=5 November 2021|archive-url=https://web.archive.org/web/20211105145559/https://vibe.naver.com/album/323362|url-status=live}}</ref><br/><small>(featuring J-Hope of [[BTS (band)|BTS]])</small>
+| [[Jo Kwon]]
+| Lauren Dyson, Bang Si-hyuk
+| ''I'm Da One''
+|-
+! scope="row"| "[[A Sky Full of Stars]]"<ref>{{cite web | url=https://www.spin.com/2014/04/coldplay-a-sky-full-of-stars-stream-always-in-my-head/ | title=Hear Coldplay and Avicii's 'A Sky Full of Stars' | work=[[Spin (magazine)|Spin]] | date=29 April 2014 | access-date=30 April 2014 | author=Martins, Chris | archive-date=5 April 2018 | archive-url=https://web.archive.org/web/20180405154538/https://www.spin.com/2014/04/coldplay-a-sky-full-of-stars-stream-always-in-my-head/ | url-status=live }}</ref>
+| rowspan="3" |2014
+| [[Coldplay]]
+| [[Paul Epworth]], Coldplay, Daniel Green, [[Rik Simpson]], [[Jon Hopkins]]
+| ''[[Ghost Stories (Coldplay album)|Ghost Stories]]''
+|-
+! scope="row"| "[[Lovers on the Sun]]"<ref name="spin">{{cite web|url=http://hamadamania.com/2014/10/28/david-guetta-confirms-new-album-listen-details/|title=David Guetta confirms new album "Listen" details|work=Spin|date=28 October 2014|access-date=28 October 2014|archive-date=28 October 2014|archive-url=https://web.archive.org/web/20141028191424/http://hamadamania.com/2014/10/28/david-guetta-confirms-new-album-listen-details/|url-status=live}}</ref><br/><small>(featuring [[Sam Martin (singer)|Sam Martin]])</small>
+| rowspan="2"| [[David Guetta]] 
+| David Guetta, [[Giorgio Tuinfort]], Frédéric Riesterer
+| rowspan="2"| ''[[Listen (David Guetta album)|Listen]]''
+|-
+! scope="row"| "Yesterday"<ref name="spin" /><br/><small>(featuring [[Bebe Rexha]])</small>
+| [[David Guetta]], [[Giorgio Tuinfort]], [[Bebe Rexha]], Sean Douglas
+|-
+! scope="row"| "[[Devil Pray]]"<ref>{{cite web|url=https://music.apple.com/us/album/rebel-heart/953710965|title=Rebel Heart&nbsp;– Madonna|access-date=20 December 2014|publisher=iTunes Store|location=US|archive-date=15 October 2015|archive-url=https://web.archive.org/web/20151015220147/https://itunes.apple.com/us/album/rebel-heart/id953710965|url-status=live}}</ref>
+| rowspan="9"| 2015
+| rowspan="7"| [[Madonna]]
+| Madonna, [[BloodPop|Blood Diamonds]], [[DJ Dahi]]
+| rowspan="7"| ''[[Rebel Heart]]''
+|-
+! scope="row"| "HeartBreakCity"
+| Madonna, [[Salem Al Fakir]], [[Magnus Lidehäll]], [[Vincent Pontare]], [[NoNoNo (band)|Astma & Rocwell]]
+|-
+! scope="row"| "[[Wash All Over Me]]"
+| Madonna, [[Mike Dean (record producer)|Mike Dean]], [[Kanye West]], [[Charlie Heat]]
+|-
+! scope="row"| "Messiah"
+| rowspan="2"| Madonna, Salem Al Fakir, Magnus Lidehäll, Vincent Pontare
+|-
+! scope="row"| "Rebel Heart"
+|-
+! scope="row"| "Borrowed Time"
+| Madonna, Carl Falk, Michael Diamonds, DJ Dahi
+|-
+! scope="row"| "Addicted"
+| Madonna, Carl Falk
+|-
+! scope="row"| "I’ll Be Waiting"
+| [[Walk Off The Earth]]
+| Gianni Luminati Nicassio, Thomas Salter
+| ''Sing It All Away''
+|-
+! scope="row"| "Thinking of Sunshine"<ref>{{cite web|url=https://www.umusicpub.com/se/News/2015/May/Daniel-Adams-Ray-Sunshine.aspx|title=Daniel Adams-Ray is 'Thinking of Sunshine'|access-date=15 December 2020|archive-date=5 November 2021|archive-url=https://web.archive.org/web/20211105145555/https://www.umusicpub.com/se/News/2015/May/Daniel-Adams-Ray-Sunshine.aspx|url-status=live}}</ref>
+| [[Daniel Adams-Ray]]
+| Daniel Adams-Ray, Henrik Jonback
+| ''Thinking of Sunshine''
+|-
+! scope="row"| "[[Hymn for the Weekend]]"
+| rowspan="1"| 2016
+| [[Coldplay]]
+| [[Rik Simpson]], [[Stargate (production team)|Stargate]], Digital Divide
+| ''[[A Head Full of Dreams]]''
+|-
+! scope="row"| "Girlfriend"
+| rowspan="2" | 2018
+| rowspan="1"| [[Anderson East]]
+| Anderson East, [[Dave Cobb]]
+| [[Encore (Anderson East album)|Encore]]
+|-
+! scope="row"| "GHOST"
+| rowspan="1"| [[Daniel Adams-Ray|HUMAN]]
+| Daniel Adams-Ray, Carl Wikstrom Ask, Elias Kapari, [[Henrik Jonback]]
+| rowspan="1"| ''IRL''
+|-
+! scope="row"| "The Otherside"
+|2020
+|[[Cam (singer)|Cam]]
+|[[Cam (singer)|Camaron Ochs]], [[Tyler Johnson (musician)|Tyler Johnson]], [[Hillary Lindsey]]
+|[[The Otherside (album)|The Otherside]]
+|-
+|}
+
+==Music videos==
+
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos as lead artist, showing year released and directors
+! scope="col" style="width:20em;" | Title
+! scope="col" | Year
+! scope="col" style="width:16em;" | Director(s)
+|-
+! scope="row" | "Fade into Darkness"
+| rowspan="3" | 2011
+| Tobias Hansson, Karl Aulin<ref>{{cite web | url=http://www.mtv.com/videos/avicii/680617/fade-into-darkness.jhtml | title=Fade into Darkness {{!}} Avicii {{!}} Music Video | work=[[MTV]] | access-date=13 October 2013 | archive-date=30 October 2013 | archive-url=https://web.archive.org/web/20131030012612/http://www.mtv.com/videos/avicii/680617/fade-into-darkness.jhtml | url-status=dead }}</ref>
+|-
+! scope="row" | "Collide"<br /><small>(with [[Leona Lewis]])</small>
+| Ethan Lader<ref name="vevo">{{cite web | url=http://www.vevo.com/artist/avicii?source=instantsearch | title=Avicii | publisher=[[Vevo]] | access-date=13 October 2013 | archive-date=29 October 2013 | archive-url=https://web.archive.org/web/20131029203615/http://www.vevo.com/artist/avicii?source=instantsearch | url-status=live }}</ref>
+|-
+! scope="row" | "Levels"
+| Petro<ref name="vevo"/>
+|-
+! scope="row" | "Silhouettes"
+| rowspan="2" | 2012
+| Niklas Johansson<ref name="vevo"/>
+|-
+! scope="row" | "Superlove" (Remix)<br /><small>(vs. [[Lenny Kravitz]])</small>
+| Rich Ragsdale<ref>{{cite web | url=http://www.videostatic.com/vs/2012/08/watch-it-avicii-x-lenny-kravitz-superlove-rich-ragsdale-dir.html | title=WATCH IT: Avicii x Lenny Kravitz "Superlove" (Rich Ragsdale, dir.) | publisher=Video Static | date=28 August 2012 | access-date=13 October 2013 | author=Gottlieb, Steven | archive-date=19 October 2013 | archive-url=https://web.archive.org/web/20131019180752/http://www.videostatic.com/vs/2012/08/watch-it-avicii-x-lenny-kravitz-superlove-rich-ragsdale-dir.html | url-status=live }}</ref>
+|-
+! scope="row" | "I Could Be the One"<br /><small>(vs. [[Nicky Romero]])</small>
+| rowspan="6" | 2013
+| Peter Huang<ref name="vevo"/>
+|-
+! scope="row" | "X You"
+| {{n/a|None}}<ref name="vevo"/>
+|-
+! scope="row" | "Wake Me Up"
+| [[Mark Seliger]]<ref name="vevo"/>
+|-
+! scope="row" | "Speed Burn & Lotus F1 Mix"
+| {{n/a|None}}<ref name="vevo"/>
+|-
+! scope="row" | "You Make Me"
+| Sebastian Ringler<ref name="vevo"/>
+|-
+! scope="row" | "Hey Brother"
+| Jesse Sternbaum<ref name="vevo"/>
+|-
+! scope="row" | "Addicted to You"
+| rowspan="9" | 2014
+| Sebastian Ringler<ref name="vevo"/>
+|-
+! scope="row" | "Wake Me Up (Avicii by Avicii)"
+| Zachary James, Alex Negrete<ref name="vevo"/>
+|-
+! scope="row" | "Hey Brother (Avicii by Avicii)"
+| Nick Fung, Nate Olson<ref name="vevo"/>
+|-
+! scope="row" | "Addicted to You (Avicii by Avicii)"
+| Keshen8<ref name="vevo"/>
+|-
+! scope="row" | "You Make Me (Avicii by Avicii)"
+| Joe Penna<ref name="vevo"/>
+|-
+! scope="row" | "Lay Me Down"
+| {{n/a|None}}
+|-
+! scope="row" | "Lose Myself (忘我)"<br /><small>(with [[Wang Leehom]])</small>
+| Jeff Richter<ref name="vevo"/>
+|-
+! scope="row" | "The Days"
+| rowspan="2"| Jesper Erikssen
+|-
+! scope="row" | "The Nights" 
+|-
+! scope="row" | "Feeling Good"
+| rowspan="4" | 2015
+| {{n/a|None}}
+|-
+! scope="row" | "Waiting For Love"
+| Sebastian Ringler
+|-
+! scope="row" | "Pure Grinding/For a Better Day"
+| Levan Tsikurishvili, Tim Bergling
+|-
+! scope="row" | "Broken Arrows"
+| [[Julius Onah]]
+|-
+! scope="row" | "Feeling Good (Avicii by Avicii)
+|2016
+| {{n/a|None}}<ref>{{cite web|url=https://www.dailymotion.com/video/x4l2g37|access-date=27 April 2020|title=Feeling good – Avicii Full song 2016 – video Dailymotion|date=20 July 2016|archive-date=12 November 2020|archive-url=https://web.archive.org/web/20201112002055/https://www.dailymotion.com/video/x4l2g37|url-status=live}}</ref>
+|-
+! scope="row" | "Lonely Together"<br /><small>(featuring [[Rita Ora]])</small>
+| rowspan="3" | 2017
+| Levan Tsikurishvili
+|-
+! scope="row" | "You Be Love"<br /><small>(featuring Billy Raffoul)</small>
+| TNT<ref>{{cite web|url=https://www.youtube.com/watch?v=M0X3jVSVzao|title=Avicii – You Be Love (Original Video) ft. Billy Raffoul|publisher=YouTube|date=20 December 2017|access-date=6 January 2018|archive-date=4 January 2018|archive-url=https://web.archive.org/web/20180104103720/https://www.youtube.com/watch?v=M0X3jVSVzao|url-status=live}}</ref>
+|-
+! scope="row" | "Friend of Mine"<br /><small>(featuring Vargas & Lagola)</small>
+| Tobias Leo Nordquist<ref>{{cite web|url=https://www.youtube.com/watch?v=IXNrHusLXoM|title=Avicii – Friend of Mine (Original Video) ft. Vargas & Lagola|publisher=YouTube|date=31 December 2017|access-date=6 January 2018|archive-date=5 January 2018|archive-url=https://web.archive.org/web/20180105120550/https://www.youtube.com/watch?v=IXNrHusLXoM|url-status=live}}</ref>
+|-
+! scope="row" | "Tough Love"<br /><small>(featuring [[Agnes Carlsson|Agnes]], [[Vargas & Lagola]])</small>
+| rowspan="2" | 2019
+| Fredrik Benke Rydman<ref>{{cite web|url=https://www.youtube.com/watch?v=IXNrHusLXoM|title=Avicii – Tough Love ft. Agnes, Vargas & Lagola|publisher=YouTube|date=14 May 2019|access-date=14 May 2019|archive-date=6 May 2019|archive-url=https://web.archive.org/web/20190506203707/https://www.youtube.com/watch?v=IXNrHusLXoM|url-status=live}}</ref>
+|-
+! scope="row" | "Heaven"
+| Levan Tsikurishvili<ref>{{cite web|url=https://www.youtube.com/watch?v=fqzhtvLWefA|title=Avicii – Heaven (Tribute Video)|publisher=YouTube|date=24 June 2019|access-date=24 June 2019|archive-date=24 June 2019|archive-url=https://web.archive.org/web/20190624231503/https://www.youtube.com/watch?v=fqzhtvLWefA|url-status=live}}</ref>
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos as featured artist, showing year released and directors
+! scope="col" style="width:20em;"| Title
+! scope="col"| Year
+! scope="col" style="width:16em;"| Director(s)
+|-
+! scope="row"| "Divine Sorrow" <br /><small>([[Wyclef Jean|Wyclef]] featuring Avicii)</small>
+| 2014
+| Mr. Brainwash
+|}
+
+==Notes==
+{{notelist-ua|30em}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://avicii.com/ Official website]
+* [http://www.allmusic.com/artist/avicii-mn0002393596 Avicii] at [[AllMusic]]
+* {{Discogs artist | artist=Avicii | name=Avicii}}
+* {{MusicBrainz artist | id=c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5 | name=Avicii}}
+
+{{Avicii}}
+
+[[Category:Avicii|Discography]]
+[[Category:Discographies of Swedish artists]]
+[[Category:Electronic music discographies]]

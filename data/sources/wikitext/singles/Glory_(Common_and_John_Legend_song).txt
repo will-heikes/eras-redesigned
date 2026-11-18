@@ -1,0 +1,197 @@
+{{Use mdy dates|date=May 2023}}
+{{Infobox song
+| name       = Glory
+| cover      = Glory (John Legend and Common song) cover.png
+| alt        =
+| type       = single
+| artist     = [[Common (rapper)|Common]] and [[John Legend]]
+| album      = [[Selma (film)#Music|Selma {{noitalic|soundtrack}}]]
+| released   = {{Start date|2014|12|11}}
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = 
+* [[Hip hop]]
+* [[Soul music|soul]]
+| length     = {{duration|m=4|s=32}}
+| label      = 
+* [[Artium Recordings|ARTium]]
+* [[Def Jam]]
+* [[GOOD Music|GOOD]]
+* [[Columbia Records|Columbia]]
+| writer     = 
+* [[John Legend|John Stephens]]
+* [[Common (rapper)|Lonnie Lynn]]
+* [[Che Smith]]
+| producer   = John Legend<ref name="JL"/>
+| chronology = [[John Legend]]
+| prev_title = [[Don't Say Goodbye (Sérgio Mendes song)|Don't Say Goodbye]]
+| prev_year  = 2014
+| next_title = [[Lay Me Down (Sam Smith song)#Red Nose Day 2015 release|Lay Me Down]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Common (rapper)|Common]]
+ | type       = single
+ | prev_title = Diamonds
+ | prev_year  = 2014
+ | title      = Glory
+ | year       = 2014
+ | next_title = Real People
+ | next_year  = 2016
+}}
+}}
+
+"'''Glory'''" is a song by American rapper [[Common (rapper)|Common]] and American singer [[John Legend]]. It was written by both performers, along with rapper [[Rhymefest]].<ref>{{cite web|url=https://variety.com/2015/film/news/selma-glory-oscars-original-song-academy-awards-2015-1201439270/|title='Selma' Wins Oscar for Best Original Song with 'Glory'|first=Dave|last=McNary|date=23 February 2015}}</ref><ref>{{cite web|url=https://deadline.com/2015/01/common-john-legend-to-perform-selma-song-glory-at-oscars-1201360594/|title=Common, John Legend To Perform 'Selma' Song "Glory" At Oscars|author=The Deadline Team|website=[[Deadline Hollywood]]|date=January 27, 2015|access-date=February 2, 2015}}</ref><ref>{{cite web|url=http://www.paramountguilds.com/selma/song/|title=Paramount Pictures: For Your Consideration 'Selma'|author=Paramount Pictures|publisher=Paramountguilds.com|date=January 27, 2015|access-date=February 21, 2015|archive-url=https://web.archive.org/web/20150214044658/http://www.paramountguilds.com/selma/song/|archive-date=2015-02-14|url-status=dead}}</ref> It was released on December 11, 2014, by [[Columbia Records]], as the theme song from the 2014 film [[Selma (film)|''Selma'']], which portrays the 1965 [[Selma to Montgomery marches]]. Common also co-starred in the film as [[Civil Rights Movement]] leader [[James Bevel]].
+
+Commercially, the song peaked at number 49 on the US [[Billboard Hot 100|''Billboard'' Hot 100]]. A music video for the song was directed by [[Paramount Pictures]] and was released on January 12, 2015. The song won [[Academy Award for Best Original Song|Best Original Song]] at the [[87th Academy Awards]] (2015) and the [[72nd Golden Globe Awards]] (2015), as well as [[Best Song Written for Visual Media]] at the [[58th Annual Grammy Awards]] (2016).
+
+==Awards==
+{| class="wikitable"
+|-
+! Year !! Awards Ceremony !! Award !! Result
+|-
+| rowspan="2" | [[2014 in music|2014]] || [[African-American Film Critics Association Awards 2014|African-American Film Critics Association]] || Best Music<ref>{{cite web|url=https://deadline.com/2014/12/selma-best-film-african-american-film-critics-tyler-perry-beyond-the-lights-1201316272/ |title='Selma' African American Film Critics Association|website=Deadline Hollywood |date=December 8, 2014 |access-date=December 8, 2014 }}</ref> || {{Won}}
+|-
+| Denver Film Critics Society || Best Original Song || {{Nominated}}
+|-
+| rowspan="9" | [[2015 in music|2015]] || [[87th Academy Awards|Academy Awards]] || [[Academy Award for Best Original Song|Best Original Song]] || {{Won}}
+|-
+| rowspan="2" | [[BET Awards 2015|BET Awards]] || [[BET Award for Best Collaboration|Best Collaboration]] || {{Won}}
+|-
+| [[BET Award for Video of the Year|Video of the Year]] || {{Nominated}}
+|-
+| [[Black Reel Awards of 2015|Black Reel Awards]] || [[Black Reel Award for Outstanding Original Song|Outstanding Original Song]] || {{Won}}
+|-
+| [[20th Critics' Choice Awards|Critics' Choice Movie Awards]] || [[Critics' Choice Movie Award for Best Song|Best Song]] || {{Won}}
+|-
+| Georgia Film Critics Association || Best Original Song<ref>{{cite web |url=http://www.reelga.com/2015/01/georgia-film-critics-split-board.html |title="Boyhood," "Nightcrawler" Win Big as Georgia Film Critics Split the Board |publisher=Reel Georgia |date=January 9, 2015 |access-date=January 9, 2015 |archive-url=https://web.archive.org/web/20150420103007/http://www.reelga.com/2015/01/georgia-film-critics-split-board.html |archive-date=2015-04-20 |url-status=dead }}</ref> || {{Won}}
+|-
+| [[72nd Golden Globe Awards|Golden Globe Award]] || [[Golden Globe Award for Best Original Song|Best Original Song]] || {{Won}}
+|-
+| [[Houston Film Critics Society Awards 2014|Houston Film Critics Society]] || Best Original Song<ref>{{cite web|url=http://www.awardsdaily.com/blog/2014/12/houston-film-critics-announce-nominees/|title=Houston Film Critics Announce Nominees|publisher=AwardsDaily|date=December 16, 2014|access-date=December 18, 2014}}</ref> || {{Nominated}}
+|-
+| Iowa Film Critics || Best Song<ref>{{cite web|url=http://www.hitfix.com/in-contention/boyhood-is-iowa-critics-best-picture-of-2014|title='Boyhood' is Iowa Critics' Best Picture of 2014|work=Hitfix|date=January 7, 2015|access-date=January 9, 2015|archive-date=August 3, 2015|archive-url=https://web.archive.org/web/20150803154936/http://www.hitfix.com/in-contention/boyhood-is-iowa-critics-best-picture-of-2014|url-status=dead}}</ref> || {{Draw|Runner-Up}}
+|-
+| rowspan="3" | [[2016 in music|2016]] || rowspan="3" | [[58th Annual Grammy Awards|Grammy Award]] || [[Best Song Written for Visual Media]] || {{Won}}
+|-
+| [[Best Rap Song]] || {{Nominated}}
+|-
+| [[Best Rap/Sung Collaboration]] || {{Nominated}}
+|}
+
+==Music video==
+[[File:9.13.11CommonByLuigiNovi3.jpg|right|thumb|200px|Common co-starred in the film ''Selma'', and sang "Glory" as the end-credits rolled.]]
+The music video was directed by [[Paramount Pictures]].<ref name="JL">{{cite web|url=http://freeonsmash.com/music/common-john-legend-glory-official-music-video-watch/|title=John Legend & Common – Glory|date=January 13, 2015 |publisher=freeonsmash.com|access-date=January 13, 2015}}</ref> It was put on Common's official [[Vevo]] account on January 12, 2015.<ref>{{cite web|url=https://www.youtube.com/watch?x-yt-ts=1422579428&x-yt-cl=85114404&v=HUZOKvYcx_o#t=135|title=Common, John Legend - Glory |date=January 12, 2015 |publisher=[[YouTube]]|access-date=January 12, 2015}}</ref> The video stars Legend and Common. The video, which includes footage from the film, begins with Legend playing the piano and then singing, with Common [[rapping]] in a different location.
+
+==Live performances==
+"Glory" was performed by Legend and Common on the American morning television show ''[[Good Morning America]]'' on January 5, 2015.<ref>{{cite web|url=http://www.illroots.com/read/common-john-legend-glory-live-on-good-morning-america|title=Common & John Legend - Glory (Live On 'Good Morning America')|publisher=illroots.com|access-date=January 5, 2015}}</ref>
+
+On February 8, 2015, the duo performed the song as culmination to the [[57th Annual Grammy Awards]] ceremonies held at the [[Staples Center]] in [[Los Angeles]], [[California]].
+
+Legend and Common performed "Glory" during the [[87th Academy Awards]] show on February 22, 2015 using a stage-setting of Selma's [[Edmund Pettus Bridge]]. The song won the Oscar for [[Academy Award for Best Original Song|Best Original Song]].<ref>{{cite web|url=http://www.hiphopdx.com/index/news/id.32298/title.common-john-legend-to-perform-glory-at-the-oscars-this-february|title=Common & John Legend To Perform "Glory" At The Oscars|publisher=hiphopdx.com|access-date=January 28, 2015|archive-url=https://web.archive.org/web/20150503215904/http://www.hiphopdx.com/index/news/id.32298/title.common-john-legend-to-perform-glory-at-the-oscars-this-february|archive-date=May 3, 2015|url-status=dead}}</ref>
+
+In October 2015, Common surprised a student choir in [[Compton, California]] with a live performance of "Glory" in support of [[My Brother's Keeper Challenge]]. The promotion was run by [[Omaze]], a private internet company that raises funds for charity through online auctions and merchandise sales.<ref>{{cite web|url=https://www.youtube.com/watch?v=1bdNQSyFJGM|title=Common surprises youth choir with Glory performance|date=March 8, 2016 |publisher=omaze.com|access-date=March 8, 2016}}</ref>
+
+A year later on October 26, 2016, Common performed the song with [[Yolanda Adams]] at the [[White House]] on the [[South Lawn]] for ''[[BET Presents: Love and Happiness: An Obama Celebration]]''.<ref>{{cite web |url=http://www.indiewire.com/2016/11/bet-love-happiness-an-obama-celebration-highlights-musical-tribute-1201747325/ |title= 'Love & Happiness: An Obama Celebration': Watch Highlights From BET's Musical Tribute |last=Calvario |first=Liz |website=Indiewire |date= 16 November 2016 |publication-date=2016-11-16}}</ref>
+
+It was performed by Legend and Common, backed by a choir, at the [[2020 Democratic National Convention]]. They also played it during a [[Joe Biden]] rally at [[Pennsylvania]], a day before the [[2020 United States presidential election]].
+
+It was performed by Common and Legend during the opening ceremonies of the [[Barack Obama Presidential Center]] on June 18th, 2026
+
+
+==Commercial performance==
+"Glory" debuted on the [[Billboard Hot 100|''Billboard'' Hot 100]] at number 92. It became Common's fourth charted song of his own,<ref>{{cite web|url=http://scottfeinberg.com/few-no-1-billboard-hits-win-big-at-the-oscars|title=Few No. 1 Billboard Hits Win Big at the Oscars|publisher=scottfeinberg.com|access-date=January 22, 2015}}</ref> and peaked at number 49.<ref>{{cite web|url=https://www.billboard.com/artist/299567/Common/chart?f=379|title=Common Album & Song Chart History|publisher=Billboard|access-date= March 17, 2015}}</ref>
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"|Chart (2015)
+!scope="col"|Peak<br>position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.noise11.com/news/aria-singles-ellie-goulding-remains-at-no-1-20150307|title=ARIA Singles: Ellie Goulding Remains At No 1|publisher=Noise11|last=Ryan|first=Gavin|date=March 7, 2015|access-date=March 7, 2015}}</ref>
+| 62
+|-
+{{singlechart|Austria|47|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 4, 2015}}
+|-
+{{singlechart|Flanders Tip|74|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 1, 2015}}
+|-
+{{singlechart|Wallonia Tip|40|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 1, 2015}}
+|-
+{{singlechart|France|65|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 10, 2015}}
+|-
+{{singlechart|Ireland|39|year=2015|week=9|rowheader=true}}
+|-
+{{singlechart|Spain|25|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 10, 2015}}
+|-
+{{singlechart|Switzerland|38|artist=Common & John Legend|song=Glory|rowheader=true|access-date=March 1, 2015}}
+|-
+{{singlechart|UK|62|date=2015-03-01|rowheader=true}}
+|-
+{{singlechart|Billboardhot100|49|artist=Common|rowheader=true|access-date=February 2, 2015}}
+|-
+{{singlechart|Billboardrandbhiphop|18|artist=Common|rowheader=true|access-date=February 2, 2015}}
+|-
+|}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"| Country
+!scope="col"| Date
+!scope="col"| Format
+!scope="col"| Label
+!scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| United States
+|rowspan="2"| {{start date|2014|12|11}}
+|rowspan="2"| [[Music download|Digital download]]
+| rowspan="2"| {{hlist|[[Artium Recordings|ARTium]]|[[Def Jam]]|[[GOOD Music|GOOD]]|[[Columbia Records|Columbia]]}}
+| align="center"| <ref name="IT">{{cite web|url=https://music.apple.com/us/album/glory-from-the-motion-picture-selma-single/951104551|title=iTunes - Music - Glory (From the Motion Picture "Selma") - Single|date=11 December 2014 |publisher=iTunes|access-date=January 15, 2015}}</ref>
+|-
+! scope="row"| United Kingdom
+|align="center"| <ref>{{cite web|url=https://www.amazon.co.uk/Glory-Motion-Picture-Selma/dp/B00R95TCIK|title=Glory (From the Motion Picture Selma)|publisher=[[Amazon.co.uk]]|archive-url=https://web.archive.org/web/20150410115037/http://www.amazon.co.uk/Glory-Motion-Picture-Selma/dp/B00R95TCIK|archive-date=April 10, 2015}}</ref>
+|}
+
+==See also==
+* [[Civil rights movement in popular culture]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{YouTube|HUZOKvYcx_o|Music video}}
+* {{YouTube|H9MKXR4gLjQ|2015 Academy Awards performance}}
+
+{{John Legend}}
+{{Common singles}}
+{{Navboxes
+|title = Awards for "Glory"
+|titlestyle = background: lightblue
+|list =
+{{Academy Award Best Original Song}}
+{{BET Award for Best Collaboration}}
+{{Black Reel Award for Outstanding Original Song}}
+{{Broadcast Film Critics Association Award for Best Song}}
+{{Golden Globe Award for Best Original Song}}
+{{Grammy Award for Best Song Written for Visual Media}}
+}}
+
+{{authority control}}
+
+[[Category:2014 singles]]
+[[Category:2014 songs]]
+[[Category:John Legend songs]]
+[[Category:Common (rapper) songs]]
+[[Category:Songs written by John Legend]]
+[[Category:Songs written by Common (rapper)]]
+[[Category:Grammy Award for Best Song Written for Visual Media]]
+[[Category:Columbia Records singles]]
+[[Category:Def Jam Recordings singles]]
+[[Category:GOOD Music singles]]
+[[Category:Best Original Song Academy Award–winning songs]]
+[[Category:Best Original Song Golden Globe–winning songs]]
+[[Category:Soul ballads]]
+[[Category:2010s ballads]]
+[[Category:Songs written by Rhymefest]]
+[[Category:Songs about racism and xenophobia]]
+[[Category:Civil rights movement in music]]

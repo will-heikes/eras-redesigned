@@ -1,0 +1,171 @@
+{{Short description|2014 song by Ne-Yo featuring Juicy J}}
+{{Infobox song
+| name       = She Knows
+| cover      = Ne-YoSheKnows.jpg
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Ne-Yo]] featuring [[Juicy J]]
+| album      = [[Non-Fiction (Ne-Yo album)|Non-Fiction]]
+| released   = {{Start date|2014|09|16}}
+| recorded   =
+| studio     =
+| venue      =
+| genre      = {{flat list|
+*[[Contemporary R&B|R&B]]
+*[[Trap music|trap]]
+*[[hip-hop]]
+}}
+| length     = {{plain list|
+*{{Duration|m=3|s=34}} {{small|(album version)}}
+*{{Duration|m=3|s=08}} {{small|(radio edit)}}
+}}
+| label      = {{flat list|
+*Compound
+*[[Motown Records|Motown]]
+}}
+| writer     = {{flat list|
+*[[Ne-Yo|Shaffer Smith]]
+*[[Juicy J|Jordan Houston]]
+*[[Dr. Luke|Lukasz Gottwald]]
+*[[Cirkut|Henry Walter]]
+}}
+| producer   = {{flat list|
+*Dr. Luke
+*Cirkut
+}}
+| chronology = [[Ne-Yo]]
+| prev_title = [[Money Can't Buy (song)|Money Can't Buy]]
+| prev_year  = 2014
+| next_title = [[Time of Our Lives (Pitbull and Ne-Yo song)|Time of Our Lives]]
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Juicy J]]
+ | type       = single
+ | prev_title = [[Low (Juicy J song)|Low]]
+ | prev_year  = 2014
+ | title      = She Knows
+ | year       = 2014
+ | next_title = [[Multiply (ASAP Rocky song)|Multiply]]
+ | next_year  = 2014
+}}
+{{External music video|1={{YouTube|Fk1ZO_980DI|"She Knows"}}|header=Music videos}}
+{{External music video|1={{YouTube|voNY3nfip5c|"She Knows" (Pole Art Ver.)}}|header=no}}
+}}
+
+"'''She Knows'''" is a song by American singer [[Ne-Yo]], taken from his sixth studio album, ''[[Non-Fiction (Ne-Yo album)|Non-Fiction]]'' (2015). It features a guest verse by American rapper [[Juicy J]]. The song was released on September 16, 2014 by Compound Entertainment and [[Motown|Motown Records]], and serves as the [[lead single]] from the album following the release of an [[Contemporary R&B|R&B]]-tinged first single, "[[Money Can't Buy (song)|Money Can't Buy]]".<ref name="iTunes">{{cite web |url=https://itunes.apple.com/us/album/she-knows-feat.-juicy-j-single/id917435703 |title=ITunes - Music - She Knows (Feat. Juicy J) - Single by Ne-Yo |website=[[iTunes]] |access-date=30 June 2022 |archive-url=https://web.archive.org/web/20141112165211/https://itunes.apple.com/us/album/she-knows-feat.-juicy-j-single/id917435703 |archive-date=12 November 2014 |url-status=dead}}</ref> The song was produced by [[Dr. Luke]] and [[Cirkut (record producer)|Cirkut]], with vocal production by Jesse "Corparal" Wilson.<ref>{{cite web|url=https://www.hotnewhiphop.com/562277-ne-yo-she-knows-feat-juicy-j-new-song|title=Ne-Yo - She Knows Feat. Juicy J|last=Lilah|first=Rose|work=HotNewHipHop.com|date=September 18, 2014|access-date=September 26, 2014}}</ref>
+
+==Critical reception==
+[[AllMusic]]'s Andy Kellman put it alongside 'She Said I'm Hood Tho' and 'One More' as being "all tough but finely crafted slow jams."<ref>{{cite web|url=http://www.allmusic.com/album/non-fiction-mw0002801550|title=Non-Fiction - Ne-Yo|last=Kellman|first=Andy|publisher=[[AllMusic]]|access-date=November 20, 2017}}</ref> Justin Charity of ''[[Complex (magazine)|Complex]]'' described the song as "the rare, contemporary hit, with obvious appeal to Juicy J and to the rest of us as a clean, big beat swing at urban radio play."<ref>{{cite web|url=http://www.complex.com/music/2015/01/album-review-ne-yo-non-fiction|title=Ne-Yo Turns From Thoughtful Lover to Cheap Pickup Artist on His New Album|last=Charity|first=Justin|work=[[Complex (magazine)|Complex]]|date=January 27, 2015|access-date=November 20, 2017}}</ref>
+
+==Remixes==
+The official remix, the "R&B Remix" features [[Trey Songz]], [[The-Dream]] and [[T-Pain]]. Another official remix, released on February 20, 2015, features [[Fabolous]], [[French Montana]] and the original guest [[Juicy J]]. The song features vocals from the infamous Crack Kid on [[Vine (software)|Vine]]. The album remix features a second verse from Juicy J in the beginning of the song.
+
+==Music video==
+A music video was uploaded on [[YouTube]], October 8, 2014. Everywhere Ne-Yo goes, from the grocery store to the library to the office, he sees pole dancing girls. The pole art version was also uploaded on YouTube, November 10, 2014. The video is directed by [[Emil Nava]].<ref>{{Cite web|url=https://www.emilnava.com/portfolio/ne-yo-she-knows-ft-juicy-j/|title=Ne-Yo FT. Juicy J She Knows|website=Emilnava.com|access-date=24 May 2022}}</ref>
+
+==Track listing==
+*;Digital download<ref>{{cite web |url=https://itunes.apple.com/us/album/she-knows-feat.-juicy-j-single/id917435703 |title=ITunes - Music - She Knows (Feat. Juicy J) - Single by Ne-Yo |website=[[iTunes]] |access-date=12 January 2022 |archive-url=https://web.archive.org/web/20141112165211/https://itunes.apple.com/us/album/she-knows-feat.-juicy-j-single/id917435703 |archive-date=12 November 2014 |url-status=dead}}</ref>
+#"She Knows" (featuring [[Juicy J]]) – 3:41
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2014–15)
+!scope="col"| Peak<br />position
+|-
+{{singlechart|Flanders Tip|52|artist=Ne-Yo feat. Juicy J|song=She Knows|rowheader=true|access-date=February 17, 2015}}
+|-
+{{singlechart|Flanders Urban|29|artist=Ne-Yo feat. Juicy J|song=She Knows|rowheader=true|access-date=February 17, 2015}}
+|-
+{{singlechart|Wallonia Tip|23|artist=Ne-Yo feat. Juicy J|song=She Knows|rowheader=true|access-date=February 17, 2015|refname=Wallonia}}
+|-
+{{singlechart|Canada|85|artist=Ne-Yo|rowheader=true|access-date=February 19, 2015}}
+|-
+{{singlechart|France|146|artist=Ne-Yo feat. Juicy J|song=She Knows|rowheader=true|access-date=February 17, 2015|refname=France}}
+|-
+{{singlechart|Scotland|25|date=2015-05-31|rowheader=true|access-date=June 8, 2015}}
+|-
+{{singlechart|UK|28|date=2015-06-06|rowheader=true|access-date=May 31, 2015}}
+|-
+{{singlechart|UKrandb|5|date=2015-06-06|rowheader=true|access-date=May 31, 2015}}
+|-
+{{singlechart|Billboardhot100|19|artist=Ne-Yo|rowheader=true|access-date=March 5, 2015}}
+|-
+{{singlechart|Billboardrandbhiphop|6|artist=Ne-Yo|rowheader=true|access-date=February 26, 2015}}
+|-
+{{singlechart|Billboarddanceairplay|19|artist=Ne-Yo|rowheader=true|access-date=March 12, 2015}} 
+|-
+{{singlechart|Billboardpopsongs|19|artist=Ne-Yo|rowheader=true|access-date=March 12, 2015}}
+|-
+{{singlechart|Billboardrhythmic|2|artist=Ne-Yo|rowheader=true|access-date=February 19, 2015}}
+|}
+{{col-2}}
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!scope="col"| Chart (2015)
+!scope="col"| Position
+|-
+!scope="row"| US ''Billboard'' Hot 100<ref>{{cite magazine|title=Hot 100: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-100-songs|magazine=Billboard|publisher=Prometheus Global Media|access-date=December 9, 2015}}</ref>
+| 97
+|-
+! scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/rhythmic-songs|title=Rhythmic Songs – Year-End 2015|magazine=Billboard|access-date=October 4, 2019}}</ref>
+| 17
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Brazil|artist=Ne-Yo|title=She Knows|award=Gold|type=single|relyear=2014|certyear=2024|access-date=January 19, 2025}}
+{{Certification Table Entry|region=New Zealand|artist=Ne-Yo feat. Juicy J|title=She Knows|award=Platinum|type=single|relyear=2014|certyear=2025|source=radioscope|access-date=July 26, 2025}}
+{{Certification Table Entry|region=United Kingdom|artist=Ne-Yo ft Juicy J|title=She Knows|award=Gold|type=single|relyear=2014|certyear=2026|id=16428-5262-1|access-date=March 28, 2026}}
+{{Certification Table Entry|region=United States|relyear=2014|certyear=2015|title=She Knows|artist=Ne-Yo|type=single|award=Platinum|access-date=May 2, 2015}}
+{{Certification Table Bottom|streaming=true|nosales=true|noshipments=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+!scope="row" rowspan="4"|United States
+| September 16, 2014<ref name="iTunes"/>
+| [[Music download|Digital download]]
+| rowspan="4"| {{flat list|
+*Compound Entertainment
+*[[Motown Records]]
+}}
+|-
+|September 23, 2014<ref>{{cite web|url=http://gfa.radioandrecords.com/publishGFA/GFANextPage.asp?sDate=09/23/2014&Format=5|title=®R&R :: Going For Adds™ :: Urban|website=Radioandrecords.com}}</ref>
+|Urban radio 
+|-
+|October 7, 2014<ref>{{cite web|url=http://gfa.radioandrecords.com/publishGFA/GFANextPage.asp?sDate=10/07/2014&Format=9|title=®R&R :: Going For Adds™ :: Rhythmic|website=Radioandrecords.com}}</ref>
+|Rhythmic radio
+|-
+|January 13, 2015<ref>{{Cite web |url=http://www.fmqb.com/Article.asp?id=16691 |title=Archived copy |access-date=2017-11-03 |archive-date=2004-03-21 |archive-url=https://archive.today/20040321234505/http://www.fmqb.com/Article.asp?id=16691 |url-status=dead }}</ref>
+| [[Contemporary hit radio]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Ne-Yo}}
+{{Juicy J}}
+{{Authority control}}
+
+[[Category:2014 singles]]
+[[Category:2014 songs]]
+[[Category:Ne-Yo songs]]
+[[Category:Juicy J songs]]
+[[Category:Songs written by Ne-Yo]]
+[[Category:Songs written by Juicy J]]
+[[Category:Songs written by Dr. Luke]]
+[[Category:Songs written by Cirkut]]
+[[Category:Song recordings produced by Dr. Luke]]
+[[Category:Song recordings produced by Cirkut]]

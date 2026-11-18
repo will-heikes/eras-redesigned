@@ -1,0 +1,94 @@
+{{Infobox song
+| name       = Hotel
+| cover      = KidInkHotel.jpg
+| alt        =
+| type       = single
+| artist     = [[Kid Ink]] featuring [[Chris Brown]]
+| album      = [[Full Speed (album)|Full Speed]]
+| released   = January 27, 2015
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = {{hlist|[[Hip hop music|Hip hop]]|[[Contemporary R&B|R&B]]}}
+| length     = 3:39
+| label      = {{hlist|Tha Alumni Music Group|88 Classic|[[RCA Records|RCA]]}}
+| writer     = {{hlist|[[Kid Ink|Brian Collins]]|[[Chris Brown]]|[[The Featherstones|Christopher Featherstone]]|[[The Featherstones|Justin Featherstone]]|[[The Featherstones|Matthew Featherstone]]|[[The Featherstones|William Featherstone]]}}
+| producer   = [[The Featherstones]]
+| chronology = [[Kid Ink]]
+| prev_title = [[Body Language (Kid Ink song)|Body Language]]
+| prev_year  = 2014
+| next_title = [[Ride Out]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = single
+ | prev_title = [[Ayo (song)|Ayo]]
+ | prev_year  = 2015
+ | title      = Hotel
+ | year       = 2015
+ | next_title = Don't Kill the Fun
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|fZKdcPO8O-A|"Hotel"}} }}
+}}
+
+"'''Hotel'''" is a song by American rapper [[Kid Ink]]. The song was released as an instant-grat on January 9, 2015 by Tha Alumni Music Group, 88 Classic and [[RCA Records]], later becoming the second single from his third [[studio album]] ''[[Full Speed (album)|Full Speed]]'' (2015).<ref>{{cite web|url=http://www.kidinkmusic.com/kid-ink-hotel-ft-chris-brown|title=Kid Ink - Hotel ft. Chris Brown|publisher=Kid Ink Music|access-date=2015-05-01|archive-url=https://web.archive.org/web/20150211063344/http://kidinkmusic.com/kid-ink-hotel-ft-chris-brown/|archive-date=2015-02-11|url-status=dead}}</ref> It was sent to US [[urban adult contemporary]] radio on January 27, 2015.<ref>{{cite web |url=http://www.allaccess.com/urban/future-releases |title=Impacting Urban Singles - January 27th 2015 |publisher=All Access Music Group |url-status=dead |archive-url=https://web.archive.org/web/20150121121203/http://www.allaccess.com/urban/future-releases |archive-date=January 21, 2015 }}</ref>
+
+== Background ==
+After the commercial success of their previous single "[[Show Me (Kid Ink song)|Show Me]]", Kid Ink linked up with American singer [[Chris Brown]] to work on a song with songwriting and production team [[The Featherstones]]. At first the song was displayed as "track 5" (while the rest of the tracks were titled) on the [[iTunes Store]] album pre-order before it was released commercially as a single.
+
+== Music video ==
+An animated music video was uploaded to [[Vevo]] on June 9, 2015.
+
+== Charts ==
+{|class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position
+|-
+{{singlechart|Australia|60|artist=Kid Ink feat. Chris Brown|song=Hotel|rowheader=true|access-date=April 8, 2015}}
+|-
+{{singlechart|Flanders Tip|59|artist=Kid Ink feat. Chris Brown|song=Hotel|rowheader=true|access-date=January 14 2024}}
+|-
+! scope="row"{{singlechart|France|145|artist=Kid Ink feat. Chris Brown|song=Hotel}}
+|-
+{{singlechart|Germany|30|artist=Kid Ink feat. Chris Brown|song=Hotel|songid=1376368|rowheader=true|access-date=October 31, 2018}}
+|-
+! scope="row"| Netherlands ([[Dutch Single Top 100|Single Tip]])<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2015&date=20150207|title=Dutch Single Tip 07/02/2015|access-date=January 15, 2024}}</ref>
+| 21
+|-
+{{singlechart|UK|43|date=2014-09-21|artist=Kid Ink|song=Hotel|rowheader=true|access-date=April 8, 2015}}
+|-
+{{single chart|UKrandb|4|date=20150124|rowheader=true|access-date=December 14, 2023}}
+|-
+{{singlechart|Billboardhot100|96|artist=Kid Ink|song=Hotel|rowheader=true|access-date=April 8, 2015}}
+|-
+{{singlechart|Billboardrandbhiphop|30|artist=Kid Ink|song=Hotel|rowheader=true|access-date=April 8, 2015}}
+|-
+{{singlechart|Billboardrhythmic|12|artist=Kid Ink|song=Hotel|rowheader=true|access-date=April 8, 2015}}
+|-
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=New Zealand|artist=Kid Ink|title=Hotel|type=single|award=Gold|relyear=2015|access-date=December 25, 2024|certyear=2022|source=radioscope}}
+{{Certification Table Entry|type=single|region=United Kingdom|artist=Kid Ink|title=Hotel|award=Silver|relyear=2015|certyear=2018|id=9302-3916-1}}
+{{Certification Table Entry|region=United States|relyear=2015|certyear=2025|title=Hotel|artist=Kid Ink|type=single|award=Gold|access-date=February 14, 2025}}
+{{Certification Table Bottom|streaming=true | nosales=true | noshipments=true}}
+
+== References ==
+{{Reflist|2}}
+
+{{Kid Ink}}
+{{Chris Brown singles}}
+
+{{authority control}}
+
+[[Category:2015 singles]]
+[[Category:2015 songs]]
+[[Category:Kid Ink songs]]
+[[Category:Chris Brown songs]]
+[[Category:Songs written by Chris Brown]]
+[[Category:RCA Records singles]]
+[[Category:American songs]]
+[[Category:Songs written by Kid Ink]]

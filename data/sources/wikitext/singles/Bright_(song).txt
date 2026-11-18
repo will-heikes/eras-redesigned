@@ -1,0 +1,123 @@
+{{Infobox song
+| name       = Bright
+| cover      = Echosmith - Bright.png
+| alt        =
+| type       = single
+| artist     = [[Echosmith]]
+| album      = [[Talking Dreams]]
+| released   = 2 February 2015
+| recorded   = 2013
+| studio     =
+| venue      =
+| genre      = [[Folk-pop]]
+| length     = 3:42
+| label      = [[Warner Bros. Records|Warner Bros.]]
+| writer     = {{hlist|Sydney Sierota|Noah Sierota|Graham Sierota|Jamie Sierota|Jeffery David|[[MoZella|Maureen McDonald]]}}
+| producer   = [[Mike Elizondo]]
+| prev_title = [[Cool Kids (song)|Cool Kids]]
+| prev_year  = 2014
+| next_title = [[Let's Love (Echosmith song)|Let's Love]]
+| next_year  = 2015
+| misc       = {{External music video|{{YouTube|kMAzstG5O7E|"Bright"}}}}
+}}
+
+"'''Bright'''" is a song by American [[indie pop]] band [[Echosmith]]. It was released to American radio on February 2, 2015 by [[Warner Bros. Records]] as the second single from their debut studio album, ''[[Talking Dreams]]'' (2013). The song became the group's second top 40 hit on the [[Billboard Hot 100|''Billboard'' Hot 100]] and their second top-ten hit on the [[Adult Top 40]] chart.
+
+==Composition==
+
+"Bright" is written in the key of G♭ Major, and follows a chord progression of Gb-E♭m-Cb-Db (I-vi-IV-V). The tempo of the song is 90 beats per minute.
+
+==Music video==
+A music video to accompany the release of "Bright" was first released onto YouTube on February 12, 2015 at a total length of three minutes and 37 seconds.<ref>{{Cite video|url = https://www.youtube.com/watch?v=kMAzstG5O7E|title = Echosmith - Bright [OFFICIAL MUSIC VIDEO]|last = |first = |date = Feb 12, 2015|language = English|type = Video|publisher = Echosmith}}</ref> Sydney, Jamie, Noah and Graham are shown packing up for a camping trip. They arrived to see their friends and hiked up to their campsite. The group is excited to see the night sky. Nearing the end, at nightfall, they hiked up to see a meteor shower. The video ends with the word "bright" being shown as a [[constellation]].
+
+==Track listing==
+{{tracklist
+| headline = Digital download
+| title1  = Bright
+| length1 = 3:41
+}}
+
+==Charts and certifications==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br/>position
+|-
+{{singlechart|Flanders Tip|17|artist=Echosmith|song=Bright|accessdate=August 25, 2015|rowheader=true}}
+|-
+{{singlechart|Wallonia Tip|24|artist=Echosmith|song=Bright|accessdate=August 25, 2015|rowheader=true}}
+|-
+{{singlechart|Canada|81|artist=Echosmith|accessdate=October 7, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardcanadaac|39|artist=Echosmith|accessdate=June 25, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardcanadahotac|38|artist=Echosmith|accessdate=May 20, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardhot100|40|artist=Echosmith|accessdate=June 11, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardadultcontemporary|16|artist=Echosmith|accessdate=July 21, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardadultpopsongs|9|artist=Echosmith|accessdate=July 2, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardpopsongs|16|artist=Echosmith|accessdate=May 14, 2015|rowheader=true|refname="Pop"}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| US Adult Contemporary (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/adult-contemporary-songs|title=Adult Contemporary Songs – Year-End 2015|magazine=Billboard|accessdate=September 15, 2019}}</ref>
+| 41
+|-
+! scope="row"| US Adult Top 40 (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/adult-pop-songs|title=Adult Pop Songs – Year-End 2015|magazine=Billboard|accessdate=September 15, 2019}}</ref>
+| 31
+|}
+
+===Certifications===
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|award=Platinum|title=Bright|type=single|digital=true|artist=Echosmith|certyear=2016}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+{{col-end}}
+
+==Release history==
+{|class=wikitable
+! Region
+! Date
+! Format
+! Label
+|-
+| rowspan="3"| United States<ref>{{cite news|last1=Cantor|first1=Brian|title=Rihanna's "FourFiveSeconds," Echosmith's "Bright" are Hot AC's Most-Added|url=http://headlineplanet.com/home/2015/02/02/rihannas-fourfiveseconds-echosmiths-bright-hot-acs-added/|accessdate=15 May 2015|work=Headline Planet|publisher=Cantortainment|date=2 February 2015}}</ref><ref>{{cite web |title=Future Releases on Triple A (AAA) Radio Stations |url=http://www.allaccess.com/triple-a/future-releases |publisher=All Access Media Group |accessdate=15 May 2015 |archiveurl=https://web.archive.org/web/20150121121321/http://www.allaccess.com/triple-a/future-releases |archivedate=21 January 2015 |url-status=dead }}</ref><ref>{{cite web |title=Top 40/M Future Releases |url=http://www.allaccess.com/top40-mainstream/future-releases |publisher=All Access Media Group |accessdate=15 May 2015 |archiveurl=https://web.archive.org/web/20150121120934/http://www.allaccess.com/top40-mainstream/future-releases |archivedate=21 January 2015 |url-status=dead }}</ref>
+| rowspan="2"| February 2, 2015
+| [[Hot adult contemporary]]
+| rowspan="3"| [[Warner Bros. Records|Warner Bros.]]
+|-
+| [[Adult album alternative]]
+|-
+| February 3, 2015
+| [[Contemporary hit radio]]
+|-
+|}
+
+==References==
+{{reflist|30em}}
+
+{{Echosmith}}
+
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:2015 singles]]
+[[Category:Echosmith songs]]
+[[Category:Songs written by Mozella]]
+[[Category:Warner Records singles]]
+[[Category:Songs written by Jamie Sierota]]
+
+
+{{2010s-pop-song-stub}}

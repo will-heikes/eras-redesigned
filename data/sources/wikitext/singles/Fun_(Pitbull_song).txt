@@ -1,0 +1,193 @@
+{{Infobox song
+| name       = Fun
+| cover      = Pitbull_feat._chris_brown-Fun.jpg
+| alt        =
+| type       = single
+| artist     = [[Pitbull (rapper)|Pitbull]] featuring [[Chris Brown]]
+| album      = [[Globalization (album)|Globalization]]
+| released   = {{Start date|2015|04|21}}
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = 
+| length     = {{duration|m=3|s=22}}
+| label      = {{hlist|[[Mr. 305 Inc.|Mr. 305]]|[[Polo Grounds Music|Polo Grounds]]|[[RCA Records|RCA]]}}
+| writer     = {{hlist|[[Pitbull (rapper)|Armando C. Pérez]]|[[Jason Evigan]]|[[The Monsters and the Strangerz|Clarence Coffee, Jr.]]|[[The Monsters and the Strangerz|Marcus Lomax]]|[[The Monsters and the Strangerz|Jordan Johnson]]|[[The Monsters and the Strangerz|Stefan Johnson]]|[[The Monsters and the Strangerz|Alexander Izquierdo]]|[[Chris Brown|Christopher Brown]]|Al Burna}}
+| producer   = {{hlist|[[The Monsters and the Strangerz]]|Jason Evigan}}
+| chronology = [[Pitbull (rapper)|Pitbull]]
+| prev_title = [[Mr. Put It Down]]
+| prev_year  = 2015
+| next_title = [[Back It Up (Prince Royce song)|Back It Up]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = singles
+ | prev_title = Fool Wit It
+ | prev_year  = 2015
+ | title      = Fun
+ | year       = 2015
+ | next_title = [[Do It Again (Pia Mia song)|Do It Again]]
+ | next_year  = 2015
+}}
+}}
+
+"'''Fun'''" is a song by American rapper [[Pitbull (rapper)|Pitbull]], featuring American singer [[Chris Brown]]. The song was released on April 21, 2015 as the fourth single off of Pitbull's eighth studio album ''[[Globalization (album)|Globalization]]''.<ref>{{cite web|url=http://www.allaccess.com/top40-mainstream/future-releases|title=Top 40/M Future Releases - Mainstream Hit Songs Being Released and Their Release Dates ...|work=All Access}}</ref> The song peaked at number 40 on the [[Billboard Hot 100|''Billboard'' Hot 100]].
+
+==Music video==
+A colourful music video inspired with the influences from ''[[Miami Vice]]'' and ''[[Grand Theft Auto: Vice City|GTA Vice City]]'' was released on June 19, 2015. It features Pitbull and Brown.<ref name="4music">{{cite episode|title=This Week's Fresh Music Top 20|network=[[4Music]]|airdate=1 July 2015}}</ref> It was directed by [[Gil Green (director)|Gil Green]]. [[Nuestra Belleza Latina 2013]] winner [[Marisela de Montecristo]] made a cameo appearance in the video.
+
+''[[Penske Media Corporation|HollywoodLife]]'''s Christopher Rogers called the video "amazing" and "masterpiece", and also added that it has everything the audience would want in a music video released in the summer.<ref>{{cite web|url=http://hollywoodlife.com/2015/06/19/chris-brown-pitbull-fun-video-miami-vice-watch/|title=Chris Brown & Pitbull Spoof 'Miami Vice' In New Music Video For 'Fun' — Watch|work=[[Penske Media Corporation|HollywoodLife]]|access-date=July 6, 2015|archive-date=July 7, 2015|archive-url=https://web.archive.org/web/20150707082616/http://hollywoodlife.com/2015/06/19/chris-brown-pitbull-fun-video-miami-vice-watch/|url-status=dead}}</ref> Zach Frydenlund of ''[[Complex (magazine)|Complex]]'' gave a negative review, saying the video "doesn't actually look fun at all".<ref>{{cite web|url=http://www.complex.com/music/2015/06/pitbull-chris-brown-new-video-fun|title=Pitbull and Chris Brown's "Fun" Video Doesn't Actually Look Fun At All|work=[[Complex (magazine)|Complex]]|access-date=July 6, 2015}}</ref>
+
+== Live performances ==
+Pitbull and Chris Brown performed the song on the finale of the singing competition series ''[[American Idol]]'' on May 13, 2015. That season's ''American Idol'' eighth-place finisher [[Qaasim Middleton]] also joined them on the stage for the final verse.
+
+On May 17, Pitbull and Brown performed "Fun" at the [[2015 Billboard Music Awards|2015 ''Billboard'' Music Awards]].
+
+On May 20, Pitbull performed "Fun" and "[[Time of Our Lives (Pitbull and Ne-Yo song)|Time of Our Lives]]" on ''[[The Tonight Show Starring Jimmy Fallon]]''.
+
+==Chart performance==
+The single debuted at number 77 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart, on the week of May 30, 2015.<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2015-05-30|title=Hot 100 - 2015-05-30|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 1, 2020}}</ref> After climbing the chart for six more weeks, the single reached its peak at number 40 on the chart.<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2015-07-11|title=Hot 100 - 2015-07-11|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 1, 2020}}</ref>
+
+==Charts==
+{{col-begin|width=75%}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Weekly chart performance for "Fun"
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.noise11.com/news/aria-singles-meghan-trainor-and-john-legend-spend-4th-week-on-top-20150718|title=ARIA Singles: Meghan Trainor and John Legend Spend 4th Week On Top|publisher=Noise11|last=Ryan|first=Gavin|date=July 18, 2015|access-date=July 18, 2015}}</ref>
+| 59
+|-
+{{single chart|Austria|44|artist=Pitbull feat. Chris Brown|song=Fun|access-date=July 18, 2015|rowheader=true}}
+|-
+{{single chart|Flanders|50|artist=Pitbull feat. Chris Brown|song=Fun|access-date=August 14, 2015|rowheader=true}}
+|-
+{{single chart|Wallonia Tip|3|artist=Pitbull feat. Chris Brown|song=Fun|access-date=August 25, 2015|rowheader=true}}
+|-
+{{single chart|Canada|24|artist=Pitbull |rowheader=true|access-date=May 21, 2015}}
+|-
+{{single chart|Billboardcanadachrtop40|22|artist=Pitbull|rowheader=true|access-date=December 15, 2020}}
+|-
+{{single chart|France|57|artist=Pitbull feat. Chris Brown|song=Fun|access-date=July 18, 2015|rowheader=true}}
+|-
+{{single chart|Germany|36|artist=Pitbull feat. Chris Brown|song=Fun|songid=1359348|access-date=October 22, 2018|rowheader=true}}
+|-
+{{single chart|Hungarydance|36|year=2016|week=23|rowheader=true|access-date=June 18, 2016}}
+|-
+{{single chart|Hungaryradio|24|year=2015|week=35|rowheader=true|access-date=September 4, 2015}}
+|-
+{{single chart|Hungarysingle|14|year=2015|week=45|rowheader=true|access-date=November 13, 2015}}
+|-
+{{single chart|Hungarystream|23|year=2015|week=29|rowheader=true|access-date=October 16, 2026}}
+|-
+{{single chart|Ireland|59|year=2015|week=28|rowheader=true|access-date=July 10, 2015}}
+|-
+{{singlechart|ItalyFIMI|94|year=2015|week=28|rowheader=true|access-date=January 19, 2026}}
+|-
+{{single chart|Dutch40|9|artist=Pitbull|song=Fun|access-date=June 6, 2015|rowheader=true}}
+|-
+{{single chart|Dutch100|16|artist=Pitbull feat. Chris Brown|song=Fun|access-date=June 6, 2015|rowheader=true}}
+|-
+{{single chart|Scotland|68|access-date=July 18, 2015|date=2015-07-31|rowheader=true}}
+|-
+! scope="row"| Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=34|title=SloTop50 – Slovenian official singles chart|publisher=slotop50.si|access-date=15 May 2018|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327172434/https://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=34|url-status=dead}}</ref>
+| align=center|41
+|-
+{{single chart|Spain|78|artist=Pitbull feat. Chris Brown |song=Fun|access-date=July 3, 2015|rowheader=true}}
+|-
+! scope="row"| Sri Lanka<ref>{{cite web|url=http://yesfmonline.com/phat30/ |title=Phat 30 |access-date=December 1, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151208232612/http://yesfmonline.com/phat30/ |archive-date=December 8, 2015 }}</ref>
+|align=center| 25
+|-
+{{single chart|Switzerland|50|artist=Pitbull feat. Chris Brown|song=Fun|access-date=August 2, 2015|rowheader=true}}
+|-
+{{single chart|UK|68|artist=Pitbull|access-date=July 24, 2015|date=2015-07-24|rowheader=true}}
+|-
+{{single chart|UKrandb|14|artist=Pitbull|access-date=July 18, 2015|date=2015-07-23|rowheader=true}}
+|-
+{{single chart|Billboardhot100|40|artist=Pitbull|rowheader=true|access-date=July 2, 2015}}
+|-
+{{single chart|Billboardrapsongs|7|artist=Pitbull|rowheader=true|access-date=July 2, 2015}}
+|-
+!scope="row"{{single chart|Billboarddanceairplay|14|artist=Pitbull|access-date=December 16, 2023|song=|refname=}}
+|-
+{{single chart|Billboarddanceclubplay|30|artist=Pitbull|rowheader=true|access-date=August 4, 2015}}
+|-
+{{single chart|Billboardlatinpopsongs|33|artist=Pitbull|rowheader=true|access-date=July 9, 2015}}
+|-
+{{single chart|Billboardpopsongs|17|artist=Pitbull|rowheader=true|access-date=July 28, 2015}}
+|-
+{{single chart|Billboardrhythmic|15|artist=Pitbull|rowheader=true|access-date=July 14, 2015}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+Annual chart rankings for "Fun"
+!scope="col"| Chart (2015)
+!scope="col"| Position
+|-
+!scope="row"|Canada (Canadian Hot 100)<ref>{{cite magazine|title=Canadian Hot 100: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 86
+|-
+!scope="row"|Hungary (Single Top 40)<ref>{{cite web|url=http://slagerlistak.hu/archivum/eves-osszesitett-listak/single_db/2015|title=Single Top 100 - eladási darabszám alapján - 2015|access-date=November 3, 2019|publisher=[[Mahasz]]}}</ref>
+| 77
+|-
+!scope="row"|Netherlands (Dutch Top 40)<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2015|title=Top 100-Jaaroverzicht van 2015|publisher=Dutch Top 40|access-date=November 3, 2019}}</ref>
+| 52
+|-
+!scope="row"|Netherlands (Single Top 100)<ref>{{cite web|url=https://dutchcharts.nl/jaaroverzichten.asp?year=2015&cat=s|title=Jaaroverzichten – Single 2015|publisher=MegaCharts|language=nl|access-date=November 3, 2019}}</ref>
+| 80
+|-
+!scope="row"|US Rap Songs (''Billboard'')<ref>{{cite magazine|title=Rap Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-rap-songs|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 30
+|-
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}} 
+{{Certification Table Entry|region=Australia|type=single|award=Gold|artist=Pitbull|title=Fun|relyear=2015|certyear=2017}}
+{{Certification Table Entry|region=Mexico|type=single|award=Gold|artist=Pitbull|title=Fun|relyear=2015|certyear=2017}}
+{{Certification Table Entry|region=New Zealand|artist=Chris Brown|title=Fun|type=single|award=Gold|relyear=2015|access-date=July 17, 2025|certyear=2025|source=radioscope}}{{Certification Table Entry|region=United States|type=single|artist=Pitbull|title=Fun|award=Platinum|relyear=2015|certyear=2022|access-date=June 29, 2022}}
+{{Certification Table Bottom|nosales=true|streaming=true | noshipments=true}}
+
+== Release history ==
+
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+!scope="row"| Australia<ref>{{cite web | url=https://music.apple.com/au/album/fun-feat-chris-brown-remixes/1009437756 | title=Fun (Feat. Chris Brown) &#91;Remixes&#93; by Pitbull | website=[[iTunes]] | date=23 June 2015 }}</ref>
+| June 23, 2015
+| {{hlist|[[CD single|CD]]|[[Music download|digital download]]}}
+| {{hlist|[[Mr. 305 Inc.|Mr. 305]]|[[Polo Grounds Music|Polo Grounds]]|[[RCA Records|RCA]]}}
+|}
+
+== References ==
+{{Reflist}}
+
+{{Pitbull singles}}
+{{Chris Brown singles}}
+
+{{authority control}}
+
+[[Category:2014 songs]]
+[[Category:2015 singles]]
+[[Category:Pitbull (rapper) songs]]
+[[Category:Chris Brown songs]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Songs written by Jason Evigan]]
+[[Category:Songs written by Pitbull (rapper)]]
+[[Category:Songs written by Clarence Coffee Jr.]]
+[[Category:Song recordings produced by the Monsters & Strangerz]]
+[[Category:Songs written by Jordan Johnson (songwriter)]]
+[[Category:Songs written by Eskeerdo]]
+[[Category:Songs written by Marcus Lomax]]
+[[Category:Songs written by Stefan Johnson]]
+[[Category:Song recordings produced by Jason Evigan]]

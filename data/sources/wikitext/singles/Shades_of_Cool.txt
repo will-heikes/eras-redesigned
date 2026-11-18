@@ -1,0 +1,166 @@
+{{Good article}}
+{{Use mdy dates|date=August 2026}}
+{{Infobox song
+| name       = Shades of Cool
+| cover      = Lana Del Rey - Shades of Cool.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Lana Del Rey]]
+| album      = [[Ultraviolence (album)|Ultraviolence]]
+| released   = {{Start date|2014|05|26}}
+| recorded   = 
+| studio     = Easy Eye Sound ([[Nashville]])
+| venue      =
+| genre      = 
+*[[Blues rock]] 
+*[[psychedelic rock]]
+| length     = {{duration|m=5|s=42}}
+| label      = [[Interscope Records|Interscope]]
+| writer     =
+* Lana Del Rey
+* [[Rick Nowels]]
+| producer   = [[Dan Auerbach]]
+| prev_title = [[West Coast (Lana Del Rey song)|West Coast]]
+| prev_year  = 2014
+| next_title = [[Ultraviolence (song)|Ultraviolence]]
+| next_year  = 2014
+| misc       = {{External music video|{{YouTube|rJABBmAMXnY|"Shades of Cool"}}}}
+}}
+
+"'''Shades of Cool'''" is a song by American singer-songwriter [[Lana Del Rey]] from her third studio album, ''[[Ultraviolence (album)|Ultraviolence]]'' (2014). She and [[Rick Nowels]] wrote the track, which was produced by [[Dan Auerbach]]. It was released on May 26, 2014, by [[Interscope Records]] as the second single from ''Ultraviolence''. Lyrically, the single talks about an "unfixable" man.
+
+"Shades of Cool" received general acclaim from [[music journalism|music critics]], who praised its musical style. Commercially, the single peaked at number 79 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and entered the top 40 of a few [[record chart]]s in Europe. A music video for "Shades of Cool" was directed by [[Jake Nava]] and was described as a [[film noir]] visual.
+
+==Composition==
+{{Listen
+|filename=Lana Del Rey - Shades of Cool sample.ogg
+|title="Shades of Cool"
+|description=A 30-second sample of "Shades of Cool", which is a song instrumented by guitar
+|format=Ogg
+|pos=left}}
+"Shades of Cool" was written by Del Rey and [[Rick Nowels]], and produced by [[Dan Auerbach]].<ref name="AlbumNotes"/> Composed in the key of [[D minor]], the song runs at a moderate slow [[tempo]] of 46 beats per minute.<ref name="Sheet">{{cite web|url=http://www.musicnotes.com/sheetmusic/mtdFPE.asp?ppn=MN0135916|title=Lana Del Rey 'Shades Of Cool' Sheet Music|date=3 June 2014 |publisher=Musicnotes.com. [[EMI Music Publishing]]|access-date=December 17, 2014}}</ref> It was described as a [[waltz]] [[musical instrument|instrumented]] by "slow-burn" [[bassline]], guitar, and [[string instruments]]; the track features a guitar solo delivered by Auerbach.<ref name="DailyCal">{{cite web|url=http://www.dailycal.org/2014/06/23/new-shade-cool-lana-del-rey-album/|work=[[The Daily Californian]]|date=June 23, 2014|title=A new shade of cool on Lana Del Rey album|first=Caitlin|last=Kelley|access-date=December 17, 2014}}</ref><ref name="RS">{{cite magazine|url=https://www.rollingstone.com/music/albumreviews/ultraviolence-20140620|title=Ultraviolence|magazine=[[Rolling Stone]]|first=Caryn|last=Ganz|date=June 20, 2014|access-date=December 7, 2014}}</ref><ref name=slate1>{{cite web|title=Lana Del Rey's New Song Is a Beautiful, Brooding Return to Form|url=http://www.slate.com/blogs/browbeat/2014/05/26/lana_del_rey_shares_shades_of_cool_the_singer_s_latest_track_from_ultraviolence.html|first=Sharan|last=Shetty|work=[[Slate (magazine)|Slate]]|date=May 26, 2014|access-date=May 26, 2014}}</ref>  Del Rey's vocals span from [[A (musical note)|A<sub>3</sub>]] to [[B (musical note)|B<sub>5</sub>]].<ref name="Sheet"/> Her "operatic" [[soprano]] vocals blending with "trademark wailing [[vibrato]]" create a ghostly atmosphere on "Shades of Cool".<ref name="DailyCal"/><ref name="RS"/> Chris Coplan from [[Consequence (publication)|''Consequence of Sound'']] described the song as "a slow and slightly gloomy ballad."<ref name=cos1>{{cite web|title=Listen: Lana Del Rey's new song 'Shades of Cool'|url=https://consequence.net/2014/05/listen-lana-del-reys-new-song-shade-of-cool/|publisher=[[Consequence of Sound]]|access-date=May 26, 2014|date=May 26, 2014}}</ref> Meanwhile, "Shades of Cool" was characterized as a "seeping, atmospheric" ballad that contrasts the more "pop-savvy swaggering '[[West Coast (Lana Del Rey song)|West Coast]]'" by ''[[Billboard (magazine)|Billboard]]''{{'}}s Colin Stutz.<ref name=billboard1>{{cite magazine|title=Lana Del Rey Debuts New Song 'Shades of Cool': Listen|url=https://www.billboard.com/music/pop/lana-del-rey-new-song-shades-of-cool-listen-ultraviolence-6099293/|magazine=[[Billboard (magazine)|Billboard]]|first=Colin|last=Stutz|date=May 26, 2014|access-date=May 26, 2014}}</ref> On the single, Del Rey sings about an "unfixable" man: "But you are unfixable / I can’t break through your world / ‘Cause you live in shades of cool / Your heart is unbreakable."
+
+== Reception ==
+"Shades of Cool" received positive reviews from music critics. Coplan of Consequence of Sound complimented the song for its "grace and sophistication".<ref name="cos1" /> Saran Shetty of ''[[Slate (magazine)|Slate]]'' called "Shades of Cool" "a beautiful, brooding return to form [for Del Rey]", and opined that the single would "fit perfectly" in a ''[[James Bond]]'' theme track.<ref name="slate1" /> Likewise, ''[[Rolling Stone]]''{{'}}s Calyn Ganz wrote that the track "would be perfect for a ''James Bond'' film directed by [[Quentin Tarantino]]."<ref name="RS"/> Lathan Ryan from ''[[PopMatters]]'' positively compared Del Rey's vocals on "Shades of Cool" to those of [[Cocteau Twins]] vocalist [[Elizabeth Fraser]], observing that "Del Rey has never sounded better".<ref>{{cite web|last1=Lathan|first1=Ryan|title=Lana Del Rey: Ultraviolence|url=http://www.popmatters.com/review/182811-lana-del-rey-ultraviolence/|publisher=[[PopMatters]]|access-date=July 15, 2014|date=June 16, 2014}}</ref>
+
+The single peaked at number 79 on the US [[Billboard Hot 100|''Billboard'' Hot 100]].<ref name="hot100"/> It managed to enter the top 40 of a few [[record chart]]s: Belgian Wallonia (number 40),<ref name="wall"/> France (number 37),<ref name="france"/> Hungary (number 19),<ref name="hungary"/> and Spain (number 31).<ref name="spain"/> The single peaked at number three on the Greece Digital Songs, a chart operated by ''Billboard'' magazine.<ref name="greece"/>
+
+==Music video==
+The music video for "Shades of Cool" was directed by [[Jake Nava]] and was released on June 17, 2014.<ref name="YahooMusic">{{cite web|url=https://www.yahoo.com/music/bp/lana-del-rey-releases-new-film-noir-music-video-for--shades-of-cool-222517920.html|title=Lana Del Rey Releases New Film Noir Music Video for 'Shades of Cool'|publisher=[[Yahoo! Music]]|first=Jeremy|last=Blacklow|date=June 18, 2014|access-date=December 7, 2014}}</ref> The video features tattoo artist [[Mark Mahoney]], who also appeared in the music video for "West Coast", as Del Rey's love interest.<ref name="BBVideo">{{cite magazine|url=https://www.billboard.com/music/music-news/lana-del-rey-shades-of-cool-music-video-ultraviolence-6121609/|title=Lana Del Rey's 'Shades Of Cool' Video|magazine=Billboard|first=Jason|last=Lipshutz|date=June 18, 2014|access-date=December 7, 2014}}</ref> Filmed in Los Angeles, California, the clip is a "romantic" visual depicting the streets of Los Angeles at night, a 1970s-themed neighborhood, and a pool.<ref name="YahooMusic"/><ref>{{cite web|url=https://www.spin.com/2014/06/lana-del-rey-shades-of-cool-video-ultraviolence/|title=Watch Lana Del Rey's Bewitching, Surreal 'Shades of Cool' Video|first=Chris|last=Martins|work=[[Spin (magazine)|Spin]]|date=June 17, 2014|access-date=December 7, 2014}}</ref> In the video, Del Rey dances for her love interest in "flowing" dresses.<ref name="YahooMusic"/> An alternative version of the visual for "Shades of Cool", which was also directed by Nava, was released in July 2014. This version, in which Del Rey is seen drowned in a pool, was described as "darker" than the original video.<ref>{{cite web|url=http://www.mtv.com/news/1858928/lana-del-rey-dies-shades-of-cool-video/|archive-url=https://web.archive.org/web/20140706161926/http://www.mtv.com/news/1858928/lana-del-rey-dies-shades-of-cool-video/|url-status=dead|archive-date=July 6, 2014|title=Lana Del Rey Dies In The New Version Of The 'Shades Of Cool' Video|first=Brenna|last=Erlich|publisher=MTV News|date=July 1, 2014|access-date=December 7, 2014}}</ref>
+
+==Track listing==
+;Digital download<ref name="AmazonUS"/>
+#"Shades of Cool" – 5:42
+
+==Credits and personnel==
+Credits adapted from the liner notes of ''Ultraviolence''.<ref name="AlbumNotes">{{Cite AV media notes|title=[[Ultraviolence (album)|Ultraviolence]]|year=2014|type=booklet| others= [[Lana Del Rey]]| publisher=[[Polydor Records]], [[Interscope Records]]|location=London, England; [[Santa Monica]], California}}</ref>
+
+;Performance credits
+*[[Lana Del Rey]] – vocals
+
+;Instruments
+{{Div col}}
+*[[Dan Auerbach]] – electric guitar
+*Collin Dupuis – [[Drum machine|drum programming]]
+*Seth Kaufman – [[omnichord]]
+*Leon Michels – [[mellotron]]
+*[[Nick Movshon]] – bass guitar
+*Russ Pahl – electric guitar
+*Kenny Vaughan – electric guitar
+*Maximilian Weissenfeldt – drums
+{{Div col end}}
+
+;Technical and production
+{{Div col}}
+*Dan Auerbach – production
+*John Davis – [[Mastering engineer|mastering]]
+*Collin Dupuis – engineering
+*[[Robert Orton (audio engineer)|Robert Orton]] – mixing
+{{Div col end}}
+
+== Charts ==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Australia|50|artist=Lana Del Rey|song=Shades of Cool|rowheader=true|access-date=June 8, 2014|refname=aus}}
+|-
+{{single chart|Wallonia|40|artist=Lana Del Rey|song=Shades of Cool|rowheader=true|access-date=June 5, 2014|refname=wall}}
+|-
+{{single chart|Canada|52|artist=Lana Del Rey|rowheader=true|access-date=June 5, 2014|refname=can}}
+|-
+{{single chart|Czechdigital|79|year=2014|week=26|rowheader=true|access-date=July 3, 2014|refname=czech}}
+|-
+! scope="row"| Greece Digital Songs (''[[Billboard Greece|Billboard]]'')<ref name="greece">{{cite magazine|title=June 14, 2014 – Greece Digital Songs|url= http://www.billboard.com/biz/charts/2014-06-14/greece|magazine=Billboard|access-date=June 6, 2014}} {{subscription required}}</ref>
+| 3
+|-
+{{single chart|France|37|artist=Lana Del Rey|song=Shades of Cool|rowheader=true|access-date=June 8, 2014|refname=france}}
+|-
+{{single chart|Hungarysingle|19|year=2014|week=22|rowheader=true|access-date=June 5, 2014|refname=hungary}}
+|-
+! scope="row"| Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref name="ita">{{cite web|title=Top Digital – WK 22 (dal 2014-05-26 al 2014-06-01)|url= http://www.fimi.it/classifiche#{%22id%22:1822,%22s%22:%223%22}|publisher=[[Federazione Industria Musicale Italiana]]|language=Italian|access-date=April 4, 2015}}</ref>
+| 35
+|-
+{{single chart|Spain|31|artist=Lana Del Rey|song=Shades of Cool|rowheader=true|access-date=June 9, 2014|refname=spain}}
+|-
+{{single chart|Switzerland|43|artist=Lana Del Rey|song=Shades of Cool|rowheader=true|access-date=June 15, 2014|refname=swiss}}
+|-
+{{single chart|Billboardhot100|79|artist=Lana Del Rey|rowheader=true|access-date=June 5, 2014|refname=hot100}}
+|}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "Shades of Cool"}}
+{{Certification Table Entry|type=single|region=Australia|artist=Lana Del Rey|title=Shades of Cool|award=Gold|certyear=2024|certmonth=3|access-date= April 21, 2024}}
+{{Certification Table Entry|region=Brazil|title=Shades of Cool|artist=Lana Del Rey|award=Platinum|type=single|certyear=2024|relyear=2014|access-date=9 February 2024}}
+{{Certification Table Entry|type=single|region=United Kingdom|artist=Lana Del Rey|title=Shades Of Cool|award=Silver|certyear=2026|relyear=2014|access-date=October 16, 2026}}
+{{Certification Table Entry|type=single|region=United States|artist=Lana Del Rey|title=Shades Of Cool|award=Gold|certyear=2021|relyear=2014|access-date=November 24, 2021}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row"| Belgium<ref>{{cite web|url=http://fr-be.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=[[7digital]] Belgium|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20160223153317/https://fr-be.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|archive-date=February 23, 2016}}</ref>
+| rowspan="7"| May 26, 2014
+| rowspan="7"| Digital download
+| rowspan="6"| [[Universal Music Group]]
+|-
+! scope="row"| France<ref>{{cite web|url=http://fr.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=7digital France|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20160223172118/https://fr.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|archive-date=February 23, 2016}}</ref>
+|-
+! scope="row"| Luxembourg<ref>{{cite web|url=http://lu.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=7digital Luxembourg|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20141123140647/http://lu.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|archive-date=November 23, 2014}}</ref>
+|-
+! scope="row"| Portugal<ref>{{cite web|url=http://pt.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=7digital Portugal|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20141218181251/https://pt.7digital.com/artist/lana-del-rey/release/shades-of-cool-1/|archive-date=December 18, 2014}}</ref>
+|-
+! scope="row"| Spain<ref>{{cite web|url=http://es.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=7digital Spain|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20150811131340/https://es.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|archive-date=August 11, 2015}}</ref>
+|-
+! scope="row"| Switzerland<ref>{{cite web|url=http://de-ch.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|title=Shades Of Cool (2014) {{!}} Lana Del Rey|publisher=7digital Switzerland|access-date=December 9, 2014|url-status=dead|archive-url=https://web.archive.org/web/20160223184125/https://de-ch.7digital.com/artist/lana-del-rey/release/shades-of-cool-1|archive-date=February 23, 2016}}</ref>
+|-
+! scope="row"| United States<ref name="AmazonUS">{{cite web|title=Amazon.com: Shades Of Cool: Lana Del Rey|url=https://www.amazon.com/gp/product/B00KHDLDBA|archive-url=https://web.archive.org/web/20140528025210/http://www.amazon.com/Shades-Cool-Lana-Del-Rey/dp/B00KHDLDBA|publisher=Amazon.com|archive-date=May 28, 2014 }}</ref>
+| [[Interscope Records]]
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://www.allmusic.com/song/shades-of-cool-mt0049548401/lyrics "Shades of Cool" lyrics] at [[AllMusic]]
+
+{{Lana Del Rey songs}}
+{{Authority control}}
+
+[[Category:2010s ballads]]
+[[Category:2014 singles]]
+[[Category:2014 songs]]
+[[Category:Interscope Records singles]]
+[[Category:Lana Del Rey songs]]
+[[Category:Music videos directed by Jake Nava]]
+[[Category:Rock ballads]]
+[[Category:Song recordings produced by Dan Auerbach]]
+[[Category:Songs written by Lana Del Rey]]
+[[Category:Songs written by Rick Nowels]]

@@ -72,3 +72,23 @@ export function competitionOn(dateIso, hot100, options = {}) {
     number_ones_ahead: numberOnes,
   };
 }
+
+// Singles by other artists released within `before` weeks before and `after`
+// weeks after a date, with their eventual Hot 100 peak. Strongest first.
+// peers is the parsed data/charts/peer_singles.json.
+export function peerReleasesAround(dateIso, peers, { before = 8, after = 8, exclude = "" } = {}) {
+  const t0 = toTime(dateIso);
+  return (peers?.singles || [])
+    .filter((s) => s.release_date && (!exclude || !s.artist.includes(exclude)))
+    .map((s) => ({ ...s, weeks_from_release: Math.round((toTime(s.release_date) - t0) / (7 * DAY)) }))
+    .filter((s) => s.weeks_from_release >= -before && s.weeks_from_release <= after)
+    .sort((a, b) => a.hot100_peak - b.hot100_peak || a.release_date.localeCompare(b.release_date));
+}
+
+// Strength tier from an eventual Hot 100 peak.
+export function strength(peak) {
+  if (peak == null) return "unknown";
+  if (peak <= 10) return "high";
+  if (peak <= 40) return "medium";
+  return "low";
+}

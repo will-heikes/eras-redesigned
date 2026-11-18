@@ -1,0 +1,230 @@
+{{for|other songs|TKO (disambiguation)#Music}}
+{{good article}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2025}}
+{{Infobox song
+| name       = TKO
+| cover      = JT TKO.png
+| alt        = 
+| border     = yes
+| type       = single
+| artist     = [[Justin Timberlake]]
+| album      = [[The 20/20 Experience – 2 of 2]]
+| A-side     = "[[Not a Bad Thing]]"
+| released   = {{Start date|2013|09|20}}
+| recorded   = May–July 2012
+| studio     = [[Larrabee Sound Studios|Larrabee]] ([[North Hollywood]])
+| genre      = * [[Pop music|Pop]]<ref name="Cinquemani-2013" />
+* [[Contemporary R&B|R&B]]<ref>{{cite news |last=O'Brien |first=Jon |date=September 23, 2013 |title=Weekly Singles Review: Justin Timberlake, Haim & Jonas Brothers |url=http://uk.omg.yahoo.com/news/weekly-singles-review-justin-timberlake-haim-jonas-brothers-114400616.html |url-status=live |archive-url=https://web.archive.org/web/20140102192928/http://uk.omg.yahoo.com/news/weekly-singles-review-justin-timberlake-haim-jonas-brothers-114400616.html |archive-date=January 2, 2014 |access-date=January 1, 2014 |newspaper=Yahoo! UK & Ireland}}</ref>
+| length     = {{Duration|m=7|s=4}} (album version) <br /> {{Duration|m=4|s=49}} (radio edit 1) <br /> {{Duration|m=4|s=32}} (radio edit 2)
+| label      = [[RCA Records|RCA]]
+| writer     = * Justin Timberlake
+* [[Timothy Mosley]]
+* [[Jerome "J-Roc" Harmon]]
+* [[James Fauntleroy]]
+* [[Barry White]]
+| producer   = * [[Timbaland]]
+* Justin Timberlake
+* Jerome "J-Roc" Harmon
+| prev_title = [[Take Back the Night (song)|Take Back the Night]]
+| prev_year  = 2013
+| next_title = [[Not a Bad Thing]]
+| next_year  = 2014
+}}
+
+"'''TKO'''" is a song by American singer [[Justin Timberlake]] from his fourth studio album, ''[[The 20/20 Experience – 2 of 2]]'' (2013). It was written and produced by Timberlake, [[Timothy "Timbaland" Mosley]] and [[Jerome "J-Roc" Harmon]], with additional writing from [[James Fauntleroy]] and a sample of [[Barry White]]'s "Somebody's Gonna Off the Man". A remix by rappers [[J. Cole]], [[ASAP Rocky]], and [[Pusha T]], subtitled the "Black Friday Remix", was also released. Lyrically, it uses boxing metaphors to describe the feeling of seeing a former lover with someone else.
+
+[[RCA Records]] released "TKO" on September 20, 2013, as the second single from ''The 20/20 Experience – 2 of 2''. It received mixed reviews from music critics and entered the top 40 on the US [[Billboard Hot 100|''Billboard'' Hot 100]], where it reached number thirty-six. The song was eventually certified platinum by [[Pro-Música Brasil]] (PMB) and gold by [[Music Canada]] and [[Grammofonleverantörernas förening]] (GLF). The accompanying music video, directed by Ryan Reichenfeld, was released on October 29, 2013, and stars [[Elvis Presley]]'s granddaughter [[Riley Keough]] as Timberlake's love interest.
+
+==Background and composition==
+On March 16, 2013, a day after ''[[The 20/20 Experience]]'' released, record producer and drummer for [[The Roots]], [[Questlove]] announced that Timberlake was planning to release a follow-up record to ''The 20/20 Experience'' in November. He referenced the album's 10-song track listing and title by saying, "10 songs now...10 songs later = 20 vision."<ref>{{cite magazine |last=Payne |first=Chris |date=March 17, 2013 |title=Questlove: Justin Timberlake's '20/20 Experience,' Volume 2 Due In November |url=http://www.billboard.com/articles/news/1552440/questlove-justin-timberlakes-2020-experience-volume-2-due-in-november |url-status=live |archive-url=https://web.archive.org/web/20130528104719/http://www.billboard.com/articles/news/1552440/questlove-justin-timberlakes-2020-experience-volume-2-due-in-november |archive-date=May 28, 2013 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Affirming Questlove's comments, album co-producer [[J-Roc]] revealed that the follow-up will consist of outtakes from the original album, as well as new material from upcoming studio sessions.<ref>{{cite magazine |last=Lipshutz |first=Jason |date=April 17, 2013 |title=Justin Timberlake's November Album To Feature Material From '20/20' Sessions |url=https://www.billboard.com/music/music-news/justin-timberlakes-november-album-to-feature-material-from-2020-1558428/ |url-status=live |archive-url=https://web.archive.org/web/20220105113030/https://www.billboard.com/music/music-news/justin-timberlakes-november-album-to-feature-material-from-2020-1558428/ |archive-date=January 5, 2022 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Timberlake announced on May 5 that his fourth album, ''The 20/20 Experience – 2 of 2'', would be released in September.<ref>{{cite magazine |last=Letkemann |first=Jessica |date=May 5, 2013 |title=Justin Timberlake Tweets '20/20 Experience' Part 2 Due September 30 |url=http://www.billboard.com/articles/news/1560683/justin-timberlake-tweets-2020-experience-part-2-due-september-30 |url-status=live |archive-url=https://web.archive.org/web/20130604031118/http://www.billboard.com/articles/news/1560683/justin-timberlake-tweets-2020-experience-part-2-due-september-30 |archive-date=June 4, 2013 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+"TKO" was written by Timberlake, [[Timothy "Timbaland" Mosley]], [[Jerome "J-Roc" Harmon]], and [[James Fauntleroy]], and was produced by Timbaland, Timberlake, and Harmon.<ref name="Anon.-2013" /> It features heavy drums and "scratchy" studio effects, which, according to a staff writer for ''[[Consequence (publication)|Consequence]]'', are reminiscent of a "slightly more refined ''[[Justified (album)|Justified]]''."<ref>{{cite web |author=Consequence Staff |date=September 20, 2013 |title=Listen to new Justin Timberlake: "T K O" |url=https://consequence.net/2013/09/listen-to-new-justin-timberlake-t-k-o/ |access-date=September 23, 2013 |website=[[Consequence (publication)|Consequence]]}}</ref> Jocelyn Vena of [[MTV News]] described the production as having "signature bleepy production" and "dark undertones".<ref>{{cite news |last=Vena |first=Jocelyn |date=September 20, 2013 |title=Justin Timberlake Knocks Fans Out With New Track, 'T.K.O.' |url=http://www.mtv.com/news/articles/1714355/justin-timberlake-tko-new-single.jhtml |url-status=dead |archive-url=https://web.archive.org/web/20130923171255/http://www.mtv.com/news/articles/1714355/justin-timberlake-tko-new-single.jhtml |archive-date=September 23, 2013 |access-date=January 1, 2014 |publisher=[[MTV News]]}}</ref> Lyrically, "TKO" leans heavily on boxing metaphors, with the title "TKO", short for [[technical knockout]], to describe the feeling of seeing a former lover with someone else.<ref>{{cite web |last=Sciarretto |first=Amy |date=September 24, 2013 |title=Justin Timberlake, 'TKO' – Song Meaning |url=https://popcrush.com/justin-timberlake-tko-song-meaning/ |access-date=December 24, 2025 |publisher=[[PopCrush]]}}</ref> The theme continues with lines like "I'm out for the count, yeah girl you knock me out."<ref name="Billboard Staff-2013" />
+
+==Release and promotion==
+According to [[RCA Records]], the label perceived much more hit potential in "[[Not a Bad Thing]]" (2014); however, they decided to release "[[Take Back the Night (song)|Take Back the Night]]" (2013) and "TKO" as pre-album singles, as they felt it best represented the album's R&B side. Released a year after the just-as-pop-heavy "[[Mirrors (Justin Timberlake song)|Mirrors]]" (2013), "Not A Bad Thing" became a top-ten hit.<ref>{{cite web|last=Trust|first=Gary|date=April 23, 2014|url=https://www.billboard.com/music/music-news/pharrell-williams-still-atop-hot-100-justin-timberlake-chris-6062908/|title=Pharrell Williams Still Atop Hot 100; Justin Timberlake, Chris Brown Reach Top 10|work=[[Billboard (magazine)|Billboard]]|access-date=July 10, 2026}}</ref>
+
+After releasing "Take Back the Night" as the first single from ''The 20/20 Experience – 2 of 2'', Timberlake faced controversy for its title, due to the similarities between the song's title and the [[Take Back the Night (organization)|anti-rape organization of the same name]].<ref>{{cite news |last=Nostro |first=Lauren |date=July 16, 2013 |title=Justin Timberlake Addresses Controversy Surrounding "Take Back the Night" Single |url=http://www.complex.com/music/2013/07/timberlake-controversy-take-back-the-night |access-date=July 17, 2013 |work=[[Complex (magazine)|Complex]] |publisher=Complex Media}}</ref> After that, on September 19, 2013, the singer teased his fans with an [[Instagram]] post, saying, "Should I release a new single today???."<ref>{{cite web |last=Timberlake |first=Justin |author-link=Justin Timberlake |date=September 19, 2013 |title=Justin Timberlake on Instagram |url=http://instagram.com/p/ecrhscydm8/ |url-access=registration |archive-url=https://ghostarchive.org/iarchive/s/instagram/ecrhscydm8 |archive-date=December 24, 2021 |access-date=January 1, 2014 |publisher=[[Instagram]]}}{{cbignore}}</ref> Later, he posted another photo, saying, "Get Ready...", attached to a photo of him in the studio recording a song.<ref>{{cite web |last=Timberlake |first=Justin |author-link=Justin Timberlake |date=September 19, 2013 |title=Justin Timberlake on Instagram |url=http://instagram.com/p/ecy1ZNydhl/ |url-access=registration |archive-url=https://ghostarchive.org/iarchive/s/instagram/ecy1ZNydhl |archive-date=December 24, 2021 |access-date=January 1, 2014 |publisher=[[Instagram]]}}{{cbignore}}</ref> Five hours later, Timberlake posted a tease of the track with a 15-second snippet.<ref>{{cite magazine |last=Martins |first=Chris |date=September 19, 2013 |title=Justin Timberlake Shares 'TKO' Snippet on Instagram |url=https://www.spin.com/2013/09/justin-timberlake-tko-instagram-video-preview-2020-experience/ |magazine=[[Spin (magazine)|Spin]] |access-date=December 23, 2025 |archive-url=https://web.archive.org/web/20160307163727/https://www.spin.com/2013/09/justin-timberlake-tko-instagram-video-preview-2020-experience/ |archive-date=March 7, 2016 |url-status=live}}</ref> To finish the teasing, the singer posted the single's cover art, saying, "You ready to hear it in full???," also revealing its title: "TKO".<ref>{{cite web |last=Timberlake |first=Justin |author-link=Justin Timberlake |date=September 19, 2013 |title=You ready to hear it in full??? #TKO #newsingle |url=http://instagram.com/p/edqIa_Sdo9/ |url-access=registration |archive-url=https://ghostarchive.org/iarchive/s/instagram/edqIa_Sdo9 |archive-date=December 24, 2021 |access-date=January 1, 2014 |publisher=[[Instagram]]}}{{cbignore}}</ref> On September 20, 2013, the single was released.<ref name="Billboard Staff-2013">{{cite magazine |author=Billboard Staff |date=September 20, 2013 |title=Justin Timberlake Hits Fans With 'TKO': Listen |url=https://www.billboard.com/music/music-news/justin-timberlake-hits-fans-with-tko-listen-5719243/ |url-status=live |archive-url=https://web.archive.org/web/20220426133230/https://www.billboard.com/music/music-news/justin-timberlake-hits-fans-with-tko-listen-5719243/ |archive-date=April 26, 2022 |access-date=January 1, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+A remix of "TKO", subtitled the "Black Friday Remix", premiered on November 29, 2013. It features new rap verses from [[J. Cole]], [[ASAP Rocky]] and [[Pusha T]].<ref>{{cite news |last=Ortiz |first=Edwin |date=November 29, 2013 |title=Premiere: Justin Timberlake f/ J. Cole, A$AP Rocky, & Pusha T "TKO (Black Friday Remix)" |url=http://www.complex.com/music/2013/11/justin-timberlake-f-j-cole-asap-rocky-pusha-t-tko-black-friday-remix |url-status=live |archive-url=https://web.archive.org/web/20131214052951/http://www.complex.com/music/2013/11/justin-timberlake-f-j-cole-asap-rocky-pusha-t-tko-black-friday-remix |archive-date=December 14, 2013 |access-date=January 1, 2014 |newspaper=[[Complex Magazine]]}}</ref> Timberlake included "TKO" on the set list of his fifth worldwide tour entitled [[The 20/20 Experience World Tour]] (2013–2015).<ref>{{cite news |last=Farber |first=Jim |date=November 7, 2013 |title=Concert review: Justin Timberlake kicks off '20/20 Experience' tour with flirty gig at Barclays Center |url=http://nydailynews.com/entertainment/music-arts/timberlake-kicks-20-20-experience-tour-barclays-center-article-1.1509258 |url-status=dead |archive-url=https://web.archive.org/web/20160303183758/http://www.nydailynews.com/entertainment/music-arts/timberlake-kicks-20-20-experience-tour-barclays-center-article-1.1509258 |archive-date=March 3, 2016 |access-date=November 23, 2013 |newspaper=[[New York Daily News]]}}</ref>
+
+==Reception==
+Upon release, "TKO" garnered mixed reviews from critics. Supporters appreciated the presence of the "unique Timberlake charm" and Timbaland style of R&B production.<ref>{{cite magazine |last=Dixon |first=Josh |title=Single Review: Justin Timberlake – 'TKO' |url=https://renownedforsound.com/single-review-justin-timberlake-tko/ |access-date=December 18, 2025 |magazine=[[Renowned for Sound]]}}</ref><ref>{{cite news |last=Bakare |first=Lanre |date=September 26, 2013 |title=Justin Timberlake: The 20/20 Experience Part 2 – review |url=https://www.theguardian.com/music/2013/sep/26/justin-timberlake-the-20-20-experience-part-2 |access-date=July 10, 2026 |newspaper=[[The Guardian]]}}</ref> Underwhelmed and disappointed reviewers, such as [[Annie Zaleski]], criticized the monotony and a lack of evolution in Timbaland's production, and the usage of "tired" and "predictable" boxing cliches in the lyrics.<ref name="Cinquemani-2013">{{cite magazine |last=Cinquemani |first=Sal |date=September 20, 2013 |title=Single Review: Justin Timberlake, "TKO" |url=https://www.slantmagazine.com/music/single-review-justin-timberlake-tko/ |url-status=live |archive-url=https://web.archive.org/web/20140122053352/http://www.slantmagazine.com/house/2013/20/single-review-justin-timberlake-tko |archive-date=January 22, 2014 |access-date=September 23, 2013 |magazine=[[Slant Magazine]]}}</ref><ref>{{cite news |last=Zaleski |first=Annie |date=October 1, 2013 |title=Justin Timberlake: The 20/20 Experience—2 of 2 &#124; Music |url=https://www.avclub.com/justin-timberlake-the-20-20-experience-2-of-2-1798178140 |access-date=October 2, 2013 |newspaper=[[The A.V. Club]]}}</ref><ref>{{cite web |last=Jackson |first=Kyle |title="TKO" – Music Review |url=http://www.commonsensemedia.org/music-reviews/tko |url-status=dead|archive-url=https://web.archive.org/web/20131228101912/http://www.commonsensemedia.org/music-reviews/tko |archive-date=December 28, 2013 |access-date=December 28, 2013 |publisher=[[Common Sense Media]] |date=2013-10-04}}</ref> Tom Breihan of ''[[Stereogum]]'' was let down by the absence of Timberlake's "old-school loverman slickness" on ''[[The 20/20 Experience]]'', and that "the melody doesn't quite stick the way you'd hope a Timberlake melody would."<ref>{{cite web |last=Breihan |first=Tom |date=September 20, 2013 |title=Justin Timberlake – "TKO" |url=http://www.stereogum.com/1483951/justin-timberlake-tko/mp3s/ |url-status=live |archive-url=https://web.archive.org/web/20130923085306/http://www.stereogum.com/1483951/justin-timberlake-tko/mp3s |archive-date=September 23, 2013 |access-date=September 23, 2013 |website=[[Stereogum]]}}</ref> ''[[Pitchfork (website)|Pitchfork]]'' and ''[[Consequence of Sound]]'' cringed at Timbaland's "baby talk" in the intro, "She kill me with the coo coochie coochie coo".<ref>{{cite web |last=Dombal |first=Ryan |date=October 1, 2013 |title=Justin Timberlake: The 20/20 Experience 2 of 2 |url=http://pitchfork.com/reviews/albums/18548-justin-timberlake-the-2020-experience-2-of-2/ |url-status=live |archive-url=https://web.archive.org/web/20131001093427/http://pitchfork.com/reviews/albums/18548-justin-timberlake-the-2020-experience-2-of-2/ |archive-date=October 1, 2013 |access-date=April 3, 2022 |website=[[Pitchfork (website)|Pitchfork]]}}</ref><ref>{{cite web |last=Bosman |first=Chris |date=October 1, 2013 |title=Album Review: Justin Timberlake – ''The 20/20 Experience Pt. 2'' |url=http://consequenceofsound.net/2013/10/album-review-justin-timberlake-the-2020-experience-2-of-2/ |archive-url=https://web.archive.org/web/20131005040409/http://consequenceofsound.net/2013/10/album-review-justin-timberlake-the-2020-experience-2-of-2/ |archive-date=October 5, 2013 |access-date=July 10, 2026 |website=[[Consequence of Sound]]}}</ref>
+
+In North America, "TKO" peaked at number thirty-six on the US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref name="Billboardhot100" /> and number nine on the US [[Hot R&B/Hip-Hop Songs]] chart.<ref name="Billboardrandbhiphop" /> In terms of airplay, it peaked at number thirty-six on [[Adult Pop Airplay]],<ref name="Billboardadultpopsongs" /> number twelve on [[Pop Airplay]],<ref name="Billboardpopsongs" /> and number ten on [[Rhythmic Airplay]].<ref name="Billboardrhythmic" /> It peaked at number twenty-eight on the [[Canadian Hot 100]].<ref name="Canada" /> On its component airplay charts, it peaked at number ten on [[Canada CHR/Top 40]]<ref name="Billboardcanadachrtop40" /> and number thirty-four on [[Canada Hot AC]].<ref name="Billboardcanadahotac" /> It was certified platinum by [[Music Canada]].<ref name="MC" /> In South America, the song was certified platinum by [[Pro-Música Brasil]] (PMB).<ref name="PMB" />
+
+In Europe, "TKO" peaked at numbers five and thirteen on the bubbling under charts in the Flanders and Wallonia regions of Belgium,<ref name="Flanders Tip" /><ref name="Wallonia Tip" /> but peaked at number twenty-three on the former's urban chart.<ref name="Flanders Urban" /> It also peaked at number four in Bulgaria,<ref name="Bulgaria" /> number one hundred sixty-three in France,<ref name="France" /> number seventy-one in Germany,<ref name="Germany" /> number fifty-one on the [[Irish Singles Chart]],<ref name="Ireland" /> number thirteen in the Netherlands,<ref name="Netherlands" /> number sixty-eight in Switzerland,<ref name="Switzerland" /> number fifty-eight on the [[UK Singles Chart]],<ref name="UK" /> and number fifteen on the [[UK Hip Hop and R&B Singles Chart]].<ref name="UKrandb" /> It was certified gold by [[Grammofonleverantörernas förening]] (GLF).<ref name="GLF" />
+
+In Asia, "TKO" peaked at number thirteen in Lebanon<ref name="Lebanon" /> and numbers one hundred fifty-five and five on [[Gaon Chart]]'s digital and international charts in South Korea.<ref name="Gaon Digital Chart" /><ref name="Gaon International Chart" /> In Oceania, the song peaked at number twenty-four on the urban chart in Australia.<ref name="Australiaurban" />
+
+==Music video==
+[[File:Riley Keough Cannes 2016 (2).jpg|right|upright|thumb|American actress and model [[Riley Keough]] (''pictured'') is Timberlake's love interest in the video.]]
+
+A music video for the song, directed by Ryan Reichenfeld, was released on October 29, 2013. Timberlake's love interest in the video is played by [[Elvis Presley]]'s granddaughter [[Riley Keough]], with the video lasting for 7 minutes.<ref name="Billboard-2013">{{cite magazine |date=October 29, 2013 |title=Justin Timberlake's 'TKO' Video Is A Knock-Out: Watch |url=https://www.billboard.com/music/music-news/justin-timberlakes-tko-video-is-a-knock-out-watch-5770653/ |url-status=live |archive-url=https://web.archive.org/web/20220428114908/https://www.billboard.com/music/music-news/justin-timberlakes-tko-video-is-a-knock-out-watch-5770653/ |archive-date=April 28, 2022 |access-date=January 1, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> In one scene, Keough delivers a cast-iron skillet to Timberlake's cranium. Through it all, Timberlake keeps his chin up and continues to sing even while being dragged to his death.<ref name="Billboard-2013" /> Upon its release, ''[[Billboard (magazine)|Billboard]]'' called the video "a knock-down, drag-out good time",<ref name="Billboard-2013" /> while Melinda Newman of [[HitFix]] panned it as a cartoonish, "misguided look at domestic violence", comparing it to the video of [[Eminem]]'s "[[Love the Way You Lie]]".<ref>{{cite news |last=Newman |first=Melinda |date=October 29, 2013 |title=Justin Timberlake in 'TKO' revenge fantasy music video: Watch |url=http://www.hitfix.com/news/justin-timberlake-in-tko-revenge-fantasy-music-video-watch |url-status=dead |archive-url=https://web.archive.org/web/20131030181406/http://www.hitfix.com/news/justin-timberlake-in-tko-revenge-fantasy-music-video-watch |archive-date=October 30, 2013 |access-date=January 1, 2014 |work=[[HitFix]]}}</ref>
+
+==Credits and personnel==
+Credits are adapted from the liner notes of ''The 20/20 Experience – 2 of 2''.<ref name="Anon.-2013">{{cite AV media notes |author=Anon. |title=The 20/20 Experience – 2 of 2 |title-link=The 20/20 Experience – 2 of 2 |year=2013 |others=[[Justin Timberlake]] |publisher=[[RCA Records]], a division of [[Sony Music Entertainment]] |type=[[Liner notes]] |location=New York City, NY}}</ref>
+
+===Locations===
+* Vocals recorded and mixed at Larrabee Studios, North Hollywood, California
+
+===Personnel===
+{{div col}}
+* Timothy "Timbaland" Mosley – producer, songwriter
+* Justin Timberlake – Mixer, producer, songwriter, vocal producer, vocal arranger
+* Jerome "J-Roc" Harmon – keyboards, producer, songwriter
+* James Fauntleroy – songwriter
+* Barry White – songwriter
+* Chris Godbey – engineer, mixer
+* Jimmy Douglass – mixer
+* Alejandro Baima – assistant engineer
+* Elliot Ives – guitar
+{{div col end}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align: center;"
+|+ {{sro|Weekly chart performance}}
+! Chart (2013–2014)
+! Peak<br />position
+|-
+{{single chart|Australiaurban|24|url=https://webarchive.nla.gov.au/awa/20131023130000/http://pandora.nla.gov.au/pan/23790/20131024-0000/issue1233.pdf|rowheader=true|access-date=August 13, 2026|refname="Australiaurban"}}
+|-
+{{single chart|Flanders Tip|5|artist=Justin Timberlake|song=TKO|rowheader=true|access-date=November 24, 2013|refname="Flanders Tip"}}
+|-
+{{single chart|Flanders Urban|23|artist=Justin Timberlake|song=TKO|rowheader=true|access-date=August 13, 2026|refname="Flanders Urban"}}
+|-
+{{single chart|Wallonia Tip|13|artist=Justin Timberlake|song=TKO|rowheader=true|access-date=November 24, 2013|refname="Wallonia Tip"}}
+|-
+{{single chart|Bulgaria|4|url=http://www.bamp-bg.org/2009-07-08-09-48-53/nielsen/439-25112013-01122013.html|rowheader=true|access-date=August 13, 2026|refname="Bulgaria"}}
+|-
+{{single chart|Canada|28|artist=Justin Timberlake|rowheader=true|access-date=November 24, 2013|refname="Canada"}}
+|-
+{{single chart|Billboardcanadachrtop40|10|artist=Justin Timberlake|rowheader=true|access-date=April 1, 2014|refname="Billboardcanadachrtop40"}}
+|-
+{{single chart|Billboardcanadahotac|34|artist=Justin Timberlake|rowheader=true|access-date=April 1, 2014|refname="Billboardcanadahotac"}}
+|-
+{{single chart|France|163|artist=Justin Timberlake|song=TKO|rowheader=true|access-date=November 24, 2013|refname="France"}}
+|-
+{{single chart|Germany|71|artist=Justin Timberlake|song=TKO|songid=1185227|rowheader=true|access-date=March 18, 2019|refname="Germany"}}
+|-
+{{single chart|Ireland|51|year=2013|week=39|rowheader=true|access-date=September 29, 2013|refname="Ireland"}}
+|-
+! scope="row"| Lebanon ([[The Official Lebanese Top 20]])<ref name="Lebanon">{{cite web |title=Justin Timberlake chart history |url=http://www.olt20.com/Justin_Timberlake#fragment-2 |url-status=live |archive-url=https://web.archive.org/web/20140527211938/http://olt20.com/Justin_Timberlake#fragment-2 |archive-date=May 27, 2014 |access-date=April 1, 2014 |publisher=olt20.com}}</ref>
+| 13
+|-
+! scope="row"| Netherlands ([[:nl:Tipparade|Dutch Tipparade 40]])<ref name="Netherlands">{{cite web |title=Justin Timberlake – TKO |url=https://www.top40.nl/justin-timberlake-3/tko-24396 |url-status=live |archive-url=https://web.archive.org/web/20240808084206/https://www.top40.nl/justin-timberlake-3/tko-24396 |archive-date=August 8, 2024 |access-date=May 6, 2022 |website=[[Dutch Top 40]] |language=nl}}</ref>
+| 13
+|-
+! scope="row"| South Korea ([[Gaon Chart]])<ref name="Gaon Digital Chart">{{cite web |title=Gaon Digital Chart |url=http://gaonchart.co.kr/digital_chart/index.php?nationGbn=T&current_week=40&current_year=2013&chart_Time=week |url-status=live |archive-url=https://web.archive.org/web/20131103055159/http://gaonchart.co.kr/digital_chart/index.php?nationGbn=T&current_week=40&current_year=2013&chart_Time=week |archive-date=November 3, 2013 |access-date=April 13, 2014 |publisher=[[Gaon Chart]] |language=Korean}}</ref>
+| 155
+|-
+! scope="row"| South Korea ([[Gaon Chart|Gaon International Chart]])<ref name="Gaon International Chart">{{cite web |title=Gaon International Chart |url=http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=40&current_year=2013&chart_Time=week |url-status=live |archive-url=https://web.archive.org/web/20131219222049/http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=40&current_year=2013&chart_Time=week |archive-date=December 19, 2013 |access-date=April 13, 2014 |publisher=Gaon Chart |language=Korean}}</ref>
+| 5
+|-
+{{single chart|Switzerland|68|artist=Justin Timberlake|song=TKO|rowheader=true|access-date=November 16, 2013|refname="Switzerland"}}
+|-
+{{single chart|UK|58|date=20131005|rowheader=true|access-date=November 24, 2013|refname="UK"}}
+|-
+{{single chart|UKrandb|15|date=20131005|rowheader=true|access-date=April 1, 2014|refname="UKrandb"}}
+|-
+{{single chart|Billboardhot100|36|artist=Justin Timberlake|rowheader=true|access-date=September 26, 2013|refname="Billboardhot100"}}
+|-
+{{single chart|Billboardrandbhiphop|9|artist=Justin Timberlake|rowheader=true|access-date=October 5, 2013|refname="Billboardrandbhiphop"}}
+|-
+{{single chart|Billboardadultpopsongs|36|artist=Justin Timberlake|rowheader=true|access-date=November 30, 2013|refname="Billboardadultpopsongs"}}
+|-
+{{single chart|Billboardpopsongs|12|artist=Justin Timberlake|rowheader=true|access-date=November 16, 2013|refname="Billboardpopsongs"}}
+|-
+{{single chart|Billboardrhythmic|10|artist=Justin Timberlake|rowheader=true|access-date=April 1, 2014|refname="Billboardrhythmic"}}
+|}
+{{col-2}}
+
+===Monthly charts===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+ {{sro|Monthly chart performance}}
+! Chart (2013)
+! Peak<br />position
+|-
+!scope="row"|South Korea (Gaon International Chart)<ref>{{cite web |title=Gaon Monthly Digital Chart |url=http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_month=09&current_year=2013&chart_Time=month |url-status=live |archive-url=https://web.archive.org/web/20140222043615/http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_month=09&current_year=2013&chart_Time=month |archive-date=February 22, 2014 |access-date=April 13, 2014 |publisher=Gaon Chart |language=Korean}}</ref>
+|52
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align: center;"
+|+ {{sro|Year-end chart performance}}
+!Chart (2013)
+!Position
+|-
+!scope="row"|Belgium (Ultratop Flanders Urban)<ref>[http://www.ultratop.be/nl/annual.asp?year=2013&cat=sr JAAROVERZICHTEN 2013] {{Webarchive|url=https://web.archive.org/web/20140418213329/http://www.ultratop.be/nl/annual.asp?year=2013&cat=sr |date=April 18, 2014 }} (in Dutch). ultratop.be/nl. Retrieved December 27, 2013.</ref>
+|99
+|-
+!scope="row"|US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine |title=R&B/Hip-Hop Songs: 2013 Year-End Charts |url=http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=7 |url-status=dead |access-date=April 13, 2014 |magazine=[[Billboard (magazine)|Billboard]] |archiveurl=https://web.archive.org/web/20140305215008/http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=7 |archivedate=March 5, 2014}}</ref>
+|74
+|-
+!scope="row"|US Mainstream Top 40 (''Billboard'')<ref name = MainstreamTop402013YE>{{cite magazine |title=Mainstream Top 40: 2013 Year-End Charts |url=http://www1.billboard.biz/bbbiz/photos/pdf/2013/TFMm1216.pdf |url-status=dead |archive-url=https://web.archive.org/web/20131219033247/http://www1.billboard.biz/bbbiz/photos/pdf/2013/TFMm1216.pdf |archive-date=December 19, 2013 |access-date=July 10, 2026 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|88
+|}
+{| class="wikitable plainrowheaders" style="text-align: center;"
+!Chart (2014)
+!Position
+|-
+!scope="row"|US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine |title=Hot R&B/Hip-Hop Songs – Year-End 2014 |url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs |url-status=live |archive-url=https://web.archive.org/web/20200809064333/http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs |archive-date=August 9, 2020 |access-date=December 26, 2019 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|74
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption={{sro|Certifications}}}}
+{{Certification Table Entry|region=Brazil|type=single|title=TKO|artist=Justin Timberlake|award=Platinum|relyear=2013|certyear=2023|access-date=December 18, 2023|refname="PMB"}}
+{{Certification Table Entry|region=Canada|type=single|title=TKO|artist=Justin Timberlake|award=Gold|digital=true|relyear=2013|certyear=2014|access-date=July 10, 2026|refname="MC"}}
+{{Certification Table Entry|region=Sweden|type=single|title=TKO|artist=Justin Timberlake|award=Gold|relyear=2013|certyear=2014|source=grammotex|id=3569489|access-date=April 22, 2024|refname="GLF"}}
+{{Certification Table Bottom|noshipments=true|streaming=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|+ {{sro|Release dates}}
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+! scope="col"| {{Ref.}}
+|-
+! scope="row"| Various
+| September 20, 2013
+| Digital download
+| rowspan="2"| [[RCA Records|RCA]]
+| style="text-align:center;"| <ref>{{cite web |title=TKO |url=https://www.amazon.com/gp/product/B00FB23AX6 |url-status=live |archive-url=https://web.archive.org/web/20231213134358/https://www.amazon.com/rd/uedata?rid=ZM8PVK116MEHP69EKH0R&sid=141-5389759-6119335&rx=IoC541LUBrcQ1iVqSquGqg |archive-date=December 13, 2023 |access-date=September 20, 2013 |publisher=Amazon.com}}</ref>
+|-
+! scope="row"| United States
+| September 24, 2013
+| rowspan="2"| [[Contemporary hit radio]]
+| style="text-align:center;"| <ref>{{cite web |title=CHR |url=http://www.fmqb.com/Article.asp?id=16691 |archiveurl=https://archive.today/20130926094405/http://www.fmqb.com/Article.asp?id=16691 |archivedate=September 26, 2013 |access-date=September 26, 2013 |work=[[FMQB]] |publisher=Mediaspan}}</ref>
+|-
+! scope="row"| Italy
+| October 18, 2013
+| [[Sony Music Entertainment|Sony]]
+| style="text-align:center;"| <ref>{{cite web |title=Justin Timberlake – TKO (Sony) |url=http://www.radioairplay.fm/RadioDate/PublicDetails/41392 |url-status=dead |archive-url=https://web.archive.org/web/20131023123022/http://www.radioairplay.fm/RadioDate/PublicDetails/41392 |archive-date=October 23, 2013 |access-date=September 14, 2013 |publisher=Radio Airplay SRL |language=Italian}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+{{Justin Timberlake songs}}
+{{Authority control}}
+
+[[Category:2013 singles]]
+[[Category:2013 songs]]
+[[Category:Justin Timberlake songs]]
+[[Category:RCA Records singles]]
+[[Category:Song recordings produced by J-Roc]]
+[[Category:Song recordings produced by Justin Timberlake]]
+[[Category:Song recordings produced by Timbaland]]
+[[Category:Songs written by Barry White]]
+[[Category:Songs written by James Fauntleroy]]
+[[Category:Songs written by Jerome "J-Roc" Harmon]]
+[[Category:Songs written by Justin Timberlake]]
+[[Category:Songs written by Timbaland]]

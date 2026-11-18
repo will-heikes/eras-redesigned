@@ -1,0 +1,97 @@
+{{Infobox song
+| name     = FuckWithMeYouKnowIGotIt
+| cover    =
+| alt      =
+| type     = Song
+| artist   = [[Jay-Z]] featuring [[Rick Ross]]
+| album    = [[Magna Carta Holy Grail]]
+| released = July 4, 2013
+| recorded =
+| studio   =
+| venue    =
+| genre    = {{hlist|[[Dirty rap]]|[[Trap music|trap]]}}
+| length   = {{Duration|m=4|s=03}}
+| label    = {{flatlist|
+* [[Roc-A-Fella]]
+* [[Roc Nation]]
+* [[Universal Music Distribution|Universal]]
+}}
+| writer   = {{flatlist|
+* [[Jay-Z|Shawn Corey Carter]]
+* [[Rick Ross|William Leonard Roberts]]
+* [[Boi-1da|Matthew Jehu Samuels]]
+* [[Vinylz|Anderson Hernandez]]
+* [[Timbaland|Timothy Zachery Mosley]]
+* [[J-Roc (record producer)|Jerome Harmon]]
+}}
+| producer = {{flatlist|
+* [[Boi-1da]]
+* [[Vinylz]]
+* [[Timbaland]]
+* [[Jerome "J-Roc" Harmon|J-Roc]]
+}}
+}}
+
+"'''FuckWithMeYouKnowIGotIt'''" (alternatively written and stylized as "'''Fuckwithmeyouknowigotit'''") is a song by rapper [[Jay-Z]] recorded for his 12th [[studio album]] ''[[Magna Carta Holy Grail]]''. The song features [[Def Jam]] labelmate rapper [[Rick Ross]]. The song was produced by the [[Toronto]], [[Canada]] producer [[Boi-1da]], [[Vinylz]], [[Timbaland]] and [[J-Roc (record producer)|J-Roc]]. The song peaked at number 64 on the U.S. [[Billboard Hot 100|''Billboard'' Hot 100]]. ''[[Complex (magazine)|Complex]]'' ranked "FuckWithMeYouKnowIGotIt" number 20 on their list of the 50 best songs of 2013.<ref>{{Cite web|url=http://www.complex.com/music/2013/12/best-songs-of-2013/jay-z-rick-ross-fuckwithmeyouknowigotit|title = The 50 Best Songs of 2013| website=[[Complex Networks]] }}</ref>  David Ortiz of the Boston Red Sox used the song as his batter intro while stepping onto the field.
+
+==Production==
+The instrumental for "FuckWithMeYouKnowIGotIt" was started by Vinylz who was inspired by a [[Pimp C]] speech he found on [[YouTube]]. He sampled his voice for the intro and then created the rest of the song in "like five minutes." After fellow producer [[Boi-1da]] did some more work on it, it was sent to Rick Ross who intended to use it for his album, ''[[Mastermind (Rick Ross album)|Mastermind]]''. Jay-Z was supposed to add a guest verse to it, but when he heard the instrumental, he wanted the track for his album. [[Timbaland]] added additional changes to it before the final version was created for the album.<ref name="xxl-5p">{{cite web|last=Rys|first=Dan|title='Magna Carta Holy Grail' Behind The Scenes: Five Producers Who Helped Craft The Album|url=http://www.xxlmag.com/news/2013/07/magna-carta-holy-grail-behind-the-scenes-five-producers-who-helped-craft-the-album/|work=[[XXL (magazine)|XXL]]|publisher=[[Harris Publications]]|access-date=August 15, 2013|date=July 11, 2013}}</ref> Most of Jay-Z's verse was reused from "[[Living So Italian]]", an unreleased song from his and [[Kanye West]]'s collaborative album ''[[Watch the Throne]]''. Rick Ross, however, recorded a solo version, dubbed "You Know I Got It (Reprise)," for his album ''Mastermind'' as a deluxe edition bonus track in 2014.
+
+==Chart performance==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Peak<br />position
+|-
+|align="left"|US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref>{{cite web|title=Jay-Z – Chart history Hot 100|url={{BillboardURLbyName|artist=jay-z|chart=Hot 100}}|publisher=Billboard}}</ref> 
+|align="center"|64
+|-
+|align="left"|US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|title=Jay-Z – Chart History Hot R&B/Hip-Hop Songs|url={{BillboardURLbyName|artist=jay-z|chart=R&B/Hip-Hop Songs}}|publisher=Billboard}}</ref> 
+|align="center"|24
+|-
+|}
+<!-- Before adding any other US charts please review/consult [[WP:BILLBOARDCHARTS#Single charts]] & [[WP:CHART#Dependent ("component") charts]]. -->
+
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable"
+|-
+!scope="col"|Chart (2013)
+!scope="col"|Position
+|-
+|US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=7|title=2013 Year End Charts — R&B/Hip-Hop Songs|publisher=Prometheus Global Media|access-date=December 13, 2013}}</ref>
+| style="text-align:center;"|73
+|-
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|relyear=2013|type=single|award=Platinum|certyear=2016|artist=Jay Z|title=F*CKWITHMEYOUKNOWIGOTIT}}
+{{Certification Table Bottom | nosales=true | noshipments=true | streaming=true}}
+
+==References==
+{{reflist}}
+
+{{Jay-Z songs}}
+{{Rick Ross}}
+
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:Jay-Z songs]]
+[[Category:Rick Ross songs]]
+[[Category:Song recordings produced by Boi-1da]]
+[[Category:Song recordings produced by Timbaland]]
+[[Category:Songs written by Jay-Z]]
+[[Category:Songs written by Rick Ross]]
+[[Category:Songs written by Timbaland]]
+[[Category:Song recordings produced by Vinylz]]
+[[Category:Songs written by Vinylz]]
+[[Category:Songs written by Jerome "J-Roc" Harmon]]
+[[Category:Dirty rap songs]]

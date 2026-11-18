@@ -1,0 +1,254 @@
+{{Use mdy dates|date=October 2014}}
+{{Infobox song
+| name          = Shots
+| cover         = Imagine Dragons - Shots.png
+| alt           = 
+| type          = single
+| artist        = [[Imagine Dragons]]
+| album         = [[Smoke + Mirrors]]
+| released      = {{Start date|2015|01|26
+}}
+| recorded      = {{ubl|2014 at Imagine Dragons Studio|{{small|([[Las Vegas Valley|Las Vegas]], [[Nevada]])}}}}
+| studio        = 
+| venue         = 
+| genre         = {{flatlist|
+* [[Dance-rock]]<ref>{{cite magazine | url=http://atwoodmagazine.com/imagine-dragons-album-preview-darkness-shots/ | title=Imagine Dragons Album Preview and the Darkness Of "Shots" | magazine=Atwood Magazine | date=January 31, 2015 | access-date=September 27, 2015 | author=Mosk, Mitch}}</ref><ref name="Rolling Stone">{{cite magazine|url=https://www.rollingstone.com/music/albumreviews/imagine-dragons-smoke-mirrors-20150217|title=Rolling Stone - Imagine Dragons 'Smoke & Mirrors'|magazine=[[Rolling Stone]] |date=19 February 2015}}</ref>
+* [[synth-pop]]<ref>{{cite web|url=http://www.newsday.com/entertainment/music/imagine-dragons-smoke-and-mirrors-album-review-over-the-top-rock-still-feels-hollow-1.9935950|archive-url=https://web.archive.org/web/20150218231416/http://www.newsday.com/entertainment/music/imagine-dragons-smoke-and-mirrors-album-review-over-the-top-rock-still-feels-hollow-1.9935950|url-status=dead|archive-date=February 18, 2015|title=News Day - 'Smoke and Mirrors'|date=19 February 2015}}</ref>
+* [[New wave music|new wave]]<ref name="Rolling Stone"/>
+}}
+| length        = {{duration|m=3|s=52}}
+| label         = {{flatlist|
+* [[KidinaKorner|KIDinaKORNER]]
+* [[Interscope Records|Interscope]]
+}}
+| writer        = {{flatlist|
+* [[Ben McKee]]
+* [[Daniel Platzman]]
+* [[Dan Reynolds (singer)|Dan Reynolds]]
+* {{nowrap|[[Wayne Sermon]]}}
+}}
+| producer      = Imagine Dragons
+| prev_title    = [[Gold (Imagine Dragons song)|Gold]]
+| prev_year     = 2014
+| next_title    = [[Roots (song)|Roots]]
+| next_year     = 2015
+| misc          = {{External music video|{{YouTube|qQrgto184Tk|"Shots"}}}}
+}}
+
+"'''Shots'''" is a song by American [[Rock music|rock]] band [[Imagine Dragons]]. It was written by band members [[Ben McKee]], [[Daniel Platzman]], [[Dan Reynolds (musician)|Dan Reynolds]] and [[Daniel Wayne Sermon|Wayne Sermon]], and released as the third and final single from their second studio album ''[[Smoke + Mirrors]]'' (2015).
+
+==Composition==
+The song shows influence of [[industrial music]] with heavy use of [[synthesizer]]s. Reynolds' vocals are light, despite the dark lyrical content, recalling [[1980s in music|music from the 1980s]]. Sermon's guitar textures add complexity.<ref>{{cite web|url=http://www.musictimes.com/articles/26247/20150127/imagine-dragons-shots-review-new-song-smoke-mirrors-listen.htm|title=Music Times - Imagine Dragons, new song 'Shots'|date=10 February 2015}}</ref>
+
+== Promotion ==
+Imagine Dragons performed the track during a first ever live commercial (for Target) during the Grammy Awards (2015).<ref>{{cite web|url=https://www.cnbc.com/2015/02/09/target-hits-bulls-eye-with-8m-grammy-commercial.html|title=Target hits bull's-eye with $8M Grammy commercial|website=[[CNBC]] |date=February 9, 2015|access-date=May 4, 2015}}</ref> The advertising was filmed on Las Vegas' [[Fremont Street]] under the direction of [[Jonas Åkerlund]].<ref>{{cite web|url=http://www.reviewjournal.com/columns-blogs/norm-clarke/imagine-dragons-put-fremont-street-back-map|title=Imagine Dragons put Fremont Street back on the map|author=NORM CLARKE LAS VEGAS REVIEW-JOURNAL|work=Las Vegas Review-Journal|access-date=February 16, 2015}}</ref> The advertising promoted an exclusive edition of the album available at Target which includes four bonus tracks. It was estimated to cost $8 million and charted at number 2 on the ''Billboard'' Trending 140.<ref>{{cite magazine|url=http://www.billboard.com/articles/events/grammys-2015/6465640/target-imagine-dragons-commercial-break-8-million-grammys-2015|title=Grammys 2015: Target's Imagine Dragons Commercial Break Cost About $8 Million|magazine=Billboard|access-date=February 16, 2015}}</ref>
+
+"Shots" was performed on ''[[The Tonight Show Starring Jimmy Fallon]]'' (February 18, 2015),<ref>{{cite web|url=http://www.nbc.com/the-tonight-show/segments/112871|title=Imagine Dragons: Shots|access-date=May 4, 2015|archive-url=https://web.archive.org/web/20150508020642/http://www.nbc.com/the-tonight-show/segments/112871|archive-date=May 8, 2015|url-status=dead}}</ref> ''[[The Howard Stern Show]]'' (March 24, 2015),<ref>{{cite web|url=http://www.howardstern.com/news/yesterday-on-the-howard-stern-show-imagine-dragons|title=Imagine Dragons: YESTERDAY ON THE HOWARD STERN SHOW - featuring special performances of "radioactive" & their new hit single "shots"!|access-date=May 4, 2015|archive-date=April 28, 2015|archive-url=https://web.archive.org/web/20150428155116/http://www.howardstern.com/news/yesterday-on-the-howard-stern-show-imagine-dragons|url-status=dead}}</ref> ''[[The Ellen DeGeneres Show]]'' (2015),<ref>{{cite web|url=https://www.youtube.com/watch?v=vVxEYl1KQj0 |title=Imagine Dragons - Shots (Live on Ellen) |publisher=YouTube |date=2015-06-03 |access-date=2017-05-05}}</ref> and ''[[Today (U.S. TV program)|Today]]'' (2015).<ref>{{cite web|url=http://www.today.com/video/imagine-dragons-are-radioactive-on-the-today-plaza-471727171619 |title=Imagine Dragons are 'Radioactive' on the TODAY plaza |publisher=TODAY.com |date=2015-06-26 |access-date=2017-05-05}}</ref>
+
+==Music video==
+On February 12, 2015, Imagine Dragons released the official music video for "Shots".  The video was directed by [[Robert Hales (director)|Robert Hales]] and was inspired by the artwork created by San Diego–based painter [[Tim Cantor]].<ref>{{cite web|url=http://www.prnewswire.com/news-releases/imagine-dragons-gearing-up-for-release-of-new-album----smoke--mirrors----next-tuesday-february-17th-300035301.html|title=Imagine Dragons Gearing Up For Release Of New Album -- Smoke... -- SANTA MONICA, Calif., Feb. 12, 2015 /PRNewswire/ --|author=KIDinaKORNER/Interscope Records|date=February 12, 2015|work=prnewswire.com|access-date=February 16, 2015}}</ref> The same artwork also serves as the cover art for all of the singles for the album. Cantor himself appears as the live depiction of one of his paintings.
+
+==Track listing==
+{{Track listing
+| headline        = Digital download<ref name="7digital"/>
+| extra_column    = Producer(s)
+| title1  = Shots
+| writer1 = {{hlist|[[Ben McKee]]|[[Daniel Platzman]]|[[Dan Reynolds (musician)|Dan Reynolds]]|[[Daniel Wayne Sermon|Wayne Sermon]]}}
+| extra1  = [[Imagine Dragons]]
+| length1 = 3:53
+}}
+
+{{Track listing
+| headline        = Digital download – Broiler Remix<ref>{{cite web|url=https://itunes.apple.com/de/album/shots-broiler-remix-single/id980168672 |archive-url=https://web.archive.org/web/20160308040148/https://itunes.apple.com/de/album/shots-broiler-remix-single/id980168672 |url-status=dead |archive-date=March 8, 2016 |title="Shots (Broiler Remix) - Single" von Imagine Dragons auf Apple Music |publisher=[[iTunes]] |date=2015-03-27 |access-date=2017-05-05}}</ref>
+| extra_column    = Producer(s)
+| title1  = Shots
+| note1 = [[Broiler (DJs)|Broiler]] remix
+| writer1 = {{hlist|[[Ben McKee]]|[[Daniel Platzman]]|[[Dan Reynolds (musician)|Dan Reynolds]]|[[Daniel Wayne Sermon|Wayne Sermon]]}}
+| extra1  = [[Imagine Dragons]]
+| length1 = 3:10
+}}
+
+{{Track listing
+| headline        = Digital download – ''Shots EP''<ref>{{citation|title=Shots EP |date=2015-05-18 |url=https://open.spotify.com/album/4kuuQi4aH3j2pnhyYEhC5S |access-date=2025-02-27 |language=en}}</ref>
+| extra_column    = Producer(s)
+| title2  = Shots
+| note2 = Astrolith remix
+| writer2 = {{hlist|McKee|Platzman|Reynolds|Sermon}}
+| extra2  = Imagine Dragons
+| length2 = 3:29
+| title3  = Shots
+| note3 = Acoustic (Piano) / Live From The Smith Center / Las Vegas
+| writer3 = {{hlist|McKee|Platzman|Reynolds|Sermon}}
+| extra3  = Imagine Dragons
+| length3 = 4:21
+| title4  = Shots
+| note4 = Broiler Extended Club Remix
+| writer4 = {{hlist|McKee|Platzman|Reynolds|Sermon}}
+| extra4  = Imagine Dragons
+| length4 = 4:48
+| title5  = Shots
+| note5 = BLV Remix
+| writer5 = {{hlist|McKee|Platzman|Reynolds|Sermon}}
+| extra5  = Imagine Dragons
+| length5 = 3:24
+| title6  = Shots
+| note6 = [[The Young Professionals]] Remix
+| writer6 = {{hlist|McKee|Platzman|Reynolds|Sermon}}
+| extra6  = Imagine Dragons
+| length6 = 4:30
+}}
+
+==Personnel==
+'''Imagine Dragons'''
+*[[Dan Reynolds (musician)|Dan Reynolds]] – lead vocals, percussion, songwriting, production
+*[[Wayne Sermon]] – guitar, songwriting, production
+*[[Ben McKee]] – bass guitar, synthesizers, songwriting, production
+*[[Daniel Platzman]] – drums, percussion, songwriting, production
+
+==Broiler remix==
+In April 2015, Norwegian DJ and electronic music duo [[Broiler (DJs)|Broiler]] (Mikkel Christiansen and Simen Auke) released a remix of "Shots". It was a hit in its own right on [[VG-lista]], the official Norwegian Singles Chart, reaching number 4 on the chart. A music video for the remix was released about 2 months later, on June 4.
+
+==Chart performance==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Weekly chart performance for "Shots"
+! Chart (2015)
+! Peak<br>position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web |url=http://www.noise11.com/news/aria-singles-ellie-goulding-love-me-like-you-do-is-no-1-20150221 |title=ARIA Singles: Ellie Goulding Love Me Like You Do Is No 1 |publisher=[[Noise11]] |date=February 21, 2015 |access-date=February 21, 2015 |last=Ryan |first=Gavin}}</ref> 
+| 66
+|-
+{{single chart|Austria|73|artist=Imagine Dragons|song=Shots|accessdate=July 20, 2015|rowheader=true}}
+|-
+{{single chart|Flanders Tip|12|artist=Imagine Dragons|song=Shots|accessdate=April 10, 2015|rowheader=true}}
+|-
+{{single chart|Wallonia Tip|4|artist=Imagine Dragons|song=Shots|rowheader=true|accessdate=May 25, 2015}}
+|-
+{{single chart|Billboardcanadianhot100|72|artist=Imagine Dragons|rowheader=true|accessdate=February 5, 2015}}
+|-
+{{single chart|Denmark|32|artist=Imagine Dragons|song=Shots|accessdate=September 23, 2015|rowheader=true}}
+|-
+{{single chart|France|170|artist=Imagine Dragons|song=Shots|accessdate=February 25, 2015|rowheader=true}}
+|-
+{{single chart|Germany|60|artist=Imagine Dragons|song=Shots|songid=1382497|accessdate=March 20, 2019|rowheader=true}}
+|-
+!scope="row"|Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref>{{cite web|url=http://www.italiancharts.com/forum.asp?todo=viewthread&id=44567 |title=FIMI/GfK Top Digital, Classifica settimanale WK 11 (dal 2015-03-09 al 2015-03-15) |language=Italian |publisher=[[Federazione Industria Musicale Italiana|Top Digital Download]] |access-date=September 6, 2015}}</ref>
+| 69
+|-
+! scope="row"| Mexico Anglo ([[Monitor Latino]])<ref>{{cite web|url=http://charts.monitorlatino.com/top20/Print/Mexico/Anglo/20150427|title=Top 20 Inglés Del 27 de Abril al 3 de Mayo, 2015|date=2015-04-27|work=Monitor Latinoaccessdate=2018-05-02}}</ref>
+| 19
+|-
+{{single chart|Norway|3|artist=Imagine Dragons|song=Shots|accessdate=May 25, 2015|rowheader=true}}
+|-
+{{single chart|Sweden|51|artist=Imagine Dragons|song=Shots|accessdate=May 4, 2015|rowheader=true}}
+|-
+! scope="row"| UK Singles ([[UK Singles Chart|Official Charts Company]])<ref>{{cite web |url=http://zobbel.de/cluk/150207cluk.txt |title=Chart: CLUK Update 07.02.2015 (wk5) |publisher=Zobbel.de |access-date=February 7, 2015 |author=Zywietz, Tobias}}</ref>
+| 91
+|-
+{{single chart|Billboardhot100|75|artist=Imagine Dragons|rowheader=true|accessdate=February 5, 2015}}
+|-
+{{single chart|Billboardadultpopsongs|14|artist=Imagine Dragons||rowheader=true|accessdate=August 25, 2015}}
+|-
+{{single chart|Billboardalternativesongs|16|artist=Imagine Dragons||rowheader=true|accessdate=February 5, 2015}}
+|-
+{{single chart|Billboardrocksongs|7|artist=Imagine Dragons||rowheader=true|accessdate=February 5, 2015}}
+|-
+{{single chart|Billboardrockairplay|22|artist=Imagine Dragons||rowheader=true|accessdate=May 21, 2015}}
+|}
+
+;Broiler Remix
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! Chart (2015)
+! Peak<br>position
+|-
+{{single chart|Norway|refname=broiler_no|4|artist=Imagine Dragons|song=Shots|accessdate=April 19, 2015|rowheader=true}}
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders sortable"
+|+2015 year-end chart performance for "Shots"
+! Chart (2015)
+! Position
+|-
+! scope="row"| US [[Adult Alternative Songs|''Billboard'' Adult Alternative Songs]]<ref>{{cite magazine|title=Adult Alternative Songs : Dec 31, 2015 {{!}} Billboard Chart Archive|url=http://www.billboard.com/charts/year-end/2015/adult-alternative-songs|magazine=Billboard|publisher=billboard.com|access-date=January 3, 2016}}</ref>
+|style="text-align:center;"|32
+|-
+! scope="row"| US [[Alternative Songs|''Billboard'' Alternative Songs]]<ref>{{cite magazine|title=Alternative Songs : Dec 31, 2015 {{!}} Billboard Chart Archive|url=http://www.billboard.com/charts/year-end/2015/alternative-songs|magazine=Billboard|publisher=billboard.com|access-date=January 3, 2016}}</ref>
+|style="text-align:center;"|42
+|-
+! scope="row"| US [[Hot Rock Songs|''Billboard'' Hot Rock Songs]]<ref>{{cite magazine|title=Hot Rock Songs : Dec 31, 2015 {{!}} Billboard Chart Archive|url=http://www.billboard.com/charts/year-end/2015/hot-rock-songs|magazine=Billboard|publisher=billboard.com|access-date=January 3, 2016}}</ref>
+|style="text-align:center;"|16
+|-
+! scope="row"| US [[Rock Digital Songs|''Billboard'' Rock Digital Songs]]<ref>{{cite magazine|title=Rock Digital Songs : Dec 31, 2015 {{!}} Billboard Chart Archive|url=http://www.billboard.com/charts/year-end/2015/rock-digital-songs|magazine=Billboard|publisher=billboard.com|access-date=January 3, 2016}}</ref>
+|style="text-align:center;"|33
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications and sales for "Shots"}}
+{{Certification Table Entry|region=Brazil|title=Shots|artist=Imagine Dragons|award=Platinum|number=2|type=single|certyear=2024|relyear=2015|access-date=June 20, 2024}}
+{{Certification Table Entry|region=Denmark|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|id=4867|relyear=2015|certyear=2016|certmonth=3|access-date=August 22, 2022}}
+{{Certification Table Entry|region=Germany|type=single|title=Shots|artist=Imagine Dragons|award=Gold|relyear=2015|certyear=2017|access-date=October 5, 2017}}
+{{Certification Table Entry|region=Italy|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|relyear=2015|certyear=2018|id=5890|access-date=September 24, 2018}}
+{{Certification Table Entry|region=New Zealand|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|relyear=2015|certyear=2023|source=radioscope|access-date=March 23, 2025}}
+{{Certification Table Entry|region=Norway|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|number=3|relyear=2015|certyear=2015|access-date=October 26, 2015}}
+{{Certification Table Entry|region=Spain|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|id=imagine-dragons-shots|relyear=2015|certyear=2024|access-date=June 10, 2024}}
+{{Certification Table Entry|region=Sweden|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|number=3|source=artist|relyear=2015|certyear=2016|access-date=August 22, 2022}}
+{{Certification Table Entry|region=United Kingdom|type=single|title=Shots|artist=Imagine Dragons|award=Gold|relyear=2015|certyear=2024|access-date=January 27, 2024|id=14435-2498-1}}
+{{Certification Table Entry|region=United States|type=single|title=Shots|artist=Imagine Dragons|award=Platinum|relyear=2015|certyear=2021|access-date=September 1, 2021}}
+{{Certification Table Bottom|streaming=true|nosales=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|+Release dates for "Shots"
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row"| United States<ref name="7digital">{{cite web |url=https://us.7digital.com/artist/imagine-dragons/release/shots-1 |title=Shots (2015) |publisher=[[7digital]] |location=United States |access-date=February 6, 2015 |archive-url=https://archive.today/20150209185544/https://us.7digital.com/artist/imagine-dragons/release/shots-1 |archive-date=February 9, 2015 |url-status=live}}</ref>
+| February 2, 2015
+| [[Music download|Digital download]]
+| {{hlist|[[KidinaKorner|KIDinaKORNER]]|[[Interscope Records|Interscope]]}}
+|-
+! scope="row"| Italy<ref>{{cite web |url=http://www.radioairplay.fm/RadioDate/PublicDetails/102935/IMAGINE-DRAGONS-Shots-Interscope-Records |title=Imagine Dragons – Shots (Interscope Records) |publisher=Radio Airplay SRL |access-date=February 6, 2015 |author=Mompellio, Gabriel |language=Italian |archive-url=https://archive.today/20150209174207/http://www.radioairplay.fm/RadioDate/PublicDetails/102935/IMAGINE-DRAGONS-Shots-Interscope-Records |archive-date=February 9, 2015 |url-status=dead }}</ref>
+| February 6, 2015
+| [[Contemporary hit radio]]
+| Interscope
+|-
+! scope="row"| United States<ref>{{cite web|url=http://www.allaccess.com/mail/archive/eweekly/alternative/2015-3-3.html|title=AllAccess.com Alternative eWeekly|work=AllAccess|date=March 3, 2015|access-date=July 4, 2016}}</ref>
+| March 3, 2015
+| [[Modern rock]] radio
+| KIDinaKORNER
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Portal|Music}}
+* [https://www.imaginedragonsmusic.com/home Imagine Dragons official website]
+
+{{Imagine Dragons songs}}
+{{Authority control}}
+
+[[Category:2010s ballads]]
+[[Category:2015 singles]]
+[[Category:2014 songs]]
+[[Category:American new wave songs]]
+[[Category:American synth-pop songs]]
+[[Category:Imagine Dragons songs]]
+[[Category:Kidinakorner singles]]
+[[Category:Interscope Records singles]]
+[[Category:Music videos directed by Robert Hales]]
+[[Category:Rock ballads]]
+[[Category:Universal Music Group singles]]
+[[Category:Songs written by Wayne Sermon]]
+[[Category:Songs written by Dan Reynolds (musician)]]
+[[Category:Songs written by Daniel Platzman]]
+[[Category:Songs written by Ben McKee]]
+[[Category:Synth-pop ballads]]

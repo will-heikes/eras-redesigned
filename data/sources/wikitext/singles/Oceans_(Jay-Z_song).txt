@@ -1,0 +1,59 @@
+{{Use mdy dates|date=June 2017}}
+{{Infobox song
+| name     = Oceans
+| cover    =
+| alt      =
+| type     = song
+| artist   = [[Jay-Z]] featuring [[Frank Ocean]]
+| album    = [[Magna Carta Holy Grail]]
+| released = July 4, 2013
+| recorded = 2011
+| studio   =
+| venue    =
+| genre    = [[Hip hop music|Hip hop]]
+| length   = {{Duration|m=3|s=58}}
+| label    = {{hlist|[[Roc-A-Fella Records|Roc-A-Fella]]|[[Roc Nation]]|[[Universal Music Group|Universal]]}}
+| writer   = {{hlist|[[Jay-Z|Shawn Corey Carter]]|[[Frank Ocean|Christopher Breaux]]|[[Timbaland|Timothy Zachery Mosley]]|[[Pharrell Williams]]}}
+| producer = {{hlist|[[Pharrell Williams]]|[[Timbaland]] {{small|(add.)}}}}
+}}
+
+"'''Oceans'''" is a song by American rapper [[Jay-Z]] recorded for his twelfth studio album ''[[Magna Carta Holy Grail]]''. The song features American singer [[Frank Ocean]] and was produced by [[Pharrell Williams]], with additional production from [[Timbaland]]. The song has peaked at number 83 on the U.S. [[Billboard Hot 100|''Billboard'' Hot 100]].
+
+== Recording and composition ==
+"Oceans", along with another song from ''[[Magna Carta Holy Grail]]'' titled "[[Holy Grail (Jay-Z song)|Holy Grail]]" were recorded in 2011 during the recording sessions for Jay-Z's collaborative album with [[Kanye West]], ''[[Watch the Throne]]''. West wanted the two songs to appear on ''Watch the Throne,'' but Jay-Z chose to keep them for his upcoming twelfth studio album and they were replaced with "[[No Church in the Wild]]" and "[[Made in America (Jay-Z and Kanye West song)|Made in America]]".<ref name=bbc>{{cite web|title=Jay-Z. Zane Lowe. Part 1: Magna Carta Holy Grail| date=July 15, 2013 |url=https://www.youtube.com/watch?v=Fzr6MY664l4|publisher=BBC Radio 1|access-date=July 16, 2013}}</ref><ref>{{cite web|last1=Harling|first1=Danielle|title=Jay-Z Says Kanye West Wanted "Holy Grail" & "Oceans" On "Watch The Throne"|url=http://www.hiphopdx.com/index/news/id.24679/title.jay-z-says-kanye-west-wanted-holy-grail-oceans-on-watch-the-throne-|website=HipHopDX|access-date=June 28, 2017|archive-url=https://web.archive.org/web/20141025154456/http://www.hiphopdx.com/index/news/id.24679/title.jay-z-says-kanye-west-wanted-holy-grail-oceans-on-watch-the-throne-|archive-date=October 25, 2014|url-status=dead}}</ref>
+
+==Chart performance==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Peak<br />position
+|-
+|align="left"|US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref>{{cite web|title=Jay-Z - Chart history Hot 100|url={{BillboardURLbyName|artist=jay-z|chart=Hot 100}}|publisher=Billboard}}</ref> 
+|align="center"|83
+|-
+|align="left"|US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|title=Jay-Z - Chart History Hot R&B/Hip Hop Songs|url={{BillboardURLbyName|artist=jay-z|chart=R&B/Hip-Hop Songs}}|publisher=Billboard}}</ref> 
+|align="center"|30
+|-
+|}
+<!-- Before adding any other US charts please review/consult [[WP:BILLBOARDCHARTS#Single charts]] & [[WP:CHART#Dependent ("component") charts]]. -->
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|type=single|title=Oceans|artist=Jay-Z|award=Gold|relyear=2013|certyear=2023|access-date=December 4, 2023}}
+{{Certification Table Bottom|nosales=true|streaming=true|noshipments=true}}
+
+== References ==
+{{reflist}}
+
+{{Jay-Z songs}}
+{{Frank Ocean}}
+
+[[Category:2013 songs]]
+[[Category:Jay-Z songs]]
+[[Category:Frank Ocean songs]]
+[[Category:Song recordings produced by Pharrell Williams]]
+[[Category:Songs written by Jay-Z]]
+[[Category:Songs written by Timbaland]]
+[[Category:Songs written by Pharrell Williams]]
+[[Category:Song recordings produced by Timbaland]]
+[[Category:Songs written by Frank Ocean]]

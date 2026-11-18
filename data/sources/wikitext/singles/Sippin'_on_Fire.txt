@@ -1,0 +1,92 @@
+{{Infobox song
+| name       = Sippin' on Fire
+| cover      = SippinonFire.jpg
+| alt        =
+| type       = single
+| artist     = [[Florida Georgia Line]]
+| album      = [[Anything Goes (Florida Georgia Line album)|Anything Goes]]
+| released   = {{Start date|2015|02|16}}<ref name="tasteofcountry">{{cite web|author= |url=http://tasteofcountry.com/florida-georgia-line-sippin-on-fire/ |title=Florida Georgia Line, 'Sippin' on Fire' |publisher=Tasteofcountry.com |date= 18 February 2015|accessdate=2015-05-02}}</ref>
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = [[Country music|Country]]
+| length     = {{Duration|m=3|s=14}}
+| label      = [[Republic Nashville]]
+| writer     = {{hlist|[[Rodney Clawson]]<ref name="tasteofcountry" />|Matt Dragstrem<ref name="tasteofcountry" />|Cole Taylor<ref name="tasteofcountry" />}}
+| producer   = [[Joey Moi]]<ref name="tasteofcountry" />
+| prev_title = [[Sun Daze]]
+| prev_year  = 2014
+| next_title = [[Anything Goes (Florida Georgia Line song)|Anything Goes]]
+| next_year  = 2015
+| misc       = 
+{{External music video|1={{YouTube|KllQ8e9Ae0w|"Sippin' On Fire"}}|header=Music videos|type= studio}}
+{{External music video|1={{YouTube|PgPwpzjRGe4|"Sippin' On Fire (Lyric Video)"}}|header=no|type= studio}}
+}}
+"'''Sippin' on Fire'''" is a song written by Cole Taylor, Matt Dragstrem and [[Rodney Clawson]], and recorded by American [[country music]] duo [[Florida Georgia Line]].  It is the third single from their second studio album, ''[[Anything Goes (Florida Georgia Line album)|Anything Goes]]''.<ref name="tasteofcountry" />
+
+==Critical reception==
+Website ''[[Taste of Country]]'' reviewed the single favorably, saying that "After pushing the edges of their sound with “Dirt” and “Sun Daze,” Hubbard, [[Brian Kelley]] and Moi return home with “Sippin’ on Fire,” the third single from Anything Goes. It’s a song that could have found its way on to Here’s to the Good Times."<ref>{{cite web|url=http://tasteofcountry.com/florida-georgia-line-sippin-on-fire/|title=Florida Georgia Line, 'Sippin' on Fire' [Listen]|date=18 February 2015|work=[[Taste of Country]]|accessdate=23 July 2015}}</ref>
+
+==Commercial performance==
+The song has sold 513,000 copies in the US as of July 2015.<ref name="us sales">{{cite news |url=http://roughstock.com/news/2015/07/36496-top-30-digital-country-singles-july-22-2015 |title=The Top 30 Digital Country Singles: July 22, 2015 |author=Matt Bjorke |work=Roughstock |date=July 22, 2015}} Sales figure given [https://docs.google.com/spreadsheets/d/1hXiKW7vx_pGwqvoW5NIuHk2CzeWksRGyPJDytH0eWyI/edit?pli=1#gid=0 here]</ref> It was certified Platinum by the RIAA on January 29, 2016.<ref name=RIAA />
+
+==Music video==
+The music video was directed by [[Marc Klasfeld]] and premiered in March 2015. It features the duo and a full band performing the song from within a ring of fire in the [[Mojave Desert]], and scenes of a man and woman walking towards each other from afar, eventually meeting at night and caressing around the ring of fire. Their images "melt away" in the fire as the video goes on.<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1183632/sippin-on-fire.jhtml|archive-url=https://web.archive.org/web/20150328193257/http://www.cmt.com/videos/florida-georgia-line/1183632/sippin-on-fire.jhtml|url-status=dead|archive-date=March 28, 2015|title=CMT : Videos : Florida Georgina Line : Sippin' on Fire|publisher=[[Country Music Television]]|accessdate=March 26, 2015}}</ref>
+
+== Charts and certifications ==
+
+{| class="wikitable sortable"
+|-
+! Chart (2015)
+! Peak<br>position
+|-
+{{singlechart|Billboardcanadianhot100|36|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcanadacountry|1|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardhot100|40|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcountrysongs|3|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcountryairplay|1|artist=Florida Georgia Line}}
+|}
+
+===Year-end charts===
+{| class="wikitable sortable"
+|-
+!scope="col"|Chart (2015)
+!scope="col"|Position
+|-
+| US [[Country Airplay]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2015/country-airplay-songs | title=Best of 2015: Country Airplay | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2015 | accessdate=December 9, 2015}}</ref>
+| align="center" | 48
+|-
+| US [[Hot Country Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2015/hot-country-songs | title=Best of 2015: Hot Country Songs | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2015 | accessdate=December 9, 2015}}</ref>
+| align="center" | 21
+|-
+|}
+
+===Certifications===
+{{certification Table Top}} 
+{{certification Table Entry|region=United States|artist=Florida Georgia Line|title=Sippin' On Fire|award=Platinum|certyear=2016|relyear=2014|type=single|refname=RIAA}}
+{{Certification Table Bottom|format=3col|noshipments=true| nosales=true|streaming=true}}
+
+==References==
+{{Reflist}}
+
+{{Florida Georgia Line}}
+{{Authority control}}
+
+[[Category:2014 songs]]
+[[Category:2015 singles]]
+[[Category:Country ballads]]
+[[Category:2010s ballads]]
+[[Category:Florida Georgia Line songs]]
+[[Category:Republic Nashville singles]]
+[[Category:Songs written by Rodney Clawson]]
+[[Category:Song recordings produced by Joey Moi]]
+[[Category:Music videos directed by Marc Klasfeld]]
+[[Category:Republic Records singles]]
+[[Category:Songs written by Matt Dragstrem]]
+
+
+{{2010s-country-song-stub}}

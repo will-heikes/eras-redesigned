@@ -1,0 +1,351 @@
+{{Short description|none}}
+{{Infobox artist discography
+| Artist          = [[Macklemore & Ryan Lewis]]
+| Image           = Macklemore & Ryan Lewis at Sasquatch 2011.jpg
+| Caption         = Macklemore & Ryan Lewis in 2011
+| Studio          = 2
+| Compilation     =
+| EP              = 2
+| Singles         = 17
+| Music videos    = 15
+}}
+
+The discography of American [[Hip hop music|hip hop]] duo [[Macklemore & Ryan Lewis]] consists of two [[studio album]]s, two [[extended play]]s, 17 [[Single (music)|single]]s and 15 [[music video]]s. Macklemore and Lewis' single "[[Thrift Shop]]" reached number one on the US [[Billboard Hot 100|''Billboard'' Hot 100]] in 2013.<ref name="billboard1">{{cite magazine|url=http://www.billboard.com/song/macklemore/1491648/thrift-shop|title=Thrift Shop, Macklemore|magazine=[[Billboard (magazine)|Billboard]]}}</ref> The single was soon dubbed the first song since 1994 to top the Hot 100 chart without the support of a major record label by ''[[Billboard (magazine)|Billboard]]'', although Macklemore, in a slightly unusual [[recording contract]], pays a nominal percentage of sales for the usage of [[Warner Bros. Records]]' radio promotion department to push the releases of their singles.<ref>{{cite web|title=Macklemore & Ryan Lewis Crash Radio With 'Thrift Shop'|url=https://www.billboard.com/music/music-news/macklemore-ryan-lewis-crash-radio-with-thrift-shop-1484126/|publisher=Billboard|access-date=October 14, 2014}}</ref><ref>{{cite news|last=Feeney|first=Nolan|title=Macklemore's 'Thrift Shop' Is First Indie Hit to Top Charts in Nearly Two Decades |url=https://newsfeed.time.com/2013/01/25/macklemores-thrift-shop-is-first-indie-hit-to-top-charts-in-nearly-two-decades/|publisher=Time|access-date=May 23, 2013|date=January 25, 2013}}</ref>
+
+Their second single, "[[Can't Hold Us]]", also peaked at number one on the Hot 100, making Macklemore and Lewis the first duo in the chart's history to have their first two singles both reach the peak position.<ref>{{cite magazine |title=Macklemore and Ryan Lewis' "Can't Hold Us" Makes Hot 100 History |magazine=[[Billboard (magazine)|Billboard]]|url=http://www.billboard.com/articles/news/1560817/macklemore-ryan-lewis-cant-hold-us-tops-hot-100}}</ref> Macklemore and Lewis released their debut studio album ''[[The Heist (album)|The Heist]]'' on October 9, 2012, which charted at number two on the US ''Billboard'' 200. The pair was nominated for seven Grammy awards at the [[56th Annual Grammy Awards]], winning four awards, including [[Best New Artist]], [[Grammy Award for Best Rap Album|Best Rap Album]] (''The Heist''), [[Grammy Award for Best Rap Song|Best Rap Song]] and [[Grammy Award for Best Rap Performance|Best Rap Performance]] ("Thrift Shop"). As of April 2019, the music video for "Thrift Shop" has amassed over 1.3 billion views on [[YouTube]]. Macklemore & Ryan Lewis released their second studio album ''[[This Unruly Mess I've Made]]'' on February 26, 2016, charting at number four on the ''Billboard'' 200. The album was supported by its lead single "[[Downtown (Macklemore & Ryan Lewis song)|Downtown]]", which peaked at number twelve on ''Billboard'' Hot 100.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions, sales figures and certifications
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite magazine |url={{BillboardURLbyName|artist=macklemore & ryan lewis|chart=Billboard 200}} |title=Macklemore & Ryan Lewis – Chart History: Billboard 200 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=November 2, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br />R&B]]<br /><ref name="US-R&B-albums">{{cite magazine |url=https://www.billboard.com/artist/macklemore-ryan-lewis/chart-history/blp/ |title=Macklemore & Ryan Lewis – Chart History: R&B/Hip-Hop Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=February 16, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Macklemore |title=Discography Macklemore |work=australian-charts.com |publisher=Hung Medien |accessdate=November 10, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)]]<br /><ref name="bel">{{cite web |url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Macklemore|title=Macklemore & Ryan Lewis – Chart History|work=[[Ultratop]] |publisher=Hung Medien|accessdate=November 8, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CAN-albums">{{cite magazine |url={{BillboardURLbyName|artist=macklemore|chart=Canadian Albums}} |title=Macklemore – Chart History: Canadian Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=November 2, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br><ref name="FRA">{{cite web |url=http://www.lescharts.com/showinterpret.asp?interpret=Macklemore |title=Discography Macklemore |work=lescharts.com |publisher=Hung Medien |accessdate=January 30, 2013 |language=French}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER-albums">{{cite web |url=http://www.officialcharts.de/suche.asp?search=Macklemore&x=0&y=0&country=de&kategorie=album |archive-url=https://archive.today/20141203104816/http://www.officialcharts.de/suche.asp?search=Macklemore&x=0&y=0&country=de&kategorie=album |url-status=dead |archive-date=December 3, 2014 |title=Macklemore (Album) |work=charts.de |publisher=[[Media Control Charts]] |accessdate=November 27, 2012 |language=German}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Albums Chart|IRL]]<br /><ref name="IRL">{{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=Macklemore |archive-url=https://web.archive.org/web/20131104030356/http://irish-charts.com/showinterpret.asp?interpret=Macklemore |url-status=dead |archive-date=November 4, 2013 |title=Discography Macklemore |work=irish-charts.com |publisher=Hung Medien |accessdate=January 30, 2013}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=Macklemore |title=Discography Macklemore |work=charts.nz |publisher=Hung Medien |accessdate=November 10, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web |url=https://www.officialcharts.com/artist/25597/macklemore-and-ryan-lewis/ |title=Macklemore & Ryan Lewis |publisher=[[Official Charts Company]] |accessdate=February 16, 2021}}</ref>
+|-
+! scope="row"| ''[[The Heist (album)|The Heist]]''
+|
+* Released: October 9, 2012
+* Formats: [[Compact disc|CD]], [[Gramophone record|LP]], [[Music download|digital download]], [[Streaming media|streaming]]
+* Label: Macklemore
+| 2 || 1 || 2 || 11 || 4 || 19 || 6 || 6 || 1 || 19
+|
+* [[Recording Industry Association of America|RIAA]]: 5× Platinum<ref name="RIAA">{{cite web|url=https://www.riaa.com/goldandplatinumdata.php?artist=%22Macklemore%22 |archive-url=https://web.archive.org/web/20150924141455/http://www.riaa.com/goldandplatinumdata.php?artist=%22Macklemore%22 |url-status=dead |archive-date=September 24, 2015 |title=Gold & Platinum: Macklemore |publisher=[[Recording Industry Association of America]] |accessdate=May 9, 2013 }}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 2× Platinum<ref name="ARIA-2013-albums">{{cite web |url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-albums-2013.htm |title=ARIA Charts – Accreditations – 2013 Albums |publisher=[[Australian Recording Industry Association]] |accessdate=April 7, 2013}}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Macklemore|access-date=28 March 2026}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Platinum<ref name="BVMI">{{cite web |url=http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&strTitel=&strInterpret=Macklemore |title=Gold–/Platin-Datenbank: Macklemore |publisher=[[Bundesverband Musikindustrie]] |accessdate=April 9, 2013 |language=German}}</ref>
+* [[Federazione Industria Musicale Italiana|FIMI]]: Platinum<ref name=FIMI>{{cite certification|region=Italy|artist=Macklemore & Ryan Lewis|access-date=8 February 2022}}</ref>
+* [[Music Canada|MC]]: Platinum<ref name="MC">{{cite certification |region=Canada |artist=Macklemore |accessdate=December 3, 2014}}</ref>
+* [[Recorded Music NZ|RMNZ]]: Platinum<ref>{{cite web |url=https://aotearoamusiccharts.co.nz/archive/albums/2013-05-17 |title=NZ Top 40 Albums Chart – 20 May 2013 |publisher=[[Recorded Music NZ]] |access-date=May 31, 2013}}</ref>
+* [[Syndicat National de l'Édition Phonographique|SNEP]]: Platinum<ref name="SNEP">{{cite web |url=http://www.snepmusique.com/les-disques-dor/?awards_cat=0&awards_awd=0&awards_artist=Macklemore&awards_title=&awards_edit_distrib=&submitAdvanced=Rechercher |title=Les Certifications: Macklemore |publisher=[[Syndicat National de l'Édition Phonographique]] |accessdate=December 3, 2014 |language=French |archive-url=https://web.archive.org/web/20160304074744/http://www.snepmusique.com/les-disques-dor/?awards_cat=0&awards_awd=0&awards_artist=Macklemore&awards_title=&awards_edit_distrib=&submitAdvanced=Rechercher |archive-date=March 4, 2016 |url-status=dead }}</ref> 
+*
+|-
+! scope="row"| ''[[This Unruly Mess I've Made]]''
+|
+* Released: February 26, 2016
+* Formats: CD, digital download, streaming
+* Label: Macklemore
+| 4 || 1 || 6 || 10 || 4 || 31 || 4 || 6 || 5 || 16
+|
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:18em;"| Details
+|-
+! scope="row"| ''The Vs. EP''<ref>{{cite web |url=http://www.discogs.com/Macklemore-X-Ryan-Lewis-The-Vs-EP/release/2215947|title=The VS. EP by Macklemore & Ryan Lewis |work=[[iTunes Store]] |location=United States |accessdate=December 3, 2014}}</ref>
+|
+* Released: November 27, 2009
+* Format: Digital download
+* Label: Macklemore
+|-
+! scope="row"| ''The Vs. Redux''<ref>{{cite web |url=https://music.apple.com/us/album/vs-redux-ep/399139666 |title=VS. Redux – EP by Macklemore & Ryan Lewis |work=[[iTunes Store]] |date=20 October 2010 |location=United States |access-date=December 3, 2014}}</ref>
+|
+* Released: October 20, 2010
+* Format: Digital download
+* Label: Macklemore
+|}
+
+==Singles==
+
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as lead artist, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles">{{cite magazine |url={{BillboardURLbyName|artist=macklemore & ryan lewis|chart=Hot 100}} |title=Macklemore & Ryan Lewis – Chart History: Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=November 8, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)]]<br /><ref name="bel"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine |url={{BillboardURLbyName|artist=macklemore|chart=Billboard Canadian Hot 100}} |title=Macklemore – Chart History: Billboard Canadian Hot 100 |magazine=Billboard |accessdate=November 8, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER-singles">{{cite web |url=http://www.officialcharts.de/suche.asp?search=Macklemore&x=0&y=0&country=de&kategorie=single |archive-url=https://web.archive.org/web/20150402105736/http://www.officialcharts.de/suche.asp?search=Macklemore&x=0&y=0&country=de&kategorie=single |url-status=dead |archive-date=April 2, 2015 |title=Macklemore (Single) |work=charts.de |publisher=[[Media Control Charts]] |accessdate=November 27, 2012 |language=German}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRL-singles">Peak chart positions for singles in Ireland:
+* All except noted: {{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=Macklemore |title=Discography Macklemore |work=irish-charts.com |publisher=Hung Medien |accessdate=January 30, 2013 }}
+* "Same Love": {{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=36 |title=Top 100 Singles, Week Ending 5 September 2013 |publisher=[[Chart-Track]] |accessdate=December 4, 2014 |archive-url=https://web.archive.org/web/20131105082336/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=36 |archive-date=5 November 2013 |url-status=dead }}
+* "White Walls": {{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=7 |title=Top 100 Singles, Week Ending 13 February 2014 |publisher=Chart-Track |accessdate=December 4, 2014 |archive-url=https://web.archive.org/web/20140222211415/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=7 |archive-date=22 February 2014 |url-status=dead }}
+* "Irish Celebration": {{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p/musicvideo/music/archive/index_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=19 |title=Top 100 Singles, Week Ending 9 May 2013 |publisher=Chart-Track |accessdate=December 3, 2014 |archive-url=https://www.webcitation.org/6GjsmXpEf?url=http://www.chart-track.co.uk/index.jsp?c=p/musicvideo/music/archive/index_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=19 |archive-date=19 May 2013 |url-status=dead }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dutch Top 40|NL]]<br /><ref name="NL-singles">{{cite web |url=http://www.top40.nl/top40-artiesten/macklemore-ryan-lewis |title=Macklemore & Ryan Lewis – Top 40-artiesten |publisher=Top40.nl |language=Dutch |accessdate=October 19, 2015}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK-singles">{{cite web |url=http://www.officialcharts.com/artist/_/Macklemore/ |title=Macklemore |publisher=[[Official Charts Company]] |accessdate=December 3, 2014}}</ref>
+|-
+! scope="row" | "[[Wings (Macklemore & Ryan Lewis song)|Wings]]"
+| rowspan="2" | 2011
+| —{{efn|group=upper-alpha|"Wings" did not enter the ''Billboard'' Hot 100, but peaked at number 12 on the [[Bubbling Under Hot 100]] chart, which acts as an extension to the Hot 100.<ref name="US-BU-100">{{cite magazine |url=https://www.billboard.com/artist/macklemore-ryan-lewis/chart-history/bubbling-under-hot-100/ |title=Macklemore – Chart History: Bubbling Under Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=April 8, 2013}}</ref>}} || 17 || — || — || 155 || — || — || — || — || —
+|
+* RIAA: Platinum<ref name="RIAA" />
+* ARIA: Platinum<ref name="ARIA-singles-2013">{{cite web |url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2013.htm |title=ARIA Charts – Accreditations – 2013 Singles |publisher=[[Australian Recording Industry Association]] |accessdate=April 7, 2013}}</ref>
+* BPI: Silver<ref name="BPI"/>
+* RMNZ: Platinum<ref name=Radioscope>{{cite certification|region=New Zealand|artist=Macklemore And Ryan Lewis|source=radioscope|access-date=October 9, 2026|type=single}}</ref>
+| rowspan="5" | ''The Heist''
+|-
+! scope="row"| "[[Can't Hold Us]]"<br /><span style="font-size:85%;">(featuring [[Ray Dalton]])</span>
+| 1 || 1 || 2 || 2 || 3 || 2 || 3 || 4 || 4 || 3
+|
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 13× Platinum<ref name=ARIA23s>{{cite certification|region=Australia|certyear=2023|type=single|access-date=May 6, 2023}}</ref>
+* BEA: 2× Platinum<ref name="BEA2">{{cite web |url=http://www.ultratop.be/nl/goud-platina/2014|title=Gold & Platinum |work=[[Ultratop]] |publisher=Hung Medien|accessdate=August 30, 2016}}</ref>
+* BPI: 6× Platinum<ref name="BPI"/>
+* FIMI: 5× Platinum<ref name=FIMI/>
+* BVMI: Platinum<ref name="BVMI"/>
+* MC: 4× Platinum<ref name="MC"/>
+* RMNZ: 10× Platinum<ref name=Radioscope/>
+* SNEP: Gold<ref name="SNEP"/>
+|-
+! scope="row"| "[[Same Love]]"<br /><span style="font-size:85%;">(featuring [[Mary Lambert (singer)|Mary Lambert]])</span>
+| rowspan="2"| 2012
+| 11 || 1 || 11 || 4 || 19 || 25 || 6 || 13 || 1 || 6
+|
+* RIAA: 4× Platinum<ref name="RIAA"/>
+* ARIA: 6× Platinum<ref>{{cite web|url=https://www.auspop.com.au/2017/10/aria-chart-watch-443/|title=ARIA Chart Watch #443|publisher=auspOp|date=October 21, 2017|accessdate=October 21, 2017|archive-date=October 21, 2017|archive-url=https://web.archive.org/web/20171021164542/https://www.auspop.com.au/2017/10/aria-chart-watch-443/|url-status=dead}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* FIMI: Gold<ref name=FIMI/>
+* MC: Platinum <ref name="MC"/>
+* RMNZ: 3× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Thrift Shop]]"<br /><span style="font-size:85%;">(featuring [[Wanz]])</span>
+| 1 || 1 || 1 || 1 || 1 || 2 || 1 || 1 || 1 || 1
+|
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 11× Platinum<ref name="ARIA2019">{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesSinglesAccreds2019.htm|title=ARIA Charts – Accreditations – 2019 Singles.|publisher=[[Australian Recording Industry Association]]|accessdate=May 9, 2019}}</ref>
+* BEA: Gold<ref name="BEA">{{cite web | url=http://www.ultratop.be/nl/goud-platina/2013| title=Gold & Platinum | publisher=Ultratop}}</ref>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: 3× Gold<ref name="BVMI"/>
+* MC: Diamond<ref name="MC"/>
+* RMNZ: 6× Platinum<ref name=Radioscope/>
+|-
+!scope="row"| "[[White Walls]]"<br /><span style="font-size:85%;">(featuring [[Schoolboy Q]] and [[Hollis (singer)|Hollis]])</span>
+| 2013
+| 15 || 34 || 52 || 17 || 65 || 17 || 30 || — || 6 || 26
+|
+* RIAA: 3× Platinum<ref name="RIAA"/>
+* ARIA: Gold<ref name="ARIA-singles-2013"/>
+* BPI: Silver<ref name="BPI"/>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+|-
+!scope="row"| "[[Downtown (Macklemore & Ryan Lewis song)|Downtown]]"<br><span style="font-size:85%;">(featuring [[Foxy Shazam#Members|Eric Nally]], [[Melle Mel]], [[Kool Moe Dee]]<br>and [[Grandmaster Caz]])</span>
+| 2015
+| 12 || 1 || 6 || 8 || 37 || 30 || 2 || 35 || 3 || 11
+|
+* RIAA: Platinum<ref>{{cite web | url= https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=MACKLEMORE+%26amp%3B+RYAN+LEWIS&ti=DOWNTOWN+%28FEAT.+ERIC+NALLY%2C+MELLE+MEL%2C+KOOL+MOE+DEE+%26amp%3B+GRANDMASTER+CAZ%29| title=Gold & Platinum | website=[[Recording Industry Association of America]] }}</ref>
+* ARIA: 5× Platinum<ref name=ARIA2018>{{cite web|url=http://www.aria.com.au/pages/SinglesAccreds2018.htm|title= ARIA Charts - Accreditations - 2018 Singles|publisher=ARIA|accessdate=23 August 2018}}</ref>
+* BEA: Gold<ref name="BEA"/>
+* BPI: Platinum<ref name="BPI"/>
+* FIMI: Platinum<ref name=FIMI/>
+* RMNZ: 3× Platinum<ref name=Radioscope/>
+| rowspan="2"| ''This Unruly Mess I've Made''  
+|-
+! scope="row"| "[[Dance Off]]"<br><span style="font-size:85%;">(featuring [[Idris Elba]] and [[Anderson Paak|Anderson .Paak]])</span>
+| 2016
+| — || 7 || 63 || — || 137 || — || 59 || — || 29 || —
+|
+* ARIA: Platinum<ref>{{cite web|url=http://www.noise11.com/news/australian-singles-major-lazer-registers-a-no-1-hit-with-bieber-and-mo-20160731|title=Australian Singles: Major Lazer Registers a No 1 Hit with Bieber and MØ|publisher=Noise11|last=Ryan|first=Gavin|date=July 31, 2016|accessdate=August 1, 2016}}</ref>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+| colspan="18" align="center" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as featured artist, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot Rock Songs|US<br />Rock]]<br /><ref>{{cite magazine |url=http://www.billboard.com/biz/charts/2014-10-04/rock-songs |title=Hot Rock Songs |magazine=[[Billboard (magazine)|Billboard]] |date=October 4, 2014 |accessdate=October 8, 2014 |url-access=subscription }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref>{{cite web |url=http://www.austriancharts.at/showitem.asp?interpret=Fences+feat.+Macklemore+%26+Ryan+Lewis&titel=Arrows&cat=s|title=Fences (Single) |work=Ö3 Austria Top 40|accessdate=December 3, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment Charts|GER]]<br /><ref>{{cite web |url=http://www.officialcharts.de/suche.asp?search=Fences&x=0&y=0&country=de&kategorie=single |archive-url=https://archive.today/20141203104919/http://www.officialcharts.de/suche.asp?search=Fences&x=0&y=0&country=de&kategorie=single |url-status=dead |archive-date=December 3, 2014 |title=Fences (Single) |work=charts.de |publisher=[[Media Control Charts]] |accessdate=December 3, 2014 |language=German}}</ref>
+|-
+! scope="row"| "[[Arrows (song)|Arrows]]"<br /><span style="font-size:85%;">([[Fences (band)|Fences]] featuring Macklemore & Ryan Lewis)</span>
+| 2014
+| 24 || 31 || 19 || 8
+| ''Lesser Oceans''
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as lead artist, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2"| Year
+! colspan="2"| Peak chart<br>positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ"/>
+|-
+! scope="row" | "Otherside" (Remix)<br>{{small|(featuring [[Fences (band)|Fences]])}}<ref>{{cite web |url=https://music.apple.com/us/album/otherside-remix-live-single/461152490 |title=Otherside Remix (Live) – Single by Macklemore & Ryan Lewis |work=[[iTunes Store]] |location=United States |access-date=December 4, 2014}}</ref>
+| rowspan="3"| 2011
+| — || 37
+|
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "Irish Celebration"<ref>{{cite news |url=https://music.apple.com/us/album/irish-celebration-single/844574468|title=Irish Celebration - Single|work=iTunes|date=January 12, 2011 |access-date=April 8, 2013}}</ref>
+| — || 88
+|
+| ''The Vs. EP''
+|-
+! scope="row"| "My Oh My"<ref>{{cite web |url=http://www.pandora.com/macklemore-ryan-lewis/my-oh-my-single |title=My Oh My (Single) |publisher=[[Pandora Radio]] |accessdate=April 25, 2013}}</ref>
+| — || —
+|
+| ''The Heist''
+|-
+! scope="row"| "Growing Up"<ref>{{cite news |url=https://www.usatoday.com/story/life/music/2015/08/05/macklemore-ryan-lewis-growing-up-sloane-song/31163005/|title=Macklemore is 'Growing Up' on new song|work=USA Today|date=January 12, 2011 |accessdate=April 8, 2013}}</ref><br><span style="font-size:85%;">(featuring [[Ed Sheeran]])</span>
+| 2015
+| — || —
+|
+* RMNZ: Gold<ref name=Radioscope/>
+| rowspan="3"| ''This Unruly Mess I've Made''
+|-
+! scope="row"| "[[White Privilege II]]"<br><span style="font-size:85%;">(featuring [[Jamila Woods]])</span>
+|rowspan="2"| 2016
+| — || —
+|
+|-
+! scope="row"| "[[Brad Pitt's Cousin]]"<br /><span style="font-size:85%;">(featuring [[Xperience]])</span>
+| 40 || —{{efn|group=upper-alpha|"Brad Pitt's Cousin" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number 9 on the NZ Heatseeker Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2016-09-02|title=NZ Heatseeker Singles Chart|publisher=[[Recorded Music NZ]]|date=August 8, 2016|access-date=August 5, 2016}}</ref>}}
+|
+|-
+| colspan="17" align="center" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of songs, with selected chart positions
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2"| Year
+! colspan="1"| Peak<br>chart<br>positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]<br /><ref name="US-R&B-singles">{{cite magazine |url=https://www.billboard.com/artist/macklemore-ryan-lewis/chart-history/bsi/ |title=Macklemore – Chart History: Hot R&B/Hip-Hop Songs |magazine=[[Billboard (magazine)|Billboard]] |accessdate=February 16, 2021}}</ref>
+|-
+! scope="row"| "Ten Thousand Hours"
+| rowspan="2"| 2012
+| 41
+| rowspan="2"| ''The Heist''
+|-
+! scope="row"| "Make the Money"
+| —{{efn|group=upper-alpha|"Make the Money" did not enter the US [[Hot R&B/Hip-Hop Songs]] chart, but peaked at number six on the [[Bubbling Under R&B/Hip-Hop Singles]] chart, which acts as an extension to the Hot R&B/Hip-Hop Songs chart.<ref>{{cite magazine |url=https://www.billboard.com/music/macklemore-ryan-lewis/chart-history/RBU |archive-url=https://web.archive.org/web/20191222211340/https://www.billboard.com/music/Macklemore-Ryan-Lewis/chart-history/RBU |url-status=dead |archive-date=December 22, 2019 |title=Macklemore & Ryan Lewis – Chart History: Bubbling Under R&B/Hip-Hop Singles |magazine=[[Billboard (magazine)|Billboard]] |accessdate=February 16, 2021}}</ref>}}
+|-
+| colspan="17" align="center" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==Music videos==
+
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos as lead artist, with directors, showing year released
+! scope="col" style="width:18em;"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+|-
+! scope="row"| "My Oh My"
+| rowspan="4" | 2011
+| Jason Koenig<ref>{{cite news |url=http://seattletimes.com/html/matsononmusic/2013920194_video_without_commentary_my_oh.html |title=Video without commentary: 'My Oh My' by Macklemore and Ryan Lewis |work=[[The Seattle Times]] |date=January 12, 2011 |accessdate=April 8, 2013 |author=Matson, Andrew}}</ref>
+|-
+! scope="row"| "Irish Celebration"
+| Stephan Gray<ref>{{cite news |url=http://seattletimes.com/html/matsononmusic/2013966852_video_irish_celebration_by_mac.html |title=Video: 'Irish Celebration' by Macklemore and Ryan Lewis |work=[[The Seattle Times]] |date=January 18, 2011 |accessdate=April 8, 2013 |author=Matson, Andrew}}</ref>
+|-
+! scope="row"| "Wings"
+| Zia Mohajerjasbi<ref>{{cite web |url=http://www.videostatic.com/vs/2011/07/watch-it-macklemoreryan-lewis-wings-zia-mohajerjasbi-dir.html |title=Watch It: Macklemore/Ryan Lewis 'Wings' (Zia Mohajerjasbi, dir.) |publisher=Video Static |date=July 21, 2011 |accessdate=April 8, 2013 |author=Gottlieb, Steven}}</ref>
+|-
+! scope="row"| "Otherside" (Remix)
+| Jason Koenig, [[Ryan Lewis]], [[Macklemore|Ben Haggerty]]<ref>{{cite web |url=https://www.youtube.com/watch?v=fvDQy53eldY |title=Macklemore X Ryan Lewis – Otherside Remix Feat. Fences [Music Video] |via=[[YouTube]] |date=August 31, 2011 |accessdate=December 3, 2014 |author=Lewis, Ryan |authorlink=Ryan Lewis}}</ref>
+|-
+! scope="row"| "Victory Lap"
+| rowspan="3"| 2012
+| Johnny Valencia<ref>{{cite web |url=https://www.youtube.com/watch?v=ZSJBtq5VQZA |title=Macklemore X Ryan Lewis – Victory Lap [Official Video] |via=[[YouTube]] |date=April 10, 2012 |accessdate=December 3, 2014 |author=Lewis, Ryan |authorlink=Ryan Lewis}}</ref>
+|-
+! scope="row"| "Thrift Shop"
+| Jon Jon Augustavo, Ryan Lewis, Ben Haggerty<ref>{{cite web |url=http://www.mtv.com/videos/macklemore-ryan-lewis/832284/thrift-shop-featuring-ryan-lewis-wanz.jhtml |archive-url=https://web.archive.org/web/20130209064129/http://www.mtv.com/videos/macklemore-ryan-lewis/832284/thrift-shop-featuring-ryan-lewis-wanz.jhtml |url-status=dead |archive-date=February 9, 2013 |title=Thrift Shop featuring Ryan Lewis & Wanz {{!}} Macklemore & Ryan Lewis {{!}} Music Video |work=[[MTV]] |date=September 7, 2012 |accessdate=April 8, 2013}}</ref>
+|-
+! scope="row"| "Same Love"
+| Jon Jon Augustavo, Ryan Lewis<ref>{{cite web |url=http://www.mtv.com/videos/macklemore-ryan-lewis/849642/same-love.jhtml |archive-url=https://web.archive.org/web/20130215063944/http://www.mtv.com/videos/macklemore-ryan-lewis/849642/same-love.jhtml |url-status=dead |archive-date=February 15, 2013 |title=Same Love {{!}} Macklemore & Ryan Lewis {{!}} Music Video |work=[[MTV]] |date=October 23, 2012 |accessdate=April 8, 2013}}</ref>
+|-
+! scope="row"| "Can't Hold Us"
+| rowspan="2"| 2013
+| Jon Jon Augustavo, Jason Koenig, Ryan Lewis<ref>{{cite magazine |url=https://www.billboard.com/music/rb-hip-hop/macklemore-ryan-lewis-unite-the-world-in-cant-hold-us-video-1558430/ |title=Macklemore & Ryan Lewis Unite The World in 'Can't Hold Us' Video |magazine=[[Billboard (magazine)|Billboard]] |date=April 17, 2013 |access-date=April 21, 2013 |author=Maas, Emily}}</ref>
+|-
+! scope="row"| "White Walls"
+| Ben Haggerty, Ryan Lewis, Jason Koenig<ref>{{cite web |url=https://www.youtube.com/watch?v=8PLifPUIuic |title=Macklemore & Ryan Lewis – White Walls – Feat. Schoolboy Q And Hollis (Official Music Video) |via=[[YouTube]] |date=October 31, 2011 |accessdate=December 3, 2014 |author=Lewis, Ryan |authorlink=Ryan Lewis}}</ref>
+|-
+! scope="row"| "Downtown"
+| rowspan="1"| 2015
+| Ryan Lewis, Jason Koenig, Ben Haggerty<ref>{{cite web |url=https://www.youtube.com/watch?v=JGhoLcsr8GA |title=Macklemore & Ryan Lewis – Downtown (Official Music Video) |via=[[YouTube]] |date=August 27, 2015 |accessdate=August 27, 2015 |author=Lewis, Ryan |authorlink=Ryan Lewis}}</ref>
+|-
+! scope="row"| "Kevin"
+| rowspan="3"| 2016
+| Ryan Lewis, Jason Koenig, Ben Haggerty<ref>{{cite web |url=https://www.youtube.com/watch?v=rnL9kzxRtbI |title=Macklemore & Ryan Lewis – Kevin (Official Music Video) |via=[[YouTube]] |date=February 24, 2016 |accessdate=February 24, 2016 |author=Lewis, Ryan |authorlink=Ryan Lewis}}</ref>
+|-
+! scope="row"| "Brad Pitt's Cousin" 
+| Mitchell Overton, John Peterson<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211210/7pLyutp2iJU Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20160413051257/https://www.youtube.com/watch?v=7pLyutp2iJU&gl=US&hl=en Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=7pLyutp2iJU| title = brad pitt's cousin feat xp (iphone music video) | website=[[YouTube]]}}{{cbignore}}</ref>
+|-
+!scope="row"| "Dance Off" 
+| Ryan Lewis, Jason Koenig<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211210/Z9LAzNMn8Ow Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20160517213356/https://www.youtube.com/watch?v=Z9LAzNMn8Ow&gl=US&hl=en Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=Z9LAzNMn8Ow| title = MACKLEMORE & RYAN LEWIS - DANCE OFF (FEAT. IDRIS ELBA) OFFICIAL MUSIC VIDEO | website=[[YouTube]]}}{{cbignore}}</ref>
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos as featured artist, with directors, showing year released
+! scope="col" style="width:18em;"| Title
+! scope="col"| Year
+! scope="col"| Artist
+! scope="col"| Director(s)
+|-
+! scope="row"| "Arrows"
+| 2014
+| [[Fences (band)|Fences]]
+| Jason Koenig, John Keatley<ref>{{cite web |url=https://www.youtube.com/watch?v=ph6fmk27grc |title=Fences – Arrows (feat. Macklemore & Ryan Lewis) Official Music Video |publisher=[[YouTube]] |date=August 11, 2014 |accessdate=December 3, 2014 |author=Fences |authorlink=Fences (band)}}</ref>
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://macklemore.com/ Official website]
+
+{{Macklemore & Ryan Lewis}}
+
+{{DEFAULTSORT:Macklemore and Ryan Lewis discography}}
+[[Category:Discographies of American artists]]
+[[Category:Hip-hop group discographies]]

@@ -1,0 +1,120 @@
+{{Infobox song
+| name          = Monster
+| cover         = Imagine Dragons - "Monster" (Single).jpg
+| alt           = 
+| type          = single
+| artist        = [[Imagine Dragons]]
+| album         = [[Smoke + Mirrors]] ''(Super deluxe)''
+| released      = September 19, 2013
+| recorded      = 2013
+| studio        = 
+| genre         = 
+| venue         = 
+| length        = 4:09
+| label         = {{flatlist|
+* [[Alex da Kid|KIDinaKORNER]]
+* [[Interscope Records|Interscope]]
+}}
+| writer        = {{flatlist|
+* [[Ben McKee]]
+* [[Daniel Platzman]]
+* [[Dan Reynolds (singer)|Dan Reynolds]]
+* [[Daniel Wayne Sermon|Wayne Sermon]]
+* [[Alex da Kid|Alexander Grant]]
+}}
+| producer      = {{flatlist|
+* Ben McKee
+* Daniel Platzman
+* Dan Reynolds
+* Wayne Sermon
+* Alexander Grant
+}}
+| prev_title    = [[On Top of the World (Imagine Dragons song)|On Top of the World]]
+| prev_year     = 2013
+| next_title    = [[Radioactive (Imagine Dragons song)#Kendrick Lamar remix|Radioactive]]
+| next_version  = remix ft. [[Kendrick Lamar]]
+| next_year     = 2014
+}}
+
+"'''Monster'''" is a song recorded by American [[Rock music|rock]] band [[Imagine Dragons]] for the soundtrack to the 2013 [[Action role-playing game|action role-playing]] game ''[[Infinity Blade III]]''.<ref>{{cite web|title=11 Sep|url=http://imagine-dragons-official-fans.tumblr.com/post/60992954071/fan-club-exclusive-a-new-single-called-monster|work=Imagine Dragons Official Fan Club|publisher=[[Imagine Dragons]], [[Tumblr]]|accessdate=12 September 2013}}</ref> It is the band's fifth appearance on a soundtrack.<ref>{{cite web | url=http://www.allmusic.com/album/answers-to-nothing-mw0002264306 | title=Answers to Nothing – Original Soundtrack | work=[[AllMusic]] | publisher=[[Rovi Corporation]] | accessdate=September 29, 2012 | author=Ruhlmann, William}}</ref> The song was also included on the band’s second studio album, ''[[Smoke + Mirrors]]''<ref name="single">{{cite web|title=Monster - Single|url=https://itunes.apple.com/us/album/monster-single/id696511366|archive-url=https://web.archive.org/web/20130912212818/https://itunes.apple.com/us/album/monster-single/id696511366|url-status=dead|archive-date=September 12, 2013|work=iTunes US|publisher=[[Apple Inc.]]|accessdate=12 September 2013}}</ref>
+
+==Background==
+"Monster", like all of Imagine Dragons' appearances on soundtracks, is a brand new song written specifically for the soundtrack, this time in collaboration with [[Chair Entertainment]] for their 2013 title, ''[[Infinity Blade|Infinity Blade III]]''. It is used in-game, for the final cutscene and when the player equips the "Imagine Dragon" weapon.<ref>{{cite web|title=Imagine Dragons' "Monster" Debuts in Infinity Blade III|url=http://epicgames.com/community/2013/09/imagine-dragons-monster-debuts-in-infinity-blade-iii/|publisher=Epic Gamers|accessdate=12 September 2013|url-status=dead|archiveurl=https://web.archive.org/web/20130916054606/http://epicgames.com/community/2013/09/imagine-dragons-monster-debuts-in-infinity-blade-iii/|archivedate=16 September 2013}}</ref> Speaking of the song, the band stated: "Chair has always been on the cutting edge of mobile gaming. ''Infinity Blade'' has been massive and we felt the song fit perfectly with the tone and visuals. We're pretty big gamers ourselves, so we couldn't be more excited."<ref>{{cite web|title=Imagine Dragons debuting new song through Infinity Blade III|url=http://au.gamespot.com/news/imagine-dragons-debuting-new-song-through-infinity-blade-iii-6414376|publisher=[[GameSpot]]|accessdate=12 September 2013|archive-url=https://web.archive.org/web/20130913225551/http://au.gamespot.com/news/imagine-dragons-debuting-new-song-through-infinity-blade-iii-6414376|archive-date=13 September 2013|url-status=dead}}</ref>
+
+==Track listing==
+{{track listing
+| headline = Digital download<ref name="single"/>
+| title1   = Monster
+| length1  = 4:09
+}}
+
+==Personnel==
+Adapted from the "Monster" single.<ref>{{cite AV media notes |title=Monster|others=[[Imagine Dragons]] |date=2013 |type=liner notes |publisher=[[Interscope Records]]}}</ref>
+
+;Imagine Dragons
+*[[Dan Reynolds (musician)|Dan Reynolds]] – vocals
+*Wayne Sermon – acoustic guitar, backing vocals, keyboards, electric guitar
+*Ben McKee – bass guitar, backing vocals, synthesizer
+*Daniel Platzman – drums, viola
+
+;Additional personnel
+*[[Alex Da Kid]] – producer
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! Chart (2013)
+! Peak<br />position
+|-
+{{single chart|Canada|41|artist=Imagine Dragons|rowheader=true|}}
+|-
+{{single chart|Billboardhot100|78|artist=Imagine Dragons|rowheader=true|accessdate=December 4, 2013}}
+|-
+{{single chart|Billboardrocksongs|13|artist=Imagine Dragons|rowheader=true|accessdate=December 4, 2013}}
+|-
+|}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Brazil|title=Monster|artist=Imagine Dragons|award=Gold|type=single|certyear=2024|relyear=2013|access-date=June 20, 2024}}
+{{Certification Table Entry|region=United States|artist=Imagine Dragons|title=Monster|award=Platinum|type=single|relyear=2013|certyear=2023|access-date=November 1, 2023}}
+{{Certification Table Bottom|nosales=true|streaming=true | noshipments=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row"| United States<ref name="single"/>
+| September 19, 2013
+| [[Music download|Digital download]]
+| {{flatlist|* [[Interscope Records|Interscope]]
+* [[Alex da Kid|KIDinaKORNER]]}}
+|-
+|}
+
+==In popular culture==
+* The song was featured in a trailer for the 2013 [[Ubisoft]] video game ''[[Assassin's Creed IV: Black Flag]]''.
+* The song was also featured in a promo video for the feud between [[Bryan Danielson|Daniel Bryan]] and [[Triple H]] during the [[WWE]] pay-per-view [[WrestleMania XXX]] on April 6, 2014.
+* The song was also featured as the end credits theme for the 2013 video game [[Infinity Blade III]].
+
+==References==
+{{reflist|2}}
+
+{{Imagine Dragons songs}}
+
+{{authority control}}
+
+[[Category:Imagine Dragons songs]]
+[[Category:2013 singles]]
+[[Category:Song recordings produced by Alex da Kid]]
+[[Category:Songs written by Alex da Kid]]
+[[Category:2013 songs]]
+[[Category:Interscope Records singles]]
+[[Category:Songs written by Wayne Sermon]]
+[[Category:Songs written by Dan Reynolds (musician)]]
+[[Category:Songs written by Daniel Platzman]]
+[[Category:Songs written by Ben McKee]]

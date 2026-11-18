@@ -1,0 +1,1518 @@
+{{Use mdy dates|date=August 2022}}
+{{Short description|none}}
+{{Infobox artist discography
+|Artist       = [[Luke Bryan]]
+|Image        = Luke Bryan (cropped).jpg
+|Caption      = Bryan in 2014
+|Studio       = 9 <!--Signs-->
+|EP           = 8
+|Compilation  = 7
+|Option       = 31
+|Option name  = Other charted songs
+|1Option      = 26 <!--Waves-->
+|1Option name = No. 1 singles (''Billboard'')
+|Singles      = 39 <!--Country and She Knows It-->
+|Music videos = 45 <!--Bill Dance-->
+}}
+
+American singer [[Luke Bryan]] has released nine studio albums, seven compilation albums, eight extended plays, and 39 singles. Bryan began his career with the release of ''[[I'll Stay Me]]'' in 2007 by [[Capitol Records Nashville|Capitol Nashville]], with the album spawning two top 10 hits on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart: his debut single "[[All My Friends Say]]" (number five) and "[[Country Man]]" (number 10). His second studio album was released in 2009 titled ''[[Doin' My Thing]]'', with the lead single "[[Do I]]" peaking at number two on Hot Country Songs. This album also produced his first two number-one hits: "[[Rain Is a Good Thing]]" in July 2010 and "[[Someone Else Calling You Baby]]" in February 2011.
+
+Bryan's next album was ''[[Tailgates & Tanlines]]'', released in August 2011; it became his first number one on the Top Country Albums chart and produced four top five hits: "[[Country Girl (Shake It for Me)]]" (number four), as well as the number ones "[[I Don't Want This Night to End]]", "[[Drunk on You]]", and "[[Kiss Tomorrow Goodbye (song)|Kiss Tomorrow Goodbye]]". His fourth studio album, ''[[Crash My Party]]'', was released in August 2013 and became his second number one country album and his first number one on the all-genre [[Billboard 200|''Billboard'' 200]]. This album produced six additional number one singles in [[Crash My Party (song)|the title track]], "[[That's My Kind of Night]]", "[[Drink a Beer]]", "[[Play It Again (Luke Bryan song)|Play It Again]]", "[[Roller Coaster (Luke Bryan song)|Roller Coaster]]", and "[[I See You (Luke Bryan song)|I See You]]". ''[[Kill the Lights (Luke Bryan album)|Kill the Lights]]'' was released in August 2015 and became Bryan's third number one country music album and his second number one on the [[Billboard 200|''Billboard'' 200]]. This album produced six additional number one singles: "[[Kick the Dust Up]]", "[[Strip It Down]]", "[[Home Alone Tonight]]", "[[Huntin', Fishin' and Lovin' Every Day]]", "[[Move (Luke Bryan song)|Move]]", and "[[Fast (Luke Bryan song)|Fast]]".
+
+On December 8, 2017, ''[[What Makes You Country]]'' was released, spawning three more number one singles: "[[Light It Up (Luke Bryan song)|Light It Up]]", "[[Most People Are Good]]", and "[[Sunrise, Sunburn, Sunset]]".
+
+''[[Born Here Live Here Die Here]]'' was released on August 7, 2020. Its preceding singles, "[[Knockin' Boots (Luke Bryan song)|Knockin' Boots]]", "[[What She Wants Tonight]]", and "[[One Margarita]]" were three additional number ones. "[[Down to One]]" was the album's fourth number one followed by "[[Waves (Luke Bryan song)|Waves]]", a single exclusive to the album's deluxe edition, also reaching number one.
+
+Starting in 2009, and continuing until 2015, Bryan released an [[extended play]] or album each March to coincide with ''Spring Break'' and ''Farm Tour'', starting with ''Spring Break with All My Friends'' and ending with ''[[Spring Break...Checkin' Out]]''.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="8"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+! scope="col" rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard 200|US]]<br /><ref name="Billboard 200">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/tlp/|title=Luke Bryan Chart History - ''Billboard'' 200|magazine=Billboard|accessdate=September 29, 2026}}</ref>
+! scope="col" style="width:4em;"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/clp/|title=Luke Bryan Chart History - Country Albums|magazine=[[Billboard (magazine)|Billboard]]|accessdate=September 29, 2026}}</ref>
+! scope="col" style="width:4em;"| [[ARIA Albums Chart|AUS]]<br /><ref name="AUS">Peaks in Australia:
+* All except noted: {{cite web |url=http://www.australian-charts.com/showinterpret.asp?interpret=Luke+Bryan |title=Luke Bryan Album Discography — ARIA Albums Top 50 |publisher=Hung Medien |accessdate=August 26, 2015}}
+* ''Tailgates & Tanlines'': {{cite web|url=https://www.auspop.com.au/2018/3/aria-chart-watch-465/|title=ARIA Chart Watch #465|publisher=auspOp|date=March 24, 2018|accessdate=March 24, 2018}}
+* ''Signs'': {{cite magazine|title=The ARIA Report: Week Commencing 28 September 2026|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1908|page=6|date=September 28, 2026}}</ref>
+! scope="col" style="width:4em;"| [[ARIA Charts|AUS Country]]<br /><ref>Peaks on the Australian country albums chart:
+* ''What Makes You Country'': {{cite web|url=http://www.ariacharts.com.au/charts/country-albums-chart|title=ARIA Australian Top 40 Country Albums|publisher=[[Australian Recording Industry Association]]|date=December 18, 2017|accessdate=December 16, 2017}}
+* ''Signs'': {{cite web|url=https://www.aria.com.au/charts/country-albums-chart/2026-09-28|title=ARIA Top 40 Country Albums Chart|publisher=[[Australian Recording Industry Association]]|date=September 28, 2026|access-date=September 30, 2026}}</ref>
+! scope="col" style="width:4em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/cna/|title=Luke Bryan Chart History - Canadian Albums|magazine=Billboard|accessdate=October 8, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Swiss Hitparade|SWI]]<br /><ref name="Swiss">{{cite web |url=http://swisscharts.com/artist/Luke_Bryan#charts |title=Luke Bryan Alben Diskographie — Hitparade Alben Top 100 |language=German |work=[[Swiss Music Charts|Schweizer Hitparade]] |publisher=Hung Medien |accessdate=August 26, 2015}}</ref>
+! scope="col" style="width:4em;"| [[UK Albums Chart|UK]]<br /><ref>{{cite web |url=http://www.officialcharts.com/artist/22614/luke-bryan/ |title=Luke Bryan Album Discography — Official UK Charts Top 100 |work=[[UK Albums Chart|Official Albums Chart]] |publisher=[[Official Charts Company]] |accessdate=August 26, 2015}}</ref>
+! scope="col" style="width:4em;"| [[Official Charts Company|UK Country]]<br /><ref>{{Cite web|url=https://www.officialcharts.com/charts/country-artists-albums-chart/|title = Official Country Artists Albums Chart Top 20 &#124; Official Charts Company|website = [[OfficialCharts.com]]}}</ref>
+|-
+! scope="row"| ''[[I'll Stay Me]]''
+| 
+* Release date: August 14, 2007
+* Label: [[Capitol Records Nashville|Capitol Nashville]]
+* Formats: [[Compact disc|CD]], [[Music download|digital download]]
+| 24
+| 2
+| —
+| —
+| —
+| —
+| —
+| —
+|
+* US: 561,000<ref name="B200chartmoves_May1">{{cite magazine|title=Billboard 200 Chart Moves: Luke Bryan's 'Party' Now His Biggest-Selling Album Ever |url=https://www.billboard.com/pro/luke-bryan-crash-my-party-biggest-album/ |author=Caulfield, Keith |magazine=[[Billboard (magazine)|Billboard]]|date=May 1, 2015|access-date=May 1, 2015}}</ref> 
+|
+* [[Recording Industry Association of America|RIAA]]: Gold{{Certification Cite Ref|region=United States|type=album|title=I%27ll Stay Me|artist=Luke Bryan}}
+|-
+! scope="row"| ''[[Doin' My Thing]]''
+| 
+* Release date: October 6, 2009
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| 6
+| 2
+| —
+| —
+| —
+| —
+| —
+| —
+| 
+* US: 1,001,000<ref name="B200chartmoves_july2016">{{cite news|title=Billboard 200 Chart Moves: Luke Bryan Scores His Fourth Million-Selling Album|url=https://www.billboard.com/pro/luke-bryan-fourth-million-selling-album-billboard-200-chart-moves/|last=Caulfield|first=Keith|publisher=Billboard|date=July 14, 2016}}</ref>
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=album|title=Doin My Thing|artist=Luke Bryan}}
+|-
+! scope="row"| ''[[Tailgates & Tanlines]]''
+| 
+* Release date: August 9, 2011
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| 2
+| 1
+| 64
+| 11
+| 6
+| —
+| —
+| 7
+|
+* US: 2,570,700<ref name="roughstock catalog">{{cite news |url=http://roughstock.com/news/2017/04/41722-top-country-catalog-album-sales-chart-april-18-2017 |title=Top Country Catalog Album Sales Chart: April 18, 2017 |first= Matt |last= Bjorke |date= April 18, 2017|work=Roughstock }}</ref>
+|
+* RIAA: 5× Platinum{{Certification Cite Ref|region=United States|type=album|title=Tailgates|artist=Luke Bryan}}
+* [[Music Canada|MC]]: Platinum<ref name="MC">{{cite certification|region=Canada|title=|artist=Luke Bryan|type=|access-date=May 13, 2025}}</ref>
+|-
+! scope="row"| ''[[Crash My Party]]''
+| 
+* Release date: August 13, 2013
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| 1
+| 1
+| 19
+| 4
+| 1
+| —
+| —
+| 9
+|
+* US: 2,653,000<ref name="roughstock catalog"/>
+|
+* RIAA: 6× Platinum{{Certification Cite Ref|region=United States|type=album|title=Crash My Party|artist=Luke Bryan}}
+* MC: 2× Platinum<ref name="MC"/>
+* [[RMNZ]]: Gold<ref>{{Cite web |title=Album Certification Search – RadioScope |url=https://www.radioscope.co.nz/2024/04/06/album-cert-search/ |access-date=2026-03-09 |language=en-NZ}}</ref>
+|-
+! scope="row"| ''[[Kill the Lights (Luke Bryan album)|Kill the Lights]]''
+| 
+* Release date: August 7, 2015
+* Label: Capitol Nashville
+* Formats: CD, vinyl, digital download
+| 1
+| 1
+| 4
+| 1
+| 1
+| 100
+| 47
+| 2
+|
+* US: 1,195,100<ref>{{cite news |url=http://roughstock.com/news/2017/11/42552-top-country-catalog-sales-chart-november-26-2017 |title=Top Country Catalog Sales Chart: November 26, 2017 |first= Matt |last=Bjorke |date= November 26, 2017 |publisher=Roughstock |accessdate= December 16, 2017 }}</ref>
+|
+* RIAA: 3× Platinum{{Certification Cite Ref|region=United States|type=album|title=Kill the Lights|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+! scope="row"| ''[[What Makes You Country]]''
+|
+* Release date: December 8, 2017
+* Label: Capitol Nashville
+* Formats: CD, vinyl, digital download
+| 1
+| 1
+| 6
+| 1
+| 5
+| 68
+| —
+| 2
+|
+* US: 363,700<ref>{{cite news |url=http://roughstock.com/news/2019/04/43757-top-10-country-albums-chart-april-15-2019 |title=Top 10 Country Albums Chart: April 15, 2019 |first= Matt |last= Bjorke |date=April 15, 2019 |work=Roughstock |accessdate=July 21, 2019 }}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=album|title=What Makes You Country|artist=Luke Bryan}}
+|-
+! scope="row"| ''[[Born Here Live Here Die Here]]''
+|
+* Release date: August 7, 2020
+* Label: Capitol Nashville / Row Crop
+* Formats: CD, vinyl, digital download, streaming
+| 5 || 1 || 2 || 1 || 5 || 14 || — || 3
+|
+* US: 200,000<ref>{{Cite web|date=August 12, 2020|title=Luke Bryan 'Born Here, Live Here, Die Here' Album Special|url=https://www.radio.com/newyorkscountry947/blogs/katie-neal/luke-bryan-born-here-live-here-die-here-album-special|access-date=December 6, 2020|website=www.radio.com|language=en}}</ref>
+|
+*RIAA: Platinum<ref name="RIAA">{{cite certification|region=Canada|artist=Luke Bryan|access-date=February 21, 2021}}</ref>
+*MC: Platinum<ref name="MC"/>
+|-
+! scope="row"| ''[[Mind of a Country Boy]]''<ref>{{cite web|url=https://www.billboard.com/music/country/luke-bryan-album-mind-of-a-country-boy-release-date-1235749851/|title=Luke Bryan Announces Eighth Studio Album 'Mind of a Country Boy'|author=Jessica Nicholson|date=August 8, 2024|magazine=[[Billboard (magazine)|Billboard]]|access-date=August 8, 2024}}</ref>
+|
+* Release date: September 27, 2024
+* Label: Capitol Nashville / Row Crop
+* Formats: CD, vinyl, digital download, streaming
+| 51 || 11 || — || — || 80 || — || — || —
+|
+|
+|-
+! scope="row"| ''[[Signs (Luke Bryan album)|Signs]]''
+|
+* Release date: September 18, 2026
+* Label: [[MCA Nashville]] / Row Crop
+* Formats: CD, vinyl, digital download, streaming
+| 41 || 8 || 65 || 10 || — || — || — || —
+|
+|
+|-
+| colspan="12" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+==Compilation albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+! scope="col" rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;"| [[Billboard 200|US]]<br /><ref name="Billboard 200" />
+! scope="col" style="width:45px;"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums" />
+! scope="col" style="width:45px;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums" />
+|-
+! scope="row"| ''[[Spring Break...Here to Party]]''
+| 
+* Release date: March 5, 2013<ref>{{cite web|title=Future Releases for Country Music|url=http://www.allaccess.com/country/future-releases|publisher=All Access Music Group|accessdate=January 31, 2013}}</ref> 
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| 1
+| 1
+| 1
+|
+* US: 605,000<ref name="B200chartmoves_May1"/>
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=album|title=Spring Break . . . Here to Party|artist=Luke Bryan}}
+|-
+! scope="row"| ''4 Album Collection''
+| 
+* Release date: November 19, 2013
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| —
+| 33
+| —
+|
+|
+|-
+! scope="row"| ''[[Spring Break...Checkin' Out]]''
+| 
+* Release date: March 10, 2015
+* Label: Capitol Nashville
+* Formats: Digital download, CD
+| 3
+| 1
+| 2
+|
+*US: 245,800<ref name="sales_july2015">{{cite news|title=Country Album Chart Report for July 22, 2015|url=http://roughstock.com/news/2015/07/36499-country-album-chart-report-july-22-2015/ |last= Bjorke|first=Matt |publisher=Roughstock |date= July 22, 2015 }} Sales figure given [https://docs.google.com/spreadsheets/d/1W5qSII36tG8Ho7zm3IDyb6CKV_azFqscmfZs_ZZrtig/edit#gid=0 here]</ref>
+*CAN: 9,300<ref>{{cite web|last=Cross|first=Alan|url=http://ajournalofmusicalthings.com/weekly-music-sales-report-and-analysis-18-march-2015/|title=Weekly Music Sales Report and Analysis: 18 March 2015|date=March 21, 2015|accessdate=March 29, 2015}}</ref>
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=album|title=Spring Break . . . Here to Party|artist=Luke Bryan}}
+|-
+! scope="row"| ''Spring Break...The Set List: The Complete<br />Spring Break Collection ZinePak''
+| 
+* Release date: March 10, 2015
+* Label: Capitol Nashville
+* Formats: CD, digital download
+| —
+| 5
+| —
+|
+*US: 9,200<ref>{{cite news |url= http://roughstock.com/news/2015/03/33827-country-album-chart-report-march-25-2015/ |title=Country Album Chart Report For March 25, 2015|author= Matt Bjorke |date=March 25, 2015 |work=Roughstock }} Sales figure given [https://docs.google.com/spreadsheets/d/1BxftOBxb-zKB6y-0Sr1B6L3-rh9ns3P8oeQYW2rC1AM/edit#gid=0 here]</ref>
+|
+|-
+! scope="row"| ''Apple Music Essentials''<ref>{{cite web |url=https://store.umgnashville.com/collections/luke-bryan/products/luke-bryan-essentials-black-vinyl |title=Luke Bryan - Essentials (Vinyl) – UMG Nashville |website=store.umgnashville.com |url-status=dead |archive-url=https://web.archive.org/web/20200919120247/https://store.umgnashville.com/collections/luke-bryan/products/luke-bryan-essentials-black-vinyl |archive-date=September 19, 2020}}</ref><ref>{{Cite web|url=https://store.umgnashville.com/collections/luke-bryan|archive-url=https://web.archive.org/web/20200418195120/https://store.umgnashville.com/collections/luke-bryan|archive-date=April 18, 2020|title=Luke Bryan – Universal Music Group Nashville Store}}</ref>
+| 
+* Release date: June 9, 2019
+* Label: Capitol Nashville
+* Formats: Vinyl
+| —
+| —
+| —
+|
+|
+|-
+! scope="row"| ''#1’s Volume 1''<ref>{{Cite web|url=https://www.walmart.com/ip/Luke-Bryan-1-s-Volume-1-Walmart-Exclusive-Vinyl/682240877|title=Luke Bryan - #1's Volume 1 (Walmart Exclusive) - Vinyl &#91;Exclusive&#93;}}</ref>
+| 
+* Release date: November 14, 2020
+* Label: Capitol Nashville
+* Formats: Vinyl
+| — 
+| —
+| —
+|
+|
+|-
+! scope="row"| ''Prayin' in a Deer Stand''<ref>{{cite web|url=https://open.spotify.com/album/1LOAQLNQwRgK3WmmF1ISqk|title=Prayin' in a Deer Stand|work=Spotify}}</ref>
+|
+* Release date: December 2, 2022
+* Label: Capitol Nashville
+* Formats: Digital download
+| —
+| —
+| —
+|
+|
+|-
+| colspan="7" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="3"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;"| [[Billboard 200|US]]<br /><ref name="Billboard 200" />
+! scope="col" style="width:45px;"| [[Top Country Albums|US Country]]<br /><ref name="Country Albums" />
+! scope="col" style="width:45px;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums" />
+|-
+! scope="row"| ''Spring Break with<br />All My Friends''
+|
+* Release date: March 10, 2009
+* Label: Capitol Nashville
+* Formats: Digital download
+| —
+| —
+| —
+| align=center rowspan=4| 
+* US: 144,000+<ref>Paul Grein, [http://music.yahoo.com/blogs/chart-watch/week-ending-march-10-2013-hendrix-life-death-145834157.html ''Week Ending March 10, 2013: Hendrix’s Life After Death'']</ref>
+|-
+! scope="row"| ''Rhapsody Originals''
+|
+* Release date: 2009
+* Label: Capitol Nashville
+* Formats: Digital download
+| —
+| —
+| —
+|-
+! scope="row"| ''Spring Break 2...<br />Hangover Edition''
+| 
+* Release date: March 2, 2010
+* Label: Capitol Nashville
+* Formats: Digital download
+| —
+| —
+| —
+|-
+! scope="row"| ''[[Spring Break 3...It's a Shore Thing|Spring Break 3...<br />It's a Shore Thing]]''
+| 
+* Release date: March 1, 2011
+* Label: Capitol Nashville
+* Formats: Digital download
+| 23
+| 6
+| —
+|-
+! scope="row"| ''[[Spring Break 4...Suntan City|Spring Break 4...<br />Suntan City]]''
+| 
+* Release date: March 6, 2012
+* Label: Capitol Nashville
+* Formats: Digital download
+| 9
+| 2
+| —
+|-
+! scope="row"| ''[[Spring Break 6...Like We Ain't Ever|Spring Break 6...<br />Like We Ain't Ever]]''
+| 
+* Release date: March 11, 2014
+* Label: Capitol Nashville
+* Formats: Digital download
+| 2
+| 1
+| 2
+|
+* US: 134,000<ref name="billboard_sales">{{cite magazine |url=http://www.billboard.com/articles/business/6221881/ep-music-business-success |title=EP to the Rescue! Short Albums Are a Rare Music Business Success Story |last=Christman |first=Ed |magazine=Billboard |date=August 19, 2014 |accessdate=August 19, 2014}}</ref>
+|-
+! scope="row"| ''[[Farm Tour... Here's to the Farmer|Farm Tour...<br />Here's to the Farmer]]''<ref>{{cite news|last1=McClellan|first1=Laura|title=Luke Bryan Announces Debut Farm Tour EP Details|url=http://tasteofcountry.com/luke-bryan-farm-tour-ep-heres-to-the-farmer/|accessdate=June 21, 2016|work=Taste of Country|date=June 20, 2016}}</ref>
+| 
+* Release date: September 23, 2016
+* Label: Capitol Nashville / Row Crop
+* Formats: Digital download
+| 4
+| 1
+| 9
+|
+*US: 32,000<ref name="US debut">{{cite magazine|url=https://www.billboard.com/pro/shawn-mendes-no-1-billboard-200/|title=Shawn Mendes Earns Second No. 1 Album on Billboard 200 With 'Illuminate'|magazine=[[Billboard (magazine)|Billboard]]|last=Caulfield|first=Keith|date=October 2, 2016|access-date=October 3, 2016}}</ref>
+|-
+! scope="row"|''Up Close with Luke Bryan''
+|
+* Release date: 2017
+* Label: Capitol Nashville
+* Formats: Digital download
+| —
+| —
+| —
+|
+|-
+! scope="row"|''Mind of a Country Boy''
+|
+* Release date: June 14, 2024
+* Label: Capitol Nashville
+* Formats: Digital download, CD
+| 158
+| 31
+| 80
+|
+|}
+
+==Singles==
+===2000s and 2010s===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2"| Sales
+! scope="col" rowspan="2"| [[Music recording sales certification|Certifications]]
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/hsi/|title=Luke Bryan Chart History – Hot 100|magazine=Billboard|accessdate=November 3, 2026}}</ref>
+! scope="col" style="width:4em;"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/csi/|title=Luke Bryan Chart History – Hot Country Songs|magazine=Billboard|accessdate=November 3, 2026}}</ref>
+! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/csa/|title=Luke Bryan Chart History – Country Airplay|magazine=Billboard|accessdate=October 24, 2026}}</ref>
+! scope="col" style="width:4em;"| [[ARIA Charts|AUS]]<br /><ref>Australian peak positions:
+* For "Kick the Dust Up": {{cite web|url=http://www.noise11.com/news/aria-singles-taylor-swift-bad-blood-is-no-1-20150530|title=ARIA Singles: Taylor Swift Bad Blood Is No 1|publisher=Noise11|last=Ryan|first=Gavin|date=May 30, 2015|accessdate=May 30, 2015}}</ref>
+! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/can/|title=Luke Bryan Chart History – Canadian Hot 100|magazine=Billboard|accessdate=October 15, 2024}}</ref>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/ccw/|title=Luke Bryan Chart History – Canada Country|magazine=Billboard|accessdate=August 29, 2026}}</ref>
+|-
+| rowspan="2"| 2007
+! scope="row"| "[[All My Friends Say]]"
+| 59
+| colspan="2| 5
+| —
+| —
+| 21
+|
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=single|title=All My Friends Say|artist=Luke Bryan}}
+| style="text-align:left;" rowspan="3"| ''I'll Stay Me''
+|-
+! scope="row"| "[[We Rode in Trucks]]"
+| —
+| colspan="2"| 33
+| —
+| —
+| —
+|
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=We Rode in Trucks|artist=Luke Bryan}}
+|-
+| 2008
+! scope="row"| "[[Country Man]]"
+| 74
+| colspan="2" |10
+| —
+| —
+| 28
+|
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Country Man|artist=Luke Bryan}}
+|-
+| 2009
+! scope="row"| "[[Do I]]"
+| 34
+| colspan="2"| 2
+| —
+| 66
+| 4
+|
+*US: 1,755,000<ref>{{Cite web|url=http://roughstock.com/news/2019/03/43707-top-30-digital-country-tracks-march-11-2019|title=Top 30 Digital Country Tracks: March 11, 2019|date=March 10, 2019|website=RoughStock|access-date=March 22, 2019|archive-url=https://web.archive.org/web/20190401163807/http://www.roughstock.com/news/2019/03/43707-top-30-digital-country-tracks-march-11-2019|archive-date=April 1, 2019|url-status=dead}}</ref>
+| style="text-align:left;"|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|type=single|title=Do I|artist=Luke Bryan}}
+| style="text-align:left;" rowspan="3"| ''Doin' My Thing''
+|-
+| rowspan="2"| 2010
+! scope="row"| "[[Rain Is a Good Thing]]"
+| 37
+| colspan="2"| 1
+| —
+| 57
+| 3
+|
+|
+* RIAA: 3× Platinum{{Certification Cite Ref|region=United States|type=single|title=Rain Is a Good Thing|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+! scope="row"| "[[Someone Else Calling You Baby]]"
+| 56
+| colspan="2"| 1
+| —
+| 84
+| 4
+|
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=Someone Else Calling You Baby|artist=Luke Bryan}}
+|-
+| rowspan="2"| 2011
+! scope="row"| "[[Country Girl (Shake It for Me)]]"
+| 22
+| colspan="2"| 4
+| —
+| 50
+| 10
+|
+* US: 3,660,000<ref>{{cite news |url=http://roughstock.com/news/2017/08/42152-top-30-digital-country-singles-sales-chart-august-15-2017 |title=Top 30 Digital Country Singles Sales Chart: August 15, 2017 |first= Matt |last=Bjorke |date=August 15, 2017 |work=Roughstock }}</ref>
+|
+* RIAA: Diamond{{Certification Cite Ref|region=United States|type=single|title=Country Girl (Shake It for Me)|artist=Luke Bryan}}
+* [[BPI certification|BPI]]: Gold<ref name=":1">{{Cite web |title=BRIT Certified Awards |url=https://www.bpi.co.uk/page/certified-awards |access-date=2026-04-25 |website=BPI Membership Community |language=en-GB}}</ref>
+* MC: 2× Platinum<ref name="MC"/>
+* [[RMNZ]]: 2× Platinum<ref name=":0">{{Cite web |title=Single Certification Search – RadioScope |url=https://www.radioscope.co.nz/2024/04/06/single-cert-search/ |access-date=2026-04-24 |language=en-NZ}}</ref>
+| style="text-align:left;" rowspan="4"| ''Tailgates & Tanlines''
+|-
+! scope="row"| "[[I Don't Want This Night to End]]"
+| 22
+| colspan="2"| 1
+| —
+| 48
+| 1
+|
+* US: 2,730,000<ref name="us_sales_aug2015">{{cite news|url =http://roughstock.com/news/2015/08/37085-top-30-digital-country-singles-chart-for-august-18-2015|title = The Top 30 Digital Country Singles: August 18, 2015|author = Matt Bjorke|date = August 18, 2015}}</ref>
+|
+* RIAA: 7× Platinum{{Certification Cite Ref|region=United States|type=single|title=Want This Night To End|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+|-
+| rowspan="2"| 2012
+! scope="row"| "[[Drunk on You]]"
+| 16
+| colspan="2"| 1
+| —
+| 28
+| 1
+|
+* US: 3,040,000<ref name="us_sales_aug2015"/>
+|
+* RIAA: 7× Platinum{{Certification Cite Ref|region=United States|type=single|title=Drunk On You|artist=Luke Bryan}}
+* MC: 2× Platinum<ref name="MC"/>
+|-
+! scope="row"| "[[Kiss Tomorrow Goodbye (song)|Kiss Tomorrow Goodbye]]"
+| 29
+| 3
+| 1
+| —
+| 46
+| 1
+|
+|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|type=single|title=Kiss Tomorrow Goodbye|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|- 
+| rowspan="3"| 2013
+! scope="row"| "[[Crash My Party (song)|Crash My Party]]"
+| 18
+| 2
+| 1
+| —
+| 18
+| 1
+|
+* US: 1,593,000<ref>{{cite news |title=Country Chart News - The Top 30 Digital Singles - January 8, 2014: Luke Bryan, Florida Georgia Line, Cole Swindell, Cassadee Pope, Scotty McCreery |url=http://roughstock.com/news/2014/01/13303-country-chart-news-the-top-30-digital-singles-january-8-2014-luke-bryan-florida-georgia-line-cole-swindell-cassadee-pope-scotty-mccreery/ |last=Bjorke |first=Matt |work=Roughstock |date=January 8, 2014}}</ref>
+|
+* RIAA: 5× Platinum{{Certification Cite Ref|region=United States|type=single|title=Crash My Party|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+|  rowspan="6" style="text" align="left"| ''Crash My Party''
+|-
+! scope="row"| "[[That's My Kind of Night]]"
+| 15
+| 1
+| 2
+| —
+| 19
+| 2
+|
+* US: 2,492,000<ref>{{cite news|archiveurl=https://web.archive.org/web/20160705145725/http://www.defjampromo.com/files/2009/10/BB-Digital-Songs-Chart-Wk.-Ending-6-16-16.pdf|title=Nielsen SoundScan charts – Digital Songs – Week Ending: 06/06/2016|publisher=[[Nielsen SoundScan]]|url=http://www.defjampromo.com:80/files/2009/10/BB-Digital-Songs-Chart-Wk.-Ending-6-16-16.pdf|archivedate=July 5, 2016|url-status=dead}}</ref>
+|
+* RIAA: 8× Platinum{{Certification Cite Ref|region=United States|type=single|title=That's My Kind of Night|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Gold<ref name=":0" />
+|-
+! scope="row"| "[[Drink a Beer]]"
+| 31
+| 1
+| 1
+| —
+| 34
+| 1
+|
+* US: 1,447,000<ref name="us_sales_aug2015"/>
+|
+* RIAA: 3× Platinum{{Certification Cite Ref|region=United States|type=single|title=Drink A Beer|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+| rowspan="3"| 2014
+! scope="row"| "[[Play It Again (song)|Play It Again]]"
+| 14
+| 1
+| 1
+| —
+| 20
+| 1
+|
+* US: 2,493,000<ref name="roughstock april 2017">{{cite news |url=http://roughstock.com/news/2017/04/41725-top-30-digital-country-singles-chart-april-17-2017 |title=Top 30 Digital Country Singles Chart: April 17, 2017 |first= Matt |last=Bjorke |date= April 17, 2017 |work=Roughstock }}</ref>
+|
+* RIAA: Diamond{{Certification Cite Ref|region=United States|type=single|title=Play It Again|artist=Luke Bryan}}
+* BPI: Silver<ref name=":1" />
+* MC: Gold<ref name="MC"/>
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "[[Roller Coaster (Luke Bryan song)|Roller Coaster]]"
+| 43
+| 5
+| 1
+| —
+| 56
+| 1
+|
+* US: 583,000<ref>{{cite news |url=http://roughstock.com/news/2014/11/30905-country-musics-top-30-digital-singles-november-19-2014/ |title=Country Music's Top 30 Digital Singles: November 19, 2014 |author= Matt Bjorke |date= November 19, 2014 |work=Roughstock }} sales figure given [https://docs.google.com/spreadsheets/d/1w2KXBUMRvAOjaCJfLzWCse05WqnzYih6wbRcrOcak_A/edit#gid=0 here]</ref>
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=single|title=Roller Coaster|artist=Luke Bryan}}
+|-
+! scope="row"| "[[I See You (Luke Bryan song)|I See You]]"
+| 41
+| 1
+| 1
+| —
+| 51
+| 1
+|
+* US: 581,000<ref name="us_sales_aug2015"/>
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=single|title=I See You|artist=Luke Bryan}}
+|-
+| rowspan="3"| 2015
+! scope="row"| "[[Kick the Dust Up]]"
+| 26
+| 1
+| 1
+| 98
+| 15
+| 1
+|
+* US: 1,090,000<ref name="us_sales_jan-2016">{{cite news |url=http://roughstock.com/news/2016/01/39649-top-30-digital-country-singles-chart-january-25-2016|title=Top 30 Digital Country Singles Chart: January 25, 2016|first= Matt |last=Bjorke |date= January 24, 2016 |work=Roughstock }}</ref>
+|
+* RIAA: 3× Platinum{{Certification Cite Ref|region=United States|award=Platinum|title=Kick the Dust Up|type=single|artist=Luke Bryan}}
+| rowspan="6" style="text" align="left"| ''Kill the Lights''
+|-
+! scope="row"| "[[Strip It Down]]"
+| 30
+| 1
+| 1
+| —
+| 48
+| 1
+|
+* US: 779,000<ref>{{cite news|url = http://roughstock.com/news/2016/02/39808-the-top-30-digital-country-singles-february-16-2016|title = The Top 30 Digital Country Singles: February 16, 2016|first = Matt|last= Bjorke|date = February 16, 2016 }}</ref>
+|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|award=Platinum|title=Strip It Down|type=single|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+! scope="row"| "[[Home Alone Tonight]]" <br /><span style="font-size:85%;">(featuring [[Karen Fairchild]])</span>
+| 38
+| 3
+| 1
+| —
+| 55
+| 1
+|
+* US: 441,000<ref>{{cite web |url=http://roughstock.com/news/2016/04/40094-top-30-digital-country-singles-chart |title=Top 30 Digital Country Singles Chart: April 4, 2016|first= Matt |last=Bjorke |date=April 3, 2016 |work=Roughstock }}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=Home Alone Tonight|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+| rowspan="3"| 2016
+! scope="row"| "[[Huntin', Fishin' and Lovin' Every Day]]"
+| 37
+| 2
+| 1
+| —
+| 51
+| 1
+|
+* US: 504,000<ref>{{cite news |url=http://roughstock.com/news/2016/11/41025-top-30-digital-singles-sales-report-november-1-2016 |title=Top 30 Digital Singles Sales Report: November 1, 2016 |first= Matt |last=Bjorke |date=November 1, 2016 |work=Roughstock  }}</ref>
+|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|type=single|title=Huntin', Fishin', Lovin' Every Day|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Gold<ref name=":0" />
+|-
+! scope="row"| "[[Move (Luke Bryan song)|Move]]"
+| 50
+| 5
+| 1
+| —
+| 82
+| 1
+|
+* US: 254,000<ref name="roughstock jan 2017">{{cite news |url=http://roughstock.com/news/2017/01/41335-top-30-digital-singles-sales-report-january-24-2017 |title=Top 30 Digital Singles Sales Report: January 24, 2017|first= Matt |last=Bjorke |date=January 24, 2017 |work=Roughstock }}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=Move|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+! scope="row"| "[[Fast (Luke Bryan song)|Fast]]"
+| 58
+| 5
+| 1
+| —
+| 91
+| 1
+|
+* US: 172,000<ref>{{cite news |url=http://roughstock.com/news/2017/05/41761-countrys-top-30-digital-singles-sales-chart-may-1-2017 |title=Country's Top 30 Digital Singles Sales Chart: May 1, 2017 |first= Matt |last=Bjorke |date= May 2, 2017 |work=Roughstock }}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=Fast|artist=Luke Bryan}}
+|-
+| 2017
+! scope="row"| "[[Light It Up (Luke Bryan song)|Light It Up]]"
+| 57
+| 4
+| 1
+| —
+| 96
+| 3
+|
+* US: 164,000<ref>{{cite news|url=http://roughstock.com/news/2018/01/42668-top-30-digital-country-singles-sales-chart-january-9-2018|title=Top 30 Digital Country Singles Sales Chart: January 9, 2018|first=Matt|last=Bjorke|date=January 9, 2018 |accessdate=February 11, 2018|work=Roughstock}}</ref>
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=single|title=Light It Up|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+| align="left" rowspan="4"|''What Makes You Country''
+|-
+| rowspan="3"| 2018
+! scope="row"| "[[Most People Are Good]]"
+| 43
+| 4
+| 1
+| —
+| 70
+| 1
+|
+* US: 309,000<ref>{{Cite news|url=http://roughstock.com/news/2018/08/43250-the-top-30-digital-country-tracks|title=The Top 30 Digital Country Tracks: August 14, 2018 {{!}} RoughStock|work=RoughStock|access-date=August 21, 2018|language=en-US}}</ref>
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=single|title=Most People Are Good|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+|-
+! scope="row"| "[[Sunrise, Sunburn, Sunset]]"
+| 35
+| 4
+| 1
+| —
+| 52
+| 2
+|
+* US: 136,000<ref>{{cite news|url=http://roughstock.com/news/2018/10/43441-the-top-30-digital-country-tracks-october-16-2018|title=The Top 30 Digital Country Tracks: October 16, 2018|work=RoughStock|first=Matt |last=Bjorke |date= October 16, 2018|accessdate=October 18, 2018}}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=Sunrise, Sunburn, Sunset|artist=Luke Bryan}}
+* MC: Platinum<ref name="MC"/>
+|-
+! scope="row"| "[[What Makes You Country (song)|What Makes You Country]]"
+| 54
+| 7
+| 2
+| —
+| 80
+| 1
+|
+* US: 102,000<ref>{{Cite web|url=http://roughstock.com/news/2019/03/43707-top-30-digital-country-tracks-march-11-2019|title=Top 30 Digital Country Tracks: March 11, 2019|date=March 10, 2019|website=RoughStock|access-date=March 22, 2019|archive-url=https://web.archive.org/web/20190401163807/http://www.roughstock.com/news/2019/03/43707-top-30-digital-country-tracks-march-11-2019|archive-date=April 1, 2019|url-status=dead}}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=What Makes You Country|artist=Luke Bryan}}
+|-
+| rowspan="2"| 2019
+! scope="row"| "[[Knockin' Boots (Luke Bryan song)|Knockin' Boots]]"
+| 31
+| 2
+| 1
+| —{{efn|group=upper-alpha|"Knockin' Boots" did not enter the [[ARIA Charts|ARIA Singles Chart]], but peaked at number 30 on the [[ARIA Digital Track Chart]].<ref>{{cite web|url=http://cdn.aria.com.au/pdfs/863DA0649E471B32FFCADDD31E8C2BF3C558BC57FE6798AD2AE9A1941C6BC7AD/ARIA%20Digital%20Tracks%20Chart.pdf?seq=24|title=ARIA Australian Top 40 Digital Tracks|publisher=[[Australian Recording Industry Association]]|date=April 8, 2019|accessdate=April 6, 2019}}</ref>}}
+| 30
+| 2
+|
+* US: 243,000<ref name="roughstock nov2019">{{cite web |last1=Bjorke |first1=Matt |title=Top 30 Digital Country Singles: November 11, 2019 |url=http://roughstock.com/news/2019/11/44044-top-30-digital-country-singles-november-11-2019 |work=Rough Stock |date=November 11, 2019 |accessdate=November 20, 2019}}</ref>
+|
+* RIAA: 3× Platinum{{Certification Cite Ref|region=United States|type=single|title=Knockin' Boots|artist=Luke Bryan}}
+* MC: 4× Platinum<ref name="MC"/>
+* RMNZ: Gold<ref name=":0" />
+| align="left" rowspan="2"| ''Born Here Live Here Die Here''
+|-
+! scope="row"| "[[What She Wants Tonight]]"
+| 46
+| 6
+| 1
+| —{{efn|group=upper-alpha|"What She Wants Tonight" did not enter the ARIA Singles Chart, but peaked at number 30 on the ARIA Digital Track Chart.<ref>{{cite web|url=http://cdn.aria.com.au/pdfs/AD19585BA78313E0386ED2E991BB55A8B64617E42ED30AC4BAA70212F266451B/ARIA%20Digital%20Tracks%20Chart.pdf?seq=26|title=ARIA Australian Top 40 Digital Tracks|publisher=Australian Recording Industry Association|date=November 4, 2019|accessdate=November 2, 2019}}</ref>}}
+| 91
+| 2
+|
+* US: 51,000<ref>{{cite web |last=Bjorke |first=Matt |title=Top 30 Digital Country Singles Sales Chart: March 2, 2020|url=http://roughstock.com/news/2020/03/44155-top-30-digital-country-singles-sales-chart-march-2-2020|work=Rough Stock |date=March 4, 2020 |accessdate=March 14, 2020}}</ref>
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=What She Wants Tonight|artist=Luke Bryan}}
+* MC: Gold<ref name="MC"/>
+|-
+| colspan="11" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+===2020s===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100"/>
+! scope="col" style="width:4em;"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
+! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay"/>
+! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100"/>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country"/>
+|-
+| rowspan="2"| 2020
+! scope="row"| "[[One Margarita]]"
+| 19
+| 2
+| 1
+| 29
+| 1
+|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|type=single|title=One Margarita|artist=Luke Bryan}}
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=single|title=One Margarita|artist=Luke Bryan}}
+* RMNZ: Gold<ref name=":0" />
+| align="left" rowspan="4"| ''Born Here Live Here Die Here''
+|-
+! scope="row"| "[[Down to One]]"
+| 36
+| 5
+| 1
+| 34
+| 1
+|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=One Margarita|artist=Luke Bryan}}
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=One Margarita|artist=Luke Bryan}}
+|-
+| rowspan="2"| 2021
+! scope="row"| "[[Waves (Luke Bryan song)|Waves]]"
+| 24
+| 2
+| 1
+| 56
+| 1
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=One Margarita|artist=Luke Bryan}}
+|-
+! scope="row"| "[[Up (Luke Bryan song)|Up]]"
+| —
+| 33
+| 21
+| —
+| 23
+|
+|-
+| 2022
+! scope="row"|"[[Country On]]"
+| 72
+| 15
+| 3
+| 80
+| 7
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=One Margarita|artist=Luke Bryan}}
+| rowspan="4" align="left" | ''Mind of a Country Boy''
+|- 
+| 2023
+! scope="row"|"[[But I Got a Beer in My Hand]]"
+| 91
+| 19
+| 4
+| 79
+| 2
+|
+|- 
+| rowspan="3" | 2024
+! scope="row"|"[[Love You, Miss You, Mean It]]"
+| 39
+| 11
+| 2
+| 65
+| 4
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Love You|artist=Luke Bryan}}
+|-
+! scope="row"|"[[Country Song Came On]]"
+| 93
+| 25
+| 3
+| —
+| 9
+|
+|-
+! scope="row"| "Georgia Ways"<br />{{small|(with [[Quavo]] and [[Teddy Swims]])}}<ref>{{cite web|url=https://thesource.com/2024/12/06/watch-quavo-luke-bryan-and-teddy-swims-unite-for-southern-anthem-georgia-ways/|title=Watch: Quavo, Luke Bryan, and Teddy Swims Unite for Southern Anthem “Georgia Ways” |website=The Source |date=December 6, 2024|access-date=December 7, 2024}}</ref>
+| —{{efn|group=upper-alpha|"Georgia Ways" did not enter the ''Billboard'' Hot 100, but peaked at number 7 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}}
+| 26
+| —
+| —
+| — 
+|
+| {{Non-album single}}
+|-
+| 2025
+! scope="row" |"[[Winter Wonderland]]"<br />{{small|(with [[Ella Langley]])}}
+| —
+| 47
+| 41
+| —
+| —
+|
+| ''Luke Bryan Christmas''
+|-
+| rowspan="2" |2026
+! scope="row" |"[[Country and She Knows It]]"
+| 51
+| 15
+| 3
+| —
+| 38
+|
+| rowspan="2" | ''Signs''
+|-
+! scope="row" |"[[Finders Keepers (Luke Bryan and Luke Combs song)|Finders Keepers]]"<br />{{small|(with [[Luke Combs]])}}
+| 83
+| 30
+| 26
+| —
+| —
+|
+|-
+| colspan="10" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="8"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100" />
+! scope="col" style="width:45px;"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs" />
+! scope="col" style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay" />
+! scope="col" style="width:45px;"| [[ARIA Charts|AUS]]
+! scope="col" style="width:45px;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100" />
+! scope="col" style="width:45px;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country" />
+! scope="col" style="width:45px;"| [[Official Charts Company|SCO]]
+! scope="col" style="width:45px;"| [[Billboard Global 200|WW]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/glo/|title=Luke Bryan Chart History: Global 200|magazine=Billboard|access-date=March 22, 2022}}</ref>
+|-
+| 2012
+! scope="row"| "[[The Only Way I Know]]"<br />{{small|([[Jason Aldean]] with Luke Bryan and [[Eric Church]])}}
+| 40
+| 5
+| 1
+| —
+| 53
+| 2
+| —
+| —
+| align:left|
+* RIAA: Platinum{{Certification Cite Ref|region=United States|type=single|title=The Only Way I Know|artist=Jason Aldean}}
+* MC: Gold{{Certification Cite Ref|region=Canada|type=digital download|title=The Only Way I Know|artist=Jason Aldean}}
+| style="text-align:left;"| ''[[Night Train (Jason Aldean album)|Night Train]]''
+|-
+| 2014
+! scope="row"| "[[This Is How We Roll]]"<br />{{small|([[Florida Georgia Line]] featuring Luke Bryan)}}
+| 16
+| 1
+| 2
+| —
+| 20
+| 2
+| —
+| —
+|
+* RIAA: 6× Platinum{{Certification Cite Ref|region=United States|type=single|title=This Is How We Roll|artist=Florida Georgia Line}}
+* [[Australian Recording Industry Association|ARIA]]: Platinum<ref>{{Cite web |title=2019 Accreds.pdf |url=https://www.dropbox.com/scl/fo/orr9fphn3kyhykimwm11l/AKyvtEciZd_8qYgNSodNfCo/2019%20Accreds.pdf?e=1&noscript=1&rlkey=b5et6u9n5p7f3gkxgmqhivbyf |access-date=2026-04-26 |website=Dropbox |language=en}}</ref>
+* RMNZ: Platinum<ref name=":0" />
+| align="left"| ''[[Here's to the Good Times|Here's to the Good Times...<br />This Is How We Roll]]''
+|-
+| 2016
+! scope="row"| "[[Forever Country]]"<br />{{small|(as part of Artists of Then, Now & Forever)}}
+| 21
+| 1
+| 32
+| 26
+| 25
+| 39
+| 29
+| —
+|
+* RIAA: Gold
+| {{Non-album single}}
+|-
+| 2018
+! scope="row"| "[[Straight to Hell (Drivin N Cryin song)|Straight to Hell]]"<br />{{small|([[Darius Rucker]] featuring [[Jason Aldean]], Luke Bryan, and [[Charles Kelley]])}}
+| —
+| —
+| 40
+| —
+| —
+| —
+| —
+| —
+|
+* RIAA: Gold
+| align="left"| ''[[When Was the Last Time]]''
+|-
+| 2021
+! scope="row"| "[[Buy Dirt]]"<br />{{small|([[Jordan Davis (singer)|Jordan Davis]] with Luke Bryan)}}
+| 22
+| 1
+| 1
+| —
+| 24
+| 1
+| —
+| 117
+|
+* RIAA: 5× Platinum{{Certification Cite Ref|region=United States|type=single|title=Buy Dirty|artist=Jordan Davis}}
+* ARIA: 4× Platinum<ref name=ARIA25s>{{cite certification|region=Australia|type=single|certyear=2025|access-date=February 7, 2025}}</ref>
+* MC: 8× Platinum<ref name="MC" />
+* RMNZ: 2× Platinum<ref name=":0" />
+| align="left"| ''[[Bluebird Days]]''
+|-
+|2023
+! scope="row"| "[[Cowboys and Plowboys]]"<br />{{small|([[Jon Pardi]] and Luke Bryan)}}
+| —
+| —
+| 26
+| —
+| —
+| 48
+| —
+| —
+|
+| rowspan="2" {{Non-album singles}}
+|-
+|2026
+! scope="row"| "[[Ride, Ride, Ride (George Birge and Luke Bryan song)|Ride, Ride, Ride]]"<br />{{small|([[George Birge]] featuring Luke Bryan)}}
+| —{{efn|group=upper-alpha|"Ride, Ride, Ride" did not enter the ''Billboard'' Hot 100, but peaked at number 15 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}}
+| 39
+| 12
+| —
+| —
+| 10
+| —
+| —
+|
+|-
+| colspan="13" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+==Other charted and certified songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref name="Hot 100" />
+! scope="col" style="width:4em;"| [[Hot Country Songs|US Country Songs]]<br /><ref name="Country Songs"/>
+! scope="col" style="width:4em;"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay" />
+! scope="col" style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100"/>
+! scope="col" style="width:4em;"| [[Canada Country|CAN Country]]<br /><ref name="Canada Country" />
+|-
+| 2008
+! scope="row"| "[[Run Rudolph Run|Run Run Rudolph]]"
+| —
+| colspan="2"| 42
+| —
+| —
+|
+| style="text-align:left;"| ''Country for Christmas''
+|-
+| 2009
+! scope="row"| "Drinkin' Beer & Wasting Bullets"
+| —
+| colspan="2"| —
+| —
+| —
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Drinkin' Beer & Wasting Bullets|artist=Luke Bryan}}
+| style="text-align:left;"| ''Doin' My Thing''
+|-
+| 2010
+! scope="row"| "Wild Weekend"
+| —{{efn|group=upper-alpha|"Wild Weekend" did not enter the ''Billboard'' Hot 100, but peaked at number 17 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/hbu/|title=Luke Bryan Chart History: Bubbling Under Hot 100|magazine=Billboard|access-date=September 10, 2026}}</ref>}}
+| colspan="2"| —
+| —
+| —
+|
+| style="text-align:left;"| ''Spring Break 2... Hangover Edition''
+|-
+| 2011
+! scope="row"| "Muckalee Creek Water"
+| —
+| colspan="2"| —
+| —
+| —
+|
+* RIAA: Gold{{Certification Cite Ref|award=Gold|title=Muckalee Creek Water|artist=Luke Bryan|type=single|region=United States}}
+| style="text-align:left;"| ''Tailgates & Tanlines''
+|-
+| rowspan="8"| 2013
+! scope="row"| "[[Buzzkill (song)|Buzzkill]]"
+| 74
+| 20
+| 59
+| 63
+| —
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Buzzkill|artist=Luke Bryan}}
+| style="text-align:left;" rowspan="6"| ''Spring Break… Here to Party''
+|-
+! scope="row"| "Just a Sip"
+| —{{efn|group=upper-alpha|"Just a Sip" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}}
+| 37
+| —
+| —
+| —
+|
+|-
+! scope="row"| "In Love with the Girl"
+| —
+| 40
+| —
+| —
+| —
+|
+|-
+! scope="row"| "[[Suntan City]]"
+| —
+| 43
+| —
+| —
+| —
+|
+|-
+! scope="row"| "If You Ain't Here to Party"
+| —
+| 44
+| —
+| —
+| —
+|
+|-
+! scope="row"| "Take My Drunk Ass Home"
+| —
+| 49
+| —
+| —
+| —
+|
+|-
+! scope="row"| "Dirt Road Diary"
+| —{{efn|group=upper-alpha|"Dirt Road Diary" did not enter the ''Billboard'' Hot 100, but peaked at number 17 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}}
+| 32
+| —
+| —
+| —
+|
+| style="text-align:left;" rowspan="2"| ''Crash My Party''
+|-
+! scope="row"| "Beer in the Headlights"
+| —
+| 45
+| —
+| —
+| —
+|
+|-
+| rowspan="4"| 2014
+! scope="row"| "Hairy Christmas" <br /><span style="font-size:85%;">(with [[Willie Robertson]])</span>
+| —
+| 49
+| 45
+| —
+| —
+|
+| style="text-align:left;"| ''[[Duck the Halls: A Robertson Family Christmas]]''
+|-
+! scope="row"| "Good Lookin' Girl"
+| —
+| 31
+| —
+| —{{efn|group=upper-alpha|"Good Lookin’ Girl" did not enter the [[Canadian Hot 100]], but peaked at number 71 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital">{{cite magazine|url=https://www.billboard.com/artist/luke-bryan/chart-history/cns/|title=Luke Bryan Chart History: Hot Canadian Digital Song Sales|magazine=[[Billboard (magazine)|Billboard]]|accessdate=June 23, 2020}}</ref>}}
+| —
+|
+| style="text-align:left;" rowspan="3"| ''Spring Break 6… Like We Ain't Ever''
+|-
+! scope="row"| "She Get Me High"
+| —
+| 33
+| —
+| —
+| —
+|
+|-
+! scope="row"| "Like We Ain't Ever"
+| —
+| 37
+| —
+| 52
+| —
+|
+|-
+| rowspan="8"| 2015
+! scope="row"| "[[Games (Luke Bryan song)|Games]]"
+| 92
+| 21
+| 20
+| 46
+| 32
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Games|artist=Luke Bryan}}
+| style="text-align:left;" rowspan="4"| ''Spring Break… Checkin' Out''
+|-
+! scope="row"| "Spring Breakdown"
+| —{{efn|group=upper-alpha|"Spring Breakdown" did not enter the ''Billboard'' Hot 100, but peaked at number 16 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}}
+| 33
+| —
+| —{{efn|group=upper-alpha|"Spring Breakdown" did not enter the [[Canadian Hot 100]], but peaked at number 38 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital"/>}}
+| —
+|
+|-
+! scope="row"| "You and the Beach"
+| —
+| 39
+| —
+| —
+| —
+|
+|-
+! scope="row"| "My Ol' Bronco"
+| —
+| 44
+| —
+| —{{efn|group=upper-alpha|"My Ol' Bronco" did not enter the [[Canadian Hot 100]], but peaked at number 42 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital"/>}}
+| —
+|
+|-
+! scope="row"| "Kill the Lights"
+| —
+| 35
+| —
+| —
+| —
+|
+| style="text-align:left;" rowspan="4"| ''Kill the Lights''
+|-
+! scope="row"| "To the Moon and Back"
+| —
+| 37
+| —
+| —
+| —
+|
+|-
+! scope="row"| "Way Way Back"
+| —
+| 42
+| —
+| —
+| —
+|
+|-
+! scope="row"| "Scarecrows"
+| —
+| —{{efn|group=upper-alpha|"Scarecrow" did not enter the [[Hot Country Songs]] chart, but peaked at number 46 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital">{{cite magazine|url= https://www.billboard.com/artist/luke-bryan/chart-history/cdt/|title=Luke Bryan Chart History: Country Digital Song Sales|magazine=[[Billboard (magazine)|Billboard]]|accessdate=March 1, 2021}}</ref>}}
+| —
+| —
+| —
+|
+|-
+| rowspan="3"| 2016
+! scope="row"| "Here's to the Farmer"
+| —
+| 33
+| —
+| —
+| —
+|
+| style="text-align:left;" rowspan="3"| ''Farm Tour... Here's to the Farmer''
+|-
+! scope="row"| "Love Me in a Field"
+| —
+| 41
+| —
+| —{{efn|group=upper-alpha|"Love Me in a Field" did not enter the [[Canadian Hot 100]], but peaked at number 43 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital"/>}}
+| —
+|
+|-
+! scope="row"| "Southern Gentleman"
+| —
+| —{{efn|group=upper-alpha|"Southern Gentleman" did not enter the [[Hot Country Songs]] chart, but peaked at number 35 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital"/>}}
+| —
+| —
+| —
+|
+|-
+| 2017
+! scope="row"| "Out of Nowhere Girl"
+| —
+| —{{efn|group=upper-alpha|"Out of Nowhere Girl" did not enter the [[Hot Country Songs]] chart, but peaked at number 19 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital"/>}}
+| —
+| —
+| —
+|
+| style="text-align:left;"| ''What Makes You Country''
+|-
+| 2018
+! scope="row"| "O Holy Night"
+| —
+| —
+| 58
+| —
+| —
+|
+| {{N/A|Non-album song}}
+|-
+| rowspan="2"| 2020
+! scope="row"| "Born Here Live Here Die Here"
+| —
+| —{{efn|group=upper-alpha|"Born Here Live Here Die Here" did not enter the [[Hot Country Songs]] chart, but peaked at number 19 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital"/>}}
+| —
+| —
+| —
+|
+| style="text-align:left;" rowspan="2"| ''Born Here Live Here Die Here''
+|-
+! scope="row"| "Build Me a Daddy"
+| —
+| 35 
+| —
+| —
+| —{{efn|group=upper-alpha|"Build Me a Daddy" did not enter the Billboard [[Canadian Hot 100]], but peaked at number 32 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital"/>}}
+|
+|-
+| 2021
+! scope="row"| "Songs You Never Heard"
+| —
+| —{{efn|group=upper-alpha|"Songs You Never Heard" did not enter the [[Hot Country Songs]] chart, but peaked at number 8 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital"/>}}
+| —
+| —
+| —
+|
+| style="text-align:left;"| ''Prayin' in a Deer Stand''
+|-
+| colspan="9" style="font-size:85%"| "—" denotes releases that did not chart
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Year
+! scope="col"| Title
+! scope="col"| Director
+|-
+| rowspan="2"| 2007
+! scope="row"| "All My Friends Say"
+| rowspan="2"| [[Shaun Silva]]
+|-
+! scope="row"| "We Rode in Trucks"
+|-
+| rowspan="2"| 2008
+! scope="row"| "Country Man"
+| Luke Bryan
+|- 
+! scope="row"| "Run Run Rudolph"
+| {{n/a|Unlisted}}
+|-
+| 2009
+! scope="row"| "Do I"
+| rowspan="2"| Shaun Silva
+|-
+| 2010
+! scope="row"| "Rain Is a Good Thing"
+|-
+| rowspan="5"| 2011
+! scope="row"| "Take My Drunk Ass Home"
+| {{n/a|Unlisted}}
+|-
+! scope="row"| "It's a Shore Thing"
+| [[Potsy Ponciroli]]
+|-
+! scope="row"| "Country Girl (Shake It for Me)"
+| Shaun Silva
+|-
+! scope="row"| "If You Ain't Here to Party"
+| Michael Monaco
+|-
+! scope="row"| "I Don't Want This Night to End"
+| Shaun Silva
+|-
+| rowspan="4"| 2012
+! scope="row"| "Suntan City"
+| Michael Monaco
+|-
+! scope="row"| "Drunk on You"
+| rowspan="2"| Shaun Silva
+|-
+! scope="row"| "Kiss Tomorrow Goodbye"
+|-
+! scope="row"| "The Only Way I Know"<br />{{small|(live; with [[Jason Aldean]] and [[Eric Church]])}}<ref>{{cite web|url=http://www.cmt.com/videos/jason-aldean/856474/the-only-way-i-know-from-cma-awards.jhtml|archive-url=https://web.archive.org/web/20121117180541/http://www.cmt.com/videos/jason-aldean/856474/the-only-way-i-know-from-cma-awards.jhtml|url-status=dead|archive-date=November 17, 2012|title=CMT : Videos : Jason Aldean : The Only Way I Know (From CMA Awards)|publisher=[[Country Music Television]]|accessdate=November 20, 2012}}</ref>
+| Paul Miller
+|-
+| rowspan="5"| 2013
+! scope="row"| "Buzzkill"<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/884065/buzzkill.jhtml|archive-url=https://web.archive.org/web/20130305095914/http://www.cmt.com/videos/luke-bryan/884065/buzzkill.jhtml|url-status=dead|archive-date=March 5, 2013|title=CMT : Videos : Luke Bryan : Buzzkill|publisher=[[Country Music Television]]|accessdate=March 1, 2013}}</ref>
+| Michael Monaco
+|-
+! scope="row"| "Crash My Party"<ref>{{cite news|last=Wyland|first=Sarah|title=Watch Luke Bryan's "Crash My Party" Music Video|url=http://blog.gactv.com/blog/2013/06/21/watch-luke-bryans-crash-my-party-music-video/|accessdate=June 21, 2013|newspaper=[[Great American Country]]|date=June 21, 2013}}</ref>
+| Shaun Silva
+|-
+! scope="row"| "That's My Kind of Night" {{small|(live)}}<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/950126/thats-my-kind-of-night-tour-performance-video.jhtml|archive-url=https://web.archive.org/web/20130827030551/http://www.cmt.com/videos/luke-bryan/950126/thats-my-kind-of-night-tour-performance-video.jhtml|url-status=dead|archive-date=August 27, 2013|title=CMT : Videos : Luke Bryan : That's My Kind of Night (Tour Performance Video)|publisher=[[Country Music Television]]|accessdate=August 27, 2013}}</ref>
+| Michael Monaco
+|-
+! scope="row"| "That's My Kind of Night"<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/955916/thats-my-kind-of-night.jhtml|archive-url=https://web.archive.org/web/20130923212503/http://www.cmt.com/videos/luke-bryan/955916/thats-my-kind-of-night.jhtml|url-status=dead|archive-date=September 23, 2013|title=CMT : Videos : Luke Bryan : That's My Kind Of Night|publisher=[[Country Music Television]]|accessdate=September 14, 2013}}</ref>
+| Shaun Silva
+|-
+! scope="row"| "Drink a Beer" <span style="font-size:85%;">(live)</span><ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/988489/drink-a-beer.jhtml|archive-url=https://web.archive.org/web/20131217014051/http://www.cmt.com/videos/luke-bryan/988489/drink-a-beer.jhtml|url-status=dead|archive-date=December 17, 2013|title=CMT : Videos : Luke Bryan : Drink a Beer|publisher=[[Country Music Television]]|accessdate=December 16, 2013}}</ref>
+| Paul Miller
+|-
+| rowspan="4"| 2014
+! scope="row"| "This Is How We Roll"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1009728/this-is-how-we-roll.jhtml|archive-url=https://web.archive.org/web/20140310050637/http://www.cmt.com/videos/florida-georgia-line/1009728/this-is-how-we-roll.jhtml|url-status=dead|archive-date=March 10, 2014|title=CMT : Videos : Florida Georgina Line : This Is How We Roll|publisher=[[Country Music Television]]|accessdate=March 9, 2014}}</ref> <br /><span style="font-size:85%;">(with [[Florida Georgia Line]])</span>
+| [[Marc Klasfeld]]
+|-
+! scope="row"| "She Get Me High"<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/1013989/she-get-me-high.jhtml|archive-url=https://web.archive.org/web/20140324123855/http://www.cmt.com/videos/luke-bryan/1013989/she-get-me-high.jhtml|url-status=dead|archive-date=March 24, 2014|title=CMT : Videos : Luke Bryan : She Get Me High|publisher=[[Country Music Television]]|accessdate=March 23, 2014}}</ref>
+| rowspan="4"| Michael Monaco
+|-
+! scope="row"| "Play It Again"<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/1025719/play-it-again.jhtml|archive-url=https://web.archive.org/web/20140413000755/http://www.cmt.com/videos/luke-bryan/1025719/play-it-again.jhtml|url-status=dead|archive-date=April 13, 2014|title=CMT : Videos : Luke Bryan : Play It Again|publisher=[[Country Music Television]]|accessdate=April 4, 2014}}</ref>
+|-
+! scope="row"| "Roller Coaster"<ref>{{cite news|last=Anderson|first=Danielle|title=Watch Luke Bryan's 'Roller Coaster' Video|url=http://www.people.com/article/luke-bryan-roller-coaster-video-premiere|accessdate=June 20, 2014|newspaper=[[People (magazine)|People]]|date=June 19, 2014}}</ref>
+|-
+| rowspan="3"| 2015
+! scope="row"| "Spring Breakdown"<ref>{{cite news|last1=Bonaguro|first1=Alison|title=New Luke Bryan Video Will Break You Down|url=http://www.cmt.com/news/1751469/new-luke-bryan-video-will-break-you-down/|archive-url=https://web.archive.org/web/20150307145446/http://www.cmt.com/news/1751469/new-luke-bryan-video-will-break-you-down/|url-status=dead|archive-date=March 7, 2015|accessdate=March 6, 2015|work=[[Country Music Television]]|date=March 6, 2015}}</ref>
+|-
+! scope="row"| "Kick the Dust Up" {{small|(live)}}
+| Joe DeMaio
+|-
+! scope="row"| "Strip It Down"<ref>{{cite web|title=Strip It Down – Luke Bryan|url=http://www.vevo.com/watch/luke-bryan/strip-it-down/USUV71502021|website=[[Vevo]]|accessdate=October 9, 2015}}</ref>
+| Shaun Silva
+|-
+| rowspan="5"| 2016
+! scope="row"| "Huntin', Fishin' and Lovin' Every Day"<ref>{{cite web|title=Huntin', Fishin' And Lovin' Every Day – Luke Bryan|url=http://www.vevo.com/watch/luke-bryan/Huntin-Fishin-And-Lovin-Every-Day/USUV71600745|website=[[Vevo]]|accessdate=April 4, 2016}}</ref>
+| Michael Monaco, Hunter Jobes
+|-
+! scope="row"| "Here's to the Farmer"<ref>{{cite web|url=http://www.cmt.com/videos/luke-bryan/1542262/heres-to-the-farmer.jhtml|archive-url=https://web.archive.org/web/20170510083344/http://www.cmt.com/videos/luke-bryan/1542262/heres-to-the-farmer.jhtml|url-status=dead|archive-date=May 10, 2017|title=CMT : Videos : Luke Bryan : Here's To The Farmer|publisher=[[Country Music Television]]|accessdate=September 11, 2016}}</ref>
+| Michael Monaco
+|-
+! scope="row"| "Move"
+| [[Shane Drake]]
+|-
+! scope="row"| "Forever Country" <br />{{small|(amongst Artists of Then, Now & Forever)}}
+| [[Joseph Kahn (director)|Joseph Kahn]]
+|-
+! scope="row"| "I Do All My Dreamin' There"
+| Roger Pistole
+|-
+| rowspan="2"|2017
+! scope="row"| "Fast"
+| rowspan="2"| Michael Monaco
+|-
+! scope="row"| "Light It Up"
+|-
+| rowspan="4"| 2018
+! scope="row"| "Most People Are Good"<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-country/see-luke-bryans-optimistic-most-people-are-good-video-120996/|title=See Luke Bryan's Optimistic 'Most People Are Good' Video|magazine=[[Rolling Stone]]|date=March 14, 2018}}</ref>
+| Wes Edwards
+|-
+! scope="row"| "Straight to Hell" {{small|([[Darius Rucker]] with [[Jason Aldean]],<br />Luke Bryan, and [[Charles Kelley]])}}
+| [[TK McKamy]]
+|-
+! scope="row"| "Sunrise, Sunburn, Sunset"<ref>{{cite web|url=http://tasteofcountry.com/luke-bryan-sunrise-sunburn-sunset-video/|title=Luke Bryan Heads to the Lake In 'Sunrise, Sunburn, Sunset' Video|work=Taste of Country|date=July 26, 2018}}</ref>
+| rowspan="2"| Michael Monaco
+|-
+! scope="row"| "What Makes You Country"<ref>{{cite web|url=http://tasteofcountry.com/luke-bryan-what-makes-you-country-video/|title=Luke Bryan's 'What Made You Country' Video Features His Own Country Boys, Bo, Tate and Til|work=Taste of Country|date=December 13, 2018}}</ref>
+|-
+| rowspan="2"| 2019
+! scope="row"| "Knockin' Boots"
+| [[Isaac Rentz]]
+|-
+! scope="row"| "What She Wants Tonight"
+| rowspan="2"| Michael Monaco
+|-
+| rowspan="3"| 2020
+! scope="row"| "One Margarita"<ref name="freemanstone">{{cite web | url=https://www.rollingstone.com/music/music-country/luke-bryan-one-margarita-video-966861/ | title=Luke Bryan Throws a Beach Party in 'One Margarita' Video | publisher=Rolling Stone | date=March 13, 2020 | accessdate=June 12, 2020 | author=Jon Freeman}}</ref>
+|-
+! scope="row"| "Build Me A Daddy"<ref>{{cite web|url=http://www.cmt.com/news/1821966/watch-luke-bryan-sings-build-me-a-daddy-with-old-school-country-sentiment/|archive-url=https://web.archive.org/web/20200615155911/http://www.cmt.com/news/1821966/watch-luke-bryan-sings-build-me-a-daddy-with-old-school-country-sentiment/|url-status=dead|archive-date=June 15, 2020|title=WATCH: Luke Bryan Sings "Build Me a Daddy" with Old School Country Sentiment |first=Alison|last=Bonaguro|accessdate=June 12, 2020 |work=[[CMT (American TV channel)|CMT]]}}</ref>
+| rowspan="3" {{n/a|Unlisted}}
+|-
+! scope="row"| "Born Here Live Here Die Here"
+|-
+| rowspan="3"| 2021
+! scope="row"| "Waves"<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211205/6vVa6jiDQF8 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20210409105655/https://www.youtube.com/watch?v=6vVa6jiDQF8&feature=youtu.be Wayback Machine]{{cbignore}}: {{cite web| url = https://www.youtube.com/watch?v=6vVa6jiDQF8| title = Luke Bryan - Waves (Official Music Video) | website=[[YouTube]]| date = April 9, 2021 }}{{cbignore}}</ref>
+|-
+! scope="row"| "Down to One"
+| Shaun Silva
+|-
+! scope="row"| "Bill Dance"<ref>Archived at
+[https://ghostarchive.org/varchive/youtube/20211205/nzR0NOkmA5Q Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20211005233643/http://www.youtube.com/watch?v=nzR0NOkmA5Q Wayback Machine]{{cbignore}}: {{cite web| url = https://www.youtube.com/watch?v=nzR0NOkmA5Q| title = Luke Bryan - Bill Dance (Official Music Video) | website=[[YouTube]]| date = October 7, 2021 }}{{cbignore}}</ref>
+| {{n/a|Unlisted}}
+|-
+| rowspan="2" | 2022
+! scope="row"| "Up"
+| [[Chris Hicky]]
+|-
+! scope="row"| "Country On"
+| Shaun Silva
+|-
+| rowspan="row" | 2023
+! scope="row"| "But I Got a Beer in My Hand"
+| [[Jim Wright]]
+|-
+| rowspan="row" | 2024
+! scope="row"| "Love You, Miss You, Mean It"
+| Dustin Haney
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Luke Bryan}}
+
+{{DEFAULTSORT:Bryan, Luke}}
+[[Category:Country music discographies]]
+[[Category:Discographies of American artists]]

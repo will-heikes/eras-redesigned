@@ -1,0 +1,305 @@
+{{good article}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2025}}
+{{Infobox song
+| name          = Not a Bad Thing
+| cover         = Not a Bad Thing.png
+| type          = single
+| artist        = [[Justin Timberlake]]
+| album         = [[The 20/20 Experience – 2 of 2]]
+| B-side        = "[[TKO (song)|TKO]]" (Black Friday remix)
+| released      = February 24, 2014
+| studio        = Larrabee (North Hollywood, California)
+| genre         = * [[Pop music|Pop]]
+*[[blue-eyed soul]] <!--Sourced in the composition section-->
+| length        = {{Duration|m=11|s=28}} (album version with "Pair of Wings")
+* {{Duration|m=4|s=26}} (radio edit/single version)
+| label         = [[RCA Records|RCA]]
+| writer        = {{hlist|Justin Timberlake|[[Timothy "Timbaland" Mosley]]|[[Jerome "J-Roc" Harmon]]|[[James Fauntleroy]]}}
+| producer      = {{hlist|[[Timbaland]]|Justin Timberlake|Jerome "J-Roc" Harmon}}
+| prev_title    = [[TKO (song)|TKO]]
+| prev_year     = 2013
+| next_title    = [[Love Never Felt So Good]]
+| next_year     = 2014
+| misc          = {{External music video|1={{YouTube|Vjty080jy60|"Not a Bad Thing"}}}}
+{{Audio sample
+ | type = single
+ | file = Justin Timberlake - Not a Bad Thing sample.ogg
+}}
+}}
+"'''Not a Bad Thing'''" is a song by American singer [[Justin Timberlake]] from his fourth studio album, ''[[The 20/20 Experience – 2 of 2]]'' (2013). It was released as the third single from the album on February 24, 2014, by [[RCA Records]]. It was written and produced by Timberlake, [[Timothy "Timbaland" Mosley]], and [[Jerome "J-Roc" Harmon]], with additional writing from [[James Fauntleroy]]. It is a [[mid-tempo]] [[Pop music|pop]] [[Sentimental ballad|ballad]] about love that uses an [[acoustic guitar]] throughout.
+
+"Not a Bad Thing" received positive reviews from several [[music journalism|contemporary music critics]]. Its music video premiered on ''[[The Ellen DeGeneres Show]]'' on March 20, 2014. It is a mini-documentary that follows two documentary filmmakers searching for a couple who got engaged on January 12, 2014, while heading to New York City on the [[Long Island Rail Road]] train, with the man proposing to his girlfriend to "Not a Bad Thing". The video concludes with the filmmakers being led to several false leads, with a second part of the video to follow. Timberlake performed it on ''[[The Tonight Show Starring Jimmy Fallon]]'' and during [[The 20/20 Experience World Tour]]. It reached number 8 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and topped the [[Mainstream Top 40]].
+
+== Production and composition ==
+[[File:NSYNC.jpg|thumb|upright|left|Brice Ezell of ''[[PopMatters]]'' compared "Not a Bad Thing" to [[NSYNC]]'s 1999 song "[[(God Must Have Spent) A Little More Time on You]]" for sharing the same "emotional earnestness" and "heart-melter" characteristics.]]
+On March 16, 2013, a day after ''The 20/20 Experience'' released, record producer and drummer for [[The Roots]], [[Questlove]] announced that Timberlake was planning to release a follow-up record to ''The 20/20 Experience'' in November. He referenced the album's 10-song track listing and title by saying, "10 songs now...10 songs later = 20 vision."<ref>{{cite magazine |last=Payne |first=Chris |date=March 17, 2013 |title=Questlove: Justin Timberlake's '20/20 Experience,' Volume 2 Due In November |url=http://www.billboard.com/articles/news/1552440/questlove-justin-timberlakes-2020-experience-volume-2-due-in-november |url-status=live |archive-url=https://web.archive.org/web/20130528104719/http://www.billboard.com/articles/news/1552440/questlove-justin-timberlakes-2020-experience-volume-2-due-in-november |archive-date=May 28, 2013 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Affirming Questlove's comments, album co-producer [[J-Roc]] revealed that the follow-up will consist of outtakes from the original album, as well as new material from upcoming studio sessions.<ref>{{cite magazine |last=Lipshutz |first=Jason |date=April 17, 2013 |title=Justin Timberlake's November Album To Feature Material From '20/20' Sessions |url=https://www.billboard.com/music/music-news/justin-timberlakes-november-album-to-feature-material-from-2020-1558428/ |url-status=live |archive-url=https://web.archive.org/web/20220105113030/https://www.billboard.com/music/music-news/justin-timberlakes-november-album-to-feature-material-from-2020-1558428/ |archive-date=January 5, 2022 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Timberlake announced on May 5 that his fourth album, ''The 20/20 Experience – 2 of 2'', would be released in September.<ref>{{cite magazine |last=Letkemann |first=Jessica |date=May 5, 2013 |title=Justin Timberlake Tweets '20/20 Experience' Part 2 Due September 30 |url=http://www.billboard.com/articles/news/1560683/justin-timberlake-tweets-2020-experience-part-2-due-september-30 |url-status=live |archive-url=https://web.archive.org/web/20130604031118/http://www.billboard.com/articles/news/1560683/justin-timberlake-tweets-2020-experience-part-2-due-september-30 |archive-date=June 4, 2013 |access-date=June 6, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+"Not a Bad Thing" was written by Timberlake, [[Timothy "Timbaland" Mosley]], [[Jerome "J-Roc" Harmon]], and [[James Fauntleroy]], and produced by Timbaland, Timberlake, and Harmon.<ref name="RCA Records, a division of Sony Music Entertainment-2013" /> It is a [[mid-tempo]] [[pop ballad]],<ref>{{cite web |last=Wass |first=Mike |date=February 14, 2014 |title=Justin Timberlake Picks "Not A Bad Thing" As The Next '2 Of 2' Single: Listen To The Radio Edit |url=http://www.idolator.com/7505398/justin-timberlake-not-a-bad-thing-radio-edit |url-status=dead |archive-url=https://archive.today/20140212035938/http://www.idolator.com/7505398/justin-timberlake-not-a-bad-thing-radio-edit |archive-date=February 12, 2014 |access-date=February 18, 2014 |website=[[Idolator (website)|Idolator]]}}</ref><ref name="Gleason-2013">{{cite magazine |last=Gleason |first=Holly |date=October 1, 2013 |title=Justin Timberlake: The 20/20 Experience: 2 of 2 |url=https://www.pastemagazine.com/music/justin-timberlake/justin-timberlake-the-2020-experience-2-of-2 |url-status=live |archive-url=https://web.archive.org/web/20140223114533/http://www.pastemagazine.com/articles/2013/10/justin-timberlake-the-2020-experience-2-of-2.html |archive-date=February 23, 2014 |access-date=February 18, 2014 |magazine=[[Paste (magazine)|Paste]]}}</ref> with a running duration of 11 minutes and 28 seconds; the album version includes a [[hidden track]] entitled "Pair of Wings".<ref>{{cite web |last=Kellman |first=Andy |title=The 20/20 Experience – 2 of 2 – Justin Timberlake &#124; Songs, Reviews, Credits, Awards |url=http://www.allmusic.com/album/the-20-20-experience-2-of-2-mw0002569550 |url-status=live |archive-url=https://web.archive.org/web/20140208044111/http://www.allmusic.com/album/the-20-20-experience-2-of-2-mw0002569550 |archive-date=February 8, 2014 |access-date=October 1, 2013 |publisher=[[AllMusic]]}}</ref> Critics noted its focus on the theme of love.<ref name="Gleason-2013"/><ref name="Thomas-2013">{{cite web |last=Thomas |first=Jeremy |date=October 1, 2013 |title=Justin Timberlake – The 20/20 Experience 2 of 2 Review |url=http://www.411mania.com/music/album_reviews/299131/Justin-Timberlake---The-20-20-Experience-2-of-2-Review.htm#RFtixwVPQDZIpiFU.99 |url-status=dead |archive-url=https://web.archive.org/web/20140209040324/http://www.411mania.com/music/album_reviews/299131/Justin-Timberlake---The-20-20-Experience-2-of-2-Review.htm#RFtixwVPQDZIpiFU.99 |archive-date=February 9, 2014 |access-date=February 18, 2014 |publisher=[[411Mania]]}}</ref> ''[[PopMatters]]''{{'}} Brice Ezell saw "Not a Bad Thing" to share the same characteristics as NSYNC's 1999 "[[(God Must Have Spent) A Little More Time on You]]", using the same "emotional earnestness" which made the latter song the "heart-melter" it was during its release.<ref>{{cite magazine |last=Ezell |first=Brice |date=September 29, 2013 |title=Justin Timberlake: The 20/20 Experience (2 of 2) |url=http://www.popmatters.com/review/175560-justin-timberlake-the-20-20-experience-2-of-2/ |url-status=live |archive-url=https://web.archive.org/web/20131005090016/http://www.popmatters.com/review/175560-justin-timberlake-the-20-20-experience-2-of-2/ |archive-date=October 5, 2013 |access-date=October 5, 2013 |magazine=[[PopMatters]]}}</ref> Mikael Wood of ''[[Los Angeles Times]]'' described it as a "dewy, [[blue-eyed soul]] number" that was realized when Timberlake was discovering the "emotional possibilities of his singing" during his time with the boy band.<ref name="Wood-2013">{{cite news |last=Wood |first=Mikael |date=September 30, 2013 |title=Review: Justin Timberlake edgier on '20/20 Experience — 2 of 2' |url=http://www.latimes.com/entertainment/music/posts/la-et-ms-justin-timberlake-20130930,0,4219623.story#axzz2tgtMKegA |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20131001044302/http://www.latimes.com/entertainment/music/posts/la-et-ms-justin-timberlake-20130930,0,4219623.story#axzz2tgtMKegA |archive-date=October 1, 2013 |access-date=February 18, 2014 |work=[[Los Angeles Times]]}}</ref> Holly Gleason of ''[[Paste (magazine)|Paste]]'' interpreted the lyrics as endorsing love, with it contrasting the previous tracks on ''The 20/20 Experience – 2 of 2'', celebrating the "happily ever after trope for all its worth".<ref name="Gleason-2013"/>
+
+== Release and promotion ==
+RCA executives reportedly believed that "Not a Bad Thing" could be ''The 20/20 Experience – 2 of 2''{{'}}s largest commercial success. However, they instead opted to release "[[Take Back the Night (song)|Take Back the Night]]" and "[[TKO (song)|TKO]]" first, to represent the album's R&B sound and distinguish "Not a Bad Thing" from the sonically similar "[[Mirrors (Justin Timberlake song)|Mirrors]]".<ref name="Billboard-2014"/> A radio edit of it was [[Music download|digitally]] released on February 24, 2014, in Austria,<ref name="Amazon.com (DE)-2"/> France,<ref name="Amazon.com (FR)"/> Germany,<ref name="Amazon.com (DE)-2"/> Italy,<ref name="Amazon.com (IT)"/> Spain,<ref name="Amazon.com (ES)"/> Switzerland,<ref name="Amazon.com (DE)-2"/> the United Kingdom<ref name="Amazon.com (UK)"/> and the United States.<ref name="Amazon.com"/> The next day, it impacted the [[contemporary hit radio]] in the United States.<ref name="AllAccess-2"/> On March 31, it was sent to US [[Adult Contemporary (radio network)|adult contemporary radio]].<ref name="AllAccess"/> The song was released as a [[CD single]] in Austria, Germany and Switzerland; apart from the radio edit of it, it also featured the Black Friday remix version of "[[TKO (song)|TKO]]".<ref name="Amazon.com (DE)"/> The song impacted the mainstream radio in Italy on June 4.<ref name="Corradini, Paola"/>
+
+Timberlake performed "Not a Bad Thing" on ''[[The Tonight Show Starring Jimmy Fallon]]'' on February 21, 2014.<ref>{{cite web |last=Shipley |first=Kelci |date=February 22, 2014 |title=Watch Justin Timberlake And Jimmy Fallon's 'History of Rap' Reunion |url=http://www.mtv.com/news/articles/1722794/justin-timberlake-jimmy-fallon-history-of-rap-5.jhtml |url-status=dead |archive-url=https://web.archive.org/web/20140301164639/http://www.mtv.com/news/articles/1722794/justin-timberlake-jimmy-fallon-history-of-rap-5.jhtml |archive-date=March 1, 2014 |access-date=February 24, 2014 |publisher=[[MTV News]]}}</ref> He also performed it during ''[[The 20/20 Experience]]'' and ''2 of 2''{{'s}} supporting tour, [[The 20/20 Experience World Tour]].<ref>{{cite news |last=Farber |first=Jim |date=November 7, 2013 |title=Concert review: Justin Timberlake kicks off '20/20 Experience' tour with flirty gig at Barclays Center |url=http://nydailynews.com/entertainment/music-arts/timberlake-kicks-20-20-experience-tour-barclays-center-article-1.1509258 |url-status=dead |archive-url=https://web.archive.org/web/20160303183758/http://www.nydailynews.com/entertainment/music-arts/timberlake-kicks-20-20-experience-tour-barclays-center-article-1.1509258 |archive-date=March 3, 2016 |access-date=November 23, 2013 |newspaper=[[New York Daily News]]}}</ref>
+
+== Reception and commercial performance ==
+"Not a Bad Thing" received general acclaim from critics. Jeremy Thomas of [[411Mania]] selected it as one of the stand-out tracks from ''The 20/20 Experience – 2 of 2'', using it as an example of a song from the album that "has a gentle side that can be appreciated," noting it as a "lovely close" to the album.<ref name="Thomas-2013"/> Similarly, selecting it as a stand-out, Chris Bosman of ''[[Consequence (publication)|Consequence]]'' saw it serving as the "pitch perfect" nostalgic track, pointing out its 'NSYNC influence.<ref name="Bosman-2013">{{cite magazine |last=Bosman |first=Chris |date=October 2, 2013 |title=Justin Timberlake Overreaches on His 20/20 Follow-Up |url=https://entertainment.time.com/2013/10/02/justin-timberlake-overreaches-on-his-2020-follow-up/#ixzz2rvQMePYd |url-status=live |archive-url=https://web.archive.org/web/20140226114845/http://entertainment.time.com/2013/10/02/justin-timberlake-overreaches-on-his-2020-follow-up/#ixzz2rvQMePYd |archive-date=February 26, 2014 |access-date=February 18, 2014 |magazine=[[Time (magazine)|Time]]}}</ref> As well as depicting the latter influence, Melinda Newman of [[HitFix]] awarded it an A grade, labeling it as a "lovely, lilting straight-up pop tune."<ref>{{cite web |last=Newman |first=Melinda |date=September 30, 2013 |title=Justin Timberlake The 20/20 Experience 2 of 2: Track-by-track review |url=http://www.hitfix.com/news/justin-timberlakes-the-2020-experience-2-of-2-track-by-track-review |url-status=dead |archive-url=https://web.archive.org/web/20141007161113/http://www.hitfix.com/news/justin-timberlakes-the-2020-experience-2-of-2-track-by-track-review |archive-date=October 7, 2014 |access-date=April 21, 2014 |publisher=[[HitFix]]}}</ref> David Meller of ''[[MusicOMH]]'' described it as "arduous" due to its length and it having "any sort of edginess or intrigue."<ref>{{cite magazine |last=Meller |first=David |date=September 30, 2013 |title=Justin Timberlake – The 20/20 Experience (2 of 2) |url=http://www.musicomh.com/reviews/albums/justin-timberlake-2020-experience-2-2 |url-status=live |archive-url=https://web.archive.org/web/20140201233100/http://www.musicomh.com/reviews/albums/justin-timberlake-2020-experience-2-2 |archive-date=February 1, 2014 |access-date=February 18, 2014 |magazine=[[MusicOMH]]}}</ref> Along with several other songs within ''The 20/20 Experience – 2 of 2'', Dave Hanratty of ''[[Drowned in Sound]]'' dismissed "Not a Bad Thing", writing that it contains "sun-kissed and forced smiles."<ref name="Hanratty-2013">{{cite web |last=Hanratty |first=Dave |date=September 30, 2013 |title=Album Review: Justin Timberlake – The 20/20 Experience – 2 of 2 |url=http://drownedinsound.com/releases/17875/reviews/4146930 |url-status=dead |archive-url=https://web.archive.org/web/20160324075045/http://drownedinsound.com/releases/17875/reviews/4146930 |archive-date=March 24, 2016 |access-date=February 18, 2014 |website=[[Drowned in Sound]]}}</ref>
+
+"Not a Bad Thing" reached the top 30 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] in its fourth week on the chart, at number 27.<ref>{{cite web |last=Grein |first=Paul |date=March 26, 2014 |title=Chart Watch: After "Frozen," Here Comes "Summer" |url=https://music.yahoo.com/blogs/music-news/chart-watch-frozen-comes-summer-002850198.html |url-status=live |archive-url=https://web.archive.org/web/20140329231935/https://music.yahoo.com/blogs/music-news/chart-watch-frozen-comes-summer-002850198.html |archive-date=March 29, 2014 |access-date=May 2, 2014 |publisher=[[Yahoo Music]]}}</ref> In its fifth week, it rose to number 20, and in its sixth week, it again rose to number 14.<ref>{{cite web |last=Grein |first=Paul |date=April 3, 2014 |title=Chart Watch: Shakira Tops Gaga |url=https://music.yahoo.com/blogs/chart-watch/chart-watch-shakira-tops-gaga-173740725.html |url-status=live |archive-url=https://web.archive.org/web/20140408231841/https://music.yahoo.com/blogs/chart-watch/chart-watch-shakira-tops-gaga-173740725.html |archive-date=April 8, 2014 |access-date=May 2, 2014 |publisher=[[Yahoo Music]]}}</ref><ref>{{cite web |last=Grein |first=Paul |date=April 9, 2014 |title=Chart Watch: Sam Smith's Breakout Moment |url=https://music.yahoo.com/blogs/chart-watch/chart-watch-sam-smith-breakout-moment-000300748.html |url-status=live |archive-url=https://web.archive.org/web/20140426201918/https://music.yahoo.com/blogs/chart-watch/chart-watch-sam-smith-breakout-moment-000300748.html |archive-date=April 26, 2014 |access-date=May 2, 2014 |publisher=[[Yahoo Music]]}}</ref> It reached number 12 in its seventh week,<ref>{{cite web |last=Grein |first=Paul |date=April 16, 2014 |title=Chart Watch: Luke Bryan Avenges ACM Losses |url=https://music.yahoo.com/blogs/chart-watch/chart-watch-luke-bryan-avenges-acm-losses-235224743.html |url-status=live |archive-url=https://web.archive.org/web/20140426202230/https://music.yahoo.com/blogs/chart-watch/chart-watch-luke-bryan-avenges-acm-losses-235224743.html |archive-date=April 26, 2014 |access-date=May 2, 2014 |publisher=[[Yahoo Music]]}}</ref> before entering the top 10 at number 8 the following week.<ref name="Billboard-2014">{{cite magazine |last=Trust |first=Gary |date=April 23, 2014 |title=Pharrell Williams Still Atop Hot 100; Justin Timberlake, Chris Brown Reach Top 10 |url=http://www.billboard.com/articles/news/6062909/pharrell-williams-still-atop-hot-100-justin-timberlake-chris-brown-reach-top |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20140426003223/http://www.billboard.com/articles/news/6062909/pharrell-williams-still-atop-hot-100-justin-timberlake-chris-brown-reach-top |archive-date=April 26, 2014 |access-date=May 2, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> It sold 88,000 digital copies that week, with an audience impression of 79 million.<ref name="Billboard-2014"/> It marked his 15th top ten hit on the Hot 100, while being the first and only top 10 single from ''[[The 20/20 Experience – 2 of 2]]''.<ref name="Billboard-2014"/> "Not a Bad Thing" has also achieved similar success on the US format charts, peaking at number 1 on the [[Mainstream Top 40]],<ref name="Pop Songs"/> number 1 on the [[Adult Top 40]]<ref name="Adult Pop Songs"/> and at number 4 on the [[Rhythmic (chart)|Rhythmic]] chart.<ref name="Rhythmic"/> On the Mainstream Top 40, Timberlake became the male artist with the most number-one songs and top 10 singles.<ref name="Gary Trust-2014">{{cite magazine |last=Trust |first=Gary |date=May 26, 2014 |title=Chart Highlights: Justin Timberlake Passes Bruno Mars For Most Pop Songs No. 1s Among Solo Males |url=https://www.billboard.com/pro/chart-highlights-justin-timberlake-passes-bruno-mars-for-most/ |url-status=live |archive-url=https://web.archive.org/web/20140530014703/http://www.billboard.com/articles/columns/chart-beat/6099296/chart-highlights-justin-timberlake-passes-bruno-mars-for-most |archive-date=May 30, 2014 |access-date=May 31, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> [[Bruno Mars]] later tied with Timberlake for the most number-one singles among men when his [[Mark Ronson]]'s collaboration "[[Uptown Funk]]" reached the top spot in early 2015.<ref>{{cite magazine |last=Trust |first=Gary |date=January 26, 2015 |title=Chart Highlights: Mark Ronson, Bruno Mars Top Pop Songs, Dance/Mix Show Airplay |url=https://www.billboard.com/pro/chart-highlights-mark-ronson-bruno-mars-top-pop-songs-dancemix/ |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20250126193759/https://www.billboard.com/pro/chart-highlights-mark-ronson-bruno-mars-top-pop-songs-dancemix/ |archive-date=January 26, 2025 |access-date=September 11, 2025 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> The tie was broken by Timberlake's "[[Can't Stop the Feeling!]]" in June 2016.<ref>{{cite magazine |last=Trust |first=Gary |date=June 6, 2016 |title=Justin Timberlake's 'Can't Stop the Feeling!' Hits No. 1 on Pop Songs & Adult Pop Songs Charts |url=https://www.billboard.com/pro/justin-timberlake-cant-stop-the-feeling-pop-charts/ |url-status=live |archive-url=https://web.archive.org/web/20160608121414/http://www.billboard.com/articles/columns/chart-beat/7393691/justin-timberlake-cant-stop-the-feeling-pop-charts |archive-date=June 8, 2016 |access-date=June 6, 2016 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> As of 2018, it has sold 1.5 million downloads in the United States.<ref name="Trust-2018">{{cite magazine |last=Trust |first=Gary |date=February 4, 2018 |title=Ask Billboard: Justin Timberlake & *NSYNC's Career Album & Song Sales |url=https://www.billboard.com/pro/justin-timberlake-nsync-career-album-song-sales-ask-billboard/ |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20211218184449/https://www.billboard.com/pro/justin-timberlake-nsync-career-album-song-sales-ask-billboard/ |archive-date=December 18, 2021 |access-date=February 4, 2018 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+== Music video ==
+A preview of its music video made its debut on ''[[The Ellen DeGeneres Show]]'' on March 20, 2014,<ref>{{cite web |title=Exclusive! Justin Timberlake's New Music Video — The Ellen DeGeneres Show |url=http://www.ellentv.com/videos/0-kplm56s3 |url-status=dead |archive-url=https://web.archive.org/web/20140320154638/http://www.ellentv.com/videos/0-kplm56s3/ |archive-date=March 20, 2014 |access-date=March 20, 2014 |publisher=[[The Ellen DeGeneres Show]] (a [[Warner Bros.]] production)}}</ref> before the full video premiered online later that day.<ref>{{cite magazine |last=Lazerine |first=Devin |date=March 20, 2014 |title=Video: Justin Timberlake – 'Not a Bad Thing' |url=http://www.rap-up.com/2014/03/20/video-justin-timberlake-not-a-bad-thing/ |url-status=dead |archive-url=https://web.archive.org/web/20140324083650/https://www.rap-up.com/2014/03/20/video-justin-timberlake-not-a-bad-thing/ |archive-date=March 24, 2014 |access-date=April 12, 2014 |magazine=[[Rap-Up]]}}</ref> Timberlake does not make an appearance in the video; the video involves two documentary filmmakers searching for a couple that got engaged on January 12, 2014, while heading to New York City on the [[Long Island Rail Road]], with the man proposing to his girlfriend to "Not a Bad Thing". Throughout the music video, couples are interviewed, sharing their reflections on love, marriage, and their relationships, as well as their thoughts on the unknown couple. In conjunction, the documentarians are shown in the streets of New York City with flyers with the [[hashtag]] "#haveyouseenthiscouple," as well as stopping by for a radio interview and texting each other from borough to borough. The search produces several false leads, as they ask strangers and friends for help, with the video ending with a "To Be Continued" title.<ref name="Lee-2014">{{cite magazine |last=Lee |first=Ashley |date=March 20, 2014 |title=Timberlake premieres the video on "The Ellen DeGeneres Show" |url=https://www.billboard.com/music/pop/justin-timberlake-seeks-couple-with-not-a-bad-thing-video-watch-5944621/ |url-status=live |archive-url=https://web.archive.org/web/20220420073357/https://www.billboard.com/music/pop/justin-timberlake-seeks-couple-with-not-a-bad-thing-video-watch-5944621/ |archive-date=April 20, 2022 |access-date=April 12, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Following the video's premiere, [[Ellen DeGeneres]] explained that "Obviously, if you know this couple, contact us, because Justin is trying to find you and we'll put you all together."<ref name="Lee-2014"/>
+
+A second video documenting several love stories that fans submitted on [[Twitter]] under the hashtag #NotABadLoveStory, collecting photos and videos, was shared on Timberlake's [[Vevo]] channel on [[YouTube]].<ref>{{cite magazine |last=Lipshutz |first=Jason |date=June 3, 2014 |title=Justin Timberlake Releases New Fan-Made 'Not A Bad Thing' Video: Watch |url=https://www.billboard.com/music/music-news/justin-timberlake-not-a-bad-thing-fan-video-6106441/ |url-status=live |archive-url=https://web.archive.org/web/20220301194706/https://www.billboard.com/music/music-news/justin-timberlake-not-a-bad-thing-fan-video-6106441/ |archive-date=March 1, 2022 |access-date=November 14, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+== Personnel ==
+Credits were adapted from the liner notes of ''The 20/20 Experience – 2 of 2''.<ref name="RCA Records, a division of Sony Music Entertainment-2013">{{cite AV media notes |title=[[The 20/20 Experience – 2 of 2]] |year=2013 |others=[[Justin Timberlake]] |publisher=[[RCA Records]], a division of [[Sony Music Entertainment]] |type=booklet |location=[[New York City]], NY}}</ref>
+;Locations
+* Vocals recorded and mixed at Larrabee Studios, [[North Hollywood]], California
+;Personnel
+{{Div col|colwidth=30em}}
+* Timothy "Timbaland" Mosley – producer, songwriter
+* Justin Timberlake – Mixer, producer, songwriter, vocal producer, vocal arranger, guitar
+* Jerome "J-Roc" Harmon – keyboards, producer, songwriter
+* James Fauntleroy – songwriter
+* Chris Godbey – engineer, mixer
+* Jimmy Douglass – mixer
+* Alejandro Baima – assistant mixer
+* Elliot Ives – guitar
+{{div col end}}
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! Chart (2014)
+! Peak<br />position
+|-
+{{single chart|Australia|10|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=April 27, 2014}}
+|-
+! scope="row"| Australia Urban ([[ARIA Charts|ARIA]])<ref>{{cite web |title=ARIA Australian Top 40 Urban Singles |url=http://www.ariacharts.com.au/chart/urban-singles |archive-url=http://www.freezepage.com/1397931283HDNJMSXMSI?url=http://www.ariacharts.com.au/chart/urban-singles |archive-date=April 19, 2014 |access-date=April 19, 2014 |publisher=[[ARIA Charts|ARIA Top 40 Urban Singles]]}}</ref>
+| style="text-align:center;"| 1
+|-
+{{single chart|Austria|69|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=June 26, 2014}}
+|-
+{{single chart|Flanders Tip|4|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=May 9, 2014|refname="Flanders"}}
+|-
+{{single chart|Flanders Urban|20|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=May 9, 2014|refname="Flanders Urban"}}
+|-
+{{single chart|Wallonia Tip|32|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=April 26, 2014}}
+|-
+{{single chart|Canada|9|artist=Justin Timberlake|rowheader=true|accessdate=June 7, 2014}}
+|-
+{{single chart|Billboardcanadaac|15|artist=Justin Timberlake|rowheader=true|accessdate=August 1, 2014}}
+|-
+{{single chart|Billboardcanadachrtop40|2|artist=Justin Timberlake|rowheader=true|accessdate=May 29, 2014}}
+|-
+{{single chart|Billboardcanadahotac|2|artist=Justin Timberlake|rowheader=true|accessdate=June 13, 2014}}
+|-
+{{single chart|Czech Republic|15|year=2014|week=19|rowheader=true|accessdate=April 23, 2014}}
+|-
+{{single chart|Czechdigital|27|year=2014|week=23|rowheader=true|accessdate=July 3, 2014}}
+|-
+{{single chart|Denmark|16|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=May 16, 2014}}
+|-
+{{single chart|Germany|62|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|songid=1185233|accessdate=April 28, 2014}}
+|-
+!scope="row"|Iceland ([[RÚV]])<ref>{{cite web |date=April 8, 2016 |title=Justin Timberlake Chart History |url=http://www.ruv.is/persona/justin-timberlake |url-status=live |archive-url=https://web.archive.org/web/20170816013747/http://www.ruv.is/persona/justin-timberlake |archive-date=August 16, 2017 |access-date=June 19, 2017 |publisher=[[RÚV]]}}</ref>
+| style="text-align:center;"|14
+|-
+{{single chart|Ireland|38|year=2014|week=14|rowheader=true|accessdate=April 7, 2014}}
+|-
+! scope="row"|Lebanon ([[The Official Lebanese Top 20]])<ref>[http://www.olt20.com/Justin_Timberlake#fragment-2 Justin Timberlake chart history] {{Webarchive|url=https://web.archive.org/web/20140527211938/http://olt20.com/Justin_Timberlake#fragment-2 |date=May 27, 2014 }}. olt20.com. Retrieved May 26, 2017.</ref>
+| style="text-align:center;"| 19
+|-
+{{single chart|Dutch40|28|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=May 18, 2014}}
+|-
+{{single chart|Dutch100|46|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=May 9, 2014}}
+|-
+{{single chart|New Zealand|5|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=April 25, 2014}}
+|-
+{{single chart|Scotland|31|date=2014-05-17|rowheader=true|accessdate=May 17, 2014}}
+|-
+{{single chart|Slovakia|34|year=2014|week=16|rowheader=true|accessdate=April 23, 2014}}
+|-
+{{single chart|Slovakdigital|62|year=2014|week=28|rowheader=true|accessdate=July 15, 2014}}
+|-
+! scope="row"| South Korea ([[Gaon Chart|Gaon Digital Chart]])<ref>{{cite web |title=Gaon Digital Chart |url=http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=11&current_year=2014&chart_Time=week |url-status=dead |archive-url=https://web.archive.org/web/20140315051636/http://gaonchart.co.kr/digital_chart/index.php?nationGbn=E&current_week=11&current_year=2014&chart_Time=week |archive-date=March 15, 2014 |access-date=March 15, 2014 |publisher=[[Gaon Chart]]}}</ref>
+| style="text-align:center;"| 25
+|-
+! scope="row"| South Korea ([[Gaon Chart|Gaon Download Chart]])<ref>{{cite web |title=Gaon Download Chart |url=http://gaonchart.co.kr/digital_chart/download.php?nationGbn=E&current_week=11&current_year=2014&chart_Time=week |access-date=March 15, 2014 |publisher=[[Gaon Chart]]}}</ref>
+| style="text-align:center;"| 22
+|-
+{{single chart|Switzerland|29|artist=Justin Timberlake|song=Not a Bad Thing|rowheader=true|accessdate=April 20, 2014}}
+|-
+{{single chart|UK|21|year=2014|date=2014-05-17|rowheader=true|accessdate=April 28, 2014}}
+|-
+!scope="row"|UK Airplay (''[[Music Week]]'')<ref>{{cite magazine |date=May 17, 2014 |title=Top 50 Airplay Chart |url=https://www.worldradiohistory.com/UK/Music-Week/2014/2014-05-17-Music%20Week.pdf |url-status=live |archive-url=https://web.archive.org/web/20240228225017/https://worldradiohistory.com/UK/Music-Week/2014/2014-05-17-Music%20Week.pdf |archive-date=February 28, 2024 |access-date=April 27, 2024 |magazine=[[Music Week]] |page=28}}</ref>
+|align="center"| 26
+|-
+{{single chart|UKrandb|5|date=2014-05-10|rowheader=true|accessdate=May 19, 2014}}
+|-
+{{single chart|Billboardhot100|8|artist=Justin Timberlake|rowheader=true|accessdate=May 15, 2014}}
+|-
+{{single chart|Billboardadultcontemporary|8|artist=Justin Timberlake|rowheader=true|accessdate=August 10, 2014}}
+|-
+{{single chart|Billboardadultpopsongs|1|artist=Justin Timberlake|rowheader=true|accessdate=June 7, 2014|refname=Adult Pop Songs}}
+|-
+{{single chart|Billboarddanceairplay|23|artist=Justin Timberlake|rowheader=true|accessdate=January 2, 2015}}
+|-
+{{single chart|Billboardpopsongs|1|artist=Justin Timberlake|rowheader=true|accessdate=June 7, 2014|refname=Pop Songs}}
+|-
+{{single chart|Billboardrhythmic|4|artist=Justin Timberlake|rowheader=true|accessdate=June 26, 2014|refname=Rhythmic}}
+|-
+|}
+
+{{col-2}}
+
+=== Monthly charts ===
+{| class="wikitable unsortable plainrowheaders" style="text-align:center"
+|-
+! Chart (2014)
+! Peak<br />position
+|-
+! scope="row"| South Korea ([[Gaon Chart|Gaon Download Chart]])<ref>{{cite web |title=Gaon Download Chart |url=http://gaonchart.co.kr/digital_chart/download.php?nationGbn=E&chart_Time=month |url-status=live |archive-url=https://web.archive.org/web/20140222075744/http://gaonchart.co.kr/digital_chart/download.php?nationGbn=E&chart_Time=month |archive-date=February 22, 2014 |access-date=April 20, 2014 |publisher=[[Gaon Chart]]}}</ref>
+| style="text-align:center;"| 63
+|}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!Chart (2014)
+!Position
+|-
+!scope="row"|Australia (ARIA)<ref>{{cite web |title=ARIA Top 100 Singles 2014 |url=http://aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm |url-status=live |archive-url=https://web.archive.org/web/20170217205705/http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm |archive-date=February 17, 2017 |access-date=January 7, 2015 |publisher=[[Australian Recording Industry Association]]}}</ref>
+|style="text-align:center;"|98
+|-
+!scope="row"|Canada (Canadian Hot 100)<ref>{{cite magazine |title=2014 Year End Charts – Canadian Hot 100 |url=http://www.billboard.com/charts/year-end/2014/canadian-hot-100 |url-status=live |archive-url=https://web.archive.org/web/20160304093132/http://www.billboard.com/charts/year-end/2014/canadian-hot-100 |archive-date=March 4, 2016 |access-date=December 9, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|45
+|-
+!scope="row"|New Zealand (Recorded Music NZ)<ref>{{cite web |title=Top Selling Singles of 2014 |url=https://aotearoamusiccharts.co.nz/archive/annual-singles/2014-12-31 |url-status=live |archive-url=https://web.archive.org/web/20160304073301/http://nztop40.co.nz/chart/?chart=2629 |archive-date=March 4, 2016 |access-date=January 1, 2015 |publisher=[[Recorded Music NZ]]}}</ref>
+|style="text-align:center;"|44
+|-
+!scope="row"|US ''Billboard'' Hot 100<ref>{{cite magazine |title=2014 Year End Charts – Hot 100 Songs |url=http://www.billboard.com/charts/year-end/2014/hot-100-songs |url-status=live |archive-url=https://web.archive.org/web/20160201073006/http://www.billboard.com/charts/year-end/2014/hot-100-songs |archive-date=February 1, 2016 |access-date=December 9, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|45
+|-
+!scope="row"|US Adult Contemporary (''Billboard'')<ref>{{cite magazine |title=2014 Year End Charts – Adult Contemporary |url=http://www.billboard.com/charts/year-end/2014/adult-contemporary-songs |url-status=live |archive-url=https://web.archive.org/web/20160409095831/http://www.billboard.com/charts/year-end/2014/adult-contemporary-songs |archive-date=April 9, 2016 |access-date=December 28, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|16
+|-
+!scope="row"|US Adult Top 40 (''Billboard'')<ref>{{cite magazine |title=2014 Year End Charts – Adult Pop Songs |url=http://www.billboard.com/charts/year-end/2014/adult-pop-songs |url-status=live |archive-url=https://web.archive.org/web/20160416052714/http://www.billboard.com/charts/year-end/2014/adult-pop-songs |archive-date=April 16, 2016 |access-date=December 28, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|20
+|-
+!scope="row"|US Mainstream Top 40 (''Billboard'')<ref>{{cite magazine |title=2014 Year End Charts – Pop Songs |url=http://www.billboard.com/charts/year-end/2014/pop-songs |url-status=live |archive-url=https://web.archive.org/web/20160416042645/http://www.billboard.com/charts/year-end/2014/pop-songs |archive-date=April 16, 2016 |access-date=December 9, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|20
+|-
+!scope="row"|US Rhythmic Songs (''Billboard'')<ref>{{cite magazine |title=2014 Year End Charts – Rhythmic Songs |url=http://www.billboard.com/charts/year-end/2014/rhythmic-songs |url-status=live |archive-url=https://web.archive.org/web/20151108084323/http://www.billboard.com/charts/year-end/2014/rhythmic-songs |archive-date=November 8, 2015 |access-date=December 9, 2014 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|style="text-align:center;"|33
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|relyear=2014|certyear=2014|title=Not a Bad Thing|artist=Justin Timberlake|type=single|award=Platinum|access-date=January 9, 2026}}
+{{Certification Table Entry|region=Brazil|relyear=2014|certyear=2023|title=Not a Bad Thing|artist=Justin Timberlake|type=single|award=Gold|access-date=January 9, 2026}}
+{{Certification Table Entry|region=Denmark|award=Gold|certyear=2014|type=single|artist=Justin Timberlake|title=Not a Bad Thing|relyear=2014|relmonth=2|certmonth=6|id=5588|streamsonly=true|access-date=January 9, 2026}}
+{{Certification Table Entry|region=New Zealand|type=single|award=Platinum|relyear=2014|certyear=2015|artist=Justin Timberlake|source=radioscope|access-date=January 18, 2025|title=Not a Bad Thing}}
+{{Certification Table Entry|region=United Kingdom|relyear=2014|certyear=2018|title=Not a Bad Thing|artist=Justin Timberlake|type=single|award=Silver|id=14933-46-1|access-date=January 9, 2026}}
+{{Certification Table Entry|region=United States|relyear=2014|certyear=2014|title=Not a Bad Thing|artist=Justin Timberlake|type=single|award=Platinum|salesamount=1,500,000|salesref=<ref name="Trust-2018"/>|access-date=January 9, 2026}}
+{{Certification Table Bottom | streaming=true|streamsonly=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+! scope="col"| {{abbr|Ref.|References}}
+|-
+! scope="row"| Austria
+| rowspan="8"| February 24, 2014
+| rowspan="8"| [[Music download|Digital download]]
+| rowspan="6"| [[Sony Music Entertainment|Sony]]
+| align="center"| <ref name="Amazon.com (DE)-2">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.de/gp/product/B00IONA5X2 |url-status=live |archive-url=https://web.archive.org/web/20250222182108/https://www.amazon.de/gp/product/B00IONA5X2 |archive-date=February 22, 2025 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (DE) |language=de}}</ref>
+|-
+! scope="row"| France
+| align="center"| <ref name="Amazon.com (FR)">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.fr/gp/product/B00IOH39MW |url-status=live |archive-url=https://web.archive.org/web/20241127172839/https://www.amazon.fr/gp/product/B00IOH39MW |archive-date=November 27, 2024 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (FR) |language=fr}}</ref>
+|-
+! scope="row"| Germany
+| align="center"| <ref name="Amazon.com (DE)-2"/>
+|-
+! scope="row"| Italy
+| align="center"| <ref name="Amazon.com (IT)">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.it/gp/product/B00IONC9KY |url-status=live |archive-url=https://web.archive.org/web/20250224144644/https://www.amazon.it/gp/product/B00IONC9KY |archive-date=February 24, 2025 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (IT) |language=it}}</ref>
+|-
+! scope="row"| Spain
+| align="center"| <ref name="Amazon.com (ES)">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.es/gp/product/B00IOH3T4K |url-status=live |archive-url=https://web.archive.org/web/20241127171033/https://www.amazon.es/gp/product/B00IOH3T4K |archive-date=November 27, 2024 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (ES) |language=it}}</ref>
+|-
+! scope="row"| Switzerland
+| align="center"| <ref name="Amazon.com (DE)-2"/>
+|-
+! scope="row"| United Kingdom
+| rowspan="4"| [[RCA Records|RCA]]
+| align="center"| <ref name="Amazon.com (UK)">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.co.uk/gp/product/B00IOMF31W |url-status=live |archive-url=https://web.archive.org/web/20250222165632/https://www.amazon.co.uk/gp/product/B00IOMF31W |archive-date=February 22, 2025 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (UK)}}</ref>
+|-
+! scope="row" rowspan="3"| United States
+| align="center"| <ref name="Amazon.com">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.com/gp/product/B00IMNDP5E |url-status=live |archive-url=https://web.archive.org/web/20241203162642/https://www.amazon.com/gp/product/B00IMNDP5E |archive-date=December 3, 2024 |access-date=February 25, 2014 |publisher=[[Amazon.com]]}}</ref>
+|-
+| February 25, 2014
+| [[Contemporary hit radio]]
+| align="center"| <ref name="AllAccess-2">{{cite web |title=Top 40/Mainstream Future Releases |url=http://www.allaccess.com/top40-mainstream |url-status=live |archive-url=https://web.archive.org/web/20140226202118/http://www.allaccess.com/top40-mainstream/future-releases |archive-date=February 26, 2014 |access-date=February 24, 2014 |publisher=[[AllAccess]]}}</ref>
+|-
+| March 31, 2014
+| [[Adult contemporary music|Hot/Modern/AC radio]]
+| align="center"| <ref name="AllAccess">{{cite web |title=Hot/Modern/AC Future Releases |url=http://www.allaccess.com/hot-modern-ac/future-releases |url-status=live |archive-url=https://web.archive.org/web/20140729155132/http://www.allaccess.com/hot-modern-ac/future-releases |archive-date=July 29, 2014 |access-date=March 25, 2014 |publisher=[[AllAccess]]}}</ref>
+|-
+! scope="row"| Austria
+| rowspan="3"| April 18, 2014
+| rowspan="3"| [[CD single]]
+| rowspan="3"| Sony
+| rowspan="3" align="center"| <ref name="Amazon.com (DE)">{{cite web |title=Not a Bad Thing: Justin Timberlake |url=https://www.amazon.de/Not-Bad-Thing-Justin-Timberlake/dp/B00J0LQM16 |url-status=live |archive-url=https://web.archive.org/web/20140417043113/http://www.amazon.de/Not-Bad-Thing-Justin-Timberlake/dp/B00J0LQM16 |archive-date=April 17, 2014 |access-date=April 12, 2014 |publisher=[[Amazon.com]] (DE) |language=de}}</ref>
+|-
+! scope="row"| Germany
+|-
+! scope="row"| Switzerland
+|-
+! scope="row"| United States
+| May 27, 2014
+| [[Adult contemporary music|AC radio]]
+| RCA
+| align="center"| <ref>{{cite web |title=Hot/Modern/AC Future Releases |url=http://www.allaccess.com/hot-modern-ac/future-releases |url-status=live |archive-url=https://web.archive.org/web/20140729155132/http://www.allaccess.com/hot-modern-ac/future-releases |archive-date=July 29, 2014 |access-date=May 21, 2014 |publisher=[[AllAccess]]}}</ref>
+|-
+! scope="row"| Italy
+| June 4, 2014
+| Mainstream radio
+| Sony
+| align="center"| <ref name="Corradini, Paola">{{cite web |author=Corradini, Paola |title=Justin Timberlake – Not a Bad Thing (Sony) |url=http://www.radioairplay.fm/RadioDate/PublicDetails/62402 |url-status=live |archive-url=https://web.archive.org/web/20140607023859/http://www.radioairplay.fm/RadioDate/PublicDetails/62402 |archive-date=June 7, 2014 |access-date=June 5, 2014 |publisher=Radio Airplay SRL |language=it}}</ref>
+|-
+|}
+
+== See also ==
+* [[List of Billboard Hot 100 top 10 singles in 2014]]
+* [[List of Mainstream Top 40 number-one hits of 2014 (U.S.)]]
+
+== References ==
+{{Reflist}}
+
+{{Justin Timberlake songs}}
+{{Authority control}}
+
+[[Category:2013 songs]]
+[[Category:2014 singles]]
+[[Category:Justin Timberlake songs]]
+[[Category:Song recordings produced by J-Roc]]
+[[Category:Song recordings produced by Justin Timberlake]]
+[[Category:Song recordings produced by Timbaland]]
+[[Category:Songs written by James Fauntleroy]]
+[[Category:Songs written by Jerome "J-Roc" Harmon]]
+[[Category:Songs written by Justin Timberlake]]
+[[Category:Songs written by Timbaland]]
+[[Category:RCA Records singles]]
+[[Category:Pop ballads]]
+[[Category:2010s ballads]]
+[[Category:Soul ballads]]

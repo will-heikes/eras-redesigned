@@ -1,0 +1,176 @@
+{{About|the Macklemore & Ryan Lewis song|the type of tire|Whitewall tire}}
+{{Use mdy dates|date=December 2024}}
+{{Infobox song
+| name       = White Walls
+| cover      = White Walls.jpg
+| alt        =
+| type       = single
+| artist     = [[Macklemore & Ryan Lewis]] featuring [[Schoolboy Q]] and [[Hollis (singer)|Hollis]]
+| album      = [[The Heist (album)|The Heist]]
+| released   = {{Start date|2013|10|08}}
+| format     =
+| recorded   = 2012
+| studio     =
+| venue      =
+| genre      = [[Hip hop music|Hip hop]]
+| length     = {{Duration|m=3|s=40}}
+| label      =
+* Macklemore LLC
+* [[Warner Bros. Records|Warner Bros.]]
+| writer     =
+* [[Macklemore|Ben Haggerty]]
+* [[Ryan Lewis]]
+* [[Schoolboy Q|Quincy Hanley]]
+* [[Hollis (singer)|Hollis Wong-Wear]]
+| producer   = Ryan Lewis
+| chronology = [[Macklemore & Ryan Lewis]]
+| prev_title = [[Can't Hold Us]]
+| prev_year  = 2013
+| next_title = [[Arrows (song)|Arrows]]
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Schoolboy Q]]
+ | type       = singles
+ | prev_title = [[Collard Greens (song)|Collard Greens]]
+ | prev_year  = 2013
+ | title      = White Walls
+ | year       = 2013
+ | next_title = [[Man of the Year (Schoolboy Q song)|Man of the Year]]
+ | next_year  = 2013
+}}
+{{Extra chronology
+ | artist     = [[Hollis (singer)|Hollis]]
+ | type       = singles
+ | title      = White Walls
+ | year       = 2013
+ }}
+}}
+
+"'''White Walls'''" is a hip-hop song by an American [[Hip hop music|hip-hop]] duo [[Macklemore & Ryan Lewis]], taken from their collaborative debut studio album ''[[The Heist (album)|The Heist]]'' (2012). The song's [[Hook (music)|hook]] is performed by singer [[Hollis (singer)|Hollis]], while American rapper [[Schoolboy Q]] performs a guest [[Verse (popular music)|verse]]. "White Walls" was released to American [[contemporary hit radio]] on October 8, 2013, as the fifth and final [[single (music)|single]] from ''The Heist''. The song debuted at number 100 and has since peaked at number 15 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and has sold 1,000,000 copies as of January 2014.<ref name=sales>{{cite web |url=http://music.yahoo.com/blogs/music-news/chart-watch-pitbull-kesha-eminem-riri-230734884.html |title=Chart Watch: Pitbull & Kesha & Eminem & RiRi |author=Paul Grein |date=January 8, 2013 |work=Yahoo Music }}</ref>
+
+==Release and promotion==
+The song charted at number one on the US [[Hot R&B/Hip-Hop Songs#Bubbling Under R&B/Hip-Hop Singles|Bubbling Under R&B/Hip-Hop Singles]] prior to its release as a single, due to high [[music download|digital downloads]] subsequently after the album's release. Macklemore, Ryan Lewis, Schoolboy Q and Hollis performed "White Walls" on ''[[The Tonight Show with Jay Leno]]'' on August 27, 2013.<ref>{{cite journal | url=http://www.rap-up.com/2013/08/28/macklemore-ryan-lewis-perform-with-schoolboy-q-on-leno/ | archive-url=https://web.archive.org/web/20131029190805/http://www.rap-up.com/2013/08/28/macklemore-ryan-lewis-perform-with-schoolboy-q-on-leno/ | url-status=dead | archive-date=October 29, 2013 | title=Macklemore & Ryan Lewis Perform with ScHoolboy Q on 'Leno' | journal=[[Rap-Up]] | location=New York | date=August 28, 2013 | access-date=October 31, 2013}}</ref> The song impacted American [[contemporary hit radio]] on October 8, 2013.<ref>{{cite journal | url=http://www.fmqb.com/article.asp?id=16691 | title=CHR – Available for Airplay | journal=[[FMQB]] | location=Cherry Hill | access-date=August 31, 2013 | archive-url=https://archive.today/20130828114720/http://fmqb.com/article.asp?id=16691 | archive-date=August 28, 2013}}</ref>
+
+In November 2020, "White Walls" went viral on [[TikTok]], being used in many videos.
+
+== Music video ==
+The [[music video]], directed by Macklemore, Ryan Lewis and Jason Koenig, was released September 9, 2013. The video features [[cameo appearance]]s from several rappers including [[A$AP Rocky]], [[Trinidad Jame$]], [[Wiz Khalifa]], [[Big Boi]] and [[Sir Mix-a-Lot]], as well as [[DJ Drama]].<ref>{{cite web|url=http://music-mix.ew.com/2013/09/09/macklemore-white-walls-video/|title=Macklemore and Ryan Lewis party with A$AP Rocky in 'White Walls' video|work=Entertainment Weekly's EW.com|access-date=February 2, 2016}}</ref><ref>{{cite web | last=Ortiz | first=Edwin | url=http://www.complex.com/music/2013/09/video-macklemore-ryan-lewis-f-schoolboy-q-hollis | title=Video: Macklemore & Ryan Lewis f/ Schoolboy Q & Hollis "White Walls" | work= [[Complex (magazine)|Complex]] | publisher= Complex Media | date=September 9, 2013 | access-date=September 10, 2013}}</ref> Parts of the music video are shot inside a [[Vogue Tyre]] warehouse, and the eponymous [[whitewall tire]]s are explicitly mentioned by Macklemore to be Vogues.<ref name="TB-Mackle-Vogue">{{cite web | url=http://www.tirebusiness.com/article/20131001/NEWS/131009990/hip-hop-video-shot-in-vogue-tyre-warehouse | title=Hip-hop video shot in Vogue Tyre warehouse | publisher=Tire Business | date=October 1, 2013 | access-date=March 20, 2014 | author=Tire Business Staff Report}}</ref><ref name="Ridesmag-Mackle">{{cite web | url=http://www.rides-mag.com/videos/2013/09/macklemore-ryan-lewis-white-walls-official-video-featuring-schoolboy-q-hollis/ | title=Macklemore & Ryan Lewis – 'White Walls' Official Video Featuring Vogue Tyres | publisher=Rides mag. | date=September 30, 2013 | access-date=March 20, 2014 | author=Evo}}</ref> The video also features several Cadillac models, including an [[Cadillac SRX|SRX]], [[Cadillac Escalade|Escalade]], two [[Cadillac XLR|XLRs]], several [[Cadillac Eldorado|Eldorados]] and a [[Cadillac de Ville series|Coupe de Ville]].
+
+== Charts ==
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col"| Chart (2013–2014)
+! scope="col"| Peak<br />position
+|-
+!scope="row"{{single chart|Australia|34|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row"{{single chart|Austria|8|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row"{{single chart|Flanders Tip|2|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls|accessdate=21 January 2014|refname="Flanders"}}
+|-
+!scope="row"|Belgium ([[Ultratop]] Flanders Urban)<ref name = "Flanders"/>
+|align=center|18
+|-
+!scope="row"{{single chart|Wallonia Tip|13|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row"{{single chart|Canada|17|artist=Macklemore|song=White Walls}}
+|-
+!scope="row"{{single chart|France|65|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row"{{single chart|Germany|17|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls|songid=1095204|accessdate=2019-03-19}}
+|-
+!scope="row"{{single chart|Ireland|30|year=2014|week=07}}
+|-
+!scope="row"{{single chart|New Zealand|6|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row"{{single chart|Switzerland|32|artist=Macklemore & Ryan Lewis feat. Schoolboy Q & Hollis|song=White Walls}}
+|-
+!scope="row" {{single chart|UK|26|date=2014-02-08}}
+|-
+!scope="row" {{single chart|UKrandb|9|date=2014-02-01}}
+|-
+!scope="row"{{single chart|Billboardhot100|15|artist=Macklemore|song=White Walls}}
+|-
+! scope="row"{{single chart|Billboardrandbhiphop|3|artist=Macklemore|song=White Walls}}
+|-
+!scope="row"{{single chart|Billboardpopsongs|13|artist=Macklemore|song=White Walls}}
+|-
+! scope="row"{{single chart|Billboardrhythmic|4|artist=Macklemore|song=White Walls}}
+|-
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Chart (2013)
+! scope="col"| Position
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=8|title=2013 Year End Charts — R&B/Hip-Hop Songs|publisher=Prometheus Global Media|access-date=December 13, 2013}}</ref>
+| style="text-align:center;"| 81
+|-
+! scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2013/rhythmic-songs|title=Rhythmic Songs – Year-End 2013|magazine=Billboard|access-date=November 7, 2021}}</ref>
+| style="text-align:center;"| 49
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Position
+|-
+! scope="row"| Austria (Ö3 Austria Top 40)<ref>{{cite web|url=https://austriancharts.at/year.asp?cat=s&id=2014|title=Jahreshitparade Singles 2014|website=austriancharts.at|access-date=January 6, 2020}}</ref>
+| style="text-align:center;"| 55
+|-
+! scope="row"| Canada (Canadian Hot 100)<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/canadian-hot-100|title=Canadian Hot 100 – Year-End 2014|magazine=Billboard|access-date=October 1, 2019}}</ref>
+| style="text-align:center;"| 85
+|-
+! scope="row"| Germany (Official German Charts)<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2014 |title=Top 100 Single-Jahrescharts|language=de |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=August 10, 2015}}</ref>
+| style="text-align:center;"| 86
+|-
+! scope="row"| US ''Billboard'' Hot 100<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/hot-100-songs|title=Hot 100 Songs – Year-End 2014|magazine=Billboard|access-date=October 1, 2019}}</ref>
+| style="text-align:center;"| 92
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|title=Hot R&B/Hip-Hop Songs – Year-End 2014|url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|magazine=Billboard|access-date=October 1, 2019}}</ref>
+| style="text-align:center;"| 26
+|-
+! scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/rhythmic-songs|title=Rhythmic Songs – Year-End 2014|magazine=Billboard|access-date=October 1, 2019}}</ref>
+| style="text-align:center;"| 35
+|}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|type=single|award=Gold|relyear=2013|certyear=2013|access-date=May 5, 2023}}
+{{Certification Table Entry|region=New Zealand|title=White Walls|artist=Macklemore And Ryan Lewis feat. ScHoolboy Q And Hollis|type=single|award=Platinum|number=2|relyear=2013|source=radioscope|access-date=December 29, 2024|certyear=2024}}
+{{Certification Table Entry|region=United Kingdom|title=White Walls|artist=Macklemore/Lewis/Schoolboy Q|type=single|award=Silver|id=17542-5733-1|relyear=2013|certyear=2021|access-date=October 20, 2021}}
+{{Certification Table Entry|region=United States|title=White Walls|artist=Macklemore & Ryan Lewis|type=single|award=Platinum|number=3|certyear=2022|access-date=October 6, 2022}}
+{{Certification Table Bottom|streaming=true|nosales=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|+Release dates and formats for "White Walls"
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| United States
+| October 8, 2013
+| [[Contemporary hit radio|Mainstream airplay]]
+| [[Warner Records|Warner Bros.]]
+| style="text-align:center"| <ref>{{Cite web |title=CHR Available For Airplay - Archive |url=http://fmqb.com/Article.asp?id=69239 |archive-url=https://web.archive.org/web/20150907091626/http://fmqb.com/Article.asp?id=69239 |archive-date=2015-09-07 |access-date=2026-04-20 |website=fmqb.com}}</ref>
+|}
+
+==References==
+{{Reflist|2}}
+
+{{Macklemore & Ryan Lewis}}
+{{Schoolboy Q}}
+{{Authority control}}
+
+[[Category:2012 songs]]
+[[Category:2013 singles]]
+[[Category:Macklemore songs]]
+[[Category:Ryan Lewis songs]]
+[[Category:Schoolboy Q songs]]
+[[Category:Warner Records singles]]
+[[Category:Songs written by Schoolboy Q]]
+[[Category:Songs written by Macklemore]]
+[[Category:Songs written by Ryan Lewis]]

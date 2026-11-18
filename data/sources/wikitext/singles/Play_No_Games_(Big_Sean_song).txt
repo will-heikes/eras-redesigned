@@ -1,0 +1,89 @@
+{{Infobox song
+| name       = Play No Games
+| cover      =Play_No_Games.jpg
+| alt        =
+| type       = single
+| artist     = [[Big Sean]] featuring [[Chris Brown]] and [[Ty Dolla Sign]]
+| album      = [[Dark Sky Paradise]]
+| released   = September 22, 2015
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = {{hlist|[[Hip hop music|Hip hop]]|[[new jack swing]]|[[Contemporary R&B|R&B]]}}
+| length     = 3:37
+| label      = {{hlist|[[GOOD Music|GOOD]]|[[Def Jam Recordings|Def Jam]]}}
+| writer     = {{hlist|Sean Anderson|Dwane Weir|Justin Johnson|[[Chris Brown|Christopher Brown]]|[[Ty Dolla Sign|Tyrone Griffin]]|Timothy Gatling|Gene Griffin|[[Aaron Hall (singer)|Aaron Hall]]|[[Teddy Riley|Edward Riley]]}}
+| producer   = {{hlist|[[Key Wane]]|Jay John Henry}}
+| chronology = [[Big Sean]]
+| prev_title = [[Back Up (Dej Loaf song)|Back Up]]
+| prev_year  = 2015
+| next_title = [[Champions (GOOD Music song)|Champions]]
+| next_year  = 2016
+| misc       = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = single
+ | prev_title = [[Zero (Chris Brown song)|Zero]]
+ | prev_year  = 2015
+ | title      = Play No Games
+ | year       = 2015
+ | next_title = [[Player (song)|Player]]
+ | next_year  = 2015
+}}
+{{Extra chronology
+ | artist     = [[Ty Dolla Sign]]
+ | type       = singles
+ | prev_title = Fakin'
+ | prev_year  = 2015
+ | title      = Play No Games'
+ | year       = 2015
+ | next_title = [[Saved (Ty Dolla Sign song)|Saved]]
+ | next_year  = 2015
+}}
+}}
+
+"'''Play No Games'''" is a song by American rapper [[Big Sean]] from his third studio album ''[[Dark Sky Paradise]]'' (2015). It features American singers [[Chris Brown]] and [[Ty Dolla Sign]], with production handled by [[Key Wane]] and Jay John Henry. The song samples Guy's 1988 hit single "Piece of My Love". It was sent to US urban contemporary radio on September 22, 2015, as the album's fifth official single.<ref name="UAC">{{cite web|url=http://www.allaccess.com/urban/future-releases|title=Urban/UAC Future Releases}}</ref> The song peaked at number eight on the ''[[Billboard (magazine)|Billboard]]'' [[R&B/Hip-Hop Airplay]] chart while peaking at number 84 and number 28 on the [[Billboard Hot 100|''Billboard'' Hot 100]] and the ''Billboard'' [[Hot R&B/Hip-Hop Songs]] charts, respectively.<ref>{{Cite magazine|url=https://www.billboard.com/artist/big-sean/chart-history/rbm/|title = Big Sean| magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+
+==Music video==
+Directed by Mike Carson and inspired by the popular sitcom ''[[Martin (TV series)|Martin]]'', the music video for "Play No Games" premiered at the [[BET Awards 2015|BET Awards]] on June 28, 2015 and features [[French Montana]], [[Sevyn Streeter]], [[Reginald Ballard]], appearing as Bruh Man, singing Ty Dolla Sign's vocals, along with a cameo appearance by the sitcom's title character, [[Martin Lawrence]] and the late [[Thomas Mikal Ford]] as Tommy<ref>{{Cite web|url=http://www.fuse.tv/videos/2015/06/big-sean-play-no-games-video-martin-lawrence|title=Big Sean Visits the '90s With 'Martin'-tastic Video 'Play No Games'|website=[[Fuse (TV channel)|Fuse]]}}</ref>
+
+==Charts==
+{| class="wikitable sortable plainrowheaders"
+|-
+!Chart (2015–2016)
+!Peak<br />position
+|-
+{{singlechart|Billboardhot100|84|artist=Big Sean|song=One Man Can Chang the World|rowheader=true}}
+|-
+{{singlechart|Billboardrandbhiphop|28|artist=Big Sean|song=One Man Can Change the World|rowheader=true}}
+|-
+{{singlechart|Billboardrandbhiphopairplay|8|artist=Big Sean|song=One Man Can Change the World|rowheader=true}}
+|-
+{{single chart|Billboardrhythmic|15|artist=Big Sean|access-date=December 16, 2023|rowheader=true}}
+|}
+<!-- Before adding any other US charts please review/consult [[WP:BILLBOARDCHARTS#Single charts]] & [[WP:CHARTMATH]]. -->
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=New Zealand|artist=Big Sean|title=Play No Games|type=single|award=Gold|relyear=2015|access-date=July 17, 2025|certyear=2025|source=radioscope}}
+{{Certification Table Entry|region=United States|title=Play No Games|artist=Big Sean|type=single|award=Platinum|relyear=2015|certyear=2016}}
+{{Certification Table Bottom|streaming=true | nosales=true | noshipments=true}}
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+* {{YouTube|DJi7WupFqPQ|Music video}}
+
+{{Big Sean singles}}
+{{Chris Brown singles}}
+{{Ty Dolla Sign}}
+
+[[Category:2014 songs]]
+[[Category:Big Sean songs]]
+[[Category:Chris Brown songs]]
+[[Category:Songs written by Big Sean]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Songs written by Ty Dolla Sign]]
+[[Category:Songs written by Timmy Gatling]]
+[[Category:Songs written by Aaron Hall (singer)]]
+[[Category:Songs written by Teddy Riley]]

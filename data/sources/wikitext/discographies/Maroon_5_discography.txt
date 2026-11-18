@@ -1,0 +1,1013 @@
+{{Short description|None}}
+{{Use mdy dates|date=February 2022}}
+{{featured list}}
+{{Infobox artist discography
+| Artist          = [[Maroon 5]]
+| Image           = Maroon 5 Current Lineup Collage.jpg 
+| Caption         = Maroon 5 lineup since 2020
+| Studio          = 8
+| Live            = 3
+| Compilation     = 3
+| Option          = 1
+| Option name     = Demo Albums
+| EP              = 7
+| Music videos    = 48
+| Singles         = 39
+| 1Option         = 10
+| 1Option name    = Promotional singles
+| 2Option         = 1
+| 2Option name    = Remix albums
+}}
+
+American [[pop rock]] band [[Maroon 5]] has released eight [[studio album]]s, three [[live album]]s, three [[compilation album]]s, one [[remix album]], seven [[extended play]]s (EPs), 39 [[single (music)|single]]s, 10 [[promotional single]]s, and 48 [[music video]]s. The group originally formed in 1994 as [[Kara's Flowers]] while they were still attending high school. With a line-up of [[Adam Levine]], [[Jesse Carmichael]], [[Michael Madden (musician)|Mickey Madden]] and [[Ryan Dusick]], they released their independent album, ''...We Like Digging?'' in 1994. In 1997, they signed to [[Reprise Records]] and released an album, ''[[The Fourth World (album)|The Fourth World]]''. After a tepid response to the album, the band parted with their record label and attended college. In 2001, the band regrouped and added [[James Valentine (musician)|James Valentine]] to the lineup, and pursued a new direction under the name Maroon 5.<ref>{{cite web | author=Leahey, Andrew | url=http://www.allmusic.com/artist/karas-flowers-mn0000855690 | title=Kara's Flowers | work=[[AllMusic]] | access-date=July 31, 2012}}</ref>
+
+Maroon 5 signed with [[A&M Octone Records|Octone Records]] and recorded their debut album in 2002. The album ''[[Songs About Jane]]'', was released in June 2002 and topped the charts in Australia, France, Ireland, New Zealand, and the United Kingdom. Its lead single "[[Harder to Breathe]]" received heavy airplay, which helped propel the album to number 6 on the US [[Billboard 200|''Billboard'' 200]].<ref name="US-albums"/> The album's second and third singles, "[[This Love (Maroon 5 song)|This Love]]" and "[[She Will Be Loved]]", were worldwide hits in 2004. Five singles were released from the album. For the next few years, the band toured extensively worldwide in support of ''Songs About Jane'' and issued two live recordings: ''[[1.22.03.Acoustic]]'' (2004) and ''[[Live – Friday the 13th]]'' (2005).<ref>{{cite web | author=Leahey, Andrew | url=http://www.allmusic.com/artist/maroon-5-mn0000285232/ | title=Maroon 5 | work=[[AllMusic]] | access-date=July 31, 2012}}</ref>
+
+In 2006, drummer Ryan Dusick departed the band and was replaced by [[Matt Flynn (musician)|Matt Flynn]] and the revised band recorded their second album ''[[It Won't Be Soon Before Long]]'' in early 2007.<ref>{{cite web | author=Moss, Corey | url=http://www.mtv.com/news/articles/1553993/20070306/maroon_5.jhtml | archive-url=https://web.archive.org/web/20070309123237/http://www.mtv.com/news/articles/1553993/20070306/maroon_5.jhtml | url-status=dead | archive-date=March 9, 2007 | title=Maroon 5 Back With 'Harder' Album After Adam Levine Gets Sick Of Partying | work=[[MTV]] | publisher=[[Viacom Media Networks]] | date=March 6, 2007 | access-date=July 25, 2007}}</ref> The album was released in May and peaked at number 1 on the ''Billboard'' 200.<ref name="US-albums"/> Five singles were released from the album. The album's first single, "[[Makes Me Wonder]]", became the band's first number-one single on the US [[Billboard Hot 100|''Billboard'' Hot 100]].<ref name="US-singles"/> ''[[Hands All Over (album)|Hands All Over]]'', the band's third studio album, was released in September 2010, peaking at number 2 on the ''Billboard'' 200.<ref name="US-albums"/> The album's lead single "[[Misery (Maroon 5 song)|Misery]]" was a top 15 hit on the ''Billboard'' Hot 100 while the album's fourth single, "[[Moves Like Jagger]]", became the band's second single to top the Hot 100.<ref name="US-singles"/> The band released their fourth studio album ''[[Overexposed (album)|Overexposed]]'' in June 2012. The album peaked at number 2 on the ''Billboard'' 200.<ref name="US-albums"/> Its first two singles, "[[Payphone (song)|Payphone]]" and "[[One More Night (Maroon 5 song)|One More Night]]", both peaked in the top two of the ''Billboard'' Hot 100 and became international hits. The latter single topped the Hot 100, giving the band their third number-one hit on the chart.<ref name="US-singles"/> The album's third single, "Daylight", became a top ten hit in the US and Canada, as well as peaking in the top forty of other multiple countries worldwide.
+
+In September 2014, the fifth studio album ''[[V (Maroon 5 album)|V]]'' (pronounced: "five"),<!--WARNING!, Do not remove this sentence--> was released and topped the ''Billboard'' 200. The lead single "[[Maps (Maroon 5 song)|Maps]]" marked number six on the Hot 100, the second single "[[Animals (Maroon 5 song)|Animals]]" peaked at number three on the same chart, and the third single "[[Sugar (Maroon 5 song)|Sugar]]", number two. In November 2017, the band released their sixth studio album ''[[Red Pill Blues]]'' and included the top ten singles "[[Don't Wanna Know]]" featuring [[Kendrick Lamar]], and "[[What Lovers Do]]" featuring [[SZA]]. The remix version of "[[Girls Like You]]" featuring [[Cardi B]] reached number one on the Hot 100, giving the band their fourth number one single in the US.
+
+== Albums ==
+
+=== Studio albums ===
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:9em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Sales
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite magazine | url=https://www.billboard.com/artist/maroon-5/chart-history/tlp/ | title=Maroon 5 – Chart History: Billboard 200 | magazine=[[Billboard (magazine)|Billboard]] | access-date=August 26, 2025}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web | url=http://australian-charts.com/showinterpret.asp?interpret=Maroon+5 | title=Discography Maroon 5 | website=australian-charts.com | access-date=October 5, 2010 }}
+* "Animals": {{cite web|first=Gavin|last=Ryan|url=http://www.noise11.com/news/the-veronicas-spend-third-week-on-top-of-aria-singles-chart-20141011|title=The Veronicas Spend Third Week On Top Of ARIA Singles Chart|website=Noise11|date=October 11, 2014|access-date=October 11, 2014}}
+* "This Summer's Gonna Hurt like a Motherfucker": {{cite web|url=http://www.noise11.com/news/aria-singles-taylor-swift-bad-blood-spends-second-week-at-no-1-20150606|title=ARIA Singles: Taylor Swift Bad Blood Spends Second Week At No 1|publisher=Noise11|last=Ryan|first=Gavin|date=June 6, 2015|access-date=June 6, 2015}}
+* "Help Me Out": {{cite web|url=https://www.auspop.com.au/2017/10/aria-chart-watch-442/|title=ARIA Chart Watch #442|publisher=auspOp|date=October 14, 2017|access-date=October 14, 2017|archive-date=February 4, 2018|archive-url=https://web.archive.org/web/20180204172523/https://www.auspop.com.au/2017/10/aria-chart-watch-442/|url-status=dead}}
+* "Wait": {{cite web|url=https://www.auspop.com.au/2018/3/aria-chart-watch-462/|title=ARIA Chart Watch #462|publisher=auspOp|date=March 3, 2018|access-date=March 3, 2018|archive-date=November 6, 2020|archive-url=https://web.archive.org/web/20201106113731/https://www.auspop.com.au/2018/3/aria-chart-watch-462/|url-status=dead}}
+* "Nobody's Love": {{cite magazine|title=The ARIA Report: Week Commencing 10 August 2020|magazine=[[Australian Recording Industry Association]]|issue=1588|date=August 10, 2020}}
+* "Lost": {{cite magazine|title=The ARIA Report: Week Commencing 21 June 2021|magazine=The ARIA Report|publisher=Australian Recording Industry Association|issue=1633|page=4|date=June 21, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web |url=http://austriancharts.at/showinterpret.asp?interpret=Maroon5 | title=Discographie Maroon 5 | publisher=Hung Medien | website=austriancharts.at | access-date=August 25, 2025}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CAN-albums">{{cite magazine | url=https://www.billboard.com/artist/maroon-5/chart-history/cna/ | title=Maroon 5 – Chart History: Canadian Albums | magazine=[[Billboard (magazine)|Billboard]] | access-date=June 18, 2021}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web
+| url=http://lescharts.com/showinterpret.asp?interpret=Maroon+5| title=Discographie Maroon 5| publisher=lescharts.com| access-date=May 8, 2014| language=fr}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artistId=Maroon+5|title=Discographie von Maroon 5|publisher=GfK Entertainment|access-date=September 27, 2019}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-2">{{cite web | url=http://italiancharts.com/search.asp?cat=s&search=Maroon+5| title=Italian Song Chart| access-date=June 24, 2008 |publisher=italiancharts.com}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web | url=https://charts.nz/showinterpret.asp?interpret=Maroon+5 | title=Discography Maroon 5 | publisher=Hung Medien | work=charts.nz | access-date=October 5, 2010}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web|url=http://www.swisscharts.com/artist/Maroon_5|title=Discographie Maroon 5|publisher=Swiss Charts Portal. Hung Medien | format=select "Charts" tab| access-date=August 25, 2025}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web|url=https://www.officialcharts.com/artist/13601/maroon-5/|title=Maroon 5 songs and albums {{!}} full Official Chart history|publisher=[[Official Charts Company]]|access-date=March 28, 2026}}</ref>
+|-
+! scope="row"| ''[[The Fourth World (album)|The Fourth World]]''<br />{{small|(as Kara's Flowers)}}
+|
+* Released: {{Start date|1997|08|19}} <span style="font-size:85%;">(US)</span><ref name="Buss">{{cite web |last1=Buss |first1=Bryan |title=Kara's Flowers - "The Fourth World" |url=https://www.allmusic.com/album/fourth-world-mw0000423799 |website=[[AllMusic]] |accessdate=July 19, 2020}}</ref>
+* Label: [[Reprise Records|Reprise]]
+* Formats: CD, LP, cassette, digital download, streaming
+| — || — || — || — || — || — || — || — || — || —
+|
+* US: 5,000<ref>{{cite web|url=http://www.hitquarters.com/index.php3?page=intrview/2004/April13_2_38_8.html|title=Interview with Ben Berkman, A&R at Octone Records for Maroon 5|publisher=Hitquaters|access-date=October 3, 2014|archive-url=https://web.archive.org/web/20190703030437/http://www.hitquarters.com/index.php3?page=intrview%2F2004%2FApril13_2_38_8.html|archive-date=July 3, 2019|url-status=dead}}</ref>
+|
+|-
+! scope="row"| ''[[Songs About Jane]]''
+|
+* Released: June 25, 2002 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/Songs-About-Jane-Maroon-5/dp/B00006879E | title=Songs About Jane: Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: [[J Records|J]], [[Octone Records|Octone]]
+* Formats: CD, LP, cassette, digital download, streaming
+| 6 || 1 || 7 || 3 || 1 || 5 || 10 || 1 || 12 || 1
+|
+* US: 5,149,000<ref name="us sales">{{cite magazine | url =https://www.billboard.com/pro/ask-billboard-magics-rude-revives-reggae/ | title = Ask Billboard: MAGIC!'s 'Rude' Revives Reggae | author =Trust, Gary|magazine=Billboard|date=June 15, 2014}}</ref>
+* UK: 2,019,827<ref name="uk sales">{{cite web|url=http://mediaor.com/post/96960685144/official-charts-analysis-sam-smith-sales-cant|title=Official Charts Analysis: Sam Smith sales can't hide dismal week for albums|last=Jones|first=Alan|date=September 8, 2014|work=[[Music Week]]|publisher=Intent Media|access-date=October 17, 2015}}</ref>
+|
+* [[Recording Industry Association of America|RIAA]]: 4× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Maroon 5| access-date=January 15, 2022}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 8× Platinum<ref name="ARIA March 2024 album">{{cite certification|region=Australia|certyear=2024|type=album|access-date=18 June 2024}}</ref>
+* [[British Phonographic Industry|BPI]]: 7× Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Maroon 5|access-date=July 31, 2026}}</ref>
+* [[Belgian Recorded Music Association|BRMA]]: Gold<ref name="BRMA Albums 2005">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2005/albums |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Platinum<ref name="BVMI">{{cite certification | region=Germany | artist=Maroon 5 | access-date=August 4, 2012}}</ref>
+* [[Federazione Industria Musicale Italiana|FIMI]]: Gold<ref name="FIMI-albums">{{Cite certification|region=Italy|type=album|access-date=August 19, 2013}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Gold<ref name="IFPI AUT">{{cite certification | region=Austria | artist=Maroon 5 | access-date=August 29, 2012}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] SWI: Gold<ref name="IFPI SWI">{{cite web | url=http://www.swisscharts.com/search_certifications.asp?search=Maroon+5 | title=The Official Swiss Charts and Music Community: Awards (Maroon 5) | work=swisscharts.com | publisher=Hung Medien | access-date=May 8, 2014 | language=gsw}}</ref>
+* [[Music Canada|MC]]: 3× Platinum<ref name="MC">{{cite certification | region=Canada | artist=Maroon 5 | access-date=May 23, 2021}}</ref>
+* [[Recorded Music NZ|RMNZ]]: 6× Platinum<ref name="NZ Album Certs">{{cite certification|region=New Zealand|artist=Maroon 5|type=album|source=radioscope|access-date=January 23, 2026}}</ref>
+* [[Syndicat National de l'Édition Phonographique|SNEP]]: 2× Gold<ref name="SNEP2005">{{cite web|url=http://www.disqueenfrance.com/fr/pag-259165-CERTIFICATIONS.html?year=2005&type=11 |title=Certifications Albums Double Or – année 2005 |publisher=[[Syndicat National de l'Édition Phonographique]] |access-date=May 8, 2014 |language=fr |url-status=dead |archive-url=https://web.archive.org/web/20110814073700/http://www.disqueenfrance.com/fr/pag-259165-CERTIFICATIONS.html?year=2005&type=11 |archive-date=August 14, 2011}}</ref>
+|-
+! scope="row"| ''[[It Won't Be Soon Before Long]]''
+|
+* Released: May 22, 2007 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/It-Wont-Soon-Before-Long/dp/B000P2A256 | title=It Won't Be Soon Before Long: Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: [[A&M Octone Records|A&M/Octone]]
+* Formats: CD, LP, cassette, digital download, streaming
+| 1 || 5 || 14 || 2 || 13 || 6 || 4 || 2 || 6 || 1
+|
+* US: 2,379,000<ref name="us sales"/>
+* UK: 413,451<ref name="uk sales"/>
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 2× Platinum<ref name="ARIA March 2024 album"/>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Gold<ref name="FIMI-singles">{{Cite certification|region=Italy|type=single|access-date=August 19, 2013}}</ref>
+* [[Irish Recorded Music Association|IRMA]]: Gold<ref>{{cite certification | region=Ireland | certyear=2007 | award=Gold | access-date=April 26, 2012}}</ref>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Gold<ref>{{cite web | url=http://rianz.org.nz/rianz/oldchart.asp?chartNum=1566&chartKind=A | archive-url=https://archive.today/20121220120019/http://rianz.org.nz/rianz/oldchart.asp?chartNum=1566&chartKind=A | url-status=dead | archive-date=December 20, 2012 | title=Top 40 Albums Chart – Chart #1566 – Issue Date: 28 May 2007 | publisher=[[Recorded Music NZ]] | access-date=July 31, 2012 }}</ref>
+|-
+! scope="row"| ''[[Hands All Over (album)|Hands All Over]]''
+|
+* Released: September 21, 2010 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/Hands-All-Over-Maroon-5/dp/B005EVVESM | title=Hands All Over: Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: A&M/Octone
+* Formats: CD, LP, cassette, digital download, streaming
+| 2 || 7 || 20 || 5 || 16 || 17 || 10 || 12 || 10 || 6
+|
+* US: 1,383,000<ref name="us sales"/>
+* UK: 313,034<ref name="uk sales"/>
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA March 2024 album"/>
+* BPI: Platinum<ref name="BPI"/>
+* FIMI: Gold<ref name="RIAA"/>
+* MC: Platinum<ref name="MC"/>
+* SNEP: Gold<ref name="SNEP2">{{cite web | url=http://www.disqueenfrance.com/fr/pag-259165-CERTIFICATIONS.html?year=2012&type=8 | title=Certifications Albums Or – année 2012 | publisher=[[Syndicat National de l'Édition Phonographique]] | access-date=May 8, 2014 | language=fr }}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+! scope="row"| ''[[Overexposed (album)|Overexposed]]''
+|
+* Released: June 26, 2012 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/Overexposed-Maroon-5/dp/B008LC8TJI | title=Overexposed: Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: A&M/Octone
+* Formats: CD, LP, cassette, digital download, streaming
+| 2 || 4 || 7 || 3 || 5 || 4 || 3 || 3 || 7 || 2
+|
+* US: 1,586,000<ref name="us sales"/>
+* UK: 331,735<ref name="uk sales"/>
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA-2012-albums">{{cite web | title=ARIA Charts – Accreditations – 2012 Albums | url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesALBUMaccreds2012.htm | publisher=[[Australian Recording Industry Association]] | access-date=March 22, 2012}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-albums"/>
+* RMNZ: 2× Platinum<ref name="NZ Album Certs"/>
+* SNEP: Gold<ref name="SNEP2"/>
+|-
+! scope="row"| ''[[V (Maroon 5 album)|V]]''
+|
+* Released: September 2, 2014<!--WARNING! Do not change the release date--> <span style="font-size:85%;">(US)</span><ref>{{cite web|url=https://music.apple.com/us/album/v/1440842492|title=V – Maroon 5|work=[[iTunes Store]]|publisher=[[Apple Inc.|Apple]]|access-date=November 13, 2018}}</ref>
+* Label: [[222 Records|222]], [[Interscope Records|Interscope]]
+* Formats: CD, LP, cassette, digital download, streaming
+| 1 || 4 || 10 || 1 || 6 || 6 || 2 || 11 || 2 || 4
+|
+* US: 1,000,000<!-- don't update this unless you can actually supply a new source --><ref>{{cite magazine |url=https://www.billboard.com/pro/maroon-5-v-million-selling-album/ |title=Billboard 200 Chart Moves: Maroon 5's 'V' Becomes Band's Fifth Million-Selling Album |last=Caulfield |first=Keith |magazine=[[Billboard (magazine)|Billboard]] |date=August 7, 2015 |access-date=August 7, 2015}}</ref>
+|
+* RIAA: 3× Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA March 2024 album"/>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Platinum<ref name="IFPI AUT"/>
+* MC: 3× Platinum<ref name="MC"/>
+* RMNZ: 3× Platinum<ref name="NZ Album Certs"/>
+* SNEP: Gold<ref name="SNEP2"/>
+|-
+! scope="row"| ''[[Red Pill Blues]]''
+|
+* Released: November 3, 2017 <span style="font-size:85%;">(US)</span><ref>{{cite web|url=https://www.amazon.com/Red-Pill-Blues-Maroon-5/dp/B0722H45HF/ref=ntt_mus_dp_dpt_1|title=Red Pill Blues – Maroon 5|publisher=[[Amazon (company)|Amazon]]|access-date=November 13, 2018}}</ref>
+* Label: 222, Interscope
+* Formats: CD, LP, cassette, digital download, streaming
+| 2 || 7 || 31 || 2 || 24 || 44 || 15 || 6 || 21 || 12
+|
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA March 2024 album"/>
+* BPI: Gold<ref name="BPI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Gold<ref name="IFPI AUT"/>
+* MC: 2× Platinum<ref name="MC"/>
+* RMNZ: 4× Platinum<ref name="NZ Album Certs"/>
+* SNEP: Gold<ref name="SNEP2"/>
+|-
+! scope="row"| ''[[Jordi (album)|Jordi]]''
+|
+* Released: June 11, 2021 <span style="font-size:85%;">(US)</span><ref>{{cite web|url=https://music.apple.com/us/album/jordi/1565055612|title=Jordi by Maroon 5 on Apple Music|via=[[Apple Music]]|access-date=June 11, 2021}}</ref>
+* Label: 222, Interscope, [[Polydor Records|Polydor]]
+* Formats: CD, LP, cassette, digital download, streaming
+| 8 || 11 || 33 || 8 || 25 || 39 || 40 || 18 || 10 || 19
+|
+|
+* RIAA: Gold<ref name="RIAA" />
+* FIMI: Gold<ref name="FIMI-albums"/>
+* RMNZ: Platinum<ref name="NZ Album Certs"/>
+* SNEP: Gold<ref name="SNEP2"/>
+|-
+! scope="row"| ''[[Love Is Like]]''
+|
+* Released: August 15, 2025 <span style="font-size:85%;">(US)</span><ref>{{cite web|title=Love Is Like - Album by Maroon 5|url=https://music.apple.com/us/album/love-is-like/1821537686|website=Apple Music|access-date=June 23, 2025}}</ref>
+* Label: 222, Interscope
+* Formats: CD, LP, cassette, digital download, streaming
+| 36 || — || 72 || — || 63 || 79 || — || — || 20 || —{{efn|group=upper-alpha|''Love Is Like'' did not enter the UK Albums Chart, but peaked at number 27 on the UK Albums Sales Chart.<ref name="UK August 22">{{cite web|url= https://www.officialcharts.com/albums/maroon-5-love-is-like/|title=Love Is Like – Maroon 5 |publisher=Official Charts |access-date=November 22, 2025}}</ref>}}
+|
+|
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+=== Demo albums ===
+{| class="wikitable plainrowheaders" "text-align:center;"
+|-
+! Title
+! Album details
+|-
+! scope="row"| ''...We Like Digging?''
+|
+* Released: 1994<ref name="We Like Digging">{{cite book |last1=Flowers |first1=Kara's |title=...We Like Digging? |date=1994 |publisher=so many records |url=https://www.discogs.com/release/4576942-Karas-Flowers-We-Like-Digging |access-date=3 August 2024}}</ref> 
+* Label: Self-released
+* Formats: [[Compact disc|CD]]
+|-
+! scope="row"| ''Stagg Street Recordings''
+|
+* Released: 1999<ref name="Stagg StreetRecordings">{{cite book |last1=Flowers |first1=Kara's |title=Stagg Street Recordings |date=1999 |publisher=so many records |url=https://www.discogs.com/release/10616946-Karas-Flowers-Stagg-Street-Recordings |access-date=12 March 2026}}</ref> 
+* Label: Self-released
+* Formats: [[Compact disc|CD]]
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of live albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:10em;"| Sales
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Albums Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-2"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK"/>
+|-
+! scope="row"| ''[[1.22.03.Acoustic]]''
+|
+* Released: June 29, 2004<!--WARNING! Do not change the release date--> <span style="font-size:85%;">(US)</span><ref>{{cite web | title=1.22.03 Acoustic (Live) by Maroon 5 | url=https://www.amazon.com/1-22-03-Acoustic-Maroon-5/dp/B00029YQPE| work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: Octone
+* Formats: CD, digital download
+| 42 || — || 64 || 65 || 66 || 58
+|
+* RIAA: Gold<ref name="RIAA"/>
+* BPI: Gold<ref name="BPI"/>
+|
+* US: 699,000<ref name="us sales"/>
+|-
+! scope="row"| ''[[Live – Friday the 13th]]''
+|
+* Released: September 20, 2005 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/Live-Friday-13th-CD-DVD/dp/B000AL732W | title=Live Friday the 13th (CD/DVD): Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: J, Octone
+* Formats: CD, digital download
+| 61 || 37 || — || — || — || —
+|
+|
+* US: 113,000<ref name="us sales"/>
+|-
+! scope="row"| ''Live from Le Cabaret''
+|
+* Released: July 8, 2008 <span style="font-size:85%;">(US)</span><ref>{{cite web | title=Live from Le Cabaret by Maroon 5 | url=https://itunes.apple.com/us/album/live-from-le-cabaret/id284542239 | archive-url=https://archive.today/20150612113731/https://itunes.apple.com/us/album/live-from-le-cabaret/id284542239 | url-status=dead | archive-date=June 12, 2015 | work=[[iTunes Store]] | publisher=[[Apple Inc.|Apple]] | access-date=January 11, 2013}}</ref>
+* Label: A&M/Octone
+* Formats: CD, digital download
+| 117 || — || — || — || — || —
+|
+|
+* US: 20,000<ref name="us sales"/>
+|-
+| colspan="10" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of compilation albums, with selected chart positions
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Albums Chart|IRE]]<br /><ref name="IRE">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Maroon+5|archive-url=https://web.archive.org/web/20120329125428/http://irish-charts.com/showinterpret.asp?interpret=Maroon+5|url-status=dead|archive-date=March 29, 2012|title=Discography Maroon 5|publisher=[[Irish Recorded Music Association]]|access-date=October 5, 2010}}</ref>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-2"/>
+! scope="col" style="width:2.3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ"/>
+! scope="col" style="width:2.3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK"/>
+|-
+! scope="row"| ''[[The B-Side Collection]]''
+|
+* Released: December 18, 2007 <span style="font-size:85%;">(US)</span><ref>{{cite web | title=The B-Side Collection by Maroon 5 | url=https://music.apple.com/us/album/the-b-side-collection/270107412 | work=[[iTunes Store]] | access-date=January 11, 2013}}</ref>
+* Label: A&M/Octone
+* Formats: CD, digital download
+| 51 || — || — || — || — || — || —
+|
+|-
+! scope="row"| ''[[Singles (Maroon 5 album)|Singles]]''
+|
+* Released: September 25, 2015<ref>{{cite web|url=http://www.universal-music.de/maroon-5/diskografie/detail/product:216806/v|title=MAROON 5 – Singles – Diskografie|work=www.universal-music.de|access-date=August 30, 2014|archive-date=September 2, 2014|archive-url=https://web.archive.org/web/20140902072924/http://www.universal-music.de/maroon-5/diskografie/detail/product:216806/v|url-status=dead}}</ref><ref>{{cite web|url=http://www.universal-music.de/maroon-5/diskografie/detail/product:216805/v|title=MAROON 5 – Singles – Diskografie|work=www.universal-music.de|access-date=August 30, 2014|archive-date=September 4, 2014|archive-url=https://web.archive.org/web/20140904095153/http://www.universal-music.de/maroon-5/diskografie/detail/product:216805/v|url-status=dead}}</ref>
+* Label: 222, Interscope
+* Formats: CD, LP, digital download
+| — || 11 || 30 || 24 || 51 || 4 || 26
+|
+* ARIA: 4× Platinum<ref>{{cite certification|region=Australia|type=album|certyear=2023|access-date=March 9, 2023}}</ref>
+* BPI: 3× Platinum<ref name="BPI"/>
+* RMNZ: Platinum<ref name="NZ Album Certs"/>
+|-
+! scope="row"| ''The Singles Collection''
+|
+* Released: November 26, 2025<span style="font-size:85%;"> (Japan)</span><ref>{{Cite web|date=3 December 2025|title=Bring Back All the Memories: Maroon 5 Release ‘Singles Collection’ in Japan|url=https://theseconddisc.com/2025/12/03/maroon-5-singles-collection-japan/|access-date=17 February 2026|last=Duquette|first=Mike|website=The Second Disc}}</ref>
+* Label: 222, Interscope
+* Formats: CD, LP, digital download
+| — || — || — || — || — || — || —
+|
+|}
+
+===Remix albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of remix albums, with selected chart positions
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:20em;"| Album details
+! scope="col"| Peak<br />chart<br />positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+|-
+! scope="row"| ''[[Call and Response: The Remix Album]]''
+|
+* Released: December 9, 2008 <span style="font-size:85%;">(US)</span><ref>{{cite web | url=https://www.amazon.com/Call-Response-Maroon-5/dp/B001H3KMNY | title=Call and Response: Maroon 5 | work=[[Amazon.com]] | access-date=January 11, 2013}}</ref>
+* Label: A&M/Octone
+* Formats: CD, digital download
+| 73
+|
+* US: 136,000<ref name="us sales"/>
+|}
+
+== Extended plays ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected details, peak chart positions and sales
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Sales
+|-
+! scope="col" style="width:2.3em;font-size:85%;"| [[Top Album Sales|US<br />Sales]]<br /><ref>{{cite magazine| url=https://www.billboard.com/artist/maroon-5/chart-history/tsl/|title=iTunes Sessions (EP) Chart History|magazine=Billboard|date=February 25, 2011}}</ref>
+|-
+! scope="row"| ''Sessions@AOL''<ref>{{cite web|url=https://rateyourmusic.com/release/ep/maroon-5/sessions_aol/|title=Sessions@AOL by Maroon 5|work=Rate Your Music|access-date=April 15, 2022}}</ref>
+| 
+* Released: June 2007
+* Label: A&M/Octone
+* Formats: CD, digital download
+| —
+|
+|-
+! scope="row"| ''Live from SoHo''<ref name="Live from SoHo">{{cite web | title=iTunes Live from SoHo – EP by Maroon 5 | url=https://itunes.apple.com/us/album/itunes-live-from-soho-ep/id276716801 | archive-url=https://archive.today/20150510053429/https://itunes.apple.com/us/album/itunes-live-from-soho-ep/id276716801 | url-status=dead | archive-date=May 10, 2015 | work=[[iTunes Store]] | publisher=[[Apple Inc.|Apple]] | access-date=July 31, 2012}}</ref>
+|
+* Released: March 25, 2008 <span style="font-size:85%;">(US)</span><ref name="Live from SoHo"/>
+* Label: A&M/Octone
+* Formats: CD, digital download
+| —
+|
+|-
+! scope="row"| ''iTunes Session''<ref name="iTunes Session">{{cite web | title=iTunes Session (Live) – EP by Maroon 5 | url=https://music.apple.com/us/album/itunes-session-live-ep/1500494435 | work=[[iTunes Store]] | access-date=July 31, 2012}}</ref>
+|
+* Released: February 8, 2011 <span style="font-size:85%;">(US)</span><ref name="iTunes Session"/>
+* Label: A&M/Octone
+* Format: Digital download
+| 148
+|
+* US: 10,000<ref name="us sales"/>
+|-
+! scope="row"| ''12 Days''<ref name="12 Days">{{cite web|url=https://www.discogs.com/Maroon-5-12-Days-EP/release/11098532|title=12 Days EP|date=November 26, 2012 |publisher=[[Discogs]]|access-date=February 8, 2021}}</ref> 
+|
+* Released: November 26, 2012 <span style="font-size:85%;">(UK)</span><ref name="12 Days"/>
+* Label: A&M/Octone
+* Format: Digital download
+| —
+|
+|-
+! scope="row"| ''Holiday Gift''<ref name="Holiday Gift">{{cite web|url=https://www.discogs.com/Maroon-5-Holiday-Gift/release/4135463|title=Maroon 5 - Holiday Gift|date=December 20, 2012 |publisher=[[Discogs]]|access-date=August 3, 2017}}</ref> 
+|
+* Released: December 20, 2012 <span style="font-size:85%;">(UK)</span><ref name="Holiday Gift"/>
+* Label: A&M/Octone
+* Format: Digital download
+| —
+|
+|-
+! scope="row"| ''Will Be Loved''<ref name="Will Be Loved EP">{{cite web|url=https://music.amazon.com/albums/B0DVWPPDS6|title=Maroon 5 – Will Be Loved (EP)|date=February 7, 2025|via=[[Amazon Music]]|access-date=June 8, 2026|url-status=dead}}</ref> 
+|
+* Released: February 7, 2025 <span style="font-size:85%;">(US)</span><ref name="Will Be Loved EP"/>
+* Label: 222, Interscope
+* Formats: Digital download, streaming
+| —
+|
+|}
+
+==Singles==
+===As lead artist=== 
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:22em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles">{{cite magazine |date= |title=Maroon 5 – Chart History: Hot 100 |url=https://www.billboard.com/artist/maroon-5/chart-history/hsi/ |access-date=May 12, 2025 |magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles">{{cite magazine |date= |title=Maroon 5 – Chart History: Billboard Canadian Hot 100 |url=https://www.billboard.com/artist/maroon-5/chart-history/CAN |access-date=May 12, 2025 |magazine=Billboard}}</ref>
+!style="width:2.5em;font-size:90%"|[[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA-singles">{{cite magazine | url=https://lescharts.com/search.asp?cat=s&artist=maroon+5&artist_search=starts&title=&title_search=starts | title=Maroon 5 – Chart History: France Singles | magazine=Billboard | access-date=July 10, 2019}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-2"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+|- 
+! scope="row"| "[[Soap Disco]]"<br />{{small|(as Kara's Flowers)}}
+| 1997
+| — || — || — || × || — || — || — || — || — || —
+| 
+| ''The Fourth World''
+|-
+! scope="row"| "[[Harder to Breathe]]"
+| 2002
+| 18 || 37 || — || × || — || 79 || 28 || 33 || — || 13
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA Singles 2024">{{cite certification|region=Australia|certyear=2024|type=single|access-date=18 June 2024}}</ref>
+* BPI: Silver<ref name="BPI"/>
+* RMNZ: Platinum<ref name="Radioscope">{{cite certification|region=New Zealand|type=single|artist=Maroon 5|source=radioscope|access-date=October 2, 2026}}</ref>
+| rowspan="5"| ''Songs About Jane''
+|-
+! scope="row"| "[[This Love (Maroon 5 song)|This Love]]"
+| rowspan="3"| 2004
+| 5 || 8 || 3 || × || 6 || 5 || 3 || 4 || 4 || 3
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 6× Platinum<ref name="ARIA25s">{{cite certification|region=Australia|certyear=2025|type=single|access-date=8 July 2025}}</ref>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: 5× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[She Will Be Loved]]"
+| 5 || 1 || 27 || × || 23 || 25 || 3 || 18 || 18 || 4
+| 
+* RIAA: 4× Platinum<ref name="RIAA"/>
+* ARIA: 9× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 4× Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: 6× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Sunday Morning (Maroon 5 song)|Sunday Morning]]"
+| 31 || 27 || 52 || × || — || 83 || — || 21 || 87 || 27
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 3× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Platinum<ref name="BPI"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+* RMNZ: 4× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Must Get Out]]"
+| 2005
+| — || — || — || × || — || — || — || 38 || — || 39
+|
+|-
+! scope="row"| "[[Makes Me Wonder]]"
+| rowspan="3"| 2007
+| 1 || 6 || 12 || 1 || 40 || 11 || 3 || 8 || 14 || 2
+|
+* RIAA: 3× Platinum<ref name="RIAA"/>
+* ARIA: 2× Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Gold<ref name=Radioscope/>
+| rowspan="5"| ''It Won't Be Soon Before Long''
+|-
+! scope="row"| "[[Wake Up Call (Maroon 5 song)|Wake Up Call]]"
+| 19 || 19 || 17 || 6 || — || 41 || 8 || 32 || 12 || 33
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA Singles 2024"/>
+* MC: Platinum<ref name="MC"/>
+|-
+! scope="row"| "[[Won't Go Home Without You]]"
+| 48 || 7 || 16 || 16 || — || 11 || 14 || 20 || 65 || 44
+| 
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 3× Platinum<ref name="ARIA Singles 2024"/>
+* MC: Gold<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[If I Never See Your Face Again]]"<br />{{small|(featuring [[Rihanna]])}}
+| rowspan="2"| 2008
+| 51 || 11 || 54 || 12 || — || —|| 15 || 21 || 52 || 28
+| 
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIASingles2014">{{cite certification|region=Australia|type=single|artist=Maroon 5|access-date=June 21, 2014|certyear=2014}}</ref>
+* MC: Gold<ref name="MC"/>
+|-
+! scope="row"| "Goodnight Goodnight"
+| — || — || — || — || — || — || — || — || — || —
+| 
+|-
+! scope="row"| "[[Misery (Maroon 5 song)|Misery]]"
+| rowspan="2"| 2010
+| 14 || 39 || 28 || 13 || 14 || 30 || 19 || 38 || 32 || 30
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 2× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Silver<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+| rowspan="4"| ''Hands All Over''
+|-
+! scope="row"| "[[Give a Little More]]"
+| 86 || — || — || 91 || — || — || 30 || — || — || —
+| 
+|-
+! scope="row"| "[[Never Gonna Leave This Bed]]"
+| rowspan="2"| 2011
+| 55 || — || — || — || 82 || — || — || — || — || —
+| 
+* RIAA: Platinum<ref name="RIAA"/>
+|-
+! scope="row"| "[[Moves like Jagger]]"<br />{{small|(featuring [[Christina Aguilera]])}}
+| 1 || 2 || 1 || 1 || 3 || 2 || 2 || 1 || 5 || 2
+| 
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 17× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 5× Platinum<ref name="BPI"/>
+* BRMA: Platinum<ref name="BRMA 2013">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2013/singles |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* BVMI: 5× Gold<ref name="BVMI"/>
+* FIMI: 2× Platinum<ref name="FIMI-singles"/>
+* IFPI SWI: Platinum<ref name="IFPI SWI"/>
+* MC: Diamond<ref name="MC"/>
+* RMNZ: 7× Platinum<ref name=Radioscope/>
+* SNEP: Gold<ref name="snep"/>
+|-
+! scope="row"| "[[Payphone (song)|Payphone]]"<br />{{small|(featuring [[Wiz Khalifa]])}}
+| rowspan="3"| 2012
+| 2 || 2 || 5 || 1 || 8 || 4 || 1 || 2 || 4 || 1
+|
+* RIAA: 7× Platinum<ref name="RIAA"/>
+* ARIA: 13× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 4× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* IFPI AUT: Gold<ref name="IFPI AUT"/>
+* IFPI SWI: Platinum<ref name="IFPI SWI"/>
+* MC: 5× Platinum<ref name="MC"/>
+* RMNZ: 6× Platinum<ref name=Radioscope/>
+| rowspan="4"| ''Overexposed''
+|-
+! scope="row"| "[[One More Night (Maroon 5 song)|One More Night]]"
+| 1 || 2 || 8 || 2 || 9 || 17 || 13 || 1 || 11 || 8
+|
+* RIAA: 6× Platinum<ref name="RIAA"/>
+* ARIA: 9× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 2x Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* IFPI SWI: Gold<ref name="IFPI SWI"/>
+* MC: 6× Platinum<ref name="MC"/>
+* RMNZ: 4× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Daylight (Maroon 5 song)|Daylight]]"
+| 7 || 19 || 35 || 5 || 74 || 75 || 18 || 11 || 53 || 63
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 2× Platinum<ref name="ARIA Singles 2024"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+* MC: 2× Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Love Somebody (Maroon 5 song)|Love Somebody]]"
+| 2013
+| 10 || — || — || 10 || 87 || — || — || 34 || — || —
+| 
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: Gold<ref>{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesSinglesAccreds2019.htm|title=ARIA Charts – Accreditations – 2019 Singles.|publisher=[[Australian Recording Industry Association]]|access-date=February 19, 2019}}</ref>
+* MC: 2× Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Maps (Maroon 5 song)|Maps]]"
+| rowspan="2"| 2014
+| 6 || 30 || 18 || 1 || 17 || 6 || 4 || 16 || 22 || 2
+|
+* RIAA: 4× Platinum<ref>{{Cite web|url=http://www.riaa.com/gold-platinum/?share=19303&t=t|title=MAROON 5 - MAPS|website=RIAA}}</ref>
+* ARIA: 5× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: 2× Platinum<ref name="FIMI-singles"/>
+* MC: 2× Platinum<ref name="MC"/>
+* RMNZ: 4× Platinum<ref name=Radioscope/>
+| rowspan="5"| ''V''
+|-
+! scope="row"| "[[Animals (Maroon 5 song)|Animals]]"
+| 3 || 62 || 26 || 2 || 25 || 11 || 13 || 11 || 18 || 27
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: 3× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 2× Platinum<ref name="BPI"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* MC: 2× Platinum<ref name="MC"/>
+* RMNZ: 3× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Sugar (Maroon 5 song)|Sugar]]"
+| rowspan="3"| 2015
+| 2 || 6 || 25 || 2 || 15 || 41 || 6 || 3 || 10 || 7
+|
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 11× Platinum<ref name="ARIA25s"/>
+* BPI: 3× Platinum<ref name="BPI"/>
+* Belgian Recorded Music Association|BRMA: Gold<ref name="BRMA 2016">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2016/singles |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: 6× Platinum<ref name=Radioscope/>
+* SNEP: Gold<ref name="snep"/>
+|-
+! scope="row"| "[[This Summer's Gonna Hurt like a Motherfucker]]"<br />{{small|(solo or [[Alesso]] remix)}}
+| 23 || 70 || 38 || 16 || 69 || 45 || 31 || — || 56 || 40
+| 
+* ARIA: Gold<ref name="ARIA Singles 2024"/>
+* RIAA: Platinum<ref name="RIAA"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+|-
+! scope="row"| "[[Feelings (Maroon 5 song)|Feelings]]"
+| —{{efn|group=upper-alpha|"Feelings" did not enter the ''Billboard'' Hot 100, but peaked at number 8 on the [[Bubbling Under Hot 100|Bubbling Under Hot 100 Singles]] chart.<ref name="US-Bubbling-singles">{{cite magazine | url=https://www.billboard.com/artist/maroon-5/chart-history/hbu/ | title=Maroon 5 – Chart History: Bubbling Under Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | access-date=August 25, 2021}}</ref>}} || — || — || —{{efn|group=upper-alpha|"Feelings" did not enter the Canadian Hot 100, but did enter many subcharts, including peaking at number 48 on the [[Canada AC|Canada Adult Contemporary]] chart.<ref>{{cite magazine |title=Canada AC |url=https://www.billboard.com/artist/Maroon-5/chart-history/CAC |magazine=[[Billboard (magazine)|Billboard]] |access-date=29 July 2024}}</ref>}} || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Don't Wanna Know]]"<br />{{small|(featuring [[Kendrick Lamar]])}}{{efn|group=upper-alpha|"Don't Wanna Know" and "Cold" are only included on both the deluxe and Japanese editions of ''Red Pill Blues''.|name=Deluxe}}
+| 2016
+| 6 || 6 || 18 || 6 || 20 || 33 || 4 || 4 || 14 || 5
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 5× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Platinum<ref name="BPI"/>
+* BRMA: Gold<ref name="BRMA 2017">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2017/singles |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* RMNZ: 3× Platinum<ref name=Radioscope/>
+* SNEP: Gold<ref name="snep"/>
+* MC: 5× Platinum<ref name="MC"/>
+| rowspan="5" | ''Red Pill Blues''
+|-
+! scope="row"| "[[Cold (Maroon 5 song)|Cold]]"<br />{{small|(featuring [[Future (rapper)|Future]])}}{{efn|group=upper-alpha|name=Deluxe}}
+| rowspan="2"| 2017
+| 16 || 27 || 42 || 12 || 37 || 43 || 13 || 29 || 30 || 24
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: 2× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* FIMI: 2× Platinum<ref name="FIMI-singles"/>
+* SNEP: Gold<ref name="snep"/>
+* MC: 3× Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[What Lovers Do]]"<br />{{small|(featuring [[SZA]])}}
+| 9 || 7 || 11 || 6 || 17 || 17 || 5 || 6 || 9 || 12
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* ARIA: 7× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Platinum<ref name="BPI"/>
+* BRMA: Platinum<ref name="BRMA 2018">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2018/singles |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* RMNZ: 5× Platinum<ref name=Radioscope/>
+* SNEP: Platinum<ref name="snep">{{cite certification|region=France|artist=Maroon 5|type=single|access-date=November 24, 2018}}</ref>
+* MC: 4× Platinum<ref name="MC"/>
+|-
+! scope="row"| "[[Wait (Maroon 5 song)|Wait]]"
+| rowspan="2"| 2018
+| 24 || 91 || — || 35 || — || — || — || —{{efn|group=upper-alpha|"Wait" did not enter the NZ Top 40 Singles Chart, but peaked at number seven on the NZ Heatseeker Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2017-11-10|title=NZ Heatseekers Singles Chart|publisher=Recorded Music NZ|date=November 13, 2017|access-date=April 10, 2018}}</ref>}} || — || 79
+|
+* RIAA: 3× Platinum<ref name="RIAA"/>
+* ARIA: Platinum<ref name="ARIA Singles 2024"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Girls Like You]]"<br/><span style="font-size:85%; ">(featuring [[Cardi B]])</span>{{efn|group=upper-alpha|The version of "Girls Like You" featuring [[Cardi B]] is only featured on the reissue of the ''Red Pill Blues'' deluxe edition.|name=Cardi B}}
+| 1 || 2 || 8 || 1 || 1 || 9 || 5 || 1 || 4 || 7
+|
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 13× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: 3× Platinum<ref name="BPI"/>
+* BRMA: Gold<ref name="BRMA 2018"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* MC: 9× Platinum<ref name="MC"/>
+* RMNZ: 6× Platinum<ref name=Radioscope/>
+* SNEP: Diamond<ref name="snep"/>
+|-
+! scope="row"| "[[Memories (Maroon 5 song)|Memories]]"
+| 2019
+| 2 || 2 || 10 || 2 || 13 || 20 || 10 || 3 || 3 || 5
+|
+* RIAA: 4× Platinum<ref name="RIAA"/>
+* ARIA: 11× Platinum<ref name="ARIA25s"/>
+* BPI: 3× Platinum<ref name="BPI"/>
+* BRMA: 2x Platinum<ref name="BRMA 2021">{{cite web |title=ULTRAPOP BELGIAN CHARTS |url=https://www.ultratop.be/nl/goud-platina/2021/singles |website=ultrapop.be |access-date=15 December 2025}}</ref>
+* BVMI: Platinum<ref name="BVMI"/>
+* FIMI: 3× Platinum<ref name="FIMI-singles"/>
+* IFPI AUT: Gold<ref name="IFPI AUT"/>
+* MC: 4× Platinum<ref name="MC"/>
+* RMNZ: 7× Platinum<ref name=Radioscope/>
+* SNEP: Platinum<ref name="snep"/>
+| rowspan="4"| ''Jordi''
+|-
+! scope="row"| "[[Nobody's Love]]"
+| 2020
+| 41 || 70 || — || 33 || — || — || — || —{{efn|group=upper-alpha|"Nobody's Love" did not enter the NZ Top 40 Singles Chart, but peaked at number two on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2020-09-04|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=August 10, 2020|access-date=August 7, 2020}}</ref>}} || — || 84
+|
+* RIAA: Gold<ref name="RIAA"/>
+* ARIA: Gold<ref name="ARIA Singles 2024"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+* MC: Gold<ref name="MC"/>
+* RMNZ: Gold<ref name=Radioscope/>
+|-
+! scope="row"| "[[Beautiful Mistakes]]"<br/><span style="font-size:85%; ">(featuring<!--WARNING! Do not change this sentence because the single uses the word "featuring" officially from both its cover art and Jordi album respectively.--> [[Megan Thee Stallion]])</span>
+| rowspan="2"| 2021
+| 13 || 36 || — || 7 || 38 || — || 39 || 21 || 52 || 50
+|
+* RIAA: Platinum<ref name="RIAA"/>
+* ARIA: 3× Platinum<ref name="ARIA Singles 2024"/>
+* BPI: Gold<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* FIMI: Platinum<ref name="FIMI-singles"/>
+* IFPI SWI: Gold<ref name="IFPI SWI"/>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+* SNEP: Diamond<ref name="snep"/>
+|-
+! scope="row"| "[[Lost (Maroon 5 song)|Lost]]"
+| —{{efn|group=upper-alpha|"Lost" did not enter the ''Billboard'' Hot 100, but peaked at number seven on the Bubbling Under Hot 100 Singles chart.<ref name="US-Bubbling-singles"/>}} || 88 || — || 69 || — || — || — || —{{efn|group=upper-alpha|"Lost" did not enter the NZ Top 40 Singles Chart, but peaked at number six on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-06-18|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=June 21, 2021|access-date=June 19, 2021}}</ref>}} || — || —
+|
+* ARIA: Gold<ref name="ARIA Singles 2024"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+* RMNZ: Gold<ref name="Radioscope" />
+|-
+! scope="row"| "[[Middle Ground (song)|Middle Ground]]"
+| 2023
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Middle Ground" did not enter the NZ Top 40 Singles Chart, but peaked at number 25 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-05-26|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=May 29, 2023|access-date=May 27, 2023}}</ref>}} || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Priceless (song)|Priceless]]"<br/>{{small|(featuring [[Lisa (rapper)|Lisa]])}}
+| rowspan="4" | 2025
+| 76 || — || — || 80 || — || — || — || —{{efn|group=upper-alpha|"Priceless" did not enter the NZ Top 40 Singles Chart, but peaked at number 7 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-05-09|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=May 9, 2025|access-date=May 9, 2025}}</ref>}} || — || 69
+|
+| rowspan="4" | ''Love Is Like''
+|-
+! scope="row"| "All Night"
+| — || — || — || — || — || — || — || — || — || —
+| 
+|-
+! scope="row"| "California"
+| — || — || — || — || — || — || — || — || — || —
+| 
+|-
+! scope="row"| "Love Is Like"<br/>{{small|(featuring [[Lil Wayne]])}}
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Love Is Like" did not enter the NZ Top 40 Singles Chart, but peaked at number 10 on the NZ Hot Singles Chart.<ref name="NZ August 22">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-08-22|title=Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=August 22, 2025|access-date=August 22, 2025}}</ref>}} || — || —
+| 
+|-
+! scope="row"| "Heroine"
+| 2026
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Heroine" did not enter the NZ Top 40 Singles Chart, but peaked at number 36 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2026-05-08|title=Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=May 8, 2026|access-date=May 8, 2026}}</ref>}} || — || —
+|
+| {{Non-album single}}
+|-
+| colspan="16" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, showing year released and album name
+! scope="col" rowspan="2" style="width:22em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|access-date=July 10, 2019}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-2"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br />Heat.]]<br /><ref>Peaks on the New Zealand Heatseeker Singles Chart:
+* "Help Me Out": {{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2017-10-13|title=NZ Heatseekers Singles Chart|publisher=[[Recorded Music NZ]]|date=October 16, 2017|access-date=October 13, 2017}}
+* "Whiskey": {{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2017-10-27|title=NZ Heatseekers Singles Chart|publisher=Recorded Music NZ|date=October 30, 2017|access-date=October 27, 2017}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br/><ref>Peaks on the Swedish Singles Chart:
+* "It Was Always You": {{cite web|url=http://swedishcharts.com/showitem.asp?interpret=Maroon+5&titel=It+Was+Always+You&cat=s|title=swedishcharts.com – Maroon 5 – It Was Always You|publisher=Hung Medien|access-date=November 11, 2017}}
+* "Wait": {{cite web|url=http://www.sverigetopplistan.se/|title=Sverigetopplistan – Sveriges Officiella Topplista|publisher=[[Sverigetopplistan]]|access-date=November 11, 2017}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+|-
+! scope="row"| "[[Happy Xmas (War is Over)]]"{{efn|group=upper-alpha|"Happy Xmas (War Is Over)", was originally released in December 2005, as part of [[Amnesty International]]'s [[Make Some Noise (campaign)|Make Some Noise]] campaign.<ref>{{cite web|url=https://www.tmz.com/2005/12/20/maroon-5-goes-to-war/|title=Maroon 5 Goes to War|work=[[TMZ]]|date=December 20, 2005|access-date=January 25, 2022}}</ref><ref>{{cite web|url=https://www.discogs.com/release/587740-Maroon-5-Happy-Xmas-War-Is-Over|title=Maroon 5 – Happy Xmas (War Is Over) (2005)|work=[[Discogs]]|date=December 20, 2005 |access-date=January 25, 2022}}</ref> A later version was released two years later in 2007.<ref>{{cite web | title=Happy Xmas (War Is Over) (2007) – Single by Maroon 5 | url=https://music.apple.com/us/album/happy-xmas-war-is-over-single/269575816 | work=[[iTunes Store]] | access-date=July 31, 2012}}</ref>}}
+| 2005
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "Until You're Over Me"
+| 2007
+| — || — || — || — || — || — || — || — || — || —
+| 
+| ''The B-Sides Collection''
+|-
+! scope="row"| "[[The Way You Look Tonight]]"<ref>{{cite web | title=The Way You Look Tonight – Single by Maroon 5 | url=https://music.apple.com/us/album/way-you-look-tonight-single/321595319 | work=iTunes Store | access-date=October 5, 2010}}</ref>
+| 2009
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[His Way, Our Way]]''
+|-
+! scope="row"| "Is Anybody Out There"<ref>{{cite web|title=Coca-Cola: Maroon 5 24 Hour Session |url=http://www.coca-cola.com/music/en_US/24hrsession/html/Coke24hrs_PostEvent.html |work=[[Coca-Cola]] |access-date=July 31, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20150201041820/http://www.coca-cola.com/music/en_US/24hrsession/html/Coke24hrs_PostEvent.html |archive-date=February 1, 2015}}</ref><br/><span style="font-size:85%; ">(featuring [[PJ Morton (musician)|PJ Morton]])</span>
+| 2011
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Lucky Strike (Maroon 5 song)|Lucky Strike]]"
+| rowspan="2"| 2014
+| —{{efn|group=upper-alpha|"Lucky Strike" did not enter the ''Billboard'' Hot 100, but peaked at number nine on the Bubbling Under Hot 100 Singles chart.<ref name="US-Bubbling-singles"/>}} || — || — || — || — || — || — || — || — || —
+| 
+* RIAA: Gold<ref name="RIAA"/>
+| ''Overexposed''
+|-
+! scope="row"| "[[It Was Always You]]"<ref>References for "It Was Always You" promotional release:
+* In Australia: {{cite web |title=It Was Always You |url=https://play.google.com/store/music/album/Maroon_5_It_Was_Always_You?id=Bjcneh4qs4f66olei2uiddxdgke&hl=en |website=[[Google Play|Google Play Store]] |access-date=August 8, 2014 }}
+* In France: {{cite web |title=It Was Always You – Maroon 5 |url=http://www.qobuz.com/fr-fr/album/it-was-always-you-maroon-5/0060253797264 |website=Qobuz |access-date=August 8, 2014 |archive-url=https://web.archive.org/web/20140808045712/http://www.qobuz.com/fr-fr/album/it-was-always-you-maroon-5/0060253797264 |archive-date=August 8, 2014 |url-status=dead }}
+* In the United Kingdom: {{cite web |title=It Was Always You |url=http://www.7digital.com/artist/maroon-5/release/it-was-always-you-1 |publisher=[[7digital]] |access-date=August 8, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140815235805/http://www.7digital.com/artist/maroon-5/release/it-was-always-you-1 |archive-date=August 15, 2014 }}
+* In the United States: {{cite web |title=It Was Always You |date=July 29, 2014 |url=http://us.7digital.com/artist/maroon-5/release/it-was-always-you |publisher=[[7digital|7digital US]] |access-date=August 8, 2014 |archive-date=August 10, 2014 |archive-url=https://web.archive.org/web/20140810062656/http://us.7digital.com/artist/maroon-5/release/it-was-always-you |url-status=dead }}</ref>
+| 45 || 43 || 19 || 76 || 88 || — || 50 || — || 53 || 40
+|
+* RIAA: Gold<ref name="RIAA"/>
+* FIMI: Gold<ref name="FIMI-singles"/>
+| ''V''
+|-
+! scope="row"| "[[Help Me Out]]"<br/><span style="font-size:85%; ">(with [[Julia Michaels]])</span>
+| rowspan="2"| 2017
+| —{{efn|group=upper-alpha|"Help Me Out" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the Bubbling Under Hot 100 Singles chart.<ref name="US-Bubbling-singles"/>}} || 83 || 80 || — || — || 86 || — || 3 || —{{efn|group=upper-alpha|"Help Me Out" did not enter the Swedish Singellista chart, but peaked at number eight on the Swedish Heatseeker chart.<ref>{{cite web|url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=215&dfom=20171006|title=Swedish Heatseekers Chart – 13 October 2017|access-date=October 14, 2017}}</ref>}} || —
+|
+| rowspan="2"| ''Red Pill Blues''
+|-
+! scope="row"| "[[Whiskey (Maroon 5 song)|Whiskey]]"<br/><span style="font-size:85%; ">(featuring [[ASAP Rocky]])</span>
+| — || — || — || — || — || — || — || 7 || —{{efn|group=upper-alpha|"Whiskey" did not enter the Swedish Singellista chart, but peaked at number 15 on the Swedish Heatseeker chart.<ref>{{cite web|url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=215&dfom=20171020|title=Veckolista Heatseeker – Vecka 43, 27 oktober 2017|publisher=Sverigetopplistan|access-date=October 28, 2017}}</ref>}} || —
+|
+|-
+! scope="row"| "[[Three Little Birds]]"
+| 2018
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "Lovesick"<ref>{{Cite web|title=MAROON 5 "Lovesick" {{!}} (Radio Date: January 7, 2022)|url=https://radiodate.it/radio-date/maroon-5-lovesick-232999-07-01-2022-radiodate/|access-date=January 4, 2022|website=radiodate.it}}</ref>
+| 2022
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Jordi''
+|-
+| colspan="16" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+== Other charted songs ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot Dance Club Songs|US<br />Dance]]<br /><ref name="US-Dance-singles">{{cite magazine | url={{BillboardURLbyName|artist=maroon 5|chart=Dance/Club Play Songs}} | title=Maroon 5 – Chart History: Dance/Club Play Songs | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | access-date=July 31, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[International Federation of the Phonographic Industry|CZR]]<br /><ref>{{cite web|url=https://ifpicr.cz/hitparada/2/maroon-5-marshmello/47821|title=CZ - Radio - Top 100 - Maroon 5 & Marshmello|publisher=[[International Federation of the Phonographic Industry|IFPI Czech Republic]]|accessdate= 13 September 2025|language=Czech}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Korea K-Pop Hot 100|KOR]]<br /><ref name="K-Pop-singles">{{cite magazine | url={{BillboardURLbyName|artist=maroon 5|chart=Korea K-Pop Hot 100}} | title=Maroon 5 – Chart History: Korea K-Pop Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | access-date=March 26, 2017}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ<br />Hot]]<br /><ref name="NZ August 22"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Productores de Música de España|SPA]]<br /><ref name="Hands All Over Spain">{{cite web |title=MAROON 5 - HANDS ALL OVER (SONG) |url=https://spanishcharts.com/showitem.asp?interpret=Maroon+5&titel=Hands+All+Over&cat=s |website=SpanishCharts |access-date=14 July 2025}}</ref>
+|-
+! scope="row"| "Nothing Lasts Forever"
+| 2007
+| —{{efn|group=upper-alpha|"Nothing Lasts Forever" did not enter the ''Billboard'' Hot 100, but peaked at number 23 on the Bubbling Under Hot 100 Singles chart.<ref name="US-Bubbling-singles"/>}} || — || — || — || — || — || —
+| ''It Won't Be Soon Before Long''
+|-
+! scope="row"| "Not Falling Apart"<br /><small>([[Tiësto]] Remix)</small>
+| 2009
+| — || 3 || — || — || — || — || —
+| ''Call and Response: The Remix Album''
+|-
+! scope="row"| "Stutter"
+| rowspan="3"| 2010
+| 84 || — || — || — || — || — || —
+| rowspan="3"| ''Hands All Over''
+|-
+! scope="row"| "Hands All Over"
+| — || — || — || — || — || — || 38
+|-
+! scope="row"| "[[Out of Goodbyes]]"<br />{{small|(featuring [[Lady Antebellum]])}}
+| —{{efn|group=upper-alpha|"Out of Goodbyes" did not enter the ''Billboard'' Hot 100, but peaked at number three on the Bubbling Under Hot 100 Singles chart.<ref>{{cite magazine | url=http://www.billboard.biz/bbbiz/charts/chart-search-results/singles/3123797 | archive-url=https://archive.today/20120807133449/http://www.billboard.biz/bbbiz/charts/chart-search-results/singles/3123797 | url-status=dead | archive-date=August 7, 2012 | title=Bubbling Under Hot 100 – Issue Date: 2010-10-09 | publisher=[[Prometheus Global Media]] | magazine=[[Billboard (magazine)|Billboard]] | access-date=July 31, 2012}}</ref>}} || — || — || — || — || — || —
+|-
+! scope="row"| "Come Away to the Water"<br />{{small|(featuring [[Rozzi Crane]])}}
+| rowspan="2"| 2012
+| 83 || — || 83 || — || — || — || —
+| ''[[The Hunger Games: Songs from District 12 and Beyond|The Hunger Games: <br> Songs from District 12 and Beyond]]''
+|-
+! scope="row"| "Wipe Your Eyes"
+| 80 || — || — || — || — || — || —
+| ''Overexposed''
+|-
+! scope="row"| "Just a Feeling"
+| rowspan="2"| 2014
+| — || — || — || — || 3 || — || —
+| ''Hands All Over''
+|-
+! scope="row"| "[[Unkiss Me]]"
+| — || — || 56 || — || — || — || —
+| rowspan="2"| ''V''
+|-
+! scope="row"| "My Heart Is Open"<br />{{small|(featuring [[Gwen Stefani]])}}
+| 2015
+| —{{efn|group=upper-alpha|"My Heart Is Open" did not enter the ''Billboard'' Hot 100, but peaked at number seven on the Bubbling Under Hot 100 Singles chart.<ref name="US-Bubbling-singles"/>}} || — || 94 || — || — || — || —
+|-
+! scope="row"| "One Light (Remix)"<ref>{{cite web|url=https://www.broadwayworld.com/bwwmusic/article/Zimbabwean-Artist-Bantu-Releases-One-Light-Remix-20220805|title=Zimbabwean Artist Bantu Releases 'One Light' Remix|work=[[BroadwayWorld]]|last=Major|first=Michael|date=August 5, 2022|access-date=November 23, 2022}}</ref> <br/>{{small|(with Bantu featuring [[Yung Bleu]] and [[Latto]])}}
+| 2022
+| —{{efn|group=upper-alpha|"One Light (remix)" did not enter the ''Billboard'' Hot 100, but peaked at number 32 on the [[Billboard U.S. Afrobeats Songs]] chart.<ref name="US-Bubbling-singles">{{cite magazine | url=https://www.billboard.com/artist/maroon-5/chart-history/hbu/ | title=Maroon 5 – Chart History: Bubbling Under Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | access-date=August 25, 2021}}</ref><ref>{{cite magazine |title=Billboard U.S. Afrobeats Songs |url=https://www.billboard.com/artist/maroon-5/chart-history/ctf/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=29 July 2024}}</ref>}} || — || — || — || — || — || — 
+| {{Non-album single}}
+|-
+! scope="row"| "Hideaway"
+| rowspan="2"| 2025
+| — || — || — || — || — || 40 || —
+| rowspan="2"| ''Love Is Like''
+|-
+! scope="row"| "Closer"<br />{{small|(with [[Marshmello]])}}
+| — || — || — || 9 || — || — || —
+|- 
+| colspan="10" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Other appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of other album appearances
+! scope="col"| Contribution
+! scope="col" style="width:40px;"| Year
+! scope="col" style="width:275px;"| Album
+|-
+! scope="col" colspan="3" | Kara's Flowers
+|-
+! scope="row"| "[[We Are the Champions]]"<ref>{{cite web|url=https://www.discogs.com/release/2424318-Various-1039-WXEG-Presents-Edgefest-97|title=Various – 103.9 WYEG Presents Edgefest 97|work=[[Discogs]]|date=1997 |access-date=October 22, 2021}}</ref>
+| 1997
+| ''103.9 WYEG Presents Edgefest 97''
+|-
+! scope="row"| "Yesterday When I Was Handsome"<ref>{{Cite web|url=https://www.discogs.com/Various-Hear-You-Me-A-Tribute-To-Mykel-Carli/release/5759817|title=Various – Hear You Me: A Tribute To Mykel & Carli|work=Discogs|date=January 27, 1998 |access-date=September 14, 2018}}</ref>
+| 1998
+| ''Hear You Me!<br />A Tribute to Mykel and Carli''
+|-
+! scope="col" colspan="4" | Maroon 5
+|-
+! scope="row"| "Woman"<ref>{{cite web|url=http://www.allmusic.com/album/spider-man-2-original-soundtrack-mw0000209727|work=[[Allmusic]]|access-date=January 3, 2015|title=Spider-Man 2 (Original Soundtrack)|author=James Christopher Monger}}</ref>
+| rowspan="2"| 2004
+| ''[[Spider-Man 2 (soundtrack)|Music from and Inspired by<br />Spider-Man 2]]''
+|-
+! scope="row"| "[[Pure Imagination]]"<ref>{{Cite web|url=https://www.allmusic.com/album/mary-had-a-little-amp-mw0000687460|work=[[Allmusic]]|access-date=September 21, 2018|title=Various Artists – Mary Had a Little Amp}}</ref>
+| ''Mary Had a Little Amp''
+|-
+! scope="row"| "[[Everyday People (song)|Everyday People]]"<ref>{{cite web|url=http://www.allmusic.com/album/different-strokes-by-different-folks-mw0000719892|work=[[Allmusic]]|access-date=August 20, 2014|title=Sly & the Family Stone – Different Strokes By Different Folks|author=Stephen Thomas Erlewine}}</ref><br /><small>([[Sly and the Family Stone]] featuring Maroon 5)</small>
+|2005
+| ''[[Different Strokes by Different Folks]]''
+|-
+! scope="row"| "[[She Will Be Loved]]"<ref>{{Cite web|url=http://www.allmusic.com/album/rhythms-del-mundo-cuba-mw0000774398|work=[[Allmusic]]|access-date=August 20, 2014|title=Rhythms del Mundo – Rhythms del Mundo: Cuba|author=Jo-Ann Greene}}</ref><br /><small>(Rhythms del Mundo featuring Maroon 5)</small>
+| rowspan="2"| 2006
+| ''[[Rhythms del Mundo|Rhythms del Mundo: Cuba]]''
+|-
+! scope="row"| "[[Lovely Day (song)|Lovely Day]]"<ref>{{Cite web|url=http://www.allmusic.com/album/hoot-mw0000416546|work=[[Allmusic]]|access-date=February 7, 2016|title=Hoot: Original Soundtrack|author=All Music Review}}</ref> <br><small>(featuring [[Bill Withers]] and Kori Withers)</small>
+|''[[Hoot (film)|Hoot: <br>Original Motion Picture Soundtrack]]''
+|-
+! scope="row"| "[[I Shall Be Released]]"<ref>{{Cite magazine|url=http://www.ew.com/ew/article/0,,20562450,00.html?cnn=yes |magazine=[[Entertainment Weekly]] |access-date=August 20, 2014 |archive-date=January 28, 2012 |archive-url=https://web.archive.org/web/20120128114213/http://www.ew.com/ew/article/0%2C%2C20562450%2C00.html?cnn=yes |title=Review – Chimes of Freedom: The Songs of Bob Dylan |author=Melissa Maerz |date=January 24, 2012 |url-status=dead}}</ref>
+| 2012
+| ''[[Chimes of Freedom (album)|Chimes of Freedom]]''
+|-
+! scope="row"| "[[Happy (Pharrell Williams song)|Happy]]"<ref>{{cite web|url=https://www.amazon.co.uk/BBC-Radio-Live-Lounge-2014/dp/B00M2BNC6Y/ref=sr_1_1?ie=UTF8&qid=1546344915&sr=8-1&keywords=radio+1+live+lounge+2014|title=BBC Radio 1's Live Lounge 2014|work=Amazon|author=Various Artists|date=October 27, 2014|access-date=January 1, 2019}}</ref>
+| 2014
+| ''[[BBC Radio 1's Live Lounge 2014]]''
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.maroon5.com/ Official website]
+* [http://www.allmusic.com/artist/maroon-5-mn0000285232/ Maroon 5] at [[AllMusic]]
+* {{Discogs artist | artist=Maroon+5 | name=Maroon 5}}
+* {{MusicBrainz artist | id=0ab49580-c84f-44d4-875f-d83760ea2cfe | name=Maroon 5}}
+
+{{Maroon 5}}
+
+[[Category:Maroon 5|Discography]]
+[[Category:Discographies of American artists]]
+[[Category:Rock music group discographies]]
+[[Category:Pop music group discographies]]

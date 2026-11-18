@@ -1,0 +1,60 @@
+{{Infobox song
+| name          = All Your Fault
+| cover         = 
+| alt           = 
+| type          = 
+| artist        = [[Big Sean]] featuring [[Kanye West]]
+| album         = [[Dark Sky Paradise]]
+| released      = 
+| format        = 
+| recorded      = 
+| studio        = 
+| venue         = 
+| genre         = [[Hip hop music|Hip hop]]
+| length        = {{Duration|m=3|s=44}}
+| label         = {{hlist|[[Def Jam Recordings|Def Jam]]|[[GOOD Music|GOOD]]}}
+| writer        = {{hlist|[[Big Sean|Sean Anderson]]|[[Kanye West]]|Welbon Morris, Jr.|Lee Stone|Nashiem Myrick|Emmanuel Nickerson|[[Noah Goldstein]]|[[The-Dream|Terius Nash]]|[[David Pack]]}}
+| producer      = [[Kanye West]]
+}}
+
+"'''All Your Fault'''" is a song recorded by American rapper [[Big Sean]] featuring fellow rap artist [[Kanye West]], from Sean's third studio album ''[[Dark Sky Paradise]]''. It contains samples from [[Ambrosia (band)|Ambrosia]]'s 1978 song "[[How Much I Feel]]" and features additional vocals from [[Travis Scott]].<ref>{{Citation|title = Big Sean – Dark Sky Paradise [Credits]|url = https://genius.com/Big-sean-dark-sky-paradise-credits-lyrics|access-date = 2018-11-11}}</ref> The song was produced by Kanye West, with co-production by OG Webbie, and additional producion by Nashiem Myrick, Mano, and [[Noah Goldstein]].
+
+==Music video==
+On June 24, 2015, a music video was released for the track, although it had not been released as a single. A video for the fellow album track “I Know,” featuring [[Jhené Aiko]]  released on the same day.<ref>{{cite web|url=https://pigeonsandplanes.com/news/2015/06/video-big-sean-ft-kanye-west-all-your-fault|title=Video: Big Sean ft. Kanye West - "All Your Fault"|work=PigeonsandPlanes|access-date=October 3, 2018}}</ref> Directed by Mark Mayer and [[Aaron Platt]],<ref>{{cite web|url=https://www.stereogum.com/1811315/big-sean-all-your-fault-feat-kanye-west-i-know-feat-jhene-aiko-videos/video/|title=Big Sean – "All Your Fault" (Feat. Kanye West) & "I Know" (Feat. Jhené Aiko) Videos|work=[[Stereogum]]|date=24 June 2015 |access-date=October 3, 2018}}</ref> the video primarily features Sean and West performing alongside several models.
+
+==Commercial performance==
+Upon the release of ''Dark Sky Paradise'', "All Your Fault" charted at number 80 on the US [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{cite magazine|url=https://www.billboard.com/artist/big-sean/chart-history/hsi/|title=Big Sean Chart History|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 3, 2018}}</ref> It peaked at number 28 on the US [[Hot R&B/Hip-Hop Songs]] chart in the same week and spent a total of three weeks on the chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/big-sean/chart-history/bsi/|title=Big Sean All Your Fault Chart History|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 3, 2018}}</ref>
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Billboardhot100|80|artist=Big Sean|rowheader=true|access-date=October 3, 2018}}
+|-
+{{single chart|Billboardrandbhiphop|28|artist=Big Sean|rowheader=true|access-date=October 3, 2018}}
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|type=single|region=United States|artist=Big Sean|title=All Your Fault|award=Gold|relyear=2015|certyear=2020}}
+{{Certification Table Bottom|streaming=true | nosales=true | noshipments=true}}
+
+==References==
+{{Reflist}}
+
+{{Big Sean singles}}
+{{Kanye West songs}}
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:Big Sean songs]]
+[[Category:Kanye West songs]]
+[[Category:Songs written by Big Sean]]
+[[Category:Songs written by Kanye West]]
+[[Category:Songs written by The-Dream]]
+[[Category:Songs written by David Pack]]
+[[Category:Song recordings produced by Kanye West]]
+[[Category:Songs written by Noah Goldstein]]

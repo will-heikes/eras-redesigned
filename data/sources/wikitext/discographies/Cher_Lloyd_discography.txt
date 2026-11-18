@@ -1,0 +1,349 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Use British English|date=September 2012}}
+{{Infobox artist discography
+| Artist       = [[Cher Lloyd]]
+| Image        = File:Cher-Lloyd-Lost-2020Shoot (cropped).jpg
+| Alt          =
+| Caption      = Lloyd in 2020
+| Studio       = 2
+| Singles      = 12
+| Music videos = 17
+| 1Option      = 5
+| 1Option name = Featured singles
+| Option       = 8
+| Option name  = Promotional singles
+}}
+
+The discography of English singer [[Cher Lloyd]] consists of two [[studio albums]], ten [[Music single|singles]], five featured singles, and eight promotional singles.
+
+Lloyd rose to fame in 2010 when she participated in reality TV series ''[[The X Factor (British series 7)|The X Factor]]'', to which she finished in fourth place. Shortly afterward, Lloyd was signed by [[Simon Cowell]] to Sony Records subsidiary [[Syco Music]], releasing her debut single "[[Swagger Jagger]]" in June 2011. "Swagger Jagger" entered at number one on the [[UK Singles Chart]] and number two on the [[Irish Singles Chart]]. Her second single "[[With Ur Love]]" was released on 31 October, featuring [[Mike Posner]], and reached number four in the UK, and number five in Ireland, preceding her debut album ''[[Sticks and Stones (Cher Lloyd album)|Sticks + Stones]]'', which reached number four on the [[UK Albums Chart]] and number seven on the [[Irish Albums Chart]]. "[[Want U Back]]", featuring American rapper [[Astro (rapper)|Astro]], served as the album's third single and was released on 13 February 2012.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="11"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br/><ref name="UK">Peak chart positions for singles in the United Kingdom:
+
+* For all except where noted: {{cite web |title=The Official Charts Company > Cher Lloyd |url=https://www.officialcharts.com/artist/7067/cher-lloyd/ |accessdate=22 May 2021 |publisher=[[Official Charts Company]]}}
+* For "Heroes": {{cite web |title=The Official Charts Company > 'Heroes' by X Factor Finalists 2010 |url=https://www.officialcharts.com/search/singles/Heroes |accessdate=24 March 2012 |publisher=[[Official Charts Company]]}}
+* For "I Wish": {{cite web |title=CHART: CLUK Update 2.08.2014 (wk30) |url=http://www.zobbel.de/cluk/140809cluk.txt |publisher=Zobbel.de}}
+</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS">{{cite web |title=Discography Cher Lloyd |url=http://australian-charts.com/showinterpret.asp?interpret=Cher+Lloyd |accessdate=26 February 2012 |website=australian-charts.com}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL]]<br/><ref name="bel">{{cite web |title=Discografie Cher Lloyd |url=http://www.ultratop.be/nl//showinterpret.asp?interpret=Cher+Lloyd |url-status=dead |archiveurl=https://web.archive.org/web/20121201083055/http://www.ultratop.be/nl/ |archivedate=1 December 2012 |accessdate=26 February 2012 |website=ultratop.be |language=Dutch}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br><ref name="billboard.com">{{cite magazine |title=Cher Lloyd Chart History |url=https://www.billboard.com/music/cher-lloyd/chart-history |magazine=Billboard |accessdate=6 December 2017}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Albums Chart|IRE]]<br/><ref name="ire">{{cite web |title=Discography Cher Lloyd |url=http://irish-charts.com/showinterpret.asp?interpret=Cher+Lloyd |archive-url=https://web.archive.org/web/20140102192722/http://irish-charts.com/showinterpret.asp?interpret=Cher+Lloyd |url-status=dead |archive-date=2 January 2014 |accessdate=26 February 2012 |website=irish-charts.com}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Oricon|JPN]]<br><ref>{{cite web |title=Ｃｈｅｒ Ｌｌｏｙｄのリリース一覧 |url=http://www.oricon.co.jp/prof/artist/553670/products/release/ |publisher=Oricon}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br/><ref name="NZ">{{cite web |title=Discography Cher Lloyd |url=https://charts.nz/showinterpret.asp?interpret=Cher+Lloyd |accessdate=26 February 2012 |work=charts.nz |publisher=Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br><ref>{{cite web |title=Archive Chart |url=https://www.officialcharts.com/charts/scottish-albums-chart/20111113/40/ |publisher=[[Official Charts Company]]}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Productores de Música de España|SPA]]<br><ref>{{cite web |title=Weekly charts: 26.5.2014 – 1.6.2014 |url=http://www.promusicae.es/listas/semanales |publisher=[[Productores de Música de España]]}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NL]]<br><ref name="NL">{{cite web |title=Discography Cher Lloyd |url=https://dutchcharts.nl/showinterpret.asp?interpret=Cher+Lloyd |accessdate=21 December 2020 |work=dutchcharts.nl}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br><ref name="billboard.com" />
+|-
+! scope="row" | ''[[Sticks and Stones (Cher Lloyd album)|Sticks + Stones]]''
+|
+* Released: 4 November 2011
+*{{nowrap|Label: [[Syco Music|Syco]], [[Epic Records|Epic]]}}
+* Format: [[Compact disc|CD]], [[gramophone record|LP]], [[music download|digital download]]
+| 4 || 30 || — || 11 || 7 || 46 || 31 || 2 || — || — || 9
+|
+* [[British Phonographic Industry|BPI]]: Gold<ref name="bpi">{{cite web |title=BPI Certified Awards |url=https://www.bpi.co.uk/brit-certified/ |url-status=dead |archiveurl=https://web.archive.org/web/20130124005813/http://www.bpi.co.uk/certified-awards.aspx |archivedate=24 January 2013 |accessdate=2 February 2011 |publisher=[[British Phonographic Industry]]}}</ref>
+* [[Irish Recorded Music Association|IRMA]]: Platinum<ref>{{cite web |title=The Irish Charts – All there is to know |url=http://www.irishcharts.ie/awards/gold11.htm |archive-url=https://web.archive.org/web/20121112072838/http://www.irishcharts.ie/awards/gold11.htm |url-status=dead |archive-date=12 November 2012 |website=irishcharts.ie}}</ref>
+|-
+! scope="row" | ''[[Sorry I'm Late]]''
+|
+* Released: 27 May 2014
+* Label: Epic
+* Format: CD, digital download
+| 21 || 23 || 103 || 16 || 58 || 83 || 26 || 24 || 52 || 94 || 12
+|
+|-
+| colspan="14" align="center" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==Singles==
+===As lead artist===
+<!-- Please do not add "Activated" without a source indicating it is now being promoted as an official single -->
+<!-- Please do not remove [[ARIA]] certification citations as these documents are created by ARIA themselves here under "Latest Accredations"<ref>{{Cite web |date=1990-2022 |title=ARIA - Accredations |url=https://www.aria.com.au/accreditations |accessdate=11 February 2022 |website=aria.com.au}}</ref> -->
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:20em;" | Title
+! rowspan="2" scope="col" style="width:1em;" | Year
+! colspan="10" scope="col" | Peak chart positions
+! rowspan="2" scope="col" | [[List of music recording certifications|Certifications]]
+! rowspan="2" scope="col" | Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;" | [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Ultratop|BEL]]<br />{{small|([[Ultratip Bubbling Under|UBU]])}}<br /><ref name="bel" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Canadian Hot 100|CAN]]<br><ref name="CAN100">{{cite magazine |title=Cher Lloyd Chart History: Canadian Hot 100 |url={{BillboardURLbyName|artist=cher lloyd|chart=Billboard Canadian Hot 100}} |magazine=[[Billboard (magazine)|Billboard]] |accessdate=18 July 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;" | [[Irish Singles Chart|IRE]]<br /><ref name="ire" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Japan Hot 100|JPN]]<br /><ref name="billboard.com" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Scottish Singles and Albums Charts|SCO]]<br><ref name="SCO">Peak chart positions for singles in Scotland:
+
+* "Swagger Jagger": {{cite web |title=Archive Chart |url=https://www.officialcharts.com/charts/scottish-singles-chart/20110807/41/ |accessdate=26 February 2012 |publisher=[[Official Charts Company]]}}
+* "With Ur Love": {{cite web |title=Archive Chart |url=http://www.theofficialcharts.com/arcive-chart/_/22/2011-11-12/ |accessdate=26 February 2012 |publisher=Official Charts Company}}
+* "Want U Back": {{cite web |title=Archive Chart |url=https://www.officialcharts.com/charts/scottish-singles-chart/20120303/41/ |accessdate=26 February 2012 |publisher=Official Charts Company}}
+* For "Heroes": {{cite web |title=Archive Chart |url=https://www.officialcharts.com/charts/scottish-singles-chart/20101128/41/ |accessdate=24 March 2011 |publisher=Official Charts Company}}
+* For "None of My Business": {{cite web |title=Chart Archive > 1 November 2018 |url=http://www.officialcharts.com/charts/scottish-singles-chart/20181026/41/ |accessdate=27 October 2018 |publisher=Official Charts Company}}
+* For "Lost": {{cite web |title=Chart 1 May 2020 |url=https://www.officialcharts.com/charts/scottish-singles-chart/ |accessdate=1 May 2020 |publisher=Official Charts Company}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;" | [[Billboard Hot 100|US]]<br><ref name="US100">{{cite magazine |title=Cher Lloyd Chart History: Hot 100 |url={{BillboardURLbyName|artist=cher lloyd|chart=Hot 100}} |magazine=[[Billboard (magazine)|Billboard]] |accessdate=18 July 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;" | [[Mainstream Top 40|US Pop]]<br><ref name=":0">{{cite magazine |title=Cher Lloyd Chart History: Pop Songs |url={{BillboardURLbyName|artist=cher lloyd|chart=Pop Songs}} |magazine=Billboard |accessdate=25 August 2016}}</ref>
+|-
+! scope="row" | "[[Swagger Jagger]]"
+| rowspan="2" | 2011
+| 1 || — || 43 || — || 2 || 5 || — || 1 || — || —
+|
+* BPI: Silver<ref name="bpi" />
+| rowspan="4" | ''Sticks + Stones''
+|-
+! scope="row" | "[[With Ur Love]]"<br /><small>(featuring [[Mike Posner]])<br></small>{{efn|group=upper-alpha|The UK version features Mike Posner, but the US version remained a solo version}} 
+| 4 || 43 || 61 || — || 5 || 67 || 16 || 3 || —{{efn|group=upper-alpha|"With Ur Love" did not enter the ''Billboard'' Hot 100, but peaked at number 1 on the [[Bubbling Under Hot 100]] chart.<ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/cher-lloyd/chart-history/hbu/|title=Cher Lloyd Chart History: Bubbling Under Hot 100|magazine=Billboard|accessdate=7 October 2019}}</ref>}} || 27
+|
+* BPI: Silver<ref name="bpi" /> 
+* [[Australian Recording Industry Association|ARIA]]: Platinum<ref name=":1">{{cite certification|region=Australia|accessdate=11 February 2022|certyear=2013}}</ref>
+* [[Recording Industry Association of New Zealand|RMNZ]]: Gold<ref name=":2">{{cite web |title=NZ Top 40 Singles: 14 May 2012 |url=https://aotearoamusiccharts.co.nz/archive/singles/2012-05-11 |access-date=11 February 2022 |publisher=[[Recording Industry Association of New Zealand]]}}</ref>
+|-
+! scope="row" | "[[Want U Back]]"{{efn|group=upper-alpha|The European and Australian version of "Want U Back" features US rapper Astro.}} 
+| rowspan="2" | 2012
+| 25 || 36 || 38 || 11 || 18 || 33 || 3 || 23 || 12 || 9
+|
+* BPI: Gold<ref name="bpi" />
+* ARIA: Platinum<ref name=":3">{{cite certification|region=Australia|accessdate=11 February 2022|certyear=2012}}</ref>
+* [[Recording Industry Association of America|RIAA]]: 2× Platinum<ref name="riaa.com">{{cite web |title=RIAA Gold & Platinum Searchable Database – August 23rd, 2012 |url=https://www.riaa.com/goldandplatinumdata.php?content_selector=gold-platinum-searchable-database |accessdate=23 August 2012 |publisher=[[Recording Industry Association of America]]}}</ref>
+* RMNZ: Platinum<ref name="NZ Top 40 Singles: 14 May 2012">{{cite web |title=NZ Top 40 Singles: 14 May 2012 |url=https://aotearoamusiccharts.co.nz/archive/singles/2012-03-23 |access-date=15 May 2012 |publisher=[[Recording Industry Association of New Zealand]]}}</ref>
+|-
+! scope="row" | "[[Oath (song)|Oath]]"<br /><span style="font-size:85%;">(featuring [[Becky G]])</span>
+| — || 58 || — || 58 || — || — || 13 || — || 73 || 30
+|
+* RIAA: Gold<ref name="riaa.com" />
+* RMNZ: Gold<ref name=":4">{{cite certification|region=New Zealand|title=Oath|artist=Cher Lloyd|type=single|access-date=2024-11-20|id=2013-02-08|source=newchart}}</ref>
+|-
+! scope="row" | "[[I Wish (Cher Lloyd song)|I Wish]]"<br /><span style="font-size:85%;">(featuring [[T.I.]])</span>
+| 2013
+| 160 || 40 || 34 || — || — || — || 16 || — || —{{efn|group=upper-alpha|"I Wish" did not enter the ''Billboard'' Hot 100, but peaked at number 16 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || —
+|
+| rowspan="2" | ''Sorry I'm Late''
+|-
+! scope="row" | "[[Sirens (Cher Lloyd song)|Sirens]]"
+| 2014
+| 59 || — || — || — || 53 || — || — || 20 || — || —
+|
+|-
+! scope="row" | "[[None of My Business]]"
+| 2018
+| —{{efn|group=upper-alpha|"None of My Business" did not enter the UK Singles Chart, but peaked at number 62 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/songs/cher-lloyd-none-of-my-business/|title=Cher Lloyd - None Of My Business|website=Official Charts|date=1 November 2018|access-date=23 July 2024}}</ref>}}  || — || — || — || — || — || — || 58 || — || —
+|
+| rowspan="5" {{N/A|Non-album singles}}
+|-
+! scope="row" | "[[M.I.A (Cher Lloyd song)|M.I.A]]"
+| 2019
+| — || — || 58 || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Lost (Cher Lloyd song)|Lost]]"
+| rowspan="2" | 2020
+| — || — || — || — || — || — || — || 89 || — || —
+|
+|-
+! scope="row" | "One Drink Away"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Baddest"<ref name=":5">{{Cite web |last=Sweeney |first=Farrell |date=13 May 2021 |title=Imanbek and Cher Lloyd come together for dance floor dominator, 'Baddest' |url=https://dancingastronaut.com/2021/05/imanbek-and-cher-lloyd-come-together-for-dance-floor-dominator-baddest/ |accessdate=16 July 2021 |website=Dancing Astronaut}}</ref> <br /><span style="font-size:85%;">(with [[Imanbek]])</span>
+| 2021
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Head Down (Cher Lloyd song)|Head Down]]"
+| rowspan="2" | 2025
+| —{{efn|group=upper-alpha|"Head Down" entered the UK Downloads Chart at number 26.<ref>{{cite web|url=https://www.officialcharts.com/songs/cher-lloyd-head-down/ |title=Head Down |website=[[Official Charts Company|Official Charts]] }}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4" {{TBA}}
+|-
+! scope="row" | "Green Light"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Sweet Devotion"<br /><span style="font-size:85%;">(with Fuzion)</span>
+| rowspan="2" | 2026
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Time Feels Right"<br /><span style="font-size:85%;">(with Niall T)</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="14" style="font-size:8pt" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="9"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br/><ref name="UK" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL]]<br/><ref name="bel" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine |title=Demi Lovato Chart History – Canadian Hot 100 |url={{BillboardURLbyName|artist=demi lovato|chart=Billboard Canadian Hot 100}} |magazine=Billboard |accessdate=24 April 2011}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br/><ref>{{cite web |title=Sean Kingston Feat. Cher Lloyd Rum and Raybans Chart History |url=https://www.offiziellecharts.de/titel-details-1075633 |accessdate=22 May 2021 |work=Official German Charts}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br/><ref name="X Factor – The Finalists 2010">{{cite web |title=X Factor – The Finalists 2010 |url=http://irish-charts.com/showinterpret.asp?interpret=X+Factor+-+The+Finalists+2010 |archive-url=https://web.archive.org/web/20121024215915/http://irish-charts.com/showinterpret.asp?interpret=X+Factor+-+The+Finalists+2010 |url-status=dead |archive-date=24 October 2012 |accessdate=26 February 2012 |website=irish-charts.com}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br/><ref name="SCO" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br/><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br><ref>{{cite magazine |title=Demi Lovato Chart History – Hot 100 |url={{BillboardURLbyName|artist=demi lovato|chart=all}} |magazine=Billboard |accessdate=24 April 2011}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Mainstream Top 40|US Pop]]<br><ref>{{cite magazine |title=Demi Lovato Chart History – Pop Songs |url={{BillboardURLbyName|artist=demi lovato|chart=Pop Songs}} |magazine=Billboard |accessdate=20 April 2014}}</ref>
+|-
+! scope="row"| "[[Heroes (David Bowie song)#Other versions|Heroes]]"<br/><span style="font-size:85%;">(with [[List of The X Factor finalists (British series 7)|''The X Factor'' finalists]])</span>
+| 2010 
+| 1 || — || — || — || 1 || 1 || — || — || —
+|
+* BPI: Silver<ref name="bpi" />
+| rowspan="2" {{N/A|non-album singles}}
+|-
+! scope="row"| "[[Rum and Raybans]]"<br/><span style="font-size:85%;">([[Sean Kingston]] featuring Cher Lloyd)</span>
+| 2012
+| — || — || 68 || 99 || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Really Don't Care]]"<br/><span style="font-size:85%;">([[Demi Lovato]] featuring Cher Lloyd)</span>
+| 2014
+| 92 || 13 || 24 || — || 82 || 50 || 36 || 26 || 7
+|
+* BPI: Silver<ref>{{cite web |title=BPI, "Really Don't Care" – BRIT CERTIFIED |url=https://www.bpi.co.uk/award/16823-2589-1 |accessdate=11 February 2022 |publisher=[[British Phonographic Industry]]}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI NOR]]: Platinum<ref>{{cite web |title=IFPI |url=https://ifpi.no/trofe/trofeoversikt/?searchterm=Demi+Lovato |accessdate=11 February 2022 |publisher=[[International Federation of the Phonographic Industry]]}}</ref>
+* RIAA: 2× Platinum<ref name="riaa.com" />
+| ''[[Demi (album)|Demi]]''
+|-
+! scope="row"| "4U"<br/><span style="font-size:85%;">(Joakim Molitor featuring Cher Lloyd)</span><ref>{{cite web |title=4U – Single by Joakim Molitor & Cher Lloyd |url=https://music.apple.com/us/album/4u-single/1383728161 |access-date=28 August 2018 |publisher=[[iTunes Store]]}}</ref>
+| 2018
+| — || — || — || — || — || — || — || — || —
+|
+| {{n/a|non-album single}}
+|-
+! scope="row"| "Don't Lose Love"<br /><span style="font-size:85%;">([[Quintino (DJ)|Quintino]] and Afsheen featuring Cher Lloyd)</span><ref>{{cite web |title=Don't Lose Love (feat. Cher Lloyd) {{!}} Quintino x AFSHeeN |url=https://spinninrecords.com/releases/dont-lose-love-feat-cher-lloyd/details |accessdate=2 September 2019 |publisher=Spinnin' Records}}</ref>
+| 2019
+| — || — || — || — || — || — || — || — || —
+|
+| ''Bright Nights''
+|-
+| colspan="14" style="font-size:8pt" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:20em;" | Title
+! scope="col" style="width:1em;" | Year
+! scope="col" | Album
+|-
+! scope="row" | "Dirty Love"<ref>{{cite web |title="Dirty Love" Is Here! &#124; Cher Lloyd Official |url=http://www.cherlloyd.com/2014/03/28/dirty-love-premier/ |url-status=dead |archive-url=https://web.archive.org/web/20140331095730/http://www.cherlloyd.com/2014/03/28/dirty-love-premier/ |archive-date=31 March 2014 |accessdate=15 April 2014 |website=CherLloyd.com}}</ref> 
+| rowspan="4" | 2014
+| rowspan="4" | ''Sorry I'm Late''
+|-
+! scope="row" | "Human"<ref>{{cite web |date=11 April 2014 |title=Cher Lloyd unveils new ballad 'Human' – listen |url=http://www.digitalspy.com/music/news/a564005/cher-lloyd-unveils-new-ballad-human-listen.html |accessdate=15 April 2014 |website=[[Digital Spy]]}}</ref>
+|-
+! scope="row" | "Bind Your Love"<ref>{{cite web |date=27 April 2017 |title=Cher Lloyd Drops New Song 'Bind Your Love': Listen |url=http://www.idolator.com/7515847/cher-lloyd-bind-your-love.html |archive-url=https://archive.today/20140428161300/http://www.idolator.com/7515847/cher-lloyd-bind-your-love.html |url-status=dead |archive-date=28 April 2014 |accessdate=28 April 2014 |website=[[Idolator (website)|Idolator]]}}</ref>
+|-
+! scope="row" | "M.F.P.O.T.Y."<ref>{{cite web |date=2 May 2014 |title=Cher Lloyd Goes Full Brat On "M.F.P.O.T.Y.": Listen |url=http://www.idolator.com/7516807/cher-lloyd-mfpoty.html |archive-url=https://archive.today/20140503111104/http://www.idolator.com/7516807/cher-lloyd-mfpoty.html |url-status=dead |archive-date=3 May 2014 |accessdate=3 May 2014 |website=Idolator}}</ref>
+|-
+! scope="row" | "[[Activated]]"<ref>{{cite web |title=Activated – Single by Cher Lloyd |url=https://music.apple.com/us/album/activated-single/1134677814 |access-date=25 August 2016 |publisher=[[iTunes Store]]}}</ref><ref>{{cite news |last1=Tang |first1=Estelle |date=24 August 2016 |title=Watch Cher Lloyd's Slinky "Activated" Video |url=http://www.elle.com/culture/music/news/a38719/cher-lloyd-activated-video/ |accessdate=26 August 2016 |work=[[Elle (magazine)|Elle]] |quote=while this track isn't an official single...}}</ref><!-- Refrain from moving to main singles table unless its status changes. -->
+| 2016
+| {{N/A|Non-album promotional single}}
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:10em;| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="1"| Peak positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;" | [[Gaon Download Chart|{{abbr|KOR<br>For.<br>Download|Korean Foreign Download Chart}}]]<br><ref>{{cite web |url=http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=S1020&termGbn=week&hitYear=2014&targetTime=23&nationGbn=E|title=South Korea Gaon Foreign Download Chart (Week: May 25, 2014 to May 31, 2014)|website=Gaon Music Chart|access-date=22 May 2021}}</ref>
+|-
+! scope="row"| "Killin' It"
+| 2014
+| 76
+| ''Sorry I'm Late''
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:20em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col"| Director
+|-
+! scope="row"| "Swagger Jagger"
+| rowspan="3"| 2011
+| rowspan="2"| Barney Steel and Mike Sharpe<ref name="vevo">{{cite web|title=Cher Lloyd|url=http://www.vevo.com/artist/cher-lloyd?source=instantsearch|publisher=[[Vevo]]|accessdate=26 February 2012}}</ref>
+|-
+! scope="row"| "With Ur Love"<br/><span style="font-size:85%;">(featuring [[Mike Posner]])</span>
+|-
+! scope="row"| "Dub on the Track"<br/><span style="font-size:85%;">(featuring Mic Righteous, [[Dot Rotten]] and [[Ghetts]])</span>
+| [[Paris Zarcilla]]<ref>{{cite web|title=SB.TV – Cher Lloyd – Dub on the Track Ft. Mic Righteous, Dot Rotten & Ghetts <nowiki>[Music Video]</nowiki>|url=https://www.nme.com/nme-video/youtube/id/bG6RatujjW0/search/Cher%20Lloyd|work=[[NME]]|accessdate=26 February 2012}}</ref>
+|-
+! scope="row"| "Want U Back"<br/><span style="font-size:85%;">(featuring Astro)</span>
+| rowspan="3"| 2012
+| Parris<ref name="vevo"/>
+|-
+! scope="row"| "Want U Back" <small>(US version)</small><ref>{{cite web|url=http://thatgrapejuice.net/2012/03/cher-lloyd-announces-debut-single-shoots-video/|title=Cher Lloyd Announces Debut US Single; Shoots Video|date=24 March 2012|website=Thatgrapejiuce.net|accessdate=6 December 2017}}</ref>
+| Ciarra Pardo<ref>{{cite web|url=http://www.unnu.com/cher-lloyd/want-u-back|title=Want U Back by Cher Lloyd|url-status=dead|archiveurl=https://web.archive.org/web/20121106095727/http://www.unnu.com/cher-lloyd/want-u-back|archivedate=6 November 2012}}</ref>
+|-
+! scope="row"| "Oath"<br/><span style="font-size:85%;">(featuring [[Becky G]])</span>
+| rowspan="2"| [[Hannah Lux Davis]]
+|-
+! scope="row"| "With Ur Love" <small>(US version)</small>
+| rowspan="3"| 2013
+|-
+! scope="row"| "It's All Good"<br/><span style="font-size:85%;">(featuring [[Ne-Yo]])</span>
+| Vitaliy Kuzmenko<ref>{{cite web|url=https://twitter.com/VitaliyKuzmenko/status/357459912546197505|title=Vitaliy Kuzmenko ✪ on Twitter|via=[[Twitter]]}}</ref>{{Primary source inline|date=December 2020}}
+|-
+! scope="row"| "I Wish"<br/><span style="font-size:85%;">(featuring [[T.I.]])</span>
+| [[Gil Green (director)|Gil Green]]<ref>{{cite web|url=http://www.videostatic.com/watch-it/2013/09/25/cher-lloyd-i-wish-gil-green-dir|title=WATCH IT: Cher Lloyd "I Wish" (Gil Green, dir.)|website=Videostatic.com|accessdate=6 December 2017}}</ref>
+|-
+! scope="row"| "Sirens"
+| rowspan="2"| 2014
+| Darren Craig
+|-
+! scope="row"| "Really Don't Care"<br/><span style="font-size:85%;">([[Demi Lovato]] featuring Cher Lloyd)</span>
+| Ryan Pallotta
+|-
+! scope="row"| "Activated"
+| 2016
+| Cala3reeze<ref>{{cite web|url=https://www.youtube.com/watch?v=sxtjdtb2PDo|title=Cher Lloyd – Activated (Official Video)|last=Cherlloydvevo|date=24 August 2016|via=[[YouTube]]}}</ref>
+|-
+! scope="row"| "None of My Business"
+| 2018
+| Myles Whittingham
+|-
+! scope="row"| "M.I.A"
+|2019
+|rowspan=4| Raja Virdi
+|-
+! scope="row"| "Lost"
+| rowspan="2"| 2020
+|-
+! scope="row"| "One Drink Away"
+|-
+! scope="row"| "Head Down"
+| 2025
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Cher Lloyd}}
+
+{{DEFAULTSORT:Lloyd, Cher}}
+[[Category:Discographies of British artists]]
+[[Category:Pop music discographies]]
+[[Category:The X Factor discographies]]

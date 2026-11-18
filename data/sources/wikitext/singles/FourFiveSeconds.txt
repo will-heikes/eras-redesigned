@@ -1,0 +1,552 @@
+{{short description|2015 single by Rihanna, Kanye West and Paul McCartney}}
+{{redirect-distinguish|45Seconds|45 Seconds from Broadway}}
+{{Use mdy dates|date=December 2024}}
+{{Infobox song
+| name       = FourFiveSeconds
+| cover      = FourFiveSeconds cover.png
+| alt        = In a monochrome image, Paul McCartney holding a guitar, along with Rihanna in the center, and Kanye West on the right behind Rihanna. A text appears in braille reading "Four Five Seconds".
+| border     = yes
+| type       = single
+| artist     = [[Rihanna]], [[Kanye West]], and [[Paul McCartney]]
+| album      =
+| released   = {{Start date|2015|01|24}}
+| recorded   = 2014
+| studio     = *[[Jungle City Studios|Jungle City]] (New York City)
+*[[Windmark Recording|Windmark]] ([[Santa Monica, California|Santa Monica]])
+*No Name Studios (Mexico)
+| genre      = {{hlist|[[Folk pop]]|[[pop rock]]|[[pop soul]]}}
+| length     = {{Duration|m=3|s=8}}
+| label      = *[[Roc Nation]]
+*Westbury Road
+| writer     = {{hlist|[[Kanye West]]|[[Paul McCartney]]|[[Kirby Lauryen]]|[[Mike Dean (music producer)|Mike Dean]]|[[Ty Dolla Sign|Tyrone Griffin]]|[[David Longstreth|Dave Longstreth]]|[[Rihanna|Robyn Fenty]]|[[Dallas Austin]]|Elon Rutberg|[[Noah Goldstein]]}}
+| producer   = {{hlist|West|McCartney}}
+| chronology = [[Rihanna]]
+| prev_title = [[Can't Remember to Forget You]]
+| prev_year  = 2014
+| next_title = [[Towards the Sun (song)|Towards the Sun]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Kanye West]]
+ | type       = singles
+ | prev_title = [[Only One (Kanye West song)|Only One]]
+ | prev_year  = 2014
+ | title      = FourFiveSeconds
+ | year       = 2015
+ | next_title = [[Blessings (Big Sean song)|Blessings]]
+ | next_year  = 2015
+}}{{Extra chronology
+ | artist     = [[Paul McCartney]]
+ | type       = singles
+ | prev_title = [[Only One (Kanye West song)|Only One]]
+ | prev_year  = 2014
+ | title      = FourFiveSeconds
+ | year       = 2015
+ | next_title = [[All Day (Kanye West song)|All Day]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|kt0g4dWxEBo|"FourFiveSeconds"}}
+}}
+}}
+
+"'''FourFiveSeconds'''" is a song recorded by Barbadian singer [[Rihanna]], American rapper [[Kanye West]], and English musician [[Paul McCartney]]. It was written and produced by McCartney, West, [[Mike Dean (record producer)|Mike Dean]], [[David Longstreth|Dave Longstreth]] and [[Noah Goldstein]] with additional writing from [[Kirby Lauryen]], [[Ty Dolla Sign]], [[Dallas Austin]], Elon Rutberg and Rihanna. Previewed by West at the [[iHeartMedia]] Music Summit on January 21, 2015, it was digitally released on January 24. "FourFiveSeconds" is a [[Folk music|folk-pop]] and [[soul music|soul]] song with an [[Instrumentation (music)|instrumentation]] consisting of an [[acoustic guitar]], [[Organ (music)|organ]] and [[bass guitar]].
+
+"FourFiveSeconds" received acclaim from [[Music journalism|music critics]] who praised Rihanna's vocals on the song. Commercially, it peaked at number four on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart. In doing so it gave Rihanna her 26th top-ten song on the chart, while McCartney set a record by ending the longest break between top-ten singles on the chart (his last song to reach the top 10 was "[[Spies Like Us (song)|Spies Like Us]]", reaching the top 10 in early 1986, meaning that the break was around 29 years long). The song also peaked at number one on the US ''Billboard'' [[Hot R&B/Hip-Hop Songs]] chart. Internationally, "FourFiveSeconds" reached number one in Australia, Denmark, Ireland, Luxembourg, New Zealand, Norway, and Sweden, as well as the top three in Canada, France, Germany, and the United Kingdom.
+
+To promote the song, an accompanying [[black-and-white]] [[music video]] was directed by Dutch photographer duo [[Inez van Lamsweerde and Vinoodh Matadin|Inez and Vinoodh]] in New York City. Rihanna, McCartney, and West performed "FourFiveSeconds" for the first time at the [[57th Annual Grammy Awards]] on February 8 held at the [[Staples Center]] in Los Angeles; the performance received highly positive reviews. "FourFiveSeconds" has been covered by various recording artists, including Canadian rapper [[Drake (rapper)|Drake]] and British singer-songwriter [[James Bay (singer)|James Bay]].
+
+== Background and release ==
+On January 21, 2015, Kanye West made a surprise appearance at the iHeartMedia Music Summit, where he teased a collaboration with Rihanna that "featured acoustic guitar and a big, soaring chorus and melody with a massive hook."<ref>{{cite magazine|url=https://www.billboard.com/music/rb-hip-hop/kanye-west-new-music-rihanna-6450364/|title=Kanye West Plays New Music, Embraces Radio at Industry Event: 'Of Course I Want to Be on Radio!'|magazine=[[Billboard (magazine)|Billboard]]|last1=Aswad|first1=Jem|last2=Ramirez|first2=Erika|date=January 22, 2015|access-date=January 25, 2015}}</ref> Earlier, on January 2, recording artist and producer [[Ty Dolla Sign]] gave an interview to ''[[Billboard (magazine)|Billboard]]'' magazine where it revealed that he, West, Rihanna and [[Paul McCartney]] worked on a track together, which was yet to receive its final title.<ref>{{cite magazine|url=https://www.billboard.com/music/rb-hip-hop/ty-dolla-recording-only-one-kanye-west-rihanna-paul-mccartney-6429372/|title=Exclusive: Ty Dolla $ign Talks Recording 'Only One' With Kanye West & Reveals Rihanna Collabo|magazine=[[Billboard (magazine)|Billboard]]|last=Muhammad|first=Latifah|date=January 2, 2015|access-date=January 25, 2015}}</ref> On January 24, Rihanna posted the song on her official website, Rihannanow.com.<ref>{{cite web|url=http://www.mtv.com/news/2058811/rihanna-four-five-seconds/|archive-url=https://web.archive.org/web/20150127122453/http://www.mtv.com/news/2058811/rihanna-four-five-seconds/|url-status=dead|archive-date=January 27, 2015|title=Rihanna Dropped Her New Song With Kanye And Paul McCartney—Hear 'FourFiveSeconds'|publisher=[[MTV News]]|last=White|first=Caitlin|date=January 25, 2015|access-date=January 25, 2015}}</ref> The song titled "FourFiveSeconds" was released as single being made available for [[music download|digital download]] on January 24 via the [[iTunes Store]].<ref name="iTunes US">{{cite web|url=https://music.apple.com/us/album/fourfiveseconds-single/961384859|title=FourFiveSeconds&nbsp;— Single by Rihanna, Kanye West and Paul McCartney|date=January 24, 2015|publisher=[[iTunes Store]] (US)|access-date=January 25, 2015}}</ref> In the United Kingdom it was digitally released on January 26 via [[Amazon.com|Amazon]].<ref name="uk release" /> A [[CD single]] featuring "FourFiveSeconds" and its music video was released on February 27 in Germany.<ref name="cdsingle" />
+
+[[File:Jungle City Studios.jpeg|thumb|The [[Jungle City Studios]] in New York City was one of the studios where the song was recorded.]]
+"FourFiveSeconds" was written by West, McCartney, [[Kirby Lauryen]], [[Mike Dean (record producer)|Mike Dean]], Sign, [[David Longstreth|Dave Longstreth]], [[Dallas Austin]], Elon Rutberg, Noah Goldstein and Rihanna. It was produced by West and McCartney, co-produced by Dean, while additional production was provided by Longstreth and Goldstein. The single was recorded at the [[Jungle City Studios]] in New York City, Windmark Recording in [[Santa Monica, California|Santa Monica]], and No Name Studios in Mexico. Marcos Tovar along with Goldstein and Dean had done the recording of the vocals, while Brendan Morawski, Zeke Mishanec, Jeremy "Head" Hartney, Brandon Wood, and Jordan Heskett served as assistant recording engineers. The vocal production of the song was done by [[Kuk Harrell]] and it was [[Mixing (process engineering)|mixed]] by [[Manny Marroquin]] at the Larabee Studios in Los Angeles. Assistant mixing was made by Chris Galland, Jeff Jackson, and Ike Schultz. McCartney played the acoustic guitar, Longstreth played the organ and Dean played the bass guitar.<ref name="CD notes" /> The three members of [[Wilson Phillips]]—[[Chynna Phillips]], [[Carnie Wilson]], and [[Wendy Wilson]]—provide backing vocals on the song.<ref name="wilson1">{{cite web |last1=Gordon |first1=Jeremy |title=Kanye West Got Wilson Phillips to Sing Backup Vocals on Rihanna's "FourFiveSeconds" |url=https://pitchfork.com/news/59063-kanye-west-got-wilson-phillips-to-sing-backup-vocals-on-rihannas-fourfiveseconds/ |website=Pitchfork |access-date=November 27, 2021 |date=March 31, 2015}}</ref> Carnie Wilson said the trio were invited to appear on the song by West.<ref name="wilson1"/>
+
+On February 8, during his Grammy Awards red carpet interview, West explained how the collaboration came to fruition: "I'm executive producer of Rihanna's album, and I said I'd done a few songs with Paul McCartney and she couldn't get past this record. She had to have it on her album. ... So now we at the Grammys doing it".<ref>{{cite magazine|last1=Grow|first1=Kory |last2=Spanos|first2=Brittany|title=Kanye West, Rihanna, Paul McCartney Debut 'FourFiveSeconds' Live at Grammys|url=https://www.rollingstone.com/music/news/kanye-west-rihanna-and-paul-mccartney-debut-fourfiveseconds-live-at-grammys-20150208|magazine=[[Rolling Stone]]|access-date=February 8, 2015|date=February 8, 2015}}</ref> West further compared Rihanna's vocals on the song to that of Scottish singer [[Annie Lennox]]: "I feel like she has this type of energy in her vocals. And she even brought it to another level of like soul and heart and artistry".<ref>{{cite news|url=https://www.rollingstone.com/music/news/kanye-west-gets-deep-with-ryan-seacrest-11-things-we-learned-20150211?page=2|archive-url=https://web.archive.org/web/20150213204316/http://www.rollingstone.com/music/news/kanye-west-gets-deep-with-ryan-seacrest-11-things-we-learned-20150211?page=2|url-status=dead|archive-date=February 13, 2015|title=Kanye West Gets Deep With Ryan Seacrest: 11 Things We Learned|magazine=[[Rolling Stone]]|first=Kory |last=Grow|date=February 11, 2015|access-date=February 15, 2015}}</ref> In an interview with ''[[V (American magazine)|V]]'' magazine, Rihanna revealed, "The thing that made me fall in love with ['FourFiveSeconds'] is the juxtaposition of the music and the lyrics. When you read the lyrics it's a completely different song than what you are hearing. The music is easygoing, but the lyrical content is very loud and in your face."<ref>{{cite web|url=http://www.huffingtonpost.com/2015/04/21/rihanna-v-magazine-cover_n_7105022.html|title=Rihanna Doesn't 'Give A D-ck' About Privacy Anymore|work=[[The Huffington Post]]|last=Goodman|first=Jessica|ref=none|date=April 21, 2015|access-date=April 21, 2015}}</ref> Although it is a first collaboration by the trio, they have collaborated separately. West and McCartney collaborated on the 2014 single "[[Only One (Kanye West song)|Only One]]", a track dedicated to West's daughter [[Kanye West#Relationships and family|North]]. Rihanna and West previously collaborated on [[Jay-Z]]'s 2009 single "[[Run This Town]]"—which became a commercial success and peaked at number two on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart—and West's 2011 single "[[All of the Lights]]", a track featuring backup vocals by [[John Legend]], [[Fergie (singer)|Fergie]], and [[Elton John]] among others.<ref name="forbes" />
+
+== Composition and lyrical interpretation ==
+{{listen|type=music|filename=FourFiveSeconds.ogg|title="FourFiveSeconds"
+|description=An 18-second sample of the [[refrain|chorus]] of "FourFiveSeconds", a stripped down [[pop music|pop]] acoustic song with [[country music]] influences that features minimalistic [[Instrumentation (music)|instrumentation]] consisting of [[acoustic guitar]], [[Organ (music)|organ]], and [[bass guitar]].
+|pos= left}}
+
+"FourFiveSeconds" is an acoustic [[Folk music|folk-pop]], [[Pop music|pop]], [[pop rock]] and [[soul pop]] song,<ref>Sources concerning the song's genres:<br>{{multiref2
+|1=Folk-pop: {{cite magazine|url=http://www.billboard.com/articles/news/6517041/carnie-wilson-on-wilson-phillips-singing-backup-fourfiveseconds-rihanna|title=Carnie Wilson Talks Singing Backup Vocals for Rihanna's 'FourFiveSeconds'|magazine=[[Billboard (magazine)|Billboard]]|last=Horowitz|first=Steven J.|date=March 31, 2015|access-date=December 7, 2015|quote=When it came time to unite as a trio for Rihanna's "FourFiveSeconds" alongside Sir Paul, he enlisted another group to provide backing vocals on the folk-pop hit: Wilson Phillips.|ref=none}}
+|2=Pop: {{cite news|url=http://www.nydailynews.com/entertainment/music/rihanna-releases-catchy-acoustic-song-paul-mccartney-article-1.2090961|title=Rihanna releases catchy pop acoustic song, 'FourFiveSeconds', with Paul McCartney|work=[[Daily News (New York)|Daily News]]|location=New York|last=Farber|first=Jim|date=January 25, 2015|access-date=January 25, 2015|ref=none}}
+|3=Pop rock: {{cite news|last=DeVille|first=Chris|title=Kanye West & Lil Pump's 'I Love It': A Perfectly Perverse Success|url=https://www.stereogum.com/2013746/kanye-west-lil-pump-i-love-it/franchises/the-week-in-pop/|access-date=September 14, 2018|work=[[Stereogum]]|date=September 13, 2018|quote=Two years later he climbed to #4 with the Rihanna and Paul McCartney collab 'FourFiveSeconds', a winsome pop-rock tune that was perhaps boosted by its unlikely celebrity convergence.|ref=none}}
+|4=Soul pop: {{cite news|url=http://www.walesonline.co.uk/whats-on/music-nightlife-news/welsh-bands-startling-reworking-rihanna-8722165 |title=Welsh's band startling reworking of Rihanna, Kanye West and Paul McCartney's 'FourFiveSeconds' |work=[[Western Mail (Wales)|Western Mail]]|location=Wales|last=Owens |first=David |date=February 25, 2015 |access-date=February 26, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150226153810/http://www.walesonline.co.uk/whats-on/music-nightlife-news/welsh-bands-startling-reworking-rihanna-8722165 |archive-date=February 26, 2015|ref=none}}}}</ref> with a length of three minutes and eight seconds.<ref name="rapup">{{cite web|url=http://www.rap-up.com/2015/01/24/new-music-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|archive-url=https://web.archive.org/web/20150126155816/http://www.rap-up.com/2015/01/24/new-music-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|url-status=dead|archive-date=January 26, 2015|title=New Music: Rihanna, Kanye West, & Paul McCartney&nbsp;– 'FourFiveSeconds'|work=[[Rap-Up]]|date=January 24, 2015|access-date=January 25, 2015}}</ref> Critics noted how the song has a stripped back feel to it,<ref name="nydn">{{cite news|url=http://www.nydailynews.com/entertainment/music/rihanna-releases-catchy-acoustic-song-paul-mccartney-article-1.2090961|title=Rihanna releases catchy pop acoustic song, 'FourFiveSeconds,' with Paul McCartney|work=[[Daily News (New York)|Daily News]]|location=New York|last=Farber|first=Jim|date=January 25, 2015|access-date=January 25, 2015}}</ref> and that it incorporates elements of [[Country music|country]] and [[Folk music|folk]].<ref name="smh">{{cite web|url=https://www.smh.com.au/entertainment/music/kanye-west-paul-mccartney-and-rihanna-unveil-new-song-four-five-seconds-20150125-12xr69.html|title=Kanye West, Paul McCartney and Rihanna unveil new song Four Five Seconds|work=[[The Sydney Morning Herald]]|date=January 25, 2014|access-date=January 25, 2014|location=Sydney}}</ref><ref name="defpen">{{cite web|url=http://defpenradio.com/rihanna-kanye-west-paul-mccartney-fourfiveseconds/|archive-url=https://web.archive.org/web/20150130212127/http://defpenradio.com/rihanna-kanye-west-paul-mccartney-fourfiveseconds/|url-status=usurped|archive-date=January 30, 2015|title=Rihanna, Kanye West, & Paul McCartney&nbsp;– FourFiveSeconds|publisher=Def Pen Radio|last=Grief|first=Trevor|date=January 24, 2015|access-date=January 26, 2015}}</ref> "FourFiveSeconds" makes use of a simple [[Instrumentation (music)|instrumentation]], primarily consisting of an [[acoustic guitar]] and [[Organ (music)|organ]], as well as a [[bass guitar]] in the background.<ref name="forbes">{{cite web|url=https://www.forbes.com/sites/hughmcintyre/2015/01/24/rihanna-releases-new-song-featuring-paul-mccartney-and-kanye-west/|title=Rihanna, Paul McCartney And Kanye West Drop Surprise Track 'Four Five Seconds'|work=[[Forbes]]|last=Mclntyre|first=Hugh|date=January 24, 2015|access-date=January 25, 2015}}</ref><ref>{{cite web|url=http://diymag.com/2015/01/25/rihanna-kanye-west-and-paul-mccartney-release-new-track-fourfiveseconds|title=Rihanna, Kanye West and Paul McCartney release new track, 'Four Five Seconds'|work=[[DIY (magazine)|DIY]]|date=January 25, 2015 |access-date=January 25, 2015}}</ref> It has been noted that West sings his lines in the song instead of [[rapping]] them, which prompted Jim Farber of the ''[[Daily News (New York)|Daily News]]'' to write that he could have done with [[Auto-Tune|auto-tune]] to smooth out his "unsteady vocals."<ref name="nydn" /> "FourFiveSeconds" is written in the key of [[D major]], in [[common time]], with a tempo of 103 beats per minute. Rihanna and West's vocals span two octaves from the low note of [[D (musical note)|D<sub>3</sub>]] to the high note of [[D (musical note)|D<sub>5</sub>]].<ref>{{cite web|url=http://www.musicnotes.com/sheetmusic/mtdFPE.asp?ppn=MN0146334|title=Rihanna 'FourFiveSeconds' Sheet Music|date=February 4, 2015|publisher=Musicnotes.com. [[MPL Communications]]|access-date=February 26, 2015}}</ref>
+
+''Billboard'''s Jocelyn Vena stated that the musical direction of the song represents a departure from the material present on Rihanna's most recent studio album, ''[[Unapologetic]]'' (2012), which incorporated [[Electronic dance music|EDM]] and [[dubstep]].<ref name="billboard">{{cite magazine|url=http://www.billboard.com/articles/6450843/rihanna-previews-new-sound-with-kanye-west-paul-mccartney-track-FourFiveSeconds?facebook_20150124|title=Rihanna Previews New Sound With Kanye West, Paul McCartney Track|magazine=[[Billboard (magazine)|Billboard]]|last=Vena|first=Jocelyn|date=January 24, 2015|access-date=January 25, 2015}}</ref><ref name="Roberts">{{cite news|last=Roberts |first=Randall |date=November 16, 2012 |url=http://www.latimes.com/entertainment/music/posts/la-et-ms-review-rihannas-unapologetic-shines-light-on-past-drama-20121116,0,7267834.story |title=Review: Rihanna's 'Unapologetic' shines light on past drama |newspaper=[[Los Angeles Times]] |access-date=November 16, 2012 |archive-url=https://web.archive.org/web/20130327063917/http://www.latimes.com/entertainment/music/posts/la-et-ms-review-rihannas-unapologetic-shines-light-on-past-drama-20121116%2C0%2C7267834.story |archive-date=March 27, 2013 |url-status=live }}</ref> Hugh Mclntyre of ''[[Forbes]]'' also wrote that the song represents a change in musical direction for Rihanna and West, while noting that it is consistent with McCartney's style of music.<ref name="forbes" /> Lanre Bakare of ''[[The Guardian]]'' described "FourFiveSeconds" as an "acoustic ballad" and the antithesis of what Rihanna and West's previous collaborations have sounded like.<ref>{{cite web|url=https://www.theguardian.com/music/2015/jan/25/rihanna-paul-mccartney-and-kanye-west-release-new-song-four-five-seconds|title= Rihanna, Paul McCartney and Kanye West release new song Four Five Seconds|work=[[The Guardian]]|last=Bakare|first=Lanre|date=January 25, 2015|access-date=January 25, 2015}}</ref> Writing for ''[[Vogue (magazine)|Vogue]]'' magazine, Alex Frank described the song as an "unplugged version" of Rihanna's 2011 single "[[We Found Love]]", and without the [[dance music|dance]] beats present on her previous singles.<ref>{{cite news|url=http://www.vogue.com/9083211/pop-songs-rihanna-charli-xcx-sophia-grace-kanye/|title=The Softer Side of Pop: Sweet New Songs from Rihanna, Charli XCX, and Sophia Grace|work=[[Vogue (magazine)|Vogue]]|last=Frank|first=Alex|date=January 28, 2015|access-date=January 29, 2015|archive-date=January 29, 2015|archive-url=https://web.archive.org/web/20150129054214/http://www.vogue.com/9083211/pop-songs-rihanna-charli-xcx-sophia-grace-kanye/|url-status=dead}}</ref>
+
+''The New York Post'' wrote that the lyrics "express emotions ranging from the flip to the resigned".<ref name="nydn" /> Sharan Shetty of ''[[Slate (magazine)|Slate]]'' stated that the song is about "heartbreak and redemption",<ref>{{cite journal|url=http://www.slate.com/blogs/browbeat/2015/01/24/four_five_seconds_released_listen_to_the_kanye_west_rihanna_and_paul_mccartney.html|title=Rihanna, Kanye West, and Paul McCartney Go Country in 'Four Five Seconds'|journal=[[Slate (magazine)|Slate]]|last=Shetty|first=Sharan|date=January 24, 2015|access-date=January 25, 2015}}</ref> while a [[Yahoo! News]] reviewer noted that it is about "personal travails and confusion".<ref>{{cite web|url=https://news.yahoo.com/rihanna-goes-acoustic-paul-mccartney-085836679.html|title=Rihanna goes acoustic with Paul McCartney|publisher=[[Yahoo! News]]|date=January 25, 2015|access-date=January 26, 2015|location=New York}}</ref> Nora Crotty of ''[[Elle (magazine)|Elle]]'' magazine described the single as an "ode to repenting in the morning for the foolish mistakes you made the night before".<ref name="elle">{{cite news|url=http://www.elle.com/culture/news/a26379/hear-rihannas-brand-new-song-featuring-kanye-west-and-paul-mccartney/?src=spr_TWITTER&spr_id=1448_134394870&linkId=11937251|title=Hear Rihanna's Brand New Song Featuring Kanye West and Paul McCartney|work=[[Elle (magazine)|Elle]]|last=Crotty|first=Nora|date=January 25, 2015|access-date=January 26, 2015}}</ref> ''Billboard'''s Vena stated that a "plucky acoustic guitar" accompanies Rihanna's vocals while she sings the lines, "I think I've had enough/ Might get a little drunk/ I say what's on my mind/ I might do a little time. Cause all of my kindness/ Is taken for weakness." After the first [[Refrain|chorus]] West sings, "Woke up an optimist/ Sun was shining, I'm positive/ Then I heard you was talking trash/ Hold me back/ I'm about to spazz." On the second chorus, he and Rihanna harmonize as they sing, "Now I'm four, five seconds from wylin'/ And we got three more days 'till Friday/ I'm just trying to make it back home by Monday morning."<ref name="billboard" /> McCartney's voice can be heard sped up underneath West's opening vocals. McCartney originally played his guitar part slower and in a lower key, which West later sped up for the finished release, thus causing McCartney's voice to sound much higher than its normal tone. McCartney's lyrics were improvised mid-performance and are for the most part drowned out by West's vocals except for the lines "We can run around" and "How 'bout a mystery."<ref>{{cite web|url=https://www.youtube.com/watch?v=7UJ6_Va8plY|title=BBC Mastertapes |work=[[BBC Radio]]}}</ref>
+
+== Critical reception ==
+[[File:Rihanna concert in Washington DC (2).jpg|thumbnail|right|Rihanna's vocals on the song received praise from several music critics.]]
+
+Peter Kandunias of ''[[Gigwise]]'' praised Rihanna's and West's vocals as well as McCartney's instrumentation.<ref>{{cite news|url=http://www.gigwise.com/news/97549/kanye-west-paul-mccartney-and-rihanna-reveal-collaboration|title=Listen: Kanye West, Paul McCartney and Rihanna team up on new song|work=[[Gigwise]]|last=Kandunias|first=Peter|date=January 25, 2015|access-date=January 25, 2015}}</ref> Mclntyre of ''Forbes'' noted: "The song puts the spotlight on Rihanna's vocals, highlighting them in a way that her club-ready, bombastic tunes don't usually."<ref name="forbes" /> Jim Farber of ''New York Daily News'' stated that this collaboration is better than the [[Only One (Kanye West song)|previous West–McCartney collaboration]]. Additionally, he praised Rihanna's vocals and stated that they are a lot better than West's, "who could have used more [[auto-tune]] to firm his unsteady vocals". Farber further noted: "It's refreshing to hear Rihanna sing with so little affect, in a setting that's much less processed than most of her recordings".<ref name="nydn" /> ''[[Vox (website)|Vox]]''{{'}}s Kelsey McKinney noted that "Rihanna's voice shows significant growth in range and tone since her [[Unapologetic|last album]]". She adds that Rihanna's performance in the opening of the song is "more vulnerable than we've heard Rihanna since 2012's '[[Stay (Rihanna song)|Stay]]', and hints that her new album may contain more confessional slow jams like this one".<ref name="vox">{{cite web|url=https://www.vox.com/2015/1/24/7885989/rihanna-kanye-mccartney|title=Rihanna just dropped a new song featuring Paul McCartney and Kanye West|work=[[Vox (website)|Vox]]|last=McKinney|first=Kelsey|date=January 24, 2015|access-date=January 25, 2015}}</ref>
+
+Spencer Kornhaber of ''[[The Atlantic]]'' wrote of Rihanna's vocals: "Listen to the ragged squeak in her voice in the first verse, and how she maintains control as she alternates between contemplative trills and gospel shouts during the [[Bridge (music)|bridge]]".<ref name="atlantic">{{cite news|url=https://www.theatlantic.com/entertainment/archive/2015/01/fourfiveseconds-rihanna-outshines-paul-mccartney-and-kanye/384824/|title='FourFiveSeconds': Rihanna How to Show Up Paul McCartney and Kanye West|work=[[The Atlantic]]|last=Kornhaber|first=Spencer|date=January 26, 2015|access-date=January 26, 2015}}</ref> According to Kornhaber, the song showcases "how distinctive her timbre and phrasing is", something that was not heard on her previous songs like the 2010 single "[[Only Girl (In the World)]]".<ref name="atlantic" /> Travis Grier of Def Pen Radio thought that the song is a good choice for Rihanna to achieve legendary status, as, "she's tackled pretty much every genre under the sun and 'FourFiveSeconds' just expands her versatility even more".<ref name="defpen" /> Crotty of ''Elle'' wrote that the song is "awesome" and "sweet".<ref name="elle" /> ''[[Billboard (magazine)|Billboard]]'' named "FourFiveSeconds" the 21st best song of 2015.<ref>{{cite magazine |title=Billboard's 25 Best Songs of 2015: Critics' Picks |url=https://www.billboard.com/articles/events/year-in-music-2015/6806155/billboard-25-best-songs-critics-picks |magazine=[[Billboard (magazine)|Billboard]]|access-date=March 9, 2020 |archive-url=https://web.archive.org/web/20170316112213/https://www.billboard.com/articles/events/year-in-music-2015/6806155/billboard-25-best-songs-critics-picks |archive-date=March 16, 2017 |date=December 17, 2015 |url-status=live}}</ref>
+
+=== Accolades ===
+The song received a nomination for Collaboration of the Year at the [[American Music Awards of 2015]].<ref>{{cite web|url=http://www.theamas.com/2015-nominees/|title=American Music Awards, 2015 Nominees|work=American Music Awards }}</ref> Although "FourFiveSeconds" was described by a ''[[Los Angeles Times]]'' writer as "tailor-made for multiple Grammy nominations" the song failed to receive a nomination in any category for the 2016 Grammy Awards.<ref>{{cite web|url=http://www.latimes.com/entertainment/music/la-et-ms-grammys-snubs-surprises-20151207-story.html|title=2016 Grammy Awards nominations bring snubs (Rihanna) and surprises (Courtney Barnett)|website=[[Los Angeles Times]]|date=December 7, 2015}}</ref>
+
+{| class="wikitable"
+|-
+! Publication
+! Rank
+! List
+|-
+| ''[[Billboard (magazine)|Billboard]]''
+| align="center"| 21
+| 25 Best Songs of 2015<ref>{{cite magazine |url=http://www.billboard.com/articles/events/year-in-music-2015/6806155/billboard-25-best-songs-critics-picks |title=Billboard's 25 Best Songs of 2015: Critics' Picks |magazine=[[Billboard (magazine)|Billboard]] |date=December 17, 2015 |access-date=December 17, 2015}}</ref>
+|-
+| ''[[The Fader]]''
+| align="center"| 2
+| 107 Best Songs of 2015<ref>{{cite news |url=http://www.thefader.com/2015/12/08/best-songs-of-2015-list |title=The 107 Best Songs Of 2015 |work=[[The Fader]] |date=December 8, 2015 |access-date=December 8, 2015}}</ref>
+|-
+| ''[[Huffington Post]]''
+| align="center"|*
+| Best Songs of 2015 by Andy Parker<ref>{{cite web |url=http://www.huffingtonpost.co.uk/andy-parker/best-songs-of-2015_b_8837402.html |title=Best Songs Of 2015: The 15 Greatest Tracks of the Year |work=[[Huffington Post]] |date=December 18, 2015 |access-date=December 18, 2015}}</ref>
+|-
+| ''[[Rolling Stone]]''
+| align="center"| 36
+| 50 Best Songs of 2015<ref>{{cite magazine |url=https://www.rollingstone.com/music/lists/50-best-songs-of-2015-20151203/rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-20151203 |title=50 Best Songs of 2015 |magazine=[[Rolling Stone]] |date=December 3, 2015 |access-date=December 3, 2015}}</ref>
+|-
+| [[Stereogum]]
+| align="center"| 5
+| The 50 Best Pop Songs of 2015<ref>{{cite web |url=http://www.stereogum.com/1848717/the-50-best-pop-songs-of-2015/franchises/2015-in-review/ |title=The 50 Best Pop Songs of 2015 |work=[[Stereogum]] |date=December 18, 2015 |access-date=December 18, 2015}}</ref>
+|-
+| [[Consequence of Sound]]
+| align="center"| 39
+| Top 50 Songs of 2015<ref>{{cite web |url=https://consequence.net/2015/11/top-50-songs-of-2015/2/ |title=Top 50 Songs of 2015 |work=[[Consequence of Sound]] |date=November 29, 2015 |access-date=September 18, 2016}}</ref>
+|}
+
+{{small|(*) denotes an unordered list}}
+
+== Chart performance ==
+=== North America ===
+[[File:Paul McCartney 930-6404.jpg|thumbnail|left|With the song's advance in the top ten on the US ''Billboard'' Hot 100, McCartney made record by ending the longest break between top-ten songs on the chart.]]
+"FourFiveSeconds" debuted at number 37 on the US [[Mainstream Top 40]] chart before the end of two days of airplay.<ref name="prediction 1">{{cite magazine|url=https://www.billboard.com/pro/rihanna-kanye-west-paul-mccartney-hot-100-fourfiveseconds/|title=Rihanna, Kanye West & Paul McCartney Headed for Hot 100 With 'FourFiveSeconds'|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=January 26, 2015|access-date=January 26, 2015}}</ref> [[Nielsen SoundScan|Nielsen Music]] attributed the quick debut to hourly plays on radio stations owned by [[IHeartMedia, Inc.|iHeartMedia]]. The song garnered 1,000 plays on 100 reports, with an audience reach of 7.4 million. "FourFiveSeconds" is Rihanna's 40th entry on the chart, while it is McCartney's first since the chart's launch in 1992.<ref>{{cite magazine|url=https://www.billboard.com/pro/chart-highlights-mark-ronson-bruno-mars-top-pop-songs-dancemix/|title=Chart Highlights: Mark Ronson, Bruno Mars Top Pop Songs, Dance/Mix Show Airplay|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=January 26, 2015|access-date=January 26, 2015}}</ref> For the week dated January 31, 2015, the song debuted at number 54 on the US ''Billboard'' Hot 100 chart.<ref name="hot100" /> with sales of 53,000 copies<ref>{{cite magazine|url=https://www.billboard.com/pro/ask-billboard-can-kanye-rihanna-paul-hit-no-1-on-the-hot-100/|title=Ask ''Billboard'': Can Kanye, Rihanna & Paul Hit No. 1 on the Hot 100?|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=February 1, 2015|access-date=February 1, 2015}}</ref> and became the chart's top new entry.<ref>{{cite web|url=https://www.yahoo.com/music/rihanna-crashes-the-mccartney-kanye-bromance-109443021166.html|title=Rihanna Crashes the McCartney/Kanye Bromance|publisher=[[Yahoo! Music]]|last=Grein|first=Paul|date=January 29, 2015|access-date=January 29, 2015}}</ref> Subsequently, it debuted at number 12 on the US [[Hot R&B/Hip-Hop Songs]] chart.<ref name=randbhiphop /> The next week, it moved to number 25 on the Pop Songs chart, becoming its greatest gainer. Additionally, it debuted at number 34 on the US [[Adult Pop Songs]] chart and number 25 on the US [[Rhythmic (chart)|Rhythmic Chart]].<ref>{{cite magazine|url=https://www.billboard.com/pro/chart-highlights-new-no-1s-for-maroon-5-hozier-beyonce-mark/|title=Chart Highlights: New No. 1s for Maroon 5, Hozier, Beyonce, Mark Ronson, Bruno Mars, the Decemberists & More|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=February 2, 2015|access-date=February 3, 2015}}</ref> On the ''Billboard'' Hot 100, it moved to number 15 with sales of over 138,000 digital downloads in its second week. It became McCartney's highest-charting single since 1986 when his single "[[Spies Like Us (song)|Spies Like Us]]" reached number seven on the chart.<ref>{{cite magazine|url=https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100-rihanna-kanye-west-paul-mccartney/|title=Mark Ronson & Bruno Mars Top Hot 100; Rihanna, Kanye West & Paul McCartney Near Top 10|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=February 4, 2015|access-date=February 5, 2015}}</ref> The same week, it moved ten places from number 12 to number two on the Hot R&B/Hip Hop Songs chart.<ref name=randbhiphop />
+
+In its third week, the song jumped to number six on the ''Billboard'' Hot 100 as a result of the digital downloads; it sold 181,000 copies for the week and peaked at number three on the Digital Songs chart. It marked McCartney's first top-ten on the Hot 100 chart after 29 years. He surpassed [[Santana (band)|Santana]], who recorded a span of 28 years between his top-tens from 1971 to 1999, thus ending the longest break between top-ten songs in the 56-year history of the chart. "FourFiveSeconds" became Rihanna's 26th top-ten single on the chart and West's 15th.<ref>{{cite magazine|url=http://www.billboard.com/articles/6465909/hot-100-rihanna-kanye-west-paul-mccartney-ellie-goulding-mark-ronson|title=Rihanna, Kanye West, Paul McCartney & Ellie Goulding Hit Hot 100's Top 10; Mark Ronson, Bruno Mars Still No. 1|magazine=[[Billboard (magazine)|Billboard]]|date=February 11, 2015|last=Trust|first=Gary|ref=none|access-date=February 15, 2015}}</ref> The same week, it topped the US Hot R&B/Hip-Hop Songs chart and became Rihanna's fourth number one, while West's seventh. It was McCartney's second number-one song on the chart following his 1983 duet with [[Michael Jackson]], "[[The Girl Is Mine]]".<ref>{{cite magazine|url=https://www.billboard.com/pro/rihanna-kanye-west-paul-mccartneys-fourfiveseconds/|title=Rihanna, Kanye West & Paul McCartney's 'FourFiveSeconds' Tops Hot R&B/Hip-Hop Songs|magazine=[[Billboard (magazine)|Billboard]]|last=Mendizabal|first=Abaya|date=February 12, 2015|access-date=February 15, 2015}}</ref> In the song's fourth week on the ''Billboard'' Hot 100 chart, the song moved two places and peaked at number four. The song became West's highest-charting single on the ''Billboard'' Hot 100 since "[[Heartless (Kanye West song)|Heartless]]", which peaked at number two in 2009. It also became McCartney's first top-five hit in 31 years, one month, and one week; his last top-five hit was his 1983 collaboration with Jackson, "[[Say Say Say]]", which became his ninth solo number-one single.<ref>{{cite magazine|url=http://www.billboard.com/articles/6473187/bruno-mars-longest-hot-100-reign-taylor-swift-top-10|title=Bruno Mars Scores Longest Hot 100 Reign, Taylor Swift Hits Top 10|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=February 18, 2015|access-date=February 19, 2015}}</ref> For the issue dated March 7, "FourFiveSeconds" moved to number 10 on the Pop Songs chart with an audience impression of over 70 million. With the achievement, Rihanna tied [[Mariah Carey]] for most top 10 songs on the chart; each of them has 23 top 10 singles.<ref>{{cite magazine|url=https://www.billboard.com/pro/mark-ronson-bruno-mars-hot-100/|title=Mark Ronson & Bruno Mars Top Hot 100 Again; The Weeknd Enters Top 10|magazine=[[Billboard (magazine)|Billboard]]|last=Trust|first=Gary|ref=none|date=February 25, 2015|access-date=February 26, 2015}}</ref> Although it did not chart on the US [[Hot Country Songs]] chart, it has received airplay on a number of country stations in major metropolitan areas.<ref>{{cite magazine|url=http://www.billboard.com/articles/business/6509505/country-radio-goes-pop-how-formats-shift-when-genres-cross|title=Country Radio Goes Pop: How Formats Shift When Genres Cross|last=Ross|first=Sean|magazine=[[Billboard (magazine)|Billboard]]|date=March 23, 2015|access-date=March 24, 2015}}</ref> As of July 2015, "FourFiveSeconds" has sold 1,868,000 copies in the United States.<ref name=ussales>{{cite magazine |url=https://www.billboard.com/pro/taylor-swifts-1989-and-mark-ronsons-uptown-funk-top-nielsens-mid/ |title=Taylor Swift's '1989' and Mark Ronson's 'Uptown Funk!' Top Nielsen's Mid-Year Charts |last=Caulfield |first=Keith |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=July 2, 2015 |access-date=July 2, 2015}}</ref>
+
+In Canada, "FourFiveSeconds" debuted at number 65 on the [[Canadian Hot 100]] for the week dated February 7. The next week it jumped 56 places to number nine with the biggest gain in digital sales and radio airplay for that issue.<ref>{{cite magazine|url=http://www.billboard.com/charts/canadian-hot-100/2015-02-14|title=Canadian Music: Top 100 Songs Chart – Week of February 7, 2015|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 19, 2015}}</ref> In its third week it peaked at number four on the chart.<ref>{{cite magazine|url=http://www.billboard.com/charts/canadian-hot-100/2015-02-21|title=Canadian Music: Top 100 Songs Chart – Week of February 21, 2015|magazine=[[Billboard (magazine)|Billboard]]|access-date=April 19, 2015}}</ref> "FourFiveSeconds" reached its peak of number three on the chart in its sixth week, for the issue date March 14.<ref name="canadianhot100" /> As of July 2015, "FourFiveSeconds" has sold 289,000 copies in Canada.<ref name=can_sales>{{cite web |url=http://www.nielsen.com/content/dam/corporate/us/en/public%20factsheets/Soundscan/mid-year-2015-canada-music-data.pdf#page=4 |title=2015 Nielsen Mid-Year Music Canada Report |page=4 |publisher=[[Nielsen SoundScan|Nielsen]] |access-date=July 21, 2015 |archive-date=August 7, 2015 |archive-url=https://web.archive.org/web/20150807021809/http://www.nielsen.com/content/dam/corporate/us/en/public%20factsheets/Soundscan/mid-year-2015-canada-music-data.pdf#page=4 |url-status=dead }}</ref>
+
+=== Oceania and Europe ===
+In Australia, "FourFiveSeconds" debuted at number 13 on the singles chart for the week dated February 8, 2015. The next week it jumped to number three and became Rihanna's 28th top-ten song on the chart. For the week dated February 16, the song topped the chart and became Rihanna's ninth song to reach number one. It also became West's second chart-topper and McCartney's third (post [[The Beatles|Beatles]]). With the feat, McCartney became the oldest artist at age 72 to reach number one on the chart, a record which was previously held by American singer [[Cher]]; she was 52 when her single "[[Believe (Cher song)|Believe]]" topped the chart.<ref>{{cite magazine|url=https://www.billboard.com/pro/rihanna-kanye-west-paul-mccartney-collab-tops-australias-chart/|title=Rihanna, Kanye West & Paul McCartney Collab Tops Australia's Chart, 'Fifty Shades' Soundtrack Is No. 1 Album|magazine=[[Billboard (magazine)|Billboard]]|last=Brandie|first=Lars|date=February 15, 2015|access-date=February 16, 2015}}</ref> Furthermore, "FourFiveSeconds" also peaked at number one on the Australian Urban Singles Chart.<ref name="ARIAUrban" /> By 2020, the single was certified 7× platinum by the [[Australian Recording Industry Association]] (ARIA), denoting equivalent sales of over 490,000 units.<ref name="ARIA"/> In New Zealand, it debuted at number nine and peaked at number one for the week dated March 9. It became Rihanna's 31st top-ten single and sixth number-one on the chart.<ref name="newzealand" /> "FourFiveSeconds" topped the charts for five consecutive weeks<ref name="newzealand" /> and was certified double platinum by the [[Recording Industry Association of New Zealand]] (RIANZ) for selling over 30,000 copies in the country.<ref name="newzealand" />
+
+In the United Kingdom, "FourFiveSeconds" debuted at number five on the [[UK Singles Chart]] for the week ending date February 7, 2015.<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-chart/20150201/7501/|title=2015 Top 40 Official Singles Chart UK Archive – 7th February 2015|publisher=[[Official Charts Company]]|access-date=February 9, 2015}}</ref> The next week it reached a peak of number four and sold 41,535 digital downloads.<ref>{{cite news|url=http://www.musicweek.com/businessanalysis/read/official-charts-analysis-ellie-goulding-knocks-uptown-funk-from-singles-top-spot-with-sales-of-172-368/060806|title=Official Charts Analysis: Ellie Goulding knocks Uptown Funk! from singles top spot with sales of 172,368|work=Music Week|last=Jones|first=Alan|access-date=February 16, 2015|url-access=subscription}}</ref> On March 8, 2015, the track reached a new peak of three on the chart.<ref name="uk" /> and has sold over 452,000 copies in the country, as of April 2015.<ref name="uksales">{{cite news|url=http://www.officialcharts.com/chart-news/the-official-top-40-biggest-songs-of-2015-so-far__8817/|title=The Official Top 40 Biggest Songs of 2015 so far|last=Myers|first=Justin|date=April 1, 2015|publisher=[[Official Charts Company]]|access-date=April 1, 2015}}</ref> As of September 2017, the song was the 311th best-selling song of all time in the UK (including streaming equivalent sales).<ref>{{cite web |title=The UK's Official Chart 'millionaires' revealed |url=https://www.officialcharts.com/chart-news/the-uks-official-chart-millionaires-revealed__20459/ |website=Official Charts |access-date=April 14, 2020 |archive-url=https://web.archive.org/web/20180703023911/https://www.officialcharts.com/chart-news/the-uks-official-chart-millionaires-revealed__20459/ |archive-date=July 3, 2018 |date=September 19, 2017 |url-status=live}}</ref> In Ireland, the song debuted at number fourteen on the [[Irish Singles Chart]] for the week dated January 29. On March 19, in its eight-week on the chart, it reached number one.<ref name="Ireland" /> "FourFiveSeconds" attained commercial success in [[continental Europe]] too and reached the top five on over 18 national charts. It debuted at number one on the [[Swedish Singles Chart]] on March 6 and stayed on the position for two consecutive weeks. It became the fourth Swedish number-one song for Rihanna, second for McCartney, and first for West.<ref name="Sweden" /> It was certified double platinum by the [[Swedish Recording Industry Association]] (GLF) and sold over 80,000 digital copies in the country alone.<ref name="Sweden" />
+
+"FourFiveSeconds" debuted at number 10 on the [[Danish Singles Chart]] on March 6. The next week topped the chart and became Rihanna's sixth and McCartney and West's first number-one single on the chart. It stayed on the top of it for four consecutive weeks<ref name="denmark" /> and was certified gold by [[IFPI Denmark]] for shipping over 30,000 copies of the song in the country.<ref name="danishcert">{{cite web|url=http://www.ifpi.dk/?q=certificeringer&page=73|title=Certificeringer {{!}} page 73|publisher=[[IFPI Denmark]]|language=da|access-date=April 29, 2015}}</ref> The single debuted at number 39 in the sixth week of the [[Norwegian Singles Chart]] and the next week it fell off it. In its tenth week, the song re-entered at number 11. In the twelfth week of the chart, "FourFiveSeconds" topped the chart and became Rihanna's eighth, McCartney's third, and West's first chart-topper in the country.<ref name="norway" /> The single reached number four in both Italy<ref name="Italy" /> and Spain.<ref name="Spain" /> In the former it was certified gold by the [[Federation of the Italian music industry]] (FIMI) denoting sales/streams of 25,000 copies.<ref name="italycert" /> On the [[Swiss Singles Chart]], the song peaked at number three and stayed on the position for seven consecutive weeks.<ref name="Switzerland" /> It was certified gold by the [[International Federation of the Phonographic Industry|IFPI Switzerland]] for selling over 15,000 copies in the country alone.<ref name="swisscert" /> "FourFiveSeconds" was also successful in France, where it peaked at number two on the [[French Singles Chart|singles chart]] after previously debuting at number 18.<ref name="france" />
+
+== Music video ==
+
+=== Development ===
+The accompanying [[music video]] for "FourFiveSeconds" was directed by Dutch photographer duo, [[Inez and Vinoodh]] and shot in late December 2014 in New York City.<ref>{{cite magazine|url=https://www.rollingstone.com/music/videos/watch-rihanna-kanye-and-mccartney-on-fourfiveseconds-video-shoot-20150131|title=Watch Rihanna, Kanye and McCartney on 'FourFiveSeconds' Video Shoot|magazine=[[Rolling Stone]]|last=Kreps|first=Daniel|ref=none|date=January 31, 2015|access-date=February 1, 2015}}</ref> Stephanie Bargas, Jeff Lepine, and Jon Barlow served as the visual's producers, while theCollectiveShift [[Executive producer|executively produced]] it. Jodokus Driessen was the [[director of photography]], with Otto Arsenault serving both as editor and cinematographer.<ref name="videostatic">{{cite web|url=http://www.videostatic.com/watch-it/2015/02/03/rihanna-fourfiveseconds-inez-vinoodh-dir|title=Rihanna x Kanye West x Paul McCartney "FourFiveSeconds" (Inez & Vinoodh, dir.)|publisher=VideoStatic|last=Gottlieb|first=Steven|date=February 3, 2015|access-date=February 3, 2015}}</ref> On January 30, 2015, via her official [[YouTube]] channel, Rihanna posted a behind the scenes video from the making of the clip. The video features Rihanna, West, and McCartney performing against a white background. She explained the fashion that they used for the video, "Kanye came up with the idea of doing just some real street, denim, all-American-type look. Denim never goes out of style; it's classic, it's iconic, just like the [[The Beatles|Beatles]]."<ref>{{cite web|url=http://www.rap-up.com/2015/01/31/behind-the-video-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|archive-url=https://web.archive.org/web/20150131191113/http://www.rap-up.com/2015/01/31/behind-the-video-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|url-status=dead|archive-date=January 31, 2015|title=Behind the Video: Rihanna, Kanye West, & Paul McCartney&nbsp;– 'FourFiveSeconds'|work=[[Rap-Up]]|date=January 30, 2015|access-date=January 30, 2015}}</ref> On February 2, Rihanna posted a snippet of the clip on her official [[Instagram]] account. It shows the singer in silhouette as she sings the lyrics; she is wearing a [[Sean John]] throwback denim jacket.<ref>{{cite web|url=http://www.rap-up.com/2015/02/02/rihanna-teases-fourfiveseconds-video/|archive-url=https://web.archive.org/web/20150208064250/http://www.rap-up.com/2015/02/02/rihanna-teases-fourfiveseconds-video/|url-status=dead|archive-date=February 8, 2015|title=Rihanna Teases 'FourFiveSeconds' Video|work=Rap-Up|date=February 2, 2015|access-date=February 2, 2015}}</ref> The video premiered on February 3 on Rihanna's official [[Vevo]] channel on YouTube.<ref name="premiere+grammy">{{cite web|url=http://www.rap-up.com/2015/02/03/video-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|archive-url=https://web.archive.org/web/20150203160719/http://www.rap-up.com/2015/02/03/video-rihanna-kanye-west-paul-mccartney-fourfiveseconds/|url-status=dead|archive-date=February 3, 2015|title=Video: Rihanna, Kanye West, & Paul McCartney&nbsp;– 'FourFiveSeconds'|work=Rap-Up|date=February 3, 2015|access-date=February 3, 2015}}</ref> The same day, it was digitally released on the iTunes Store.<ref>{{cite web|url=https://itunes.apple.com/us/music-video/fourfiveseconds/id964356335|archive-url=https://web.archive.org/web/20150227223445/https://itunes.apple.com/us/music-video/fourfiveseconds/id964356335|url-status=dead|archive-date=February 27, 2015|title=Music Videos&nbsp;— FourFiveSeconds by Rihanna|publisher=iTunes Store (US)|access-date=February 4, 2015}}</ref>
+
+=== Analysis and reception ===
+
+[[File:Xavier Dolan Cannes 2014 2.jpg|right|150px|thumb|The music video for "FourFiveSeconds" was compared to the works of the photographer [[Herb Ritts]] and filmmaker [[Xavier Dolan]] (''pictured'').]]
+
+According to Daniel Kreps of ''Rolling Stone'', "The [[Herb Ritts]]-esque [[black-and-white]] clip finds Rihanna and West just singing their collaborative track while McCartney strums the riff on an acoustic guitar, with the real highlight coming when the three musical titans share the same frame."<ref>{{cite news|url=https://www.rollingstone.com/music/news/rihanna-kanye-west-perform-together-at-pre-super-bowl-party-20150201|title=Rihanna, Kanye West Perform Together at Pre-Super Bowl Party|magazine=[[Rolling Stone]]|last=Kreps|first=Daniel|ref=none|date=February 3, 2015|access-date=February 3, 2015}}</ref> Steven Gottlieb of VideoStatic described it as, "vertically constrained to just the center third of the screen, the focus of this silvery black-and-white clip is Rihanna's emotional performance", while McCartney and West supported her role.<ref name="videostatic" /> According to Erin Strecker of ''Billboard'' the video allows "each of the three superstars their moment in the spotlight. The camera mostly switches between tight individual shots of each denim-clad, passionate performer, although there are also a few scenes of all three together".<ref>{{cite magazine|url=http://www.billboard.com/articles/columns/the-juice/6458307/fourfiveseconds-video-rihanna-kanye-west-paul-mccartney|archive-url=https://web.archive.org/web/20150205031425/http://www.billboard.com/articles/columns/the-juice/6458307/fourfiveseconds-video-rihanna-kanye-west-paul-mccartney|url-status=dead|archive-date=February 5, 2015|title=Rihanna, Kanye West & Paul McCartney Release Official 'FourFiveSeconds' Video|magazine=[[Billboard (magazine)|Billboard]]|last=Strecker|first=Erin|date=February 3, 2015|access-date=February 3, 2015}}</ref> Jessica Goodman of ''[[The Huffington Post]]'' described the video as "simple and clean, much like the song".<ref>{{cite web|url=http://www.huffingtonpost.com/2015/02/03/fourfiveseconds-video_n_6603138.html|title=Rihanna's 'FourFiveSeconds' Video, With Kanye West & Paul McCartney, Is Here|work=[[The Huffington Post]]|last=Goodman|first=Jessica|ref=none|date=February 3, 2015|access-date=February 3, 2015}}</ref> Similarly, Nolan Feeney of ''[[Time (magazine)|Time]]'' called the video simple, but also "surprisingly intimate" like the single.<ref name="timevideoreview" /> He also described Rihanna's eye-roll in the video as "epic".<ref name="timevideoreview" /> Additionally, Feeney noted that the video is shot in a [[Aspect ratio (image)#1:1|square aspect ratio]] and compared it to the works of French-Canadian filmmaker [[Xavier Dolan]].<ref name="timevideoreview">{{cite magazine|url=https://time.com/3693572/rihanna-kanye-west-fourfiveseconds-video/|title=Watch Rihanna and Kanye West Make Matching Denim Cool in Their 'FourFiveSeconds' Video|magazine=[[Time (magazine)|Time]]|last=Feeney|first=Nolan|date=February 3, 2015|access-date=February 3, 2015}}</ref>
+
+A reviewer of [[MTV (UK and Ireland)|MTV UK]] noted that the video is set in a square frame and resembles the single's artwork.<ref>{{cite web|url=https://www.mtv.co.uk/news/mgenjh/rihanna-strips-it-back-for-fourfiveseconds-video|title=Rihanna Strips It Back For 'FourFiveSeconds' Video|publisher=[[MTV]]|date=February 3, 2015|access-date=February 3, 2015}}</ref> Sophie Schillaci of ''[[Entertainment Tonight]]'' called the square "Instagram friendly".<ref>{{cite web|url=http://www.etonline.com/awards/grammys/159083_rihanna_video_fourfiveseconds_grammys_kanye_west_paul_mccartney/|title=Rihanna's 'FourFiveSeconds' Video is Here! Set for GRAMMYs Performance with Kanye West and Paul McCartney|work=[[Entertainment Tonight]]|last=Schillaci|first=Sophie|date=February 3, 2015|access-date=February 3, 2015}}</ref> [[VH1]]'s Alexa Tietjen called the visual "stunning" and further praised Rihanna's looks, West's attitude, and McCartney's "social media skills".<ref>{{cite web|url=http://www.vh1.com/music/tuner/2015-02-03/rihanna-kanye-west-paul-mccartney-fourfiveseconds-video/?xrs=MAIN_10am|archive-url=https://web.archive.org/web/20150203233220/http://www.vh1.com/music/tuner/2015-02-03/rihanna-kanye-west-paul-mccartney-fourfiveseconds-video/?xrs=MAIN_10am|url-status=dead|archive-date=February 3, 2015|title=Watch Rihanna, Kanye West, And Paul McCartney's Stunning Visuals To 'FourFiveSeconds'|publisher=[[VH1]]|last=Tetjen|first=Alexa|date=February 3, 2015|access-date=February 3, 2015}}</ref> Dee Locket of ''Slate'' called the visual a "performance video" in which Rihanna and West "appear to be on the verge of losing it".<ref>{{cite web|url=http://www.slate.com/blogs/browbeat/2015/02/03/_fourfiveseconds_video_rihanna_kanye_west_and_paul_mccartney_star_in_the.html|title=Watch the Stripped-Down Video for Rihanna's 'FourFiveSeconds' With Kanye West and Paul McCartney|work=Slate|last=Locket|first=Dee|date=February 3, 2015|access-date=February 3, 2015}}</ref> Billy Johnson Jr. of [[Yahoo! Music]] stated that if the visual wanted to depict Rihanna "as a fragile woman on the verge of snapping", it succeeded: "Stylistically, the black and white video finds a happy medium between the look and feel of [[Abercrombie & Fitch]] and [[Gap Inc.|Gap]] ad campaigns with Rihanna [baring] just enough cleavage to make censors nervous."<ref name="yahoovideoreview">{{cite web|url=https://www.yahoo.com/music/rihanna-on-the-verge-of-a-meltdown-in-109984136831.html|title=Is Rihanna on the Verge of a Meltdown in 'FourFiveSeconds' Video?|publisher=[[Yahoo! Music]]|last=Johnson Jr|first=Billy|date=February 3, 2015|access-date=February 3, 2015}}</ref> Rachel Maresca of ''Daily News'' noted that West vents his aggression by kicking the camera.<ref>{{cite news|url=http://www.nydailynews.com/entertainment/music/rihanna-tears-fourfiveseconds-music-video-article-1.2101610|title=Rihanna tears up in 'FourFiveSeconds' music video featuring Kanye West, Paul McCartney|work=[[Daily News (New York)|Daily News]]|last=Maresca|first=Rebeca|date=February 3, 2015|access-date=February 7, 2015}}</ref> The video was nominated for Best International Video at the [[2015 Much Music Video Awards]].<ref>{{cite news|title=MMVAs 2015: All the highlights and winners|url=https://ca.hellomagazine.com/music/02015062216996/mmvas-2015-all-the-highlights-and-winners/|access-date=February 3, 2018|work=Hello Magazine|date=June 22, 2015|archive-url=https://web.archive.org/web/20160207010715/https://ca.hellomagazine.com/music/02015062216996/mmvas-2015-all-the-highlights-and-winners/|archive-date=February 7, 2016}}</ref>
+
+== Live performances and covers ==
+
+Rihanna, McCartney, and West performed "FourFiveSeconds" at the [[57th Annual Grammy Awards]] held on February 8, 2015, at the [[Staples Center]] in [[Los Angeles]].<ref>{{cite web|url=http://www.rap-up.com/2015/02/08/video-rihanna-kanye-west-paul-mccartney-perform-fourfiveseconds-at-grammys/|archive-url=https://web.archive.org/web/20150209084123/http://www.rap-up.com/2015/02/08/video-rihanna-kanye-west-paul-mccartney-perform-fourfiveseconds-at-grammys/|url-status=dead|archive-date=February 9, 2015|title=Rihanna, Kanye West, & Paul McCartney Perform 'FourFiveSeconds' at Grammys|work=Rap-Up|date=February 8, 2015|access-date=February 9, 2015}}</ref> Chris Payne of ''Billboard'' named the performance as one of the best moments of the ceremony and praised Rihanna's vocals, "Let's face it – seeing this improbable collaboration in person is the main reason many tuned in. There are so many ways three huge personas can get in the way, but Rihanna, 'Ye, and Sir Paul knew how to bring this one to life".<ref>{{cite magazine|url=http://www.billboard.com/articles/events/grammys-2015/6465691/2015-grammys-best-and-worst-moments|title=The 2015 Grammys: Best and Worst Moments|magazine=[[Billboard (magazine)|Billboard]]|last=Payne|first=Chris|date=February 9, 2015|access-date=February 9, 2015}}</ref> Joe Lynch of the same publication listed the performance at fourth out of the total of 23 performances that night, writing, "'FourFiveSeconds' ironically takes time to grow on you, but the presence of three disparate pop stars on stage with each other was one of the most deliriously awesome Grammy highlights".<ref>{{cite magazine|url=http://www.billboard.com/articles/news/6465572/2015-grammy-performances-worst-to-best|title=Grammys 2015: All Performances Ranked From Worst to Best|magazine=[[Billboard (magazine)|Billboard]]|last=Lynch|first=Joe|date=February 8, 2015|access-date=February 9, 2015}}</ref> Isabella Biedenharn of ''[[Entertainment Weekly]]'' graded the performance an "A" and praised Rihanna and West's vocals and the trio's wardrobe.<ref>{{cite magazine|url=http://www.ew.com/gallery/grammys-2015-performances/2111703_rihanna-kanye-west-and-paul-mccartney-%E2%80%9Cfourfiveseconds%E2%80%9D|title=Grammys 2015: Grading the Performances|magazine=[[Entertainment Weekly]]|last=Biedenharn|first=Isabella|date=February 9, 2015|access-date=February 9, 2015}}</ref> According to [[TiVo]], the performance was the fifth most-viewed segment of the night.<ref>{{cite web|url=https://www.forbes.com/sites/dinagachman/2015/02/09/wheres-beyonce-top-five-2015-grammy-moments-from-tivo/|title=Where's Beyoncé: Top Five 2015 Grammy Moments From TiVo|work=Forbes|last=Gachman|first=Dina|date=February 9, 2015|access-date=February 18, 2015}}</ref> On April 4, Rihanna performed at the Final Four of the [[March Madness 2015]] which was held in [[Indianapolis]], Indiana. During the performance, she sang a solo version of "FourFiveSeconds", as well as, her new songs "Bitch Better Have My Money" and "American Oxygen" among others.<ref>{{Cite magazine|url=https://www.rollingstone.com/music/videos/rihanna-debuts-american-oxygen-slams-rfra-at-march-madness-fest-20150405|title=Rihanna Debuts 'American Oxygen,' Slams RFRA at March Madness Fest|magazine=[[Rolling Stone]]|last=Kreps|first=Daniel|ref=none|date=April 5, 2015|access-date=April 5, 2015}}</ref> McCartney added the song to his setlists, and was joined by Rihanna for a performance at the [[Desert Trip]] festival in October 2016.<ref>{{cite web |url= https://www.esquire.com/entertainment/music/news/a49682/paul-mccartney-rihanna-fourfiveseconds-video/|title= This Is Why Paul McCartney Will Never Be Uncool|last= Miller|first= Matt|date= October 17, 2016|website= esquire.com|publisher= Esquire|access-date= April 21, 2019}}</ref>
+
+Canadian rapper [[Drake (rapper)|Drake]] covered the song during his performance at the Sprite [[NBA All-Star Weekend]] concert held at the [[Irving Plaza]] in New York City on February 14.<ref>{{cite magazine|url=https://www.rollingstone.com/music/news/drake-covers-kanye-wests-only-one-fourfiveseconds-at-tiny-new-york-gig-20150214|title=Drake Covers Kanye West's 'Only One,' 'FourFiveSeconds' at New York Gig|magazine=[[Rolling Stone]]|last=Kreps|first=Daniel|ref=none|date=February 14, 2015|access-date=February 15, 2015}}</ref> Welsh band Punk Rock Factory recorded a cover of the song, transforming it into "a [[punk rock]] anthem".<ref name="prfcover">{{cite news|url=http://www.walesonline.co.uk/whats-on/music-nightlife-news/welsh-bands-startling-reworking-rihanna-8722165 |title=Welsh's band startling reworking of Rihanna, Kanye West and Paul McCartney's 'FourFiveSeconds' |work=[[Western Mail (Wales)|Western Mail]] |last=Owens |first=David |date=February 25, 2015 |access-date=February 26, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150226153810/http://www.walesonline.co.uk/whats-on/music-nightlife-news/welsh-bands-startling-reworking-rihanna-8722165 |archive-date=February 26, 2015 }}</ref> English singer-songwriter [[James Bay (singer)|James Bay]] covered "FourFiveSeconds" during the [[BBC Radio 1]] Lounge on March 3.<ref>{{cite web|url=https://www.youtube.com/watch?v=1b5qiy7Whmk|title=James Bay covers Rihanna And Kanye West And Paul McCartney's FourFiveSeconds|publisher=YouTube|access-date=March 3, 2015}}</ref> Australian pop singer [[Cody Simpson]] performed an acoustic version of the single during his visit on [[SiriusXM]] radio. Christina Garibaldi of MTV News, regarding the performance, wrote, "The 'New Problems' singer effortlessly covers Rihanna and Kanye's verses while giving off some serious [[John Mayer]] vibes."<ref name="Garibaldi">{{cite web|url=http://www.mtv.com/news/2134252/cody-simpson-cover-rihanna-fourfiveseconds/|archive-url=https://web.archive.org/web/20150417235135/http://www.mtv.com/news/2134252/cody-simpson-cover-rihanna-fourfiveseconds/|url-status=dead|archive-date=April 17, 2015|title=You Have To Watch Cody Simpson's Acoustic Cover Of Rihanna's 'FourFiveSeconds'|publisher=MTV News|last=Garibaldi|first=Christina|date=April 15, 2015|access-date=April 15, 2015}}</ref> Rihanna also performed the song on the South American dates in late September 2015. One of the shows was one of the nights of the Rock in Rio festival, held in Rio de Janeiro, Brazil.<ref name="Garibaldi" /> One Direction covered the song during the BBC Radio One [[Live Lounge]] on November 13.<ref>{{cite web |first1=Maria |last1=Sherman |title=Watch One Direction Cover "FourFiveSeconds" for BBC's Live Lounge |url=https://www.fuse.tv/videos/2015/11/one-direction-fourfiveseconds-natalie-imbruglia-torn-bbc |website=Fuse |access-date=July 7, 2019 |archive-url=https://web.archive.org/web/20170705050757/https://www.fuse.tv/videos/2015/11/one-direction-fourfiveseconds-natalie-imbruglia-torn-bbc |archive-date=July 5, 2017 |date=November 12, 2015}}</ref>
+
+Rihanna performed the song on the [[Anti World Tour]]. Paul McCartney regularly performed "FourFiveSeconds" on his 2016/17 [[One on One (tour)|One on One Tour]].
+
+[[Ariana Grande]], with her team members Holly Forbes and Jim and Sasha Allen, performed this song on episode twenty of the 21st season of ''[[The Voice (American season 21)|The Voice]]''.
+
+== Track listing ==
+{{Track listing
+| headline = Digital download<ref name="iTunes US" />
+| title1 = FourFiveSeconds
+| length1 = 3:08
+}}
+
+{{Track listing
+| headline = CD single<ref name="cdsingle" />
+| title1 = FourFiveSeconds
+| length1 = 3:08
+| title2 = FourFiveSeconds
+| note2 = Music video
+| length2 = 3:12
+}}
+
+== Credits and personnel ==
+
+Credits adapted from the liner notes of the CD single of "FourFiveSeconds"<ref name="CD notes">{{cite AV media notes |title=FourFiveSeconds|author=[[Rihanna]]|others=featuring [[Kanye West]] and [[Paul McCartney]]|date=2015|type=liner notes |publisher=[[Roc Nation]]}}</ref> and [[ASCAP]].<ref>{{cite web | title=ACE Repertory | website=www.ascap.com | url=https://www.ascap.com/repertory#/ace/search/title/FourFiveSeconds?at=false&searchFilter=SVW&page=1 | access-date=2025-08-25}}</ref>
+
+'''Locations'''
+*Recorded at Jungle City Studios, New York City, New York; Windmark Recording, Santa Monica, California; No Name Studios, Mexico
+*Mixed at Larabee Studios, Los Angeles, California
+
+'''Personnel'''
+{{Div col|colwidth=30em}}
+*Production&nbsp;– [[Kanye West]], [[Paul McCartney]]
+*Co-production, fuzz bass&nbsp;– [[Mike Dean (music producer)|Mike Dean]]
+*Additional production&nbsp;– [[Dave Longstreth]], [[Noah Goldstein]]
+*Vocal production&nbsp;– [[Kuk Harrell]]
+*Recording&nbsp;– Marcos Tovar, Noah Goldstein, Mike Dean
+*Assistant recording engineer&nbsp;– Brendan Morawski, Zeke Mishanec, Jeremy "Head" Hartney, Brandon Wood, Jordan Heskett
+*Mixing&nbsp;– [[Manny Marroquin]]
+*Assistant mixing&nbsp;– Chris Galland, Jeff Jackson, Ike Schultz
+*Acoustic guitar&nbsp;– [[Paul McCartney]]
+*Organ&nbsp;– Dave Longstreth
+*Backing vocals&nbsp;- [[Chynna Phillips]], [[Carnie Wilson]], [[Wendy Wilson]]
+{{div col end}}
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! Chart (2015)
+! Peak<br />position
+|-
+{{single chart|Australia|1|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=February 5, 2015|refname="Australia"|rowheader=true}}
+|-
+! scope="row"| Australia Urban ([[ARIA Charts|ARIA]])<ref name="ARIAUrban">{{cite web|url=http://www.ariacharts.com.au/chart/urban-singles |title=ARIA Australian Top 40 Urban Singles |publisher=Australian Recording Industry Association |access-date=January 31, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160203211528/http://ariacharts.com.au/chart/urban-singles |archive-date=February 3, 2016 }}</ref>
+| style="text-align:center;"| 1
+|-
+{{single chart|Austria|2|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=February 18, 2015|refname="Austria"|rowheader=true}}
+|-
+{{single chart|Flanders|5|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|refname="Flanders"|rowheader=true}}
+|-
+{{single chart|Flanders Urban|2|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|rowheader=true}}
+|-
+{{single chart|Wallonia|7|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|refname="Wallonia"|rowheader=true}}
+|-
+{{single chart|Canada|3|artist=Rihanna|song=FourFiveSeconds|access-date=March 5, 2015|rowheader=true|refname=canadianhot100}}
+|-
+{{single chart|Czech Republic|2|year=2015|week=15|rowheader=true|access-date=March 23, 2015}}
+|-
+{{single chart|Czechdigital|4|year=2015|week=11|rowheader=true|access-date=March 16, 2015}}
+|-
+{{single chart|Denmark|1|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=March 6, 2015|rowheader=true|refname="denmark"}}
+|-
+! scope="row"| Dominican Republic ([[Monitor Latino]])<ref>{{cite web|title=Charts monitorLATINO|url=http://us.monitorlatino.com/mondayChartsConsult_History.aspx?year=2015&mes=3&semana=13&formato=4&pais=3}}</ref>
+| style="text-align:center;"| 3
+|-
+{{single chart|Billboardeurodigital|2|artist=Rihanna|rowheader=true|access-date=August 8, 2026}}
+|-
+{{single chart|Finland|7|artist=Rihanna, Paul Mccartney, Kanye West|song=Fourfiveseconds|access-date=March 22, 2015|refname="Musiikkituottajat"|rowheader=true}}
+|-
+{{single chart|France|2|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|rowheader=true|refname="france"}}
+|-
+{{single chart|Germany|3|songid=1381685|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=February 2, 2019|rowheader=true|refname="Germany"}}
+|-
+! scope="row"| Germany Airplay ([[Bundesverband Musikindustrie|BVMI]])<ref>{{cite web |url=https://germancharts.de/airplay_charts.asp?week=201515|title=Airplay Charts Deutschland Woche 15/2015|trans-title=Airplay Charts Germany Week 15, 2015|publisher=Hung Medien & MusicTrace on behalf of [[Bundesverband Musikindustrie]]|website=Germancharts.de|access-date=January 22, 2023|language=de}}</ref>
+| 1
+|-
+{{single chart|Hungaryradio|3|year=2015|week=16|access-date=April 23, 2015|rowheader=true|refname=Hungaryradio}}
+|-
+{{single chart|Hungarysingle|3|year=2015|week=5|access-date=February 5, 2015|rowheader=true|refname=Hungarysingle}}
+|-
+{{single chart|Hungarystream|4|year=2015|week=10|access-date=October 16, 2026|rowheader=true}}
+|-
+{{single chart|Ireland|1|year=2015|week=12|access-date=March 20, 2015|refname="Ireland"|rowheader=true}}
+|-
+{{single chart|Italy|4|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=March 12, 2015|refname="Italy"|rowheader=true}}
+|-
+{{single chart|Israel International|1|week=07|year=2015|access-date=January 14, 2026|rowheader=true}}
+|-
+{{single chart|Billboardjapanhot100|37|artist=Rihanna|rowheader=true|access-date=February 21, 2015|refname=Japan}}
+|-
+!scope="row"| Lebanon ([[The Official Lebanese Top 20|Lebanese Top 20]])<ref>{{cite web|url=http://www.olt20.com/Rihanna#fragment-2&panel1-3|title= Rihanna Chart History |publisher=[[The Official Lebanese Top 20]] |date= March 29, 2015|access-date=February 27, 2015}}</ref>
+|style="text-align:center;"| 6
+|-
+! scope="row"| Mexico ([[Mexico Ingles Airplay|''Billboard'' Ingles Airplay]])<ref>{{cite magazine|url=https://www.billboard.com/biz/search/charts?artist=Kanye%20West&f%5B0%5D=ts_chart_artistname%3AKanye%20West&f%5B1%5D=itm_field_chart_id%3AMexico%20Ingles%20Airplay&f%5B2%5D=ss_bb_type%3Achart_item&type=2|title=Chart Search|magazine=[[Billboard (magazine)|Billboard]]|access-date=June 18, 2018}}</ref>
+| style="text-align:center;"| 10
+|-
+{{single chart|Dutch40|2|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|rowheader=true|refname="netherlands1"}}
+|-
+{{single chart|Dutch100|2|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=January 30, 2015|rowheader=true|refname="netherlands"}}
+|-
+{{single chart|New Zealand|1|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=March 6, 2015|rowheader=true|refname="newzealand"}}
+|-
+{{single chart|Norway|1|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=March 14, 2015|rowheader=true|refname="norway"}}
+|-
+{{single chart|Poland|3|chartid=1604|year=2015|rowheader=true|access-date=April 27, 2015}}
+|-
+! scope="row"| Romania ([[Airplay 100 (Romania)|Airplay 100]])<ref>{{cite web|title=Kiss FM Top Airplay 100 |url=http://www.kissfm.ro/airplay100/|website=kissfm.ro|archive-url=https://web.archive.org/web/20150524175347/https://www.kissfm.ro/airplay100/|archive-date=24 May 2015 }}</ref>
+|style="text-align:center;"|45
+|-
+{{single chart|Scotland|2|date=20150207|access-date=February 5, 2015|rowheader=true|refname="Scotland"}}
+|-
+{{single chart|Slovakia|1|year=2015|week=18|rowheader=true|access-date=March 16, 2015}}
+|-
+{{single chart|Slovakdigital|4|year=2015|week=10|rowheader=true|access-date=March 15, 2015}}
+|-
+! scope="row"| Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Lestvice/Tedenske-lestvice |title=SloTop50 – Slovenian official singles chart |publisher=slotop50.si |access-date=June 7, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150927184926/http://www.slotop50.si/Lestvice/Tedenske-lestvice |archive-date=September 27, 2015 }}</ref>
+| align=center|2
+|-
+{{single chart|South Africa|5|date=2014-03-24|rowheader=true|access-date=September 16, 2015}}
+|-
+{{single chart|Spain|10|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=February 2, 2015|refname="Spain"|rowheader=true}}
+|-
+{{single chart|Sweden|1|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=March 6, 2015|rowheader=true|refname="Sweden"}}
+|-
+{{single chart|Switzerland|3|artist=Rihanna and Kanye West and Paul McCartney|song=FourFiveSeconds|access-date=February 1, 2015|refname="Switzerland"|rowheader=true}}
+|-
+{{single chart|UK|3|date=20150308|access-date=February 8, 2012|rowheader=true|refname="uk"}}
+|-
+{{single chart|Billboardhot100|4|artist=Rihanna|access-date=February 22, 2015|rowheader=true|refname=hot100}}
+|-
+{{single chart|Billboardadultcontemporary|18|artist=Rihanna|access-date=April 16, 2015|rowheader=true}}
+|-
+{{single chart|Billboardadultpopsongs|12|artist=Rihanna|access-date=February 3, 2015|rowheader=true|refname=adultpopsongs}}
+|-
+{{single chart|Billboarddanceairplay|8|artist=Rihanna|access-date=February 10, 2015|rowheader=true}}
+|-
+{{single chart|Billboardpopsongs|6|artist=Rihanna|access-date=February 3, 2015|rowheader=true}}
+|-
+{{single chart|Billboardrandbhiphop|1|artist=Rihanna|access-date=January 25, 2015|rowheader=true|refname=randbhiphop}}
+|-
+{{single chart|Billboardrhythmic|6|artist=Rihanna|access-date=February 3, 2015|rowheader=true}}
+|}
+{{col-2}}
+
+=== Year-end charts ===
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!scope="col"|Chart (2015)
+!scope="col"|Position
+|-
+! scope="row"| Australia (ARIA)<ref>{{cite web|url=http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-singles-2015.htm |title=ARIA Charts – End of Year Charts – Top 100 Singles 2015 |publisher=[[Australian Recording Industry Association]] |access-date=January 6, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160124201045/http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-singles-2015.htm |archive-date=January 24, 2016 }}</ref>
+| style="text-align:center;"|10
+|-
+! scope="row"| Australia Urban (ARIA)<ref>{{cite web |title=2015 ARIA Urban Singles Chart |url=https://www.ariacharts.com.au/annual-charts/2015/urban-singles-chart |website=ARIA Charts |access-date=December 15, 2019 |archive-url=https://web.archive.org/web/20190417030420/https://www.ariacharts.com.au/annual-charts/2015/urban-singles-chart |archive-date=April 17, 2019}}</ref>
+| style="text-align:center;"|3
+|-
+! scope="row"|Austria (Ö3 Austria Top 40)<ref>{{cite web|title=Jahreshitparade Singles 2015 |url=http://austriancharts.at/year.asp?cat=s&id=2015 |language=de |publisher=Ö3 Austria Top 40 |access-date=December 30, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160104175405/http://austriancharts.at/year.asp?cat=s&id=2015 |archive-date=January 4, 2016 }}</ref>
+| style="text-align:center;"|12
+|-
+! scope="row"|Belgium (Ultratop 50 Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2015&cat=s |title=Jaaroverzichten 2015 |publisher=Ultratop 50 |access-date=December 25, 2015 |language=nl |url-status=dead |archive-url=https://web.archive.org/web/20160405004615/http://www.ultratop.be/nl/annual.asp?year=2015 |archive-date=April 5, 2016 }}</ref>
+| style="text-align:center;"|31
+|-
+! scope="row"|Belgium Urban (Ultratop Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2015&cat=sr|title=Ultratop Jaaroverzichten 2015: Urban|publisher=Ultratop|access-date=December 27, 2014|language=nl}}</ref>
+| style="text-align:center;"|8
+|-
+! scope="row"|Belgium (Ultratop 50 Wallonia)<ref>{{cite web|url=http://www.ultratop.be/fr/annual.asp?year=2015|title=Rappors Annuels 2015|publisher=Ultratop 50|access-date=December 25, 2015|language=fr}}</ref>
+| style="text-align:center;"|53
+|-
+! scope="row"|Canada (Canadian Hot 100)<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100|title=Canadian Hot 100: Dec 9, 2015|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 9, 2015}}</ref>
+| style="text-align:center;"|22
+|-
+! scope="row"| France (SNEP)<ref>{{cite web|url=https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?annee=2015|title=Top de l'année Top Singles 2015|publisher=SNEP|language=fr|access-date=February 25, 2021}}</ref>
+| style="text-align:center;"|30
+|-
+! scope="row"| Germany (Official German Charts)<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2015 |title=Top 100 Single-Jahrescharts|language=de |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=January 6, 2016}}</ref>
+| style="text-align:center;"|25
+|-
+! scope="row"|Hungary (Rádiós Top 40)<ref>{{cite web|url=http://slagerlistak.hu/archivum/eves-osszesitett-listak/radios/2015|title=Rádiós Top 100 – hallgatottsági adatok alapján – 2015|access-date=November 10, 2019|publisher=[[Mahasz]]}}</ref>
+| style="text-align:center;"|55
+|-
+! scope="row"|Hungary (Single Top 40)<ref>{{cite web|url=http://slagerlistak.hu/archivum/eves-osszesitett-listak/single_db/2015|title=Single Top 100 – eladási darabszám alapján – 2015|access-date=November 10, 2019|publisher=[[Mahasz]]}}</ref>
+| style="text-align:center;"|28
+|-
+! scope="row"|Ireland (IRMA)<ref>{{cite web|title=IRMA – best of singles 2015|url=http://www.irma.ie/best-of-singles|website=www.irma.ie|access-date=November 16, 2016}}</ref>
+| style="text-align:center;"|18
+|-
+! scope="row"| Israel (Media Forest)<ref>{{cite web|url=http://www.mediaforest.biz/Charts/YearlyCharts.aspx|title=Israel Airplay Year-End 2015|access-date=January 5, 2016|archive-url=https://web.archive.org/web/20140102192257/http://www.mediaforest.biz/charts/yearlycharts.aspx|archive-date=January 2, 2014|url-status=dead}}</ref>
+| style="text-align:center;"|5
+|-
+! scope="row"| Italy (FIMI)<ref>{{cite web|url=http://www.fimi.it/news/classifiche-top-of-the-music-2015-fimi-gfk-la-musica-italiana-in-vetta-negli-album-e-nei-singoli-digitali|title=Classifiche "Top of the Music" 2015 FIMI-GfK: La musica italiana in vetta negli album e nei singoli digitali|publisher=[[Federazione Industria Musicale Italiana]]|language=it|access-date=January 13, 2016|archive-date=January 11, 2016|archive-url=https://web.archive.org/web/20160111221358/http://www.fimi.it/news/classifiche-top-of-the-music-2015-fimi-gfk-la-musica-italiana-in-vetta-negli-album-e-nei-singoli-digitali|url-status=dead}}</ref>
+| style="text-align:center"|27
+|-
+! scope="row"|Netherlands (Dutch Top 40)<ref>{{cite web|title=Top 100-Jaaroverzicht van 2015|url=http://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2015|language=nl|publisher=Dutch Top 40|access-date=December 30, 2015}}</ref>
+| style="text-align:center;"|13
+|-
+! scope="row"|Netherlands (Single Top 100)<ref>{{cite web|url=http://dutchcharts.nl/jaaroverzichten.asp?year=2015&cat=s|title=Jaaroverzichten – Single 2015|publisher=Single Top 100|access-date=December 25, 2015|language=nl}}</ref>
+| style="text-align:center;"|19
+|-
+! scope="row"|New Zealand (Recorded Music NZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-singles/2015-12-31|title=Top Selling Singles of 2015|publisher=[[Recorded Music NZ]]|access-date=December 25, 2015}}</ref>
+| style="text-align:center;"|8
+|-
+! scope="row"| Poland (ZPAV)<ref>{{cite web|title=Airplay – podsumowanie 2015 roku|url=http://bestsellery.zpav.pl/aktualnosci.php?idaktualnosci=1305|language=pl|publisher=[[Polish Society of the Phonographic Industry]]|access-date=December 30, 2015|archive-date=February 11, 2017|archive-url=https://web.archive.org/web/20170211171525/http://bestsellery.zpav.pl/aktualnosci.php?idaktualnosci=1305|url-status=dead}}</ref>
+| style="text-align:center;"|35
+|-
+! scope="row"|Slovenia (SloTop50)<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|title=SloTop50: Slovenian official year end singles chart|publisher=slotop50.si|access-date=July 18, 2015|archive-date=June 30, 2017|archive-url=https://web.archive.org/web/20170630022441/http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|url-status=dead}}</ref>
+| align=center|11
+|-
+! scope="row"| Spain (PROMUSICAE)<ref name = "SPAYE2015">{{cite web|url=https://www.elportaldemusica.es/lists/top-100-canciones/2015|title=Top 100 Songs Annual 2015|publisher=[[Productores de Música de España]]|language=es|access-date=May 9, 2022}}</ref>
+| 61
+|-
+! scope="row"|Sweden (Sverigetopplistan)<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2015&dspp=1|title=Årslista Singlar – År 2015|publisher=[[Sverigetopplistan]]|language=sv|access-date=November 10, 2019}}</ref>
+| style="text-align:center;"|19
+|-
+! scope="row"|Switzerland (Schweizer Hitparade)<ref>{{cite web|url=http://swisscharts.com/charts/jahreshitparade/2015 |title=Swiss Year-End Charts 2015 |publisher=Swiss Singles Chart |access-date=December 27, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160114025806/http://swisscharts.com/charts/jahreshitparade/2015 |archive-date=January 14, 2016 }}</ref>
+| style="text-align:center;"|19
+|-
+! scope="row"|UK Singles (Official Charts Company)<ref>{{cite web|url=http://www.officialcharts.com/chart-news/the-official-top-40-biggest-songs-of-2015-revealed__13270/|title=The Official Top 40 Biggest Songs of 2015 revealed|publisher=Official Charts Company|last=Copsey|first=Rob|date=January 4, 2016|access-date=January 4, 2016}}</ref>
+| style="text-align:center;"|18
+|-
+! scope="row"|US ''Billboard'' Hot 100<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/hot-100-songs|title=Hot 100 Songs: Dec 9, 2015|magazine=[[Billboard (magazine)|Billboard]]|date=January 2, 2013|access-date=December 9, 2015}}</ref>
+| style="text-align:center;"|42
+|-
+! scope="row"|US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs: Dec 9, 2015|magazine=[[Billboard (magazine)|Billboard]]|date=January 2, 2013|access-date=December 9, 2015}}</ref>
+| style="text-align:center;"|11
+|-
+! scope="row"|US Mainstream Top 40 (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/pop-songs|title=Pop Songs: Dec 9, 2015|magazine=[[Billboard (magazine)|Billboard]]|date=January 2, 2013|access-date=December 9, 2015}}</ref>
+| style="text-align:center;"|44
+|-
+!scope="row"|US Rhythmic (''Billboard'')<ref>{{cite magazine|title=Rhythmic Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/rhythmic-songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 12, 2015}}</ref>
+| style="text-align:center;"|46
+|}
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col"|Chart (2016)
+!scope="col"|Position
+|-
+! scope="row"| Australia Urban (ARIA)<ref>{{cite web |title=2016 ARIA Urban Singles Chart |url=https://www.ariacharts.com.au/annual-charts/2016/urban-singles-chart |website=ARIA Charts |access-date=December 15, 2019 |archive-url=https://web.archive.org/web/20190403072020/https://www.ariacharts.com.au/annual-charts/2016/urban-singles-chart |archive-date=April 3, 2019}}</ref>
+| style="text-align:center;"| 40
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|certyear=2026|relyear=2015|artist=Rihanna, Paul McCartney &
+Kanye West|title=FourFiveSeconds|award=Platinum|number=11|type=single|access-date=March 4, 2026|refname=ARIA}}
+{{Certification Table Entry|region=Austria|certyear=2015|relyear=2015|artist=Rihanna and Kanye West and Paul McCartney|title=FourFiveSeconds|award=Gold|type=single|access-date=September 4, 2015|certref=<ref name="austriacert">{{cite web|url=http://www.ifpi.at/?section=goldplatin |title=Gold & Platinum |publisher=IFPI Austria |access-date=September 4, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20110511092844/http://www.ifpi.at/?section=goldplatin |archive-date=May 11, 2011 }}</ref>}}
+{{Certification Table Entry|region=Belgium|type=single|artist=Rihanna and Kanye West and Paul McCartney|title=FourFiveSeconds|award=Platinum|certyear=2016|relyear=2015|access-date=March 20, 2015}}
+{{Certification Table Entry|region=Brazil|artist=Rihanna|title=FourFiveSeconds|award=Platinum|number=3|type=single|relyear=2015|certyear=2024|access-date=July 11, 2024}}
+{{Certification Table Entry|region=Canada|relyear=2015|artist=Rihanna and Kanye West and Paul McCartney|title=FourFiveSeconds|type=single|access-date=July 21, 2015|nocert=true|salesamount=310,000|salesref=<ref name="canadian_sales">{{cite web|url=http://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2016-reports/2015-year-end-canada-music-report.pdf|title=2015 Year End Music Canada Report|page=12|publisher=[[Nielsen SoundScan|Nielsen]]|access-date=January 13, 2016|archive-date=August 23, 2017|archive-url=https://web.archive.org/web/20170823080015/http://www.nielsen.com/content/dam/corporate/us/en/reports-downloads/2016-reports/2015-year-end-canada-music-report.pdf|url-status=dead}}</ref>}}
+{{certification Table Entry|type=single|region=Denmark|artist=Rihanna...|title=FourFiveSeconds|award=Platinum|number=4|certyear=2025|relyear=2015|relmonth=1|relday=24|access-date=October 8, 2025|id=16000}}
+{{Certification Table Entry|region=France|certyear=2015|relyear=2015|artist=Rihanna, Kanye West & Paul McCartney|title=FourFiveSeconds|award=Gold|type=single|access-date=December 31, 2015|refname="francecert"}}
+{{Certification Table Entry|region=Germany|type=single|title=FourFiveSeconds|artist=Rihanna, Kanye West & Paul McCartney|award=Gold|number=3|relyear=2015|certyear=2023|access-date=May 4, 2023}}
+{{Certification Table Entry|region=Italy|certyear=2017|relyear=2015|artist=Rihanna, Kanye West & Paul McCartney|title=FourFiveSeconds|award=Platinum|number=3|type=single|access-date=September 25, 2017|refname="italycert"}}
+{{Certification Table Entry|region=New Zealand|title=FourFiveSeconds|artist=Rihanna, Kanye West And Paul McCartney|type=single|award=Platinum|number=7|relyear=2015|certyear=2026|source=radioscope|access-date=February 14, 2026}}
+{{Certification Table Entry|region=Poland|type=single|artist=Rihanna, Kanye West and Paul McCartney|title=FourFiveSeconds|award=Platinum|number=3|certyear=2016|relyear=2015|access-date=June 15, 2016}}
+{{Certification Table Entry|region=Spain|type=single|relyear=2015|artist=Rihanna, Kanye West and Paul McCartney|title=FourFiveSeconds|award=Platinum|certyear=2015|id=rihanna-and-kanye-west-and-paul-mccartney-fourfiveseconds|refname="spaincert"|access-date=June 30, 2020}}
+{{Certification Table Entry|region=Sweden|relyear=2015|artist=Rihanna, Kanye West and Paul McCartney|title=FourFiveSeconds|award=Platinum|number=4|certyear=2015|type=single|certref=<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2015&dspp=1|title=Årslista Singlar, 2015|language=sv|publisher=[[Sverigetopplistan]]|access-date=June 30, 2020}}</ref>}}
+{{Certification Table Entry|region=Switzerland|artist=Rihanna|relyear=2015|title=FourFiveSeconds|award=Platinum|type=single|access-date=July 7, 2015|refname=swisscert}}
+{{Certification Table Entry|region=United Kingdom|relyear=2015|type=single|artist=Rihanna/Kanye West/Mccartney|id=13176-4001-1|title=Fourfive Seconds|award=Platinum|number=3|certyear=2023|access-date=July 7, 2023}}
+{{Certification Table Entry|region=United States|relyear=2015|artist=Rihanna|title=FourFiveSeconds|award=Platinum|number=5|certyear=2024|type=single|access-date=May 31, 2024|refname="uscert"}}
+{{Certification Table Bottom|streaming=true|noshipments=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|+ "FourFiveSeconds" release history
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|References}}
+|-
+! scope="row"| Canada
+| rowspan="2"| January 24, 2015
+| rowspan="12"| [[Music download|Digital download]]
+| rowspan="11"| {{Flat list|
+*[[Roc Nation]]
+*Westbury Road}}
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/ca/album/fourfiveseconds-single/961384859|title=FourFiveSeconds&nbsp;— Single by Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (CA)|access-date=January 25, 2015}}</ref>
+|-
+! scope="row"| United States
+ | align="center"| <ref name="iTunes US" />
+|-
+! scope="row"| Australia
+| rowspan="9"| January 25, 2015
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/au/album/fourfiveseconds-single/1445170915|title=FourFiveSeconds&nbsp;— Single by Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (AU)|access-date=January 25, 2015}}</ref>
+|-
+! scope="row"| Austria
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/at/album/fourfiveseconds-single/961379374|title=FourFiveSeconds&nbsp;— Single von Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (AT)|access-date=January 25, 2015|language=de}}</ref>
+|-
+! scope="row"| Denmark
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/dk/album/fourfiveseconds-single/1445170915|title=FourFiveSeconds&nbsp;— Single by Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (DK)|access-date=January 25, 2015}}</ref>
+|-
+! scope="row"| France
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/fr/album/fourfiveseconds-single/961379374|title=FourFiveSeconds&nbsp;— Single par Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (FR)|access-date=January 25, 2015|language=fr}}</ref>
+|-
+! scope="row"| Germany
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/de/album/fourfiveseconds-single/961379374|title=FourFiveSeconds&nbsp;— Single von Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (DE)|access-date=January 25, 2015|language=de}}</ref>
+|-
+! scope="row"| Italy
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/it/album/fourfiveseconds-single/1445170915|title=FourFiveSeconds&nbsp;— Single di Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (IT)|access-date=January 25, 2015|language=it}}</ref>
+|-
+! scope="row"| New Zealand
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/nz/album/fourfiveseconds-single/961379374|title=FourFiveSeconds&nbsp;— Single by Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (NZ)|access-date=January 25, 2015}}</ref>
+|-
+! scope="row"| Spain
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/es/album/fourfiveseconds-single/961379374|title=FourFiveSeconds&nbsp;— Single de Rihanna and Kanye West and Paul McCartney|date=January 24, 2015|publisher=iTunes Store (ES)|access-date=January 25, 2015|language=es}}</ref>
+|-
+! scope="row"| Turkey
+ | align="center"| <ref>{{cite web|url=https://music.apple.com/tr/album/fourfiveseconds-single/961379374?lang=tr|title=Rihanna and Kanye West and Paul McCartney sanatçısının FourFiveSeconds&nbsp;— Single albümü|date=January 24, 2015|publisher=iTunes Store (TR)|access-date=January 25, 2015|language=tr}}</ref>
+|-
+! scope="row"| United Kingdom
+| January 26, 2015
+| [[Virgin EMI Records|Virgin EMI]]
+ | align="center"| <ref name="uk release">{{cite web|url=https://www.amazon.co.uk/gp/product/B00SPF2LF4|title=FourFiveSeconds: Rihanna and Kanye West and Paul McCartney: MP3 Downloads|publisher=[[Amazon.com]] (UK)|access-date=January 26, 2015}}</ref>
+|-
+! scope="row"| Italy
+| January 30, 2015
+| Radio [[airplay]]
+| Universal
+ | align="center"| <ref>{{Cite web|url=http://www.radioairplay.fm/RadioDate/PublicDetails/102907/RIHANNA-AND-KANYE-WEST-AND-PAUL-McCARTNEY-FourFiveSeconds-Universal |title=Rihanna and Kanye West and Paul McCartney – FourFiveSeconds (Universal) – Radio Date 30/01/2015 |publisher=Radio Airplay |access-date=March 2, 2015 |language=it |url-status=dead |archive-url=https://web.archive.org/web/20150403094702/http://www.radioairplay.fm/RadioDate/PublicDetails/102907/RIHANNA-AND-KANYE-WEST-AND-PAUL-McCARTNEY-FourFiveSeconds-Universal |archive-date=April 3, 2015}}</ref>
+|-
+! scope="row"| Germany
+| February 27, 2015
+| [[CD single|CD]]
+| Roc Nation
+ | align="center"| <ref name="cdsingle">{{cite web|url=https://www.amazon.de/Fourfiveseconds-2-Track-Kanye-Mccartney-Rihanna/dp/B00T6XDJKK/ref=pd_ecc_rvi_1|title=FourFiveSeconds|publisher=[[Amazon.com]] (DE)|access-date=February 5, 2014|language=de}}</ref>
+|}
+
+== See also ==
+{{Portal|Rhythm and blues}}
+{{Div col|colwidth=30em}}
+*[[List of number-one singles of 2015 (Australia)]]
+*[[List of number-one R&B/hip-hop songs of 2015 (U.S.)]]
+*[[List of UK top-ten singles in 2015]]
+*[[List of number-one singles from the 2010s (New Zealand)]]
+*[[List of number-one singles and albums in Sweden]]
+*[[List of number-one hits of 2015 (Denmark)]]
+*[[List of number-one songs in Norway]]
+*[[List of number-one singles of 2015 (Ireland)]]
+*[[List of highest-certified singles in Australia]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{YouTube|id=kt0g4dWxEBo|title="FourFiveSeconds" music video}}
+
+{{Rihanna songs}}
+{{Kanye West songs}}
+{{Paul McCartney singles}}
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:2010s ballads]]
+[[Category:Folk ballads]]
+[[Category:Irish Singles Chart number-one singles]]
+[[Category:Kanye West songs]]
+[[Category:Number-one singles in Australia]]
+[[Category:Number-one singles in Denmark]]
+[[Category:Number-one singles in Israel]]
+[[Category:Number-one singles in Norway]]
+[[Category:Number-one singles in Sweden]]
+[[Category:Number-one singles in Switzerland]]
+[[Category:Paul McCartney songs]]
+[[Category:Pop ballads]]
+[[Category:Rihanna songs]]
+[[Category:Roc Nation singles]]
+[[Category:Rock ballads]]
+[[Category:Songs written by Kanye West]]
+[[Category:Song recordings produced by Kanye West]]
+[[Category:Song recordings produced by Paul McCartney]]
+[[Category:Songs written by Paul McCartney]]
+[[Category:Songs written by Dallas Austin]]
+[[Category:Songs written by Mike Dean (music producer)]]
+[[Category:Black-and-white music videos]]
+[[Category:Songs written by Kirby Lauryen]]
+[[Category:Song recordings produced by Dave Longstreth]]
+[[Category:Soul ballads]]
+[[Category:Songs written by Rihanna]]

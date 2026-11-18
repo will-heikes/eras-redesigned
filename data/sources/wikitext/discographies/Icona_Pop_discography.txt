@@ -1,0 +1,561 @@
+{{Short description|none}}
+{{Infobox artist discography
+| Artist          = [[Icona Pop]]
+| Image           = RIX FM Festival 2017 i Göteborg (Icona Pop) (cropped).jpg
+| Caption         = Icona Pop performing at the [[Gothenburg]] Rix FM Festival in 2017.
+| Studio          = 4
+| Music videos    = 13
+| EP              = 5
+| Singles         = 22
+}}
+
+The Swedish duo [[Icona Pop]] has released three [[studio album]]s, four [[extended play]]s and twenty two [[Single (music)|single]]s. In 2012, they released an extended play ''Iconic'' in the US and the album ''[[Icona Pop (album)|Icona Pop]]'' in Sweden. Their song. "[[I Love It (Icona Pop song)|I Love It]]", a pre-release of their self-titled album ''[[Icona Pop (album)|Icona Pop]]'' charted on [[Sverigetopplistan]], the official Swedish singles chart. On 20 September 2013, Icona Pop released their second studio album, a revised edition of ''Icona Pop'', ''[[This Is... Icona Pop]]''.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="8" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web|url=http://swedishcharts.com/showinterpret.asp?interpret=Icona+Pop|title=Discography Icona Pop|publisher=Swedish Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">Peak chart positions for singles in Australia:
+* For "Mind Your Manners": {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Chiddy+Bang |title=Discography Chiddy Bang |publisher=Australian Charts Portal. Hung Medien |url-status=dead |archive-url=https://web.archive.org/web/20120125204617/http://australian-charts.com/showinterpret.asp?interpret=Chiddy%2BBang |archive-date=2012-01-25 }}
+* For "I Love It": {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Icona+Pop |title=Discography Icona Pop |publisher=Australian Charts Portal. Hung Medien }}
+* For "Girlfriend": {{cite magazine|url=http://www.aria.com.au/Issue1221.pdf |archive-url=https://webarchive.nla.gov.au/awa/20130818140100/http://pandora.nla.gov.au/pan/23790/20130819-0001/Issue1221.pdf |magazine=The ARIA Report |url-status=dead |archive-date=2013-08-18 |title=The ARIA Report: Week Commencing 22 July 2013 |date=August 19, 2013 |publisher=[[Australian Recording Industry Association]] |via=[[Pandora Archive]] |issue=1221 |accessdate=September 11, 2014 }}{{cbignore|bot=medic}}
+* For ''This Is... Icona Pop'': {{cite magazine|url=http://www.aria.com.au/issue1231.pdf |archive-url=https://webarchive.nla.gov.au/awa/20131023130000/http://pandora.nla.gov.au/pan/23790/20131024-0000/issue1231.pdf |magazine=The ARIA Report |url-status=dead |archive-date=2013-10-23 |title=The ARIA Report: Week Commencing 30 September 2013 |date=October 24, 2013 |publisher=Australian Recording Industry Association |via=Pandora Archive |issue=1231 |accessdate=September 11, 2014 }}{{cbignore|bot=medic}}
+* For "All Night": {{cite magazine|url=http://www.aria.com.au/Issue%201239.pdf |archive-url=https://webarchive.nla.gov.au/awa/20131216034200/http://pandora.nla.gov.au/pan/23790/20131216-1442/Issue%201239.pdf |magazine=The ARIA Report |url-status=dead |archive-date=2013-12-16 |title=The ARIA Report: Week Commencing 25 November 2013 |date=December 16, 2013 |publisher=Australian Recording Industry Association |via=Pandora Archive |issue=1239 |accessdate=September 11, 2014 }}{{cbignore|bot=medic}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web|url=http://www.lescharts.com/showitem.asp?interpret=Icona+Pop&titel=This+Is...&cat=a|title=ICONA POP - THIS IS... (ALBUM)|website=lescharts.com|accessdate=May 20, 2015}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment|GER]]<br /><ref name="GER">{{cite web|url=http://www.chartsurfer.de/artist/icona-pop/discography-vcpcc.html|title=Icona Pop|accessdate=May 20, 2015|archive-url=https://web.archive.org/web/20131217054619/http://www.chartsurfer.de/artist/icona-pop/discography-vcpcc.html|archive-date=December 17, 2013|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Albums Chart|IRE]]<br /><ref name="IRE">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Icona+Pop|archive-url=https://web.archive.org/web/20130928040025/http://irish-charts.com/showinterpret.asp?interpret=Icona+Pop|url-status=dead|archive-date=September 28, 2013|title=Discography Icona Pop|publisher=Irish Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web|url=http://www.chartsurfer.de/artist/icona-pop/discography-vcpcc.html|title=Icona Pop|work=chartsurfer.de|accessdate=May 20, 2015|archive-url=https://web.archive.org/web/20131217054619/http://www.chartsurfer.de/artist/icona-pop/discography-vcpcc.html|archive-date=December 17, 2013|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web|url=https://www.officialcharts.com/artist/25370/icona-pop/|title=Icona Pop > UK Charts|publisher=[[Official Charts Company]]|accessdate=14 September 2019}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200">{{cite magazine|title=Icona Pop Chart History: Billboard 200|url={{BillboardURLbyName|artist=Icona Pop|chart=Billboard 200}}|magazine=[[Billboard (magazine)|Billboard]]}}</ref>
+|-
+! scope="row"| ''[[Icona Pop (album)|Icona Pop]]''
+|
+* Released: 14 November 2012
+* Label: [[TEN Music Group|TEN]], [[Mercury Records|Mercury]], [[Universal Music Group|Universal]]
+* Formats: [[Compact Disc|CD]], [[Music download|digital download]], [[LP record|LP]]
+| 55 || — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[This Is... Icona Pop]]''
+|
+* Released: 20 September 2013
+* Label: TEN, [[Big Beat Records (Atlantic Records subsidiary)|Big Beat]]
+* Formats: CD, digital download, LP
+| — || 62 || 185 || 99 || 65 || 46 || 86 || 36
+|-
+! scope="row"| ''[[Club Romantech]]''
+|
+* Released: 1 September 2023
+* Label: TEN, [[Ultra Records|Ultra]]
+* Formats: Digital download
+| — || — || — || — || — || — || — || —
+|-
+! scope="row"| ''Ritual''
+|
+* Released: 14 August 2026
+* Label: TEN, Ultra
+* Formats: Digital download
+| — || — || — || — || — || — || — || —
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| EP details
+! scope="col" colspan="4" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US<br />Heat.]]
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US<br />Dance]]
+|-
+! scope="row"| ''Nights Like This''
+|
+* Released: 10 October 2011
+* Label: TEN
+* Formats: 7", digital download
+| — || — || — || —
+|-
+! scope="row"| ''[[Iconic (EP)|Iconic]]''
+|
+* Released: 1 August 2012
+* Label: TEN
+* Formats: CD, digital download
+| — || 171 || 3 || 6
+|-
+! scope="row"| ''iTunes Festival: London 2013''
+|
+* Released: 27 August 2013
+* Label: TEN, [[Atlantic Records|Atlantic]], [[Warner Music Group|Warner]]
+* Formats: Digital download
+| — || — || — || —
+|-
+! scope="row"| ''[[Emergency (Icona Pop song)|Emergency]]''
+|
+* Released: 17 July 2015
+* Label: TEN, Atlantic, Warner
+* Formats: CD, digital download
+| — || — || — || —
+|-
+! scope="row"| ''Så mycket bättre 2017 – Tolkningarna''
+|
+* Released: 29 December 2017
+* Label: TEN
+* Formats: Digital download
+| 39 || — || — || —
+|}
+
+==Singles==
+
+===As lead artist===
+<!-- Please do not add further singles without a source indicating it is one or at least a chart entry -->
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
+! rowspan="2" scope="col" style="width:20em;" | Title
+! rowspan="2" scope="col" style="width:1em;" | Year
+! colspan="10" scope="col" | Peak chart positions
+! rowspan="2" scope="col" style="width:14em;" | [[List of music recording certifications|Certifications]]
+! rowspan="2" scope="col" style="width:18em;" | Album
+|-
+! scope="col" style="width:3em;font-size:85%;" | [[Sverigetopplistan|SWE]]<br /><ref name="SWE" />
+! scope="col" style="width:3em;font-size:85%;" | [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:3em;font-size:85%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web|url=http://austriancharts.at/showinterpret.asp?interpret=Icona+Pop|title=Discographie Icona Pop|publisher=Austrian Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;" | [[Canadian Hot 100|CAN]]<br /><ref name="CANSingles">{{cite magazine|url={{BillboardURLbyName|artist=icona pop|chart=all}}|title=Icona Pop - Canadian Hot 100 Chart History|magazine=Billboard}}</ref>
+! scope="col" style="width:3em;font-size:85%;" | [[GfK Entertainment|GER]]<br /><ref name="GER2">{{cite web|url=http://www.charts.de/artist.asp?name=Icona+Pop&country=de|title=Discographie Icona Pop|publisher=German Charts Portal. Hung Medien|accessdate=20 May 2015|archive-url=https://web.archive.org/web/20130927072100/http://www.charts.de/artist.asp?name=Icona+Pop&country=de|archive-date=27 September 2013|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;" | [[Irish Singles Chart|IRE]]<br /><ref name="IRE" /> 
+! scope="col" style="width:3em;font-size:85%;" | [[Swiss Hitparade|SWI]]<br /><ref name="SWI2">{{cite web|url=http://hitparade.ch/artist/Icona_Pop|title=Discographie Icona Pop|publisher=Swiss Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;" | [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:3em;font-size:85%;" | [[Billboard Hot 100|US]]<br /><ref name="USHot100">{{cite magazine|url={{BillboardURLbyName|artist=icona pop|chart=Hot 100}}|title=Icona Pop - Chart History: The Hot 100|magazine=Billboard}}</ref>
+! scope="col" style="width:3em;font-size:85%;" | [[Dance/Electronic Songs|US<br />Dance/<br />Elec.]]<br /><ref name="US-Dance">{{cite magazine|url=https://www.billboard.com/artist/icona-pop/chart-history/dan/|title=Icona Pop Chart History - Dance/Electronic Songs|magazine=Billboard|accessdate=November 1, 2020}}</ref>
+|-
+! scope="row" | "Manners"
+| 2011
+| — || — || — || — || — || — || — || — || —<!-- The version that charted in the US was Mind Your Manners -->|| —
+|
+| ''Icona Pop''
+|-
+! scope="row" | "[[I Love It (Icona Pop song)|I Love It]]"<br /><span style="font-size:85%;">(featuring [[Charli XCX]])</span>
+| rowspan="2" | 2012
+| 2 || 3 || 3 || 9 || 3 || 8 || 10 || 1 || 7 || 1
+|
+* [[Swedish Recording Industry Association|GLF]]: 6× Platinum<ref name="SWE-C">{{cite certification|region=Sweden|artist=Icona Pop|source=artist|access-date=5 September 2022}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 7× Platinum<ref name="ARIA-2020-Singles">{{cite certification|region=Australia|type=single|certyear=2020|access-date=24 April 2021}}</ref>
+* [[British Phonographic Industry|BPI]]: 3× Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Icona Pop|access-date=15 May 2026}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: 3× Gold<ref name=":0">{{cite certification|region=Germany|artist=Icona Pop|access-date=5 September 2022}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Platinum<ref name=":1">{{cite certification|region=Austria|artist=Icona Pop|access-date=5 September 2022}}</ref>
+* IFPI SWI: Platinum<ref name=":2">{{cite certification|region=Switzerland|artist=Icona Pop|access-date=5 September 2022}}</ref>
+* [[Music Canada|MC]]: 5× Platinum<ref name="MC">{{cite certification|region=Canada|artist=Icona Pop|access-date=5 September 2022}}</ref>
+* [[Recording Industry Association of America|RIAA]]: 5× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Icona Pop|access-date=15 December 2022}}</ref>
+* [[Recorded Music NZ|RMNZ]]: Gold<ref name=":3">{{cite certification|region=New Zealand|type=single|artist=Icona Pop|id=2012-10-05|source=newchart|access-date=2024-11-20|title=I Love It}}</ref>
+| rowspan="2" | ''Icona Pop'' and<br />''This Is... Icona Pop''
+|-
+! scope="row" | "[[We Got the World]]"
+| 29 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Girlfriend (Icona Pop song)|Girlfriend]]"
+| rowspan="2" | 2013
+| 57 || 55 || 27 || — || 17 || — || 73 || — || — || —
+|
+* GLF: Gold<ref name="SWE-C" />
+| rowspan="3" | ''This Is... Icona Pop''
+|-
+! scope="row" | "[[All Night (Icona Pop song)|All Night]]" 
+| — || 65 || 43 || 57 || 66 || 20 || 75 || 31 || —{{efn|"All Night" did not enter the ''Billboard'' Hot 100, but peaked at number 11 on the [[Bubbling Under Hot 100]] chart.<ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/icona-pop/chart-history/hbu/|title=Icona Pop Chart History - Bubbling Under Hot 100|magazine=Billboard|accessdate=November 1, 2020}}</ref>}} || 13
+|
+* MC: Gold<ref name="MC" />
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row" | "[[Just Another Night (Icona Pop song)|Just Another Night]]"<ref name=":4">{{Cite web|url=https://music.apple.com/ca/album/just-another-night-single/799166448|title = Just Another Night - Single by Icona Pop|website = [[iTunes]]|date = 28 January 2014}}</ref>
+| rowspan="2" | 2014
+| — || — || — || — || — || — || — || — || — || 41 
+|
+|-
+! scope="row" | "[[Get Lost (Icona Pop song)|Get Lost]]"
+| 58 || — || — || — || — || — || — || — || — || 34
+|
+| {{Non-album single}}
+|-
+! scope="row" | "[[Emergency (Icona Pop song)|Emergency]]"<ref name=":5">{{cite magazine|url=http://diymag.com/2015/05/26/icona-pop-return-with-new-single-emergency|title=Icona Pop return with new single 'Emergency'|magazine=[[DIY (magazine)|DIY]]|date=26 May 2015}}</ref>
+| 2015
+| 19 || — || — || 99 || — || — || — || — || — || —
+|
+* GLF: 2× Platinum<ref name="SWE-C" />
+| ''Emergency EP''
+|-
+! scope="row" | "[[Someone Who Can Dance]]"
+| rowspan="2" | 2016
+| 56 || — || — || — || — || — || — || — || — || 21
+|
+| rowspan="3" {{Non-album singles}}
+|-
+! scope="row" | "[[Brightside (Icona Pop song)|Brightside]]"
+| 82 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Girls Girls (song)|Girls Girls]]"
+| rowspan="5" | 2017
+| 53 || — || — || — || — || — || — || — || — || —
+|
+* GLF: Gold<ref name="SWE-C" />
+|-
+! scope="row" | "Det måste gå"
+| 61 || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4" | ''Så mycket bättre 2017 – Tolkningarna''
+|-
+! scope="row" | "They're Building Walls Around Us"
+| 39 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Not Too Young"
+| 55 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Hearts in the Air|Heart in the Air]]"
+| 70 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Rhythm in My Blood"<ref name=":6">{{cite web|url=https://open.spotify.com/album/5yuhB51IcjHzojYvbweNwe|title=Rhythm in My Blood|date=26 October 2018|publisher=[[Spotify]]|accessdate=26 October 2018}}</ref>
+| 2018
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3" {{Non-album singles}}
+|-
+! scope="row" | "Next Mistake"<ref name=":7">{{Cite web |url=https://pitchfork.com/news/listen-to-icona-pops-new-song-next-mistake-produced-by-hudson-mohawke/ |title=Listen to Icona Pop's new song 'Next Mistake', produced by Hudson Mohawke |last=Yoo |first=Noah |date=24 July 2019 |website=[[Pitchfork (website)|Pitchfork]] |archive-url=https://web.archive.org/web/20190727182859/https://pitchfork.com/news/listen-to-icona-pops-new-song-next-mistake-produced-by-hudson-mohawke/ |archive-date=27 July 2019 |accessdate=7 August 2019}}</ref>
+| 2019
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Right Time"<ref name=":8">{{cite web|url=https://music.apple.com/ca/album/right-time-single/1502293467|title=Right Time – Single by Hayden James & Icona Pop|date=29 April 2020|publisher=[[Apple Music]]|accessdate=7 August 2020}}</ref><br />{{small|(with [[Hayden James]])}}
+| rowspan="3" | 2020
+| — || — || — || — || — || — || — || — || — || 34
+|
+|-
+! scope="row" | "[[Feels in My Body]]"
+| — || — || — || — || — || — || — || — || — || —{{efn|"Feels in My Body" did not enter the US Dance/Electronic Songs chart, but did peak at number 16 on the Dance/Electronic Digital Song Sales chart.<ref name="US-Dance-Digital">{{cite magazine|url=https://www.billboard.com/artist/icona-pop/chart-history/ddt/|title=Icona Pop Chart History - Dance/Electronic Digital Song Sales|magazine=Billboard|accessdate=1 November 2020}}</ref>}}
+|
+| rowspan="8" | ''Club Romantech''
+|-
+! scope="row" | "Spa"<br />{{small|(with [[Sofi Tukker]])}}<ref name=":9">{{cite web|url=https://music.apple.com/ca/album/spa-single/1533696795|title=Spa - Single by Icona Pop & Sofi Tukker on Apple Music|date=16 October 2020|publisher=[[Apple Music]]|accessdate=16 October 2020|archive-date=18 October 2020|archive-url=https://web.archive.org/web/20201018011241/https://music.apple.com/ca/album/spa-single/1533696795|url-status=dead}}</ref>
+| — || — || — || — || — || — || — || — || — || 30
+|
+|-
+! scope="row" | "Off of My Mind"<ref name=":10">{{Cite web|url=https://music.apple.com/us/album/off-of-my-mind-single/1572048305|title=Off Of My Mind - Single by Icona Pop & VIZE on Apple Music|date=9 July 2021|publisher=[[Apple Music]]|access-date=9 July 2021}}</ref><br />{{small|(with [[Vize (DJs)|Vize]])}}
+| 2021
+| —{{efn|"Off of My Mind" did not enter the [[Sverigetopplistan]], but peaked at number one on the Swedish Heatseeker chart.<ref>{{Cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=28|title=Veckolista Heatseeker, vecka 28|language=sv|publisher=[[Sverigetopplistan]]|access-date=16 July 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "You're Free"<br />{{small|(with [[Ultra Naté]])}}
+| 2022
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "I Want You"<ref name=":11">{{Cite web|url= https://music.apple.com/gb/album/i-want-you-single/1667139673 |title=I Want You - Single by Icona Pop & Galantis on Apple Music|date= 17 February 2023|publisher=[[Apple Music]]|access-date= 17 February 2023}}</ref><ref name=":12">[https://www.broadwayworld.com/bwwmusic/article/Icona-Pop-Return-With-New-Single-I-Want-You-With-Galantis-Confirm-New-Album-Is-on-the-Way-20230217 Icona Pop Return With New Single 'I Want You' With Galantis & Confirm New Album Is on the Way]</ref><br />{{small|(with [[Galantis]])}}
+| rowspan="7" | 2023
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Faster"<ref name=":13">[https://www.broadwayworld.com/bwwmusic/article/Icona-Pop-Share-Club-Ready-New-Single-Faster-20230331 Icona Pop Share Club-Ready New Single 'Faster']</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Shit We Do for Love"<br />{{small|(with Yaeger)}}<ref name=":14">{{Cite tweet|user=iconapop|number=1650905403205750784|title=SH!T WE DO FOR LOVE. out 5.5}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Where Do We Go from Here"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Desire"<br /><span style="font-size:85%;">(with [[Joel Corry]] and [[Rain Radio]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[Another Friday Night]]'' and ''Club Romantech''
+|-
+! scope="row" | "Fall in Love"
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" | ''Club Romantech''
+|-
+! scope="row" | "Tears on the Dancefloor"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Body Type"<br /><span style="font-size:85%;">(with Badger)</span>
+| 2024
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row" | "Ritual" <span style="font-size:85%;">(with [[Daya (singer)|Daya]])</span>
+| rowspan="2" | 2026
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2"| ''Ritual''
+|-
+! scope="row" | "Dance to This"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="14" |"—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as featured artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web|url=https://charts.nz/showinterpret.asp?interpret=Chiddy+Bang |title=Discography Chiddy Bang |publisher=New Zealand Charts Portal. Hung Medien }}
+</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref>{{Cite web|url=https://www.officialcharts.com/artist/56152/yves-v-ft-afrojack-and-icona-pop/|title = YVES V FT AFROJACK & ICONA POP &#124; full Official Chart History &#124; Official Charts Company|website = [[OfficialCharts.com]]}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Bubbling Under Hot 100|US<br />Bub.]]<br /><ref name="Bubbling"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Adult Top 40|US<br />Adult<br />Pop]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/icona-pop/chart-history/atf/|title=Icona Pop Chart History - Adult Top 40|magazine=Billboard|accessdate=November 1, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Electronic]]<br /><ref name="US-Dance"/>
+|-
+! scope="row"| "[[Mind Your Manners (Chiddy Bang song)|Mind Your Manners]]"<br /><span style="font-size:85%;">([[Chiddy Bang]] featuring Icona Pop)</span>
+| 2011
+| 11 || 32 || — || 15 || — || —
+|
+* ARIA: 2× Platinum<ref>{{cite certification|region=Australia|type=single|certyear=2013|access-date=23 December 2022}}</ref>
+| ''[[Breakfast (Chiddy Bang album)|Breakfast]]''
+|-
+! scope="row"| "Let's Go"<br /><small>([[Tiësto]] featuring Icona Pop)</small>
+| rowspan="2"| 2014
+| — || — || — || — || — || 30
+|
+| ''[[A Town Called Paradise]]''
+|-
+! scope="row"| "[[Never Been In Love (song)|Never Been in Love]]"<br /><span style="font-size:85%;">([[Cobra Starship]] featuring Icona Pop)</span>
+| 66 || — || — || — || 36 || —
+|
+| rowspan="6" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Ride"<br /><span style="font-size:85%;">([[Lowell (musician)|Lowell]] featuring Icona Pop)</span><ref>https://www.facebook.com/lowellsongs/photos/a.386746948051471.88465.159612640764904/939577636101730/?type=1&theater {{User-generated source|certain=yes|date=March 2022}}</ref>
+| 2015
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| "Weekend"<br /><span style="font-size:85%;">([[Louis the Child (musician)|Louis the Child]] featuring Icona Pop)<ref>{{Cite web|url=https://music.apple.com/de/album/weekend-remixes-single/1120766770|title="Weekend (Remixes) - Single" von Louis the Child & Icona Pop|website=[[iTunes]]|date=10 June 2016}}</ref></span>
+| rowspan="2"| 2016
+| — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA"/>
+|-
+! scope="row"| "Windows" <br /><span style="font-size:85%;">(Felix Snow featuring Icona Pop)<ref>{{Cite web|url=https://music.apple.com/us/album/windows-feat-icona-pop-single/1184693408|title = Windows (Feat. Icona Pop) - Single by Felix Snow|website = [[iTunes]]|date = 15 December 2016}}</ref></span>
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Let You Down (Peking Duk song)|Let You Down]]"<br /><span style="font-size:85%;">([[Peking Duk]] featuring Icona Pop)</span><ref>{{cite web|url=https://music.apple.com/au/album/let-you-down-feat-icona-pop/1292215068?i=1292215074|title=Let You Down - single|date=13 October 2017|publisher=iTunes Australia|access-date=13 October 2017}}</ref>
+| 2017
+| 37 || — || — || — || — || —
+|
+* ARIA: 2× Platinum<ref name=ARIA-2020-Singles/>
+|-
+! scope="row"| "Faded Away"<br /><span style="font-size:85%;">(Sweater Beats featuring Icona Pop)<ref>{{Cite web|url=https://music.apple.com/gb/album/faded-away-feat-icona-pop-single/1374549601|title = Faded Away (Feat. Icona Pop) - Single by Sweater Beats|website = [[iTunes]]|date = 27 April 2018}}</ref></span>
+| rowspan="4"| 2018
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Bitches (Tove Lo song)|Bitches]]"<br /><span style="font-size:85%;">([[Tove Lo]] featuring [[Charli XCX]], Icona Pop, [[Elliphant]] and [[Alma (Finnish singer)|Alma]])</span>
+| — || — || — || — || — || —
+|
+|''Lady Wood and Blue Lips (Deluxe)''
+|-
+! scope="row"| "You Don't Know About Me" <small>(The ACLU Remix)</small><br /><span style="font-size:85%;">([[Ella Vos]], Icona Pop and [[Vérité]] featuring [[Mija (DJ)|Mija]])</span>
+| — || — || — || — || — || —
+|
+| rowspan="5" {{N/A|Non-album singles}}
+|-
+! scope="row"| "X's"<ref>{{Cite web |url=https://dancingastronaut.com/2018/08/martin-garrix-releases-playful-dance-pop-xs-grx-alias/ |title=Martin Garrix releases playful dance pop 'X's' under Grx alias |last=Bagshaw |first=Bella |date=11 August 2018 |website=[[Dancing Astronaut]] |accessdate=12 August 2018}}</ref> <br /><span style="font-size:85%;">([[Martin Garrix|Grx]] and [[CMC$]] featuring Icona Pop)</span>
+| — || — || — || — || — || 36
+|
+|-
+! scope="row"| "Sink Deeper"<ref>{{cite web|url=https://music.apple.com/us/album/sink-deeper-feat-icona-pop-single/1457278433 |title=Sink Deeper (feat. Icona Pop) - Single by MOTi on Apple Music |website=[[iTunes Store]] |date=5 April 2019 |access-date=5 April 2019}}</ref> <br /><span style="font-size:85%;">([[Moti (DJ)|Moti]] featuring Icona Pop)</span>
+| rowspan="4"| 2019
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[We Got That Cool]]"<ref>{{Cite web |url=https://music.apple.com/us/album/we-got-that-cool-and-afrojack-featuring-icona-pop-single/1467867486 |title=We Got That Cool (and Afrojack featuring Icona Pop) - Single by Yves V on iTunes |date=28 June 2019 |accessdate=2019-07-09}}</ref> <br /><span style="font-size:85%;">([[Yves V]] and [[Afrojack]] featuring Icona Pop)</span>
+| — || — || 68 || — || — || —
+|
+* BPI: Silver<ref name=BPI/>
+|-
+! scope="row"| "Freak on Me"<ref>{{Cite web |url=https://music.apple.com/us/album/freak-on-me-feat-icona-pop-single/1474062236 |title=Freak on Me (feat. Icona Pop) – Single by ricky retro |website=Apple Music |date=2 August 2019 |accessdate=2019-08-03}}</ref> <br /><span style="font-size:85%;">(Ricky Retro featuring Icona Pop)</span>
+| — || — || — || — || — || —
+|
+|-
+! scope="row"| "Louder"<ref>{{Cite magazine |last=Shaffer |first=Claire |date=November 20, 2019 |title=Big Freedia drops new single 'Louder' with Icona Pop |url=https://www.rollingstone.com/music/music-news/big-freedia-louder-icona-pop-914822/ |archive-url=https://web.archive.org/web/20210515022824/https://www.rollingstone.com/music/music-news/big-freedia-louder-icona-pop-914822/ |archive-date=May 15, 2021 |accessdate=April 6, 2022 |magazine=Rolling Stone}}</ref> <br /><span style="font-size:85%;">([[Big Freedia]] featuring Icona Pop)</span>
+| — || — || — || — || — || —
+|
+| ''Louder''
+|-
+! scope="row"| "I Love My Friends"<ref>{{cite web|url=https://www.edmsauce.com/2020/04/03/steve-aoki-releases-new-single-i-love-my-friends-ft-icona-pop-on-highly-anticipated-album-neon-future-iv/ |title=Steve Aoki Releases New Single "I Love My Friends" Ft. Icona Pop On Highly-Anticipated Album "Neon Future IV" |website=EDMSauce |date=April 3, 2020 |accessdate=July 16, 2020}}</ref> <br /><span style="font-size:85%;">([[Steve Aoki]] featuring Icona Pop)</span>
+| 2020
+| — || — || — || — || — || —
+|
+| ''[[Neon Future IV]]''
+|-
+! scope="row"| "Payback"<ref>{{cite web |url=https://edmnations.com/2022/03/04/cheat-codes-icona-pop-look-for-payback-with-new-single/ |title=Cheat Codes & Icona Pop look for 'Payback' with new single! |website=EDM Nations |access-date=3 March 2022 |archive-date=5 March 2022 |archive-url=https://web.archive.org/web/20220305034052/https://edmnations.com/2022/03/04/cheat-codes-icona-pop-look-for-payback-with-new-single/ |url-status=dead }}</ref> <br /><span style="font-size:85%;">([[Cheat Codes (DJs)|Cheat Codes]] featuring Icona Pop)</span>
+| 2022
+| — || — || — || — || — || —
+|
+| ''Hellraisers, Pt. 3''
+|-
+| colspan="10" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart<br />positions
+! scope="col" rowspan="2" style="width:18em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="US-Dance"/>
+|-
+! scope="row"| "Ready for the Weekend"<ref>{{cite web|title=Icona Pop - Ready for the Weekend|url=http://soundcloud.com/iconapop/sets/ready-for-the-weekend|website=SoundCloud|publisher=Icona Pop|date=2012-09-07}}</ref>
+| 2012
+| —
+|''Icona Pop'' and<br />''This Is... Icona Pop''
+|-
+! scope="row"| "[[In the Stars (Icona Pop song)|In the Stars]]"<ref>{{cite web|title=Icona Pop - In The Stars|url=https://music.apple.com/us/album/in-the-stars-galaxy-mix-single/695407704|website=iTunes|publisher=Apple|date=2015-05-30}}</ref>
+| 2013
+| 22
+|''This Is... Icona Pop''
+|-
+! scope="row"| "[[It's My Party#Other versions|My Party]]"<br /><span style="font-size:85%;">(featuring [[Ty Dolla Sign]])</span><ref>{{cite web|title=Icona Pop - My Party|url=https://music.apple.com/us/album/my-party-feat-ty-dolla-%24ign/886252603|website=iTunes|publisher=Apple|date=2015-05-30}}</ref>
+| 2014
+| —{{efn|"My Party" did not enter the US Dance/Electronic Songs chart, but did peak at number 42 on the Dance/Electronic Digital Song Sales chart.<ref name="US-Dance-Digital"/>}}
+| ''Icona Pop''
+|-
+! scope="row"| "F U"<ref>{{cite web|title=Icona Pop - F U|url=https://soundcloud.com/iconapop/icona-pop-f-u|website=[[SoundCloud]]|accessdate=2020-08-21}}</ref>
+| 2016
+| —
+| {{Non-album single}}
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of other charted songs, with selected chart positions, showing year of charting and album name
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE"/>
+|-
+! scope="row"| "Stick Your Tongue Out"
+| 2023
+| 91
+| ''Club Romantech''
+|}
+
+==Other appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:20em;"| Title
+! scope="col"| Other artist(s)
+! scope="col"| Year
+! scope="col" style="width:18em;"| Album
+|-
+! scope="row"| "[[Let's Go (Tiësto song)|Let's Go]]"
+| [[Tiësto]]
+| 2014
+| ''[[A Town Called Paradise]]''
+|-
+! scope="row"| "[[Move Your Feet]]/[[D.A.N.C.E.]]/[[It's a Sunshine Day]]"
+|[[Anna Kendrick]], [[Gwen Stefani]], [[James Corden]], [[Ron Funches]], [[Walt Dohrn]], and [[Kunal Nayyar]]
+| rowspan="3"| 2016
+| rowspan="3"| ''[[Trolls (soundtrack)|Trolls: Original Motion Picture Soundtrack]]''
+|-
+! scope="row"| "[[I'm Coming Out]]/[[Mo Money Mo Problems]]"
+|[[Zooey Deschanel]], Anna Kendrick, Gwen Stefani, James Corden, Walt Dohrn, Ron Funches, and Kunal Nayyar
+|-
+! scope="row"| "[[Can't Stop the Feeling]]" (Film version)
+|[[Justin Timberlake]], Anna Kendrick, Gwen Stefani, James Corden, Zooey Deschanel, Walt Dohrn, Ron Funches, [[Christopher Mintz-Plasse]], and Kunal Nayyar
+|-
+! scope="row"| "Trolls Wanna Have Good Times"
+|Anna Kendrick, Justin Timberlake, James Corden, [[Esther Dean]], [[Kenan Thompson]], and the Pop Trolls
+| rowspan="3"| 2020
+| rowspan="3"| ''[[Trolls World Tour (soundtrack)|Trolls World Tour: Original Motion Picture Soundtrack]]''
+|-
+! scope="row"| "Trolls 2 Many Hits Mashup" 
+| Anna Kendrick, Justin Timberlake, James Corden, and the Pop Trolls
+|-
+! scope="row"| "Just Sing"
+| Anna Kendrick, Justin Timberlake, James Corden, [[Kelly Clarkson]], [[George Clinton (funk musician)|George Clinton]], [[Mary J. Blige]], [[Anderson Paak]], [[Rachel Bloom]], [[Kenan Thompson]], [[Anthony Ramos (actor)|Anthony Ramos]], [[Red Velvet (group)|Red Velvet]], and [[Sam Rockwell]]
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Director
+|-
+! scope="row"| "Manners"
+| rowspan="2"| 2011
+| Johannes Ring
+|-
+! scope="row"| "Nights Like This"
+| [[Tim Erem]]
+|-
+! scope="row"| "I Love It"
+| rowspan="2"| 2012
+| rowspan="2"| Fredrik Etoall
+|-
+! scope="row"| "We Got the World"
+|-
+! scope="row"| "Girlfriend"
+| rowspan="3"| 2013
+| Tim Nackashi
+|-
+! scope="row"| "All Night"
+| Dori Oskowitz
+|-
+! scope="row"| "Just Another Night"
+| Marc Klasfeld
+|-
+! scope="row"| "On a Roll"<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/Fv6wwA73eBs Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20160624095457/https://www.youtube.com/watch?v=Fv6wwA73eBs Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=Fv6wwA73eBs| title = ICONA POP ✘ ON A ROLL (Official Video) HD | website=[[YouTube]]}}{{cbignore}}</ref>
+| rowspan="2"| 2014
+| Gary Coogan
+|-
+! scope="row"| "Sun Goes Down"<br /><span style="font-size:85%;">(featuring The Knocks and St. Lucia)</span><ref name="youtube.com">Archived at [https://ghostarchive.org/varchive/youtube/20211211/HMN6APRnvP4 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20141110034645/http://www.youtube.com/watch?v=HMN6APRnvP4 Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=HMN6APRnvP4| title = Icona Pop - Sun Goes Down (feat. The Knocks & St. Lucia) (Video) | website=[[YouTube]]}}{{cbignore}}</ref>
+| unknown
+|-
+! scope="row"| "Emergency"
+| 2015
+| Christian Larson
+|-
+! scope="row"| "Weekend"
+| rowspan="2"| 2016
+| RJ Sanchez
+|-
+! scope="row"| "Brightside"
+| Christine Juan
+|-
+! scope="row"| "All My Girls"<ref name="youtube.com"/>
+| 2018
+| unknown
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Icona Pop}}
+
+[[Category:Discographies of Swedish artists]]

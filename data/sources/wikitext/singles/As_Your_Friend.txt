@@ -1,0 +1,197 @@
+{{Infobox song
+| name       = As Your Friend
+| cover      = As Your Friend.jpg
+| alt        =
+| type       = single
+| artist     = [[Afrojack]] featuring [[Chris Brown]]
+| album      = [[Forget the World (Afrojack album)|Forget the World]]
+| released   = 13 February 2013
+| recorded   = 2012
+| studio     =
+| genre      = * [[Electro house]]
+* [[progressive house]]
+* [[dance-pop]]
+| length     = 4:00
+| label      = Wall Recordings
+| writer     = * [[Afrojack|Nick van de Wall]]
+* [[Chris Brown]]
+* [[DJ Buddha|Urales Vargas]]
+* [[Polow da Don|Jamal Jones]]
+* Nadir Sakir<ref>{{Cite web|url=http://www.allmusic.com/album/as-your-friend-mw0002507277|title=As Your Friend - Afrojack &#124; Songs, Reviews, Credits &#124; AllMusic|website=[[AllMusic]] }}</ref>
+| producer   = * [[Afrojack]]
+* Leroy Styles {{small|(co.)}}
+* DJ Buddha {{small|(co.)}}
+* Polow da Don {{small|(co.)}}
+| chronology = [[Afrojack]]
+| prev_title = [[Rock the House (Afrojack song)|Rock the House]]
+| prev_year  = 2012
+| next_title = [[The Spark (Afrojack song)|The Spark]]
+| next_year  = 2013
+| misc       = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = single
+ | prev_title = [[Ready (Fabolous song)|Ready]]
+ | prev_year  = 2013
+ | title      = As Your Friend
+ | year       = 2013
+ | next_title = [[Fine China (Chris Brown song)|Fine China]]
+ | next_year  = 2013
+}}
+{{External music video|{{YouTube|stV2UD_vmxY|"As Your Friend"}}}}
+}}
+
+"'''As Your Friend'''" is a song by Dutch DJ [[Afrojack]], featuring vocals by American singer [[Chris Brown]]. The song was released as a single via [[iTunes Store|iTunes]] on 13 February 2013.{{citation needed|date=May 2014}} It was written by Afrojack, Chris Brown, Nadir Sakir, [[DJ Buddha]], and [[Polow da Don]], and was produced by Afrojack with co-production by Leroy Styles, DJ Buddha and Polow da Don.<ref>{{cite web|last1=Polonsky|first1=Sarah|title=Afrojacks Signs With Island Def Jam and Universal Music Group|url=http://www.vibe.com/article/afrojacks-signs-island-def-jam-and-universal-music-group|work=[[Vibe (magazine)|Vibe]]|date=March 14, 2013}}</ref> "As Your Friend" is featured as a bonus track on the deluxe version of Afrojack's 2014 debut studio album ''[[Forget the World (Afrojack album)|Forget the World]]''.
+
+==Music video==
+On 22 March 2013, Afrojack uploaded a lyric video onto Vevo, while the official music video was released on 29 March. Chris Brown does not appear in the video.
+
+The video features a lot of special effects, and features Afrojack with an eagle and many women dancing around him. Since its release, the video has gained over 32,600,000 views.
+
+==Track listing==
+{{Track listing
+| headline = Digital download – single
+| title1   = As Your Friend
+| note1    = featuring [[Chris Brown]]
+| length1  = 4:00
+}}
+
+{{Track listing
+| headline = Digital download – The Remixes
+| title1   = As Your Friend
+| note1    = Leroy Styles remix
+| length1  = 5:56
+| title2   = As Your Friend
+| note2    = Sidney Samson remix
+| length2  = 5:07
+| title3   = As Your Friend
+| note3    = Danny Howard remix
+| length3  = 5:22
+| title4   = As Your Friend
+| note4    = Nause remix
+| length4  = 5:36
+| title5   = As Your Friend
+| note5    = Bobby Burns remix
+| length5  = 5:58
+| title6   = As Your Friend
+| note6    = D-Wayne remix
+| length6  = 5:53
+}}
+
+==Chart performance==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders"
+|-
+! scope="col"|Chart (2013–14)
+! scope="col"|Peak<br />position
+|-
+{{single chart|Flanders Dance|35|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Flanders Tip|5|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Wallonia Dance|9|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Wallonia Tip|3|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Czech Republic|47|year=2013|week=22}}
+|-
+{{single chart|France|44|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Germany|67|artist=Afrojack feat. Chris Brown|song=As Your Friend|songid=1114200}}
+|-
+{{single chart|Ireland|20|year=2013|week=23}}
+|-
+{{single chart|Dutch40|30|artist=Afrojack Featuring Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Dutch100|40|artist=Afrojack feat. Chris Brown|song=As Your Friend}}
+|-
+{{single chart|Scotland|14|date=20130615}}
+|-
+{{single chart|Slovakia|79|year=2014|week=15}}
+|-
+{{single chart|UK|21|date=20130615}}
+|-
+{{single chart|UKrandb|3|date=20130615}}
+|-
+{{single chart|Billboardhot100|88|artist=Afrojack}}
+|-
+{{single chart|Billboarddanceelectronic|8|artist=Afrojack}}
+|-
+{{singlechart|Billboarddanceairplay|7|artist=Afrojack|access-date=December 16, 2023|song=|refname=}}
+|-
+{{single chart|Billboarddanceclubplay|1|artist=Afrojack}}
+|-
+{{single chart|Billboardpopsongs|28|artist=Afrojack}}
+|-
+{{single chart|Billboardrhythmic|25|artist=Afrojack}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders"
+|-
+! Chart (2013)
+! Position
+|-
+|Netherlands (Dutch Top 40)<ref>{{cite web|url=http://www.top40web.nl/jaarlijsten/jr2013.html|title=Jaarlijsten 2013|language=nl|publisher=[[Dutch Top 40]]|access-date=11 May 2022}}</ref>
+|align=center|172
+|-
+|US Hot Dance/Electronic Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2013/hot-dance-electronic--songs|title=Hot Dance/Electronic Songs – Year-End 2013|magazine=[[Billboard (magazine)|Billboard]]|access-date=26 August 2019}}</ref>
+|align=center|33
+|-
+|US Dance Club Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2013/dance-club-songs|title=Dance Club Songs – Year-End 2013|magazine=Billboard|access-date=26 August 2019}}</ref>
+|align=center|33
+|}
+{{col-end}}
+
+==Release history==
+{|class="wikitable"
+|-
+!Region
+!Date
+!Format
+!Label
+|-
+| United States
+| 14 March 2013<ref>[https://music.apple.com/us/album/as-your-friend-feat-chris/620910894 iTunes - Music - As Your Friend (feat. Chris Brown) - Single by Afrojack]</ref>
+| rowspan="2"| Digital download – single
+| rowspan="4"| {{flatlist|
+* Wall Recordings
+* Def Jam Recordings
+* Island Records UK
+* PM:AM Recordings
+}}
+|-
+| rowspan="2"| United Kingdom
+| 22 March 2013<ref>[https://music.apple.com/gb/album/as-your-friend-feat-chris/620473039 iTunes - Music - As Your Friend (feat. Chris Brown) - Single by Afrojack]</ref>
+|-
+| 11 June 2013<ref>[https://music.apple.com/gb/album/as-your-friend-remixes-feat/657383494 iTunes - Music - As Your Friend (The Remixes) &#91;feat. Chris Brown&#93; by Afrojack]</ref>
+| rowspan="2"| Digital download – The Remixes
+|-
+| rowspan="1"| United States
+| 14 June 2013<ref>[https://music.apple.com/us/album/as-your-friend-the-remixes-feat-chris-brown/1445174185 iTunes - Music - As Your Friend (The Remixes) &#91;feat. Chris Brown&#93; by Afrojack]</ref>
+|}
+
+==See also==
+* [[List of number-one dance singles of 2013 (U.S.)]]
+
+==References==
+{{Reflist}}
+
+{{Afrojack}}
+{{Chris Brown singles}}
+
+{{authority control}}
+
+[[Category:2013 singles]]
+[[Category:2013 songs]]
+[[Category:Afrojack songs]]
+[[Category:Chris Brown songs]]
+[[Category:Songs written by Afrojack]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Song recordings produced by Polow da Don]]
+[[Category:Songs written by Polow da Don]]
+[[Category:Songs written by DJ Buddha]]
+[[Category:Song recordings produced by DJ Buddha]]

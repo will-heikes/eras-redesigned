@@ -1,0 +1,151 @@
+{{Infobox song
+| name       = Back It Up
+| cover      = Back-It-Up-Spanish-Version.jpg
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Prince Royce]] featuring [[Jennifer Lopez]] and [[Pitbull (rapper)|Pitbull]]
+| album      = [[Double Vision (Prince Royce album)|Double Vision]]
+| released   = * May 4, 2015 (original English version)
+* May 12, 2015 (Spanish version)
+| recorded   =
+| studio     =
+| venue      =
+| genre      =
+| length     = {{duration|m=3|s=20}}
+| label      = [[RCA Records|RCA]]
+| writer     = * [[Savan Kotecha]]
+* [[Ilya Salmanzadeh|Ilya]]
+* [[Prince Royce|Geoffrey Rojas]]
+* [[Pitbull (rapper)|Armando Pérez]]
+| producer   = * [[Jason Evigan]]
+* Ilya
+| chronology = [[Prince Royce]]
+| prev_title = [[Que Cosas Tiene el Amor]]
+| prev_year  = 2015
+| next_title = [[Culpa al Corazón]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Jennifer Lopez]]
+ | type       = singles
+ | prev_title = [[Feel the Light]]
+ | prev_year  = 2015
+ | title      = Back It Up
+ | year       = 2015
+ | next_title = [[El mismo sol#Álvaro Soler featuring Jennifer Lopez version|El Mismo Sol]]
+ | next_year  = 2015
+}}
+{{Extra chronology
+ | artist     = [[Pitbull (rapper)|Pitbull]]
+ | type       = singles
+ | prev_title = [[Fun (Pitbull song)|Fun]]
+ | prev_year  = 2015
+ | title      = Back It Up
+ | year       = 2015
+ | next_title = [[Baddest Girl in Town]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|9w9dXWU5nMI|"Back It Up"}} }}
+}}
+
+"'''Back It Up'''" is a 2015 song by American singer [[Prince Royce]], featuring [[Jennifer Lopez]] and [[Pitbull (rapper)|Pitbull]]. The song was released on May 4, 2015, as the second single taken from Royce's fourth studio album, ''[[Double Vision (Prince Royce album)|Double Vision]]''.<ref>{{Cite web | url=https://music.apple.com/au/album/back-it-up-feat-jennifer/992982358 |title = Back It up (Feat. Jennifer Lopez & Pitbull) &#91;Spanish Version&#93; - Single by Prince Royce| website=[[iTunes]] }}</ref>
+
+There are three versions available, a Spanglish version and a Spanish version, with both making chart appearances, and the original 
+English version, featuring only Pitbull.<ref>{{Cite web|url= https://music.apple.com/us/album/back-it-up-feat-pitbull-single/989870542 |title=Back It Up (feat. Pitbull) - Single by Prince Royce |publisher=US iTunes Store|date=4 May 2015|access-date=5 August 2015}}</ref>
+
+"Back It Up" marks as the eighth of nine collaborations between Lopez and [[Pitbull (rapper)|Pitbull]], in lined with "[[Fresh Out the Oven]]" in 2009, "[[On the Floor]]" in 2011, "[[Dance Again]]" in 2012, "[[Live It Up (Jennifer Lopez song)|Live It Up]]" in 2013, "[[We Are One (Ole Ola)]]" in 2014 with  [[Claudia Leitte]], "[[Booty (Jennifer Lopez song)|Booty]]" in 2014, a song entitled "Drinks for You (Ladies Anthem)" from Pitbull's ''[[Global Warming (Pitbull album)|Global Warming]]'' album in 2012 and followed by "Sexy Body" off his album ''[[Climate Change (Pitbull album)|Climate Change]]'' released in 2017.
+
+==Track listing==
+;Digital download
+#"Back It Up" (featuring [[Pitbull (rapper)|Pitbull]]) – 3:21
+
+;Digital download
+#"Back It Up" (featuring [[Jennifer Lopez]] & [[Pitbull (rapper)|Pitbull]]) – 3:20
+
+;Digital download Spanish version
+#"Back It Up" (featuring [[Jennifer Lopez]] & [[Pitbull (rapper)|Pitbull]]) [Spanish Version] – 3:20
+
+;Other versions
+* [[Dave Aude]] Club Mix – 5:56
+
+==Music video==
+The music video was filmed in [[Miami]] and directed by Colin Tilley. It was released on June 9, 2015<ref>{{cite web|url=https://www.youtube.com/watch?v=9w9dXWU5nMI|title=Prince Royce – Back It Up (Official Video) ft. Jennifer Lopez, Pitbull|publisher=YouTube| access-date=July 24, 2015}}</ref> The Spanglish version (included as the Album version) was used for the music video.
+
+==Promotion==
+Prince Royce performed the song live on ''[[American Idol (season 14)|American Idol]]'', along with [[Jennifer Lopez]] and [[Pitbull (rapper)|Pitbull]], on 13 May, ''[[Good Morning America]]'' on 27 July and ''[[The View (U.S. TV series)|The View]]'' on 28 July.
+
+==Chart performance==
+The Spanish-language version of "Back It Up" debuted on the US Hot Latin Songs chart at number 27 for the week of May 30, 2015. Total sales for the week were 23,000 downloads.<ref>{{Cite web|url= https://www.billboard.com/pro/prince-royce-back-it-up-hot-latin-songs-debut/|title= Prince Royce's 'Back It Up' Debuts on Hot Latin Songs Chart|publisher= www.billboard.com|author= Amaya Mendizabal|date=21 May 2015|access-date=24 July 2015}}</ref>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2015–2016)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Billboardcanadianhot100|56|artist=Prince Royce|access-date=July 24, 2015|rowheader=true}}
+|-
+! scope="row"| Mexico ([[Mexico Espanol Airplay|''Billboard'' Ingles Airplay]])<ref>{{cite magazine|url=https://www.billboard.com/artist/jennifer-lopez/chart-history/mpe/|title=Jennifer Lopez Chart History: Mexico Espanol Airplay|magazine=Billboard|publisher=Prometheus Global Media|access-date=October 17, 2019}}</ref>
+|align="center"|34
+|-
+{{single chart|Spain|61|artist=Prince Royce feat. Jennifer Lopez & Pitbull|song=Back It Up|access-date=August 13, 2015|rowheader=true|note=Spanish version}}
+|-
+{{single chart|Billboardhot100|92|artist=Prince Royce|access-date=June 18, 2015|rowheader=true}}
+|-
+{{single chart|Billboardlatinsongs|19|artist=Prince Royce|access-date=August 18, 2015|rowheader=true|note=Spanish version}}
+|-
+{{single chart|Billboardlatinpopsongs|10|artist=Prince Royce|access-date=August 25, 2015|rowheader=true}}
+|-
+{{single chart|Billboardtropicalairplay|7|artist=Prince Royce|access-date=August 25, 2015|rowheader=true}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| US Hot Latin Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/hot-latin-songs|title=Hot Latin Songs – Year-End 2015|magazine=Billboard|access-date=June 2, 2021}}</ref><br />''Spanish version''
+| 46
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Canada|type=single|title=Back It Up|artist=Prince Royce|award=Gold|relyear=2015|certyear=2025|access-date=December 24, 2025}}
+{{Certification Table Entry|region=Poland|type=single|title=Back It Up|artist=Prince Royce feat. Pitbull|award=Gold|relyear=2015|certyear=2015|access-date=December 2, 2015}}
+{{Certification Table Entry|region=Spain|title=Back It Up|artist=Prince Royce|type=single|award=Gold|relyear=2015|certyear=2015|id=prince-royce-feat-jennifer-lopez-and-pitbull-back-it-up|access-date=June 26, 2022}}
+{{Certification Table Entry|region=United States|type=single|title=Back It Up|artist=Prince Royce|award=Gold|relyear=2015|certyear=2021|access-date=October 19, 2021}}
+{{Certification Table Bottom|streaming=true|noshipments=true}}
+
+==External links==
+*[http://www.lyricsondemand.com/p/princeroycelyrics/backituplyrics.htmlFull Lyrics at LyricsOnDemand.com]{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes }} 
+<!-- Licensed lyrics provider -->
+
+==References==
+{{reflist}}
+
+{{Prince Royce}}
+{{Jennifer Lopez singles}}
+{{Pitbull Singles}}
+
+{{authority control}}
+
+[[Category:2015 singles]]
+[[Category:Prince Royce songs]]
+[[Category:Jennifer Lopez songs]]
+[[Category:Pitbull (rapper) songs]]
+[[Category:RCA Records singles]]
+[[Category:2015 songs]]
+[[Category:Songs written by Savan Kotecha]]
+[[Category:Songs written by Ilya Salmanzadeh]]
+[[Category:Song recordings produced by Ilya Salmanzadeh]]
+[[Category:Songs written by Prince Royce]]
+[[Category:Songs written by Pitbull (rapper)]]
+[[Category:Music videos directed by Colin Tilley]]
+[[Category:Song recordings produced by Jason Evigan]]

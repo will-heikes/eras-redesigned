@@ -1,0 +1,309 @@
+{{short description|2014 single by Pitbull and Ne-Yo}}
+{{Infobox song
+| name       = Time of Our Lives
+| cover      = Pitbull and Ne-Yo - Time of Our Lives.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Pitbull (rapper)|Pitbull]] and [[Ne-Yo]]
+| album      = [[Globalization (album)|Globalization]]'' and ''[[Non-Fiction (Ne-Yo album)|Non-Fiction]]
+| released   = November 17, 2014
+| recorded   = 2014
+| studio     =
+| venue      = 
+| genre      = {{hlist|[[Dance-pop]]|[[pop rap]]}}
+| length     = {{Duration|m=3|s=49}}
+| label      = {{flat list|
+*[[Mr. 305 Inc.|Mr. 305]]
+*[[Polo Grounds Music|Polo Grounds]]
+*[[RCA Records|RCA]]}}
+| writer     = {{flat list|
+*[[Pitbull (rapper)|Armando C. Pérez]]
+*[[Dr. Luke|Lukasz Gottwald]]
+*[[Cirkut (record producer)|Henry Walter]]
+*[[Ne-Yo|Shaffer Smith]]
+*Vinay Rao
+*Stephan Taft
+*Michael "Freakin" Everett
+}}
+| producer   = {{flat list|
+*[[Dr. Luke]]
+*[[Cirkut (record producer)|Cirkut]]
+*Lifted
+}}
+| chronology = [[Pitbull (rapper)|Pitbull]]
+| prev_title = Celebrate
+| prev_year  = 2014
+| next_title = Piensas (Dile la Verdad)
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Ne-Yo]]
+ | type       = single
+ | prev_title = [[She Knows (Ne-Yo song)|She Knows]]
+ | prev_year  = 2014
+ | title      = Time of Our Lives
+ | year       = 2014
+ | next_title = [[Coming with You]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|bTXJQ5ql5Fw|"Time of Our Lives"}}}}
+}}
+
+"'''Time of Our Lives'''" is a song by American rapper [[Pitbull (rapper)|Pitbull]] and American singer [[Ne-Yo]], from the former's eighth studio album ''[[Globalization (album)|Globalization]]'' and the latter's sixth studio album ''[[Non-Fiction (Ne-Yo album)|Non-Fiction]]''. It was released on November 17, 2014, as the third single from the album by [[RCA Records]]. The single was produced by [[Dr. Luke]], [[Cirkut (record producer)|Cirkut]] and Lifted.
+
+The song marks the fourth joint production for co-producers Dr. Luke and Cirkut with Pitbull (after "[[Timber (Pitbull song)|Timber]]", "[[Wild Wild Love]]", and "[[We Are One (Ole Ola)]]") and third for Ne-Yo (after "[[She Knows (Ne-Yo song)|She Knows]]" and [[T-Pain]]'s "[[Turn All the Lights On]]"). It became Pitbull's most successful single from ''Globalization'', reaching number nine on the US [[Billboard Hot 100|''Billboard'' Hot 100]]. "Time of Our Lives" also went to number one on the US Rhythmic chart.
+
+==Music video==
+The music video was first released onto Pitbull's official [[Vevo]] channel on December 25, 2014. It was directed by [[Gil Green (director)|Gil Green]]. On January 20, 2015, a behind the scenes video was also released on the channel.<ref>{{cite AV media|url=https://www.youtube.com/watch?v=Wu0yuIEvLZY|title=Pitbull, Ne-Yo – Time of Our Lives (BTS)|date=20 January 2015|work=YouTube}}</ref> The video has received over 200 million views, making it 2x [[Vevo]] certified.<ref>{{cite web|url=https://www.youtube.com/watch?v=bTXJQ5ql5Fw|title=Pitbull – Time of Our Lives ft. Ne-Yo|date=25 December 2014 |publisher=[[YouTube]]}}</ref>
+
+The video shows Pitbull and Ne-Yo saving up their spare money to save up for a [[Millennium celebrations|New Year's Eve]] party in 1999. Pitbull appears in an old school [[Varsity team|Varsity]] jacket dancing while Ne-Yo sings along in the crowd of women while sporting a fitted hat and Aviators. American singer and actress [[Fergie (singer)|Fergie]] makes a cameo at the party.
+
+== In the media  ==
+The song is featured in the pilot episode of ''[[Cooper Barrett's Guide to Surviving Life]]'', and the 2016 films ''[[The 5th Wave (film)|The 5th Wave]]'' and ''[[Office Christmas Party]]''.
+
+==Chart performance==
+The single debuted at number 94 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart, on the week of December 13, 2014.<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2014-12-13|title=Hot 100 - 2014-12-13|magazine=[[Billboard (magazine)|Billboard]]|date=2 January 2013|access-date=March 1, 2020}}</ref> The following week, the song fell off the chart. On the week of January 3, 2015, the song re-entered the chart at number 87.<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2015-01-03|title=Hot 100 - 2015-01-03|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 1, 2020}}</ref> After climbing the chart for three months, the single reached its peak at number nine on the chart.<ref>{{cite magazine|url=https://www.billboard.com/charts/hot-100/2015-03-21|title=Hot 100 - 2015-03-21|magazine=[[Billboard (magazine)|Billboard]]|access-date=March 1, 2020}}</ref> The song is Pitbull's last US top ten hit to date. On October 16, 2020, the single was certified [[RIAA Certification|quadruple platinum]] by the [[Recording Industry Association of America]] (RIAA) for combined sales and streaming equivalent units of over four million units in the United States.<ref name="RIAA"/>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2014–2015)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Australia|12|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=March 28, 2015}}
+|-
+{{single chart|Austria|26|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Flanders Tip|3|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=March 3, 2015}}
+|-
+{{single chart|Wallonia Tip|7|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=March 3, 2015}}
+|-
+{{single chart|Canada|10|artist=Pitbull|rowheader=true|access-date=December 13, 2014}}
+|-
+{{single chart|Billboardcanadachrtop40|3|artist=Pitbull|rowheader=true|access-date=July 22, 2025}}
+|-
+! scope="row"| Colombia Anglo Airplay ([[National-Report]])<ref>{{cite web|url=http://www.national-report.com/generosColombia.php|archive-url=https://web.archive.org/web/20150507211631/http://www.national-report.com/generosColombia.php|title=ANGLO|date=27 April 2015|archive-date=7 May 2015|publisher= [[National-Report]]|language=es}}</ref>
+| 4
+|-
+{{single chart|Czech Republic|52|week=07|year=2015|access-date=8 March 2015|rowheader=true}}
+|-
+{{single chart|Czechdigital|7|week=09|year=2015|access-date=8 March 2015|rowheader=true}}
+|-
+{{single chart|Denmark|17|artist=Pitbull & Ne-Yo|song=Time of Our Lives|access-date=February 5, 2015|rowheader=true}}
+|-
+{{single chart|Dominican Republic Anglo|3|rowheader=true|date=20150309|access-date=August 4, 2026}}
+|-
+{{single chart|Finland|9|artist=Pitbull & Ne-Yo|song=Time of Our Lives|access-date=March 3, 2015|rowheader=true}}
+|-
+{{single chart|France|108|artist=Pitbull & Ne-Yo|song=Time of Our Lives|access-date=March 3, 2015|rowheader=true}}
+|-
+{{single chart|Germany|22|artist=Pitbull & Ne-Yo|song=Time of Our Lives|songid=1357010|access-date=October 22, 2018|rowheader=true}}
+|-
+{{single chart|Hungarydance|22|artist=Pitbull & Ne-Yo|song=Time Of Our Lives|week=23|year=2015|access-date=12 June 2015|rowheader=true}}
+|-
+{{single chart|Hungaryradio|4|artist=Pitbull & Ne-Yo|song=Time Of Our Lives|week=16|year=2015|access-date=23 April 2015|rowheader=true}}
+|-
+{{single chart|Hungarysingle|15|artist=Pitbull & Ne-Yo|song=Time Of Our Lives|week=9|year=2015|access-date=5 March 2015|rowheader=true}}
+|-
+{{single chart|Ireland3|36|artist=Pitbull|access-date=28 January 2020|rowheader=true}}
+|-
+! scope="row"| India International Airplay ([[Radio Mirchi|Angrezi Top 20]])<ref>{{cite web |url=http://timesofindia.indiatimes.com/entertainment/musicchart/6692253.cms?chartid=3&periodtype=4 |title=Angrezi Top 20 |publisher=[[The Times of India]] – [[Radio Mirchi]] |archive-url=http://timesofindia.indiatimes.com/entertainment/musicchart/1081479906.cms?chartid=3&periodtype=4&date=2015-02-27 |archive-date=27 February 2015 |access-date=27 February 2015}}</ref>
+| 10
+|-
+{{single chart|ItalyFIMI|31|week=10|year=2015|rowheader=true|access-date=August 4, 2026}}
+|-
+{{single chart|Billboardjapanhot100|64|artist=Pitbull||rowheader=true|access-date=August 4, 2026}}
+|-
+{{single chart|Luxembourgdigitalsongs|9|artist=Pitbull|access-date=April 26, 2015|rowheader=true}}
+|-
+{{single chart|Mexico Anglo|6|rowheader=true|date=20150420|access-date=August 4, 2026}}
+|-
+{{single chart|Dutch40|15|artist=Pitbull|song=Time Of Our Lives|access-date=April 19, 2015|rowheader=true}}
+|-
+{{single chart|Dutch100|15|artist=Pitbull & Ne-Yo|song=Time Of Our Lives|access-date=January 29, 2015|rowheader=true}}
+|-
+{{single chart|New Zealand|12|artist=Pitbull & Ne-Yo|song=Time of Our Lives|access-date=February 6, 2015|rowheader=true}}
+|-
+{{single chart|Norway|9|artist=Pitbull & Ne-Yo|song=Time of Our Lives|access-date=February 5, 2015|rowheader=true}}
+|-
+{{single chart|Poland|7|chartid=1632|year=2015|access-date=18 May 2015|rowheader=true}}
+|-
+{{single chart|Polishdance|23|chartid=1504|access-date=29 December 2014|rowheader=true}}
+|-
+{{single chart|Scotland|23|artist=Pitbull & Ne-Yo|song=Time of Our Lives|date=2015-04-04|access-date=June 8, 2015|rowheader=true}}
+|-
+{{single chart|Slovakia|25|week=06|year=2015|access-date=8 March 2015|rowheader=true}}
+|-
+{{single chart|Slovakdigital|8|week=08|year=2015|access-date=8 March 2015|rowheader=true}}
+|-
+! scope="row"| Slovenia Airplay ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=16|title=SloTop50 – Slovenian official singles chart|publisher=slotop50.si|access-date=26 February 2018|archive-date=6 January 2018|archive-url=https://web.archive.org/web/20180106063642/http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=16|url-status=dead}}</ref>
+| align=center|42
+|-
+{{single chart|South Africa|4|date=2015-02-03|rowheader=true|access-date=August 4, 2016|archive-url=https://web.archive.org/web/20200615014404/http://www.sa-ema.com/index.php/charts-board/?week=2015-02-03}}
+|-
+{{single chart|Spain|25|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=August 4, 2026}}
+|-
+{{single chart|Sweden|14|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=December 27, 2014}}
+|-
+{{single chart|Switzerland|35|artist=Pitbull & Ne-Yo|song=Time of Our Lives|rowheader=true|access-date=March 15, 2015}}
+|-
+{{single chart|UK|27|date=2015-04-04|rowheader=true|access-date=January 25, 2015}}
+|-
+{{single chart|UKrandb|5|date=2015-03-28|rowheader=true|access-date=January 25, 2015}}
+|-
+{{single chart|Billboardhot100|9|artist=Pitbull|rowheader=true|access-date=December 4, 2014}}
+|-
+{{single chart|Billboardrapsongs|1|artist=Pitbull|rowheader=true|access-date=February 12, 2015}}
+|-
+{{single chart|Billboardadultpopsongs|21|artist=Pitbull|rowheader=true|access-date=April 2, 2015}}
+|-
+{{single chart|Billboarddanceclubplay|1|artist=Pitbull|rowheader=true|access-date=January 12, 2015}}
+|-
+{{single chart|Billboardlatinairplay|18|artist=Pitbull|rowheader=true|access-date=March 26, 2015}}
+|-
+{{single chart|Billboardpopsongs|4|artist=Pitbull|rowheader=true|access-date=March 5, 2015}}
+|-
+{{single chart|Billboardrhythmic|1|artist=Pitbull|rowheader=true|access-date=February 9, 2015}}
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ 2025–2026 weekly chart performance for "Time of Our Lives"
+! scope="col"| Chart (2025–2026)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Latvia Streaming ([[LaIPA]])<ref>{{cite web |date=August 4, 2026 |title=Latvijas dziesmu topa līderiem pievienojies Pitbull |trans-title=Pitbull has joined the leaders of the Latvian music charts |url=https://sejas.tvnet.lv/8520882/latvijas-dziesmu-topa-lideriem-pievienojies-pitbull |access-date=August 14, 2026 |website={{Ill|TV Net|lv|TVNET GRUPA}} |publisher=[[Latvian Music Producers Association]] |lang=lv}}</ref>
+| 18
+|-
+! scope="row"| Lithuania ([[AGATA (organization)|AGATA]])<ref>{{cite web|url=https://www.agata.lt/lt/naujienos/s32-5/|title=2026 32-os savaitės klausomiausi (Top 100)|publisher=[[AGATA (organization)|AGATA]]|language=lt|date=August 7, 2026|access-date=August 8, 2026}}</ref>
+| 29
+|-
+! scope="row"| Poland ([[Polish music charts|Polish Streaming Top 100]])<ref>{{cite web|url=https://www.olis.pl/charts/oficjalna-lista-sprzedazy/single-w-streamie|title=OLiS – oficjalna lista sprzedaży – single w streamie|publisher=[[OLiS]]|language=pl|access-date=March 18, 2025|type=Select week 28.02.2025–06.03.2025.}}</ref>
+| 86
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!scope="col"| Chart (2015)
+!scope="col"| Position
+|-
+! scope="row"| Australia (ARIA)<ref>{{cite web|url=http://www.aria.com.au/aria-charts-end-of-year-charts-top-100-singles-2015.htm|title=ARIA Charts - End of Year Charts - Top 100 Singles 2015|publisher=[[Australian Recording Industry Association]]|access-date=January 6, 2016}}</ref>
+| 79
+|-
+! scope="row"| Australia Urban (ARIA)<ref>{{cite web|url=http://www.ariacharts.com.au/annual-charts/2015/urban-singles-chart|title= ARIA Top 100 Urban Singles 2015|publisher= ARIA|access-date=12 December 2016}}</ref>
+|align="center"|16
+|-
+! scope="row"| Canada (Canadian Hot 100)<ref>{{cite magazine|title=Canadian Hot 100: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100|magazine=Billboard|date=2 January 2013|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 45
+|-
+! scope="row"| Germany (Official German Charts)<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2015 |title=Top 100 Single-Jahrescharts|language=de |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=January 6, 2016}}</ref>
+| 96
+|-
+! scope="row"| Hungary (Dance Top 40)<ref>{{cite web|url=http://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/dance/2015|title=Dance Top 100 - 2015|access-date=November 10, 2019|publisher=[[Mahasz]]}}</ref>
+| 81
+|-
+! scope="row"| Hungary (Rádiós Top 40)<ref>{{cite web|url=http://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/radios/2015|title=Rádiós Top 100 - hallgatottsági adatok alapján - 2015|access-date=November 10, 2019|publisher=[[Mahasz]]}}</ref>
+| 34
+|-
+! scope="row"| Hungary (Single Top 40)<ref>{{cite web|url=http://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/single_db/2015|title=Single Top 100 - eladási darabszám alapján - 2015|access-date=November 10, 2019|publisher=[[Mahasz]]}}</ref>
+| 72
+|-
+! scope="row"| Italy (FIMI)<ref>{{cite web|url=http://www.fimi.it/news/classifiche-top-of-the-music-2015-fimi-gfk-la-musica-italiana-in-vetta-negli-album-e-nei-singoli-digitali|title=Classifiche "Top of the Music" 2015 FIMI-GfK: La musica italiana in vetta negli album e nei singoli digitali|publisher=[[Federazione Industria Musicale Italiana]]|language=it|access-date=January 13, 2016|archive-date=January 11, 2016|archive-url=https://web.archive.org/web/20160111221358/http://www.fimi.it/news/classifiche-top-of-the-music-2015-fimi-gfk-la-musica-italiana-in-vetta-negli-album-e-nei-singoli-digitali|url-status=dead}}</ref>
+| 76
+|-
+! scope="row"| Netherlands (Dutch Top 40)<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2015|title=Top 100-Jaaroverzicht van 2015|publisher=Dutch Top 40|access-date=November 9, 2019}}</ref>
+| 62
+|-
+! scope="row"| Netherlands (Single Top 100)<ref>{{cite web|url=http://dutchcharts.nl/jaaroverzichten.asp?year=2015&cat=s|title=Jaaroverzichten – Single 2015|publisher=Hung Medien|access-date=November 9, 2019}}</ref>
+| 38
+|-
+! scope="row"| New Zealand (Recorded Music NZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-singles/2015-12-31|title=Top Selling Singles of 2015|publisher=[[Recorded Music NZ]]|access-date=December 25, 2015}}</ref>
+| 30
+|-
+! scope="row"| Poland (ZPAV)<ref>{{cite web|title=Airplay – podsumowanie 2015 roku|url=http://bestsellery.zpav.pl/aktualnosci.php?idaktualnosci=1305|archive-url=https://web.archive.org/web/20160129000110/http://bestsellery.zpav.pl/aktualnosci.php?idaktualnosci=1305|url-status=dead|archive-date=January 29, 2016|language=pl|publisher=[[Polish Society of the Phonographic Industry]]|access-date=December 30, 2015}}</ref>
+| 34
+|-
+! scope="row"| Spain (PROMUSICAE)<ref name = "SPAYE2015">{{cite web|url=https://www.elportaldemusica.es/lists/top-100-canciones/2015|title=Top 100 Songs Annual 2015|publisher=[[Productores de Música de España]]|language=es|access-date=May 9, 2022}}</ref>
+| 58
+|-
+! scope="row"| Sweden (Sverigetopplistan)<ref>{{cite web|url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=43&dfom=20150001&navi=no|title=Årslista Singlar – År 2015 |language=sv |publisher=[[Sverigetopplistan]]. [[Swedish Recording Industry Association]] |access-date=December 8, 2016}}</ref>
+| 53
+|-
+! scope="row"| US ''Billboard'' Hot 100<ref>{{cite magazine|title=Hot 100: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-100-songs|magazine=Billboard|publisher=billboard.com|access-date=December 10, 2015}}</ref>
+| 39
+|-
+! scope="row"| US Dance Club Songs (''Billboard'')<ref>{{cite magazine|title=Dance Club Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/dance-club-songs|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 36
+|-
+! scope="row"| US Mainstream Top 40 (''Billboard'')<ref>{{cite magazine|title=Pop Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/pop-songs|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 24
+|-
+! scope="row"| US Hot Rap Songs (''Billboard'')<ref>{{cite magazine|title=Rap Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-rap-songs|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 6
+|-
+!scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|title=Rhythmic Songs: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/rhythmic-songs|magazine=Billboard|publisher=billboard.com|access-date=December 12, 2015}}</ref>
+| 9
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|type=single|relyear=2014|certyear=2017|artist=Pitbull feat. Ne-Yo|title=Time of Our Lives|award=Platinum|number=2|access-date=October 13, 2021}}
+{{Certification Table Entry|region=Denmark|relyear=2014|certyear=2026|title=Time of Our Lives|artist=Pitbull & Ne-Yo|type=single|award=Platinum|number=3|id=17225|access-date=July 22, 2026}}
+{{Certification Table Entry|region=Germany|artist=Pitbull & Ne-Yo|title=Time of Our Lives|award=Platinum|type=single|relyear=2014|relmonth=11|certyear=2023|access-date=June 20, 2023}}
+{{Certification Table Entry|region=Italy|type=single|title=Time of Our Lives|artist=Pitbull & Ne-Yo|award=Platinum|relyear=2015|certyear=2015|certweek=29|id=3121|access-date=February 27, 2015}}
+{{Certification Table Entry|region=New Zealand|type=single|relyear=2014|certyear=2026|artist=Pitbull and Ne-Yo|title=Time of Our Lives|award=Platinum|number=7|source=radioscope|access-date=August 14, 2026}}
+{{Certification Table Entry|region=Spain|type=single|relyear=2014|certyear=2015|artist=Ne-Yo, Pitbull|title=Time of Our Lives|award=Platinum|id=ne-yo-pitbull-time-of-our-lives|access-date=June 21, 2015}}
+{{Certification Table Entry|region=Sweden|type=single|relyear=2014|certyear=2015|artist=Pitbull and Ne-Yo|title=Time of Our Lives|award=Platinum|certweek=20|position=31|access-date=December 26, 2015}}
+{{Certification Table Entry|region=United Kingdom|relyear=2014|certyear=2024|title=Time of Our Lives|artist=Pitbull ft Ne-Yo|type=single|award=Platinum|number=2|id=13297-4035-1|access-date=July 19, 2024}}
+{{Certification Table Entry|region=United States|type=single|artist=Pitbull & Ne-Yo|title=Time of Our Lives|award=Platinum|number=8|relyear=2014|certyear=2025|access-date=September 18, 2025|refname="RIAA"}}
+{{Certification Table Bottom|streaming=true|noshipments=true|nosales=true}}
+
+==Release history==
+{|class="wikitable plainrowheaders"
+|-
+! Region
+! Date
+! Format
+! Label
+|-
+! scope="row"| Worldwide<ref>{{cite web |url=http://www.rcarecordspress.com/node/3777 |title=Pitbull – Time of Our Lives (RELEASE) |publisher=[[RCA Records]] |access-date=November 17, 2014}}</ref>
+| November 17, 2014
+| [[Music download|Digital download]]
+| rowspan="3"| {{flat list|
+* [[Mr. 305]]
+* [[Polo Grounds Music]]
+* [[RCA Records]]}}
+|-
+! scope="row"| United States<ref>{{cite web|url=http://www.fmqb.com/Article.asp?id=16687|title=FMQB: Radio Industry News, Music Industry Updates, Nielsen Ratings, Music News and more!|work=fmqb.com|url-status=dead|archive-url=https://web.archive.org/web/20111017090950/http://fmqb.com/Article.asp?id=16687|archive-date=2011-10-17}}</ref>
+| December 12, 2014
+| [[Rhythmic contemporary]] radio
+|-
+! scope="row"| Italy<ref>{{cite web|url=http://www.radioairplay.fm/RadioDate/PublicDetails/102900|title=PITBULL - Time Of Our Lives (RCA Records) - Radio Date 30/01/2015|work=radioairplay.fm|url-status=dead|archive-url=https://web.archive.org/web/20150224183219/http://www.radioairplay.fm/RadioDate/PublicDetails/102900|archive-date=2015-02-24}}</ref>
+| January 30, 2015
+| [[Contemporary hit radio]]
+|}
+
+==See also==
+* [[List of number-one dance singles of 2015 (U.S.)]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Pitbull Singles}}
+{{Ne-Yo}}
+
+[[Category:2014 songs]]
+[[Category:2014 singles]]
+[[Category:Pitbull (rapper) songs]]
+[[Category:Ne-Yo songs]]
+[[Category:Songs written by Ne-Yo]]
+[[Category:Songs written by Dr. Luke]]
+[[Category:Songs written by Cirkut]]
+[[Category:Song recordings produced by Dr. Luke]]
+[[Category:Song recordings produced by Cirkut]]
+[[Category:RCA Records singles]]

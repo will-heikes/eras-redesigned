@@ -1,0 +1,209 @@
+{{short description|2014 single by Eminem}}
+{{Use mdy dates|date=March 2014}}
+{{Infobox song
+| name          = Headlights
+| cover         = HeadlightsEminem.jpg
+| alt           = 
+| type          = single
+| artist        = [[Eminem]] featuring [[Nate Ruess]]
+| album         = [[The Marshall Mathers LP 2]]
+| released      = February 5, 2014
+| recorded      = 2013
+| studio        = Effigy ([[Ferndale, Michigan]])
+| genre         = {{hlist|[[Conscious hip hop]]|[[indie pop]]}}
+| length        = {{Duration|m=5|s=43}} (album version)<br>
+{{Duration|m=4|s=10}} (music video)
+| label         = {{hlist|[[Aftermath Entertainment|Aftermath]]|[[Shady Records|Shady]]|[[Interscope Records|Interscope]]}}
+| writer        = {{hlist|[[Eminem|Marshall Mathers]]|[[Nate Ruess|Nathaniel Ruess]]|[[Emile Haynie]]|[[Jeff Bhasker]]|[[Luis Resto (musician)|Luis Resto]]}}
+| producer      = {{hlist|[[Emile Haynie]]|[[Jeff Bhasker]]|[[Eminem]] (add.)}}
+| tracks        = 
+| misc          = {{Extra chronology
+ | artist     = [[Eminem]]
+ | type       = single
+ | prev_title = [[The Monster (song)|The Monster]]
+ | prev_year  = 2013
+ | title      = Headlights
+ | year       = 2013
+ | next_title = [[Calm Down (Busta Rhymes song)|Calm Down]]
+ | next_year  = 2014
+}}
+{{Extra chronology
+ | artist     = [[Nate Ruess]]
+ | type       = single
+ | prev_title = [[Just Give Me a Reason]]
+ | prev_year  = 2013
+ | title      = Headlights
+ | year       = 2013
+ | next_title = [[Nothing Without Love]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|7bDLIV96LD4|"Headlights"}}
+}}
+}}
+
+"'''Headlights'''" is a song by American rapper [[Eminem]], featuring American singer [[Nate Ruess]] of the band [[Fun (band)|Fun]]. It was originally released on as a fifteenth track song from the former's eighth studio album ''[[The Marshall Mathers LP 2]]'', before it was sent to [[Australia]] as a fifth and final single on February 5, 2014.
+
+It was written by Eminem, [[Emile Haynie]], [[Jeff Bhasker]], [[Luis Resto (musician)|Luis Resto]], and Ruess, while being produced by the former three. In the song, Eminem apologizes to his mother, [[Debbie Mathers]], for criticizing her in his earlier songs and for showing scorn and resentment towards her in the past. The song peaked at number 45 on the [[Billboard Hot 100|''Billboard'' Hot 100]].
+
+== Background and composition ==
+{{listen
+| filename     = Headlights Eminem audio sample.ogg
+| title        = "Headlights"
+| description  = A 30-second sample of "Headlights" by [[Eminem]] featuring [[Fun (band)|Fun]]'s lead singer [[Nate Ruess]] from his eighth studio LP ''The Marshall Mathers LP 2''.
+| format       = [[Ogg]]
+}}
+[[Eminem]] had a difficult relationship with his mother since childhood. In his music, Eminem dissed her on various songs, including his breakthrough hit, "[[My Name Is]]", "[[Role Model (song)|Role Model]]", "[[Kill You (Eminem song)|Kill You]]", "[[Relapse (Eminem album)#Track listing|My Mom]]", "[[Without Me (Eminem song)|Without Me]]", "Marshall Mathers", "Criminal", and most notably "[[Cleanin' Out My Closet]]."<ref>{{cite web |last=Tardio |first=Andres |url=http://www.hiphopdx.com/index/news/id.26033/title.eminem-apologizes-to-his-mother-on-headlights- |title=Eminem Apologizes To His Mother On "Headlights" &#124; Get The Latest Hip Hop News, Rap News & Hip Hop Album Sales |publisher=HipHop DX |date=October 30, 2013 |access-date=November 22, 2013 |archive-url=https://web.archive.org/web/20141113045157/http://www.hiphopdx.com/index/news/id.26033/title.eminem-apologizes-to-his-mother-on-headlights- |archive-date=November 13, 2014 |url-status=dead }}</ref> "Headlights" is an apology to his mother for the years of insults and "his plea for a united (or at least less dysfunctional) family."<ref>{{cite news|author=Jon Caramanica|url=https://www.nytimes.com/2013/11/06/arts/music/eminem-grows-older-but-not-up.html?_r=0|title=Eminem Grows Older, but Not Up|date=November 5, 2013|work=The New York Times|archive-date=August 2, 2021|access-date=February 27, 2017|archive-url=https://web.archive.org/web/20210802142857/https://www.nytimes.com/2013/11/06/arts/music/eminem-grows-older-but-not-up.html?_r=0|url-status=live}}</ref> The title "Headlights" is a reference to their last meeting. As she drove away, he became fixated on the headlights of her car as he coped with feelings of "overwhelming sadness." He admits to his recklessness with lyrics directed towards his mom in the very first line, not really knowing his words would hurt her that much. In the song, Eminem references a few incidents from their rocky relationship, getting kicked out of the house on Christmas Eve, constant fighting, and his younger brother Nathan's removal to foster care. He also expresses regret that he has never let his mother be involved in his children's lives. In the song he acknowledges that his mother wrongfully endured the brunt of the blame for his tough upbringing and even gives her credit for her efforts to raise him as a single parent.<ref>{{cite magazine |author=Billy Johnson, Jr. |url=https://www.rollingstone.com/music/news/eminem-finally-apologizes-to-mom-on-headlights-20131031 |title=Eminem Finally Apologizes to Mom on Headlights &#124; Music News |magazine=Rolling Stone |date=October 31, 2013 |access-date=November 22, 2013 |archive-date=November 21, 2017 |archive-url=https://web.archive.org/web/20171121160138/http://www.rollingstone.com/music/news/eminem-finally-apologizes-to-mom-on-headlights-20131031 |url-status=live }}</ref> Eminem admits that he remains estranged from his mother to this day.<ref>{{cite web |url=http://on.aol.com/video/eminem-apologizes-to-his-mother-in-new-track--headlights--517995584 |title=Eminem Apologizes To His Mother In New Track "Headlights" - AOL On |publisher=On.aol.com |date=October 31, 2013 |access-date=November 22, 2013 |archive-date=December 3, 2013 |archive-url=https://web.archive.org/web/20131203162256/http://on.aol.com/video/eminem-apologizes-to-his-mother-in-new-track--headlights--517995584 |url-status=dead }}</ref> He also states that he cringes when he hears "Cleanin' Out My Closet" on the radio and he no longer performs it at shows.<ref>{{cite web |url=http://www.rap-up.com/2013/10/30/eminem-apologizes-to-his-mother-on-headlights/ |title=Eminem Apologizes to His Mother on 'Headlights' |publisher=Rap-Up.com |date=October 30, 2013 |access-date=November 22, 2013 |archive-date=December 22, 2015 |archive-url=https://web.archive.org/web/20151222124719/http://www.rap-up.com/2013/10/30/eminem-apologizes-to-his-mother-on-headlights/ |url-status=dead }}</ref><ref>{{cite web |url=http://www.ibtimes.com/eminem-apologizes-mother-debbie-mathers-headlights-audio-1448846 |title=Eminem Apologizes To Mother Debbie Mathers In 'Headlights' [AUDIO&#93; |publisher=Ibtimes.com |date=October 30, 2013 |access-date=November 22, 2013 |archive-date=October 3, 2015 |archive-url=https://web.archive.org/web/20151003183830/http://www.ibtimes.com/eminem-apologizes-mother-debbie-mathers-headlights-audio-1448846 |url-status=live }}</ref>
+
+In an interview with [[Sway Calloway]], Eminem stated that, "everything he wanted to address" in regard to his mother is on "Headlights" and he likely will not speak on the topic outside of that particular song.<ref>{{cite web |last=Harling |first=Danielle |url=http://www.hiphopdx.com/index/news/id.26143/title.eminem-says-pharoahe-monch-is-ahead-of-his-time |title=Eminem Says Pharoahe Monch Is Ahead Of His Time &#124; Get The Latest Hip Hop News, Rap News & Hip Hop Album Sales |publisher=HipHop DX |date=November 6, 2013 |access-date=November 22, 2013 |archive-url=https://web.archive.org/web/20131111211729/http://www.hiphopdx.com/index/news/id.26143/title.eminem-says-pharoahe-monch-is-ahead-of-his-time |archive-date=November 11, 2013 |url-status=dead }}</ref> He also told [[Zane Lowe]] that; {{Blockquote|"It was one of those things that’s bothered me for a little bit. It was one of those things that I needed to get off my chest. So I don’t really have anything to elaborate or expand on that record other than everything that I needed to say, I put on that record."<ref>{{cite web |url=http://theboombox.com/eminem-zane-lowe-interview-part-3/ |title=Eminem in Zane Lowe Interview (Part 3) |date=November 21, 2013 |publisher=Theboombox.com |access-date=November 22, 2013 |archive-date=September 23, 2015 |archive-url=https://web.archive.org/web/20150923063916/http://theboombox.com/eminem-zane-lowe-interview-part-3/ |url-status=live }}</ref>}}
+
+Debbie Mathers (Nelson) died due to complications from [[lung cancer]] on December 2, 2024.<ref>{{Cite news |date=December 3, 2024 |title=Eminem's mother Debbie Nelson dies from lung cancer, per reports |url=https://www.macombdaily.com/2024/12/03/eminems-mother-debbie-nelson-dies-from-lung-cancer-per-reports/ |access-date=July 8, 2025 |newspaper=[[The Macomb Daily]] |archive-date=February 7, 2025 |archive-url=https://web.archive.org/web/20250207230842/https://www.macombdaily.com/2024/12/03/eminems-mother-debbie-nelson-dies-from-lung-cancer-per-reports/ |url-status=live }}</ref><ref>{{Cite magazine |first1=Marina |last1=Watts |first2=Jeff |last2=Nelson |title=Debbie Nelson, Eminem's Mother, Dies at 69 |url=https://people.com/debbie-nelson-eminem-mom-dead-age-69-8754369 |date=December 3, 2024 |access-date=July 8, 2025 |magazine=People |archive-date=January 5, 2025 |archive-url=https://web.archive.org/web/20250105114614/https://people.com/debbie-nelson-eminem-mom-dead-age-69-8754369 |url-status=live }}</ref>
+
+==Recording==
+"Headlights" was [[Record production|produced]] by [[Emile Haynie|Emile]] and [[Jeff Bhasker]], with additional production by Eminem and additional keyboards by [[Luis Resto (musician)|Luis Resto]]. The song was written by Eminem, [[Nate Ruess]], Emile Haynie, Jeff Bhasker, and Luis Resto. Recording for the song was done at Effigy Studios in [[Ferndale, Michigan]] by Mike Strange, Joe Strange and Tony Campana.<ref>{{cite web |url=http://www.xxlmag.com/news/2013/11/eminem-real-production-credits-mmlp-2/ |title=Here Are Eminem's Real Production Credits For 'MMLP 2' - XXL |publisher=Xxlmag.com |date=November 1, 2013 |access-date=November 22, 2013 |archive-date=March 3, 2016 |archive-url=https://web.archive.org/web/20160303200413/http://www.xxlmag.com/news/2013/11/eminem-real-production-credits-mmlp-2/ |url-status=live }}</ref> The song's intro, bridge, and [[refrain]] is sung by [[Fun.]]'s lead singer Nate Ruess.<ref>{{cite web|url=http://buzzworthy.mtv.com/2013/10/30/eminem-love-game-kendrick-lamar-headlights-nate-ruess/ |archive-url=https://web.archive.org/web/20131101233558/http://buzzworthy.mtv.com/2013/10/30/eminem-love-game-kendrick-lamar-headlights-nate-ruess |url-status=dead |archive-date=November 1, 2013 |title=Eminem Embraces Pop On 'Love Game' Featuring Kendrick Lamar + 'Headlights' Featuring fun.'s Nate Ruess (NSFW) |publisher=Buzzworthy.mtv.com |date=October 30, 2013 |access-date=November 22, 2013}}</ref>
+
+==Critical reception==
+"Headlights" was met with generally positive reviews from [[music critic]]s. Julie Leconte of ''[[Now (newspaper)|Now]]'' said: "The track's genius partially lies in the anticipatory tension it creates in the listener. Em loves to set us up with faux sentimentality, then laugh when we’re duped. But on 'Headlights' the shoe never drops, leaving us with really sad insight into their non-relationship."<ref>{{cite web |author=Julia LeConte |url=http://www.nowtoronto.com/music/story.cfm?content=195155 |title=Eminem - The Marshall Mathers LP 2 &#124; NOW Magazine |publisher=Nowtoronto.com |date=November 5, 2013 |access-date=November 22, 2013 |archive-date=November 10, 2013 |archive-url=https://web.archive.org/web/20131110035832/http://www.nowtoronto.com/music/story.cfm?content=195155 |url-status=live }}</ref> Colin McGuire of [[PopMatters]] said that the song "gives us quite possibly the most touching moment Em has ever put on wax".<ref>{{cite magazine |last=McGuire |first=Colin |url=http://www.popmatters.com/review/176178-eminem-the-marshall-mathers-lp2/ |title=Eminem: The Marshall Mathers LP2 |magazine=PopMatters |access-date=November 22, 2013 |archive-date=November 7, 2013 |archive-url=https://web.archive.org/web/20131107081336/http://www.popmatters.com/review/176178-eminem-the-marshall-mathers-lp2/ |url-status=live }}</ref>
+
+DJ Booth stated that "even though the hook on 'Headlights', by Fun's Nate Ruess, is light and airy exactly where it should have been deep, the raw and crushingly emotional lyrics from Eminem, especially ones that put an end to his running feud with his mother, are more than powerful enough to make 'Headlights' remarkable".<ref>{{cite web |author=Eminem |url=http://www.djbooth.net/index/albums/review/eminem-the-marshall-mathers-lp-2 |title=Eminem - The Marshall Mathers LP 2 - Stream & Read Album Review |publisher=Djbooth.net |access-date=November 22, 2013 |archive-date=December 5, 2013 |archive-url=https://web.archive.org/web/20131205062906/http://www.djbooth.net/index/albums/review/eminem-the-marshall-mathers-lp-2 |url-status=live }}</ref> Andy Gill of ''[[The Independent]]'' also praised the track, calling it "an almost shockingly apologetic love-letter to the mother he once denigrated so viciously".<ref>{{cite news|author=Andy Gill |url=https://www.independent.co.uk/arts-entertainment/music/reviews/album-review-eminem-the-marshall-mathers-lp-2-shadyinterscope-8926714.html |archive-url=https://ghostarchive.org/archive/20220509/https://www.independent.co.uk/arts-entertainment/music/reviews/album-review-eminem-the-marshall-mathers-lp-2-shadyinterscope-8926714.html |archive-date=May 9, 2022 |url-access=subscription |url-status=live |title=Album review: Eminem, The Marshall Mathers LP 2 (Shady/Interscope) - Reviews - Music |newspaper=The Independent |date=November 8, 2013 |access-date=November 22, 2013 |location=London}}</ref> [[Edna Gundersen]] of ''[[USA Today]]'' stated that "it's an admirable confession" but "a so-so track".<ref>{{cite news |author=Edna Gundersen, USA TODAY 10:07 a.m. EST November 5, 2013 |url=https://www.usatoday.com/story/life/music/2013/11/01/eminem-marshall-mathers-lp-2-listen-up-review/3322311/ |title=Review: Eminem's 'MMLP2' returns to original's wild wit |publisher=Usatoday.com |date=November 5, 2013 |access-date=November 22, 2013 |archive-date=January 7, 2014 |archive-url=https://web.archive.org/web/20140107041325/http://www.usatoday.com/story/life/music/2013/11/01/eminem-marshall-mathers-lp-2-listen-up-review/3322311/ |url-status=live }}</ref>
+
+==Music video==
+The music video was filmed in [[Detroit]], [[Michigan]] on April 5, 2014, and directed by [[Academy Award]] winning film director [[Spike Lee]].<ref>{{cite web|url=http://www.vibe.com/article/eminem-recruits-spike-lee-headlights-video-detroit|title=Eminem Recruits Spike Lee For 'Headlights' Video In Detroit|date=April 5, 2014|website=Vibe.com|access-date=December 12, 2017|archive-date=October 28, 2014|archive-url=https://web.archive.org/web/20141028144443/http://www.vibe.com/article/eminem-recruits-spike-lee-headlights-video-detroit|url-status=live}}</ref> It was released on May 11, 2014, [[Mother's Day]] in the United States.<ref>{{cite web|title=Watch Eminem's "Headlights" Video (Directed by Spike Lee)|url=http://www.complex.com/music/2014/05/eminem-headlights-video|publisher=Complex Media|date=May 11, 2014|access-date=May 11, 2014|archive-date=February 19, 2015|archive-url=https://web.archive.org/web/20150219160849/http://www.complex.com/music/2014/05/eminem-headlights-video|url-status=live}}</ref> The video takes a non-chronological look at the turbulent relationship from his mother's first-person perspective.<ref>{{cite web|url=http://www.xxlmag.com/rap-music/new-music/2014/05/eminem-reconciles-mother-headlights-video/|title=Eminem Reconciles With Mother In "Headlights" Video - XXL|website=XXL Mag|date=May 11, 2014|access-date=December 12, 2017|archive-date=May 15, 2014|archive-url=https://web.archive.org/web/20140515120357/http://www.xxlmag.com/rap-music/new-music/2014/05/eminem-reconciles-mother-headlights-video/|url-status=live}}</ref> This music video, running at 4 minutes and 10 seconds, uses the shortened version, in which Ruess' first chorus before Eminem's first verse, and the third verse (which is majorly sung by Ruess) before the end of its album version, are omitted.
+
+==Track listing==
+{{track_listing
+| extra_column = Producer(s)
+
+| title1  = Headlights
+| note1   =
+| writer1 = {{hlist|[[Eminem|Marshall Mathers]]|[[Nate Ruess|Nathaniel Ruess]]|[[Emile Haynie]]|[[Jeff Bhasker]]|[[Luis Resto (musician)|Luis Resto]]}}
+| extra1  = {{hlist|[[Emile Haynie]]|[[Jeff Bhasker]]|[[Eminem]]{{small|{{ref|a|[a]}}}}}}
+| length1 = {{duration|m=5|s=43}}
+}}
+
+;Notes
+*{{sup|{{note|a|[a]}}}} signifies an additional producer.
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders"
+|-
+! scope="col"| Chart (2013–14)
+! scope="col"| Peak<br>position
+|-
+{{single chart|Australia|21|artist=Eminem feat. Nate Ruess|song=Headlights|date=February 9, 2014|rowheader=true}}
+|-
+!scope="row"|Australia Urban ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.aria.com.au/Issue1254.pdf|archive-url=https://webarchive.nla.gov.au/awa/20140318130000/http://pandora.nla.gov.au/pan/23790/20140319-0000/Issue1254.pdf|url-status=dead|archive-date=2014-03-18|title=ARIA Report|publisher=ARIA Charts|access-date=April 14, 2014}}{{cbignore|bot=medic}}</ref>
+|align=center|4
+|-
+{{single chart|Flanders Tip|64|artist=Eminem feat. Nate Ruess|song=Headlights|access-date=May 25, 2014|rowheader=true}}
+|-
+{{single chart|Flanders Urban|40|artist=Eminem feat. Nate Ruess|song=Headlights|access-date=May 25, 2014|rowheader=true}}
+|-
+{{single chart|Canada|54|artist=Eminem|song=Headlights|rowheader=true}}
+|-
+{{single chart|Ireland|60|year=2014|week=11|rowheader=true}}
+|-
+!scope="row"|UK Singles ([[Official Charts Company|OCC]])<ref>{{cite web|last=Zywietz|first=Tobias|title=Chart Log UK|url=http://www.zobbel.de/cluk/131116cluk.txt|work=Zobbel.de|publisher=Tobias Zywietz|access-date=February 15, 2014|date=February 15, 2014|archive-date=December 31, 2014|archive-url=https://web.archive.org/web/20141231093427/http://www.zobbel.de/cluk/131116cluk.txt|url-status=live}}</ref>
+| align="center"| 63
+|-
+{{single chart|UKrandb|9|artist=Eminem|date=2014-07-12|rowheader=true}}
+|-
+{{single chart|Billboardhot100|45|artist=Eminem|song=Headlights|rowheader=true}}
+|-
+{{single chart|Billboardrandbhiphop|11|artist=Eminem|song=Headlights|rowheader=true}}
+|-
+{{single chart|Billboardpopsongs|25|artist=Eminem|song=Headlights|rowheader=true}}
+|-
+{{single chart|Billboardrhythmic|17|artist=Eminem|song=Headlights|access-date=May 1, 2014|rowheader=true}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Position
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs – Year-End 2014|magazine=Billboard|access-date=December 27, 2019|archive-date=August 9, 2020|archive-url=https://web.archive.org/web/20200809064333/http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|url-status=live}}</ref>
+| align="center"| 67
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|certyear=2024|relyear=2014|artist=Eminem feat. Nate Russ|title=Headlights|award=Platinum|number=2|type=single|access-date=June 30, 2024}}
+{{Certification Table Entry|region=New Zealand|certyear=2020|relyear=2014|artist=Eminem feat. Nate Russ|title=Headlights|award=Gold|type=single|access-date=December 18, 2024|source=radioscope}}
+{{Certification Table Entry|region=United Kingdom|type=single|award=Silver|artist=Eminem Ft Nate Ruess|title=Headlights|relyear=2013|certyear=2019|access-date=June 23, 2019|id=15741-4993-1}}
+{{Certification Table Entry|region=United States|type=single|award=Platinum|artist=Eminem|title=Headlights|relyear=2013|certyear=2018|digital=true|access-date=February 28, 2018}}
+{{Certification Table Bottom|nosales=true|streaming=true|noshipments=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! Country
+! Date
+! Format
+! Label
+|-
+! scope="row"| Australia<ref>{{cite journal |url=http://www.themusicnetwork.com/chart-wrap-pharrell-gets-happy-avicii-vance-hit-new-highs/ |title=Chart Wrap: Pharrell gets happy, Avicii and Vance hit new highs |journal=[[The Music Network]] |date=February 3, 2014 |access-date=February 6, 2014 |author=Mulherin, Daniel |archive-date=February 3, 2014 |archive-url=https://web.archive.org/web/20140203045222/http://www.themusicnetwork.com/chart-wrap-pharrell-gets-happy-avicii-vance-hit-new-highs/ |url-status=dead }}</ref><ref>{{cite web |url=http://www.radiotoday.com.au/airplay/the-music-network/4133-the-music-network-chart-wrap-feb-5.html |title=''The Music Network'' Chart Wrap: Feb 5 |publisher=Radio Today |date=February 5, 2014 |access-date=February 6, 2014 |archive-date=April 3, 2016 |archive-url=https://web.archive.org/web/20160403210307/http://www.radiotoday.com.au/airplay/the-music-network/4133-the-music-network-chart-wrap-feb-5.html |url-status=live }}</ref>
+| February 5, 2014
+| [[Contemporary hit radio]]
+| [[Universal Music Group|Universal Music]]
+|-
+! scope="row" rowspan="2"| United States<ref>{{cite web |url=http://www.allaccess.com/top40-rhythmic/future-releases |title=Top 40/Rhythmic-Crossover > Future Releases |publisher=All Access Music Group |access-date=February 13, 2014 |archive-url=https://web.archive.org/web/20131104194137/http://www.allaccess.com/top40-rhythmic/future-releases |url-status=live |archive-date=November 4, 2013}}</ref><ref>{{cite web |url=http://www.allaccess.com/top40-mainstream/future-releases |title=Top 40/Mainstream > Future Releases |publisher=All Access Music Group |archive-url=https://web.archive.org/web/20140226202118/http://www.allaccess.com/top40-mainstream/future-releases |access-date=February 15, 2014 |url-status=live |archive-date=February 26, 2014}}</ref>
+| rowspan="2"| March 4, 2014
+| [[Rhythmic contemporary]] radio
+| rowspan="2"| {{flatlist|
+* [[Aftermath Entertainment|Aftermath]]
+* [[Shady Records|Shady]]
+* [[Interscope Records|Interscope]]
+}}
+|-
+| Contemporary hit radio
+|-
+! scope="row"| Italy<ref>{{cite web |url=http://www.radioairplay.fm/RadioDate/PublicDetails/62047 |title=Eminem – Headlights (feat. Nate Ruess) (Aftermath Records) |publisher=Radio Airplay SRL |access-date=April 10, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140413190951/http://www.radioairplay.fm/RadioDate/PublicDetails/62047 |archive-date=April 13, 2014 |df=mdy-all }}</ref>
+| April 11, 2014
+| rowspan="2"| Contemporary hit radio
+| rowspan="2"| {{flatlist|
+* Aftermath
+* Interscope
+}}
+|-
+! scope="row"| United Kingdom<ref>{{cite web |url=http://www.officialcharts.com/chart-news/this-weeks-new-releases-19-05-2014-3024/ |title=This Week's New Releases 19-05-2014 |publisher=[[Official Charts Company]] |access-date=May 19, 2014 |author=Lane, Daniel |archive-date=May 19, 2014 |archive-url=https://web.archive.org/web/20140519130735/http://www.officialcharts.com/chart-news/this-weeks-new-releases-19-05-2014-3024/ |url-status=live }}</ref>
+| May 19, 2014
+|-
+|}
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{YouTube|7bDLIV96LD4|"Eminem - Headlights ft. Nate Ruess" music video}}
+*[http://www.directlyrics.com/eminem-headlights-lyrics.html Eminem "Headlights " lyrics]
+
+{{Eminem singles}}
+
+{{authority control}}
+
+[[Category:2014 singles]]
+[[Category:2013 songs]]
+[[Category:Eminem songs]]
+[[Category:Indie pop songs]]
+[[Category:Interscope Records singles]]
+[[Category:Music videos directed by Spike Lee]]
+[[Category:Sequel songs]]
+[[Category:Song recordings produced by Emile Haynie]]
+[[Category:Song recordings produced by Eminem]]
+[[Category:Song recordings produced by Jeff Bhasker]]
+[[Category:Songs about mothers]]
+[[Category:Songs written by Emile Haynie]]
+[[Category:Songs written by Eminem]]
+[[Category:Songs written by Jeff Bhasker]]
+[[Category:Songs written by Nate Ruess]]
+[[Category:Torch songs]]

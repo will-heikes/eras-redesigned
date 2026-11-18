@@ -1,0 +1,578 @@
+{{Short description|none}}
+{{Use mdy dates|date=June 2024}}
+{{Infobox artist discography
+| Artist       = [[Aloe Blacc]]
+| Image        = Aloe Blacc Coachella 2014 Weekend 2 Day 1 (13929834045).jpg
+| Caption      = Aloe Blacc performing at the 2014 [[Coachella Valley Music and Arts Festival]]
+| Studio       = 5
+| EP           = 5
+| Singles      = 48
+| Music videos = 
+}}
+
+The [[discography]] of American singer [[Aloe Blacc]] consists of five [[studio album]]s, five [[extended play]]s and 47 [[Single (music)|single]]s. On July 11, 2006, he released his first [[LP record|LP]] album, ''[[Shine Through]]''. He then toured across Europe and the US with Emanon, while working on his second solo album. In 2010, Blacc released his second album, ''[[Good Things (Aloe Blacc album)|Good Things]]'', on Stones Throw records. The first single "[[I Need a Dollar]]", made major chart success in over 15 countries in Europe, peaking number 2 on the [[UK Singles Chart]] and also charting in the top 20 in Australia and New Zealand. He later released a second single from the album, "[[Loving You Is Killing Me]]" which also attained chart success in Austria, Germany and Switzerland. In 2013, Blacc collaborated with Swedish DJ/Producer [[Avicii]] on a song titled "[[Wake Me Up!]]" for the first single from Avicii's debut studio album ''[[True (Avicii album)|True]]''. Blacc partnered up with [[Coca-Cola]] in 2014 and released an exclusive charity single titled "Together (RED)". The money paid for the song was donated to [[HIV/AIDS|AIDS]] research.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{Sronly|List of studio albums, with selected chart positions and certifications}}
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite magazine |url=https://www.billboard.com/artist/aloe-blacc/chart-history/tlp/ |title=Aloe Blacc Chart History: ''Billboard'' 200 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=August 18, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Top R&B/Hip-Hop Albums|US<br />R&B]]<br /><ref name="US-R&B-albums">{{cite magazine |url=https://www.billboard.com/artist/aloe-blacc/chart-history/blp/ |title=Aloe Blacc Chart History: Top R&B/Hip-Hop Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=August 18, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Aloe+Blacc |title=Discography Aloe Blacc |work=australian-charts.com |publisher=Hung Medien |accessdate=July 22, 2014}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web |url=http://austriancharts.at/showinterpret.asp?interpret=Aloe+Blacc |title=Discographie Aloe Blacc |work=austriancharts.at |publisher=Hung Medien |accessdate=July 22, 2014 |language=German}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="BEL (FL)">{{cite web |url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Aloe+Blacc |title=Discografie Aloe Blacc |work=ultratop.be |publisher=Hung Medien |accessdate=October 27, 2025 |language=Dutch}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web |url=http://lescharts.com/showinterpret.asp?interpret=Aloe+Blacc |title=Discographie Aloe Blacc |work=lescharts.com |publisher=Hung Medien |accessdate=July 22, 2014 |language=French}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment Charts|GER]]<br /><ref name="GER-albums">{{cite web|url=https://www.offiziellecharts.de/suche?artistId=Aloe+Blacc|title=Discographie von Aloe Blacc|publisher=GfK Entertainment|accessdate=October 9, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=Aloe+Blacc |title=Discography Aloe Blacc |work=charts.nz |publisher=Hung Medien |accessdate=July 22, 2014}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web |url=http://hitparade.ch/showinterpret.asp?interpret=Aloe+Blacc |title=Discographie Aloe Blacc |work=hitparade.ch |publisher=Hung Medien |accessdate=July 22, 2014 |language=German |format = select "Charts" tab}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">Peaks in the United Kingdom:
+* All except noted: {{cite web |url=https://www.officialcharts.com/artist/6825/aloe-blacc/ |title=Aloe Blacc |publisher=[[Official Charts Company]] |accessdate=August 18, 2020}}
+* "Green Lights": {{cite web |url=http://www.zobbel.de/cluk/110924cluk.txt |title=Chart: CLUK Update 24.09.2011 (wk37) |website=Zobbel.de |accessdate=July 22, 2014 |author=Zywietz, Tobias}}</ref>
+|-
+! scope="row"| ''[[Shine Through]]''
+|
+* Released: July 11, 2006<ref>{{cite web |url=http://www.allmusic.com/album/shine-through-mw0000442579 |title=Shine Through – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014 |author=Brown, Marisa}}</ref>
+* Label: [[Stones Throw Records|Stones Throw]]
+* Formats: [[Compact Disc|CD]], [[Gramophone record|LP]], [[Music download|digital download]]
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| ''[[Good Things (Aloe Blacc album)|Good Things]]''
+|
+* Released: September 28, 2010<ref>{{cite web |url=http://www.allmusic.com/album/good-things-mw0002026334 |title=Good Things – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014 |author=Jeffries, David}}</ref>
+* Label: Stones Throw
+* Formats: CD, LP, digital download
+| — || 41 || 22 || 36 || 5 || 19 || 29 || 21 || 31 || 8
+|
+* [[British Phonographic Industry|BPI]]: Gold<ref name="BPI">{{cite web |url=http://www.bpi.co.uk/certified-awards/search.aspx |title=Certified Awards Search |publisher=[[British Phonographic Industry]] |accessdate=July 22, 2014 |format=To access, enter the search parameter "Aloe Blacc" and select "Search by Keyword" |archive-date=August 1, 2017 |archive-url=https://web.archive.org/web/20170801142929/http://www.bpi.co.uk/certified-awards/Search.aspx |url-status=dead }}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Gold<ref name="IFPI AUT">{{cite certification |region=Austria |artist=David Guetta |accessdate=April 19, 2011}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Gold<ref name="BVMI">{{cite web |url=http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&strTitel=&strInterpret=Aloe+Blacc&strTtArt=alle&strAwards=checked |title=Gold–/Platin-Datenbank (Aloe Blacc) |publisher=[[Bundesverband Musikindustrie]] |accessdate=July 22, 2014 |language=German}}</ref>
+|-
+! scope="row"| ''[[Lift Your Spirit]]''
+|
+* Released: October 25, 2013<ref>{{cite web |url=http://www.allmusic.com/album/lift-your-spirit-mw0002586642 |title=Lift Your Spirit – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014 |author=Kellman, Andy}}</ref>
+* Label: [[Interscope Records|Interscope]]
+* Formats: CD, LP, digital download
+| 4 || 2 || 19 || 43 || 33 || 12 || 16 || 10 || 22 || 5
+|
+|-
+! scope="row"| ''Christmas Funk''
+|
+* Released: November 9, 2018<ref>{{cite web |url=https://www.allmusic.com/album/christmas-funk-mw0003216778|title=Christmas Funk – Aloe Blacc |work=[[AllMusic]] |accessdate=November 11, 2018}}</ref>
+* Label: Independent
+* Formats: LP, CD, digital download
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| ''[[All Love Everything]]''
+|
+* Released: October 2, 2020<ref>{{cite web |url=https://music.apple.com/au/album/all-love-everything/1518861156 |title=All Love Everything by Aloe Blacc |website=[[Apple Music]] (AU) |accessdate=June 29, 2020}}</ref>
+* Label: [[BMG Rights Management|BMG]]
+* Formats: LP, CD, digital download
+| — || — || — || — || — || 154<br /><ref>{{cite web|url=http://snepmusique.com/les-tops/le-top-de-la-semaine/top-albums/?semaine=41?&annee=2020&categorie=Top%20Albums|title=Top Albums (Week 41, 2020)|publisher=Syndicat National de l'Édition Phonographique|accessdate=October 12, 2020}}</ref> || 66 || — || 51 || —
+|
+|-
+! scope="row"| ''Stand Together''
+|
+* Released: February 28, 2025<ref>{{cite web |url=https://www.allmusic.com/album/stand-together-mw0004439674 |title=Aloe Blacc: Stand Together Tracks & Reviews |publisher=AllMusic |access-date=October 23, 2026}}</ref>
+* Label: Grand Scheme Recordings
+* Formats: LP, CD, digital download
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="13" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==EPs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{Sronly|List of extended plays, with selected chart positions}}
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+|-
+! scope="row"| ''The Aloe Blacc EP''
+|
+* Released: 2003<ref>{{cite web |url=https://myspace.com/ipowax/music/album/the-aloe-blacc-ep-2003-ipo-wax-7737603 |title=The Aloe Blacc Ep 2003 Ipo Wax |publisher=[[Myspace]] |accessdate=July 22, 2014 |author=Ipo Wax}}</ref>
+* Label: Ipo Wax
+* Formats: CD, [[Gramophone record|12"]]
+| —
+|-
+! scope="row"| ''The Aloe Blacc EP 2: Me and My Music''
+|
+* Released: September 28, 2004<ref>{{cite web |url=http://rapmusic.com/threads/new-cd-wax-from-aloe-blacc-of-emanon.801853/ |title=New CD & Wax from Aloe Blacc of Emanon |publisher=RapMusic.com |date=September 24, 2004 |accessdate=July 22, 2014 |author=Ipo Wax |archive-url=https://web.archive.org/web/20140726092002/http://rapmusic.com/threads/new-cd-wax-from-aloe-blacc-of-emanon.801853/ |archive-date=July 26, 2014 |url-status=dead }}</ref>
+* Label: Ipo Wax
+* Formats: CD, 12"
+| —
+|-
+! scope="row"| ''Energy Live Session:<br/>Aloe Blacc & the Grand Scheme''
+|
+* Released: September 24, 2013<ref>{{cite web |url=http://www.allmusic.com/album/energy-live-session-aloe-blacc-the-grand-scheme-mw0002397599 |title=ENERGY Live Session: Aloe Blacc & the Grand Scheme – Aloe Blacc |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=July 22, 2014}}</ref>
+* Label: [[Universal Music Group|Universal]]
+* Formats: Digital download
+| —
+|-
+! scope="row"| ''[[Wake Me Up (EP)|Wake Me Up]]''
+|
+* Released: September 24, 2013<ref>{{cite web |url=http://www.allmusic.com/album/wake-me-up-mw0002581187 |title=Wake Me Up – Aloe Blacc |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=July 22, 2014 |author=Heaney, Gregory}}</ref>
+* Label: Interscope
+* Formats: CD, digital download
+| 32
+|-
+! scope="row"| ''Christmas''
+|
+* Released: December 11, 2015<ref>{{Cite web|url=https://music.apple.com/us/album/christmas-ep/1445176277|title=Christmas – EP by Aloe Blacc |publisher=[[iTunes Store]] |accessdate=November 11, 2018}}</ref>
+* Label: Interscope
+* Formats: Digital download
+| —
+|-
+! scope="row"| ''Rock My Soul: Volume I''
+|
+* Released: June 7, 2024
+* Label: Grand Scheme Productions
+* Formats: Digital download
+| —
+|-
+! scope="row"| ''Rock My Soul: Volume II''
+|
+* Released: June 28, 2024
+* Label: Grand Scheme Productions
+* Formats: Digital download
+| —
+|-
+! scope="row"| ''Chasing Your Dream (Deluxe)''
+|
+* Released: October 4, 2024<ref>{{Cite web|url=https://music.apple.com/us/album/chasing-your-dream-deluxe-edition-ep/1767418639|title=Chasing Your Dream (Deluxe) – EP by Aloe Blacc & Chase Bell |publisher=[[Apple Music]] |accessdate=March 4, 2026}}</ref>
+* Label: Self-released
+* Formats: Digital download
+| —
+|-
+| colspan="3" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{Sronly|List of singles as lead artist, with selected chart positions and certifications, showing year released and album name}}
+! scope="col" rowspan="2" style="width:26em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles">{{cite magazine|url=https://www.billboard.com/artist/aloe-blacc/chart-history/hsi/|title=Aloe Blacc Chart History: The Hot 100|magazine=Billboard|accessdate=August 18, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Hot R&B/Hip-Hop Songs|US<br/>R&B]]<br/><ref name="US-R&B-singles">{{cite magazine|url=https://www.billboard.com/artist/aloe-blacc/chart-history/bsi/|title=Aloe Blacc Chart History: Hot R&B/Hip-Hop Songs|magazine=Billboard|accessdate=August 18, 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br/><ref name="AUT"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL]]<br/><ref name="BEL (FL)"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA"/>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment charts|GER]]<br/><ref name="GER-singles">{{cite web |url=http://www.musicline.de/de/chartverfolgung_summary/artist/Blacc,+Aloe/?type=single |title=Chartverfolgung / Aloe Blacc / Single |work=musicline.de |publisher=[[Media Control Charts]] |accessdate=July 22, 2014 |language=German |archive-url=https://web.archive.org/web/20140728225549/http://www.musicline.de/de/chartverfolgung_summary/artist/Blacc,+Aloe/?type=single |archive-date=July 28, 2014 |url-status=dead }}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br/><ref name="NZ"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br/><ref name="SWI"/>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br/><ref name="UK"/>
+|-
+! scope="row"| "Personal Business"<ref>{{cite AV media notes |title="Personal Business" |others=[[Aloe Blacc]] |year=2003 |type = single |publisher=Ipo Wax |id=IPOWAX02}}</ref>
+| 2003
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''The Aloe Blacc EP''
+|-
+! scope="row"| "Want Me"<ref>{{cite web |url=http://www.allmusic.com/album/want-me-mw0002273432 |title=Want Me – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| 2005
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3"| ''Shine Through''
+|-
+! scope="row"| "I'm Beautiful"<ref>{{cite AV media notes |title="I'm Beautiful" |others=[[Aloe Blacc]] |year=2006 |type = single |publisher=[[Stones Throw Records]] |id=STH 2151}}</ref>
+| rowspan="3"| 2006
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Dance for Life"<ref>{{cite AV media notes |title="Dance for Life" |others=[[Aloe Blacc]] |year=2006 |type = single |publisher=[[Stones Throw Records]] |id=STH 2137}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Get Down"<ref>{{cite web |url=https://music.apple.com/us/album/get-down-ep/516778725 |title=Get Down EP by Aloe Blacc |work=[[iTunes Store]] |access-date=July 22, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "[[I Need a Dollar]]"
+| rowspan="3"| 2010
+| — || —{{efn|group=upper-alpha|"I Need a Dollar" did not enter the Hot R&B/Hip-Hop Songs chart, but peaked at number three on the [[Hot R&B/Hip-Hop Songs#Bubbling Under R&B/Hip-Hop Singles|Bubbling Under R&B/Hip-Hop Singles]] chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles">{{cite magazine |url=https://www.billboard.com/music/aloe-blacc/chart-history/RBU |archive-url=https://web.archive.org/web/20191217114642/https://www.billboard.com/music/aloe-blacc/chart-history/RBU |url-status=dead |archive-date=December 17, 2019 |title=Aloe Blacc Chart History: Bubbling Under R&B/Hip-Hop Songs |magazine=[[Billboard (magazine)|Billboard]] |accessdate=August 18, 2020}}</ref>}} || 11 || 5 || 1 || 52 || 4 || 20 || 5 || 2
+|
+* [[Australian Recording Industry Association|ARIA]]: 2× Platinum<ref name="ARIA-2011-singles">{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.auSINGLEaccreds2011.htm |title=ARIA Charts – Accreditations – 2011 Singles |publisher=[[Australian Recording Industry Association]] |accessdate=July 22, 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20110515024609/http://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.auSINGLEaccreds2011.htm |archivedate=May 15, 2011 }}</ref>
+* [[Belgian Entertainment Association|BEA]]: Gold<ref name="BEA-2010">{{cite certification |region=Belgium |certyear=2010 |accessdate=July 22, 2014}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* BVMI: 3× Gold<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="IFPI AUT"/>
+* [[Recorded Music NZ|RMNZ]]: Gold<ref name="Radioscope-singles">{{cite web |url=http://www.radioscope.net.nz/index.php?option=com_content&task=view&id=77&Itemid=63 |title=Latest Gold / Platinum Singles |publisher=RadioScope |accessdate=July 22, 2014 |archiveurl=https://web.archive.org/web/20110724195729/http://www.radioscope.net.nz/index.php?option=com_content&task=view&id=77&Itemid=63 |archivedate=July 24, 2011}}</ref>
+| rowspan="5"| ''Good Things''
+|-
+! scope="row"| "[[Femme Fatale (The Velvet Underground song)|Femme Fatale]]"<ref>{{cite web |url=http://www.allmusic.com/album/femme-fatale-mw0002343126 |title=Femme Fatale – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "You Make Me Smile"<ref>{{cite web |url=http://www.allmusic.com/album/you-make-me-smile-mw0002287096 |title=You Make Me Smile – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Loving You Is Killing Me]]"
+| rowspan="2"| 2011
+| — || — || — || 8 || 62 || — || 12 || — || 26 || —
+|
+* BVMI: Gold<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="IFPI AUT"/>
+|-
+! scope="row"| "[[Green Lights]]"
+| — || — || — || 69 || — || — || — || — || — || 130
+|
+|-
+! scope="row"| "[[Wake Me Up (EP)#Single: Wake Me Up|Wake Me Up]]"
+| rowspan="2"| 2013
+| —{{efn|group=upper-alpha|"Wake Me Up" did not enter the ''Billboard'' Hot 100, but peaked at number 11 on the [[Bubbling Under Hot 100]] chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles">{{cite magazine |url=https://www.billboard.com/artist/aloe-blacc/chart-history/hbu/ |title=Aloe Blacc Chart History: Bubbling Under Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=August 18, 2020}}</ref>}} || — || — || 71 || 30 || 20 || 42 || — || 23 || 69
+|
+| rowspan="3"| ''Lift Your Spirit''
+|-
+! scope="row"| "Ticking Bomb"<ref>{{cite web |url=http://www.allmusic.com/album/release/ticking-bomb-mr0004058046 |title=Ticking Bomb – Aloe Blacc |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[The Man (Aloe Blacc song)|The Man]]"
+| rowspan="5"| 2014
+| 8 || 4 || 10 || 19 || 29 || 23 || 22 || 5 || 40 || 1
+|
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="RIAA">{{cite web |url=https://www.riaa.com/goldandplatinumdata.php?artist=%22Aloe+Blacc%22 |title=Gold & Platinum: Aloe Blacc |publisher=[[Recording Industry Association of America]] |accessdate=July 22, 2014}}</ref>
+* ARIA: Platinum<ref name="ARIA-2014-singles">{{cite web |url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2014.htm |title=ARIA Charts – Accreditations – 2014 Singles |publisher=[[Australian Recording Industry Association]] |accessdate=July 22, 2014}}</ref>
+* BPI: Gold<ref name="BPI"/>
+* BVMI: Gold<ref name="BVMI"/>
+* RMNZ: Gold<ref>{{cite web |url=https://aotearoamusiccharts.co.nz/archive/singles/2014-03-14 |title=NZ Top 40 Singles Chart – 17 March 2014 |publisher=[[Recorded Music NZ]] |access-date=July 22, 2014}}</ref>
+|-
+! scope="row"| "The World Is Ours"<br /><span style="font-size:85%;">(with David Correy)</span>
+| — || — || — || — || 92 || — || — || — || — || —
+|
+| ''[[One Love, One Rhythm – The 2014 FIFA World Cup Official Album|One Love, One Rhythm]]''
+|-
+! scope="row"| "Hello World"
+| — || — || — || — || 106 || — || — || — || — || —
+|
+| ''Lift Your Spirit (Deluxe)''
+|-
+! scope="row"| "Here Today"<ref>{{cite web|url=http://playiga.com/track/aloe-blacc-here-today/ |title=Aloe Blacc 'Here Today' |publisher=[[Interscope Records]] |accessdate=June 14, 2014 |archiveurl=https://web.archive.org/web/20140726230342/http://playiga.com/track/aloe-blacc-here-today/ |archivedate=July 26, 2014 |url-status=usurped}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Lift Your Spirit''
+|-
+!scope="row"| "Together (RED)"
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3" {{N/A|Non-album singles}}
+|-
+!scope="row"| "Make Way"<ref>{{cite web|url=https://music.apple.com/au/album/make-way-single/1354105665|title=Make Way – Single by Aloe Blacc|work=iTunes Store (AU)|access-date=April 27, 2018}}</ref>
+| rowspan="2"| 2018
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+!scope="row"| "Brooklyn in the Summer"<ref>{{cite web|url=https://itunes.apple.com/au/album/brooklyn-in-the-summer-single/1374523959|archive-url=https://web.archive.org/web/20180426213108/https://itunes.apple.com/au/album/brooklyn-in-the-summer-single/1374523959|url-status=dead|archive-date=April 26, 2018|title=Brooklyn in the Summer – Single by Aloe Blacc|work=iTunes Store (AU)|accessdate=April 27, 2018}}</ref>
+| — || — || — || — || 81 || — || — || — || — || —
+|
+|-
+!scope="row"| "Hurt People"<ref>{{Cite web |url=https://dancingastronaut.com/2019/05/gryffin-is-impassioned-as-ever-for-his-second-album-single-hurt-people-with-aloe-blacc/ |title=Gryffin is impassioned as ever for his second album single, 'Hurt People' with Aloe Blacc |last=Goldenberg |first=Ross |date=May 19, 2019 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20190603191108/https://dancingastronaut.com/2019/05/gryffin-is-impassioned-as-ever-for-his-second-album-single-hurt-people-with-aloe-blacc/ |archive-date=June 3, 2019 |accessdate=June 4, 2019}}</ref> <br /><span style="font-size:85%;">(with [[Gryffin]])</span>
+| rowspan="4"| 2019
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[Gravity (Gryffin album)|Gravity]]''
+|-
+!scope="row"| "Getting Started" (from the Motion Picture ''[[Hobbs & Shaw]]'')<br/><span style="font-size:85%;">(featuring [[JID]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3" {{n/a|Non-album singles}}
+|-
+!scope="row"| "Snitch"<ref>{{Cite web |url=https://dancingastronaut.com/2019/07/netsky-and-aloe-blaccs-snitch-captures-a-perfectly-complementary-collaborative-balance/ |title=Netsky and Aloe Blacc's 'Snitch' captures a perfectly complementary collaborative balance |last=Krinsky |first=Alexander |date=July 27, 2019 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20190728040121/https://dancingastronaut.com/2019/07/netsky-and-aloe-blaccs-snitch-captures-a-perfectly-complementary-collaborative-balance/ |archive-date=July 28, 2019 |accessdate=August 6, 2019}}</ref> <br /><span style="font-size:85%;">(with [[Netsky (musician)|Netsky]])</span>
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Snitch" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number 31 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2019-08-30|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=August 5, 2019|access-date=August 3, 2019}}</ref>}} || — || —
+|
+|-
+!scope="row"| "Greatest Show on Earth" <br /><span style="font-size:85%;">(with Pegasus)</span>
+| — || — || — || — || — || — || — || — || 54 || —
+|
+|-
+! scope="row"| "I Do"<ref>{{cite web|url=https://music.apple.com/au/album/i-do-single/1497058258|title=I Do – Single by Aloe Blacc|work=Apple Music (AU)|accessdate=February 21, 2020}}</ref>
+| rowspan="4"| 2020
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3"| ''All Love Everything''
+|-
+! scope="row"| "My Way"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Hold On Tight"
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "My Way"<ref>{{Cite web |last=Sweeney |first=Farrell |date=December 26, 2020 |title=Steve Aoki and Aloe Blacc come together for timely new release, 'My Way' |url=https://dancingastronaut.com/2020/12/steve-aoki-and-aloe-blacc-come-together-for-timely-new-release-my-way/ |archive-url=https://web.archive.org/web/20210104143211/https://dancingastronaut.com/2020/12/steve-aoki-and-aloe-blacc-come-together-for-timely-new-release-my-way/ |archive-date=January 4, 2021 |accessdate=January 4, 2020 |website=Dancing Astronaut}}</ref> <br /><span style="font-size:85%;">(with [[Steve Aoki]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "I Do"<br /><span style="font-size:85%;">(with [[LeAnn Rimes]])</span>
+| 2021
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''All Love Everything (Deluxe)''
+|-
+! scope="row"| "Tin Cups"<br /><span style="font-size:85%;">(with [[ZZ Ward]])</span>
+| 2022
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[Dirty Shine]]''
+|-
+! scope="row"| "Chasing Your Dream (Acoustic)"<br /><span style="font-size:85%;">(with Chase Bell)</span>
+| 2023
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Chasing Your Dream (Deluxe)''
+|-
+! scope="row"| "Goodbye"<br /><span style="font-size:85%;">(with Engelmorte)</span>
+| 2024
+| — || — || — || — || — || — || — || — || — || —
+| 
+| rowspan="3" {{TBA}}
+|-
+! scope="row"| "Lonely Together"<br /><span style="font-size:85%;">(with [[Vikkstar123|Vikkstar]] and Sickick)</span>
+| rowspan="2"| 2025
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "In My World" <br /><span style="font-size:85%;">(with [[Afrojack]])</span><ref>{{cite news|last=Heffler|first=Jason|date=October 3, 2025|title=Afrojack and Aloe Blacc Team Up for Progressive House Anthem, "In My World"|url=https://edm.com/music-releases/afrojack-aloe-blacc-in-my-world|work=EDM.com|archive-url=https://web.archive.org/web/20251012130718/https://edm.com/music-releases/afrojack-aloe-blacc-in-my-world|archive-date=October 12, 2025|url-status=live|access-date=October 12, 2025}}</ref>
+| — || — || — || — || 38 || — || — || — || — || —
+|
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{Sronly|List of singles as featured artist, with selected chart positions, showing year released and album name}}
+! scope="col" rowspan="2" style="width:26em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL]]<br /><ref name="BEL (FL)"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br />
+|-
+! scope="row"| "The Sag"<ref>{{cite web |url=https://www.discogs.com/master/1639500-Dela-Atmosphere-Airlines-Vol2|title=Dela - Atmosphere Airlines Vol.2 |work=[[Discogs]] }}</ref><br /><span style="font-size:85%;">(Dela featuring Aloe Blacc)</span>
+| 2008
+| — || — || — || —
+| ''Atmosphere Airlines, Vol.2''
+|-|-
+! scope="row"| "Where I'm From"<ref>{{cite web |url=http://www.allmusic.com/album/where-im-from-12-mw0002298265 |title=Where I'm From 12" – MED |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref><br /><span style="font-size:85%;">(MED featuring Aloe Blacc)</span>
+| 2010
+| — || — || — || —
+| ''Classic''
+|-
+! scope="row"| "Days Chasing Days"<ref>{{cite web |url=https://music.apple.com/us/album/days-chasing-days-single/429226191 |title=Days Chasing Days – Single by Blame One, Exile, Aloe Blacc & Beleaf |work=[[iTunes Store]] |access-date=July 22, 2014}}</ref><br /><span style="font-size:85%;">(Blame One featuring [[Exile (producer)|Exile]], Aloe Blacc and Beleaf)</span>
+| rowspan="2"| 2011
+| — || — || — || —
+| ''Days Chasing Days''
+|-
+! scope="row"| "The Sound of Swing (Oh Na Na)"<ref>{{cite web |url=https://music.apple.com/us/album/fragment-8-sound-swing-pt/544835256 |title=Fragment 8 – The Sound of Swing, Pt. 2 (feat. Aloe Blacc) by The Kenneth Bager Experience |work=[[iTunes Store]] |access-date=July 22, 2014}}</ref><br /><span style="font-size:85%;">([[Kenneth Bager|The Kenneth Bager Experience]] featuring Aloe Blacc)</span>
+| — || — || — || —
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "Where Does the Time Go?"<br /><span style="font-size:85%;">([[The Bamboos (funk band)|The Bamboos]] featuring Aloe Blacc)</span>
+| rowspan="3"| 2012
+| — || 67 || — || —
+| ''Medicine Man''
+|-
+! scope="row"| "Time to Go"<br /><span style="font-size:85%;">([[Wax Tailor]] featuring Aloe Blacc)</span>
+| — || 95 || — || —
+| ''[[Dusty Rainbow from the Dark]]''
+|-
+! scope="row"| "More Than Material"<br /><span style="font-size:85%;">([[Roseaux (band)|Roseaux]] featuring Aloe Blacc)</span>
+| — || — || 80 || —
+| ''Roseaux''
+|-
+! scope="row"| "Show Me the Way"<br /><span style="font-size:85%;">([[Dilated Peoples]] featuring Aloe Blacc)</span>
+| 2014
+| — || — || — || —
+| ''[[Directors of Photography]]''
+|-
+! scope="row"| "[[Something to Believe In (Fashawn song)|Something to Believe In]]"<br /><span style="font-size:85%;">([[Fashawn]] featuring [[Nas]] and Aloe Blacc)</span>
+| rowspan="2"| 2015
+| — || — || — || —
+| ''[[The Ecology]]''
+|-
+! scope="row"| "[[Verge (song)|Verge]]"<br /><span style="font-size:85%;">([[Owl City]] featuring Aloe Blacc)</span>
+| — || — || — || —
+| ''[[Mobile Orchestra]]''
+|-
+! scope="row"| "[[The Candy Man|Candyman]]"<br /><span style="font-size:85%;">([[Zedd (musician)|Zedd]] featuring Aloe Blacc)</span>
+| rowspan="4"| 2016
+| — || — || — || —
+| rowspan="5" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Smile"<br /><span style="font-size:85%;">([[Maya Jupiter]] featuring Aloe Blacc)</span>
+| — || — || — || —
+|-
+! scope="row"| "Counting On Me"<br /><span style="font-size:85%;">([[Aeroplane (musician)|Aeroplane]] and [[Purple Disco Machine]] featuring Aloe Blacc)</span>
+| — || — || — || —
+|-
+! scope="row"| "S.O.S (Sound of Swing)"<br /><span style="font-size:85%;">([[Kenneth Bager]] vs. [[Yolanda Be Cool]] featuring Aloe Blacc)</span>
+| — || — || — || —
+|-
+! scope="row"| "Imperfection"<br /><span style="font-size:85%;">(Gentleman featuring Aloe Blacc)</span>
+| rowspan="3"| 2017
+| — || — || — || —
+|-
+! scope="row"| "Secrets"<br /><span style="font-size:85%;">(Engine-EarZ Experiment featuring Aloe Blacc and [[Ayanna Witter-Johnson]])</span>
+| — || — || — || —
+| ''Symbol''
+|-
+! scope="row"| "[[Carry You Home (Tiësto song)|Carry You Home]]"<br /><span style="font-size:85%;">([[Tiësto]] featuring [[Stargate (music producers)|Stargate]] and Aloe Blacc)</span>
+| — || — || — || —
+| ''[[Club Life, Vol. 5 - China]]''
+|-
+! scope="row"| "Milk & Honey"<br /><span style="font-size:85%;">(Tropkillaz featuring Aloe Blacc)</span>
+| 2018
+| — || — || — || —
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "[[SOS (Avicii song)|SOS]]"<br /><span style="font-size:85%;">([[Avicii]] featuring Aloe Blacc)</span>
+| rowspan="6"| 2019
+| 68 || 2 || 93<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-singles-megafusion/?ye=2019&we=16|title=Le Top de la semaine : Top Singles (téléchargement + streaming) – SNEP (Week 16, 2019)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=French|accessdate=April 23, 2019|archive-url=https://web.archive.org/web/20190501064944/http://www.snepmusique.com/tops-semaine/top-singles-megafusion/?ye=2019&we=16|archive-date=May 1, 2019|url-status=dead}}</ref> || 1
+| ''[[Tim (Avicii album)|Tim]]''
+|-
+! scope="row"| "Truth Never Lies"<br/><span style="font-size:85%;">([[Lost Frequencies]] featuring Aloe Blacc)</span><ref>{{cite web|url=https://music.apple.com/ru/album/1463896407?l=en|title=Truth Never Lies – Single by Lost Frequencies on Apple Music|website=Apple Music|accessdate=June 7, 2019}}</ref>
+| — || — || — || —
+| ''[[Alive and Feeling Fine]]''
+|-
+! scope="row"| "[[Never Be Alone (David Guetta and Morten song)|Never Be Alone]]" <br/><span style="font-size:85%;">([[David Guetta]] and [[Morten Breum|Morten]] featuring Aloe Blacc)</span>
+| — || — || — || —
+| rowspan="2" {{N/a|Non-album single}}
+|-
+! scope="row"| "Better Than Ever" <br/>{{small|([[Flight Facilities]] featuring Aloe Blacc)}}<ref>{{Cite web |url=https://dancingastronaut.com/2019/10/flight-facilities-go-indie-pop-in-new-single-with-aloe-blacc-better-than-ever/ |title=Flight Facilities go indie pop in new single with Aloe Blacc, 'Better Than Ever' |work=[[Dancing Astronaut]] |archive-url=https://web.archive.org/web/20191022005755/https://dancingastronaut.com/2019/10/flight-facilities-go-indie-pop-in-new-single-with-aloe-blacc-better-than-ever/ |archive-date=October 22, 2019 |date=October 20, 2019 |accessdate=October 27, 2019 |author=Sweeney, Farrell}}</ref>
+| — || — || — || —
+|-
+! scope="row"| "Better Day"<br>{{small|([[Young Bombs]] featuring Aloe Blacc)}}<ref>{{cite web |url=https://music.apple.com/au/album/better-day-feat-aloe-blacc-single/1480781114 |title=Better Day (feat. Aloe Blacc) – Single by Young Bombs on Apple Music |website=[[Apple Music]] AU |date=November 1, 2019 |accessdate=June 30, 2020}}</ref>
+| — || — || — || —
+| ''The Young Bombs Show''
+|-
+! scope="row"| "Dont Worry"<br/><span style="font-size:85%;">([[Mesto]] featuring Aloe Blacc)</span><ref>{{cite web|url=https://music.apple.com/ru/album/1463896407?l=en|title=Dont Worry – Single by Mesto on Apple Music|website=Apple Music|accessdate=June 7, 2019}}</ref>
+| — || — || — || —
+| rowspan="2" {{N/a|Non-album singles}}
+|-
+! scope="row"| "I'm In Love" <br/><span style="font-size:85%;">([[Paul Oakenfold]] featuring Aloe Blacc)</span><ref>{{cite web|url=https://music.apple.com/us/album/im-in-love-single/1576562982 |title=I'm in Love - Single by Paul Oakenfold & Aloe Blacc on Apple Music |website=Apple Music |accessdate=August 15, 2021}}</ref>
+| rowspan="3"| 2021
+| — || — || — || —
+|-
+! scope="row"| "Set Me Free"<br>{{small|([[Dvbbs]] featuring Aloe Blacc)}}<ref>{{cite web|url=https://www.fyimusicnews.ca/articles/2021/10/24/dvbbs-set-me-free-feat-aloe-blacc |title=DVBBS: Set Me Free-feat. Aloe Blacc |website=FYIMusicNews |date=October 24, 2021 |access-date=December 19, 2021 |author=Doole, Kerry}}</ref>
+| — || — || — || —
+| ''Sleep''
+|-
+! scope="row"| "Can't Get Over You" <br>{{small|([[Gabry Ponte]] featuring Aloe Blacc)}}<ref>{{Cite web |date=November 29, 2021 |author=EDM.com Staff |title=Gabry Ponte and Aloe Blacc—legends behind 'Blue' and 'Wake Me Up'—join forces for intoxicating dance-pop anthem, 'Can't Get Over You' |url=https://edm.com/music-releases/gabry-ponte-aloe-blacc-cant-get-over-you |accessdate=January 15, 2022 |website=EDM.com}}</ref>
+| — || — || — || —
+| {{N/A|Non-album single}}
+|-
+| colspan="8" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Guest appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ {{Sronly|List of non-single guest appearances, with other performing artists, showing year released and album name}}
+! scope="col" style="width:26em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col"| Other artist(s)
+! scope="col"| Album
+|-
+! scope="row"| "Live Your Life"
+|2006
+|[[Deep Rooted]]
+|''The Second Coming''
+|-
+! scope="row"| "Vida"<ref name="Herre">{{cite web |url=http://www.allmusic.com/album/hallo-welt!-mw0002420471 |title=Hallo Welt! – Max Herre |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| rowspan="12"| 2012
+| rowspan="2"| [[Max Herre]]
+| rowspan="2"| ''Hallo Welt!''
+|-
+! scope="row"| "So wundervoll"
+|-
+! scope="row"| "Strange Things"<ref name="Roseaux">{{cite web |url=http://www.allmusic.com/album/roseaux-mw0002464232 |title=Roseaux – Aloe Blacc / Roseaux |work=[[AllMusic]] |accessdate=July 22, 2014}}</ref>
+| rowspan="10"| [[Roseaux (band)|Roseaux]]
+| rowspan="10"| ''Roseaux''
+|-
+! scope="row"| "If You Didn't Love Me (Don't Go Away)"<ref name="Roseaux"/>
+|-
+! scope="row"| "Walking on the Moon"<ref name="Roseaux"/>
+|-
+! scope="row"| "Girl You Rock My Soul"<ref name="Roseaux"/>
+|-
+! scope="row"| "We All Must Live Together"<ref name="Roseaux"/>
+|-
+! scope="row"| "Clarao Da Lua"<ref name="Roseaux"/>
+|-
+! scope="row"| "Indifference"<ref name="Roseaux"/>
+|-
+! scope="row"| "Try Me"<ref name="Roseaux"/>
+|-
+! scope="row"| "Missing You"<ref name="Roseaux"/>
+|-
+! scope="row"| "If You Didn't Love Me (Don't Go Away) [Winter Outro]"<ref name="Roseaux"/>
+|-
+! scope="row"| "Danger Zone"
+| 2013
+| [[Marcelo D2]]
+| ''Nada Pode Me Parar''
+|-
+! scope="row"| "That Spirit of Christmas"
+| 2015
+| [[LeAnn Rimes]]
+| ''[[Today Is Christmas]]''
+|-
+! scope="row"| "Wrote My Way Out"
+| 2016
+| [[Nas]], [[Dave East]], [[Lin-Manuel Miranda]]
+| ''[[The Hamilton Mixtape]]''
+|-
+! scope="row"| "Body Language"
+| rowspan="3"| 2017
+| Tennyson
+| ''Uh Oh EP''
+|-
+! scope="row"| "Things We Say"
+| [[Blu & Exile]]
+| ''In the Beginning: Before the Heavens''
+|-
+! scope="row"| "12 Days of Christmas"
+| [[Colbie Caillat]]
+| ''[[A Bad Moms Christmas]] (Original Motion Picture Soundtrack)''
+|}
+
+Aloe Blacc released the song [https://open.spotify.com/track/6NifABCfRYoIej6YZjbFzJ “Chasing Your Dream” (Acoustic)] and subsequent Deluxe versions alongside [https://www.youtube.com/chasebellmusic Chase Bell] in 2023 and performed this song at [[Xprize Foundation|XPRIZE]] Envisioneering and Abundance 360 2023 and 2024 respectively.
+[[Xprize Foundation]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|aloeblacc.com}}
+* [http://www.allmusic.com/artist/aloe-blacc-mn0000015856 Aloe Blacc] at [[AllMusic]]
+* {{Discogs artist |artist=Aloe Blacc |name=Aloe Blacc}}
+* {{MusicBrainz artist |id=4bf89e02-6c30-4603-9f6a-52619b1bea1a |name=Aloe Blacc}}
+
+{{Aloe Blacc}}
+
+{{DEFAULTSORT:Blacc}}
+[[Category:Discographies of American artists]]
+[[Category:Soul music discographies]]

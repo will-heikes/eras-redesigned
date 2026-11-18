@@ -1,0 +1,164 @@
+{{Use mdy dates|date=July 2023}}
+{{For|the Lil Baby song|My Turn (Lil Baby album)}}
+{{Infobox song
+| name       = Get Ugly
+| cover      = jasonderulogetugly.jpg
+| alt        =
+| type       = single
+| artist     = [[Jason Derulo]]
+| album      = [[Everything Is 4]]
+| B-side     = "[[Try Me (Jason Derulo song)|Try Me]]"<ref name="CD"/>
+| released   = {{Start date|2015|12|15}}
+| recorded   = 
+| studio     =
+| venue      =
+| genre      = [[Pop rap]]<ref name=Slant>{{cite web|last1=Mac|first1=Sam C.|title=Jason Derulo: Everything is 4|url=http://www.slantmagazine.com/music/review/jason-derulo-everything-is-4|publisher=[[Slant Magazine]]|access-date=June 10, 2015|date=June 2, 2015}}</ref>
+| length     = {{Duration|m=3|s=20}}
+| label      = [[Warner Bros. Records|Warner Bros.]]
+| writer     = {{hlist|[[Jason Derulo|Jason Desrouleaux]]|[[Jason Evigan]]|[[Ricky Reed|Eric Frederic]]|[[Sean Douglas (songwriter)|Sean Douglas]]}}
+| producer   = {{hlist|[[Ricky Reed]]|[[Jarami]]}}
+| chronology = [[Jason Derulo]]
+| prev_title = [[Drive You Crazy]]
+| prev_year  = 2015
+| next_title = [[Secret Love Song]]
+| next_year  = 2016
+}}
+"'''Get Ugly'''" is a song by American singer [[Jason Derulo]] for his fourth studio album ''[[Everything Is 4]]'' (2015). It was released as the album's fourth single (third in US markets) on December 15, 2015.<ref>{{cite web | url=http://www.allaccess.com/top40-mainstream/future-releases | title=top40-mainstream future-releases | work=AllAccess | access-date=December 5, 2015}}</ref> Derulo co-wrote the song with [[Jason Evigan]], [[Sean Douglas (songwriter)|Sean Douglas]], and [[Ricky Reed]]; the latter is also the producer. The track samples "We Got Our Own Thang" by [[Heavy D|Heavy D & the Boyz]] from their second studio album ''[[Big Tyme]]''.<ref>{{Cite web|url=http://www.dailymotion.com/video/x3lldqo|title = Jason Derulo has GET UGLY... But here's to where the original sample came from..... - video Dailymotion|date = January 9, 2016}}</ref>
+
+==Critical reception==
+''[[Pitchfork (website)|Pitchfork]]'' criticized "Get Ugly", calling it: "a brutal attempt to reprise the ubiquitous "[[Wiggle (Jason Derulo song)|Wiggle]]," though the result is more like "[[Sexyback]]" re-imagined under the influence of a half dozen [[Jägerbomb|Jaeger bomb]]s."<ref>https://pitchfork.com/reviews/albums/20669-everything-is-4/</ref>
+
+==Music video==
+The [[music video]] for the track, directed by Syndrome, premiered via Derulo's [[YouTube]] channel on December 14, 2015.<ref>{{cite web|title=Jason Derulo's 'Get Ugly' Video Is, In Fact, Very Appealing To The Eyes|url=http://www.mtv.com/news/2687651/jason-derulo-get-ugly-video/|archive-url=https://web.archive.org/web/20151215222611/http://www.mtv.com/news/2687651/jason-derulo-get-ugly-video/|url-status=dead|archive-date=December 15, 2015|publisher=[[MTV]]|date=December 14, 2015|access-date=December 15, 2015}}</ref> Allison Bowsher of [[Much (TV channel)|Much]] TV channel called it a "good old fashioned dance video" and wrote that it "showcase his talent as a dancer".<ref>{{cite web|title=Jason Derulo Gets Down In Video For 'Get Ugly'|url=http://www.much.com/jason-derulo-gets-down-in-video-for-get-ugly/|publisher=[[Much (TV channel)|Much]]|access-date=October 2, 2016}}</ref> Colin Joyce from ''[[Spin (magazine)|Spin]]'' wrote that the video "plays like a re-imagining of [[Lionel Richie]]'s "[[All Night Long (All Night)|All Night Long]]" video".<ref>{{cite web|title=Jason Derulo Leads a Pastel-Hued Dance Crew in His 'Get Ugly' Video|url=http://www.spin.com/2015/12/jason-derulo-get-ugly-video-everything-is-4-watch/|publisher=[[Spin (magazine)|Spin]]|date=December 14, 2015|access-date=October 2, 2016}}</ref> Radio.com's Amanda Wicks said that Derulo "shows off some fresh moves by way of slick choreography" throughout the video.<ref>{{cite web|title=Watch Jason Derulo Get Colorful in Cartoonish Video for 'Get Ugly'|url=http://radio.com/2015/12/14/watch-jason-derulo-get-colorful-in-cartoonish-video-for-get-ugly/|publisher=Radio.com|date=December 14, 2015|access-date=October 2, 2016}}</ref>
+
+==Track listing==
+*'''CD single'''<ref name="CD">{{Cite web|url=https://www.jpc.de/jpcng/poprock/detail/-/art/jason-derulo-get-ugly/hnum/2591706|title=Jason Derulo: Get Ugly (2-Track) (Maxi-CD) — jpc|publisher=[[jpc (retailer)|jpc]]|language=de|access-date=August 27, 2020}}</ref>
+#"Get Ugly"
+#"[[Try Me (Jason Derulo song)|Try Me]]" (featuring [[Jennifer Lopez]] and [[Matoma]])
+
+==Charts and certifications==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2015–2016)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=https://www.auspop.com.au/2016/03/chart-watch-361/|title=CHART WATCH #361|publisher=auspOp|date=March 26, 2016|access-date=March 26, 2016|archive-date=March 4, 2020|archive-url=https://web.archive.org/web/20200304015353/https://www.auspop.com.au/2016/03/chart-watch-361/|url-status=dead}}</ref>
+| 77
+|-
+{{singlechart|Flanders Tip|10|artist=Jason Derulo|song=Get Ugly|rowheader=true|accessdate=January 16, 2016}}
+|-
+{{singlechart|Wallonia|47|artist=Jason Derulo|song=Get Ugly|rowheader=true|accessdate=February 27, 2016}}
+|-
+{{singlechart|Billboardcanadianhot100|65|artist=Jason Derulo|rowheader=true|accessdate=February 2, 2016}}
+|-
+{{singlechart|Czechdigital|66|year=2016|week=5|rowheader=true}}
+|-
+{{singlechart|France|188|artist=Jason Derulo|song=Get Ugly|rowheader=true|accessdate=December 19, 2015}}
+|-
+{{singlechart|Germany|38|artist=Jason Derulo|song=Get Ugly|songid=1412456|rowheader=true|accessdate=March 3, 2020}}
+|-
+{{singlechart|Hungarydance|36|year=2016|week=36|rowheader=true|accessdate=September 16, 2016}}
+|-
+{{singlechart|Ireland|28|year=2016|week=8|rowheader=true|accessdate=February 27, 2016}}
+|-
+!scope="row"| Lebanon ([[The Official Lebanese Top 20|OLT20]])<ref>{{cite web|url=http://www.olt20.com/Jason_Derulo#fragment-2|title=The Official Lebanese Top 20 - Jason Derulo|publisher=[[The Official Lebanese Top 20]]|access-date=June 7, 2015}}</ref>
+| 14
+|-
+! scope="row"| [[Mexico Airplay]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/artist/jason-derulo/chart-history/mex/|title=Jason Derulo Chart History (Mexico Airplay)|magazine=[[Billboard (magazine)|Billboard]]|access-date=July 5, 2021}}</ref>
+| 24
+|-
+! scope="row"| New Zealand Heatseekers ([[Recorded Music NZ|RMNZ]])<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2016-02-26|title=NZ Heatseekers Singles Chart|publisher=[[Recorded Music NZ]]|date=February 29, 2016|access-date=February 26, 2016}}</ref>
+| 3
+|-
+{{singlechart|Poland|62|year=2016|chartid=1968|rowheader=true|accessdate=May 9, 2016}}
+|-
+! scope="row"| Romania ([[Media Forest]])<ref>{{cite web|url=http://www.mediaforest.ro/WeeklyCharts/HistoryWeeklyCharts.aspx|title=Romanian International Top 10 Singles Chart|work=Media Forest|date=May 30, 2016|access-date=May 30, 2016}}</ref>
+| 5
+|-
+! scope="row"| Russia Airplay ([[Tophit]])<ref>{{cite web|url= http://tophitru.com/airplay_week.shtml|title= List of 11 July 2016|publisher= [[Trophit|Russian Music Charts]]|access-date= July 11, 2016|language= ru|archive-date= June 13, 2016|archive-url= https://web.archive.org/web/20160613070436/http://www.tophitru.com/airplay_week.shtml|url-status= usurped}}</ref>
+| 26
+|-
+{{singlechart|Slovakdigital|76|year=2016|week=1|rowheader=true}}
+|-
+{{singlechart|UK|12|date=20160218|rowheader=true|accessdate=February 13, 2016}}
+|-
+{{singlechart|Billboardhot100|52|artist=Jason Derulo|rowheader=true|accessdate=February 2, 2016}}
+|-
+{{singlechart|Billboarddanceairplay|21|artist=Jason Derulo|rowheader=true|accessdate=February 2, 2016}}
+|-
+{{singlechart|Billboardpopsongs|19|artist=Jason Derulo|rowheader=true|accessdate=February 2, 2016}}
+|-
+{{singlechart|Billboardrhythmic|17|artist=Jason Derulo|rowheader=true|accessdate=February 2, 2015}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2016)
+! scope="col"| Position
+|-
+! scope="row"| UK Singles (OCC)<ref>{{cite web|url=http://www.officialcharts.com/charts/end-of-year-singles-chart/|title=End of Year Singles Chart Top 100 – 2016|publisher=[[Official Charts Company]]|access-date=December 31, 2016}}</ref>
+| 83
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|type=single|region=Australia|certyear=2023|award=Platinum|access-date=July 9, 2023}}
+{{Certification Table Entry|region=Germany|artist=Jason Derulo|title=Get Ugly|award=Gold|type=single|relyear=2015|certyear=2020|access-date=October 15, 2020}}
+{{Certification Table Entry|region=New Zealand|artist=Jason Derulo|title=Get Ugly|award=Gold|type=single|relyear=2015|certyear=2016|certmonth=6|certday=16|source=radioscope|access-date=December 27, 2024}}
+{{Certification Table Entry|region=Poland|artist=Jason Derulo|title=Get Ugly|award=Gold|type=single|relyear=2015|certyear=2016|access-date=June 15, 2016}}
+{{Certification Table Entry|region=United Kingdom|artist=Jason Derulo|title=Get Ugly|type=single|award=Platinum|id=13641-2329-1|relyear=2016|certyear=2023|access-date=May 13, 2023}}
+{{Certification Table Entry|region=United States|type=single|award=Gold|artist=Jason Derulo|title=Get Ugly|relyear=2015|certyear=2016|access-date=December 6, 2016}}
+{{Certification Table Bottom|streaming=true|noshipments=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format(s)
+! scope="col"| Label
+! scope="col"| {{abbr|Ref.|References}}
+|-
+! scope="row" | United States
+| December 15, 2015
+| rowspan="2"|[[Contemporary hit radio]]
+| [[Warner Bros. Records|Warner Bros.]]
+| style="text-align:center;" | <ref>{{cite web|title=Top 40/Mainstream > Future Releases|url=http://www.allaccess.com/top40-mainstream/future-releases|publisher=allaccess.com|access-date=December 15, 2015|date=December 15, 2015}}</ref>
+|-
+! scope="row" | Italy
+| January 15, 2016
+| rowspan="2"|[[Warner Music Group|Warner]]
+| style="text-align:center;" | <ref>{{cite web|title=Jason Derulo - Get Ugly Radiodate|url=http://radiodate.it/radio-date/jason-derulo-get-ugly-144002-15-01-2016-radiodate/|publisher=radioairplay.fm|access-date=January 14, 2016|date=January 15, 2016}}</ref>
+|-
+! scope="row" | Germany
+| April 22, 2016
+| [[CD single]]
+| <ref name="CD" />
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{YouTube|4OeP53BeYPs|Audio}}
+
+{{Jason Derulo}}
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:Jason Derulo songs]]
+[[Category:Songs written by Jason Evigan]]
+[[Category:Songs written by Sean Douglas (songwriter)]]
+[[Category:Warner Records singles]]
+[[Category:Songs written by Jason Derulo]]
+[[Category:Songs written by Ricky Reed]]
+[[Category:Song recordings produced by Ricky Reed]]

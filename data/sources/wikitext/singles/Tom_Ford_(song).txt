@@ -1,0 +1,186 @@
+{{short description|Song by Jay-Z}}
+{{Infobox song
+| name       = Tom Ford
+| cover      =
+| alt        =
+| type       = single
+| artist     = [[Jay-Z]]
+| album      = [[Magna Carta Holy Grail]]
+| released   = September 26, 2013
+| recorded   = 2013
+| studio     =
+| venue      =
+| genre      = {{flatlist|
+* [[Hip hop music|Hip hop]]
+* [[East Coast hip hop]]
+}}
+| length     = 3:09
+| label      = {{hlist|[[Roc-A-Fella Records|Roc-A-Fella]]|[[Roc Nation]]|[[Universal Music Distribution|Universal]]}}
+| writer     = {{flatlist|
+* [[Jay-Z|Shawn Carter]]
+* [[Timbaland|Timothy Mosley]]
+* [[Jerome "J-Roc" Harmon|Jerome Harmon]]
+}}
+| producer   = {{flatlist|
+* [[Jerome "J-Roc" Harmon|J-Roc]]
+* [[Timbaland]]
+}}
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+| misc       = {{Extra chronology
+ | artist     = [[Jay-Z]]
+ | type       = single
+ | prev_title = [[Pound Cake / Paris Morton Music 2|Pound Cake]]
+ | prev_year  = 2013
+ | title      = Tom Ford
+ | year       = 2013
+ | next_title = [[Know Bout Me]]
+ | next_year  = 2013
+}}
+}}
+
+"'''Tom Ford'''" is a song by American hip hop artist [[Jay-Z]] from his twelfth studio album ''[[Magna Carta Holy Grail]]'' (2013). It features additional vocals from his wife [[Beyoncé Knowles|Beyoncé]] as Third Ward Trill and was [[Hip hop production|produced]] by [[Timbaland]] and [[Jerome "J-Roc" Harmon]]. On September 26, 2013, "Tom Ford" was serviced to [[urban contemporary]] radio in the [[United Kingdom]] as the album's second single and then on October 15, 2013, to [[rhythmic contemporary]] in the United States.<ref name="USRadioRelease">{{cite web|url=http://www.allaccess.com/top40-rhythmic/future-releases|title=Top 40/Rhythmic-Crossover Future Releases|archive-url=https://web.archive.org/web/20131012004014/http://www.allaccess.com/top40-rhythmic/future-releases|archive-date=October 12, 2013|access-date=November 8, 2013|url-status=live}}</ref> Following the release of the album, the song peaked at number 39 on the US [[Billboard Hot 100|''Billboard'' Hot 100]].
+
+== Background ==
+[[File:Tom Ford cropped 2009.jpg|thumb|150px|right|Fashion designer [[Tom Ford]], who is mentioned throughout the song.]]
+
+On July 3, 2013, "Tom Ford" was previewed in one of [[Samsung]]'s commercials for ''[[Magna Carta Holy Grail]]''.<ref>{{cite web|url=http://www.hotnewhiphop.com/jay-z-previews-tom-ford-video.13872.html |archive-url=https://web.archive.org/web/20130706181135/http://www.hotnewhiphop.com/jay-z-previews-tom-ford-video.13872.html |url-status=dead |archive-date=July 6, 2013 |title=Jay-Z "Previews "Tom Ford" (Magna Carta Promo)" Video |publisher=Hotnewhiphop.com |access-date=2013-10-16}}</ref> "Tom Ford" premiered online the following day, along with the rest of ''Magna Carta Holy Grail'' upon its release to Samsung smartphone owners.<ref>{{cite web|url=http://fashion.telegraph.co.uk/news-features/TMG10159341/Jay-Z-debuts-Tom-Ford-track.html |title=Jay-Z debuts 'Tom Ford' track – Telegraph |publisher=Fashion.telegraph.co.uk |access-date=2013-10-16}}</ref>
+
+The title of the song and chorus are a reference to [[fashion designer]] [[Tom Ford]], who was also mentioned by [[Justin Timberlake]] in his Jay-Z collaboration "[[Suit & Tie]]".<ref>{{cite web|url=http://www.eonline.com/news/438194/tom-ford-responds-to-jay-z-s-name-drop |title=Tom Ford Responds to Jay-Z's Name Drop &#124; E! Online UK |publisher=Eonline.com |date=2013-07-11 |access-date=2013-10-16}}</ref><ref>{{cite web|last=Ramos |first=Dorkys |url=https://www.bet.com/article/yqkbhy/tom-ford-responds-to-jay-z-s-musical-ode-to-the-designer |archive-url=https://web.archive.org/web/20220125192104/https://www.bet.com/article/yqkbhy/tom-ford-responds-to-jay-z-s-musical-ode-to-the-designer |url-status=dead |archive-date=January 25, 2022 |title=Tom Ford Responds to Jay-Z's Musical Ode to the Designer |publisher=BET |access-date=2013-10-16}}</ref> Tom Ford responded favorably to the song saying, "Who would not be flattered to have an entire Jay-Z track named after them? I mean, come on, it's pretty rare that something like that happens. It's a kind of validation of one's work, as it means that one has really penetrated and made an impact on popular culture."<ref>{{cite web|url=https://nymag.com/thecut/2013/07/tom-ford-flattered-by-jay-zs-new-track.html |title=Tom Ford Flattered by Jay-Z's New Track Named After Him – The Cut |date=11 July 2013 |publisher=Nymag.com |access-date=2013-10-16}}</ref> Following its release, Tom Ford received a huge spike in online search engine queries.<ref>{{cite web|author= Adam Tschorn |url=https://articles.latimes.com/2013/aug/08/news/la-ar-yahoo-searches-tom-ford-spike-is-jay-z-the-reason-20130808 |archive-url=https://archive.today/20131017095027/http://articles.latimes.com/2013/aug/08/news/la-ar-yahoo-searches-tom-ford-spike-is-jay-z-the-reason-20130808 |url-status=dead |archive-date=October 17, 2013 |title=Yahoo searches for 'Tom Ford' spike – is Jay Z the reason? – Los Angeles Times |publisher=Articles.latimes.com |date=2013-08-08 |access-date=2013-10-16}}</ref><ref>{{cite web|url=http://www.complex.com/style/2013/08/jay-z-causes-huge-spike-in-tom-ford-searches |title=Jay Z Causes Huge Spike in Tom Ford Searches |publisher=Complex |date=2013-08-11 |access-date=2013-10-16}}</ref><ref>{{cite web|url=https://www.billboard.com/music/music-news/jay-zs-tom-ford-shout-out-on-magna-carta-album-makes-designer-feel-1569302/ |title=Jay-Z's 'Tom Ford' Shout Out on 'Magna Carta' Album Makes Designer Feel 'Flattered': Exclusive |publisher=Billboard |date=2013-07-08 |access-date=2013-10-16}}</ref>
+
+== Production ==
+The song was [[Hip hop production|produced]] by [[Timbaland]] and [[Jerome "J-Roc" Harmon]].<ref>{{cite web|url=http://www.xxlmag.com/news/2013/07/timbaland-breaks-down-jay-zs-magna-carta-holy-grail/ |title=Timbaland Breaks Down The Genesis of Jay-Z's 'Magna Carta Holy Grail,' Production Credits – XXL |publisher=Xxlmag.com |date=2013-07-04 |access-date=2013-10-16}}</ref> The song's production begins with influences of [[Radiohead Box Set|Radiohead]]'s "[[Kid A (song)|Kid A]]" and transitions into blasts of "synthesizers and bubbling rhythm".<ref>{{cite news|url=https://www.nytimes.com/2013/07/05/arts/music/jay-z-frets-on-magna-carta-holy-grail.html?_r=2&|title=Jay-Z Frets on 'Magna Carta Holy Grail'|work=The New York Times |date=4 July 2013 |access-date=November 8, 2013 |last1=Pareles |first1=Jon }}</ref> The rest of the beat is constructed out of "machine gun sprays, [[Nintendo]] themes and bottle blows." It also features vocals by [[Beyoncé Knowles|Beyoncé]], credited as Third Ward Trill, on the outro to the song.<ref>{{cite web|url=https://www.billboard.com/music/rb-hip-hop/jay-z-magna-carta-holy-grail-track-by-track-review-1569221/ |title=Jay-Z, 'Magna Carta Holy Grail': Track-By-Track Review |publisher=Billboard |date=2013-07-04 |access-date=2013-10-16}}</ref>
+
+== Critical reception ==
+"Tom Ford" was met with mixed to positive reviews from [[music critic]]s. Colin McGuire of ''[[PopMatters]]'' called the song one of the album's highlights saying, "Timbaland's production is the key here, his trademark bounce fueling the engine of this swift, far-out ride. Adding to the trip is Hov's ability to change his flow on a dime, reminding everyone of how easy he can make the hardest things appear."<ref>{{cite web|last=McGuire |first=Colin |url=https://www.popmatters.com/review/173383-jay-z-magna-carta-holy-grail/ |title=Jay-Z: Magna Carta...Holy Grail (take two) |date=11 July 2013 |publisher=PopMatters |access-date=2013-10-16}}</ref> Kitty Empire of ''[[The Guardian]]'' praised the song calling it, "a juicy cut from Jay-Z's entertaining 13th-odd album. In it, Jay-Z is in a youthful, playground taunt mode, flaunting his wealth as per his own brand requirements. The production – sonar bloops, arpeggiating shivers and tickly beats – grabs the ear even harder."<ref>{{cite web|author=Kitty Empire |url=https://www.theguardian.com/music/2013/jul/07/jay-z-magna-carta-holy-grail-review |title=Jay-Z: Magna Carta Holy Grail – review &#124; Music &#124; The Observer |publisher=Theguardian.com |date=2013-07-07 |access-date=2013-10-16}}</ref> 
+
+Mike Madden of ''[[Consequence of Sound]]'' called the song "a relatively bare track dominated by Jay's emphatic flow", also naming it one of the album's "essential tracks."<ref>{{cite web|url=https://consequence.net/2013/07/album-review-jay-z-magna-carta-holy-grail/ |title=Album Review: Jay-Z – Magna Carta Holy Grail |publisher=Consequence of Sound |date=2013-07-08 |access-date=2013-10-16}}</ref> DJBooth.net praised the song's booming bass and stuttering high-hats.<ref>{{cite web|author=Jay Z |url=http://www.djbooth.net/index/albums/review/jay-z-magna-carta-holy-grail#review |title=Jay-Z – Magna Carta Holy Grail – Stream & Read Album Review |publisher=Djbooth.net |access-date=2013-10-16}}</ref> Ian Cohen of [[Pitchfork Media|Pitchfork]] also praised the song's production.<ref>{{cite web|url=https://pitchfork.com/reviews/albums/18247-jay-z-magna-carta-holy-grail/ |title=Jay-Z: Magna Carta Holy Grail &#124; Album Reviews |publisher=Pitchfork |date=2013-07-08 |access-date=2013-10-16}}</ref>
+
+Simon Vozick-Levinson of ''[[Rolling Stone]]'' gave the song a negative review saying, "Tom Ford" might mark the lyrical nadir of Jay-Z's catalog. He sounds bored half to death by the basic rhyme, listlessly repeating the designer's name like it's going to magically transform into a clever or catchy hook. It hurts to see him waste a primo Timbaland beat like this."<ref>{{cite web|author=Simon Vozick-Levinson |url=https://www.rollingstone.com/music/albumreviews/magna-carta-holy-grail-20130710 |title=Jay-Z's 'Magna Carta... Holy Grail' &#124; Album Reviews |publisher=Rolling Stone |date=2013-07-10 |access-date=2013-10-16}}</ref> Kyle Anderson of ''[[Entertainment Weekly]]'' called the song "embarrassing, and not just because everybody — even [[Clipse]] — abandoned [[Trap music (hip hop)|trap music]] years ago."<ref>{{cite web|author=Kyle Anderson, Ray Rahman |url=https://www.ew.com/ew/article/0,,20598265_20715675,00.html |archive-url=https://archive.today/20130718175758/http://www.ew.com/ew/article/0,,20598265_20715675,00.html |url-status=dead |archive-date=July 18, 2013 |title=Magna Carta Holy Grail Album Review |publisher=EW.com |date=2013-08-01 |access-date=2013-10-16}}</ref> Jesse Cataldo of [[Slant Magazine]] said the song was full of, "pure, empty name-checking".<ref>{{cite web|url=https://www.slantmagazine.com/music/review/jay-z-magna-carta-holy-grail |title=Jay-Z: Magna Carta... Holy Grail &#124; Music Review |date=7 July 2013 |publisher=Slant Magazine |access-date=2013-10-16}}</ref> Dan Weiss of ''[[Paste (magazine)|Paste]]'' put down the song for being hard for the average listener to connect to.<ref>{{cite magazine|first=Dan |last=Weiss |url=https://www.pastemagazine.com/music/jay-z/jay-z-magna-cartaholy-grail |title=Jay-Z: Magna Carta...Holy Grail |magazine=Paste magazine |date=2013-07-11 |access-date=2025-02-16}}</ref>
+
+[[File:Jay-Z Beyonce.jpg|200px|thumb|Jay-Z embraces wife [[Beyoncé]] after his performance of "Tom Ford" during [[The Mrs. Carter Show World Tour]], 2013]]
+''Rolling Stone'' ranked "Tom Ford" at number 77 on their list of the 100 Best Songs of 2013. They commented saying, "It might be his most lavish playa anthem ever, the work of man who has traded street corners for runways but can still pull off a line like "flush out a Riesling/When Hov's out them hoes out/Y'all put y'all weaves in."<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-lists/100-best-songs-of-2013-38994/|title=100 Best Songs of 2013|first1=Rolling|last1=Stone|magazine=[[Rolling Stone]] |date=December 4, 2013}}</ref>
+
+== Live performances ==
+On August 5, 2013, Beyoncé played her final North American [[Mrs. Carter Show World Tour]] show at [[Brooklyn]]'s [[Barclays Center]], at which she brought out Jay-Z to perform "Tom Ford" for the first time.<ref>{{cite web|url=https://pitchfork.com/news/51788-watch-beyonce-brings-out-jay-z-to-perform-tom-ford-at-last-nights-show/ |title=Watch: Beyoncé Brings Out Jay-Z to Perform "Tom Ford" at Last Night's Show &#124; News |publisher=Pitchfork |date=2013-08-06 |access-date=2013-10-16}}</ref><ref>{{cite web|url=http://www.rap-up.com/2013/08/06/jay-z-performs-tom-ford-at-beyonces-brooklyn-show/ |archive-url=https://web.archive.org/web/20130929085823/http://www.rap-up.com/2013/08/06/jay-z-performs-tom-ford-at-beyonces-brooklyn-show/ |url-status=dead |archive-date=September 29, 2013 |title=Jay Z Performs 'Tom Ford' at Beyoncé's Brooklyn Show |publisher=Rap-Up.com |access-date=2013-10-16}}</ref><ref>{{cite web|url=https://www.nme.com/news/beyonce/71865 |title=Jay Z joins Beyonce onstage in New York to play 'Tom Ford' &#124; News |publisher=Nme.Com |date=2013-08-06 |access-date=2013-10-16}}</ref> Jay-Z also performed "Tom Ford" throughout his [[Legends of the Summer Stadium Tour]] in 2013. He also performed the single throughout his [[Magna Carter World Tour]], that took place from October 2013 to January 31, 2014.<ref>{{cite web|url=https://www.mirror.co.uk/3am/celebrity-news/jay-z-tour-review-setlist-2361499 |title=Jay Z tour review and setlist London O2 Arena: 8 things I learned – James Robertson – 3am & Mirror Online |publisher=Mirror.co.uk |date=2013-10-11 |access-date=2013-10-16}}</ref>
+
+== Remixes ==
+On December 4, 2013, Jay-Z released the official remix to "Tom Ford" on his 44th birthday featuring deceased rapper [[Pimp C]]. Coincidentally, or perhaps intentionally, this was also the sixth anniversary of Pimp C's passing.  The two had previously collaborated during his life, on the hit song "[[Big Pimpin']]".<ref>{{Cite web|url=https://www.complex.com/music/2013/12/jay-z-pimp-c-tom-ford-remix|title=Listen to Jay Z's Remix of "Tom Ford" Featuring Pimp C|website=Complex}}</ref>
+ 
+On September 4, 2013, Ghanaian rapper [[Sarkodie (rapper)|Sarkodie]] freestyled to "Tom Ford" on [[BBC Radio]]'s [[Tim Westwood]] TV.<ref>{{cite web|url=http://www.ghanamotion.com/videos/sarkodie-tom-ford-freestyle-on-tim-westwood |title=Sarkodie "Tom Ford" freestyle on Tim Westwood &#124; Ghanamotion.com – Creativity at its Best |publisher=Ghanamotion.com |date=2013-09-04 |access-date=2013-10-16}}</ref> On October 15, 2013, rapper [[Angel Haze]] released a freestyle to "Tom Ford" as part of her "30 Gold Freestyle" series.<ref>{{cite web|url=https://consequence.net/2013/10/listen-angel-haze-freestyles-over-jay-zs-tom-ford/ |title=Listen: Angel Haze freestyles over Jay Z's "Tom Ford" |date=16 October 2013 |publisher=Consequence of Sound |access-date=2013-10-16}}</ref>
+
+== Accolades ==
+{| class="wikitable"
+|-
+!Year
+!Ceremony
+!Award
+!Result
+|-
+|rowspan="1"|2014
+|rowspan="1"|[[Grammy Awards]] ([[56th Grammy Awards|56th]])
+|[[Grammy Award for Best Rap Performance|Best Rap Performance]]<ref>{{Cite web|url=https://ew.com/article/2013/12/06/grammy-nominations-2014/|title=Grammy nominations 2014: See the list of nominees|author=<!-- not stated --> |date=December 6, 2013|website=EW.com}}</ref>
+|{{nominated}}
+|}
+
+== Chart performance ==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Peak<br />position
+|-
+!scope="row"{{single chart|UKZobbel|164|date=130720}}
+|-
+!scope="row"{{single chart|UKrandb|22|artist=Jay-Z|date=2013-11-16}}
+|-
+!scope="row"{{single chart|Billboardhot100|39|artist=Jay-Z|song=Tom Ford}}
+|-
+!scope="row"{{single chart|Billboardrandbhiphop|11|artist=Jay-Z|song=Tom Ford}}
+|-
+!scope="row"{{single chart|Billboardrhythmic|6|artist=Jay-Z|song=Tom Ford|access-date=January 16, 2014}}
+|-
+!scope="row"{{single chart|Billboardrapsongs|8|artist=Jay-Z|song=Tom Ford|access-date=May 20, 2015}}
+|-
+|}
+
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!scope="col"|Chart (2013)
+!scope="col"|Position
+|-
+! scope="row"|US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=4|title=2013 Year End Charts — R&B/Hip-Hop Songs|publisher=Prometheus Global Media|access-date=December 13, 2013}}</ref>
+| 49
+|-
+! scope="row"|US [[Rap Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2013/rap-songs?page=3|title=2013 Year End Charts — Rap Songs|publisher=Prometheus Global Media|access-date=December 13, 2013}}</ref>
+| 36
+|-
+!scope="col"|Chart (2014)
+!scope="col"|Position
+|-
+! scope="row"|US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|title=2014 Year End Charts — R&B/Hip-Hop Songs|magazine=Billboard|access-date=September 14, 2019}}</ref>
+| 93
+|-
+! scope="row"| US [[Rhythmic (chart)|Rhythmic]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/rhythmic-songs|title=Rhythmic Songs – Year-End 2014|magazine=Billboard|access-date=September 14, 2019}}</ref>
+| 50
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|relyear=2013|type=single|award=Platinum|certyear=2015|artist=Jay Z|title=Tom Ford}}
+{{Certification Table Bottom | nosales=true|noshipments=true|streaming=true}}
+
+==Release history==
+{| class="wikitable"
+|-
+! Region
+! Date
+! Format
+! Label(s)
+|-
+|United Kingdom
+|September 26, 2013<ref>{{cite web|url=https://www.bbc.co.uk/1xtra/playlist/|title=Radio 1Xtra Playlist|archive-url=https://archive.today/20131006135951/http://www.bbc.co.uk/1xtra/playlist/|archive-date=October 6, 2013|access-date=November 8, 2013|url-status=dead}}</ref>
+| [[Urban contemporary]] radio
+| rowspan="3"| {{flatlist|
+* [[Roc Nation]]
+* [[Roc-A-Fella]]
+* [[Universal Music Distribution|Universal]]
+}}
+|-
+|United States
+|October 15, 2013<ref name="USRadioRelease"/>
+|[[Rhythmic contemporary]] radio
+|-
+|United Kingdom
+|October 21, 2013<ref name="BBC Xtra">{{cite web | url=https://www.bbc.co.uk/1xtra/playlist/ | title=BBC Radio 1Xtra Playlist – Monday 21 October | work=[[BBC Radio 1Xtra]] | publisher=[[BBC]] | access-date=October 21, 2013 | archive-url=https://archive.today/20131021112605/http://www.bbc.co.uk/radio1/playlist/ | archive-date=October 21, 2013}}</ref>
+|[[Contemporary hit radio]]
+|}
+
+==References==
+{{Reflist|30em}}
+
+{{Jay-Z songs}}
+{{Tom Ford}}
+{{Authority control}}
+
+[[Category:2013 singles]]
+[[Category:2013 songs]]
+[[Category:Jay-Z songs]]
+[[Category:Roc-A-Fella Records singles]]
+[[Category:Roc Nation singles]]
+[[Category:Songs written by Jay-Z]]
+[[Category:Songs written by Timbaland]]
+[[Category:Song recordings produced by Timbaland]]
+[[Category:Song recordings produced by J-Roc]]
+[[Category:Songs written by Jerome "J-Roc" Harmon]]
+[[Category:Tom Ford|Song]]
+[[Category:Universal Music Group singles]]

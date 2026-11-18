@@ -1,0 +1,809 @@
+{{Short description|None}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox artist discography
+| Artist                 = [[DJ Snake]]
+| Image                  = DJ Snake Paris 02.2020.jpg
+| Caption                = DJ Snake in 2020
+| Studio                 = 3
+| Singles                = 45
+| Music videos           = 15
+| Option                 = 5
+| Option name            = Promotional singles
+| 1Option                = 5
+| 1Option name           = DJ mixes
+}}
+
+French [[disc jockey|DJ]] and [[electronic dance music|EDM]] producer [[DJ Snake]] has released three [[studio album]]s, one [[DJ mix]], and 45 [[single (music)|singles]].
+
+== Studio albums ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of studio albums, with selected details, chart positions, and certifications shown
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:24em;" | Album details
+! scope="col" colspan="8" | Peak chart positions
+! scope="col" rowspan="2" style="width:16em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web|url=http://lescharts.com/showinterpret.asp?interpret=DJ+Snake|title=Discographie DJ Snake|website=lescharts.com|language=fr|access-date=20 April 2026}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web|url=http://www.australian-charts.com/showinterpret.asp?interpret=DJ+Snake|title=Discography DJ Snake|work=Australian Charts Portal|publisher=Hung Medien|access-date=27 November 2018}}
+* "Talk": {{cite web|url=http://www.noise11.com/news/aria-singles-calvin-harris-and-rihanna-no-1-for-second-week-20160611|title=ARIA Singles: Calvin Harris and Rihanna No 1 for Second Week|publisher=Noise11|last=Ryan|first=Gavin|date=11 June 2016|accessdate=11 June 2016}}
+* "A Different Way": {{cite web|url=https://www.auspop.com.au/2017/09/aria-chart-watch-440/|title=ARIA Chart Watch #440|website=Auspop.com|date=30 September 2017|accessdate=30 September 2017|archive-date=30 September 2017|archive-url=https://web.archive.org/web/20170930132752/https://www.auspop.com.au/2017/09/aria-chart-watch-440/|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL]]<br /><ref name="FL">{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=DJ+Snake|title=Discografie DJ Snake|work=Belgium (Flanders) Charts Portal|publisher=Hung Medien|language=nl}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artist_search=DJ+Snake&do_search=do|title=Discographie DJ Snake|publisher=GfK Entertainment|language=de|accessdate=20 June 2019}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Album Top 100|NLD]]<br /><ref name="NLD">Peak chart positions for songs in the Netherlands:
+* For all except noted: {{cite web|url=http://dutchcharts.nl/showinterpret.asp?interpret=DJ+Snake|title=Discografie DJ Snake|work=Dutch Charts Portal|publisher=Hung Medien|language=nl}}
+* For "You Know You Like It": {{cite web|url=http://www.dutchcharts.nl/showitem.asp?interpret=AlunaGeorge&titel=You+Know+You+Like+It+%28DJ+Snake+Remix%29&cat=s|title=AlunaGeorge – You Know You Like It (DJ Snake Remix)|work=Dutch Charts Portal|publisher=Hung Medien|language=nl}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK">Peaks in the UK:
+* All except noted: {{cite web|url=http://www.officialcharts.com/artist/48065/dj-snake/|title=DJ SNAKE {{!}} full Official Charts history|publisher=[[Official Charts Company]]|accessdate=13 August 2016}}
+* "Turn Down for What": {{cite web|url=http://www.officialcharts.com/artist/_/dj%20snake%20%26%20lil%20jon/|title=DJ Snake > UK Charts|publisher=Official Charts Company|work=Officialcharts.com/}}
+* "Talk": {{cite web|url=http://www.zobbel.de/cluk/160611cluk.txt|title=CHART: CLUK Update 11.06.2016 (wk23)|website=Zobbel.de|accessdate=20 June 2016}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref>{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/tlp/|title=DJ Snake – Chart History: ''Billboard'' 200|magazine=[[Billboard (magazine)|Billboard]]|access-date=20 April 2026}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Top Dance Albums|US<br />Dance]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/dj-snake/chart-history/elp/|title=DJ Snake – Chart History: Top Dance Albums|magazine=[[Billboard (magazine)|Billboard]]|access-date=20 April 2026}}</ref>
+|-
+! scope="row"| ''[[Encore (DJ Snake album)|Encore]]''
+|
+*Released: 5 August 2016
+*Label: [[Interscope Records|Interscope]]
+*Format: [[Compact disc|CD]], [[Music download|Digital download]], [[Streaming media|streaming]]
+| 4 || 10 || 22 || 73 || 14 || 46 || 8 || 1
+|
+* [[SNEP]]: Platinum<ref name="SNEP">{{cite certification|region=France|artist=DJ Snake|access-date=15 September 2026}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref name=ARIA25a>{{cite certification|region=Australia|type=album|certyear=2025|access-date=2 December 2025}}</ref>
+* [[Recording Industry Association of America|RIAA]]: Platinum<ref name="riaa" />
+|-
+! scope="row"| ''[[Carte Blanche (DJ Snake album)|Carte Blanche]]''
+|
+*Released: 25 July 2019
+*Label: [[Geffen Records|Geffen]]
+*Format: CD, digital download, streaming
+| 5 || — || 23 || 99 || 23 || — || 48 || 1
+|
+* SNEP: Platinum<ref name="SNEP"/>
+* RIAA: Gold<ref name="riaa" />
+|-
+! scope="row"| ''[[Nomad (DJ Snake album)|Nomad]]''
+|
+*Released: 7 November 2025
+*Label: DJ Snake, Interscope
+*Format: CD, [[LP record|LP]], digital download, streaming
+| 35 || — || — || — || — || — || — || 7
+|
+|-
+| colspan="11" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+== DJ mixes ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of DJ mixes, with details
+! scope="col" style="width:16em;" | Title
+! scope="col" style="width:24em;" | Album details
+|-
+! scope="row"| ''Live at Paris La Défense Arena''
+|
+*Released: 2 October 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/live-at-paris-la-défense-arena-dj-mix/1533709731|title=Live at Paris La Défense Arena (DJ Mix) by DJ Snake on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|}
+
+== Singles ==
+=== As lead artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:16em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:16em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web|url=http://austriancharts.at/showinterpret.asp?interpret=DJ+Snake|title=Discographie DJ Snake|work=Austrian Charts Portal|publisher=Hung Medien|language=de}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL]]<br /><ref name="FL"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN">{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/can/|title=DJ Snake Chart History: Canadian Hot 100|work=[[Billboard (magazine)|Billboard]]|accessdate=2 November 2021}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Single Top 100|NLD]]<br /><ref name="NLD"/>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US100">{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/hsi/|title=DJ Snake – Chart History: Hot 100|work=[[Billboard (magazine)|Billboard]]|access-date=31 August 2021}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="USDanceSongs">{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/dan/|title=DJ Snake – Chart History: Hot Dance/Electronic Songs|work=[[Billboard (magazine)|Billboard]]|access-date=30 April 2024}}</ref>
+|-
+! scope="row"| "[[Turn Down for What]]"<br /><span style="font-size:85%;">(with [[Lil Jon]])</span>
+| 2013
+| 19 || 13 || 35 || 18 || 11 || 31 || 21 || 23 || 4 || 1
+|
+* [[Australian Recording Industry Association|ARIA]]: 2× Platinum<ref>{{cite web |url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2014.htm |title=ARIA Charts – Accreditations – 2014 Singles |accessdate=22 April 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20140808111800/http://aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2014.htm |archivedate=8 August 2014 }}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name=BPI>{{cite certification|region=United Kingdom|artist=DJ Snake|access-date=7 August 2026}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: 3× Gold<ref name="BVMI">{{cite certification|region=Germany|artist=DJ Snake|access-date=12 August 2023}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Gold<ref name="IFPIAUT">{{cite certification|region=Austria|artist=DJ Snake|access-date=8 February 2023}}</ref>
+* [[Music Canada|MC]]: 7× Platinum<ref name="MC">{{cite certification|region=Canada|artist=DJ Snake|access-date=15 September 2025}}</ref>
+* RIAA: 8× Platinum<ref name="riaa">{{cite web|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=DJ+Snake#search_section|title=American certifications: DJ Snake – Gold & Platinum|publisher=[[Recording Industry Association of America|RIAA]]|access-date=15 September 2025}}</ref>
+| {{Non-album single}}
+|-
+! scope="row"| "[[Get Low (Dillon Francis and DJ Snake song)|Get Low]]"<br /><span style="font-size:85%;">(with [[Dillon Francis]])</span>
+| rowspan="2"| 2014
+| 93 || 44 || 55 || 58 || 48 || 79 || — || 88 || 61 || 5
+|
+* ARIA: Gold<ref>{{cite web |url=http://www.aria.com.au/pages/SingleAccreds2015.htm |title=ARIA Charts – Accreditations – 2015 Singles |publisher=ARIA |last=Charts |first=ARIA |date=11 July 2015 |accessdate=11 July 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20151106150044/http://www.aria.com.au/pages/SingleAccreds2015.htm |archivedate=6 November 2015 }}</ref>
+* MC: Platinum<ref name="MC"/>
+* RIAA: Platinum<ref name="riaa"/>
+| ''[[Money Sucks, Friends Rule]]''
+|-
+! scope="row"| "[[You Know You Like It#DJ Snake remix|You Know You Like It]]"<br /><span style="font-size:85%;">(with [[AlunaGeorge]])</span>
+| 22 || 11 || 37 || 19 || 21 || 27 || 24 || 67 || 13 || 2
+|
+* ARIA: 5× Platinum<ref name=ARIA25s>{{cite certification|region=Australia|type=single|certyear=2025|access-date=2 December 2025}}</ref>
+* BPI: Gold<ref name="BPI"/>
+* [[Belgian Recorded Music Association|BRMA]]: Gold<ref name="BRMA-2016">{{cite certification|region=Belgium|type=single|certyear=2016|access-date=8 November 2022}}</ref>
+* BVMI: Platinum<ref name="BVMI"/>
+* MC: 3× Platinum<ref name="MC"/>
+* RIAA: 3× Platinum<ref name="riaa"/>
+| {{Non-album single}}
+|-
+! scope="row"| "[[Lean On]]"<br /><span style="font-size:85%;">(with [[Major Lazer]] featuring [[MØ]])</span>
+| rowspan="2"| 2015
+| 2 || 1 || 3 || 2 || 3 || 4 || 1 || 2 || 4 || 1
+|
+* SNEP: Diamond<ref>{{cite certification|region=France|type=single|artist=Major Lazer|title=Lean On|access-date=8 February 2023}}</ref>
+* ARIA: 10× Platinum<ref name=ARIA-2021-Singles>{{cite certification|region=Australia|type=single|certyear=2021|access-date=7 July 2021}}</ref>
+* BPI: 5× Platinum<ref name=BPI/>
+* BRMA: 3× Platinum<ref name="BRMA-2016"/>
+* BVMI: 2× Platinum<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="IFPIAUT"/>
+* MC: 2× Platinum<ref name="MC"/>
+* [[NVPI]]: Platinum<ref>{{cite certification|region=Netherlands|type=single|artist=Major Lazer|title=Lean On|access-date=15 September 2025}}</ref>
+* RIAA: Diamond<ref name="riaa"/>
+| ''[[Peace Is the Mission]]''
+|-
+! scope="row"| "[[Middle (DJ Snake song)|Middle]]"<br /><span style="font-size:85%;">(featuring [[Bipolar Sunshine]])</span>
+| 12 || 5 || 48 || 8 || 20 || 49 || 45 || 10 || 20 || 3
+|
+* SNEP: Platinum<ref name="SNEP"/>
+* ARIA: 6× Platinum<ref name=ARIA25s/>
+* BPI: Platinum<ref name="BPI"/>
+* BRMA: Platinum<ref name="BRMA-2016"/>
+* BVMI: Gold<ref name="BVMI"/>
+* IFPI AUT: Gold<ref name="IFPIAUT"/>
+* MC: 5× Platinum<ref name="MC"/>
+* RIAA: 3× Platinum<ref name="riaa"/>
+| rowspan="4"| ''Encore''
+|-
+! scope="row"| "[[Talk (DJ Snake song)|Talk]]"<br /><span style="font-size:85%;">(featuring [[George Maple]])</span>
+| rowspan="2"| 2016
+| 39 || 57 || — || 57 || — || — || — || 131 || — || 13
+|
+* ARIA: Gold<ref name=ARIA25s/>
+|-
+! scope="row"| "[[Let Me Love You (DJ Snake song)|Let Me Love You]]"<br /><span style="font-size:85%;">(featuring [[Justin Bieber]])</span>
+| 1 || 2 || 4 || 6 || 4 || 1 || 1 || 2 || 4 || 2
+|
+* SNEP: Diamond<ref name="SNEP"/>
+* ARIA: 10× Platinum<ref name=ARIA25s/>
+* BPI: 4× Platinum<ref name="BPI"/>
+* BRMA: 2× Platinum<ref>{{cite certification|region=Belgium|type=single|certyear=2017|access-date=8 November 2022}}</ref>
+* BVMI: Diamond<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="IFPIAUT"/>
+* MC: Diamond<ref name="MC"/>
+* RIAA: 6× Platinum<ref name="riaa"/>
+|-
+! scope="row"| "The Half"<br /><span style="font-size:85%;">(featuring [[Jeremih]], [[Young Thug]] and [[Swizz Beatz]])</span>
+| rowspan="3"| 2017
+| 107 || — || — || — || — || — || — || — || — || 20
+|
+|-
+! scope="row"| "[[A Different Way]]"<br /><span style="font-size:85%;">(featuring [[Lauv]])</span>
+| 57 || 59 || — || 51 || 78 || — || 46 || 85 || —{{efn|group=upper-alpha|"A Different Way" did not enter the ''Billboard'' Hot 100, but peaked at number 23 on the [[Bubbling Under Hot 100]] chart.<ref name="Bubbling">{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/hbu/|title=DJ Snake – Chart history (Bubbling Under Hot 100 Singles)|work=Billboard|accessdate=16 March 2021}}</ref>}} || 11
+|
+* SNEP: Platinum<ref name="SNEP"/>
+* ARIA: Platinum<ref name=ARIA25s/>
+* MC: Platinum<ref name="MC"/>
+* RIAA: Gold<ref name="riaa"/>
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Broken Summer"<br /><span style="font-size:85%;">(featuring [[Max Frost]])</span><ref>{{Cite web|url=https://music.apple.com/us/album/broken-summer-feat-max-frost-single/1298064092|title=Broken Summer (feat. Max Frost) – Single by DJ Snake on Apple Music|website=iTunes|access-date=27 October 2017}}</ref>
+| — || — || — || — || — || — || — || — || — || 34
+|
+|-
+! scope="row"| "[[Magenta Riddim]]"
+| rowspan="6" | 2018
+| 46 || — || — || — || — || — || — || — || — || 16
+|
+* MC: Gold<ref name="MC"/>
+| ''Carte Blanche''
+|-
+! scope="row"| "Gassed Up"<br /><span style="font-size:85%;">(with [[Jauz]])</span><ref>{{Cite web |url=https://www.billboard.com/articles/news/dance/8289671/dj-snake-jauz-gassed-up |title=DJ Snake Drops 'Gassed Up' Collab With Jauz: Listen |last=Bein |first=Kat |website=[[Billboard (magazine)|Billboard]] |date=5 April 2018 |archive-url=https://web.archive.org/web/20180407052638/https://www.billboard.com/articles/news/dance/8289671/dj-snake-jauz-gassed-up |archive-date=7 April 2018 |url-status=live |access-date=7 April 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || — 
+|
+| ''The Wise and the Wicked''
+|-
+! scope="row"| "Public Enemy"<br /><span style="font-size:85%;">(with [[Yellow Claw (DJs)|Yellow Claw]])</span><ref>{{Cite news|url=https://www.youredm.com/2018/06/06/dj-snake-yellow-claw-public-enemy-friday/|title=DJ Snake & Yellow Claw Tease Their Next Collaboration Out Very Soon |work=Your EDM|date=6 June 2018|accessdate=9 June 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || — 
+|
+| ''[[New Blood (Yellow Claw album)|New Blood]]''
+|-
+! scope="row"| "Let's Get Ill"<br /><span style="font-size:85%;">(with Mercer)</span><ref>{{Cite news|url=https://www.billboard.com/articles/news/dance/8462136/dj-snake-mercer-lets-get-ill|title=DJ Snake & Mercer Announce 'Let's Get Ill' Collaboration|work=Billboard|date=21 June 2018|accessdate=22 June 2018}}</ref>
+| 132 || — || — || — || — || — || — || — || — || 45
+|
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Maradona Riddim"<br /><span style="font-size:85%;">(with [[Niniola]])</span><ref>{{Cite news|url=https://www.billboard.com/articles/news/dance/8465358/dj-snake-niniola-maradona-riddim|title=DJ Snake and Niniola Find Inspiration in Soccer On Mellow 'Maradona Riddim': Listen|work=Billboard|date=13 July 2018|accessdate=22 June 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || — 
+|
+|-
+! scope="row"| "[[Taki Taki (song)|Taki Taki]]"<br /><span style="font-size:85%;">(featuring [[Selena Gomez]], [[Cardi B]] and [[Ozuna]])</span>
+| 2 || 24 || 13 || 18 || 7 || 8 || 3 || 15 || 11 || 2
+|
+* SNEP: Diamond<ref name="SNEP"/>
+* ARIA: 3× Platinum<ref name=ARIA25s/>
+* BPI: Platinum<ref name="BPI"/>
+* BRMA: Platinum<ref name="BRMA-2019">{{cite certification|region=Belgium|type=single|certyear=2019|access-date=8 November 2022}}</ref>
+* BVMI: Platinum<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="IFPIAUT"/>
+* MC: 6× Platinum<ref name="MC"/>
+* RIAA: 4× Platinum<ref name="riaa"/>
+| rowspan="6"| ''Carte Blanche''
+|-
+! scope="row"| "Try Me" <br /><span style="font-size:85%;">(with Plastic Toy)</span><ref>{{Cite web |url=https://itunes.apple.com/au/album/try-me-single/1455010214 |title=Try Me – Single by Plastic Toy & DJ Snake on Apple Music |website=[[Apple Music]] |accessdate=15 March 2019}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+| rowspan="5"| 2019
+| — || — || — || — || — || — || — || — || — || — 
+|
+|-
+! scope="row"| "SouthSide" <br /><span style="font-size:85%;">(with [[Eptic]])</span><ref>{{Cite web |url=https://www.billboard.com/articles/news/dance/8503679/dj-snake-eptic-southside |title=DJ Snake & Eptic go full American dubstep on 'SouthSide': Listen |last=Bein |first=Kat |date=22 March 2019 |website=Billboard |archive-url=https://web.archive.org/web/20190323135825/https://www.billboard.com/articles/news/dance/8503679/dj-snake-eptic-southside |archive-date=23 March 2019 |accessdate=29 March 2019}}</ref>
+| — || — || — || — || — || — || — || — || — || 40
+|
+|-
+! scope="row"| "[[Enzo (song)|Enzo]]" <br /><span style="font-size:85%;">(with [[Sheck Wes]], featuring [[Offset (rapper)|Offset]], [[21 Savage]] and [[Gucci Mane]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Loco Contigo]]" <br /><span style="font-size:85%;">(with [[J Balvin]] and [[Tyga]])</span>
+| 1 || — || 13 || 9 || 54 || 3 || 3 || 87 || 95 || —
+|
+* SNEP: Diamond<ref name="SNEP"/>
+* ARIA: Platinum<ref name=ARIA25s/>
+* BPI: Silver<ref name="BPI"/>
+* BRMA: Platinum<ref name="BRMA-2019"/>
+* BVMI: Platinum<ref name="BVMI"/>
+* IFPI AUT: Platinum<ref name="IFPIAUT"/>
+* MC: 3× Platinum<ref name="MC"/>
+* RIAA: Platinum<ref name="riaa"/>
+|-
+! scope="row"| "[[Fuego (DJ Snake, Sean Paul and Anitta song)|Fuego]]"<br /><span style="font-size:85%;">(with [[Sean Paul]] and [[Anitta (singer)|Anitta]] featuring [[Tainy]])</span><ref>{{cite web|url=https://www.vagalume.com.br/news/2019/07/25/confira-fuego-single-de-dj-snake-com-anitta-e-sean-paul-para-o-novo-album-carte-blanche.html|title=DJ Snake divulga "Fuego", single em parceria com Anitta e Sean Paul. Confira!|author=Redação do Vagalume|date=25 July 2019|website=[[Vagalume]]|language=Portuguese|accessdate=11 October 2019}}</ref>
+| — || — || — || — || — || — || — || — || — || 31
+|
+|-
+! scope="row"| "Trust Nobody"<ref>{{cite web|url=https://music.apple.com/us/album/trust-nobody-single/1518633191|title=Trust Nobody - Single by DJ Snake on Apple Music|date=24 June 2020|website=[[Apple Music]]|language=English|accessdate=24 June 2020}}</ref>
+| 2020
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Selfish Love (DJ Snake and Selena Gomez song)|Selfish Love]]"<br>{{small|(with Selena Gomez)}}
+| rowspan="7"| 2021
+| 54 || — || — || 73 || 71 || — || — || 93 || —{{efn|group=upper-alpha|"Selfish Love" did not enter the ''Billboard'' Hot 100, but peaked at number five on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || 4
+|
+* SNEP: Platinum<ref name="SNEP"/>
+| ''[[Revelación]]''
+|-
+! scope="row"| "[[Enjoy Enjaami]]" <br />{{small|(with [[Dhee (singer)|Dhee]] featuring [[Arivu]] and [[Santhosh Narayanan]])}}<ref>{{Cite web|url=https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM|title=Enjoy Enjaami - Spotify Singles (with Dhee feat. Arive & Santhosh Narayanan)|publisher=[[Spotify]]|accessdate=25 June 2021}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Spotify Singles''
+|-
+! scope="row"| "Ring the Alarm" <br />{{small|(with [[Malaa]])}}<ref>{{Cite web |last=Goldenberg |first=Ross |date=23 July 2021 |title=DJ Snake and Malaa 'Ring The Alarm' on first-ever standalone meeting |url=https://dancingastronaut.com/2021/07/dj-snake-and-malaa-ring-the-alarm-on-first-ever-standalone-meeting/ |archive-url=https://web.archive.org/web/20210731170106/https://dancingastronaut.com/2021/07/dj-snake-and-malaa-ring-the-alarm-on-first-ever-standalone-meeting/ |archive-date=31 July 2021 |accessdate=19 August 2021 |website=Dancing Astronaut}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[You Are My High#2021 remix|You Are My High]]"
+| 121 || — || — || — || — || — || — || — || — || 6
+|
+* SNEP: Gold<ref name="SNEP"/>
+* ARIA: Platinum<ref name=ARIA25s/>
+* BPI: Silver<ref name="BPI"/>
+* MC: Gold<ref name="MC"/>
+| ''Nomad''
+|-
+! scope="row"| "[[Run It (DJ Snake song)|Run It]]" <br>{{small|(featuring [[Rick Ross]] and [[Rich Brian]])}}
+| — || — || — || — || — || — || — || — || — || 13
+|
+| ''[[Shang-Chi and the Legend of the Ten Rings]]''
+|-
+! scope="row"| "Pondicherry" <br>{{small|(with [[Malaa]])}}<ref>{{Cite web |last=Sweeney |first=Farrell |date=1 October 2021 |title=Astro Arcade: DJ Snake, Malaa team up for fiery 'Pondicherry' in honor of FIFA 22 release |url=https://dancingastronaut.com/2021/10/astro-arcade-dj-snake-malaa-team-up-for-fiery-pondicherry-in-honor-of-fifa-22-release/ |archive-url=https://web.archive.org/web/20211003052122/https://dancingastronaut.com/2021/10/astro-arcade-dj-snake-malaa-team-up-for-fiery-pondicherry-in-honor-of-fifa-22-release/ |archive-date=3 October 2021 |accessdate=15 October 2021 |website=Dancing Astronaut}}</ref>
+| — || — || — || — || — || — || — || — || — || ―
+|
+| rowspan="5" {{Non-album singles}}
+|-
+! scope="row"| "[[SG (song)|SG]]"<br>{{small|(with [[Ozuna]], [[Megan Thee Stallion]], and [[Lisa (rapper)|Lisa]])}}
+| 87 || — || — || — || 86 || — || — || — || —{{efn|group=upper-alpha|"SG" did not enter the ''Billboard'' Hot 100, but peaked at number two on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || 4
+|
+* SNEP: Gold<ref name="SNEP"/>
+|-
+! scope="row"| "Nightbird"
+| rowspan="2"| 2022
+| — || — || — || — || — || — || — || — || — || 42
+|
+|-
+! scope="row"| "Guddi Riddim"<br />{{small|(with Wade and [[Nooran Sisters]])}}
+| — || — || — || — || — || — || — || — || — || 35
+|
+|-
+! scope="row"| "Westside Story"<ref>{{cite news |last1=Heffler |first1=Jason |title=DJ Snake Slithers Into Summer With Electro-Funk Heater, "Westside Story" |url=https://edm.com/music-releases/dj-snake-westside-story |access-date=6 November 2023 |work=EDM.com |date=16 June 2023 |language=en}}</ref>
+| 2023
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Teka"<br />{{small|(with [[Peso Pluma]])}}
+| rowspan="5"| 2024
+| — || — || — || — || — || — || — || — || — || 11
+|
+| ''[[Éxodo]]''
+|-
+! scope="row"| "Complicated"<br />{{small|(with [[Fridayy]])}}
+| — || — || — || — || — || — || — || — || — || 11
+|
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Goodbyes (Myrrh)"<br />{{small|(with Naomi Sharon)}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Piketú"<br />{{small|(with [[Chencho Corleone]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Solo''
+|-
+! scope="row"| "Diana"<br />{{small|(with [[Hamza (rapper)|Hamza]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+* SNEP: Gold<ref name="SNEP"/>
+| {{Non-album single}}
+|-
+! scope="row"| "Paradise"<br /><span style="font-size:85%;">(with Bipolar Sunshine)</span>
+| rowspan="7"| 2025
+| 34 || — || — || — || — || — || — || — || — || —
+|
+* SNEP: Diamond<ref name="SNEP"/>
+| rowspan="7"| ''Nomad''
+|-
+! scope="row"| "Reloaded"<br />{{small|(with Space Laces)}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Patience"<br />{{small|(with [[Amadou & Mariam]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Noventa"<br />{{small|(with [[J Balvin]])}}
+| 186 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Something Wrong"<br />{{small|(with [[Don Toliver]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Bring the House Down"<ref>{{cite news|last=Talim|first=Ansh|date=10 October 2025|title=DJ Snake and Dillon Francis Reunite for Trap Banger, "Bring the House Down" With TRXGGX|url=https://edm.com/music-releases/dj-snake-dillon-francis-trxggx-bring-the-house-down|work=EDM.com|archive-url=https://web.archive.org/web/20251012194418/https://edm.com/music-releases/dj-snake-dillon-francis-trxggx-bring-the-house-down|archive-date=12 October 2025|url-status=live|access-date=13 October 2025}}</ref><br />{{small|(with [[Dillon Francis]] and Trxggx)}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[In the Dark (DJ Snake and Stray Kids song)|In the Dark]]"<br />{{small|(with [[Stray Kids]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Soda"
+| 2026
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+'''Notes'''
+{{notelist-ua}}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as featured artist, with chart position and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:16em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref>{{cite web|url=https://www.billboard.com/charts/dance-electronic-songs|title=EDM Music & Dance Songs Chart|website=Billboard|accessdate=24 March 2019}}</ref>
+|-
+! scope="row"| "Good Day"<ref>{{cite web|url=http://www.billboard.com/articles/news/dance/7702068/yellow-claw-dj-snake-elliphant-good-day|title=Yellow Claw, DJ Snake & Elliphant Will Make Sure You Have a 'Good Day': Listen|publisher=[[Prometheus Global Media]]|work=[[Billboard (magazine)|Billboard]]}}</ref><br /><span style="font-size:85%;">([[Yellow Claw (DJs)|Yellow Claw]] featuring DJ Snake and [[Elliphant]])</span>
+| 2017
+| 41
+|
+| ''[[Los Amsterdam]]''
+|-
+! scope="row"| "Creep on Me"<ref>{{Cite web |url=https://www.billboard.com/articles/news/dance/8471641/dj-snake-french-montana-gashi-creep-on-me |title=DJ Snake and French Montana Give GASHI's 'Creep On Me' Extra Bounce: Listen |last=Bein |first=Kat |date=22 August 2018 |website=[[Billboard (magazine)|Billboard]] |archive-url=https://web.archive.org/web/20180822185201/https://www.billboard.com/articles/news/dance/8471641/dj-snake-french-montana-gashi-creep-on-me |archive-date=22 August 2018 |accessdate=23 August 2018}}</ref> <br /><span style="font-size:85%;">([[Gashi (rapper)|Gashi]] featuring [[French Montana]] and DJ Snake)</span>
+| 2018
+| —
+|
+* MC: Gold<ref name="MC"/>
+| rowspan="2"| ''Gashi''
+|-
+! scope="row"| "Safety"<ref>{{Cite web |url=https://dancingastronaut.com/2019/08/dj-snake-and-gashi-collaboration-once-again-for-safety/ |title=DJ Snake and Gashi collaborate once again on 'Safety' |last=Dexter |first=Robyn |date=28 August 2019 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20190913150342/https://dancingastronaut.com/2019/08/dj-snake-and-gashi-collaboration-once-again-for-safety/ |archive-date=13 September 2019 |accessdate=13 September 2019}}</ref> <br /><span style="font-size:85%;">(Gashi featuring DJ Snake)</span>
+| rowspan="2"| 2019
+| —
+|
+|-
+! scope="row"| "All This Lovin"<ref>{{cite web|url=https://music.apple.com/us/album/all-this-lovin-feat-dj-snake-single/1490656267|title=All This Lovin (feat. DJ Snake) - Single by Vlade Kay on Apple Music|date=20 December 2019|website=[[Apple Music]]|language=English|accessdate=9 July 2020}}</ref> <br /><span style="font-size:85%;">(Vlade Kay featuring DJ Snake)</span>
+| —
+|
+| {{N/A|Non-album single}}
+|-
+| colspan="5" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+=== Promotional singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of promotional singles, with chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:16em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="USDanceSongs"/>
+|-
+! scope="row"| "Together"
+| rowspan="2"| 2013
+| — || —
+| {{n/a|Non-album promotional single}}
+|-
+! scope="row" | "Bird Machine"<br /><span style="font-size:85%;">(featuring Alesia)</span>
+| — || —
+| ''Jeffree's, Vol. 7''
+|-
+! scope="row"| "Lunatic"<br /><span style="font-size:85%;">(with Mercer)</span>
+| 2014
+| — || —
+| {{n/a|Non-album promotional single}}
+|-
+! scope="row"| "Propaganda"
+| rowspan="2"| 2016
+| — || 35
+| rowspan="2"| ''Encore''
+|-
+! scope="row"| "Ocho Cinco"<br /><span style="font-size:85%;">(featuring [[Yellow Claw (DJs)|Yellow Claw]])</span>
+| 89 || 26
+|-
+| colspan="5" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+== Other charted songs ==
+=== As lead artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of other charted songs, with chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! colspan="6" scope="col" | Peak chart positions
+! scope="col" rowspan="2" style="width:8em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Circle Digital Chart|KOR]]<br /><ref>{{cite web|url=https://circlechart.kr/page_chart/onoff.circle?nationGbn=T&serviceGbn=ALL&targetTime=45&hitYear=2023&termGbn=week&yearTime=3|title=2023 Week 45 Digital Chart|website=[[Circle Chart]]|language=ko|access-date=November 16, 2023}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Bubbling Under Hot 100 Singles|US<br />Bub.]]<br /><ref>{{cite web|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3ADJ+Snake&f%5B1%5D=itm_field_chart_id%3A344&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=DJ+Snake|title=DJ Snake – Chart history (Bubbling Under Hot 100 Singles)|work=Billboard|accessdate=5 January 2017}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dance/Electronic Songs|US<br />Dance]]<br /><ref name="USDanceSongs"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Global 200|WW]]<br /><ref name="Global200">{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/glo/|title=DJ Snake – Chart History: ''Billboard'' Global 200|work=[[Billboard (magazine)|Billboard]]|access-date=30 April 2024}}</ref>
+|-
+! scope="row"| "Let Me Love You" ([[R. Kelly]] Remix)<br /><span style="font-size:85%;">(with R. Kelly)</span>
+| 2017
+| — || — || — || 24 || 11 || —
+| {{N/A|Non-album song}}
+|-
+! scope="row"| "Butterly Effect"
+| rowspan="7"| 2019
+| 167 || — || — || — || — || —
+| rowspan="8"| ''Carte Blanche''
+|-
+! scope="row"| "Quiet Storm"<br /><span style="font-size:85%;">(featuring [[Zomboy]])</span>
+| 199 || — || — || — || 48 || —
+|-
+! scope="row"| "Recognize"<br /><span style="font-size:85%;">(featuring [[Majid Jordan]])</span>
+| 176 || — || — || — || — || —
+|-
+! scope="row"| "No More"<br /><span style="font-size:85%;">(featuring [[Zhu (musician)|Zhu]])</span>
+| — || — || — || — || 46 || —
+|-
+! scope="row"| "Made in France"<br /><span style="font-size:85%;">(featuring [[Tchami]], [[Malaa]] and Mercer)</span>
+| — || — || — || — || 50 || —
+|-
+! scope="row"| "When the Lights Go Down"
+| — || — || — || — || 42 || —
+|-
+! scope="row"| "Smile"<br /><span style="font-size:85%;">(featuring [[Bryson Tiller]])</span>
+| — || — || — || — || 31 || —
+|-
+! scope="row"| "Frequency 75"
+| 2020
+| — || 50 || — || — || — || —
+|-
+! scope="row"| "[[Please Don't Change]]"<br /><span style="font-size:85%;">(with [[Jungkook]])</span>
+| 2023
+| — || — || 92 || — || 5 || 46
+| ''[[Golden (Jungkook album)|Golden]]''
+|-
+| colspan="9" style="font-size:85%" | "—" denotes a recording that did not chart or was not released.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of other charted songs, with chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! colspan="1" scope="col" | Peak chart positions
+! scope="col" rowspan="2" style="width:8em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Hot Gospel Songs|US<br>Gospel]]<br /><ref>{{cite web|url=https://www.billboard.com/artist/dj-snake/chart-history/gsi/|title=DJ Snake – Chart History: Hot Gospel Songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=5 May 2026}}</ref>
+|-
+! scope="row"| "Worship"<br>{{small|([[Asake]] featuring DJ Snake)}}
+| 2026
+| 2
+| ''[[M$ney]]''
+|}
+
+== Guest appearances ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:20em;"| Title
+! scope="col"| Year
+! scope="col"| Other artist(s)
+! scope="col" style="width:10em;"| Album
+|-
+! scope="row"| "Slow Down"
+| 2013
+| [[Yellow Claw (DJs)|Yellow Claw]], Spanker
+| ''Amsterdam Twerk Music''
+|-
+! scope="row"| "Happiness"
+| 2020
+| Black Motion, Phemza The Kween
+| N/A
+|}
+
+== Production and songwriting credits ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:20em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col" style="width:10em;"| Artist(s)
+! scope="col" style="width:10em;"| Album
+! scope="col" style="width:10em;"| Credit(s)
+|-
+! scope="row"| "[[Shut It Down (song)|Shut It Down]]"
+| rowspan="3"| 2009
+| [[Pitbull (rapper)|Pitbull]], [[Akon]]
+| ''[[Rebelution (Pitbull album)|Rebelution]]''
+| Producer, programming
+|-
+! scope="row"| "Dancehall Queen"
+| [[Big Ali]], [[Beenie Man]], One World
+|
+| rowspan="2"| Composer
+|-
+! scope="row"| "Drop"
+| Big Ali, One World
+|-
+! scope="row"| "[[Vida 23]]"
+| 2010
+| Pitbull, [[Nayer]]
+| ''[[Armando (album)|Armando]]''
+| Producer, arranger, instrumentation
+|-
+! scope="row"| "[[Government Hooker]]"
+| rowspan="3"| 2011
+| [[Lady Gaga]]
+| ''[[Born This Way (album)|Born This Way]]''
+| Bass, drums, keyboard, producer
+|-
+! scope="row"| "One More Night"
+| [[Jordan Knight]]
+| ''[[Unfinished (album)|Unfinished]]''
+| Composer, producer
+|-
+! scope="row"| "[[Shake Señora]]"
+| Pitbull, [[T-Pain]], [[Sean Paul]]
+| ''[[Planet Pit]]''
+| Instrumentation, producer, programming
+|-
+! scope="row"| "[[Promesses]]"
+| rowspan="5"| 2013
+| [[Tchami]], Kaleem Taylor
+| 
+| Bass, drums, keyboard, producer
+|-
+! scope="row"| "[[Sexxx Dreams]]"
+| Lady Gaga
+| rowspan="3"| ''[[Artpop]]''
+| rowspan="3"| Composer
+|-
+! scope="row"| "[[Do What U Want]]"
+| Lady Gaga, [[R. Kelly]]
+|-
+! scope="row"| "[[Applause (Lady Gaga song)|Applause]]"
+| Lady Gaga
+|-
+! scope="row"| "[[Papaoutai]]"
+| [[Stromae]]
+| ''Racine carrée''
+| Drums
+|-
+! scope="row"| "[[Worth It (Fifth Harmony song)|Worth It]]"
+| 2015
+| [[Fifth Harmony]], [[Kid Ink]]
+| [[Reflection (Fifth Harmony album)|Reflection]]
+| Composer, producer
+|-
+! scope="row"| "FIRE"
+| rowspan="5"| 2016
+| rowspan="3"| [[BTS]]
+| rowspan="2"| [[The Most Beautiful Moment in Life: Young Forever]]
+| rowspan="7"| Composer, producer
+|-
+! scope="row"| "[[Save Me (BTS song)|Save Me]]"
+|-
+! scope="row"| "Begin"
+| [[Wings (BTS album)|Wings]] & You Never Walk Alone
+|-
+! scope="row"| "[[Work from Home (song)|Work From Home]]"
+| Fifth Harmony, [[Ty Dolla $ign]]
+| rowspan="2"| 7/27
+|-
+! scope="row"| "Gonna Get Better"
+| Fifth Harmony
+|-
+! scope="row"| "Burn"
+| rowspan="2"| 2018
+| SayMyName
+|-
+! scope="row"| "Boss"
+| Mercer
+|-
+! scope="row"| "[[Girls Have Fun]]"
+| rowspan="3"| 2019
+| [[Tyga]], [[G-Eazy]], [[Rich The Kid]]
+| ''Legendary''
+| rowspan="6"| Composer, producer
+|-
+! scope="row"| "Revolt"
+| [[Malaa]], Jacknife
+|-
+! scope="row"| "Ramayama"
+| [[Don Omar]], Farruko
+| The Last Album
+|-
+! scope="row"| "[[Amarillo (J Balvin song)|Amarillo]]"
+| rowspan="3"| 2020
+| [[J Balvin]]
+| ''[[Colores]]''
+|-
+! scope="row"| "Action"
+| [[Black Eyed Peas]]
+| ''[[Translation (album)|Translation]]''
+|-
+! scope="row"| "Born Again"
+| [[Tchami]]
+| ''Year Zero''
+|-
+|}
+
+== Remixes ==
+{{more citations needed|date=April 2018}}
+{| class="wikitable"
+!Year
+!Title
+!Original artist(s)
+|-
+|2012
+|"Stress" <small>(DJ Snake & Alesia Trap Vision)</small>
+|[[Justice (band)|Justice]]
+|-
+| rowspan="5" |2013
+|"Humain à l'eau" <small>(DJ Snake Remix)</small>
+|[[Stromae]]
+|-
+|"New Slaves" <small>(DJ Snake Remix)</small>
+|[[Kanye West]]
+|-
+|"It's You" <small>(DJ Snake Remix)</small>
+|[[Duck Sauce]]
+|-
+|"Bubble Butt" <small>(DJ Snake Remix)</small>
+|Major Lazer<br/><small>(featuring [[Bruno Mars]], [[2 Chainz]], Tyga & [[Mystic (singer)|Mystic]])</small>
+|-
+|"Stay the Night" <small>(DJ Snake Remix)</small>
+|[[Zedd]]<br/><small>(featuring [[Hayley Williams]])</small>
+|-
+| rowspan="2" |2014
+|"Dirty Vibe" <small>(DJ Snake & Aazar Remix)</small>
+|[[Skrillex]] & [[Diplo]]<br/><small>(featuring [[G-Dragon]] & [[CL (rapper)|CL]])</small>
+|-
+|"Club Goin' Up on a Tuesday" <small>(DJ Snake Remix)</small>
+|[[ILoveMakonnen]]
+|-
+| rowspan="2" |2015
+|"After Life" <small>(DJ Snake & Mercer Remix)</small>
+|[[Tchami]]<br/><small>(featuring [[Stacy Barthe]])</small>
+|-
+|"How Deep Is Your Love" <small>(DJ Snake Remix)</small>
+|[[Calvin Harris]] & [[Disciples (production team)|Disciples]]
+|-
+| 2018
+|"Made In China" <small>(DJ Snake Remix)</small><ref>{{Cite web |url=https://www.billboard.com/articles/news/dance/8313251/dj-snake-higher-brothers-made-in-china-remix |title=DJ Snake Gives Higher Brothers' 'Made in China' A Dubby Bass Boost: Listen |last=Bein |first=Kat |date=13 April 2018 |website=[[Billboard (magazine)|Billboard]] |archive-url=https://web.archive.org/web/20180415122634/https://www.billboard.com/articles/news/dance/8313251/dj-snake-higher-brothers-made-in-china-remix |archive-date=15 April 2018 |url-status=live |access-date=15 April 2018}}</ref>
+|[[Higher Brothers]]
+|-
+| 2021
+|"Dog Eat Dog" <small>(DJ Snake Remix)</small>
+|YehMe2<br/><small>(featuring [[Duke Deuce]])</small>
+|-
+| 2025
+|"[[Type Dangerous]]" <small>(The Touch the Soul of the People Remix)</small>
+|[[Mariah Carey]]<br/>
+|-
+|}
+
+== Music videos ==
+{{Unreferenced section|date=March 2017}}
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+|-
+! scope="row"| "Turn Down for What"<br />{{small|(with Lil Jon)}}
+| rowspan="3"| 2014
+| [[Daniels (directors)|Daniels]]
+|-
+! scope="row"| "Get Low"<br />{{small|(with Dillon Francis)}}
+| Mister Whitmore
+|-
+! scope="row"| "You Know You Like It"<br />{{small|(with AlunaGeorge)}}
+| Sammy Rawal
+|-
+! scope="row"| "Lean On"<br />{{small|(with Major Lazer featuring MØ)}}
+| 2015
+| [[Tim Erem]]
+|-
+! scope="row"| "Middle"<br />{{small|(featuring Bipolar Sunshine)}}
+| rowspan="3"| 2016
+| [[Colin Tilley]]
+|-
+! scope="row"| "Talk"<br />{{small|(featuring George Maple)}}
+| Emil Nava
+|-
+! scope="row"| "Let Me Love You"<br />{{small|(featuring Justin Bieber)}}
+| James Lees
+|-
+! scope="row"| "The Half"<br />{{small|(featuring Jeremih, Young Thug and Swizz Beatz)}}
+| rowspan="2"| 2017
+| [[Director X]]
+|-
+! scope="row"| "A Different Way"<ref>{{cite web|url=https://dancingastronaut.com/2017/11/music-video-dj-snakes-different-way-will-brighten-anyones-day/|title=DJ Snake drops official video for 'A Different Way'|date=17 November 2017|website=Dancingastronaut.com|accessdate=24 March 2019}}</ref><br />{{small|(featuring Lauv)}}
+| Colin Tilley
+|-
+! scope="row"| "Magenta Riddim"<ref>{{cite web|url=https://www.georgefm.co.nz/home/music/2018/04/dj-snake-drops-hype-new-music-video-for--magenta-riddim-.html|title=WATCH: DJ Snake drops hype new music video for 'Magenta Riddim'|website=Georgefm.co.nz|accessdate=24 March 2019}}</ref>
+| rowspan="3"| 2018
+| [[Vania Heymann]], Gal Muggia
+|-
+! scope="row"| "Taki Taki"
+| Colin Tilley
+|-
+! scope="row"| "Taki Taki" (Animated version)
+| [[Jason Tammemagi]]
+|-
+! scope="row"| "Loco Contigo"
+| rowspan="2"| 2019
+| rowspan="3"| Colin Tilley
+|-
+! scope="row"| "Fuego"
+|-
+! scope="row"| "SG"<ref>{{Cite news |url=https://pitchfork.com/news/dj-snake-megan-thee-stallion-ozuna-and-blackpinks-lisa-share-video-for-new-song-sg-watch/ |last=Hussey |first=Allison |title=DJ Snake, Megan Thee Stallion, Ozuna, and BLACKPINK's Lisa Share Video for New Song "SG": Watch |date=22 October 2021 |work=[[Pitchfork (magazine)|Pitchfork]] |access-date=22 October 2021}}</ref><br/>{{small|(with Ozuna, Megan Thee Stallion, and Lisa)}}
+| 2021
+|}
+
+== References ==
+{{reflist}}
+
+{{DJ Snake}}
+
+[[Category:Discographies of French artists]]
+[[Category:Electronic music discographies]]

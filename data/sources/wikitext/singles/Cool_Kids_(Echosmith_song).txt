@@ -1,0 +1,282 @@
+{{About|the Echosmith song|other songs with this name|Cool Kids (disambiguation)#Songs}}
+
+{{Use mdy dates|date=January 2015}}
+{{Infobox song
+| name          = Cool Kids
+| cover         = Echosmith - Cool Kids.png
+| alt           = 
+| border        = yes
+| type          = single
+| artist        = [[Echosmith]]
+| album         = [[Talking Dreams]]
+| released      = May 31, 2013
+| recorded      = 2012
+| studio        = 
+| venue         = 
+| genre         = {{hlist|[[Indie pop]]|[[pop rock]]}}
+| length        = 3:58
+| label         = [[Warner Bros. Records|Warner Bros.]]
+| writer        = {{hlist|Jeffery David|Jesiah Dzwonek|Sydney Sierota|Noah Sierota|Graham Sierota|Jamie Sierota}}
+| producer      = {{hlist|[[Mike Elizondo]]|[[Rob Cavallo]]}}
+| prev_title    = 
+| prev_year     = 
+| next_title    = [[Bright (song)|Bright]]
+| next_year     = 2015
+| misc          = {{External music video|{{YouTube|SSCzDykng4g|"Cool Kids"}}}}
+}}
+
+"'''Cool Kids'''" is the debut single by American [[indie pop]] band [[Echosmith]] from their debut studio album, ''[[Talking Dreams]]'' (2013). The song was written by Echosmith, Jeffery David, and Jesiah Dzwonek. It was produced by [[Mike Elizondo]], with additional production on the radio edit by [[Rob Cavallo]]. "Cool Kids" was originally released on May 31, 2013, as the [[iTunes Store]] Single of the Week and officially impacted United States radio the following year. The song subsequently became a [[sleeper hit]], peaking at number 13 on the ''[[Billboard (magazine)|Billboard]]'' [[Billboard Hot 100|Hot 100]] and receiving airplay on US [[modern rock]], [[hot adult contemporary]], and [[contemporary hit radio]] stations. It also reached the top 10 in seven countries.
+
+==Background==
+The song describes a boy and a girl who both desire to be noticed.<ref name="Radio">{{cite web |url=http://radio.com/2014/01/10/new-music-to-know-echosmith-aspires-toward-role-model-status/ |title=New Music To Know: Echosmith Aspires Toward Role Model Status |publisher=[[Radio.com]] |date=January 10, 2014 |accessdate=February 3, 2015}}</ref> In an interview, guitarist Jamie Sierota discussed the song's background, saying: "This cry to be like the cool kids… it's something that everyone kind of goes through whether you want to act like it or not... There's always somebody out there that you kind of wish, 'If only I could do this, or do that.' I think that's why it connects with people so well."<ref name="Radio"/>
+
+==Composition==
+
+"Cool Kids" is written in the key of [[A-flat major|A♭ major]], and follows a chord progression of Fm–D♭–A♭–E♭ (vi–IV–I–V). The tempo of the song is 130 beats per minute.{{citation needed|date=March 2019}}
+
+==Music video==
+The song's official music video was filmed in [[Los Angeles]], [[California]] and directed by [[Gus Black]].<ref name=Officialvideo>{{cite web |url=https://www.youtube.com/watch?v=UXTlczyWJ-Y |title=Echosmith – Cool Kids [Official Music Video] |publisher=[[YouTube]] |accessdate=July 19, 2014 |author=Echosmith |date=June 21, 2013 |author-link=Echosmith}}</ref> It was released on June 21, 2013, on Echosmith's official [[YouTube]] channel.<ref name=Officialvideo/> After the original video passed one million views, Echosmith released an acoustic version of the song.<ref name=Officialvideo/> The band also released a new music video for "Cool Kids" on September 12, 2014, directed by [[Mark Pellington]].<ref>{{cite web |url=http://www.altpress.com/news/entry/echosmith_release_new_music_video_for_cool_kids |title=Echosmith release new music video for 'Cool Kids' |work=[[Alternative Press (music magazine)|Alternative Press]] |date=September 11, 2014 |accessdate=November 4, 2014 |author=Crane, Matt}}</ref>
+
+==Commercial performance==
+"Cool Kids" debuted at number 87 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot 100]] for the issue dated July 26, 2014 and peaked at number 13.<ref name="Hot100"/> The song also reached the top ten of the ''Billboard'' [[Mainstream Top 40]] and [[Adult Top 40]] charts, peaking at numbers 9 and 5 respectively.<ref name="AdultTop40"/><ref name="Pop"/> It was certified gold by the [[Recording Industry Association of America]] on October 4, 2014,{{Certification Cite Ref|region=United States|type=single|title=Cool Kids|artist=Echosmith}} and passed the one million sales mark later on in the same month.<ref>{{cite web |url=https://music.yahoo.com/blogs/chart-watch/chart-watch--maroon-5-busts-up-all-female-top-five-214218531.html |title=Chart Watch: Maroon 5 Busts Up All-Female Top Five |work=[[Yahoo! Music]] |publisher=[[Yahoo!]] |date=October 29, 2014 |accessdate=October 29, 2014 |author=Grein, Paul}}</ref> As of December 2014, it has sold over 1.1 million copies in the United States.<ref name=us_sales>{{cite web |url=http://www.hitsdailydouble.com/news/newsPage.cgi?news10229m01 |archive-url=https://archive.today/20141212184355/http://www.hitsdailydouble.com/news/newsPage.cgi?news10229m01 |url-status=dead |archive-date=December 12, 2014 |title=The Big 9 in 2014: Warner Bros. |work=HITS Daily Double |publisher=HITS Digital Ventures |date=December 12, 2014 |accessdate=December 12, 2014 }}</ref> "Cool Kids" also peaked at number 6 on the Australian singles chart and was certified double platinum in the country.<ref name="AUS"/><ref name="ARIA"/>
+
+==Other versions==
+In September 2022, the group released a new version of the song, labelled as "our version".<ref>{{cite web|url=https://vmagazine.com/article/echosmith-releases-new-empowered-rendition-of-hit-cool-kids/|title=Echosmith Releases New, Empowered Rendition of Hit "Cool Kids"|work=[[V (American magazine)|V]]|date=September 9, 2022|accessdate=October 4, 2023|first=Henry|last=Chandonnet}}</ref> The version was nominated for Self-Released Record of the Year at the [[2023 Libera Awards]].<ref>{{cite magazine|url=https://www.billboard.com/music/awards/libera-awards-2023-nominations-list-1235291362/|title=Wet Leg Leads Nominations for 2023 Libera Awards|first=Rania|last=Aniftos|date=March 22, 2023|accessdate=October 4, 2023|magazine=Billboard}}</ref>
+
+==Track listing==
+{{Track listing
+| headline = Digital download<ref>{{cite web |url=https://music.apple.com/au/album/cool-kids-radio-edit-single/910388667 |title=Cool Kids (Radio Edit) – Single by Echosmith |work=[[iTunes Store]] |date=August 15, 2014 |location=Australia |publisher=[[Apple Inc.|Apple]] |access-date=November 8, 2014}}</ref>
+| title1  = Cool Kids
+| note1   = Radio Edit
+| length1 = 3:35
+}}
+
+{{Track listing
+| headline = Digital download – remix<ref>{{cite web |url=https://music.apple.com/au/album/cool-kids-rac-mix-single/942818502 |title=iTunes – Music – Cool Kids (RAC Mix) – Single by Echosmith |work=[[iTunes Store]] |date=December 2, 2014 |location=Australia |publisher=[[Apple Inc.|Apple]] |access-date=December 12, 2014}}</ref>
+| title1  = Cool Kids
+| note1   = RAC mix
+| length1 = 4:19
+}}
+
+{{Track listing
+| headline = British digital download<ref>{{cite web |url=https://music.apple.com/gb/album/cool-kids-single/944743929 |title=iTunes – Music – Cool Kids – Single by Echosmith |work=[[iTunes Store]] |date=December 8, 2014 |location=Australia |publisher=[[Apple Inc.|Apple]] |access-date=December 12, 2014}}</ref>
+| title1  = Cool Kids
+| note1   = Radio Edit
+| length1 = 3:35
+| title2  = Cool Kids
+| note2   = Acoustic
+| length2 = 3:56
+| title3  = Cool Kids
+| note3   = RAC mix
+| length3 = 4:19
+}}
+
+{{Track listing
+| headline = CD single<ref>{{cite web |url=https://www.amazon.de/Cool-Kids-2track-Echosmith/dp/B00PGE5N2A/ |title=Cool Kids (2track): Amazon.de: Musik |publisher=[[Amazon.com|Amazon.de]] |accessdate=December 12, 2014 |language=German}}</ref>
+| title1  = Cool Kids
+| note1   = Radio Edit
+| length1 = 3:37
+| title2  = Cool Kids
+| note2   = Acoustic
+| length2 = 3:56
+}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2013–15)
+! scope="col"| Peak<br/>position
+|-
+{{single chart|Australia|6|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=October 11, 2014|refname="AUS"}}
+|-
+{{single chart|Austria|5|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=January 7, 2015}}
+|-
+{{single chart|Flanders|36|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=November 28, 2014}}
+|-
+{{single chart|Wallonia|34|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=December 19, 2014}}
+|-
+! scope="row"| Brazil ([[Billboard Brasil Hot 100|''Billboard'' Hot 100]])<ref name=brabill>{{cite web|url=http://www.billboard.com.br/tipo_lista/top-100/20150502 |title=Hot 100 Billboard Brasil&nbsp;— weekly |work=[[Billboard Brasil]] |date=May 2, 2015 |accessdate=May 14, 2015 |url-status=dead |archiveurl=https://web.archive.org/web/20150504211652/http://www.billboard.com.br/tipo_lista/top-100/20150502/ |archivedate=May 4, 2015 |df=mdy }}</ref>
+| 74
+|-
+{{single chart|Canada|25|artist=Echosmith|rowheader=true|accessdate=October 20, 2014}}
+|-
+{{single chart|Billboardcanadaac|39|artist=Echosmith|rowheader=true|accessdate=December 4, 2014}}
+|-
+{{single chart|Billboardcanadachrtop40|24|artist=Echosmith|rowheader=true|accessdate=October 31, 2014}}
+|-
+{{single chart|Billboardcanadahotac|25|artist=Echosmith|rowheader=true|accessdate=November 21, 2014}}
+|-
+{{single chart|Czech Republic|43|year=2014|week=44|rowheader=true|accessdate=November 3, 2014}}
+|-
+{{single chart|Czechdigital|8|week=46|year=2014|rowheader=true|accessdate=November 20, 2014}}
+|-
+{{single chart|Denmark|6|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=November 8, 2014}}
+|-
+{{single chart|Denmark Airplay|1|artist=Echosmith|song=Cool Kids|year=2014|week=49|rowheader=true|accessdate=December 3, 2014}}
+|-
+! scope="row"| Finland ([[Suomen virallinen lista|Suomen virallinen radiolista]])<ref>{{cite web|title= IFPI – Echosmith: Cool Kids |url= http://www.ifpi.fi/tilastot/virallinen-lista/artistit/echosmith/cool+kids |date=October 27, 2014 |accessdate=February 22, 2015 |publisher= [[Suomen virallinen lista]]|language=Finnish}}</ref>
+| 20
+|-
+{{single chart|France|82|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=January 25, 2015}}
+|-
+{{single chart|Germany|8|artist=Echosmith|song=Cool Kids|songid=1213291|rowheader=true|accessdate=February 25, 2019}}
+|-
+{{single chart|Hungarystream|18|year=2014|week=46|rowheader=true|accessdate=October 8, 2026}}
+|-
+{{single chart|Ireland|8|artist=Echosmith|song=Cool Kids|week=7|year=2015|accessdate=5 February 2015|rowheader=true}}
+|-
+{{single chart|Italy|18|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=29 January 2015}}
+|-
+{{single chart|Dutch40|10|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=October 31, 2014}}
+|-
+{{single chart|Dutch100|19|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=November 27, 2014}}
+|-
+{{single chart|New Zealand|13|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=January 4, 2015}}
+|-
+{{single chart|Norway|17|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=November 29, 2014}}
+|-
+{{single chart|Poland|6|year=2015|chartid=1543|accessdate=February 9, 2015|rowheader=true}}
+|-
+! scope="row"| Poland ([[Polish Video Chart|Polish TV Airplay Chart]])<ref>{{cite web|url=http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2015&typ=tv&idlisty=1540#title |archive-url=https://web.archive.org/web/20150202174050/http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2015&typ=tv&idlisty=1540#title |url-status=dead |archive-date=February 2, 2015 |title=Polish Video Chart |date=January 30, 2015 |accessdate=January 30, 2015}}</ref>
+| 1
+|-
+{{single chart|Polishdance|46|chartid=1528|accessdate=January 23, 2015|rowheader=true}}
+|-
+{{single chart|Scotland|17|date=2015-02-14|rowheader=true|accessdate=January 30, 2015}}
+|-
+{{single chart|Slovakia|52|week=43|year=2014|rowheader=true|accessdate=October 31, 2014}}
+|-
+{{single chart|Slovakdigital|11|week=44|year=2014|rowheader=true|accessdate=November 3, 2014}}
+|-
+! scope="row"| Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=10|title=SloTop50 {{!}} Slovenian official singles weekly charts|language=Slovenian|accessdate=5 February 2018|archive-date=August 28, 2017|archive-url=https://web.archive.org/web/20170828191006/http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=10|url-status=dead}}</ref>
+| align=center|4
+|-
+{{single chart|Spain|15|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=December 17, 2014}}
+|-
+{{single chart|Sweden|23|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=September 11, 2014}}
+|-
+{{single chart|Switzerland|9|artist=Echosmith|song=Cool Kids|rowheader=true|accessdate=December 28, 2014}}
+|-
+{{single chart|UK|17|date=2015-01-31|rowheader=true|accessdate=January 25, 2015}}
+|-
+{{single chart|Billboardhot100|13|artist=Echosmith|rowheader=true|accessdate=September 18, 2014|refname="Hot100"}}
+|-
+{{single chart|Billboardadultcontemporary|11|artist=Echosmith|rowheader=true|accessdate=November 27, 2014|refname="AdultContemporary"}}
+|-
+{{single chart|Billboardadultpopsongs|5|artist=Echosmith|rowheader=true|accessdate=August 21, 2014|refname="AdultTop40"}}
+|-
+{{single chart|Billboardalternativesongs|34|artist=Echosmith|rowheader=true|accessdate=September 11, 2014}}
+|-
+{{single chart|Billboardpopsongs|9|artist=Echosmith|rowheader=true|accessdate=August 21, 2014|refname="Pop"}}
+|-
+{{single chart|Billboardrockairplay|49|artist=Echosmith|rowheader=true|accessdate=April 25, 2025|refname="RockAirplay"}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Position
+|-
+! scope="row"| Australia (ARIA)<ref>{{cite web|url=http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm |title=End of Year Charts – ARIA Top 100 Singles 2014 |work=[[ARIA Charts]] |publisher=[[Australian Recording Industry Association]] |accessdate=February 14, 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20150109053819/http://aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm |archivedate=January 9, 2015}}</ref>
+| 50
+|-
+! scope="row"| Netherlands (Dutch Top 40)<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2014|title=Top 100-Jaaroverzicht van 2014|publisher=Dutch Top 40|accessdate=November 1, 2019}}</ref>
+| 61
+|-
+! scope="row"| Netherlands (Single Top 100)<ref>{{cite web|url=https://dutchcharts.nl/jaaroverzichten.asp?year=2014&cat=s|title=Jaaroverzichten – Single 2014|publisher=MegaCharts|language=Dutch|accessdate=October 31, 2019}}</ref>
+| 79
+|-
+! scope="row"| Sweden (Sverigetopplistan)<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2014&dspp=1|title=Årslista Singlar – År 2014|publisher=Sverigetopplistan|language=Swedish|accessdate=October 25, 2019}}</ref>
+| 96
+|-
+! scope="row"| US ''Billboard'' Hot 100<ref>{{cite magazine |url=http://www.billboard.com/charts/year-end/2014/hot-100-songs |title=Hot 100 Songs: Year End 2014 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=December 9, 2014}}</ref>
+| 59
+|-
+! scope="row"| US Adult Top 40 (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/adult-pop-songs|title=Adult Pop Songs – Year-End 2014|magazine=Billboard|accessdate=September 15, 2019}}</ref>
+| 25
+|-
+! scope="row"| US Mainstream Top 40 (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/pop-songs|title=Pop Songs – Year-End 2014|magazine=Billboard|accessdate=August 13, 2019}}</ref>
+| 45
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| Austria (Ö3 Austria Top 40)<ref>{{cite web|url=https://austriancharts.at/year.asp?cat=s&id=2015|title=Jahreshitparade Singles 2015|website=austriancharts.at|accessdate=January 3, 2020}}</ref>
+| 62
+|-
+! scope="row"| Denmark (Tracklisten)<ref>{{cite web|url=http://hitlisten.nu/top2015.asp?list=Track%20100|title=Track Top-100 2015|publisher=Hitlisten.NU|accessdate=March 18, 2016}}</ref>
+| 100
+|-
+! scope="row"| Germany (Official German Charts)<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2015 |title=Top 100 Single-Jahrescharts|language=German |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |accessdate=January 6, 2016}}</ref>
+| 63
+|-
+! scope="row"| Netherlands (Dutch Top 40)<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2015|title=Top 100-Jaaroverzicht van 2015|publisher=Dutch Top 40|accessdate=October 6, 2019}}</ref>
+| 94
+|-
+! scope="row"| Netherlands ([[NPO 3FM]])<ref>{{cite web|url=https://dutchcharts.nl/jaaroverzichten.asp?year=2015&cat=s3|title=Jaaroverzichten - 3FM 2015|language=nl|website=[[Dutch Charts]]|access-date=May 13, 2022}}</ref>
+| 84
+|-
+! scope="row"| Slovenia (SloTop50)<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|title=SloTop50: Slovenian official year end singles chart|publisher=slotop50.si|accessdate=December 31, 2016|archive-date=June 30, 2017|archive-url=https://web.archive.org/web/20170630022441/http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|url-status=dead}}</ref> 
+| 14
+|-
+! scope="row"| Switzerland (Schweizer Hitparade)<ref>{{cite web |url=http://swisscharts.com/charts/jahreshitparade/2015 |title=Jahreshitparade 2015|publisher=[[Swiss Hitparade|Schweizer Hitparade]] |accessdate=December 9, 2016}}</ref>
+| 65
+|-
+! scope="row"| US Adult Contemporary (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/adult-contemporary-songs|title=Adult Contemporary Songs – Year-End 2015|magazine=Billboard|accessdate=September 15, 2019}}</ref>
+| 32
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|relyear=2014|certyear=2014|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|number=2|refname=ARIA|access-date=January 21, 2015}}
+{{Certification Table Entry|region=Canada|relyear=2013|certyear=2015|title=Cool Kids|artist=Echosmith|digital=true|type=single|award=Platinum|access-date=April 4, 2015}}
+{{Certification Table Entry|region=Denmark|relyear=2014|certyear=2015|certmonth=2|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|id=5321|access-date=January 20, 2015}}
+{{Certification Table Entry|region=Germany|relyear=2014|relmonth=9|certyear=2015|title=Cool Kids|artist=Echosmith|type=single|award=Gold|access-date=June 2, 2015}}
+{{Certification Table Entry|region=Italy|relyear=2013|certyear=2014|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|id=2856|access-date=January 9, 2015}}
+{{Certification Table Entry|region=New Zealand|relyear=2014|certyear=2025|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|number=2|source=radioscope|access-date=November 23, 2025}}
+{{Certification Table Entry|region=Norway|relyear=2014|certyear=2015|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|number=2|access-date=July 4, 2015}}
+{{Certification Table Entry|region=Spain|award=Gold|artist=Echosmith|title=Cool Kids|type=single|relyear=2014|certyear=2015|access-date=February 22, 2015|id=echosmith-cool-kids}}
+{{Certification Table Entry|region=Sweden|relyear=2014|certyear=2015|title=Cool Kids|artist=Echosmith|type=single|award=Platinum|source=artist|access-date=April 22, 2022}}
+{{Certification Table Entry|region=Switzerland|relyear=2014|certyear=2015|title=Cool Kids|artist=Echosmith|type=single|award=Gold|access-date=September 6, 2022}}
+{{Certification Table Entry|region=United Kingdom|award=Platinum|artist=Echosmith|title=Cool Kids|type=single|relyear=2013|certyear=2023|id=13208-4015-1|access-date=May 7, 2023}}
+{{Certification Table Entry|region=United States|relyear=2013|certyear=2024|title=Cool Kids|artist=Echosmith|digital=true|type=single|number=4|award=Platinum<!-- Please DO NOT change certification unless stated as such in RIAA website-->|access-date=December 11, 2024|refname=cte}}
+{{Certification Table Bottom|streaming=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row" rowspan="2"| [[United States]]
+| May 31, 2013
+| [[Music download|Digital download]]
+| rowspan="2" | [[Warner Records|Warner Bros.]]
+|-
+| June 3, 2014<ref>{{Cite web |title=CHR Available For Airplay - Archive |url=http://fmqb.com/Article.asp?id=69239 |archive-url=https://web.archive.org/web/20150907091626/http://fmqb.com/Article.asp?id=69239 |archive-date=2015-09-07 |access-date=2026-04-21 |website=fmqb.com}}</ref>
+| [[Contemporary hit radio|Mainstream airplay]]
+|}
+
+==References==
+{{Reflist}}
+
+{{Echosmith}}
+
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:2013 debut singles]]
+[[Category:2014 singles]]
+[[Category:Warner Records singles]]
+[[Category:Echosmith songs]]
+[[Category:Song recordings produced by Rob Cavallo]]
+[[Category:Songs written by Jamie Sierota]]

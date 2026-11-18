@@ -1,0 +1,300 @@
+{{short description|2013 single by Taylor Swift}}
+{{good article}}
+{{Use mdy dates|date=July 2021}}
+{{Infobox song
+| name          = Red
+| cover         = Taylor Swift - Red (Single).png
+| alt           = Cover artwork of "Red": Swift in a brimmed hat, white shirt, and black shorts looking backwards
+| border        = yes
+| type          = single
+| artist        = [[Taylor Swift]]
+| album         = [[Red (Taylor Swift album)|Red]]
+| released      = {{start date|2013|6|24}}
+| written       = September 2011
+| studio        = [[Blackbird Studio|Blackbird]] (Nashville)
+| genre         = <!--Source genres under composition. Do not add unsourced genres-->
+* [[Country music|Country]]
+* [[arena rock]]
+* [[pop rock]]
+* [[roots rock]]
+* [[soft rock]]
+| length        = 3:43
+| label         = [[Big Machine Records|Big Machine]]
+| writer        = Taylor Swift
+| producer      = * Taylor Swift
+* [[Dann Huff]]
+* [[Nathan Chapman (record producer)|Nathan Chapman]]
+| prev_title    = [[Highway Don't Care]]
+| prev_year     = 2013
+| next_title    = [[Everything Has Changed]]
+| next_year     = 2013
+| misc          = {{External music video|{{YouTube|Zlot0i3Zykw|"Red"}}}}
+}}
+
+"'''Red'''" is a song by the American singer-songwriter [[Taylor Swift]] and the title track of her fourth studio album, [[Red (Taylor Swift album)|''Red'']] (2012). She wrote the song and produced it with [[Nathan Chapman (record producer)|Nathan Chapman]] and [[Dann Huff]]. An incorporation of [[Country music|country]], [[Pop music|pop]], and [[Rock music|rock]] styles, "Red" features acoustic banjo and guitars alongside [[Electronic music|electronic]] vocal processing. The lyrics are about a past, tumultuous relationship, likening conflicting emotions evoked from the breakup to various colors, such as the titular color red that symbolizes the overall intense feelings.
+
+To promote the album ''Red'' before its release, [[Big Machine Records]] released "Red" via the [[iTunes Store]] on October 2, 2012. The song was released to US [[country radio]] on June 24, 2013, as a [[Single (music)|single]]. Footage from [[the Red Tour]] (2013–2014) was compiled for a [[music video]] for "Red", released on July 3, 2013. Swift's live rendition at the [[2013 Country Music Association Awards|Country Music Association Awards]], featuring [[Alison Krauss]] and [[Vince Gill]] on background vocals, was released on November 8, 2013. The song peaked within the top 30 on charts and received [[List of music recording certifications|certifications]] in Australia, New Zealand, the UK, and the US. On the US [[Hot Country Songs]] chart, it peaked at number two and charted for 42 weeks, becoming Swift's longest-charting single.
+
+When it was first released, initial critical reception was mixed: some reviews deemed the production experimental and successful in combining country and pop, but some others found it inconsistent or underwhelming. Several retrospective reviews have considered "Red" one of the more memorable songs in Swift's discography. After a [[Taylor Swift masters dispute|2019 dispute over the ownership of Swift's back catalog]], she [[re-recorded]] the song as "'''Red (Taylor's Version)'''" for her 2021 re-recorded album ''[[Red (Taylor's Version)]]''.
+
+==Background==
+[[Taylor Swift]] wrote her third studio album, ''[[Speak Now]]'', entirely herself and produced it with [[Nathan Chapman (record producer)|Nathan Chapman]], who had produced both of her previous albums.<ref name="rs500">{{cite magazine |last=Bernstein |first=Jonathan |date=November 18, 2020 |title=500 Greatest Albums: Taylor Swift Looks Back on Her 'Only True Breakup Album' ''Red'' |url=https://www.rollingstone.com/music/music-features/500-greatest-albums-taylor-swift-red-1059586/ |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20201204182537/https://www.rollingstone.com/music/music-features/500-greatest-albums-taylor-swift-red-1059586/ |archive-date=December 4, 2020 |access-date=December 25, 2020 |magazine=[[Rolling Stone]]}}</ref> Released in October 2010, ''Speak Now'' expands on the [[country pop]] production of Swift's past music and incorporates [[Rock music|rock]] stylings.{{Sfn|Perone|2017|p=29, 42}} On her fourth studio album, ''[[Red (Taylor Swift album)|Red]]'', Swift wanted to experiment with sounds other than country pop.<ref name="rs500"/>
+
+Swift initially continued working with Chapman in her career base of [[Nashville, Tennessee]], until her "started wandering to all the places [she] could go" while she was writing "Red", the title track.<ref name="rs500"/><ref name="BB_qa">{{cite magazine|url=https://www.billboard.com/articles/news/474565/taylor-swift-qa-the-risks-of-red-and-the-joys-of-being-22|title=Taylor Swift Q&A: The Risks of 'Red' and The Joys of Being 22|first=Phil|last=Gallo|date=October 19, 2012|archive-url=https://web.archive.org/web/20130224174636/https://www.billboard.com/articles/news/474565/taylor-swift-qa-the-risks-of-red-and-the-joys-of-being-22|archive-date=February 24, 2013|magazine=[[Billboard (magazine)|Billboard]]}}</ref> She wrote the song while on a flight on September 7, 2011; she had finished a concert in [[Tacoma, Washington]], and went back home to Nashville because she felt homesick.{{Sfn|Zaleski|2024|p=80}} [[Scott Borchetta]], the president of Swift's then-label [[Big Machine Records]], overheard Chapman's production and suggested a [[pop music|pop]]-oriented sound.<ref name="Time">{{cite magazine|url=https://time.com/3583129/power-of-taylor-swift-cover/|title=The Power of Taylor Swift|first=Jack|last=Dickey|magazine=[[Time (magazine)|Time]]|url-access=limited|date=November 13, 2014|access-date=August 8, 2020|archive-date=August 19, 2020|archive-url=https://web.archive.org/web/20200819085008/https://time.com/3583129/power-of-taylor-swift-cover/|url-status=live}}</ref>
+
+Chapman and Swift attempted several times to achieve a pop sound without success. Swift asked Borchetta to recruit the Swedish producer [[Max Martin]], whose chart-topping pop tunes had inspired Swift because of "how [they] can just land a [[chorus (song)|chorus]]".<ref name="BB_qa" /><ref name="Time" /> Even though Swift went to Los Angeles to work with Martin, he did not produce the final version of "Red",<ref name="rs500" /> which was produced by Swift, Chapman, and [[Dann Huff]]—a Nashville-based country producer.<ref>{{cite web |last=Mansfield |first=Brian |author-link=Brian Mansfield |date=October 17, 2012 |title=Taylor Swift Sees ''Red'' All Over |url=https://www.usatoday.com/story/life/music/2012/10/17/taylor-swift-red-interview/1637307/ |archive-url=https://web.archive.org/web/20121221175440/https://www.usatoday.com/story/life/music/2012/10/17/taylor-swift-red-interview/1637307/ |archive-date=December 21, 2012 |work=[[USA Today]]}}</ref> Martin produced three other songs for ''Red'' instead.<ref name="rs500" /><ref name="Notes">{{cite AV media notes |title=[[Red (Taylor Swift album)|Red]] |type=CD liner notes |publisher=[[Big Machine Records]] |year=2012 |last=Swift |first=Taylor |author-link=Taylor Swift}}</ref>
+
+==Music and lyrics==
+{{Listen
+| filename = Taylor Swift - Red song sample.ogg
+| title = "Red"
+| description = "Red" incorporates [[country music|country]] and [[pop music|pop]] elements, and electronic vocal manipulation in the [[refrain]].}}
+"Red" was recorded by Steve Marcantonio and [[Audio mixing (recorded music)|mixed]] by Justin Niebank at [[Blackbird Studio]], Nashville. Musicians for the track included Chapman on acoustic guitar and percussion, Huff on the [[bouzouki]], [[Tom Bukovac]] on electric guitar, [[Paul Franklin (musician)|Paul Franklin]] on [[steel guitar]], Ilya Toshinskiy on [[Banjo guitar|ganjo]], Jimmie Sloas on [[Bass guitar|bass]], [[Jonathan Yudkin]] on [[cello]] and [[fiddle]], Charlie Judge on [[Piano|upright piano]], [[synth]], and [[Hammond organ|B-3 organ]], and [[Aaron Sterling]] on drums. Mike Griffith and Jason Campbell were responsible for coordinating the production.<ref name="Notes" />
+
+At 3 minutes and 43 seconds,<ref name="Notes" /> "Red" incorporates eclectic styles. Its production is driven by a [[Four on the floor (music)|four on the floor]] beat.<ref name="Spinred" /> The arrangement features signifiers of [[country music]] that had characterized Swift's previous songs, such as a slight [[twang]] in her vocals and acoustic instruments including banjo, guitars, and fiddles.<ref name="Spinred">{{cite web |last=Hogan |first=Marc |author-link=Marc Hogan |date=October 2, 2012 |title=Hear Taylor Swift's Maserati-Themed 'Red' Title Track |url=https://www.spin.com/2012/10/taylor-swift-red-listen/ |url-status=live |archive-url=https://web.archive.org/web/20151026202725/http://www.spin.com/2012/10/taylor-swift-red-listen/ |archive-date=October 26, 2015 |access-date=October 2, 2012 |work=[[Spin (magazine)|Spin]]}}</ref><ref name="rollingstone" /> Its [[pop music|pop]] [[refrain]]<ref name="Spin 2">{{cite web |last=Sargent |first=Jordan |date=June 16, 2017 |title=Listen to Taylor Swift's ''Red'', One of the Best Pop Albums of Our Time |url=https://www.spin.com/2017/06/taylor-swift-red-essay/ |url-status=live |archive-url=https://web.archive.org/web/20210514162551/https://www.spin.com/2017/06/taylor-swift-red-essay/ |archive-date=May 14, 2021 |access-date=July 25, 2021 |work=[[Spin (magazine)|Spin]]}}</ref><ref>{{cite web |last=Mylrea |first=Hannah |date=September 8, 2020 |title=Every Taylor Swift Song Ranked In Order of Greatness |url=https://www.nme.com/en_asia/features/every-taylor-swift-song-ranked-2747916 |url-status=live |archive-url=https://web.archive.org/web/20200917054150/https://www.nme.com/en_asia/features/every-taylor-swift-song-ranked-2747916 |archive-date=September 17, 2020 |access-date=July 25, 2021 |work=[[NME]]}}</ref> includes [[electronic music|electronic]] vocal manipulation where Swift sings the title "reh-eh-eh-ed"<ref name="billboard">{{cite magazine |date=October 19, 2012 |title=Taylor Swift, ''Red'': Track-By-Track Review |url=http://www.billboard.com/articles/review/1066798/taylor-swift-red-track-by-track-review |url-status=live |archive-url=https://web.archive.org/web/20130129071359/http://www.billboard.com/articles/review/1066798/taylor-swift-red-track-by-track-review |archive-date=January 29, 2013 |access-date=July 4, 2013 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> and [[Rock music|rock]] guitars and string orchestration,{{Sfn|Zaleski|2024|p=80}}<ref name="Spinred" /> resulting in an upbeat and lively sound.{{Sfn|Zaleski|2024|p=80}} Music critics categorized the genre as [[soft rock]],<ref name="Spinred" /> [[pop rock]],<ref>{{cite web |last1=Levine |first1=Nick |date=May 19, 2015 |title=The 20 Best Taylor Swift Songs |url=https://www.timeout.com/london/music/best-taylor-swift-songs |url-status=dead |archive-url=https://web.archive.org/web/20200721151852/https://www.timeout.com/london/music/best-taylor-swift-songs |archive-date=July 21, 2020 |access-date=July 21, 2020 |website=[[Time Out (magazine)|Time Out]]}}</ref> [[arena rock]],<ref>{{cite web|last=Barnes|first=Kelsey|url=https://www.altpress.com/taylor-swift-albums-ranked/|title=Every Taylor Swift Album Ranked|website=[[Alternative Press (magazine)|Alternative Press]]|date=February 21, 2023|access-date=April 13, 2025|archive-date=March 6, 2023|archive-url=https://web.archive.org/web/20230306222932/https://www.altpress.com/taylor-swift-albums-ranked/|url-status=live}}</ref> and [[roots rock]],<ref name="Exclaim">{{cite web |last1=Hudson |first1=Alex |date=April 18, 2024 |title=Taylor Swift's 20 Best Songs Ranked |url=https://exclaim.ca/music/article/taylor_swifts_20_best_songs_ranked |access-date=14 January 2024 |website=[[Exclaim!]]}}</ref> with elements of [[synth-pop]],<ref>{{Cite web |last=Warner |first=Denise |date=November 17, 2025 |title=Here Are All of Taylor Swift's Title Tracks, Ranked (Critic's Picks) |url=https://www.billboard.com/lists/taylor-swift-title-tracks-ranked/ |url-status=live |archive-url=https://web.archive.org/web/20251225070917/https://www.billboard.com/lists/taylor-swift-title-tracks-ranked/ |archive-date=December 25, 2025 |access-date=December 11, 2025 |website=[[Billboard (magazine)|Billboard]]}}</ref> [[dance music]],<ref name="americansongwriter">{{cite web |last=Hight |first=Jewly |date=October 26, 2012 |title=Taylor Swift: Red |url=https://americansongwriter.com/taylor-swift-red/ |url-status=live |archive-url=https://web.archive.org/web/20210726094520/https://americansongwriter.com/taylor-swift-red/ |archive-date=July 26, 2021 |access-date=July 25, 2021 |work=[[American Songwriter]]}}</ref> [[dance-pop]],<ref name="Exclaim" /> and [[Eurodisco]].<ref name=":1" />
+
+The lyrics are about the conflicting emotions recollected from lost romance.<ref name="Spinred" /> Swift said that the track explored a dichotomy of a relationship of hers that was simultaneously "the worst thing" and "the best thing ever".{{Sfn|Zaleski|2024|p=80}} The refrains relate the different stages of this fallen relationship to different colors:<ref name="rollingstone" /> the breakup itself is blue, the pining for the ex-lover is dark gray, and the passionate love itself is red.{{Sfn|Zaleski|2024|p=80}} The [[verse (music)|verses]] explore both the positive and negative aspects of love: connecting to somebody special feels like effortlessly memorizing every lyric of a favorite song,{{Sfn|Zaleski|2024|p=80}} but it can also get out of control like "driving a new [[Maserati]] down a dead end street" and "trying to change your mind once you're already flying through the free fall".<ref name="Spinred" /><ref name="rs album">{{cite magazine |last=Dolan |first=Jon |date=October 18, 2012 |title=''Red'' |url=https://www.rollingstone.com/music/albumreviews/red-20121018 |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20180115184423/https://www.rollingstone.com/music/albumreviews/red-20121018 |archive-date=January 15, 2018 |access-date=October 18, 2012 |magazine=[[Rolling Stone]]}}</ref> Jon Dolan from ''[[Rolling Stone]]'' compared Swift's "stark-relief emotional mapping" on "Red" to the songwriting of [[Carole King]] and [[Joni Mitchell]].<ref name="rs album" />
+
+==Release==
+To promote ''Red'', Swift premiered one album track on ''[[Good Morning America]]'' and released it onto the US [[iTunes Store]], each week from September 24 until the album's release date of October 22, 2012, as part of a four-week release countdown.<ref name="Red GMA">{{cite web |date=September 21, 2013 |title=Taylor Swift Launches Red Album Release With 4-Week Song Preview Countdown |url=https://abcnews.go.com/blogs/headlines/2012/09/good-morning-america-exclusive-taylor-swift-launches-red-album-release-with-4-week-song-preview-countdown-exclusively-on-abcs-good-morning-america/ |url-status=live |archive-url=https://web.archive.org/web/20121123233722/http://abcnews.go.com/blogs/headlines/2012/09/good-morning-america-exclusive-taylor-swift-launches-red-album-release-with-4-week-song-preview-countdown-exclusively-on-abcs-good-morning-america/ |archive-date=November 23, 2012 |access-date=February 18, 2013 |work=[[American Broadcasting Company]]}}</ref> "Red" was released as the second [[promotional single]] from ''Red'' during the second countdown week, on October 2, 2012.<ref name="EW_red">{{cite magazine |last=Smith |first=Grady |date=October 2, 2012 |title=Taylor Swift explains her personal rainbow of emotions on 'Red' |url=http://music-mix.ew.com/2012/10/02/taylor-swift-red/ |url-status=live |archive-url=https://web.archive.org/web/20141112183346/http://music-mix.ew.com/2012/10/02/taylor-swift-red/ |archive-date=November 12, 2014 |access-date=October 2, 2012 |magazine=[[Entertainment Weekly]]}}</ref> The song was released to US [[country radio]] as a single from the album on June 24, 2013, by Big Machine Records.<ref>{{cite web |title=Going For Adds: Country (Week Of: June 24, 2013) |url=http://gfa.radioandrecords.com/publishGFA/GFANextPage.asp?sDate=06/24/2013&Format=4 |url-status=dead |archive-url=https://web.archive.org/web/20131015090709/http://gfa.radioandrecords.com/publishGFA/GFANextPage.asp?sDate=06%2F24%2F2013&Format=4 |archive-date=October 15, 2013 |access-date=June 16, 2013 |work=[[Radio & Records]] |df=mdy-all}}</ref>
+
+In the US, "Red" debuted and peaked at number six on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart dated October 11, 2012. It was Swift's 13th song to reach the top 10 on the Hot 100.<ref>{{cite magazine |last=Trust |first=Gary |date=October 10, 2012 |title=Maroon 5 Keeps PSY Out Of Hot 100's Summit Again |url=https://www.billboard.com/articles/news/474722/maroon-5-keeps-psy-out-of-hot-100s-summit-again |url-status=live |archive-url=https://web.archive.org/web/20130330211531/http://www.billboard.com/articles/news/474722/maroon-5-keeps-psy-out-of-hot-100s-summit-again |archive-date=March 30, 2013 |access-date=October 10, 2012 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> On the [[Hot Country Songs]], "Red" peaked at number two on the chart dated October 20, 2012, and was Swift's longest-charting song, spending 42 weeks.<ref>{{cite magazine |title=Hot Country Songs Chart: The Week of October 20, 2012 |url=https://www.billboard.com/charts/country-songs/2012-10-20 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20200809065536/https://www.billboard.com/charts/country-songs/2012-10-20 |archive-date=August 9, 2020 |access-date=July 27, 2021 |magazine=[[Billboard (magazine)|Billboard]]}}</ref><ref>{{cite magazine |title=Red Chart History |url=https://www.billboard.com/artist/taylor-swift/chart-history/csi/ |url-status=live |archive-url=https://web.archive.org/web/20210131213221/https://www.billboard.com/music/taylor-swift/chart-history/CSI/song/760391 |archive-date=January 31, 2021 |access-date=July 27, 2021 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> By November 2017, "Red" had sold two million digital copies in the US<ref>{{cite magazine |last=Trust |first=Gary |date=November 26, 2017 |title=Ask Billboard: Taylor Swift's Career Album & Song Sales |url=https://www.billboard.com/pro/taylor-swift-career-album-song-sales-ask-billboard/ |url-status=live |archive-url=https://web.archive.org/web/20171126192431/https://www.billboard.com/articles/columns/chart-beat/8046939/taylor-swift-career-album-song-sales-ask-billboard |archive-date=November 26, 2017 |access-date=July 23, 2018 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> The single was certified [[RIAA certification|double platinum]] by the [[Recording Industry Association of America]] (RIAA) in July 2018.<ref name="riaa" />
+
+The single reached the top 30 of [[record charts]] in English-speaking countries, peaking at number five in Canada,<ref name="can" /> number 14 in New Zealand,<ref name="new zealand" /> number 25 on the [[Irish Singles Chart]],<ref name="ireland" /> number 26 in the [[UK Singles Chart]],<ref name="UK" /> and number 30 in Australia.<ref name="aus" /> It was certified platinum in Australia<ref name="aria" /> and silver in the UK<ref name="bpi" /> "Red" peaked at lower-tier positions on charts in Japan (number 43),<ref name="japan" /> Spain (number 46),<ref name="spain" /> and Italy (number 56).<ref name="italy" />
+
+==Live performances and music video==
+[[File:Taylor Swift - Red Tour 08.jpg|thumb|upright=1.2|left|Swift performing "Red" on [[the Red Tour]]   in Chicago IL in 2013. Footage of the tour was included in the song's music video.|alt=Swift performing on a red guitar]]
+Swift performed "Red" for the first time at [[BBC Radio 1]]'s Teen Awards, held at [[Wembley Arena]] on October 7, 2012, in London.<ref>{{cite web|archive-url=https://web.archive.org/web/20210105231922/https://www.bbc.co.uk/events/e49fhn/acts/ahzc6q#p00zjnng|url=https://www.bbc.co.uk/events/e49fhn/acts/ahzc6q#p00zjnng|title=Acts&nbsp;– Taylor Swift|publisher=[[BBC]]|archive-date=January 5, 2021|access-date=January 5, 2021|url-status=live}}</ref> On October 15, 2012, Swift performed "Red" as part of her concert for ''[[VH1 Storytellers]]'', held at [[Harvey Mudd College]] in [[Claremont, California]].<ref>{{cite web|url=https://www.hollywoodreporter.com/news/general-news/taylor-swift-tapes-vh1-storytellers-379446/|title=Taylor Swift Tapes VH1 'Storytellers,' Lifts Curtain on New Songs from 'Red'|first=Chris|last=Willman|date=October 17, 2012|work=[[The Hollywood Reporter]]|access-date=July 26, 2021|archive-date=July 27, 2021|archive-url=https://web.archive.org/web/20210727084314/https://www.hollywoodreporter.com/news/general-news/taylor-swift-tapes-vh1-storytellers-379446/|url-status=live}}</ref> During the first release week of ''Red'', Swift appeared and performed the song on television shows including ''Good Morning America'',<ref>{{cite web|url=https://tasteofcountry.com/taylor-swift-gma-performance-2012-video/|title=Taylor Swift Returns to Times Square for 'Good Morning America' Performance|first=Megan|last=Pacella|work=[[Taste of Country]]|date=October 23, 2012|access-date=July 26, 2021|archive-date=May 19, 2021|archive-url=https://web.archive.org/web/20210519193319/https://tasteofcountry.com/taylor-swift-gma-performance-2012-video/|url-status=live}}</ref> ''[[Late Show with David Letterman]]'',<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-news/taylor-swift-glows-red-on-letterman-81401/|title=Taylor Swift Glows 'Red' on 'Letterman'|magazine=[[Rolling Stone]]|url-access=limited|date=October 23, 2012|access-date=July 26, 2021|archive-date=May 19, 2021|archive-url=https://web.archive.org/web/20210519193316/https://www.rollingstone.com/music/music-news/taylor-swift-glows-red-on-letterman-81401/|url-status=live}}</ref> and ''[[The Ellen DeGeneres Show]]''.<ref>{{cite web|url=https://www.latimes.com/entertainment/music/la-xpm-2012-oct-23-la-et-ms-taylor-swift-red-first-day-sales-20121023-story.html|title=Sales of Taylor Swift's 'Red' off to a flying start|first=Randy|last=Lewis|date=October 23, 2012|work=[[Los Angeles Times]]|url-access=limited|access-date=July 26, 2021|archive-date=January 25, 2021|archive-url=https://web.archive.org/web/20210125152617/https://www.latimes.com/entertainment/music/la-xpm-2012-oct-23-la-et-ms-taylor-swift-red-first-day-sales-20121023-story.html|url-status=live}}</ref> She also included the song in her performances at festivals and awards shows, including the [[CMA Music Festival]] on June 6, 2013,<ref>{{cite web|url=http://www.mtv.com/news/1708628/taylor-swift-tim-mcgraw-cma-music-festival-2013/|title=Taylor Swift jams with Tim McGraw, Keith Urban at CMA Music Festival|publisher=[[MTV]]|first=Gil|last=Kaufman|date=June 7, 2013|access-date=July 26, 2021|archive-date=December 22, 2017|archive-url=https://web.archive.org/web/20171222050811/http://www.mtv.com/news/1708628/taylor-swift-tim-mcgraw-cma-music-festival-2013/|url-status=dead}}</ref> the [[2013 CMT Music Awards]],<ref name=cmt13>{{cite news|url=http://www.mtv.com/news/2519079/taylor-swift-2013-cmt-music-awards/|title=Taylor Swift Switches Up 2013 CMT Music Awards Outfit From Red Caroet To Performance|date=June 5, 2013|access-date=November 3, 2017|last=Wilson|first=Gaby|publisher=[[MTV]]|url-status=dead|archive-url=https://web.archive.org/web/20171107004126/http://www.mtv.com/news/2519079/taylor-swift-2013-cmt-music-awards/|archive-date=November 7, 2017}}</ref> and the [[2013 Country Music Association Awards]] (CMA).<ref>{{cite news|url=https://www.latimes.com/entertainment/music/la-et-ms-watch-taylor-swift-perform-red-on-cma-awards-20131107-story.html|title=CMA Awards: Watch Taylor Swift perform stripped-down 'Red'|date=November 7, 2013|access-date=November 3, 2017|last=Wood|first=Mikael|work=[[Los Angeles Times]]|url-access=limited|archive-date=March 9, 2016|archive-url=https://web.archive.org/web/20160309224344/http://www.latimes.com/entertainment/music/la-et-ms-watch-taylor-swift-perform-red-on-cma-awards-20131107-story.html|url-status=live}}</ref> The performance at the 2013 CMA Awards on November 6, 2013, featured an acoustic version of "Red" with [[Alison Krauss]] on fiddle and [[Vince Gill]] on guitar (both on background vocals), [[Sam Bush]] on [[mandolin]], [[Edgar Meyer]] on [[acoustic bass]], and [[Eric Darken]] on [[percussion]].<ref>{{cite web|url=http://www.cmt.com/news/1717007/taylor-swift-reinvents-red-with-all-star-cma-awards-performance/|title=Taylor Swift reinvents 'Red' with all-star CMA Awards performance|first=Whitney|last=Self|date=November 6, 2013|work=[[CMT News]]|access-date=July 26, 2021|archive-date=October 9, 2016|archive-url=https://web.archive.org/web/20161009003756/http://www.cmt.com/news/1717007/taylor-swift-reinvents-red-with-all-star-cma-awards-performance/|url-status=dead}}</ref> It was released for digital download through the [[iTunes]] Store by Big Machine Records the following day.<ref>{{cite web|url=https://tasteofcountry.com/taylor-swift-red-acoustic-alison-krauss-vince-gill/|title=Taylor Swift's 'Red' performance from CMAs now on iTunes|work=[[Taste of Country]]|date=November 7, 2013|access-date=July 26, 2021|archive-date=September 22, 2020|archive-url=https://web.archive.org/web/20200922203635/https://tasteofcountry.com/taylor-swift-red-acoustic-alison-krauss-vince-gill/|url-status=live}}</ref>
+
+Swift included "Red" on the set list of [[the Red Tour]] (2013–14).<ref>{{cite magazine|title=Taylor Swift's 'Red' Tour: Her Amps Go Up to 22|url=https://www.rollingstone.com/culture/blogs/pop-life/taylor-swifts-red-tour-her-amps-go-up-to-22-20130328|first=Rob|last=Sheffield|magazine=[[Rolling Stone]]|url-access=limited|date=March 28, 2013|access-date=October 19, 2017|archive-date=March 26, 2014|archive-url=https://web.archive.org/web/20140326061251/http://www.rollingstone.com/culture/blogs/pop-life/taylor-swifts-red-tour-her-amps-go-up-to-22-20130328|url-status=dead}}</ref> A music video for "Red", directed by Kenny Jackson and featuring [[footage]] from the tour, was released on July 4, 2013.<ref>{{cite web|url=https://www.capitalfm.com/artists/taylor-swift/news/red-music-video/|title=Taylor Swift Showcases Live Tour Show In 'Red' Music Video|date=July 4, 2013|work=[[Capital (radio network)|Capital FM]]|access-date=July 26, 2021|archive-date=July 27, 2021|archive-url=https://web.archive.org/web/20210727091230/https://www.capitalfm.com/artists/taylor-swift/news/red-music-video/|url-status=live}}</ref><ref>{{cite web|url=http://www.cmt.com/videos/taylor-swift/933467/red.jhtml |title=Taylor Swift: Red |publisher=[[Country Music Television|CMT]] |access-date=July 10, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130711100536/http://www.cmt.com/videos/taylor-swift/933467/red.jhtml |archive-date=July 11, 2013}}</ref> It was nominated for [[CMT Music Award for Video of the Year|Video of the Year]] and Female Video of the Year at the 2014 [[CMT Music Awards]].<ref>{{cite web|url=https://musicrow.com/2014/05/miranda-lambert-leads-2014-cmt-music-awards-nominees/|title=Miranda Lambert Leads 2014 CMT Music Awards Nominees|first=Jessica|last=Nicholson|date=May 5, 2014|work=[[MusicRow]]|access-date=July 27, 2021|archive-date=May 22, 2015|archive-url=https://web.archive.org/web/20150522131928/http://www.musicrow.com/2014/05/miranda-lambert-leads-2014-cmt-music-awards-nominees/|url-status=live}}</ref> During the September 17, 2015 concert of Swift's [[1989 World Tour]] in [[Columbus, Ohio]], she performed a stripped-down version of "Red" on an acoustic guitar.<ref>{{cite web|url=https://www.dispatch.com/article/20150918/ENTERTAINMENT/309189641|title=Concert review: Taylor Swift: Pop diva shows how she's grown|work=[[The Columbus Dispatch]]|first=Kevin|last=Joy|date=September 18, 2015|access-date=September 18, 2015|archive-date=July 28, 2021|archive-url=https://web.archive.org/web/20210728074448/https://www.dispatch.com/article/20150918/ENTERTAINMENT/309189641|url-status=live}}</ref> It was a "surprise song" on the set lists of Swift's later tours: these include the [[Reputation Stadium Tour]] ([[Pasadena]], May 2018)<ref>{{cite magazine |last=Iasimone |first=Ashley |date=May 26, 2018 |title=All the Surprise Songs Taylor Swift Has Performed on Her Reputation Stadium Tour B-Stage (So Far) |url=https://www.billboard.com/music/pop/taylor-swift-reputation-tour-b-stage-songs-list-8458025/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=May 27, 2018 |archive-url=https://web.archive.org/web/20180527060413/https://www.billboard.com/articles/columns/pop/8458025/taylor-swift-reputation-tour-b-stage-songs-list |archive-date=May 27, 2018 |url-status=live  |url-access=subscription}}</ref> and [[the Eras Tour]] ([[Foxborough]], May 2023; Melbourne, February 2024).<ref name=":0">{{Cite web |last=Smith |first=Katie Louise |date=June 15, 2024 |title=Here's Every Surprise Song Performed on Taylor Swift's Eras Tour |url=https://www.capitalfm.com/artists/taylor-swift/eras-tour-surprise-songs-setlist/ |url-status=live |archive-url=https://web.archive.org/web/20240616051004/https://www.capitalfm.com/artists/taylor-swift/eras-tour-surprise-songs-setlist/ |archive-date=June 16, 2024 |access-date=June 16, 2024 |publisher=[[Capital (radio network)|Capital FM]]}}</ref> During an Eras Tour show in Liverpool on June 15, 2024, she sang the track as part of a mashup with her song "The Manuscript" (2024).<ref name=":0" /> Swift also performed "Red" during one-off concerts including a private concert in Paris on January 28, 2013,<ref>{{cite web|url=https://www.nrj.fr/artistes/taylor-swift/actus/on-y-etait-taylor-swift-en-concert-prive-nrj-295464|title=On y était : Taylor Swift en concert privé NRJ !|language=fr|publisher=[[NRJ]]|date=January 28, 2013|access-date=January 28, 2013|archive-date=September 16, 2015|archive-url=https://web.archive.org/web/20150916163400/http://www.nrj.fr/artistes/taylor-swift/actus/on-y-etait-taylor-swift-en-concert-prive-nrj-295464|url-status=live}}</ref> [[DirecTV]]'s Super Saturday Night (part of a series of pre-[[Super Bowl]] concerts) in Houston on February 4, 2017,<ref>{{cite news|url=http://www.elle.com/culture/celebrities/news/a42698/taylor-swifts-alleged-only-performance-of-2017/|title=Here's What Happened at Taylor Swift's Alleged Only Performance of 2017|date=February 5, 2017|access-date=October 29, 2017|last=Roberts|first=Kayleigh|work=[[Elle (magazine)|Elle]]|url-status=live|archive-url=https://web.archive.org/web/20171107015252/http://www.elle.com/culture/celebrities/news/a42698/taylor-swifts-alleged-only-performance-of-2017/|archive-date=November 7, 2017}}</ref> and the [[City of Lover]] concert in Paris on September 9, 2019.<ref>{{cite web|url=https://www.nme.com/reviews/live/taylor-swift-city-of-lover-concert-review|title=Taylor Swift's The City of Lover concert: a triumphant yet intimate celebration of her fans and career|last=Mylrea|first=Hannah|website=[[NME]]|date=September 10, 2019|access-date=September 12, 2019|archive-date=September 16, 2019|archive-url=https://web.archive.org/web/20190916000640/https://www.nme.com/reviews/live/taylor-swift-city-of-lover-concert-review|url-status=live}}</ref>
+
+==Critical reception==
+Upon its initial release, "Red" received mixed-to-positive reviews from contemporary critics. ''Rolling Stone'' provided a positive review, writing that the production effectively accompanied the "simple but effective" lyrics.<ref name="rollingstone">{{cite magazine|url=https://www.rollingstone.com/music/videos/taylor-swift-drops-twangy-title-track-for-red-20121002|title=Taylor Swift Describes Color of Heartache on 'Red'|magazine=[[Rolling Stone]]|url-access=limited|date=October 2, 2012|access-date=October 2, 2012|archive-date=February 1, 2018|archive-url=https://web.archive.org/web/20180201075948/https://www.rollingstone.com/music/videos/taylor-swift-drops-twangy-title-track-for-red-20121002|url-status=live}}</ref> Billy Dukes of ''[[Taste of Country]]'' gave "Red" a 4.5/5 rating, applauding the song for expanding Swift's musical versatility and songwriting capabilities: "[toying] with colors like a skilled artist, ... this song is her [[Sistine Chapel]]."<ref>{{cite web|url=https://tasteofcountry.com/taylor-swift-red-song/|title=Taylor Swift, 'Red'&nbsp;– Song Review|first=Billy|last=Dukes|work=[[Taste of Country]]|date=October 2, 2012|access-date=October 2, 2012|archive-date=November 4, 2017|archive-url=https://web.archive.org/web/20171104191433/http://tasteofcountry.com/taylor-swift-red-song/|url-status=live}}</ref> Marc Hogan from ''[[Spin (magazine)|Spin]]'' felt the lyrics were memorable, but said that the genre-spanning production made it unfocused.<ref name="Spinred"/> In a lukewarm review, ''[[Entertainment Weekly]]''{{'s}} Grady Smith wrote the lyrics "paint a rather blurry portrait" of the intense emotions Swift meant to express. Smith remarked that while the song was tolerable, the "poppy" production underwhelmed its emotional sentiments.<ref name="EW_red"/>
+
+Reviews of "Red" in the context of ''Red'' album reviews remained mixed-to-positive. Jonathan Keefe from ''[[Slant Magazine]]'' and Randall Roberts from the ''[[Los Angeles Times]]'' commented that the underwhelming and occasionally clumsy metaphors of "Red" were subpar for Swift's lyrical abilities.<ref name="Slant">{{cite web |last=Keefe |first=Jonathan |url=http://www.slantmagazine.com/music/review/taylor-swift-red/2900 |title=Taylor Swift: Red |work=[[Slant Magazine]] |date=October 22, 2012 |access-date=December 27, 2012 |archive-date=October 12, 2013 |archive-url=https://web.archive.org/web/20131012014408/http://www.slantmagazine.com/music/review/taylor-swift-red/2900 |url-status=live}}</ref><ref>{{cite web|url=https://www.latimes.com/entertainment/music/la-xpm-2012-oct-22-la-et-ms-album-review-taylor-swifts-red-brims-with-confidence-20121022-story.html|title=Album review: Taylor Swift's 'Red' burns with confidence|first=Randall|last=Roberts|work=[[Los Angeles Times]]|date=October 22, 2012|url-access=limited|access-date=July 24, 2021|archive-date=November 12, 2012|archive-url=https://web.archive.org/web/20121112034726/http://www.latimes.com/entertainment/music/posts/la-et-ms-album-review-taylor-swifts-red-brims-with-confidence-20121022,0,2686298.story|url-status=live}}</ref> ''[[Billboard (magazine)|Billboard]]'' appreciated the lyrical sentiments, but felt that the electronic elements might not appeal to Swift's traditional country audience.<ref name="billboard"/> On a positive side, Jewly Hight from ''American Songwriter'' lauded the country-pop production as "sensory, [[synesthesia]]-style poetry",<ref name="americansongwriter"/> and Jon Dolan from ''Rolling Stone'' selected "Red" as one of the songs on the album that proved Swift's maturity as a songwriter.<ref name="rs album"/> Jordan Sargent, in a 2017 retrospective review of ''Red'', called the title track "perhaps the album's best pop song since Swift flirts with [[Fleetwood Mac]]".<ref>{{cite web|url=https://www.spin.com/2017/06/taylor-swift-red-essay/|title=Listen to Taylor Swift's Red, One of the Best Pop Albums of Our Time|first=Jordan|last=Sargent|work=[[Spin (magazine)|Spin]]|date=June 16, 2017|access-date=July 24, 2021|archive-date=May 14, 2021|archive-url=https://web.archive.org/web/20210514162551/https://www.spin.com/2017/06/taylor-swift-red-essay/|url-status=live}}</ref>
+
+In a review of Swift's entire catalog, Jane Song from ''[[Paste (magazine)|Paste]]'' wrote: "Maybe it's not the best ''Red'' cut, but it's worth remembering."<ref>{{cite web|url=https://www.pastemagazine.com/music/taylor-swift/best-taylor-swift-songs|title=All 158 Taylor Swift Songs, ranked|work=[[Paste (magazine)|Paste]]|date=February 11, 2020|access-date=October 6, 2020|archive-date=April 13, 2020|archive-url=https://web.archive.org/web/20200413001443/https://www.pastemagazine.com/music/taylor-swift/best-taylor-swift-songs/#4-state-of-grace-red|url-status=live}}</ref> [[Rob Sheffield]] from ''Rolling Stone'' compared the pop/Eurodisco crossover to the music of [[Shania Twain]] and the "color-tripping lyric" to the songwriting of [[Prince (musician)|Prince]], calling "Red" a representation of "this century's most ridiculously masterful megapop manifesto".<ref name=":1">{{cite magazine|url=https://www.rollingstone.com/music/music-lists/taylor-swift-songs-ranked-rob-sheffield-201800/red-2012-205701/|title=Taylor Swift's Songs All Ranked|magazine=[[Rolling Stone]]|first=Rob|last=Sheffield|author-link=Rob Sheffield|date=November 24, 2020|access-date=July 25, 2021|archive-date=November 24, 2020|archive-url=https://web.archive.org/web/20201124141329/https://www.rollingstone.com/music/music-lists/taylor-swift-songs-ranked-rob-sheffield-201800/red-2012-205701/|url-status=live}}</ref> At the 2014 [[BMI Awards|BMI Country Awards]], "Red" was one of the award-winning "Country Awards Top 50 Songs".<ref>{{cite web|url=http://www.bmi.com/news/entry/vince_gill_recognized_as_bmi_icon_at_the_2014_bmi_country_awards |title=Vince Gill Recognized as BMI Icon at the 2014 BMI Country Awards |publisher=[[Broadcast Music, Inc.]] |access-date=January 25, 2015 |date=November 4, 2014 |url-status=live |archive-url=https://web.archive.org/web/20150108133612/http://www.bmi.com/news/entry/vince_gill_recognized_as_bmi_icon_at_the_2014_bmi_country_awards |archive-date=January 8, 2015 }}</ref>
+
+== Personnel ==
+Adapted from the [[liner notes]] of ''Red''<ref name="Notes" />
+{{Div col begin}}
+* [[Taylor Swift]]&nbsp;– lead vocals, backing vocals, songwriter, [[Record producer|producer]]
+* [[Nathan Chapman (record producer)|Nathan Chapman]]&nbsp;– producer, [[acoustic guitar]], [[percussion]]
+* [[Dann Huff]]&nbsp;– producer, [[bouzouki]]
+* Steve Marcantonio&nbsp;– [[audio recording|recording]]
+* Seth Morton&nbsp;– assistant recording
+* [[David Huff (drummer)|David Huff]]&nbsp;– digital editing
+* Justin Niebank&nbsp;– [[Audio mixing (recorded music)|mixing]]
+* Drew Bollman&nbsp;– assisting mixing
+* Hank Williams&nbsp;– [[Audio mastering|mastering]]
+* Mike Griffith&nbsp;– production coordinator
+* Jason Campbell&nbsp;– production coordinator
+* [[Tom Bukovac]]&nbsp;– [[electric guitar]]
+* [[Paul Franklin (musician)|Paul Franklin]]&nbsp;– [[steel guitar]]
+* Ilya Toshinskiy&nbsp;– [[Banjo guitar|ganjo]]
+* Jimmie Sloas&nbsp;– [[Bass guitar|bass]]
+* [[Jonathan Yudkin]]&nbsp;– [[cello]], [[fiddle]]
+* Charlie Judge&nbsp;– [[Piano|upright piano]], [[synth]], [[Hammond organ|B-3 organ]]
+* [[Aaron Sterling]]&nbsp;– [[Drum kit|drums]]
+{{div col end}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ {{sronly|Chart performance}}
+! Chart (2013–2014)
+! Peak<br />position
+|-
+{{single chart|Australia|30|artist=Taylor Swift|song=Red|access-date=October 9, 2012|rowheader=true|refname="aus"}}
+|-
+{{single chart|Canada|5|artist=Taylor Swift|access-date=October 11, 2012|rowheader=true|refname="can"}}
+|-
+! scope="row"| [[Canada Country]] (''[[Billboard (magazine)|Billboard]]'')<ref name="CanadaCountry">{{cite magazine|url=https://www.billboard.com/artist/Taylor-Swift/chart-history/CCW|archive-url=https://web.archive.org/web/20241008212704/https://www.billboard.com/artist/taylor-swift/chart-history/ccw/|title=Taylor Swift Chart History (Canada Country)|magazine=[[Billboard (magazine)|Billboard]]|archive-date=October 8, 2024|access-date=March 2, 2026|url-status=dead}}</ref>
+| 17
+|-
+{{single chart|France|103|artist=Taylor Swift|song=Red|access-date=October 16, 2012|rowheader=true|refname="france"}}
+|-
+{{single chart|Ireland|25|year=2012|week=40|access-date=October 10, 2012|rowheader=true|refname="ireland"}}
+|-
+! scope="row"|Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref name="italy">{{cite web|url=https://www.fimi.it/top-of-the-music/archivio-classifiche-settimanali/archivio-classifiche-per-settimana/?tipo=2&anno=2012&settimana=43|title=Classifica settimanale WK 43|language=it|access-date=September 18, 2019|publisher=[[Federazione Industria Musicale Italiana]]|archive-date=February 5, 2019|archive-url=https://web.archive.org/web/20190205044056/http://www.fimi.it/top-of-the-music/classifiche.kl#/charts/1/2012/43|url-status=live}}</ref>
+| 56
+|-
+{{single chart|Billboardjapanhot100|43|artist=Taylor Swift|song=Red|access-date=August 29, 2015|rowheader=true|refname="japan"}}
+|-
+! scope="row"| Japan Adult Contemporary (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard-japan.com/charts/detail?a=adult_airplay&year=2012&month=11&day=05|title=Japan Adult Contemporary Airplay Chart|website=[[Billboard Japan]]|language=ja|access-date=October 31, 2023}}</ref>
+| 80
+|-
+{{single chart|New Zealand|14|artist=Taylor Swift|song=Red|access-date=October 9, 2012|rowheader=true|refname="new zealand"}}
+|-
+{{single chart|Spain|46|artist=Taylor Swift|song=Red|access-date=October 10, 2012|rowheader=true|refname="spain"}}
+|-
+{{single chart|UK|26|artist=Taylor Swift|song=Red|date=2012-10-13|access-date=October 13, 2012|rowheader=true|refname="UK"}}
+|-
+{{single chart|Billboardhot100|6|artist=Taylor Swift|access-date=October 10, 2012|rowheader=true|refname="hot100"}}
+|-
+{{single chart|Billboardcountrysongs|2|artist=Taylor Swift|access-date=October 11, 2012|rowheader=true|refname="country songs"}}
+|-
+{{single chart|Billboardcountryairplay|7|artist=Taylor Swift|access-date=June 17, 2013|rowheader=true|refname="country airplay"}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{sronly|2013 year-end charts}}
+!Chart (2013)
+!Position
+|-
+!scope="row"| US Hot Country Songs (''Billboard'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/hot-country-songs | title=Best of 2013: Hot Country Songs | magazine=[[Billboard (magazine)|Billboard]] | access-date=December 13, 2013 | archive-date=December 15, 2015 | archive-url=https://web.archive.org/web/20151215161138/http://www.billboard.com/charts/year-end/2013/hot-country-songs | url-status=dead}}</ref>
+| 44
+|-
+!scope="row"| US Country Airplay (''Billboard'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/country-airplay-songs | title=Best of 2013: Country Airplay | magazine=[[Billboard (magazine)|Billboard]] | access-date=December 13, 2013 | archive-date=May 5, 2016 | archive-url=https://web.archive.org/web/20160505123617/http://www.billboard.com/charts/year-end/2013/country-airplay-songs | url-status=dead}}</ref>
+| 43
+|-
+|}
+
+{|class="wikitable plainrowheaders" style="text-align:center;"
+|+ {{sronly|2014 year-end chart}}
+!Chart (2014)
+!Position
+|-
+!scope="row"| US Country Airplay (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/files/pdfs/country_update_1215.pdf|title=Billboard Country Update for December 15, 2014|page=17|date=December 15, 2014|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 15, 2014|archive-date=July 27, 2015|archive-url=https://web.archive.org/web/20150727165959/http://www.billboard.com/files/pdfs/country_update_1215.pdf|url-status=dead}}</ref>
+| 99
+|-
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption={{sronly|Certifications}}}}
+{{Certification Table Entry|region=Australia|title=|award=Platinum|number=2|artist=|type=single|relyear=2012|certyear=2024|access-date=June 14, 2024|refname="aria"}}
+{{Certification Table Entry|region=Brazil|artist=Taylor Swift|title=Red|award=Platinum|type=single|certyear=2024|relyear=2012|access-date=July 24, 2024|refname="PMB"}}
+{{Certification Table Entry|region=New Zealand|artist=Taylor Swift|title=Red|type=single|award=Platinum|access-date=December 19, 2024|source=radioscope|relyear=2012|certyear=2024}}
+{{Certification Table Entry|region=United Kingdom|relyear=2012|certyear=2020|certmonth=05|title=Red|artist=Taylor Swift|type=single|award=Silver|id=5407-1598-1|access-date=May 15, 2020|refname="bpi"}}
+{{Certification Table Entry|region=United States|relyear=2012|certyear=2018|title=Red|artist=Taylor Swift|type=single|award=Platinum|number=2|access-date=November 11, 2020|refname="riaa"}}
+{{Certification Table Bottom|nosales=true|streaming=true|noshipments=true}}
+
+=="Red (Taylor's Version)"==
+{{Infobox song
+| name          = Red (Taylor's Version)
+| type          = song
+| artist        = [[Taylor Swift]]
+| album         = [[Red (Taylor's Version)]]
+| released      = {{start date|2021|11|12}}
+| recorded      = 
+| studio        = * [[Blackbird Studio|Black Bird]] (Nashville)
+* Kitty Committee ([[Belfast]])
+| genre         = 
+| length        = 3:43
+| label         = [[Republic Records|Republic]]
+| writer        = Taylor Swift
+| producer      = * Taylor Swift
+* [[Christopher Rowe (record producer)|Christopher Rowe]]
+| misc          = {{External music video|header=Lyric video|type=song|{{YouTube|R_rUYuFtNO4|"Red (Taylor's Version)"}}}}
+}}
+
+Swift [[re-recorded]] the track for her re-recorded album ''[[Red (Taylor's Version)]]'', which was released on November 12, 2021, through [[Republic Records]].<ref>{{cite web|url=https://www.cnet.com/news/red-taylors-version-release-date-tracklist-why-taylor-swift-is-rerecording-her-albums/|title=''Red (Taylor's Version)'': Release date, tracklist, why Taylor Swift is rerecording her albums|work=[[CNET]]|first=Abrar|last=Al-Heeti|date=November 11, 2021|access-date=November 13, 2021|archive-date=November 20, 2021|archive-url=https://web.archive.org/web/20211120224012/https://www.cnet.com/news/red-taylors-version-release-date-tracklist-why-taylor-swift-is-rerecording-her-albums/|url-status=live}}</ref> Prior to the album's release, Swift posted a snippet of the re-recorded track via her [[Instagram]] on October 23.<ref>{{Cite magazine|last=Atkinson|first=Katie|date=October 22, 2021|title=Taylor Swift Declares 'It's Red Season,' Previews ''Red (Taylor's Version)'' in New Video|url=https://www.billboard.com/music/pop/taylor-swift-red-taylors-version-preview-video-9649980/|access-date=October 23, 2021|magazine=[[Billboard (magazine)|Billboard]]|archive-date=October 22, 2021|archive-url=https://web.archive.org/web/20211022214317/https://www.billboard.com/articles/columns/pop/9649980/taylor-swift-red-taylors-version-preview-video/|url-status=live}}</ref> Compared to the original version, "Red (Taylor's Version)" features a more refined and mellowed production.<ref>{{cite web|last=Keefe|first=Jonathan|date=November 17, 2021|title=Review: Taylor Swift's ''Red'' Redux Flaunts the Singer's Refined Pop Instincts|url=https://www.slantmagazine.com/music/taylor-swift-red-taylors-version-album-review/|access-date=November 17, 2021|website=[[Slant Magazine]]|archive-date=November 17, 2021|archive-url=https://web.archive.org/web/20211117163448/https://www.slantmagazine.com/music/taylor-swift-red-taylors-version-album-review/|url-status=live}}</ref>
+
+The re-recorded track peaked within the top 10 of the singles chart in Ireland and Singapore,<ref name="ire21"/><ref name="sp"/> and top 20 Australia,<ref name="aus21"/> Canada,<ref name="can"/> Malaysia,<ref name="ml"/> and New Zealand.<ref name="nz21"/> It also charted on the [[Billboard Global 200|''Billboard'' Global 200]] at number 13.<ref name="global"/>
+
+===Personnel===
+Adapted from the liner notes of ''Red (Taylor's Version)''<ref>{{cite AV media notes |title=[[Red (Taylor's Version)]] |year=2021 |publisher=[[Republic Records]] |type=vinyl liner notes |last=Swift |first=Taylor |author-link=Taylor Swift}}</ref>
+
+{{div col}}
+* Taylor Swift&nbsp;– lead vocals, background vocals, songwriter, producer
+* [[Christopher Rowe (record producer)|Christopher Rowe]]&nbsp;– producer, vocal engineer
+* David Payne&nbsp;– recording engineer
+* Dan Burns&nbsp;– additional engineer
+* Austin Brown&nbsp;– assistant engineer, assistant editor
+* Bryce Bordone&nbsp;– engineer
+* Derek Garten&nbsp;– engineer, editor
+* [[Serban Ghenea]]&nbsp;– mixer
+* [[Amos Heller (musician)|Amos Heller]]&nbsp;– bass guitar
+* [[Jonathan Yudkin]]&nbsp;– bouzouki, strings
+* Matt Billingslea&nbsp;– drums, percussion
+* Max Bernstein&nbsp;– electric guitar
+* Paul Sidoti&nbsp;– electric guitar
+* Mike Meadows&nbsp;– Hammond B3, synthesizers
+* David Cook&nbsp;– piano
+{{div col end}}
+
+===Charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ {{sronly|Chart performance}}
+! scope="col"| Chart (2021)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref name="aus21">{{cite web|url=https://www.aria.com.au/charts/singles-chart/2021-11-22|title=ARIA Top 50 Singles Chart|publisher=[[Australian Recording Industry Association]]|date=November 22, 2021|access-date=November 19, 2021|archive-date=November 19, 2021|archive-url=https://web.archive.org/web/20211119060857/https://www.aria.com.au/charts/singles-chart/2021-11-22|url-status=live}}</ref>
+| 12
+|-
+! scope="row"| Canada ([[Canadian Hot 100]])<ref name="can"/>
+| 12
+|-
+{{single chart|Billboardglobal200|13|artist=Taylor Swift|rowheader=true|access-date=November 23, 2021|refname="global"}}
+|-
+{{single chart|Ireland4|9|date=20211119|rowheader=true|access-date=November 19, 2021|refname="ire21"}}
+|-
+! scope="row" | Malaysia ([[Recording Industry Association of Malaysia|RIM]])<ref name="ml">{{cite web|url=https://www.facebook.com/RecordingIndustryMalaysia/posts/5157177267642935|title=Top 20 Most Streamed International + Domestic Songs Week 46 / (12/11/2021-18/11/2021)|publisher=[[Recording Industry Association of Malaysia]]|date=November 27, 2021|access-date=November 27, 2021|archive-date=December 6, 2021|archive-url=https://web.archive.org/web/20211206130501/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FRecordingIndustryMalaysia%2Fposts%2F5157177267642935|url-status=live}}</ref>
+| 13
+|-
+! scope="row"| New Zealand ([[Recorded Music NZ]])<ref name="nz21">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2021-11-19|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=November 22, 2021|access-date=November 20, 2021|archive-date=November 19, 2021|archive-url=https://web.archive.org/web/20211119213656/https://nztop40.co.nz/chart/singles?chart=5234|url-status=live}}</ref>
+| 15
+|-
+{{single chart|Portugal|88|artist=Taylor Swift|song=Red|rowheader=true|access-date=February 9, 2022}}
+|-
+! scope="row"| Singapore ([[Recording Industry Association Singapore|RIAS]])<ref name="sp">{{cite web|url=https://www.rias.org.sg/rias-top-charts|title=RIAS Top Charts Week 46 (12 – 18 Nov 2021)|date=November 23, 2021|archive-url=https://web.archive.org/web/20211123121350/https://www.rias.org.sg/rias-top-charts/|archive-date=November 23, 2021|access-date=November 23, 2021|publisher=[[Recording Industry Association Singapore]]}}</ref>
+| 4
+|-
+! scope="row"| South Africa ([[Recording Industry of South Africa|RISA]])<ref>{{cite web|url=https://theofficialsacharts.co.za/charts/local-international-streaming-chart-top-100-week-46/|title=Local & International Streaming Chart Top 100: Week 46|website=[[The Official South African Charts]]|publisher=[[Recording Industry of South Africa]]|access-date=November 26, 2021|url-status=dead|archive-date=November 25, 2021|archive-url=https://web.archive.org/web/20211125145001/https://theofficialsacharts.co.za/charts/local-international-streaming-chart-top-100-week-46/}}</ref>
+| 78
+|-
+! scope="row"| South Korea Download ([[Gaon Digital Chart|Gaon]])<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=46&hitYear=2021&termGbn=week|title=Download Chart – Week 46 of 2021|website=Gaon Music Chart|language=ko|access-date=November 23, 2021|archive-date=January 9, 2021|archive-url=https://web.archive.org/web/20210109131057/http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1020&targetTime=46&hitYear=2021&termGbn=week|url-status=live}}</ref>
+| 170
+|-
+! scope="row"| South Korea BGM ([[Gaon Digital Chart|Gaon]])<ref>{{cite web|url=http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1060&targetTime=46&hitYear=2021&termGbn=week|title=BGM Chart – Week 46 of 2021|website=Gaon Music Chart|language=ko|access-date=November 23, 2021|archive-date=November 23, 2021|archive-url=https://web.archive.org/web/20211123125259/http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=S1060&targetTime=46&hitYear=2021&termGbn=week|url-status=live}}</ref>
+| 96
+|-
+{{single chart|UK|22|date=20211119|rowheader=true|access-date=November 19, 2021}}
+|-
+! scope="row"| US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref name="hot100"/>
+| 25
+|-
+! scope="row"| US [[Hot Country Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref name="country songs"/>
+| 5
+|}
+
+===Certification===
+{{Certification Table Top|caption={{sronly|Certifications for Taylor's version}}}}
+{{Certification Table Entry|region=Australia|title=|artist=|type=single|award=Platinum|relyear=2021|certyear=2024|access-date=|certref=<ref name="aria"/>}}
+{{Certification Table Entry|region=Brazil|artist=Taylor Swift|title=Red (Taylor's Version)|award=Gold|type=single|certyear=2024|relyear=2019|access-date=July 22, 2024}}
+{{Certification Table Entry|region=New Zealand|artist=Taylor Swift|title=Red (Taylor's Version)|type=single|award=Gold|access-date=December 19, 2024|source=radioscope|relyear=2021|certyear=2024}}
+{{Certification Table Entry|region=United Kingdom|type=single|award=Silver|artist=Taylor Swift|title=Red (Taylor's Version)|relyear=2021|certyear=2024|access-date=June 7, 2024|id=17651-1598-1}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+==References==
+{{reflist|30em}}
+
+=== Sources ===
+
+* {{cite book |last=Perone |first=James E. |title=The Words and Music of Taylor Swift |publisher=[[ABC-Clio]] |year=2017 |isbn=978-1440852947 |series=The Praeger Singer-Songwriter Collection |chapter=The Mean Era}}
+* {{Cite book |last=Zaleski |first=Annie |author-link=Annie Zaleski |title=Taylor Swift: The Stories Behind the Songs |publisher=[[Thunder Bay Press]] |year=2024 |isbn=978-1-6672-0845-9 |pages=76–105 |chapter=The ''Red'' Era}}
+{{Taylor Swift songs}}
+{{authority control}}
+
+[[Category:2013 singles]]
+[[Category:2012 songs]]
+[[Category:Taylor Swift songs]]
+[[Category:Big Machine Records singles]]
+[[Category:Songs written by Taylor Swift]]
+[[Category:Song recordings produced by Taylor Swift]]
+[[Category:Song recordings produced by Dann Huff]]
+[[Category:Song recordings produced by Nathan Chapman (record producer)]]
+[[Category:Song recordings produced by Chris Rowe]]
+[[Category:Roots rock songs]]
+[[Category:American country music songs]]
+[[Category:American pop rock songs]]
+[[Category:American soft rock songs]]
+[[Category:Arena rock songs]]
+[[Category:Songs about colors]]
+[[Category:Breakup songs]]

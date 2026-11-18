@@ -1,0 +1,139 @@
+{{use mdy dates|date=October 2025}}
+{{Infobox song
+| name       = The Phoenix
+| cover      = Fall Out Boy - "The Phoenix" (Single).jpg
+| alt        =
+| type       = single
+| artist     = [[Fall Out Boy]]
+| album      = [[Save Rock and Roll]]
+| released   = March 24, 2013
+| format     =
+| recorded   = 2012–2013
+| studio     =
+| venue      =
+| genre      = [[Dance-punk]]<ref>{{Cite web |last=Renshaw |first=David |date=August 23, 2013 |title=Leeds Festival 2013 Day One: as it happened |url=https://www.nme.com/news/music/various-artists-2840-1260987 |access-date=April 17, 2026 |website=[[NME]]}}</ref>
+| length     = 4:04
+| label      = [[Island Records|Island]]
+| writer     = {{flatlist|
+* [[Patrick Stump]]
+* [[Pete Wentz]]
+* [[Joe Trohman]]
+* [[Andy Hurley]]
+}}
+| producer   = [[Butch Walker]]
+| prev_title = [[My Songs Know What You Did in the Dark (Light Em Up)]]
+| prev_year  = 2013
+| next_title = [[Alone Together (Fall Out Boy song)|Alone Together]]
+| next_year  = 2013
+| misc       = {{External music video|{{YouTube|5hDZbroaQDc|"The Phoenix"}}}}
+}}
+
+"'''The Phoenix'''" is a song by American [[Rock music|rock]] band [[Fall Out Boy]] for their fifth studio album ''[[Save Rock and Roll]]'' (2013). The song was written by the band in collaboration with [[Butch Walker]], who handled production. After being released to digital outlets on March 24, 2013, in advance of the album's release, "The Phoenix" was made available to radio on July 16, 2013, as an official single. The song charted for 1 week, then fell off. An accompanying music video was also released as part of the ongoing series ''[[The Young Blood Chronicles]]'', serving as a prequel to the video of the album's lead single "[[My Songs Know What You Did in the Dark (Light Em Up)]]".
+
+"The Phoenix" contains elements of Russian composer [[Dmitri Shostakovich]]'s [[Symphony No. 7 (Shostakovich)|Symphony No. 7]] in [[C major]].<ref name="EW">{{cite magazine | url=http://music-mix.ew.com/2013/05/14/fall-out-boy-patrick-stump/ | title=Fall Out Boy's Patrick Stump on being back at No. 1, hanging with Elton John, and why he loves Shostakovich | magazine=[[Entertainment Weekly]] | date=May 14, 2013 | access-date=June 29, 2013 | author=Anderson, Kyle | archive-date=June 22, 2013 | archive-url=https://web.archive.org/web/20130622195853/http://music-mix.ew.com/2013/05/14/fall-out-boy-patrick-stump/ | url-status=dead }}</ref> Prior to its official release as a single, the song debuted at number 80 on the United States [[Billboard Hot 100|''Billboard'' Hot 100]] on the strength of digital sales and also charted in several other countries, including Australia, Canada and the United Kingdom. It won the [[Kerrang! Award for Best Single]] in 2013.<ref>{{cite web | url=http://www.kerrang.com/blog/2013/06/relentless_kerrang_awards_2013_1.html | title=Relentless Kerrang! Awards 2013 – The winners! | work=[[Kerrang!]] | access-date=June 23, 2013 | archive-date=September 30, 2013 | archive-url=https://web.archive.org/web/20130930214517/http://www.kerrang.com/blog/2013/06/relentless_kerrang_awards_2013_1.html | url-status=live }}</ref>
+
+==Composition==
+The song was inspired by [[USSR|Soviet]] Russian composer [[Dmitri Shostakovich]] and [[Loop (music)|drum loops]], both of which Stump was interested in at one point in the recording process.<ref name="ew1">{{cite magazine|url=http://music-mix.ew.com/2013/05/14/fall-out-boy-patrick-stump/|title=Fall Out Boy's Patrick Stump on being back at No. 1, hanging with Elton John, and why he loves Shostakovich|author=Kyle Anderson|date=May 14, 2013|magazine=[[Entertainment Weekly]]|access-date=May 14, 2013|archive-date=June 22, 2013|archive-url=https://web.archive.org/web/20130622195853/http://music-mix.ew.com/2013/05/14/fall-out-boy-patrick-stump/|url-status=dead}}</ref> While listening to the fourth [[movement (music)|movement]] (''[[Allegro (music)|Allegro non troppo]]'') of Shostakovich's [[Symphony No. 7 (Shostakovich)|Symphony No. 7]], Stump became entranced by a certain string moment and proceeded to build an entirely new song influenced by it. The same orchestral snippet was employed as a [[sampling (music)|sample]] by German hip-hop artist [[Peter Fox (musician)|Peter Fox]] in his 2008 single ''[[Alles neu]]''.<ref name="ew1"/> The tempo of the song is 138 [[Tempo|BPM]], and it is written in the key of E minor.
+
+==Music video==
+"The Phoenix" is the second of eleven videos in [[The Young Blood Chronicles]] series. This video follows that of "[[My Songs Know What You Did in the Dark (Light Em Up)]]" and precedes "[[Young Volcanoes]]."
+
+===Video synopsis===
+The music video depicts macabre action scenes of kidnapping, torture, and severing of a hand.
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+Weekly chart performance for "The Phoenix"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[Australian Recording Industry Association|ARIA]])<ref>{{cite web |url=http://www.aria.com.au/Issue1205.pdf |archive-url=https://webarchive.nla.gov.au/awa/20130407210400/http://pandora.nla.gov.au/pan/23790/20130408-0704/Issue1205.pdf |url-status=dead |archive-date=2013-04-07 |title=The ARIA Report: Issue 1205 (Week Commencing 1 April 2013) |publisher=[[Australian Recording Industry Association]] |access-date=March 1, 2013 |page=2 }}{{cbignore|bot=medic}}</ref>
+| 86
+|-
+{{single chart|Canada|73|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|Finnishdownload|6|artist=Fall Out Boy|song=The Phoenix|rowheader=true|access-date=February 13, 2023}}
+|-
+{{single chart|Ireland|72|year=2013|week=14|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|New Zealand|40|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|Scotland|28|date=2013-04-06|access-date=January 20, 2022|rowheader=true}}
+|-
+{{single chart|UK|36|date=2013-04-06|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|UKrock|1|date=2013-04-13|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|Billboardhot100|80|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|Billboardrocksongs|14|artist=Fall Out Boy|song=The Phoenix|access-date=June 29, 2013|rowheader=true}}
+|-
+{{single chart|Billboardrockairplay|49|artist=Fall Out Boy|song=The Phoenix|access-date=June 4, 2014|rowheader=true}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|+Year-end chart performance for "The Phoenix"
+|-
+!scope="col"| Chart (2013)
+!scope="col"| Position
+|-
+! scope="row"| US Hot Rock Songs (''Billboard'')<ref>{{Cite web|url=http://www.billboard.com/charts/year-end/2013/hot-rock-songs|title=Year-End Charts: Hot Rock & Alternative Songs (2013)|magazine=[[Billboard (magazine)|Billboard]]|archive-url=https://web.archive.org/web/20200529072542/https://www.billboard.com/charts/year-end/2013/hot-rock-songs|archive-date=May 29, 2020 |url-status=dead |access-date=October 21, 2025}}</ref>
+| 44
+|-
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "The Phoenix"}}
+{{Certification Table Entry|region=Brazil|type=single|artist=Fall Out Boy|title=The Phoenix|award=Gold|relyear=2013|certyear=2024|access-date=June 20, 2024}}
+{{Certification Table Entry|region=New Zealand|award=Gold|type=single|artist=Fall Out Boy|title=The Phoenix|access-date=December 17, 2024|relyear=2013|certyear=2022|source=radioscope}}
+{{Certification Table Entry|region=United Kingdom|type=single|artist=Fall Out Boy|title=The Phoenix|award=Gold|relyear=2013|certyear=2022|id=14511-88-1|access-date=May 27, 2022}}
+{{Certification Table Entry|region=United States|type=single|artist=Fall Out Boy|title=The Phoenix|award=Platinum|number=2|relyear=2013|certyear=2023|access-date=July 6, 2023}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+==Release history==
+{|class="wikitable plainrowheaders" border="1"
+|+Release dates and formats for "The Phoenix"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row"| United States
+| July 16, 2013<ref>{{cite web | url=http://www.allaccess.com/alternative/future-releases | title=Future Releases on Alternative Radio | publisher=All Access Media Group | accessdate=June 23, 2013 | archiveurl=https://web.archive.org/web/20130628222743/http://www.allaccess.com/alternative/future-releases | url-status=live | archivedate=June 28, 2013}}</ref>
+| [[Modern rock]] radio
+| [[Island Records]]
+|-
+|}
+
+==In popular culture==
+This song is used in the gameplay trailer of the wrestling video game ''[[WWE 2K14]]''.<ref>{{cite tweet|user=WWEgames|author=WWE Games|author-link=WWE|number=385803960407560192 |title=WWE Official Tweet on The Phoenix|date=3 October 2013|link=no|archive-url=https://web.archive.org/web/20160506022158/https://mobile.twitter.com/wwegames/status/385803960407560192|archive-date=6 May 2016|url-status=live}}</ref>
+
+In 2023, it is used in South Korea's [[HiteJinro#Beer|Terra]] commercial.<ref>{{YouTube|0rVFdHZmVAs|Terra commercial (2023)}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Fall Out Boy}}
+{{Kerrang! Award for Best Single}}
+{{Authority control}}
+
+{{DEFAULTSORT:Phoenix, The}}
+[[Category:2013 songs]]
+[[Category:2013 singles]]
+[[Category:Fall Out Boy songs]]
+[[Category:Songs written by Pete Wentz]]
+[[Category:Songs written by Patrick Stump]]
+[[Category:Songs written by Joe Trohman]]
+[[Category:Songs written by Andy Hurley]]
+[[Category:Island Records singles]]
+[[Category:Song recordings produced by Butch Walker]]
+[[Category:Symphony No. 7 (Shostakovich)]]

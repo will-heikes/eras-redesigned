@@ -1,0 +1,943 @@
+{{Short description|none}}
+{{featured list}}
+{{Use dmy dates|date=February 2019}}
+{{Infobox artist discography
+| Artist       = [[Lorde]]
+| Image        = LordePrimavera100622 (43 of 69) (52189038578) (cropped).jpg
+| Caption      = Lorde performing in June 2022
+| Alt          = Lorde singing holding a microphone
+| Studio       = 4
+| Soundtrack   = 1
+| Music videos = 16
+| EP           = 4
+| Singles      = 16
+| 1Option      = 12
+| 1Option name = Promotional singles
+}}
+
+New Zealand singer-songwriter [[Lorde]] has released four [[studio albums]], four [[extended play]]s, one [[soundtrack album]], 16 [[Single (music)|single]]s (including one as a featured artist), 12 [[promotional singles]] and 16 [[music video]]s. At the age of 13, she was signed to [[Universal Music Group]] (UMG) and started to write music.<ref>{{cite news| url= http://www.stuff.co.nz/dominion-post/culture/performance/8654143/Lorde-NZs-newest-pop-star| title= Lorde: NZ's newest pop star| first= Tom| last= Cardy |work=[[The Dominion Post (Wellington)|The Dominion Post]] | date= 5 October 2013 |archive-url=https://web.archive.org/web/20131204145411/http://www.stuff.co.nz/dominion-post/culture/performance/8654143/Lorde-NZs-newest-pop-star |archive-date=4 December 2013 |url-status=live}}</ref> In November 2012, when she was 16 years old,<ref>{{cite news| url= http://www.mtv.com/news/articles/1715048/lorde-number-1-reaction.jhtml| archive-url= https://web.archive.org/web/20131006045223/http://www.mtv.com/news/articles/1715048/lorde-number-1-reaction.jhtml| url-status= dead| archive-date= 6 October 2013| title= Lorde's 'Royals' May Be #1, But She's Still 'Just A Disgusting Person'| first= James| last= Montgomery| work= [[MTV News]] |publisher=[[Viacom (2005–present)|Viacom]] | date= 3 October 2013| access-date= 5 January 2014}}</ref> she [[Self-publishing|self-released]] ''[[The Love Club EP]]'' via [[SoundCloud]].<ref>{{cite magazine| url= https://www.billboard.com/biz/articles/news/legal-and-management/5819663/new-zealands-broods-signs-to-capitol-in-us-preps| title=New Zealand's Broods Signs To Capitol In U.S., Preps Debut Album with Lorde's Producer|first=Jason|last=Lipshutz| magazine=[[Billboard (magazine)|Billboard]] |access-date=5 January 2014 |date=5 December 2013}}</ref> It was released for sale by UMG in March 2013;<ref>{{cite news |url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=10872495| title= Lorde, The Love Club EP |work=[[The New Zealand Herald]] |first=Chris |last=Schulz |date=21 March 2013 |access-date=5 January 2014}}</ref> a song from the EP, "[[Royals (Lorde song)|Royals]]", topped numerous single charts internationally, including the US [[Billboard Hot 100|''Billboard'' Hot 100]]. The track sold over 10 million units worldwide, making it one of the [[List of best-selling singles|best-selling singles]] of all time.<ref name="NZHerald">{{cite news |url=http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11354524 |title=Birthday girl Lorde's earnings estimated at $11m-plus |first=Matt |last=Nippert |work=The New Zealand Herald |date=7 November 2014 |access-date=7 November 2014}}</ref>
+
+Later that year, Lorde released her debut studio album ''[[Pure Heroine]]'', which included "Royals". It charted at number one in New Zealand and Australia, and achieved [[List of music recording certifications|certifications]] in several countries. As of June 2021, the album has sold over six million copies worldwide.<ref name="Pure Heroine 2021">{{cite magazine |last1=Eggertsen |first1=Chris |title=Joel Little, Lorde and Taylor Swift Hitmaker, Sells Songwriter Catalog to Hipgnosis |url=https://www.billboard.com/articles/news/9582561/hipgnnosis-joel-little-catalog-acquisition-taylor-swift-lorde |access-date=4 June 2021 |magazine=Billboard |date=4 June 2021}}</ref> It was preceded by three additional singles: "[[Tennis Court (song)|Tennis Court]]", "[[Team (Lorde song)|Team]]", and "[[Glory and Gore]]". "Team" was a top-ten hit in several single charts, including Canada and the United States. The following year, Lorde recorded four songs for the [[The Hunger Games: Mockingjay, Part 1 (soundtrack)|soundtrack album]] of the 2014 film ''[[The Hunger Games: Mockingjay – Part 1|The Hunger Games: Mockingjay, Part 1]]'', including the single "[[Yellow Flicker Beat]]".
+
+Lorde's second studio album, ''[[Melodrama (Lorde album)|Melodrama]]'', was released in June 2017 and topped the charts in four countries, including the United States. It yielded three singles: "[[Green Light (Lorde song)|Green Light]]", "[[Perfect Places]]", and a remix of "[[Homemade Dynamite]]" (featuring [[Khalid (American singer)|Khalid]], [[SZA (singer)|SZA]], and [[Post Malone]]); the former reached the top-ten in Australia and Canada. Her third studio album, ''[[Solar Power (album)|Solar Power]]'' (2021), topped the charts in New Zealand and Australia. It featured four singles, including the [[Solar Power (song)|titular track]], which peaked at number two on New Zealand's singles chart. Five songs from the album were then reworked into [[Māori language|Māori]] for her EP ''[[Te Ao Mārama (EP)|Te Ao Mārama]]'' (2021). In June 2025, Lorde released her fourth studio album, ''[[Virgin (Lorde album)|Virgin]]'', which was preceded by the singles "[[What Was That]]" and "[[Man of the Year (Lorde song)|Man of the Year]]".
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions, sales, and certifications
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| Sales
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ]]<br /><ref name="NZ">Peak positions in New Zealand:
+*For all except noted: {{cite web|url=https://charts.nz/showinterpret.asp?interpret=Lorde |title=Discography Lorde |publisher=charts.nz (Hung Medien) |access-date=2 August 2025 }}
+*"Team, Ball, Player, Thing": {{cite web|url=https://charts.nz/showitem.asp?interpret=%23KiwisCureBatten&titel=Team+Ball+Player+Thing&cat=s |title=charts.nz – #KiwisCureBatten – Team Ball Player Thing |publisher=Hung Medien |access-date=11 October 2015 }}
+*"No Better": {{cite web|url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-12-20 |title=Top 20 New Zealand Singles Chart |publisher=[[Recorded Music NZ]] |date=23 December 2013 |access-date=19 November 2016 }}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">Peak positions in Australia:
+*For all except noted: {{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Lorde |title=Discography Lorde |publisher=Australian-charts.com (Hung Medien) |access-date=2 August 2025 }}
+*"Glory and Gore": {{cite web|url=http://www.ariacharts.com.au/news/33225/chartifacts|archive-url=https://web.archive.org/web/20140514225238/http://www.ariacharts.com.au/news/33225/chartifacts|title=Chartifacts|publisher=[[Australian Recording Industry Association]]|archive-date=14 May 2014}}
+*"Everybody Wants to Rule the World": {{cite web|url= http://www.aria.com.au/ARIAIssue1273.pdf |archive-url= https://webarchive.nla.gov.au/awa/20140722044500/http://pandora.nla.gov.au/pan/23790/20140722-1445/ARIAIssue1273.pdf |url-status= dead |archive-date= 2014-07-22 |title=The ARIA Report|publisher= Australian Recording Industry Association|issue= 1273 |access-date=21 July 2014 |date=29 July 2014}}{{cbignore|bot=medic}}
+*"Sober": {{cite web|url=https://www.auspop.com.au/2017/06/aria-chart-watch-426/|title=ARIA Chart Watch #426|publisher=auspOp|date=24 June 2017|access-date=24 June 2017|archive-date=8 August 2017|archive-url=https://web.archive.org/web/20170808033309/https://www.auspop.com.au/2017/06/aria-chart-watch-426/|url-status=dead}}
+*"Stoned at the Nail Salon", "The Path" and "California": {{cite magazine|title=The ARIA Report: Week Commencing 30 August 2021|magazine=The ARIA Report|publisher=Australian Recording Industry Association|issue=1643|page=4|date=30 August 2021}}
+*"Ribs": {{cite magazine|title=The ARIA Report: Week Commencing 12 May 2025|magazine=The ARIA Report|publisher=Australian Recording Industry Association|issue=1836|page=4|date=12 May 2025}}
+*"Man of the Year": {{cite magazine|title=The ARIA Report: Week Commencing 9 June 2025|magazine=The ARIA Report|publisher=Australian Recording Industry Association|issue=1840|page=4|date=9 June 2025}}
+*"Hammer": {{cite magazine|title=The ARIA Report: Week Commencing 7 July 2025|magazine=The ARIA Report|publisher=Australian Recording Industry Association|issue=1844|page=4|date=7 July 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref name= CANalbums>{{cite magazine |url=https://www.billboard.com/artist/lorde/chart-history/cna/ |title=Lorde – Chart history: Canadian Albums |magazine=Billboard | access-date=8 July 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hitlisten|DEN]]<br /><ref name="DEN">{{cite web|url=https://danishcharts.dk/showinterpret.asp?interpret=Lorde|title=Discografie Lorde|publisher=Hung Medien|work=danishcharts.dk|access-date=2 August 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[SNEP|FRA]]<br /><ref name="FRA">{{cite web|url=https://lescharts.com/showinterpret.asp?interpret=Lorde |title=Discographie Lorde |language=fr |publisher=Lescharts.com (Hung Medien) |access-date=8 March 2014 |url-status=live |archive-url=https://web.archive.org/web/20140309061948/http://lescharts.com/showinterpret.asp?interpret=Lorde |archive-date=9 March 2014 }}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artistId=Lorde|title=Discographie von Lorde|publisher=GfK Entertainment|access-date=27 August 2021}}</ref>
+
+! scope="col" style="width:2.45em;font-size:90%;"| [[Scottish Singles and Albums Charts|SCO]]<br /><ref>{{cite web|url=https://www.officialcharts.com/artist/29530/lorde/|title=Lorde {{!}} full Official Chart History|publisher=[[Official Charts Company]]|access-date=21 June 2021}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web|title=Discography Lorde|url=https://swedishcharts.com/showinterpret.asp?interpret=Lorde|url-status=live|archive-url=https://web.archive.org/web/20140314172849/http://www.swedishcharts.com/showinterpret.asp?interpret=Lorde|archive-date=14 March 2014|access-date=2 August 2025|work=swedishcharts.com|publisher=Hung Medien}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">Peak positions in the United Kingdom:
+*For all except noted: {{cite web|url=https://www.officialcharts.com/artist/29530/lorde/ |title=Lorde |publisher=Official Charts Company |access-date=5 July 2025}}
+*"Magnets": {{cite web|url=https://www.officialcharts.com/artist/48473/disclosure-ft-lorde/ |title=Disclosure ft Lorde |publisher=Official Charts Company |access-date=11 October 2015}}
+*"Tennis Court": {{cite web|url=https://www.officialcharts.com/singles-chart/ |title=Official Singles Chart UK Top 100 |date=2 November 2013 |publisher=Official Charts Company |archive-url=https://www.webcitation.org/6KgjzurAB?url=http://www.officialcharts.com/singles-chart/ |archive-date=27 October 2013 }}
+*"Yellow Flicker Beat": {{cite web|url=https://www.officialcharts.com/singles-chart/ |title=Official Singles Chart UK Top 100 |date=11 October 2014 |publisher=Official Charts Company |archive-url=https://web.archive.org/web/20141006002713/http://www.officialcharts.com/singles-chart/ |archive-date=6 October 2014 |url-status=dead }}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200">{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/tlp/|title=Lorde – Chart history: Billboard 200|magazine=Billboard|access-date=8 July 2025}}</ref>
+|-
+! scope="row"| ''[[Pure Heroine]]''
+|
+* Released: 27 September 2013
+* Label: [[Universal Music Group|UMG]], [[Virgin EMI Records|Virgin EMI]], [[Republic Records|Republic]]
+* Format: [[Compact disc|CD]], [[LP record|LP]], [[music download|digital download]], [[Streaming media|streaming]]<ref>Sources for Lorde's ''Pure Heroine'' releases:
+* {{cite web| url= https://music.apple.com/nz/album/pure-heroine/1440818584| title= Pure Heroine – Lorde| date= 27 September 2013|location=New Zealand |publisher= [[iTunes Store]] ([[Apple Inc|Apple]]) | access-date= 8 March 2014}}
+* {{cite web |url=https://www.amazon.co.uk/dp/B00EJU8ZIG |title=Pure Heroine |publisher=[[Amazon.co.uk]] |access-date=8 March 2014}}
+* {{cite web |url=https://www.amazon.com/dp/B00EYRCD8M |title=Pure Heroine |website=Amazon |access-date=8 March 2014}}</ref>
+| 1 || 1 || 2 || 12 || 20 || 13 || 6 || 6 || 4 || 3
+|
+* AUS: 100,000{{efn|group=upper-alpha|Australia sales figures for ''Pure Heroine'' as of January 2014.<ref>{{cite news|last=Adams |first=Cameron |url=http://www.news.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-e6frfmq9-1226796832354 |archive-url=https://web.archive.org/web/20140108135511/http://www.news.com.au/entertainment/aria-album-charts-pink-and-katy-perry-score-highest-sellers-in-australia-in-2013/story-e6frfmq9-1226796832354 |url-status=dead |archive-date=8 January 2014 |title=ARIA album charts: Pink and Katy Perry score highest sellers in Australia in 2013 |work=news.com.au |date=8 January 2014 |access-date=10 March 2014}}</ref>}}
+* UK: 372,000{{efn|group=upper-alpha|UK sales figures for ''Pure Heroine'' as of August 2021.<ref name="UKalbumsales2021">{{cite web |last1=Griffiths |first1=George |title=Lorde on how Melodrama's commercial reception inspired Solar Power: "I won't be number one for nine weeks" |url=https://www.officialcharts.com/chart-news/lorde-on-how-melodramas-commercial-reception-inspired-solar-power-i-wont-be-number-one-for-nine-weeks__33860/ |website=Official Charts |access-date=16 December 2021 |date=23 August 2021}}</ref>}}
+* US: 1,700,000{{efn|group=upper-alpha|United States sales figures for ''Pure Heroine'' as of January 2018.<ref>{{cite magazine |url=https://www.billboard.com/articles/news/grammys/8094826/lorde-billboard-cover-story-grammy-2018 |title=Lorde on the Historic 2018 Grammys, the #MeToo Movement & Loving Cardi B |last=Brooke |first=Mazurek |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=19 January 2018 |access-date=20 January 2018}}</ref>}}
+|
+* [[Recorded Music NZ|RMNZ]]: 9× Platinum<ref name="RMNZ-Al">{{cite certification|region=New Zealand|artist=Lorde|type=album|source=radioscope|access-date=24 April 2026}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 5× Platinum<ref name=ARIA26a>{{Cite certification|region=Australia|type=album|certyear=2026|access-date=3 March 2026}}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Lorde|access-date=10 April 2026}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Platinum<ref name="BVMI">{{cite certification|region=Germany|artist=Lorde|access-date=25 April 2023}}</ref>
+* [[IFPI Danmark|IFPI DEN]]: 2× Platinum<ref>{{cite certification|region=Denmark|artist=Lorde|title=Pure Heroine|type=album|id=17105|access-date=22 July 2026}}</ref>
+* [[IFPI Sverige|IFPI SWE]]: 2× Platinum<ref name="GLF">{{cite certification|region=Sweden|artist=Lorde|source=artist|access-date=12 May 2025}}</ref>
+* [[Music Canada|MC]]: 6× Platinum<ref name="MC">{{cite certification|region=Canada|artist=Lorde|access-date=28 January 2026}}</ref>
+* [[Recording Industry Association of America|RIAA]]: 6× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Lorde|access-date=26 June 2025}}</ref>
+* [[Syndicat National de l'Édition Phonographique|SNEP]]: Platinum<ref name="SNEP">{{cite certification|region=France|artist=Lorde|access-date=31 August 2026}}</ref>
+|-
+! scope="row"| ''[[Melodrama (Lorde album)|Melodrama]]''
+|
+* Released: 16 June 2017
+* Label: UMG, Virgin EMI, Republic
+* Format: CD, LP, digital download, streaming
+| 1 || 1 || 1 || 6 || 29 || 11 || 7 || 10 || 5 || 1
+|
+* AUS: 12,001{{efn|group=upper-alpha|Australia sales figures for ''Melodrama'' as of June 2017.<ref>{{cite web|url=https://www.news.com.au/entertainment/music/lorde-succeeds-where-katy-perry-failed-by-knocking-ed-sheeran-off-the-top-of-the-aria-album-chart/news-story/25b7d015bc4cb6125e7ebb067c5e24c5|title=Lorde succeeds where Katy Perry failed by knocking Ed Sheeran off the top of the ARIA album chart|last=Adams|first=Cameron|date=25 June 2017|access-date=28 June 2017|publisher=News Corporation Australia}}</ref>}}
+* UK: 169,000{{efn|group=upper-alpha|UK sales figures for ''Melodrama'' as of August 2021.<ref name="UKalbumsales2021"/>}}
+* US: 248,000{{efn|group=upper-alpha|US sales figures for ''Melodrama'' as of June 2021<ref name="Melodrama Billboard">{{cite magazine|url=https://www.billboard.com/music/pop/lorde-solar-power-album-release-date-2022-tour-9589946/|title=Lorde Announces 'Solar Power' Album Release Date, 2022 Tour & Eco-Conscious CD Alternative|first=Jason|last=Lipshutz|magazine=[[Billboard (magazine)|Billboard]]|access-date=21 June 2021|date=21 June 2021}}</ref>}}
+|
+* RMNZ: 4× Platinum<ref name="RMNZ-Al" />
+* ARIA: 2× Platinum<ref name=ARIA25a>{{Cite certification|region=Australia|type=album|certyear=2025|access-date=1 September 2025}}</ref>
+* BPI: Gold<ref name="BPI" />
+* IFPI DEN: Platinum<ref>{{cite certification|region=Denmark|artist=Lorde|title=Melodrama|type=album|id=17259|access-date=4 August 2026}}</ref>
+* IFPI SWE: Gold<ref name="GLF" />
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+* SNEP: Gold<ref name="SNEP" />
+|-
+! scope="row"| ''[[Solar Power (album)|Solar Power]]''
+|
+* Released: 20 August 2021
+* Label: UMG, Virgin EMI, Republic
+* Format: LP, digital download, streaming
+| 1 || 1 || 6 || 10 || 16 || 4 || 2 || 18 || 2 || 5
+|
+|
+* RMNZ: Platinum<ref name="RMNZ-Al" />
+* BPI: Silver<ref name="BPI" />
+|-
+! scope="row"| ''[[Virgin (Lorde album)|Virgin]]''
+| 
+* Released: 27 June 2025
+* Label: UMG
+* Format: CD, digital download, LP, streaming
+| 1 || 1 || 3 || 12 || 26 || 3 || 1 || 14 || 1 || 2
+|
+|
+* RMNZ: Gold<ref name="RMNZ-Al" />
+* BPI: Silver<ref name="BPI" />
+|}
+
+===Soundtrack albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of soundtrack albums, with selected chart positions and details
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="10"| Peak chart positions 
+! scope="col" rowspan="2" style="width:9em;"| Sales
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ]]<br /><ref>{{cite web| url= https://charts.nz/showitem.asp?interpret=Soundtrack&titel=The+Hunger+Games%3A+Mockingjay+Part+I&cat=a| title= Soundtrack – The Hunger Games: Mockingjay Part I (Album)| publisher= charts.nz (Hung Medien)| access-date= 8 March 2014}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref>{{cite web| url= http://www.australian-charts.com/showitem.asp?interpret=Soundtrack&titel=The+Hunger+Games%3A+Mockingjay+Part+I&cat=a| title=Soundtrack – The Hunger Games: Mockingjay Part I (Album)| publisher=Australian-charts.com (Hung Medien)| access-date=8 March 2014}}</ref>
+
+! scope="col" style="width:2.5em; font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br/><ref>{{cite web|url= https://austriancharts.at/showitem.asp?interpret=Soundtrack&titel=The+Hunger+Games:+Mockingjay+Part+I&cat=a |title=Soundtrack – The Hunger Games: Mockingjay Part|publisher=Hung Medien|language=de|access-date=9 October 2023}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref>{{cite web|url=http://www.ultratop.be/nl///album/3f7f6/Soundtrack-The-Hunger-Games:-Mockingjay-Part-I|title=Soundtrack – The Hunger Games: Mockingjay Part I|work=ultratop.be|access-date=9 October 2023}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref>{{cite magazine |url=https://www.billboard.com/charts/canadian-albums/2014-12-06|title=Canadian Albums Chart: December 6, 2014|magazine=[[Billboard (magazine)|Billboard]]|date=6 December 2014|access-date=31 December 2014}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment Charts|GER]]<br /><ref>{{cite web|url=http://germancharts.de/showitem.asp?interpret=Soundtrack&titel=The+Hunger+Games%3A+Mockingjay+Part+I&cat=a|title=Soundtrack – The Hunger Games: Mockingjay Part I (Album)|publisher=[[Media Control]] |language=de |access-date=8 March 2014}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref>{{cite web|url= https://swisscharts.com/album/Soundtrack/The-Hunger-Games:-Mockingjay-Part-I-260086 |title= Soundtrack – The Hunger Games: Mockingjay Part I |publisher=Hung Medien |work=swisscharts.com |access-date=9 October 2023}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Compilation Chart|UK Comp.]]<br /><ref>{{cite web |url=http://www.officialcharts.com/charts/official-compilations-chart/20141123/7503/|title=2014-11-23 Top 40 Compilation Albums Archive|publisher=[[Official Charts Company]]|access-date=31 December 2014}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref>{{cite magazine |url=https://www.billboard.com/charts/2014-12-06/billboard-200 |title=Top 200 Albums Chart: December 6, 2014 |magazine=[[Billboard (magazine)|Billboard]] |date=6 December 2014 |access-date=31 December 2014}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard charts|US OST]]<br /><ref>{{cite magazine |url=http://www.billboard.com/charts/2014-12-06/soundtracks |title=Soundtracks: December 6, 2014 |magazine=[[Billboard (magazine)|Billboard]] |date=6 December 2014 |access-date=31 December 2014}}</ref>
+|-
+! scope="row"| ''[[The Hunger Games: Mockingjay – Part 1 (soundtrack)|The Hunger Games: Mockingjay]]''<br />{{small|(by various artists)}}
+|
+* Released: 17 November 2014
+* Label: Republic
+* Formats: CD, digital download<ref name="CD">{{cite web|url=http://www.discogs.com/master/view/760924|title=Various – The Hunger Games: Mockingjay – Part 1 (Original Motion Picture Soundtrack) [Standard version]|publisher=[[Discogs]]|access-date=17 November 2014}}</ref>
+| 9 || 36 || 60 || 58 || 22 || 73 || 64 || 35 || 18 || 3
+|
+*US: 21,000<ref>{{cite magazine |last1=Caulfield |first1=Keith |title=Billboard 200 Chart Moves: Lorde's 'Hunger Games' Soundtrack Debuts |url=https://www.billboard.com/pro/billboard-200-chart-moves-lordes-hunger-games-soundtrack-debuts/ |access-date=11 June 2018 |magazine=Billboard |date=28 November 2014}}</ref>
+|
+* RMNZ: Gold<ref>{{cite certification|region=New Zealand|artist=Various Artists|title=The Hunger Games: Mockingjay Part 1 OST|type=album|source=radioscope|access-date=26 May 2025}}</ref>
+|}
+
+=== Demo albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:10em;" | Title
+! scope="col" style="width:17em;" | Album details
+|-
+! scope="row" | ''Xrays''<br />{{Small|(as eeeeyyyoooooo)}}
+|
+* Released: 26 June 2026<ref>{{Cite web |title=Lorde’s ‘XRAYS’ demo-dump was an act of artistic transparency |url=https://www.thefader.com/2026/06/30/lorde-xrays-virgin-demos-artistic-transparency-untitled |access-date=2026-07-10 |website=The FADER |language=en}}</ref><ref>{{Cite web |last=Kreps |first=Daniel |date=2026-06-27 |title=Lorde Marks 'Virgin' Anniversary With 49 'Xrays' Demos From the Album |url=https://www.rollingstone.com/music/music-news/lorde-virgin-anniversary-49-xrays-demos-1235585423/ |access-date=2026-07-10 |website=Rolling Stone |language=en-US}}</ref>
+* Label: Self-released
+* Formats: Digital download
+|}
+
+==Extended plays==<!-- EPs should not be under albums; they are a distinct type of release themselves. Please read [[extended play]]. -->
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected chart positions, sales, and certifications
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Extended play details
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| Sales
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref name=CANalbums />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US200" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Top Rock Albums|US<br>Rock]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/rck/|title=Lorde Chart History: Top Rock Albums|magazine=Billboard|access-date=20 July 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[World Albums|US<br>World]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/wlp/|title=Lorde Chart History: World Albums|magazine=Billboard|access-date=20 July 2022}}</ref>
+|-
+! scope="row"| ''[[The Love Club EP]]''
+|
+* Released: 8 March 2013
+* Label: UMG
+* Format: CD, digital download, [[gramophone record|10-inch vinyl]]<ref>Sources for Lorde's ''The Love Club EP'' releases:
+* {{cite web |url=https://itunes.apple.com/nz/album/the-love-club-ep/id614175625 |title=The Love Club – EP |location=New Zealand |publisher=iTunes Store (Apple) |access-date=8 March 2014 }}
+* {{cite web |url=http://shop.jbhifi.co.nz/music/pop-rock/love-club-the-ep/70174 |title=Love Club The EP – Lorde |publisher=[[JB Hi-Fi]] |access-date=8 March 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140209053848/http://shop.jbhifi.co.nz/music/pop-rock/love-club-the-ep/70174 |archive-date=9 February 2014 |df=dmy-all }}
+* {{cite web|url=https://www.allmusic.com/album/release/the-love-club-mr0003980087|title=The Love Club – Lorde {{!}} Releases Information|publisher=AllMusic. All Media Network|access-date=18 December 2014}}</ref>
+| 2 || 2{{efn|group=upper-alpha| name= LoveClub|In Australia, ''The Love Club EP'' appeared on the Australian Singles Chart; songs on the EP therefore could not chart separately.}}|| 22 <!-- || — || — || — || — || — || — --> || 23 || 6 || —
+|
+* US: 60,000{{efn|group=upper-alpha|United States sales figures for ''The Love Club EP'' as of August 2013.<ref>{{cite magazine|url=http://www.billboard.com/biz/articles/news/5657605/chart-moves-lordes-love-rises-cody-simpson-surges-the-supremes-return-to|title=Chart Moves: Lorde's 'Love' Rises, Cody Simpson Surges, the Supremes Return to Billboard 200|last=Caulfield|first=Keith|magazine=Billboard |date=16 August 2013| access-date=6 October 2014}}</ref>}}
+|
+* RMNZ: 3× Platinum<ref name="RMNZ-Al" />
+* ARIA: 16× Platinum<ref name="ARIA25s">{{cite certification|region=Australia|type=single|certyear=2025|access-date=3 September 2025}}</ref>
+* MC: Platinum<ref name="MC" />
+|-
+! scope="row"| ''[[Tennis Court (song)|Tennis Court EP]]''
+|
+* Released: 7 June 2013
+* Label: UMG, Virgin EMI
+* Format: Digital download, 10-inch vinyl<ref>Sources for Lorde's ''Tennis Court EP'' releases:
+*{{cite web|url=https://itunes.apple.com/gb/album/tennis-court-ep/id657273465|archive-url=https://web.archive.org/web/20131009064047/https://itunes.apple.com/gb/album/tennis-court-ep/id657273465|url-status=dead|archive-date=9 October 2013|title= Tennis Court – EP by Lorde |location=United Kingdom |publisher=iTunes Store (Apple)|access-date=10 January 2014}}
+*{{cite web|url=https://www.amazon.co.uk/Lorde-Tennis-Court-EP-Lorde/dp/B00DNVWRZE|title=Lorde – Tennis Court EP|publisher=Amazon.co.uk |access-date=8 March 2014}}</ref>
+| — || — || — || — || — || —
+|
+|
+|-
+!scope="row"| ''Live in Concert''
+|
+* Released: 1 November 2013
+* Label: UMG
+* Format: [[Streamed audio]]<ref>Sources for Lorde{{'}}s ''Live in Concert'' releases:
+* {{cite press release |url=http://RepublicRecords.com/all-hail-live-lorde-listen-to-the-exclusive-spotify-streamlive-in-concert |title=All Hail Live Lorde: Listen To The Exclusive Spotify Stream, 'Live In Concert' |date=4 November 2013 |publisher=[[Republic Records]] |access-date=8 March 2014 |url-status=dead |archive-url=https://web.archive.org/web/20131221022421/http://www.republicrecords.com/all-hail-live-lorde-listen-to-the-exclusive-spotify-streamlive-in-concert/ |archive-date=21 December 2013 |df=dmy-all }}
+* {{cite press release |url=http://www.universal-music.de/lorde/news/detail/article:225329/hoert-lorde-live-in-concert-auf-spotify |title=Hört "Lorde – Live In Concert" auf Spotify |date=6 November 2013 |language=de |publisher=[[Universal Music Group]] |archive-url=https://web.archive.org/web/20131117021108/http://www.universal-music.de/lorde/news/detail/article%3A225329/hoert-lorde-live-in-concert-auf-spotify |archive-date=17 November 2013 |url-status=dead |access-date=17 November 2013 }}</ref>
+| — || — || — || — || — || —
+| 
+|
+|-
+!scope="row"| ''[[Te Ao Mārama (EP)|Te Ao Mārama]]''
+|
+* Released: 9 September 2021
+* Label: UMG
+* Format: Digital download, streaming
+| 4 || — || — || —{{efn|group=upper-alpha|''Te Ao Mārama'' did not enter the US [[Billboard 200|''Billboard'' 200]] but peaked at number 70 on the [[Current Album Sales]] chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/tcl/|title=Lorde Chart History: Current Album Sales|magazine=Billboard|access-date=20 July 2022}}</ref>}} || — || 15
+| 
+|
+|-
+| colspan="10" style="font-size:90%"| "—" denotes a recording that did not chart  in that territory.
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10" | Peak chart positions
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:14em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ]]<br /><ref name="NZ" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CANSingles">{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/can/|title=Lorde – Chart history: Billboard Canadian Hot 100|magazine=Billboard |access-date=10 June 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[SNEP|FRA]]<br /><ref name="FRA" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Lorde|archive-url=https://web.archive.org/web/20131029205208/http://irish-charts.com/showinterpret.asp?interpret=Lorde|url-status=dead|archive-date=29 October 2013|title=irishcharts.com - Discography Lorde|work=irish-charts.com|access-date=27 September 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dutch Single Top 100|NLD]]<br /><ref name="NED">{{cite web|title=Discografie Lorde|url=http://dutchcharts.nl/showinterpret.asp?interpret=Lorde|website=dutchcharts.nl|access-date=2 May 2025}}</ref>
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US100">{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/hsi/|title=Lorde – Chart history: The Hot 100|magazine=Billboard |access-date=6 May 2025}}</ref>
+|-
+! scope="row"| "[[Royals (Lorde song)|Royals]]"{{efn|group=upper-alpha|"Royals" is also featured on ''The Love Club EP''. The song promoted the EP in New Zealand and Australia and ''Pure Heroine'' elsewhere.}}
+| rowspan= "3"| 2013
+| 1 || —{{efn|group=upper-alpha|name=Royals|In Australia, ''The Love Club EP'' appeared on the Australian Singles Chart; songs on the EP therefore could not chart separately. However, "Royals" charted on the [[ARIA Digital Track Chart]] and peaked at number 2.<ref>{{cite web|url=http://www.ariacharts.com.au/chart/digital-tracks|title=ARIA Digital Tracks Chart| date= 10 February 2014|archive-url=https://web.archive.org/web/20140214092956/http://www.ariacharts.com.au/chart/digital-tracks |archive-date=14 February 2014| publisher=[[ARIA Charts]]}}</ref>}} || 1 || 4 || 8 || 1 || 4 || 4 || 1 || 1 
+|
+* RMNZ: 7× Platinum<ref name="RMNZ">{{cite certification|region=New Zealand|artist=Lorde|type=single|source=radioscope|access-date=2 October 2026}}</ref>
+<!-- Do NOT add ARIA (Australia) certification here, for a similar reason as the lack of chart peak -->
+* BPI: 3× Platinum<ref name="BPI" />
+* BVMI: 3× Gold<ref name="BVMI" />
+* IFPI SWE: 4× Platinum<ref name="GLF"/>
+* MC: Diamond<ref name="MC" />
+* RIAA: 15× Platinum<ref name="RIAA" />
+* SNEP: Diamond<ref name="SNEP" />
+| rowspan="4"| ''Pure Heroine''
+|-
+! scope="row"| "[[Tennis Court (song)|Tennis Court]]"
+| 1 || 20 || 78 || 193 || 83 || — || —{{efn|group=upper-alpha|"Tennis Court" did not enter the Netherlands' Single Top 100, but peaked at number 24 on the Netherlands' Single Tip Chart.<ref>{{cite web|url=https://dutchcharts.nl/showitem.asp?interpret=Lorde&titel=Tennis+Court&cat=s|title=Lorde - Tennis Court - dutchcharts.nl|language=Dutch|access-date=22 June 2021}}</ref>}} || — || 78 || 71 
+|
+* RMNZ: 3× Platinum<ref name="RMNZ" />
+* ARIA: 5× Platinum<ref name="ARIA25s"/>
+* BPI: Gold<ref name="BPI" />
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA" />
+|-
+! scope="row"| "[[Team (Lorde song)|Team]]"
+| 3 || 19 || 3 || 24 || 20 || 32 || 36 || 39 || 29 || 6 
+|
+* RMNZ: 4× Platinum<ref name="RMNZ" />
+* ARIA: 7× Platinum<ref name="ARIA25s"/>
+* BPI: Platinum<ref name="BPI" />
+* BVMI: Gold<ref name="BVMI" />
+* IFPI SWE: Platinum<ref name="GLF"/>
+* MC: 7× Platinum<ref name="MC" />
+* RIAA: 6× Platinum<ref name="RIAA" />
+* SNEP: Platinum<ref name="SNEP"/>
+|-
+! scope="row"| "[[Glory and Gore]]"
+| rowspan= "2"| 2014
+| —{{efn|group=upper-alpha|"Glory and Gore" did not enter the Official New Zealand Music Chart, but peaked at number 16 on the New Zealand Artists chart.<ref>{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-10-04 |title=Top 20 New Zealand Singles Chart |date=7 October 2013 |publisher=[[Recorded Music NZ]] |access-date=28 February 2014}}</ref>}} || 100 || —{{efn|group=upper-alpha|"Glory and Gore" did not enter the Canadian Hot 100, but peaked at number 75 on the Hot Canadian Digital Song Sales chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/cns/|title=Lorde: Chart History - Hot Canadian Digital Song Sales|magazine=Billboard|access-date=22 October 2019}}</ref>}}
+|| — || — || — || — || — || — || 68
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA-now">{{cite certification|region=Australia|certyear=2018|type=single|access-date=10 January 2019}}</ref>
+* MC: Gold<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+|-
+! scope="row"| "[[Yellow Flicker Beat]]"
+| 4 || 25 || 21 || 93 || 38 || 83 || —{{efn|group=upper-alpha|"Yellow Flicker Beat" did not enter the Netherlands' Single Top 100, but peaked at number one on the Netherlands' Single Tip Chart.<ref>{{cite web|url=https://dutchcharts.nl/showitem.asp?interpret=Lorde&titel=Yellow+Flicker+Beat&cat=s|title=Lorde - Yellow Flicker Beat - dutchcharts.nl|language=Dutch|access-date=22 June 2021}}</ref>}} || — ||  71 || 34
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA-now" />
+* MC: Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+| ''The Hunger Games: Mockingjay – Part 1''
+|-
+! scope="row"| "[[Green Light (Lorde song)|Green Light]]"
+| rowspan= "3"| 2017
+| 1 || 4 || 9 || 24 || 33 || 17 || 61 || 58 || 20 || 19
+|
+* RMNZ: 5× Platinum<ref name="RMNZ" />
+* ARIA: 8× Platinum<ref name="ARIA25s"/>
+* BPI: 2× Platinum<ref name="BPI" />
+* BVMI: Gold<ref name="BVMI" />
+* MC: 4× Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA" />
+* SNEP: Gold<ref name="SNEP"/>
+| rowspan= "3"| ''Melodrama''
+|-
+! scope="row"| "[[Perfect Places]]"
+| 11 || 44 || 76 || — || — || 91 || — || — || 95 || —{{efn|group=upper-alpha|"Perfect Places" did not enter the ''Billboard'' Hot 100, but peaked at number 13 on the [[Bubbling Under Hot 100 Singles]] chart.<ref name="Bubbling" />}}
+|
+* RMNZ: 2× Platinum<ref name="RMNZ" />
+* ARIA: 2× Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI" />
+* MC: Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+|-
+! scope="row"| "[[Homemade Dynamite#Remixes|Homemade Dynamite]]" (remix)<br />{{small| (featuring [[Khalid (American singer)|Khalid]], [[Post Malone]] and [[SZA (singer)|SZA]])}}<br />
+| 13 || 23 || 54 || — || —{{efn|group=upper-alpha|"Homemade Dynamite" did not enter the German Singles Chart, but peaked at number 8 on the Deutsche Single Trend Chart.<ref>{{cite web |url=http://www.mtv.de/charts/9gtiy5/single-trending |title=Deutsche Single Trend Charts - Category: Single |work=Deutsche Single Trend Charts |access-date=29 September 2021 |archive-url=https://web.archive.org/web/20180112084819/http://www.mtv.de/charts/9gtiy5/single-trending |archive-date=12 January 2018 |url-status=dead }}</ref>}} || 61 || 92 || 84 || 82 || 92
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: 5× Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI" />
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA"/>
+|-
+! scope="row"| "[[Solar Power (song)|Solar Power]]"
+| rowspan="4"| 2021
+| 2 || 14 || 22 || — || — || 11 || 99 || 54 || 17 || 64
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI" />
+* MC: Gold<ref name="MC" />
+| rowspan="4"| ''Solar Power''
+|-
+! scope="row"| "[[Stoned at the Nail Salon]]"
+| 22 || 60 || — || — || — || 75 || — || — || 85 || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+! scope="row"| "[[Mood Ring (Lorde song)|Mood Ring]]"
+| 10 || 29 || 76 || — || — || 44 || — || —{{efn|group=upper-alpha|"Mood Ring" did not enter the [[Sverigetopplistan|Swedish Singellista Chart]], but peaked at number 16 on the Swedish Heatseeker Chart.<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/215?dspy=2021&dspp=34|title=Veckolista Heatseeker, vecka 34|publisher=[[Sverigetopplistan]]|access-date=27 August 2021}}</ref>}} || 48 || —{{efn|group=upper-alpha|"Mood Ring" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the Bubbling Under Hot 100 chart.<ref name="Bubbling" />}}
+| 
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+! scope="row"| "[[Fallen Fruit (song)|Fallen Fruit]]"
+| —{{efn|group=upper-alpha|"Fallen Fruit" did not enter the NZ Top 40 Singles Chart, but peaked at number six on the NZ Hot Singles Chart.<ref name="NZ Hot 30 August"/>}} || — || — || — || — || — || — || — || — || —
+| 
+|-
+! scope="row"| "[[What Was That]]"
+| rowspan="3"| 2025
+| 1 || 9 || 31 || — || 33 || 6 || 83 || 54 || 11 || 36
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name=ARIA26s>{{Cite certification|region=Australia|type=single|certyear=2026|access-date=3 March 2026}}</ref>
+* BPI: Silver<ref name="BPI" />
+* MC: Gold<ref name="MC"/>
+| rowspan="3"| ''Virgin''
+|-
+! scope="row"| "[[Man of the Year (Lorde song)|Man of the Year]]"
+| 11 || 92 || 85 || — || — || 56 || — || — || 62 || —{{efn|group=upper-alpha|"Man of the Year" did not enter the ''Billboard'' Hot 100, but peaked at number 1 on the Bubbling Under Hot 100 chart.<ref name="Bubbling" />}}
+|
+|-
+! scope="row"| "[[Hammer (Lorde song)|Hammer]]"
+| 29 || 98 || — || — || — || 68 || — || — || 66 || —{{efn|group=upper-alpha|"Hammer" did not enter the ''Billboard'' Hot 100, but peaked at number 20 on the Bubbling Under Hot 100 chart.<ref name="Bubbling" />}}
+| 
+|-
+| colspan="14" style="font-size:90%" | "—" denotes a recording that did not chart in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as featured artist, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10" | Peaks
+! scope="col" rowspan="2" style="width:14em;"| Certifications
+! scope="col" rowspan="2" style="width:10em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official Aotearoa Music Charts|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref>{{cite web|url=http://www.ultratop.be/nl/artist/Disclosure|title=Disclosure|work=ultratop.be|access-date=4 March 2017}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles">{{cite magazine |url={{BillboardURLbyName|artist=Disclosure|chart=Billboard Canadian Hot 100}} |title=Disclosure – Chart History: Billboard Canadian Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |access-date=27 June 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[SNEP|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NED]]<br /><ref name="NED"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Associação Fonográfica Portuguesa|POR]]<br /><ref name="Portugal">{{cite web |url=https://portuguesecharts.com/showinterpret.asp?interpret=Lorde |title=Discografy Lorde |publisher=portuguesecharts.com |access-date=22 June 2021 }}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK officialsharts">{{cite web |url=http://www.officialcharts.com/artist/7672/disclosure/ |title=Disclosure |publisher=Official Charts Company}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Bubbling Under Hot 100 Singles|US<br />Bub.]]<br /><ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/hbu/|title=Lorde Chart History: Bubbling Under Hot 100|magazine=Billboard|access-date=8 July 2025}}</ref>
+|-
+! scope="row"|"[[Magnets (song)|Magnets]]"<br />{{small|([[Disclosure (band)|Disclosure]] featuring Lorde)}}
+| 2015
+| 2 || 14 || 36 || 58 || 87 || 64 || 74 || 93 || 71 || 2
+| 
+* RMNZ: 2× Platinum<ref name="RMNZ" />
+* ARIA: 3× Platinum<ref name=ARIA2022s>{{cite certification|region=Australia|certyear=2022|type=single|access-date=4 October 2022}}</ref>
+* BPI: Silver<ref name="BPI" />
+| ''[[Caracal (album)|Caracal]]''
+|-
+! scope="row"|"Mind Loaded"<br />{{small|([[Dev Hynes|Blood Orange]] featuring [[Caroline Polachek]], Lorde and [[Mustafa Ahmed|Mustafa]])}}
+| 2025
+| —{{efn|group=upper-alpha|"Mind Loaded" did not enter the NZ Top 40 Singles Chart, but peaked at number 22 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-07-25|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=25 July 2025|access-date=28 July 2025}}</ref>}} || — || — || — || — || — || — || — || — || —
+| 
+| ''[[Essex Honey]]''
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of promotional singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peaks
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2" style="width:14em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CANSingles" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[International Federation of the Phonographic Industry|CZ]]<br /><ref name="CZ">{{cite web|url=https://ifpicr.cz/hitparada/30/lorde/43142|title=CZ - Singles Digital - Top 100 - Lorde|publisher=[[International Federation of the Phonographic Industry|IFPI Czech Republic]]|accessdate=23 January 2023|language=Czech}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[SNEP|FRA]]<br /><ref>{{cite web|url=http://www.snepmusique.com/tops-semaine/top-singles-telecharges/?ye=2017&we=11|title=Le Top de la semaine : Top Singles Téléchargés – SNEP (Week 11, 2017)|publisher=[[Syndicat National de l'Édition Phonographique]]|language=fr|access-date=18 March 2017|archive-url=https://web.archive.org/web/20170409133626/http://www.snepmusique.com/tops-semaine/top-singles-telecharges/?ye=2017&we=11|archive-date=9 April 2017|url-status=dead}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="swisscharts">{{cite web|url=https://swisscharts.com/artist/Lorde |title=Discography Lorde |publisher=Hung Medien |work=swisscharts.com |access-date=22 June 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US100" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Global 200|WW]]<br /><ref name="Global200">{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/glo/|title=Lorde – Chart history: Billboard Global 200|magazine=Billboard| access-date=8 July 2024}}</ref>
+|-
+! scope="row"| "[[Bravado (song)|Bravado]]"
+| rowspan="4"| 2013
+| —{{efn|group=upper-alpha|"Bravado" did not enter the Official New Zealand Music Chart, but peaked at number 5 on the New Zealand Artists chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-03-15|title=Top 20 New Zealand Singles Chart|publisher=[[Recorded Music NZ]]|access-date=13 January 2014}}</ref>}} || —{{efn|group=upper-alpha| name= LoveClub|In Australia, ''The Love Club EP'' appeared on the Australian Singles Chart; songs on the EP therefore could not chart separately.}} || — || — || — || — || — || — || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+| ''The Love Club EP'' 
+|-
+! scope="row"| "[[Buzzcut Season]]"
+| —{{efn|group=upper-alpha|"Buzzcut Season" did not enter the Official New Zealand Music Chart, but peaked at number 18 on the [[Recorded Music NZ|New Zealand National Singles]] chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-10-04|title=Top 20 New Zealand Singles Chart|publisher=[[Recorded Music NZ]]|access-date=13 January 2014}}</ref>}} || —{{efn|group=upper-alpha|"Buzzcut Season" did not enter the ARIA Top 100 Singles Chart, but peaked at number 38 on the Australian Streaming Tracks chart.<ref name="ausstream20131124">{{cite web |url=http://www.aria.com.au/Issue%201236.pdf |archive-url=https://webarchive.nla.gov.au/awa/20131123130000/http://pandora.nla.gov.au/pan/23790/20131124-0000/Issue%201236.pdf |url-status=dead |archive-date=2013-11-23 |title=The ARIA Report |publisher=[[Australian Recording Industry Association]] |date=4 December 2013 |access-date=11 January 2014 |df=dmy-all }}{{cbignore|bot=medic}}</ref>}} || — || — || — || — || — || —{{efn|group=upper-alpha|"Buzzcut Season" did not enter the UK Singles Chart, but peaked at number 72 on the [[UK Streaming Chart]].<ref name="ukstream20131110">{{cite web |url=https://www.officialcharts.com/charts/official-streaming-chart-archive/20131110/streamarc/ |title=Official Audio Streaming Chart Top 100 - 10 November 2013 – 16 November 2013 |work=Official Charts Company |date=10 November 2013 |access-date=29 June 2021}}</ref>}} || — || —
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI" />
+* MC: Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+| rowspan="3"| ''Pure Heroine''
+|-
+! scope="row"| "[[Ribs (song)|Ribs]]"
+| 29 || 77 || 76 || — || — || 16 || — || —{{efn|group=upper-alpha|"Ribs" did not enter the UK Singles Chart, but peaked at number 69 on the UK Streaming Chart.<ref name="ukstream20131110" />}} || 99 || —
+|
+* RMNZ: 4× Platinum<ref name="RMNZ" />
+* ARIA: 4× Platinum<ref name="ARIA26s"/>
+* BPI: Platinum<ref name="BPI" />
+* MC: 4× Platinum<ref name="MC" />
+* RIAA: 4× Platinum<ref name="RIAA" />
+|-
+! scope="row"| "[[No Better]]"
+| —{{efn|group=upper-alpha|"No Better" did not enter the NZ Top 40 Singles Chart, but peaked at number seven on the NZ Artist Singles Chart.<ref>{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-12-20 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=23 December 2013 |access-date=5 October 2017}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Yellow Flicker Beat#Kanye West rework|Flicker]]" ([[Kanye West]] Rework)<ref>
+*{{cite web|last1=Records |first1=Republic |title=Lorde – Flicker (Kanye West Rework) – Republic Records|work=Republic Records |url=http://www.republicrecords.com/new_releases/lorde-flicker-kanye-west-rework/|publisher=[[Republic Records]]|archive-url=https://www.webcitation.org/6VHM88PWQ?url=http://www.republicrecords.com/new_releases/lorde-flicker-kanye-west-rework/|archive-date=2 January 2015}}
+*{{cite web|url=https://nz.7digital.com/artist/lorde/release/flicker-kanye-west-rework-from-the-hunger-games-mockingjay-part-1-1/|title=Flicker (Kanye West Rework) (From The Hunger Games: Mockingjay Part 1) {{!}} Lorde|publisher=7digital|location=New Zealand|access-date=18 December 2014|url-status=dead|archive-url=https://web.archive.org/web/20141218150727/https://nz.7digital.com/artist/lorde/release/flicker-kanye-west-rework-from-the-hunger-games-mockingjay-part-1-1/|archive-date=18 December 2014|df=dmy-all}}</ref>
+| 2014
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''The Hunger Games: Mockingjay – Part 1''
+|-
+! scope="row"| "[[Team Ball Player Thing]]"<br />{{small|(with #KiwisCureBatten)}}
+| 2015
+| 2 || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Liability (song)|Liability]]"
+| rowspan="2"| 2017
+| 8 || 42 || 62 || 79 || 54 || 74 || 86 || 84 || 78 || —
+|
+* RMNZ: 2× Platinum<ref name="RMNZ" />
+* ARIA: 2× Platinum<ref name="ARIA25s"/>
+* BPI: Gold<ref name="BPI" />
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+| rowspan="2"| ''Melodrama''
+|-
+! scope="row"| "[[Sober (Lorde song)|Sober]]"
+| 18 || 61 || 84 || 89 || — || — || — || — || —{{efn|group=upper-alpha|"Sober" did not chart on the [[Billboard Hot 100]], but peaked at number 48 on the [[Digital Song Sales]] chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/lorde/chart-history/hds/|title=Lorde – Chart history: Digital Song Sales|magazine=Billboard| access-date=7 August 2019}}</ref>}} || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIAsingles2019">{{cite certification|region=Australia|certyear=2019|type=single|access-date=17 August 2019}}</ref>
+* MC: Gold<ref name="MC" />
+|-
+! scope="row"| "Secrets from a Girl (Who's Seen It All)"<ref>{{cite web | url=https://radiodate.it/radio-date/lorde-secrets-from-a-girl-who-s-seen-it-all-233304-25-03-2022-radiodate/ | title=LORDE "Secrets from a Girl (Who's Seen it All)" &#124; (Radio Date: 25/03/2022) }}</ref>
+| 2022
+| —{{efn|group=upper-alpha|"Secrets from a Girl (Who's Seen It All)" did not enter the NZ Top 40 Singles Chart, but peaked at number 10 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2021-09-24|title=Top 20 New Zealand Singles Chart|publisher=[[Recorded Music NZ]]|date=30 August 2021|access-date=12 November 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| ''Solar Power''
+|-
+! scope="row"| "[[Take Me to the River (Talking Heads song)|Take Me to the River]]"<ref>{{Cite web|url=https://www.nme.com/news/music/lorde-releases-take-me-to-the-river-for-everyones-getting-involved-a-tribute-to-talking-heads-stop-making-sense-3610775|title=Lorde releases "Take Me to the River" for ''Everyone's Getting Involved: A Tribute to Talking Heads' Stop Making Sense'' |website=[[NME]]|date=28 March 2024|access-date=29 March 2024}}</ref>
+| rowspan="2"|2024
+| —{{efn|group=upper-alpha|"Take Me to the River" did not enter the NZ Top 40 Singles Chart, but peaked at number 11 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-04-05|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=8 April 2024|access-date=5 April 2024}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| ''[[Everyone's Getting Involved: A Tribute to Talking Heads' Stop Making Sense|Everyone's Getting Involved]]''
+|-
+! scope="row"| "[[Girl, So Confusing#Lorde remix|Girl, So Confusing]]"<br>{{small|([[Charli XCX]] featuring Lorde)}}
+| 24<br /><ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2024-06-28|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=1 July 2024|access-date=28 June 2024}}</ref> || — || 57 || — || — || — || — || 28 || 63 || 59
+|
+| ''[[Brat and It's Completely Different but Also Still Brat]]''
+|-
+! scope="row"| "Kāhore He Manu E"<br />{{small|(with [[Marlon Williams (New Zealand musician)|Marlon Williams]])}}<ref>{{cite web|url=https://pitchfork.com/news/lorde-joins-marlon-williams-on-new-song-kahore-he-manu-e-listen/|title= Lorde Joins Marlon Williams on New Song "Kāhore He Manu E": Watch the Video|website=Pitchfork|date=25 February 2025|access-date=2 March 2025}}</ref>
+| 2025
+| —{{efn|group=upper-alpha|"Kāhore He Manu E" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-03-07|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=7 March 2025|access-date=8 March 2025}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| ''Te Whare Tīwekaweka''
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart  in that territory.
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web|url=https://austriancharts.at/showinterpret.asp?interpret=Lorde|title=austriancharts.at - Discography Lorde|work=austriancharts.at|access-date=22 June 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="BELF">{{cite web|url=http://www.ultratop.be/nl/artist/lorde|title=Discographie Lorde - ultratop.be|work=ultratop.be|access-date=30 April 2025}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[International Federation of the Phonographic Industry|CZ]]<br /><ref name="CZ"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[SNEP|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Bubbling Under Hot 100 Singles|US<br />Bub.]]<br /><ref name="Bubbling" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Global 200|WW]]<br /><ref name="Global200" />
+|-
+! scope="row"| "Million Dollar Bills"
+| rowspan="7"| 2013
+| —{{efn|group=upper-alpha|"Million Dollar Bills" did not enter the NZ Top 40 Singles Chart, but peaked at number nineteen on the NZ Artist Singles Chart.<ref>{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-03-15 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=18 March 2013 |access-date=5 October 2017}}</ref>}} || —{{efn|group=upper-alpha| name= LoveClub|In Australia, ''The Love Club EP'' appeared on the Australian Singles Chart; songs on the EP therefore could not chart separately.}} || — || — || — || — || — || — || — || —
+| 
+| rowspan="2"| ''The Love Club EP''
+|-
+! scope="row"| "The Love Club"
+| 17 || —{{efn|group=upper-alpha| name= LoveClub|In Australia, ''The Love Club EP'' appeared on the Australian Singles Chart; songs on the EP therefore could not chart separately.}} || — || — || — || — || — || — || 20 || —
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+|-
+! scope="row"| "[[Swingin Party#Other versions|Swingin Party]]"
+| 10 || — || — || — || —|| — || — || — || — || —
+| 
+|''Tennis Court EP''
+|-
+! scope="row"| "400 Lux"
+| —{{efn|group=upper-alpha|"400 Lux" did not enter the NZ Top 40 Singles Chart, but peaked at number fourteen on the NZ Artist Singles Chart.<ref name="NZ 7 Oct">{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2013-10-04 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=7 October 2013 |access-date=5 October 2017}}</ref>}} || —{{efn|group=upper-alpha|"400 Lux" did not enter the ARIA Top 100 Singles Chart, but peaked at number 28 on the Australian Streaming Tracks chart.<ref name="ausstream20131124" />}} || — || — || — || — || — || —{{efn|group=upper-alpha|"400 Lux" did not enter the UK Singles Chart, but peaked at number 59 on the UK Streaming Chart.<ref name="ukstream20131110" />}} || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+* RIAA: Platinum<ref name="RIAA" />
+| rowspan="3"| ''Pure Heroine''
+|-
+! scope="row"| "White Teeth Teens"
+| — || — || — || — || — || — || — || — || — || —
+| 
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+! scope="row"| "A World Alone"
+| —{{efn|group=upper-alpha|"A World Alone" did not enter the NZ Top 40 Singles Chart, but peaked at number fifteen on the NZ Artist Singles Chart.<ref name="NZ 7 Oct" />}} || — || — || — || — || — || — || — || — || —
+| 
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+!scope="row"|"[[Everybody Wants to Rule the World#Lorde version|Everybody Wants to Rule the World]]"
+| 14 || 53 || — || — || — || 93 || 97 || 65 || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+* BPI: Silver<ref name="BPI"/>
+|''[[The Hunger Games: Catching Fire – Original Motion Picture Soundtrack|The Hunger Games:<br />Catching Fire]]''
+|-
+! scope="row"| "[[Meltdown (Stromae song)|Meltdown]]"<br />{{small|([[Stromae]] featuring [[Pusha T]], [[Q-Tip (musician)|Q-Tip]], [[Haim (band)|Haim]] and Lorde)}}
+| rowspan="2"| 2014
+| —{{efn|group=upper-alpha|"Meltdown" did not enter the NZ Top 40 Singles Chart, but peaked at number nineteen on the NZ Artist Singles Chart.<ref name="NZ 24NOV14">{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2014-11-21 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=24 November 2014 |access-date=5 October 2017}}</ref>}} || — || — || 7 || — || 107 || — || — || — || —
+|
+| rowspan="2" | ''The Hunger Games:<br />Mockingjay, Part 1''
+|-
+!scope="row"|"[[The People's Key|Ladder Song]]"
+| —{{efn|group=upper-alpha|"Ladder Song" did not enter the NZ Top 40 Singles Chart, but peaked at number fourteen on the NZ Artist Singles Chart.<ref name="NZ 24NOV14" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+!scope="row"|"[[Homemade Dynamite]]"
+| rowspan="7"| 2017
+| 13 || — || 71 || —{{efn|group=upper-alpha|"Homemade Dynamite" did not enter the Flanders Ultratop Top 50, but peaked at number 5 on the Flanders Ultratip Bubbling Under chart.<ref name="BELF" />}} || 46 || — || 61 || 82 || — || —
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* BPI: Silver<ref name=BPI/>
+| rowspan="7"| ''Melodrama''
+|-
+! scope="row"| "[[The Louvre (song)|The Louvre]]"
+| —{{efn|group=upper-alpha|"The Louvre" did not enter the NZ Top 40 Singles Chart, but peaked at number one on the NZ Heatseeker Singles Chart,<ref name="NZ 23 June">{{cite web |url=https://aotearoamusiccharts.co.nz/archive/singles/2017-06-23 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=26 June 2017 |access-date=11 August 2017}}</ref> and number four on the NZ Artist Singles Chart.<ref>{{cite web |url=https://nztop40.co.nz/index.php/chart/nzsingles?chart=4380 |title=Top 20 New Zealand Singles Chart |publisher=Recorded Music NZ |date=17 July 2017 |access-date=20 February 2018 |archive-date=20 February 2018 |archive-url=https://web.archive.org/web/20180220093804/https://nztop40.co.nz/index.php/chart/nzsingles?chart=4380 |url-status=dead }}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+* RMNZ: Platinum<ref name="RMNZ" />
+* ARIA: Platinum<ref name="ARIA25s"/>
+|-
+! scope="row"| "[[Hard Feelings/Loveless]]"
+| —{{efn|group=upper-alpha|"Hard Feelings/Loveless" did not enter the NZ Top 40 Singles Chart, but peaked at number eight on the NZ Artist Singles Chart.<ref name="NZ 17 July">{{cite web |url=https://aotearoamusiccharts.co.nz/archive/aotearoa-singles/2017-07-14 |title=NZ Top 40 Singles Chart |publisher=[[Recorded Music NZ]] |date=17 July 2017 |access-date=5 October 2017}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+! scope="row"| "Sober II (Melodrama)"
+| —{{efn|group=upper-alpha|"Sober II (Melodrama)" did not enter the NZ Top 40 Singles Chart, but peaked at number ten on the NZ Artist Singles Chart.<ref name="NZ 23 June" />}} || — || — || — || — || — || — || — || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+|-
+! scope="row"| "[[Writer in the Dark]]"
+| —{{efn|group=upper-alpha|"Writer in the Dark" did not enter the NZ Top 40 Singles Chart, but peaked at number two on the NZ Heatseeker Singles Chart,<ref name="NZ 23 June"/> and number seven on the NZ Artist Singles Chart.<ref name="NZ 23 June" />}} || — || — || — || — || — || — || — || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+* ARIA: Gold<ref name="ARIA25s"/>
+|-
+! scope="row"| "[[Supercut (song)|Supercut]]"
+| —{{efn|group=upper-alpha|"Supercut" did not enter the NZ Top 40 Singles Chart, but peaked at number seven on the NZ Artist Singles Chart.<ref name="NZ 17 July" />}} || — || — || — || — || — || — || — || — || —
+|
+* RMNZ: 2× Platinum<ref name="RMNZ" />
+* ARIA: 2× Platinum<ref name="ARIA25s"/>
+* BPI: Gold<ref name="BPI"/>
+* RIAA: Platinum<ref name="RIAA" />
+|-
+! scope="row"| "Liability (Reprise)"
+| —{{efn|group=upper-alpha|"Liability (Reprise)" did not enter the NZ Top 40 Singles Chart, but peaked at number eleven on the NZ Artist Singles Chart.<ref name="NZ 23 June" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Supercut (song)#El-P remix|Supercut]]" ([[El-P]] Remix)<br />{{small|(featuring [[Run the Jewels]])}}
+| 2018
+| —{{efn|group=upper-alpha|"Supercut" (El-P Remix) did not enter the NZ Top 40 Singles Chart, but peaked at number nine on the NZ Heatseeker Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2018-03-16|title=NZ Heatseeker Singles Chart|publisher=Recorded Music NZ|date=19 March 2018|access-date=16 March 2018}}</ref>}} || — || — || —{{efn|group=upper-alpha|"Supercut" (El-P Remix) did not enter the Flanders Ultratop Top 50, but charted as an "extra tip" on the Flanders Ultratip Bubbling Under chart.<ref name="BELF" />}} || — || — || — || — || — || —
+|
+| {{n/a|Non-album song}}
+|-
+! scope="row"| "The Path"
+| rowspan="13"| 2021
+| 25 || 73 || — || — || — || — || — || — || — || —
+|
+| rowspan="7"| ''Solar Power''
+|-
+! scope="row"| "California"
+| —{{efn|group=upper-alpha|"California" did not enter the NZ Top 40 Singles Chart, but peaked at number five on the NZ Hot Singles Chart.<ref name="NZ Hot 30 August">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-09-24|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=30 August 2021|access-date=28 August 2021}}</ref>}} || 95 || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "The Man with the Axe"
+| —{{efn|group=upper-alpha|"The Man with the Axe" did not enter the NZ Top 40 Singles Chart, but peaked at number 14 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Dominoes"
+| —{{efn|group=upper-alpha|"Dominoes" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Big Star"
+| —{{efn|group=upper-alpha|"Big Star" did not enter the NZ Top 40 Singles Chart, but peaked at number 16 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Leader of a New Regime"
+| —{{efn|group=upper-alpha|"Leader of a New Regime" did not enter the NZ Top 40 Singles Chart, but peaked at number 19 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Oceanic Feeling"
+| —{{efn|group=upper-alpha|"Oceanic Feeling" did not enter the NZ Top 40 Singles Chart, but peaked at number 17 on the Top 20 New Zealand Singles Chart.<ref name="NZ5191" />}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Te Ara Tika / The Path"
+| —{{efn|group=upper-alpha|"Te Ara Tika / The Path" did not enter the NZ Top 40 Singles Chart, but peaked at number 39 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-09-10|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=13 September 2021|access-date=11 September 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4"| ''Te Ao Mārama''
+|-
+! scope="row"| "Te Ao Mārama / Solar Power"
+| —{{efn|group=upper-alpha|"Te Ao Mārama / Solar Power" did not enter the NZ Top 40 Singles Chart, but peaked at number 13 on the NZ Hot Singles Chart.<ref name="NZ Hot 20 September">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2021-09-17|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=20 September 2021|access-date=18 September 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Mata Kohore / Stoned at the Nail Salon"
+| —{{efn|group=upper-alpha|"Mata Kohore / Stoned at the Nail Salon" did not enter the NZ Top 40 Singles Chart, but peaked at number 32 on the NZ Hot Singles Chart.<ref name="NZ Hot 20 September"/>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Hine-i-te-Awatea / Oceanic Feeling"
+| —{{efn|group=upper-alpha|"Hine-i-te-Awatea / Oceanic Feeling" did not enter the NZ Top 40 Singles Chart, but peaked at number 18 on the Hot NZ Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-aotearoa-singles/2021-09-17|title=Hot NZ Singles Chart|publisher=[[Recorded Music NZ]]|date=20 September 2021|access-date=15 November 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Helen of Troy"
+| —{{efn|group=upper-alpha|"Helen of Troy" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the Hot NZ Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-aotearoa-singles/2021-11-12|title=Hot NZ Singles Chart|publisher=[[Recorded Music NZ]]|access-date=12 November 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2"| ''Solar Power''
+|-
+! scope="row"| "Hold No Grudge"
+| —{{efn|group=upper-alpha|"Hold No Grudge" did not enter the NZ Top 40 Singles Chart, but peaked at number 24 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-11-12|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=15 November 2021|access-date=12 November 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Shapeshifter"
+| rowspan="5" | 2025
+| 11 || — || — || — || — || — || 54 || 44 || 1 || 156
+|
+| rowspan="5" | ''Virgin''
+|-
+! scope="row"| "Favourite Daughter"
+| 24 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Current Affairs"
+| 23 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"|"Clearblue"
+| —{{efn|group=upper-alpha|"Clearblue" did not enter the NZ Top 40 Singles Chart, but peaked at number six on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-07-04|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=4 July 2025|access-date=7 July 2025}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "David"
+| —{{efn|group=upper-alpha|"David" did not enter the NZ Top 40 Singles Chart, but peaked at number two on the Hot 20 Aotearoa Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-aotearoa-singles/2025-08-01|title=Hot 20 Aotearoa Singles|publisher=[[Recorded Music NZ]]|date=1 August 2025|access-date=1 August 2025}}</ref>}} || — || — || — || — || — || 75 || — || — || —
+|
+* RMNZ: Gold<ref name="RMNZ" />
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart in that territory.
+|}
+
+==Other appearances==
+The following songs are not singles or promotional singles and have not appeared on an album by Lorde:
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col" style="width:14em;"| Title
+!scope="col" style="width:1em;"| Year
+!scope="col"| Other performer(s)
+!scope="col"| Album
+|-
+!scope="row"|"Piece of Mind"<ref>{{cite web|url=https://www.smh.com.au/entertainment/music/lordes-early-work-unmasked-20140808-101rem.html|title=Lorde's early work unmasked|work=The Sydney Morning Herald|first=Sarah|last=Thomas|date=8 August 2014|access-date=12 November 2014}}</ref>
+| rowspan="2"| 2012
+| rowspan="2"| And They Were Masked
+| rowspan="2"| ''Characters''
+|-
+!scope="row"|"Sands of John"<ref>{{cite news |last1=Morgan Britton |first1=Luke |title=Listen to Lorde's high school band "And They Were Masked" |url=https://www.thelineofbestfit.com/news/latest-news/listen-to-lordes-high-school-band-and-they-were-masked |access-date=8 March 2019 |work=The Line of Best Fit |date=8 August 2014}}</ref>
+|-
+!scope="row"|"Everybody Wants to Rule the World"<ref>{{cite web |url={{AllMusic|class=album|id=mw0002585397|pure_url=yes}} |title=The Hunger Games: Catching Fire &#91;Original Motion Picture Soundtrack&#93; |publisher=AllMusic (All Media Network) |access-date= 8 March 2014}}</ref>
+|2013
+| {{n/a|none}}
+| ''The Hunger Games:<br />Catching Fire''
+|-
+!scope="row"|"Easy (Switch Screens)"<ref>{{cite web|url=https://www.spin.com/2014/03/lorde-son-lux-easy-switch-screens-stream-alternate-worlds/|title=Lorde and Son Lux Collaborate on Menacing 'Easy (Switch Screens)'|work=[[Spin (magazine)|Spin]]|date=4 March 2014|access-date=6 March 2014|first=Chris|last=Martins}}</ref><ref>{{cite web|url=https://itunes.apple.com/us/album/alternate-worlds-ep/id830827942|archive-url=https://web.archive.org/web/20140726210036/https://itunes.apple.com/us/album/alternate-worlds-ep/id830827942|url-status=dead|archive-date=26 July 2014|title=Alternate Worlds – EP |date=4 March 2014 |location=United States |publisher=iTunes Store (Apple)|access-date=6 March 2014}}</ref>
+| rowspan="5"| 2014
+| [[Son Lux]]
+|''Alternate Worlds''
+|-
+!scope="row"|"[[All Apologies]]"<ref>{{Cite web|url=https://www.amazon.com/Rock-Roll-Hall-Fame-Concert/dp/B07GZD5N9G|title=	The Rock & Roll Hall Of Fame: In Concert 2014 (Live) by Various artists on Amazon Music|publisher=[[Amazon Music]]|access-date=9 December 2018}}</ref>
+|[[Dave Grohl]], [[Krist Novoselic]], [[St. Vincent (musician)|Annie Clark]],<br /> [[Kim Gordon]], [[Joan Jett]], [[Pat Smear]]
+|''[[Rock and Roll Hall of Fame|The Rock & Roll Hall of Fame]]:<br /> In Concert 2014''
+|-
+!scope="row"|"[[Retrograde (James Blake song)|Retrograde]]"<ref name="cd10">{{cite web|url=http://www.abcmusic.com.au/discography/triple-j-version-10-0 |title=Triple J's Like A Version Volume 10 |publisher=[[Australian Broadcasting Corporation]] |access-date=29 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150411041831/http://www.abcmusic.com.au/discography/triple-j-version-10-0 |archive-date=11 April 2015 }}</ref>
+| {{n/a|none}}
+|''[[Like a Version#Volume Ten (2014)|Triple J: Like a Version 10]]''
+|-
+!scope="row"|"Meltdown"<ref name="mockingjay" />
+|[[Stromae]], [[Pusha T]], [[Q-Tip (musician)|Q-Tip]], [[Haim (band)|Haim]]
+| rowspan="2"| ''The Hunger Games:<br />Mockingjay, Part 1''
+|-
+!scope="row"|"Ladder Song"<ref name="mockingjay">{{cite web|url=https://music.apple.com/us/album/hunger-games-mockingjay-pt/947662907 |title=The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Soundtrack) |date=December 2014 |publisher=[[iTunes Store]]|location=United States |access-date=6 December 2014}}</ref> 
+| {{n/a|none}}
+|-
+!scope="row"|"[[Don't Take the Money]]"<ref>{{cite web |title=MTV Bleachers (Explicit) by Bleachers on Amazon Music |url=https://www.amazon.com/MTV-Unplugged-Explicit-Bleachers/dp/B076J4L7L5 |website=Amazon Music |access-date=9 May 2020}}</ref>
+| 2017
+| [[Bleachers (band)|Bleachers]]
+| ''MTV Unplugged''
+|-
+!scope="row"|"[[Blouse (song)|Blouse]]"<ref>{{cite magazine |last1=Martoccio |first1=Angie |title=Clairo Drops Crushing Ballad 'Blouse' With Backing Vocals by Lorde |url=https://www.rollingstone.com/music/music-news/clairo-blouse-new-album-sling-1180050/ |access-date=11 June 2021 |magazine=Rolling Stone |date=11 June 2021}}</ref>
+| rowspan="2"| 2021
+| rowspan="2"| [[Clairo]]
+| rowspan="2"| ''[[Sling (album)|Sling]]''
+|-
+!scope="row"|"Reaper"<ref>{{cite news |last1=Rossignol |first1=Derrick |title=Lorde Assists Clairo On Another New 'Sling' Song, The Gentle 'Reaper' |url=https://uproxx.com/indie/clairo-lorde-reaper-sling/ |access-date=15 November 2022 |work=Uproxx |date=16 July 2021}}</ref>
+|}
+
+==Songwriting credits==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of songs written or co-written for other artists, showing year released and album name
+! scope="col" style="width:13em;"| Title
+! scope="col"| Year
+! scope="col" style="width:14em;"| Artist
+! scope="col" style="width:12em;"| Album
+|-
+! scope="row"| "[[All My Love (Major Lazer song)|All My Love]]"<ref name="thgmlinernotes">{{cite AV media notes|others=Lorde|title=The Hunger Games: Mockingjay – Part 1|year=2014|publisher=Republic Records}}</ref>
+| 2014
+| [[Major Lazer]], [[Ariana Grande]]
+| ''The Hunger Games:<br /> Mockingjay, Part 1''
+|-
+! scope="row"| "[[Heartlines]]"<ref>{{cite magazine |last1=Brandle |first1=Lars |title=Broods Talk Life on the Road, Recording With Lorde and Getting 'S--- Done' |url=https://www.billboard.com/articles/news/7454372/broods-road-recording-lorde-heartlines |access-date=1 February 2019 |magazine=Billboard |date=1 August 2016}}</ref>
+| 2016
+| [[Broods]]
+| ''[[Conscious (Broods album)|Conscious]]''
+|-
+! scope="row"| "Don't Take the Money"<ref>{{cite news|last1=Geslani|first1=Michelle|title=Bleachers and Lorde link up on new song "Don't Take the Money" — listen|url=https://consequence.net/2017/03/bleachers-and-lorde-link-up-on-new-song-dont-take-the-money-listen/|access-date=30 December 2017|work=Consequence of Sound|date=31 March 2017}}</ref>
+| 2017
+| Bleachers
+| ''[[Gone Now]]''
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col" style="width:14em;"| Title
+!scope="col"| Year
+!scope="col"| Director
+!scope="col"| {{Tooltip|Ref.|Reference}}
+|-
+! scope="row"| "Royals"
+| rowspan="3"| 2013
+| rowspan="2"| {{sortname|Joel|Kefali|nolink=1}}
+| <ref>{{cite web|url=http://www.mtv.com/videos/lorde/939254/royals.jhtml|title=Lorde – 'Royals'|publisher=[[MTV]] (Viacom) | date= 6 August 2013| archive-url=https://web.archive.org/web/20131112021632/http://www.mtv.com/videos/lorde/939254/royals.jhtml| archive-date= 12 November 2013| url-status=dead}}</ref>
+|-
+! scope="row"| "Tennis Court"
+| <ref>{{cite web |url=http://www.mtv.com/videos/lorde/923110/tennis-court.jhtml |title=Lorde – 'Tennis Court'|publisher=MTV (Viacom) |archive-url=https://web.archive.org/web/20140618020012/http://www.mtv.com/videos/lorde/923110/tennis-court.jhtml |archive-date=18 June 2014 |url-status=dead |date=24 June 2013}}</ref>
+|-
+! scope="row"| "Team"
+|Young Replicant
+| <ref>{{cite news |url=http://www.stuff.co.nz/entertainment/9474689/Lordes-new-video-crashes-Vevo |title=Lorde's new video 'crashes Vevo'| date= 4 December 2013| publisher=[[Stuff.co.nz]] ([[Fairfax New Zealand]]) |archive-url=https://web.archive.org/web/20131211215227/http://www.stuff.co.nz/entertainment/9474689/Lordes-new-video-crashes-Vevo| archive-date= 11 December 2013 |url-status=live}}</ref>
+|-
+! scope="row"| "Yellow Flicker Beat"
+| rowspan="1"| 2014
+|{{sortname|Emily Kai|Bock}}
+|<ref>{{cite news |url=https://pitchfork.com/news/57086-lorde-shares-yellow-flicker-beat-video/ |title=Lorde Shares 'Yellow Flicker Beat' Video |first=Molly |last=Beauchemin |work=[[Pitchfork (website)|Pitchfork]] |date=6 November 2014 |access-date=6 November 2014}}</ref>
+|-
+! scope="row"| "Magnets"
+| rowspan="1"| 2015
+|Ryan Hope
+|<ref>{{cite magazine | url=https://www.billboard.com/music/pop/lorde-disclosure-magnets-music-video-watch-6714436/ | title=Lorde Plays Fatal Attraction in Disclosure's 'Magnets' Video: Watch | magazine=Billboard | date=29 September 2015 | access-date=8 October 2015}}</ref>
+|-
+! scope="row"| "Green Light"
+| rowspan="2"| 2017
+| rowspan="2"| [[Grant Singer]]
+| <ref>{{Cite web|url=https://pitchfork.com/news/68382-lorde-releases-new-song-green-light-and-video-watch/|title=Lorde Releases New Song "Green Light" and Video: Watch {{!}} Pitchfork|work=Pitchfork|date=2 March 2017|language=en|access-date=2017-03-02}}</ref>
+|-
+!scope="row"| "Perfect Places"
+|<ref>{{cite web| url=https://pitchfork.com/news/lorde-takes-one-hell-of-a-vacation-in-new-perfect-places-video-watch/ |title=Lorde Takes One Hell of a Vacation in New "Perfect Places" Video: Watch |first=Amanda |last=Wicks |work=Pitchfork |date=3 August 2017 |access-date=13 August 2017}}</ref>
+|-
+! scope="row"| "Solar Power"
+| rowspan="4"| 2021
+| rowspan="7"| Joel Kefali<br />Ella Yelich-O'Connor
+|<ref>{{cite web| url=https://www.esquire.com/entertainment/music/a36687400/lorde-new-song-solar-power-how-to-listen-amazon-music-tidal/ |title=lorde new song solar power how to listen amazon music tidal Video: Watch | work=Esquire | date= 10 June 2021 | access-date=10 June 2021}}</ref>
+|-
+!scope="row"| "Mood Ring"
+| <ref>{{cite web |url=https://pitchfork.com/news/lorde-shares-video-for-new-song-mood-ring-watch/ |title=Lorde Shares Video for New Song "Mood Ring": Watch|first=Evan |last=Minsker |work=Pitchfork |date=17 August 2021 |access-date=17 August 2021}}</ref>
+|-
+!scope="row"| "Fallen Fruit"
+| <ref>{{cite web |url=https://pitchfork.com/news/lorde-shares-new-fallen-fruit-video-watch/ |title=Lorde Shares New "Fallen Fruit" Video: Watch
+|first=Matthew |last=Strauss |work=Pitchfork |date=2 November 2021 |access-date=2 November 2021}}</ref>
+|-
+!scope="row"| "Leader of a New Regime"
+| <ref>{{cite web |url=https://pitchfork.com/news/watch-lorde-leader-of-a-new-regime-video/ |title=Watch Lorde's "Leader of a New Regime" Video|first=Matthew |last=Strauss |work=Pitchfork |date=2 December 2021 |access-date=2 December 2021}}</ref>
+|-
+!scope="row"| "Secrets from a Girl (Who's Seen It All)"
+|rowspan="3"| 2022
+| <ref>{{cite web|url=https://pitchfork.com/news/watch-lorde-new-video-for-secrets-from-a-girl-whos-seen-it-all/|title=Watch Lorde's New Video for "Secrets From a Girl (Who's Seen It All)"|first=Matthew|last=Strauss|work=Pitchfork|date=22 March 2022|access-date=20 August 2022}}</ref>
+|-
+!scope="row"| "The Path"
+| <ref>{{cite magazine|url=https://www.billboard.com/music/pop/lorde-the-path-music-video-watch-1235103806/|title=Lorde Celebrates Summer Solstice With 'The Path' Music Video: Watch|first=Glenn|last=Rowley|magazine=Billboard|date=21 June 2022|access-date=20 August 2022}}</ref>
+|-
+!scope="row"| "Oceanic Feeling"
+| <ref>{{cite web|url=https://www.nme.com/news/music/watch-lordes-serene-music-video-for-oceanic-feeling-3294178|title=Watch Lorde's serene music video for 'Oceanic Feeling'|first=Greta|last=Brereton|work=NME|date=20 August 2022|access-date=20 August 2022}}</ref>
+|-
+!scope="row"| "What Was That"
+|rowspan="3"| 2025
+| Terrence O'Connor<br />Ella Yelich-O'Connor
+| <ref>{{cite web |title=Watch: Lorde's new NYC-filmed video drops after cryptic teasers, surprise shows |url=https://www.nzherald.co.nz/entertainment/lordes-video-for-new-single-what-was-that-drops-after-pop-up-performance-weeks-of-cryptic-messages/UNLIMPSAKJCC5LZY4QG4GWA7QY/ |website=NZ Herald |language=en-NZ |date=9 May 2025}}</ref>
+|-
+!scope="row"| "Man of the Year"
+| Grant Singer
+| <ref>{{cite web |title=Lorde Shares New Single "Man Of The Year"|url=https://www.stereogum.com/2309826/lorde-man-of-the-year/music/|website=[[Stereogum]]|language=EN|date=29 May 2025}}</ref>
+|-
+!scope="row"| “Hammer”
+| [[Renell Medrano]]
+| <ref>{{cite web |title=Feature Video: Lorde - Hammer |url=https://www.abc.net.au/rage/features/feature-video-lorde-hammer/105468810 |website=[[Australian Broadcasting Corporation]]|language=EN|date=27 June 2025}}</ref>
+|}
+
+==Footnotes==
+{{notelist-ua|35em}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://lorde.co.nz/ Official website]
+* [https://www.allmusic.com/artist/lorde-mn0003085111 Lorde] at [[AllMusic]]
+* {{Discogs artist | artist=Lorde | name=Lorde}}
+
+{{Lorde}}
+
+[[Category:Works by Lorde|Discography]]
+[[Category:Discographies of Croatian artists]]
+[[Category:Discographies of New Zealand artists]]
+[[Category:Electronic music discographies]]
+[[Category:Pop music discographies]]
+[[Category:Rock music discographies]]

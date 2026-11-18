@@ -1,0 +1,111 @@
+{{Use mdy dates|date=July 2023}}
+{{Infobox song
+| name       = You & I (Nobody in the World)
+| cover      = John Legend - You & I (Nobody In The World).jpg
+| alt        =
+| type       = single
+| artist     = [[John Legend]]
+| album      = [[Love in the Future]]
+| released   = {{Start date|2014|4|29}}
+| recorded   = 2013
+| studio     =
+| genre      = [[Contemporary R&B|R&B]]
+| length     =
+* 4:12 (album version)
+* 3:14 (radio edit)
+| label      = {{hlist|[[GOOD Music|GOOD]]|[[Columbia Records|Columbia]]}}
+| writer     = {{hlist|[[John Legend|John Stephens]]|James Ryan Ho|[[Dave Tozer]]|[[Dan Wilson (musician)|Dan Wilson]]|Jamie Gaynor}}
+| producer   = {{hlist|[[Malay (producer)|Malay]]|[[Dave Tozer]]|John Legend|Ron Thaler}}
+| chronology = [[John Legend]]
+| prev_title = [[All of Me (John Legend song)|All of Me]]
+| prev_year  = 2013
+| next_title = [[Don't Say Goodbye (Sérgio Mendes song)|Don't Say Goodbye]]
+| next_year  = 2014
+}}
+
+"'''You & I (Nobody in the World)'''" is a song by American singer [[John Legend]]. Legend co-wrote the song with James Ryan Ho, [[Dave Tozer]] and [[Dan Wilson (musician)|Dan Wilson]], with [[Record production|production]] by [[Malay (producer)|Malay]], Tozer and Legend. It impacted [[urban adult contemporary]] radio in the United States on April 29, 2014, as the fourth single from his fourth studio album ''[[Love in the Future]]'' (2013).<ref>{{cite web|url=http://www.allaccess.com/urban/future-releases |title=Urban/UAC Future Releases - R&B, Hip Hop, Release Schedule and Street Dates - ... |work=All Access |url-status=dead |archive-url=https://web.archive.org/web/20140225142501/http://www.allaccess.com/urban/future-releases |archive-date=February 25, 2014 }}</ref>
+
+== Music video ==
+The music video for "You & I (Nobody in the World)" was released on July 10, 2014. In the video, Legend "showcases his appreciation for the true beauty of all women" and sings about his love for his wife [[Chrissy Teigen]].<ref>{{cite web|url=http://www.complex.com/music/2014/07/watch-john-legends-video-for-you-and-i-nobody-in-the-world|title=Watch John Legend's "You & I (Nobody In the World)" Video|author=Zach Frydenlund|date=July 10, 2014|work=Complex}}</ref> The video includes appearances by actress [[Laverne Cox]], [[Tig Notaro]] and [[Tatyana Ali]].<ref>{{cite web|last=Bendix |first=Trish |url=http://www.afterellen.com/morning-brew-jodie-foster-is-back-on-the-set-of-orange-is-the-new-black/07/2014/ |title=Morning Brew - Jodie Foster is back on the set of "Orange is the New Black" |publisher=AfterEllen.com |date=July 11, 2014 |access-date=July 19, 2014}}</ref>
+
+== Track listing ==
+*;Digital download — remix<ref name="remix">{{cite web|url=https://music.apple.com/us/album/you-i-nobody-in-world-r3hab/913723655|title=iTunes - Music - You & I (Nobody In the World) [R3hab Remix - Radio Edit] - Single by John Legend|work=iTunes}}</ref>
+#"You & I (Nobody in the World)" ([[R3hab]] Remix) (Radio Edit) – 3:14
+
+== Charts ==
+
+===Weekly charts===
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+!scope="col"| Chart (2014)
+!scope="col"| Peak<br />position
+|-
+{{singlechart|Flanders Urban|39|artist=John Legend|song=You & I (Nobody in the World)|rowheader=true}}
+|-
+!scope="row"{{singlechart|Billboardhot100|66|artist=John Legend|song=You & I (Nobody in the World)}}
+|-
+!scope="row"{{singlechart|Billboardrandbhiphop|18|artist=John Legend|song=You & I (Nobody in the World)}}
+|-
+{{singlechart|Billboardrhythmic|34|artist=John Legend|song=You & I (Nobody in the World)|rowheader=true}}
+|}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Chart (2014)
+!scope="col"| Position
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2019/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs – Year-End 2019|magazine=Billboard|access-date=December 26, 2019}}</ref>
+| 78
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{certification Table Entry|type=single|region=Australia|certyear=2023|award=Gold|access-date=July 9, 2023}}
+{{Certification Table Entry|region=Denmark|artist=John Legend|title=You & I (Nobody in the World)|award=Gold|type=single|relyear=2014|certyear=2019|id=8801|access-date=October 5, 2021}}
+{{Certification Table Entry|region=New Zealand|type=single|artist=John Legend|title=You And I (Nobody In The World)|award=Gold|relyear=2014|certyear=2023|source=radioscope|access-date=June 16, 2025}}
+{{Certification Table Entry|region=United States|type=single|artist=John Legend|title=You & I (Nobody in the World) |award=Platinum|relyear=2014|certyear=2022|access-date=March 26, 2022}}
+{{Certification Table Bottom|streaming=true|nosales=true|noshipments=true}}
+
+==Release history==
+{|class="wikitable plainrowheaders"
+|-
+!Region
+!Date
+!Format
+!Label
+|-
+! scope="row" rowspan="2"| United States
+| April 29, 2014
+| [[Urban adult contemporary]] radio
+|rowspan="4"| {{hlist|[[GOOD Music|GOOD]]|[[Columbia Records|Columbia]]}}
+|-
+| August 30, 2014<ref name="remix"/>
+|rowspan="2"|[[Music download|Digital download]] — remix
+|-
+! scope="row" rowspan="2"| United Kingdom
+| September 2, 2014<ref name="remixuk">{{cite web|url=https://www.amazon.co.uk/gp/product/B00N59TZZE/|title=You & I (Nobody In The World) (R3hab Remix - Radio Edit)|website=Amazon UK }}</ref>
+|-
+| October 11, 2014<ref name="ukradio">{{cite web |title=Radio 2 Rhestr Chwarae |url=http://www.bbc.co.uk/radio2/playlist |url-status=unfit |archive-url=https://web.archive.org/web/20140914182935/http://www.bbc.co.uk/radio2/playlist |archive-date=September 14, 2014}}</ref>{{Failed verification|date=February 2024}}
+| [[Contemporary hit radio]]
+|-
+|}
+
+== References ==
+{{Reflist|2}}
+
+{{John Legend}}
+{{NAACP Image Award for Outstanding Music Video}}
+
+{{DEFAULTSORT:You and I (Nobody in the World)}}
+[[Category:2013 songs]]
+[[Category:2014 singles]]
+[[Category:John Legend songs]]
+[[Category:GOOD Music singles]]
+[[Category:Columbia Records singles]]
+[[Category:Contemporary R&B ballads]]
+[[Category:Songs written by John Legend]]
+[[Category:Songs written by Dan Wilson (musician)]]
+[[Category:Songs written by Malay (record producer)]]
+[[Category:Songs written by Dave Tozer]]
+[[Category:Transgender-related mass media]]

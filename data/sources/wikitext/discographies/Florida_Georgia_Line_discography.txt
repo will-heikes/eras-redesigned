@@ -1,0 +1,725 @@
+{{Short description|Band discography}}
+{{Infobox artist discography
+| Artist       = [[Florida Georgia Line]]
+| Image        = Florida Georgia Line Night Train Tour 2014.jpg
+| Caption      = 
+| Studio       = 5 <!--Life Rolls On-->
+| Live         = 
+| Compilation  = 2
+| Video        = 
+| Music videos = 29 <!--Blessings-->
+| EP           = 5
+| Singles      = 19 <!--Long Live-->
+| Soundtrack   = 
+}}
+
+American [[country music]] duo [[Florida Georgia Line]] has released five [[studio album]]s, two [[compilation album]]s, four [[extended play]]s, 19 [[single (music)|singles]] (as a lead artist), four featured singles, 27 other charted songs, and 29 [[music video]]s. Eighteen of their singles have reached number one on the US ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]], [[Country Airplay]], or [[Canada Country]] charts.
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="4" |Peak chart positions
+! rowspan="2" style="width:12em;"| Certification
+! rowspan="2" style="width:12em;"| Sales
+|- style="font-size:smaller;"
+! style="width:4.5em;" | [[Billboard 200|US]]<br /><ref name="Billboard 200">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/tlp/ |title=Florida Georgia Line Chart History – Billboard 200 |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4.5em;" | [[Top Country Albums|US Country]]<br /><ref name="Country Albums">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/clp/ |title=Florida Georgia Line Chart History – Country Albums |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 21, 2020}}</ref>
+! style="width:4.5em;"| [[ARIA Charts|AUS]]<br /><ref name="AUS charts">{{cite web |title=Discography Florida Georgia Line |url=https://australian-charts.com/showinterpret.asp?interpret=Florida+Georgia+Line |website=australian-charts.com |accessdate=January 21, 2020}}
+* ''Here's to the Good Times'': {{cite web |url=https://www.noise11.com/news/arai-albums-matt-corby-telluric-is-100th-no-1-australian-album-20160319 |title=ARIA Albums: Matt Corby 'Telluric' Is 100th No 1 Australian Album |publisher=Noise11 |last=Ryan |first=Gavin |date=March 19, 2016 |accessdate=March 19, 2016}}</ref>
+! style="width:4.5em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/cna/ |title=Florida Georgia Line Chart History – Canadian Albums |magazine=Billboard |access-date=May 23, 2023}}</ref>
+|-
+! scope="row"| ''[[Here's to the Good Times]]''
+|
+* Released: December 4, 2012
+* Label: [[Republic Nashville]]
+* Format: [[Compact disc|CD]], [[Music download|digital download]]
+| 4
+| 1
+| 65
+| 8
+|
+* [[Recording Industry Association of America|RIAA]]: 2× Platinum<ref name=RIAA>{{Cite certification|region=United States|artist=Florida Georgia Line|access-date=July 15, 2022}}</ref>
+* [[Music Canada|MC]]: Platinum{{Certification Cite Ref|region=Canada|type=album|title=Here's to the Good Times|artist=Florida Georgia Line}}
+|
+* US: 2,369,400<ref>{{cite news |url=http://roughstock.com/news/2017/04/41722-top-country-catalog-album-sales-chart-april-18-2017 |title=Top Country Catalog Album Sales Chart: April 18, 2017 |work=Roughstock |last=Bjorke |first=Matt |date=April 18, 2017 |archive-date=September 22, 2017 |access-date=April 28, 2017 |archive-url=https://web.archive.org/web/20170922083346/http://roughstock.com/news/2017/04/41722-top-country-catalog-album-sales-chart-april-18-2017 |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[Anything Goes (Florida Georgia Line album)|Anything Goes]]''
+|
+* Released: October 14, 2014
+* Label: Republic Nashville
+* Format: CD, digital download
+| 1
+| 1
+| 20
+| 2
+|
+* RIAA: Platinum<ref name=RIAA/>
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=album|title=Anything Goes|artist=Florida Georgia Line}}
+|
+* US: 858,000<ref>{{cite web |archiveurl = https://web.archive.org/web/20160702201349/http://hitsdailydouble.com/new_album_releases |archivedate= July 2, 2016 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |website=Hits Daily Double |publisher=HITS Digital Ventures }}</ref>
+* CAN: 16,000<ref>{{cite web|author= |url=http://ajournalofmusicalthings.com/weekly-music-sales-report-analysis-22-october-2014/ |title=A Journal of Musical ThingsWeekly Music Sales Report and Analysis: 22 October 2014 |publisher=A Journal of Musical Things |date=2014-10-22 |accessdate=2015-03-06}}</ref>
+|-
+! scope="row"| ''[[Dig Your Roots]]''
+|
+* Released: August 26, 2016
+* Label: [[BMLG Records|BMLG]]
+* Format: CD, digital download
+| 2
+| 1
+| 7
+| 2
+|
+* RIAA: Platinum<ref name=RIAA/>
+|
+* US: 444,300<ref>{{cite news |url=http://roughstock.com/news/2018/02/42806-top-10-country-album-sales-chart-february-19-2018 |title=Top 10 Country Album Sales Chart: February 19, 2018 |first=Matt |last=Bjorke |date=February 20, 2018 |work=Roughstock |accessdate=February 25, 2018 |archive-date=March 29, 2018 |archive-url=https://web.archive.org/web/20180329165632/http://roughstock.com/news/2018/02/42806-top-10-country-album-sales-chart-february-19-2018 |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[Can't Say I Ain't Country]]''
+|
+* Released: February 15, 2019
+* Label: BMLG
+* Format: CD, [[LP record|vinyl]], digital download, [[Music streaming|streaming]]
+| 4
+| 1
+| 7
+| 4
+|
+* RIAA: Gold<ref name=RIAA/>
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=album|title=Can’t Say I Ain’t Country|artist=Florida Georgia Line}}
+|
+* US: 107,000<ref>{{cite web |url=http://roughstock.com/news/2020/03/44165-top-10-country-albums-pure-sales-chart-march-9-2020 |title=Top 10 Country Albums Pure Sales Chart: March 9, 2020 |work=RoughStock |first=Matt |last=Bjorke |date=March 10, 2020 |accessdate=March 22, 2020 |archive-date=March 19, 2020 |archive-url=https://web.archive.org/web/20200319184203/http://roughstock.com/news/2020/03/44165-top-10-country-albums-pure-sales-chart-march-9-2020 |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[Life Rolls On]]''
+|
+* Released: February 12, 2021<ref>{{cite web |url=https://tasteofcountry.com/florida-georgia-line-life-rolls-on-album/|title= Florida Georgia Line Announce New 'Life Rolls On' Album|date=December 4, 2020|first=Billy|last=Dukes|work=Taste of Country}}</ref>
+* Label: BMLG
+* Format: CD, vinyl, digital download, streaming
+| 21
+| 3
+| 43
+| 18
+|
+|
+|-
+| colspan="8" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Album details
+! colspan="2" |Peak chart positions
+! rowspan="2" style="width:12em;"| Sales
+|- style="font-size:smaller;"
+! style="width:4.5em;" | [[List of Billboard Hot 100 chart achievements and milestones|US]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/tsl/ |title=Florida Georgia Line Chart History – Digital Albums |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4.5em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums"/>
+|-
+! scope="row"| ''The Acoustic Sessions''
+|
+* Release date: October 18, 2019
+* Label: BMLG, [[Big Loud]]
+* Format: CD, vinyl, digital download, streaming
+| —{{Efn|''The Acoustic Sessions'' did not enter the ''[[Billboard (magazine)|Billboard]]'' [[Billboard 200|200]], but peaked at No. 57 on the ''Billboard'' [[Top Album Sales]]|group=upper-alpha}}
+| —
+|
+* US: 4,900<ref name="album nov2019">{{cite news |url=http://roughstock.com/news/2019/11/44049-top-10-country-albums-pure-sales-chart-november-24-2019 |title=Top 10 Country Albums Pure Sales Chart: November 24, 2019 |date=November 24, 2019 |work=Roughstock |accessdate=December 7, 2019 |archive-date=December 5, 2019 |archive-url=https://web.archive.org/web/20191205132428/http://roughstock.com/news/2019/11/44049-top-10-country-albums-pure-sales-chart-november-24-2019 |url-status=dead }}</ref>
+|-
+! scope="row"| ''Greatest Hits''
+|
+*Release date: November 11, 2022
+* Label: BMLG, [[Big Loud]]
+* Format: CD, vinyl, digital download, streaming
+| —
+| 44
+|
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:18em;"| Extended play details
+! colspan="4" |Peak chart positions
+|- style="font-size:smaller;"
+! style="width:4.5em;" | [[Billboard 200|US]]<br /><ref name="Billboard 200" />
+! style="width:4.5em;" | [[Top Country Albums|US Country]]<br /><ref name="Country Albums" />
+! style="width:4.5em;"| [[Independent Albums|US<br />Indie]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/ind/ |title=Florida Georgia Line Album & Song Chart History – Independent Albums |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4.5em;"| [[Canadian Albums Chart|CAN]]<br /><ref name="Canadian Albums"/>
+|-
+! scope="row"| ''Anything like Me''
+|
+* Released: December 14, 2010
+* Label: Florida Georgia Line 
+* Format: [[Music download|Digital download]]
+| —
+| —
+| —
+| —
+|-
+! scope="row"| ''[[It'z Just What We Do]]''
+| 
+* Released: May 15, 2012
+* Label: [[Big Loud|Big Loud Mountain]]
+* Format: Digital download
+| 105
+| 18
+| 45
+| —
+|-
+! scope="row"| ''iTunes Session''
+| 
+* Released: January 14, 2014
+* Label: Republic Nashville
+* Format: Digital download
+| 63
+| 11
+| —
+| —
+|-
+! scope="row"| ''Florida Georgia Line''
+|
+* Released: June 1, 2018
+* Label: BMLG
+* Format: Digital download
+| 72
+| 10
+| —
+| 28
+|-
+! scope="row"| ''[[6-Pack (Florida Georgia Line EP)|6-Pack]]''<ref>{{cite news |url= https://tasteofcountry.com/florida-georgia-line-6-pack-ep/ |title= Florida Georgia Line Announce New '6-Pack' EP|first=Billy|last=Dukes|date= May 11, 2020 |work=Taste of Country}}</ref>
+|
+* Released: May 22, 2020
+* Label: BMLG
+* Format: Digital download, streaming
+| 50
+| 5
+| —
+| 36
+|-
+| colspan="6" style="font-size:8pt" | "—" denotes releases that did not chart
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:13em;"| Single
+! rowspan="2"| Year
+! colspan="9"| Peak chart positions
+! rowspan="2" style="width:12em;"| [[Music recording sales certification|Certifications]]
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Billboard Hot 100|US]]<br /><ref name="Billboard Hot 100">{{cite magazine |url=https://www.billboard.com/artist/florida-georgia-line/chart-history/hsi/ |title=Florida Georgia Line Chart History – Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[Hot Country Songs|US <br/>Country]]<br /><ref name="Country Songs">{{cite magazine |url=https://www.billboard.com/artist/florida-georgia-line/chart-history/csi/ |title=Florida Georgia Line Chart History – Country Songs |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[Country Airplay|US <br>Country <br>Airplay]]<br /><ref name="Country Airplay">{{cite magazine |url=https://www.billboard.com/artist/florida-georgia-line/chart-history/csa/ |title=Florida Georgia Line Chart History – Country Airplay |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[Mainstream Top 40|US<br />Pop]]<br /><ref name="Pop Songs">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/tfm/ |title=Florida Georgia Line Chart History – Pop Songs |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[Adult Top 40|US<br />Adult]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/atf/ |title=Florida Georgia Line Chart History – Adult Pop Songs |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[ARIA Charts|AUS]]<br /><ref>Australian chart peaks:
+* "Cruise": {{cite web|url=http://www.aria.com.au/Issue1224.pdf|archive-url=https://webarchive.nla.gov.au/awa/20130818140136/http://pandora.nla.gov.au/pan/23790/20130819-0001/Issue1224.pdf|url-status=dead|archive-date=2013-08-18|title=The ARIA Report: Issue 1224 (Week Commencing 12 August 2013)|publisher=[[Australian Recording Industry Association]]|page=4|access-date=December 19, 2021|via=[[Trove]]}}{{cbignore|bot=medic}}
+* "H.O.L.Y.": {{cite web|url=http://www.aria.com.au/Issue1368.pdf|archive-url=https://webarchive.nla.gov.au/awa/20160516140011/http://pandora.nla.gov.au/pan/23790/20160517-0000/Issue1368.pdf|url-status=dead|archive-date=2016-05-16|title=The ARIA Report: Issue 1368 (Week Commencing 16 May 2016)|publisher=[[Australian Recording Industry Association]]|page=4|access-date=December 19, 2021|via=[[Trove]]}}{{cbignore|bot=medic}}</ref>
+! style="width:4em;"| [[Canada Country|CAN <br>Country]]<br /><ref name="cancountry">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/ccw/ |title=Florida Georgia Line Chart History – Canada Country |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/can/ |title=Florida Georgia Line Chart History – ''Billboard'' Canadian Hot 100 |magazine=Billboard |accessdate=January 21, 2020}}</ref>
+! style="width:4em;"| [[UK Singles Chart|UK]]<br><ref>{{cite web|url=http://www.officialcharts.com/artist/27444/florida-georgia-line/|title=Florida Georgia Line > UK Charts|publisher=[[Official Charts Company]]|accessdate=November 13, 2017}}</ref>
+|-
+! scope="row"| "[[Cruise (song)|Cruise]]"<br />{{small|(solo or featuring [[Nelly]])}}
+| 2012
+| 4 || 1 || 1 || 7 || 6 || 63 || 1 || 38 || 75
+|
+*RIAA: 14× Platinum<ref name=RIAA/>
+*[[British Phonographic Industry|BPI]]: Silver<ref name="bpi">{{cite certification|region=United Kingdom|artist=Florida Georgia Line|accessdate=May 3, 2026|title=|type=}}</ref>
+*MC: 2× Platinum{{Certification Cite Ref|region=Canada|type=digital download|title=Cruise|artist=Florida Georgia Line}}
+*ARIA: 2× Platinum
+* [[Recorded Music NZ|RMNZ]]: 2× Platinum<ref name="Radioscope">{{cite certification|region=New Zealand|type=single|artist=Florida Georgia Line|source=radioscope|access-date=November 17, 2026}}</ref>
+| style="text-align:left;" rowspan="5"| ''Here's to the Good Times''
+|-
+! scope="row"| "[[Get Your Shine On (Florida Georgia Line song)|Get Your Shine On]]"
+| rowspan="3"| 2013
+| 27 || 5 || 1 || — || — || — || 1 || 39 || —
+|
+*RIAA: 3× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Round Here (Florida Georgia Line song)|Round Here]]"
+| 28 || 3 || 1 || — || — || — || 1 || 47 || —
+|
+*RIAA: 3× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Stay (Black Stone Cherry song)|Stay]]"
+| 28 || 1 || 1 || — || — || — || 1 || 39 || —
+| 
+*RIAA: 2× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[This Is How We Roll]]"<br />{{small|(featuring [[Luke Bryan]])}}
+| rowspan="3"| 2014
+| 15 || 1 || 2 || 25 || 23 || — || 2 || 20 || —
+|
+*RIAA: 6× Platinum<ref name=RIAA/>
+*ARIA: Platinum
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Dirt (Florida Georgia Line song)|Dirt]]"
+| 11 || 1 || 1 || — || — || — || 1 || 10 || —
+|
+*RIAA: 2× Platinum<ref name=RIAA/>
+| style="text-align:left;" rowspan="5"| ''Anything Goes''
+|-
+! scope="row"| "[[Sun Daze]]"
+| 44 || 3 || 1 || — || — || — || 2 || 41 || —
+|
+*RIAA: Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Sippin' on Fire]]"
+| rowspan="3"| 2015
+| 40 || 3 || 1 || — || — || — || 1 || 36 || —
+|
+* RIAA: Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Anything Goes (Florida Georgia Line song)|Anything Goes]]"
+| 55 || 6 || 3 || — || — || — || 1 || 51 || —
+|
+* RIAA: 2× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Confession (Florida Georgia Line song)|Confession]]"
+| 53 || 7 || 1 || — || — || — || 1 || 73 || —
+|
+* RIAA: Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[H.O.L.Y.]]"
+| rowspan="2"| 2016
+| 14 || 1 || 1 || — || 21 || 94 || 1 || 24 || —
+|
+* RIAA: 6× Platinum<ref name=RIAA/>
+* ARIA: Gold
+* RMNZ: Platinum<ref name=Radioscope/>
+|style="text-align:left;" rowspan="4"| ''Dig Your Roots''
+|-
+! scope="row"| "[[May We All]]"<br />{{small|(featuring [[Tim McGraw]])}}
+| 30 || 2 || 1 || — || — || — || 1 || 46 || —
+|
+* RIAA: 3× Platinum<ref name=RIAA/>
+* ARIA: Gold
+* RMNZ: Gold<ref name=Radioscope/>
+|-
+! scope="row"| "[[God, Your Mama, and Me]]"<br />{{small|(featuring [[Backstreet Boys]])}}
+| rowspan="2"| 2017
+| 46 || 4 || 1 || — || — || — || 3 || 79 || —
+|
+* RIAA: 2× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Smooth (Florida Georgia Line song)|Smooth]]"
+| 89 || 16 || 14 || — || — || — || 11 || — || —
+|
+* RIAA: Gold<ref name=RIAA/>
+|-
+! scope="row"| "[[Simple (Florida Georgia Line song)|Simple]]"
+| rowspan="2"| 2018
+| 32 || 2 || 1 || — || — || — || 1 || 28 || —
+|
+* RIAA: 2× Platinum<ref name=RIAA/>
+* ARIA: Gold
+* MC: 2× Platinum{{Certification Cite Ref|region=Canada|type=single|title=Simple|artist=Florida Georgia Line}}
+* RMNZ: Platinum<ref name=Radioscope/>
+|style="text-align:left;" rowspan="3"| ''Can't Say I Ain't Country''
+|-
+! scope="row"| "[[Talk You Out of It]]"
+| 57 || 11 || 11 || — || — || — || 28 || 97 || —
+|
+* RIAA: 2× Platinum<ref name=RIAA/>
+|-
+! scope="row"| "[[Blessings (Florida Georgia Line song)|Blessings]]"
+| 2019
+| —{{efn|group=upper-alpha|"Blessings" did not enter the ''Billboard'' Hot 100, but peaked at number 18 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}} || 23 || 23 || — || — || — || 32 || — || —
+|
+* RIAA: Gold<ref name=RIAA/>
+|-
+! scope="row"| "[[I Love My Country (song)|I Love My Country]]"
+| rowspan="2"| 2020
+| 40 || 8 || 2 || — || — || — || 1 || 67 || —
+|
+* RIAA: Platinum<ref name=RIAA/>
+|style="text-align:left;" rowspan="3"| ''Life Rolls On'' 
+|-
+! scope="row"| "[[Long Live (Florida Georgia Line song)|Long Live]]"
+| 45 || 4 || 1 || — || — || — || 1 || 35 || —
+|
+* RIAA: Platinum<ref name=RIAA/>
+* MC: Gold{{Certification Cite Ref|region=Canada|type=single|title=Long Live|artist=Florida Georgia Line}}
+|-
+! scope="row"| "[[Lil Bit]]"<br />{{small|(with [[Nelly]])}}
+| 2021
+| 23 || 3 || 42 || 16 || 21 || — || — || 35 || —
+|
+* RIAA: 3× Platinum<ref name=RIAA/>
+* MC: 4× Platinum{{Certification Cite Ref|region=Canada|type=single|title=Lil Bit|artist=Florida Georgia Line}}
+* RMNZ: Gold<ref name=Radioscope/>
+|-
+| colspan="13" style="font-size:8pt" | "—" denotes releases that did not chart
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:18em;" | Title
+! rowspan="2" | Year
+! colspan="10"| Peak chart positions
+! rowspan="2" style="width:12em;"| Certifications
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! scope="col" style="width:3em;"| [[Billboard Hot 100|US]]<br /><ref name="Billboard Hot 100"/>
+! scope="col" style="width:3em;"| [[Hot Country Songs|US <br/>Country]]<br /><ref name="Country Songs"/>
+! scope="col" style="width:3em;"| [[Country Airplay|US<br/>Country Airplay]]<br /><ref name="Country Airplay"/>
+! scope="col" style="width:3em;"| [[Mainstream Top 40|US<br />Pop]]<br /><ref name="Pop Songs"/>
+! scope="col" style="width:3em;"| [[ARIA Charts|AUS]]<br /><ref name="AUS charts"/>
+! scope="col" style="width:3em;"| [[Canadian Hot 100|CAN]]<br /><ref name="Canadian Hot 100"/>
+! scope="col" style="width:3em;"| [[Canada Country|CAN <br/><small>Country</small>]]<br><ref name=cancountry/>
+! scope="col" style="width:3em;"| [[Official New Zealand Music Chart|NZ]]<br><ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2018-01-26|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=January 29, 2018|access-date=January 30, 2018}}</ref> 
+! scope="col" style="width:3em;"| [[Sverigetopplistan|SWE]]<br/><ref name="SWE">{{cite web|url=http://www.swedishcharts.com/showitem.asp?interpret=Florida+Georgia+Line&titel=Anything+Goes&cat=s|title=Florida Georgia Line Discography|work=Swedish Charts Portal|publisher=Hung Medien}}
+* "Meant to Be": {{cite web|url=http://www.sverigetopplistan.se/|title=Sverigetopplistan – Sveriges Officiella Topplista|publisher=[[Sverigetopplistan]]|accessdate=February 10, 2018}}</ref>
+! scope="col" style="width:3em;"| [[UK Singles Chart|UK]]<br><ref name="UK">Peaks in the UK:
+* "Let Me Go": {{cite web|url=http://www.officialcharts.com/charts/singles-chart/20180209/7501/|title=Let Me Go – UK Charts (#39 and #76)|publisher=Official Charts Company|accessdate=February 9, 2018}}
+* "Meant to Be": {{cite web|url=http://www.officialcharts.com/charts/singles-chart/20180330/7501/|title=Meant to Be – UK Charts (#11)|publisher=Official Charts Company|accessdate=March 31, 2018}}</ref>
+|-
+! scope="row" | "[[The South (song)|The South]]"<br />{{small|([[The Cadillac Three]] featuring [[Dierks Bentley]], Florida Georgia Line and [[Mike Eli]])}}
+| 2013
+| — || 32 || 33 || — || — || — || &mdash; || — || — || —
+|
+| style="text-align:left;"| ''[[Bury Me in My Boots]]''
+|-
+! scope="row" | "[[Meant to Be (Bebe Rexha song)|Meant to Be]]" <br /><span style="font-size:85%;">([[Bebe Rexha]] and Florida Georgia Line)</span>{{efn-ua|"Meant to Be" was credited as Bebe Rexha featuring Florida Georgia Line when it was sent to radio.<ref>{{cite web|title=Future Releases for Country Radio Stations|url=https://www.allaccess.com/country/future-releases|publisher=All Access Media Group|accessdate=November 19, 2017|archiveurl=https://web.archive.org/web/20171119223426/https://www.allaccess.com/country/future-releases|archivedate=November 19, 2017}}</ref> ''Billboard'' now credits the song with dual lead billing to Bebe Rexha & Florida Georgia Line in the artists' chart histories.<ref>{{cite web|url= https://www.billboard.com/charts/decade-end/hot-country-songs|title=DECADE END CHARTS HOT COUNTRY SONGS 2010s|publisher=[[Billboard Magazine|Billboard]]|accessdate=January 4, 2020}}</ref>}}
+| rowspan="3" | 2017
+| 2 || 1 || 1 || 2 || 2 || 7 || 7 || 5 || 8 || 11
+|
+* RIAA: 11× Platinum<ref name=RIAAFt>{{Cite certification|region=United States|title=Florida Georgia Line|access-date=July 15, 2022}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 8× Platinum<ref>{{cite certification|region=Australia|type=single|certyear=2021|access-date=February 3, 2022}}</ref>
+* [[British Phonographic Industry|BPI]]: 2× Platinum{{Certification Cite Ref|region=United Kingdom|type=single|title=Meant to Be|artist=Bebe Rexha|accessdate=April 7, 2018|id=14888-4641-1}}
+* [[Swedish Recording Industry Association|GLF]]: Gold<ref name="SWE-Cert">{{cite web|url=http://www.sverigetopplistan.se/index.html|title=Sveriges Officiella Topplista|accessdate=April 7, 2018|publisher=[[Sverigetopplistan]]|language=Swedish|format=To access, enter the search parameter "Florida Georgia Line" and select "Search by Keyword"}}</ref>
+* MC: Diamond{{Certification Cite Ref|region=Canada|type=single|title=Meant to Be|artist=Bebe Rexha|accessdate=January 21, 2020}}
+* RMNZ: 7× Platinum<ref name=Radioscope/>
+| style="text-align:left;"| ''[[All Your Fault: Pt. 2]]'' and ''[[Expectations (Bebe Rexha album)|Expectations]]''
+|-
+! scope="row"| "[[Let Me Go (Hailee Steinfeld and Alesso song)|Let Me Go]]"<br /><span style="font-size:85%;">([[Hailee Steinfeld]] and [[Alesso]] featuring Florida Georgia Line and [[Andrew Watt|Watt]])</span>
+| 40 || — || — || 14 || 12 || 18 || &mdash; || 14 || 35 || 30
+|
+* RIAA: Platinum<ref name=RIAAFt/>
+* ARIA: 5× Platinum<ref name=ARIA-2020-Singles>{{cite certification|region=Australia|type=single|certyear=2020|access-date=24 April 2021}}</ref>
+* BPI: Platinum{{Certification Cite Ref|region=United Kingdom|type=single|title=Let Me Go|artist=Hailee Steinfeld|accessdate=April 7, 2018|id=12705-4604-1}}
+* GLF: 2× Platinum<ref name="SWE-Cert"/>
+* MC: 4× Platinum{{Certification Cite Ref|region=Canada|type=digital download|title=Let Me Go|artist=Hailee Steinfeld|accessdate=December 4, 2018}}
+* RMNZ: 4× Platinum<ref name=Radioscope/>
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "[[Up Down (Morgan Wallen song)|Up Down]]"<br /><span style="font-size:85%;">([[Morgan Wallen]] featuring Florida Georgia Line)</span>
+| 49 || 5 || 1 || — || — || 89 || 1 || — || — || —
+|
+* RIAA: 5× Platinum{{Certification Cite Ref|region=United States|type=single|artist=Morgan Wallen|title=Up Down|accessdate=July 6, 2024}}
+* MC: 4× Platinum{{Certification Cite Ref|region=Canada|type=single|artist=Morgan Wallen|title=Up Down|accessdate=January 21, 2020}}
+* RMNZ: Gold<ref name=Radioscope/>
+| style="text-align:left;"| ''If I Know Me''
+|-
+! scope="row" | "[[Drinkin' Beer. Talkin' God. Amen.]]"<br /><span style="font-size:85%;">([[Chase Rice]] featuring Florida Georgia Line)</span>
+| 2020
+| 24 || 3 || 1 || — || — || 62 || 4 || — || — || —
+|
+* RIAA: Platinum<ref name=RIAAFt/>
+| style="text-align:left;"| ''The Album''
+|-
+! scope="row" | "[[Thank You Lord (song)|Thank You Lord]]"<br /><span style="font-size:85%;">([[Chris Tomlin]]  featuring [[Thomas Rhett]] and Florida Georgia Line)</span>
+| 2021
+| — || 37 || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold{{Certification Cite Ref|region=United States|type=single|title=Slow Down Summer|artist=Thomas Rhett}}
+| style="text-align:left;"| ''[[Chris Tomlin & Friends]]''
+|-
+| colspan="14" |"—" denotes releases that did not chart
+|}
+
+===Christmas singles===
+{| class="wikitable plainrowheaders"
+|-
+! rowspan="2"|  Year
+! rowspan="2"|  Single
+! colspan="1"| Peak chart<br />positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:4em;"| [[Country Airplay|US <br><small>Country Airplay</small>]]<br /><ref name="Country Airplay"/>
+|-
+| 2020
+! scope="row"| "Lit This Year"
+| align="center"| 52
+| ''Can't Say I Ain't Country (Expanded Edition)''
+|-
+|}
+
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2" style="width:20em;"| Title
+! colspan="5"| Peak chart positions
+! rowspan="2" style="width:9em;"| [[Music recording sales certification|Certifications]]
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! style="width:45px;"| [[Hot Country Songs|US Country]]<br /><ref name="Country Songs" />
+! style="width:45px;"| [[Country Airplay|US Country Airplay]]<br /><ref name="Country Airplay" />
+! style="width:45px;"| [[Christian Songs|US Christ]]<br /><ref name="Hot Christian Songs">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/ico/|title=Florida Georgia Line Album & Song Chart History (Christian Songs)|magazine=[[Billboard (magazine)|Billboard]]|accessdate=July 7, 2020}}</ref>
+! style="width:45px;"| [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|title=Bubbling Under Hot 100 Week of October 13, 2012|url=http://www.billboard.biz/bbbiz/charts/chart-search-results/singles/14125247|magazine=Billboard|accessdate=October 4, 2012}}{{dead link|date=September 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+! style="width:45px;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/can/|title=Florida Georgia Line Chart History – Billboard Canadian Hot 100|magazine=Billboard|accessdate=July 30, 2022}}</ref>
+|-
+| rowspan="2"| 2012
+! scope="row"| "Summer Jam"<br/>{{small|(with [[Jake Owen]])}}
+| 35 || 50 || — || —{{efn|group=upper-alpha|"Summer Jam" did not enter the ''Billboard'' Hot 100, but peaked at number seven on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/hbu/ |title=Florida Georgia Line Chart History – Bubbling Under Hot 100 |magazine=Billboard |access-date=May 25, 2021}}</ref>}} || 51
+| 
+| style="text-align:left;"| ''Endless Summer'' {{small|(Jake Owen album)}}
+|-
+! scope="row"| "Here's to the Good Times"
+| 33 || — || — || — || 84
+| 
+*RIAA: Gold<ref name=RIAA/>
+| style="text-align:left;" rowspan="2"| ''Here's to the Good Times''
+|-
+| rowspan="6"| 2013
+! scope="row"| "Dayum, Baby"<br/>{{small|(with [[Sarah Buxton]])}}
+| 49 || — || — || — || —
+| 
+*RIAA: Gold<ref name=RIAA/>
+|-
+! scope="row"| "[[I'm in a Hurry (And Don't Know Why)]]"
+| 47 || — || — || — || 82
+| 
+| style="text-align:left;"| ''[[Alabama & Friends]]''
+|-
+! scope="row"| "Take It Out on Me"
+| 32 || — || — || —{{efn|group=upper-alpha|"Take It Out on Me" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}} || 84
+| 
+| style="text-align:left;" rowspan="4"| ''Here's to the Good Times''
+|-
+! scope="row"| "Hands on You"
+| 33 || — || — || — || —
+| 
+|-
+! scope="row"| "Headphones"
+| 39 || — || — || — || —
+| 
+|-
+! scope="row"| "People Back Home"
+| 42 || — || — || — || —
+| 
+|-
+|rowspan="8"| 2014
+! scope="row"| "[[Friends in Low Places]]"
+| 40 || — || — || — || —
+| 
+| style="text-align:left;"| ''iTunes Session''
+|-
+! scope="row"| "It'z Just What We Do"
+| 48 || — || — || — || —
+| 
+| rowspan="3" style="text-align:left;"|''Here's to the Good Times''
+|-
+! scope="row"| "Tell Me How You Like It"
+| 22 || — || — || — || —
+|
+*RIAA: Gold<ref name=RIAA/>
+|-
+! scope="row"| "Party People"
+| 48 || — || — || 36 || —
+|
+|-
+! scope="row"| "[[If I Die Tomorrow]]"
+| 33 || — || — || — || 82
+| 
+| style="text-align:left;"| ''[[Nashville Outlaws: A Tribute to Mötley Crüe]]''
+|-
+! scope="row"| "Bumpin' the Night"
+| 15 || — || — || 69 || 55
+| 
+| rowspan="3" style="text-align:left;"|''Anything Goes''
+|-
+! scope="row"| "Good Good"
+| 20 || — || — || — || 68
+| 
+|-
+! scope="row"| "Every Night"
+| 24 || 51 || — || 22 || —
+| 
+|-
+| rowspan="5"| 2016
+! scope="row"| "Life Is a Honeymoon"<br />{{small|(featuring [[Ziggy Marley]])}}
+| 44 || — || — || — || —
+| 
+| rowspan="5" style="text-align:left;"|''Dig Your Roots''
+|-
+! scope="row"| "Island"
+| 48 || — || — || — || —{{efn|group=upper-alpha|"Island" did not enter the Billboard [[Canadian Hot 100]], but peaked at number 39 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital">{{cite magazine|url=https://www.billboard.com/artist/florida-georgia-line/chart-history/cns/|title=Florida Georgia Line Chart History: Hot Canadian Digital Song Sales|magazine=[[Billboard (magazine)|Billboard]]|accessdate=April 14, 2020}}</ref>}}
+| 
+|-
+! scope="row"| "Summerland"
+| 37 || — || — || — || —
+|
+|-
+! scope="row"| "Wish You Were on It"
+| 35 || — || — || — || —
+|
+|-
+! scope="row"| "Good Girl, Bad Boy"
+| 50 || — || — || — || —
+| 
+|-
+| 2017
+! scope="row"| "Last Day Alive" <br />{{small|([[The Chainsmokers]] featuring Florida Georgia Line)}}
+| — || — || — || —{{efn|group=upper-alpha|"Last Day Alive" did not enter the ''Billboard'' Hot 100, but peaked at number 19 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}} || 94
+|
+| style="text-align:left;"| ''[[Memories...Do Not Open]]''
+|-
+| rowspan="3"| 2018
+! scope="row"| "Colorado"
+| 41 || — || — || — || —
+|
+| rowspan="6" style="text-align:left;"| ''Can't Say I Ain't Country''
+|-
+! scope="row"| "Sittin' Pretty"
+| 30 || — || — || — || — 
+|
+|-
+! scope="row"| "People Are Different"
+| 40 || — || — || — || — 
+|
+|-
+| rowspan="3"| 2019
+! scope="row"| "Women"<br />{{small|(featuring [[Jason Derulo]])}}
+| 29 || — || — || — || —{{efn|group=upper-alpha|"Women" did not enter the Billboard [[Canadian Hot 100]], but peaked at number 17 on the [[Hot Canadian Digital Singles|Hot Canadian Digital Song Sales]] chart.<ref name="CanDigital"/>}} 
+|
+|-
+! scope="row"| "Y'all Boys"<br />{{small|(featuring [[Hardy (singer)|Hardy]])}}
+| —{{efn|group=upper-alpha|"Y’all Boys" did not enter the [[Hot Country Songs]] chart, but peaked at number 15 on the [[Country Digital Song Sales]] chart.<ref name="CountryDigital">{{cite magazine|url= https://www.billboard.com/artist/florida-georgia-line/chart-history/cdt/|title=Florida Georgia Line Chart History: Country Digital Song Sales|magazine=[[Billboard (magazine)|Billboard]]|accessdate=September 5, 2020}}</ref>}} || — || — || — || — 
+|
+|-
+! scope="row"| "Can't Hide Red"<br />{{small|(featuring [[Jason Aldean]])}}
+| 46 || — || — || — || — 
+|
+|-
+| rowspan="2"| 2020
+! scope="row"| "[[Second Guessing (song)|Second Guessing]]"
+| 29 || — || — || —{{efn|group=upper-alpha|"Second Guessing" did not enter the ''Billboard'' Hot 100, but peaked at number 24 on the Bubbling Under Hot 100 Singles chart.<ref name="Bubbling"/>}} || 99
+|
+| style="text-align:left;"| ''Life Rolls On''
+|-
+! scope="row"| "Forever Home" <br />{{small|([[Chris Tomlin]] featuring Florida Georgia Line)}}
+| — || — || 48 || — || —
+|
+| style="text-align:left;"| ''Chris Tomlin & Friends''
+|-
+| colspan="9" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+== Music videos ==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! style="width:20em;"| Video
+! Director
+|- 
+| 2012
+! scope="row"| "Cruise"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/830487/cruise.jhtml|archive-url=https://web.archive.org/web/20120831055331/http://www.cmt.com/videos/florida-georgia-line/830487/cruise.jhtml|url-status=dead|archive-date=August 31, 2012|title=CMT : Videos : Florida Georgia Line : Cruise|publisher=[[Country Music Television]]|accessdate=August 30, 2012}}</ref>
+| Brian Lazzaro
+|- 
+| rowspan="5"| 2013
+! scope="row"| "Get Your Shine On"<ref>{{cite news|last=Spicher|first=Wendy|title=Watch Florida Georgia Line's New Video, "Get Your Shine On"|url=http://blog.gactv.com/blog/2013/02/25/watch-florida-georgia-lines-new-video-get-your-shine-on/|accessdate=February 27, 2013|newspaper=[[Great American Country]]|date=February 25, 2013|archive-date=March 1, 2013|archive-url=https://web.archive.org/web/20130301074217/http://blog.gactv.com/blog/2013/02/25/watch-florida-georgia-lines-new-video-get-your-shine-on/|url-status=dead}}</ref>
+| Declan Whitebloom
+|-
+! scope="row"| "Cruise"<ref>{{cite news|last=Wyland|first=Sarah|title=Worlds Collide in Florida Georgia Line's New Video Featuring Nelly|url=http://blog.gactv.com/blog/2013/05/15/worlds-collide-in-florida-georgia-lines-new-video-featuring-nelly/|accessdate=May 16, 2013|newspaper=[[Great American Country]]|date=May 15, 2013}}</ref><br />{{small|(with [[Nelly]])}}
+| [[Marc Klasfeld]]
+|-
+! scope="row"| "Round Here"<ref>{{cite web|url=https://www.vevo.com/watch/florida-georgia-line/round-here/USUV71300733|title=Round Here - Florida Georgia Line - VEVO.com|publisher=[[Vevo]]|accessdate=June 4, 2013}}</ref>
+| rowspan="2"| [[Peter Zavadil]]
+|-
+! scope="row"| "Stay"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/963800/stay.jhtml|archive-url=https://archive.today/20141016055349/http://www.cmt.com/videos/florida-georgia-line/963800/stay.jhtml|url-status=dead|archive-date=October 16, 2014|title=CMT : Videos : Florida Georgia Line : Stay|publisher=[[Country Music Television]]|accessdate=October 16, 2014}}</ref>
+|-
+! scope="row"| "It'z Just What We Do"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/986672/itz-just-what-we-do.jhtml|archive-url=https://web.archive.org/web/20131212214710/http://www.cmt.com/videos/florida-georgia-line/986672/itz-just-what-we-do.jhtml|url-status=dead|archive-date=December 12, 2013|title=CMT : Videos : Florida Georgia Line : It'z Just What We Do|publisher=[[Country Music Television]]|accessdate=October 16, 2014}}</ref>
+| Michael Monaco
+|-
+|rowspan="3"| 2014
+! scope="row"| "This Is How We Roll"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1009728/this-is-how-we-roll.jhtml|title=CMT : Videos : Florida Georgia Line : This Is How We Roll|publisher=[[Country Music Television]]|accessdate=March 9, 2014|archive-date=March 24, 2017|archive-url=https://web.archive.org/web/20170324153159/http://www.cmt.com/videos/florida-georgia-line/1009728/this-is-how-we-roll.jhtml|url-status=dead}}</ref><br />{{small|(with [[Luke Bryan]])}}
+| Marc Klasfeld
+|-
+! scope="row"| "Dirt"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1061069/dirt.jhtml|archive-url=https://web.archive.org/web/20140714235141/http://www.cmt.com/videos/florida-georgia-line/1061069/dirt.jhtml|url-status=dead|archive-date=July 14, 2014|title=CMT : Videos : Florida Georgia Line : Dirt |publisher=[[Country Music Television]]|accessdate=July 12, 2014}}</ref>
+| [[Nigel Dick]]
+|-
+! scope="row"| "Sun Daze"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1095138/sun-daze.jhtml|archive-url=https://archive.today/20141030045149/http://www.cmt.com/videos/florida-georgia-line/1095138/sun-daze.jhtml|url-status=dead|archive-date=October 30, 2014|title=CMT : Videos : Florida Georgia Line : Sun Daze|publisher=[[Country Music Television]]|accessdate=October 30, 2014}}</ref>
+| rowspan="2"| Marc Klasfeld
+|-
+| rowspan="3"| 2015
+! scope="row"| "Sippin' on Fire"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1183632/sippin-on-fire.jhtml|archive-url=https://web.archive.org/web/20150328193257/http://www.cmt.com/videos/florida-georgia-line/1183632/sippin-on-fire.jhtml|url-status=dead|archive-date=March 28, 2015|title=CMT : Videos : Florida Georgia Line : Sippin' on Fire|publisher=[[Country Music Television]]|accessdate=March 26, 2015}}</ref>
+|-
+! scope="row"| "Anything Goes"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1210748/anything-goes.jhtml|archive-url=https://web.archive.org/web/20150614003211/http://www.cmt.com/videos/florida-georgia-line/1210748/anything-goes.jhtml|url-status=dead|archive-date=June 14, 2015|title=CMT : Videos : Florida Georgia Line : Anything Goes|publisher=[[Country Music Television]]|accessdate=June 12, 2015}}</ref>
+| [[Shaun Silva]]
+|-
+! scope="row"| "Confession"<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1258233/confession.jhtml|archive-url=https://web.archive.org/web/20151107193000/http://www.cmt.com/videos/florida-georgia-line/1258233/confession.jhtml|url-status=dead|archive-date=November 7, 2015|title=CMT : Videos : Florida Georgia Line : Confession|publisher=[[Country Music Television]]|accessdate=November 5, 2015}}</ref>
+| rowspan="4"| [[TK McKamy]]
+|-
+| rowspan="2"| 2016
+! scope="row"| "H.O.L.Y"<ref>{{cite news|last1=Scott|first1=Jason|title=Hear Florida Georgia Line's new single 'H.O.L.Y.'|url=http://www.axs.com/hear-florida-georgia-line-s-new-single-h-o-l-y-82943|accessdate=April 29, 2016|work=[[AXS (ticket merchant)|AXS]]|date=April 29, 2016}}</ref>
+|-
+! scope="row"| "May We All"<ref>{{cite news|last1=Allers|first1=Hannahlee|title=Florida Georgia Line, Tim McGraw Drop 'May We All' Music Video|url=https://theboot.com/florida-georgia-line-tim-mcgraw-may-we-all-video/|accessdate=August 30, 2016|work=The Boot|date=August 29, 2016}}</ref><br />{{small|(with [[Tim McGraw]])}}
+|-
+| rowspan="5"| 2017
+! scope="row"| "God, Your Mama, and Me"<br />{{small|(with [[Backstreet Boys]])}}<ref>{{cite web|title=Florida Georgia Line - God, Your Mama, And Me ft. Backstreet Boys|url=https://www.youtube.com/watch?v=QMhkdatUUPA|website=YouTube|accessdate=23 February 2017|date=20 February 2017}}</ref>
+|-
+! scope="row"| "Meant to Be"<br />{{small|(with [[Bebe Rexha]])}}<ref>{{cite web|url=https://www.idolator.com/7670173/bebe-rexha-meant-to-be-video-florida-georgia-line?view-all&Exc_D_LessThanPoint002_p1|title=Bebe Rexha & Florida Georgia Line's 'Meant To Be' Video Is A Slice Of Americana|work=[[Idolator (website)|Idolator]]|first=Mike|last=Wass|date=October 23, 2017|accessdate=October 31, 2017}}{{dead link|date=August 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+| [[Sophie Muller]]
+|-
+! scope="row"| "Let Me Go"<br />{{small|(with [[Hailee Steinfeld]])}}<ref>{{cite web|url=https://www.youtube.com/watch?v=BQ_0QLL2gqI|title=Hailee Steinfeld, Alesso – Let Me Go ft. Florida Georgia Line, WATT|date = 17 November 2017|work = YouTube}}</ref>
+| [[Emil Nava]]
+|-
+! scope="row"| "Smooth"
+| TK McKamy, [[Brian Kelley (musician)|Brian Kelley]]<ref>{{Cite web|url=https://theboot.com/florida-georgia-line-monday-night-football-smooth-music-video/|title = Brian Kelley Helped Direct Florida Georgia Line's 'Smooth' Video|website = The Boot| date=14 July 2017 }}</ref>
+|-
+! scope="row"| "Up Down"<br />{{Small|(with [[Morgan Wallen]])}}
+| rowspan="3"| Justin Clough<ref>{{cite web|url=http://people.com/country/morgan-wallen-florida-georgia-line-up-down-music-video/|title='Turning Up Down!' Behind the Scenes of Morgan Wallen's New Music Video Featuring Florida Georgia Line|work=People Country|accessdate=March 13, 2018}}</ref><ref name="pop"/>
+|-
+|rowspan="2"| 2018
+! scope="row"| "Simple" <ref>{{cite magazine|url=https://www.billboard.com/music/country/florida-georgia-line-simple-video-8463441/|title=Watch Florida Georgia Line's Romantic Music Video for 'Simple'|date=June 29, 2018|magazine=Billboard|access-date=July 18, 2018}}</ref>
+
+|-
+! scope="row"| "Talk You Out of It"<ref name="pop">{{cite web | url=https://popculture.com/country-music/2018/12/20/florida-georgia-line-behind-the-scenes-talk-you-out-of-it-video/ | title=Florida Georgia Line Go Behind the Scenes of 'Talk You Out of It' Video | work=popculture.com | date=December 20, 2018 | accessdate=April 2, 2019 | author=Hannah Barnes}}</ref>
+|-
+| rowspan="2"| 2019
+! scope="row"| "Women"<ref>{{cite AV media |url-status = live |archive-url = https://ghostarchive.org/varchive/youtube/20211211/EnnGRz90JnE |archive-date = 2021-12-11| url = https://www.youtube.com/watch?v=EnnGRz90JnE |title = Florida Georgia Line - Women ft. Jason Derulo |website=[[YouTube]]}}{{cbignore}}</ref><br />{{Small|(with [[Jason Derulo]])}}
+| {{n/a}}
+|-
+! scope="row"| "Blessings"<ref>{{cite AV media |url-status = live |archive-url = https://ghostarchive.org/varchive/youtube/20211211/Qmlys83UDC4 |archive-date = 2021-12-11| url = https://www.youtube.com/watch?v=Qmlys83UDC4 |title = Florida Georgia Line - Blessings |website=[[YouTube]]}}{{cbignore}}</ref>
+| Justin Clough
+|-
+| rowspan="3"| 2020
+! scope="row"| "I Love My Country"<ref>{{cite AV media |url-status = live |archive-url = https://ghostarchive.org/varchive/youtube/20211211/sF0DV0MsYrQ |archive-date = 2021-12-11| url = https://www.youtube.com/watch?v=sF0DV0MsYrQ |title = Florida Georgia Line - I Love My Country |website=[[YouTube]]}}{{cbignore}}</ref>
+| TK McKamy
+|-
+! scope="row"| "Second Guessing"
+| rowspan="2" {{n/a}}
+|-
+! scope="row"| "Lit This Year"
+|-
+| rowspan="3"| 2021
+! scope="row"| "Drinkin' Beer. Talkin' God. Amen."<ref>{{cite web|url=http://www.cmt.com/news/1831992/premiere-chase-rice-joins-florida-georgia-line-for-a-round-of-drinkin-beer-talkin-god-amen/|archive-url=https://web.archive.org/web/20210327192136/http://www.cmt.com/news/1831992/premiere-chase-rice-joins-florida-georgia-line-for-a-round-of-drinkin-beer-talkin-god-amen/|url-status=dead|archive-date=March 27, 2021|first=Marcus K.|last=Dowling|title=Premiere: Chase Rice Joins Florida Georgia Line For A Round Of "Drinkin' Beer. Talkin' God. Amen."|publisher=[[Country Music Television]]|date=March 27, 2021}}</ref><br />{{Small|(with [[Chase Rice]])}}
+| TK McKamy
+|-
+! scope="row"| "Lil Bit"
+| Christopher Scholar
+|-
+! scope="row"| "Always Gonna Love You"
+| 
+|}
+
+==Notes==
+{{notelist-ua}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Florida Georgia Line}}
+
+[[Category:Country music discographies]]
+[[Category:Discographies of American artists]]

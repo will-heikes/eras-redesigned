@@ -1,0 +1,99 @@
+{{Infobox song
+| name       = You Changed Me
+| cover      = JamieFoxxYouChangedMe.jpg
+| alt        =
+| type       = single
+| artist     = [[Jamie Foxx]] featuring [[Chris Brown]]
+| album      = [[Hollywood: A Story of a Dozen Roses]]
+| released   = March 12, 2015
+| recorded   = 2015
+| studio     =
+| venue      =
+| genre      = [[Contemporary R&B|R&B]]
+| length     =
+| label      = [[RCA Records|RCA]]
+| writer     = {{flat list|
+* [[Kevin Cossom]]
+* [[Chris Brown]]
+}}
+| producer   = {{flat list|
+* [[Boi-1da]]
+* [[Vinylz]]
+* DJ Scout
+}}
+| chronology = [[Jamie Foxx]]
+| prev_title = Ain't My Fault
+| prev_year  = 2014
+| next_title = Baby's In Love
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = singles
+ | prev_title = [[Five Hours#Five More Hours|Five More Hours]]
+ | prev_year  = 2015
+ | title      = You Changed Me
+ | year       = 2015
+ | next_title = [[Do It Again (Pia Mia song)|Do It Again]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|I26EwcssMbY|"You Changed Me"}}}}
+}}
+
+"'''You Changed Me'''" is a song by American singer and actor [[Jamie Foxx]] featuring [[Chris Brown]]. It was released on March 12, 2015 as the second single from his fifth studio album ''[[Hollywood: A Story of a Dozen Roses]]'' (2015).
+
+==Music video==
+A [[music video]] for the song, directed by [[Director X]], was premiered on May 29, 2015.<ref>{{cite web|url=http://www.rap-up.com/2015/05/29/video-jamie-foxx-chris-brown-you-changed-me/|archive-url=https://web.archive.org/web/20150530025435/http://www.rap-up.com/2015/05/29/video-jamie-foxx-chris-brown-you-changed-me/|url-status=dead|archive-date=May 30, 2015|title=VIDEO: JAMIE FOXX FEAT. CHRIS BROWN – 'YOU CHANGED ME'|date=May 29, 2015 |work=[[Rap-Up]] |access-date=July 22, 2015}}</ref> An official [[Making-of|behind-the-scenes]] video was released to Foxx's [[Vevo|VEVO]] channel on June 3, 2015.<ref>{{cite web|url=https://www.youtube.com/watch?v=g8Z4hilILpI|title=Jamie Foxx - You Changed Me (Feat. Chris Brown) BTS|website=[[YouTube]]|date=June 3, 2015 |access-date=July 22, 2015}}</ref> ''[[Empire (2015 TV series)|Empire]]'' actress [[Grace Gealey]] made a [[cameo appearance]] as Foxx's love interest.<ref>[https://web.archive.org/web/20150602094341/http://hitshowstowatch.com/empires-star-grace-gealey-stuns-in-jamie-foxxs-you-changed-me-ft-chris-brown-new-video/] </ref> Rapper [[Alexandra Reid]] from the South Korean Girl-Group [[BP Rania]] also makes a cameo as Chris Brown's love interest.<ref>{{Cite magazine|url=https://www.billboard.com/music/music-news/rania-new-african-american-member-alexandra-demonstrate-6753071/|title = K-Pop Girl Group Rania Adds African-American Member|magazine = [[Billboard (magazine)|Billboard]]|date = 6 November 2015}}</ref>
+
+==Charts==
+{| class="wikitable"
+|-
+! Chart (2015)
+! Peak<br />position
+|-
+{{singlechart|Billboardhot100|93|artist=Jamie Foxx|song=You Changed Me}}
+|-
+{{single chart|Billboardadultrandbsongs|8|artist=Jamie Foxx|access-date=December 16, 2023}}
+|-
+{{singlechart|Billboardrandbhiphop|32|artist=Jamie Foxx|song=You Changed Me}}
+|-
+{{singlechart|Billboardrandbhiphopairplay|21|artist=Jamie Foxx|access-date=December 19, 2023}}
+|-
+|}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+! scope="col"| {{abbr|Ref.|References}}
+|-
+| United States
+| March 12, 2015
+| [[Music download|Digital download]]
+| [[RCA Records]]
+| {{center|<ref name="iTunes">{{Cite web|url=https://music.apple.com/us/album/you-changed-me-feat-chris/975383102|title=You Changed Me (Feat. Chris Brown) - Single by Jamie Foxx|website=[[iTunes]]|date=12 March 2015}}</ref>}}
+|}
+
+==References==
+{{Reflist}}
+
+{{Jamie Foxx}}
+
+{{Chris Brown singles}}
+{{Authority control}}
+
+[[Category:2015 songs]]
+[[Category:Jamie Foxx songs]]
+[[Category:Chris Brown songs]]
+[[Category:RCA Records singles]]
+[[Category:Song recordings produced by Boi-1da]]
+[[Category:Song recordings produced by Vinylz]]
+[[Category:Songs written by Kevin Cossom]]
+[[Category:Songs written by Vinylz]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Music videos directed by Director X]]
+
+
+{{2010s-R&B-song-stub}}

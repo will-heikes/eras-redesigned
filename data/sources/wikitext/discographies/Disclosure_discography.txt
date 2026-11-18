@@ -1,0 +1,1040 @@
+{{Short description|None}}
+{{Use British English|date=December 2014}}
+{{Use dmy dates|date=December 2014}}
+{{Infobox artist discography
+| Artist       = [[Disclosure (band)|Disclosure]]
+| Image        = Disclosurexoyolondon.jpg
+| Caption      = Disclosure performing in 2011
+| Alt          = 
+| Studio       = 4
+| EP           = 10
+| Singles      = 43
+| Option       = 6
+| Option name  = Promotional singles
+| 1Option      = 7
+| 1Option name = DJ mixes
+}}
+English [[electronic music]] duo [[Disclosure (band)|Disclosure]] has released four [[studio album]]s, 10 [[extended play]]s, seven [[DJ mix]]es, 43 [[Single (music)|singles]] and six [[promotional single]]s.
+
+Their debut studio album, ''[[Settle (album)|Settle]]'', was released in June 2013, peaking at number one on the [[UK Albums Chart]]. The duo scored their first UK hit in October 2012 with "[[Latch (song)|Latch]]", featuring vocals from English singer [[Sam Smith (singer)|Sam Smith]]. The song peaked at number 11 on the [[UK Singles Chart]]. "[[White Noise (Disclosure song)|White Noise]]" was released as the second single from the album in February 2013, reaching number two on the UK Singles Chart. "[[You & Me (Disclosure song)|You & Me]]" was released as the third single from the album in April 2013, peaking at number 10 on the UK Singles Chart. "[[F for You]]" was released as the fourth single from the album in August 2013. The single was re-released in February 2014 with [[Mary J. Blige]] providing guest vocals. "[[Help Me Lose My Mind]]" was released as the album's fifth single in October 2013. "[[Voices (Disclosure song)|Voices]]" was released as the album's sixth single in December 2013.{{citation needed|date=March 2021}}
+
+The duo's second studio album, ''[[Caracal (album)|Caracal]]'', was released in September 2015. "[[Bang That]]" was released as a [[promotional single]] in May 2015; however, the song appears on the deluxe edition of the album instead of the standard edition. "[[Holding On (Disclosure song)|Holding On]]", featuring American jazz musician [[Gregory Porter]], was released as the album's [[lead single]]. The song peaked at number 46 in the UK Singles Chart. Disclosure's second collaboration with Smith, "[[Omen (Disclosure song)|Omen]]", was released as the second single from the album in July 2015, reaching number 13 on the UK Singles Chart.{{citation needed|date=March 2021}}
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| Sales
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:85%;"| [[UK Albums Chart|UK]]<br/><ref name="UK-albums">{{cite web |url=http://www.officialcharts.com/artist/7672/disclosure/ |title=Disclosure |format=select "Albums" tab |publisher=[[Official Charts Company]] |accessdate=16 November 2015}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS">Peak chart positions for albums and singles in Australia:
+* All except noted: {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Disclosure|title=Discography Disclosure|publisher=australian-charts.com/ Hung Medien}}
+* "White Noise": {{cite web|url=http://www.aria.com.au/Issue1201.pdf|archive-url=https://webarchive.nla.gov.au/awa/20130318130100/http://pandora.nla.gov.au/pan/23790/20130319-0001/Issue1201.pdf|url-status=dead|archive-date=2013-03-18|title=ARIA Top 100 Singles – Week Commencing 4th March 2013|publisher=[[ARIA Charts]]}}{{cbignore|bot=medic}}
+* "Bang That": {{cite web|url=http://www.noise11.com/news/aria-singles-wiz-khalifa-charlie-puth-1-20150509|title=ARIA Singles: Wiz Khalifa and Charlie Puth Are Still No 1|publisher=Noise11|last=Ryan|first=Gavin|date=2015-05-09|accessdate=2015-05-09}}
+* "Holding On": {{cite web|url=http://www.noise11.com/news/aria-singles-taylor-swift-bad-blood-spends-second-week-at-no-1-20150606|title=ARIA Singles: Taylor Swift Bad Blood Spends Second Week At No 1|publisher=Noise11|last=Ryan|first=Gavin|date=6 June 2015|accessdate=6 June 2015}}
+* ''Moog for Love'': {{cite web|url=http://www.noise11.com/news/aria-singles-drake-one-dance-is-still-no-1-20160625|title=ARIA Singles: Drake 'One Dance' Is Still No 1|publisher=Noise11|last=Ryan|first=Gavin|date=25 June 2016|accessdate=25 June 2016}}
+* ''Energy'': {{cite web|url=http://www.ariacharts.com.au/charts/albums-chart|title=ARIA Australian Top 50 Albums|publisher=[[Australian Recording Industry Association]]|date=7 September 2020|accessdate=5 September 2020}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Ultratop|BEL<br>(FL)]]<br/><ref name="BEL-FL">{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Disclosure|title=Discografie Disclosure|publisher=ultratop.be/nl/ Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA">{{cite web|url=http://lescharts.com/showinterpret.asp?interpret=Disclosure|title=Discografie Disclosure|publisher=lescharts.com/ Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Irish Albums Chart|IRE]]<br/><ref name=IRE>Peak chart positions for albums and singles in Ireland:
+* All except noted: {{cite web 
+ |url=http://irish-charts.com/showinterpret.asp?interpret=Disclosure 
+ |title=Discography Disclosure 
+ |publisher=irish-charts.com/ Hung Medien 
+ }}
+* "Latch": {{cite web 
+ |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=4 
+ |title=Irish Charts > 24 January 2013 
+ |publisher=[[Irish Recorded Music Association]] 
+ |date=2013-01-24 
+ |access-date=30 June 2014 
+ |archive-url=https://web.archive.org/web/20140222205418/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=4 
+ |archive-date=22 February 2014 
+ |url-status=dead 
+ }}
+* "White Noise": {{cite web 
+ |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=15 
+ |title=Irish Charts > 11 April 2013 
+ |publisher=[[Irish Recorded Music Association]] 
+ |date=2013-04-11 
+ |url-status=dead 
+ |archiveurl=https://web.archive.org/web/20130602213825/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=15 
+ |archivedate=2 June 2013 
+ |df=dmy 
+ }}
+* "Help Me Lose My Mind": {{cite web 
+ |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=47 
+ |title=Irish Charts > 21 November 2013 
+ |publisher=[[Irish Recorded Music Association]] 
+ |date=2013-11-21 
+ |access-date=30 June 2014 
+ |archive-url=https://web.archive.org/web/20131202233907/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2013&year=2013&week=47 
+ |archive-date=2 December 2013 
+ |url-status=dead 
+ }}
+* "F for You": {{cite web 
+ |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=10 
+ |title=Irish Charts > 6 March 2014 
+ |publisher=[[Irish Recorded Music Association]] 
+ |date=2014-03-06 
+ |access-date=30 June 2014 
+ |archive-url=https://archive.today/20141020044933/http://www.chart-track.co.uk/index.jsp?c=p/musicvideo/music/archive/index_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=10 
+ |archive-date=20 October 2014 
+ |url-status=dead 
+ }}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[MegaCharts|NL]]<br/><ref name=NL>{{cite web|url=http://dutchcharts.nl/showinterpret.asp?interpret=Disclosure|title=Discografie Disclosure|publisher=dutchcharts.nl/ Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[VG-lista|NOR]]<br/><ref name=NOR>{{cite web|url=http://norwegiancharts.com/showinterpret.asp?interpret=Disclosure|title=Discography Disclosure|publisher=norwegiancharts.com/ Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"|[[Official New Zealand Music Chart|NZ]]<br><ref name="NZL">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=Disclosure |title=Discography Disclosure |website=charts.nz |access-date=5 September 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br/><ref name=SWI>{{cite web|url=http://hitparade.ch/showinterpret.asp?interpret=Disclosure|title=Discographie Disclosure|publisher=hitparade.ch/ Hung Medien}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard 200|US]]<br/><ref name="billboard1">{{cite web|url=http://www.billboard.com/artist/301001/disclosure |title=Disclosure |publisher=Billboard |date= |accessdate=2013-06-15}}</ref>
+|-
+! scope="row"| ''[[Settle (album)|Settle]]''
+|
+* Released: 31 May 2013
+* Label: [[PMR Records|PMR]], [[Island Records|Island]]
+* Formats: [[Compact disc|CD]], [[LP record|LP]], [[Music download|digital download]], [[Streaming media|streaming]]
+| 1 || 5 || 8 || 89 || 10 || 24 || 19 || 15 || 76 || 36
+|
+*US: 165,000<ref>{{cite web|archiveurl= https://web.archive.org/web/20150903193040/http://hitsdailydouble.com/new_album_releases |archivedate=3 September 2015 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |website=Hits Daily Double |publisher=HITS Digital Ventures }}</ref>
+|
+* [[British Phonographic Industry|BPI]]: 2× Platinum<ref name="BPI">{{cite certification|region=United Kingdom|artist=Disclosure|access-date=13 November 2026}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Platinum<ref name=ARIA2022a>{{cite certification|region=Australia|certyear=2022|type=album|access-date=4 October 2022}}</ref>
+* [[RMNZ]]: 2× Platinum<ref name="RMNZa">{{cite certification|region=New Zealand|artist=Disclosure|type=album|source=radioscope|access-date=13 March 2026}}</ref>
+|-
+! scope="row"| ''[[Caracal (album)|Caracal]]''
+|
+* Released: 25 September 2015
+* Label: PMR, Island
+* Formats: CD, LP, digital download, streaming
+| 1 || 2 || 6 || 28 || 3 || 7 || 16 || 3 || 14 || 9
+|
+|
+* BPI: Gold<ref name=BPI/>
+* RMNZ: Platinum<ref name="RMNZa" />
+|-
+! scope="row"| ''[[Energy (Disclosure album)|Energy]]''
+|
+* Released: 28 August 2020
+* Label: Island
+* Formats: CD, LP, [[cassette tape|cassette]], digital download, streaming
+| 4 || 12 || 75 || 132 || 11 || 25 || — || 39 || 38 || 48
+|
+|
+* BPI: Silver<ref name=BPI/>
+|-
+! scope="row"| ''[[Alchemy (Disclosure album)|Alchemy]]''
+|
+* Released: 14 July 2023
+* Label: Apollo, [[AWAL]]
+* Formats: Digital download, streaming
+| — || — || — || — || — || — || — || — || — || —
+|
+|
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Remix albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of remix albums
+! Title
+! Details
+|-
+! scope="row"| ''[[Settle: The Remixes]]''
+|
+* Released: 17 December 2013
+* Label: PMR, Island
+* Formats: Digital download
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of extended plays
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:85%;" | [[UK Dance Singles and Albums Charts|UK<br />Dance]]<br /><ref name="UK-albums"/>
+! scope="col" style="width:2.5em;font-size:85%;" | [[ARIA Charts|AUS]]<br /><ref name="AUS"/>
+|-
+! scope="row"| ''Carnival''
+|
+* Released: 5 July 2011
+* Label: Self-released
+| — || —
+|-
+! scope="row"| ''[[The Face (EP)|The Face]]''
+|
+* Released: 4 June 2012
+* Label: Greco-Roman
+| — || —
+|-
+! scope="row"| ''Control'' 
+|
+* Released: 2 April 2013
+* Label: Greco-Roman
+| — || —
+|-
+! scope="row"| ''The Singles'' 
+|
+* Released: 30 April 2013
+* Label: [[Cherrytree Records|Cherrytree]], [[Interscope Records|Interscope]]
+| — || —
+|-
+! scope="row"| ''Caracal: Live BBC Session''
+|
+* Released: 16 October 2015<ref>{{Cite web|url=https://music.apple.com/us/album/caracal-live-bbc-session-ep/1444884284|title=Caracal (Live BBC Session) – EP by Disclosure on Apple Music|website=[[iTunes Store]]|access-date=12 December 2018}}</ref>
+* Label: [[Island Records|Island]]
+| — || —
+|-
+! scope="row"| ''[[Moog for Love]]'' 
+|
+* Released: 15 June 2016
+* Label: Island
+| — || 80
+|-
+! scope="row"| ''Moonlight'' 
+|
+* Released: 7 December 2018<ref>{{cite web|url=https://store.disclosureofficial.com/*/Music/Moonlight-12-Vinyl/5XM7057Z000|title=Moonlight (12" Vinyl)|publisher=The Official Disclosure Store|accessdate=23 December 2018}}</ref>
+* Label: Island
+| 10 || —
+|-
+! scope="row"| ''Ecstasy'' 
+|
+* Released: 28 February 2020<ref>{{cite web|url=https://music.apple.com/nz/album/ecstasy-ep/1499503602|title=Ecstasy – EP by Disclosure|website=Apple Music|accessdate=28 February 2020}}</ref>
+* Label: Island
+| — || —
+|-
+! scope="row"| ''Never Enough''<ref>{{Cite web |date=20 August 2021 |author=DJ Mag Staff |title=Disclosure release new EP, ''Never Enough'': Listen |url=https://djmag.com/news/disclosure-release-new-ep-never-enough |archive-url=https://web.archive.org/web/20210824224523/https://djmag.com/news/disclosure-release-new-ep-never-enough |archive-date=24 August 2021 |access-date=4 September 2021 |website=DJ Mag}}</ref>
+|
+* Released: 20 August 2021
+* Label: Island
+| 3 || —
+|-
+! scope="row"| ''The Singles Vol. 2'' 
+|
+* Released: 28 November 2025
+* Label: Apollo, AWAL
+| — || —
+|-
+| colspan="4" style="font-size:85%" | "—" denotes an EP that did not chart or was not released.
+|}
+
+==DJ mixes==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of DJ mixes
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:18em;"| Details
+|-
+! scope="row"| ''Boiler Room: Disclosure in Shanghai, May 1, 2016''
+|
+* Released: 1 May 2016<ref>{{Cite web|url=https://music.apple.com/gb/album/boiler-room-disclosure-in-shanghai-may-1-2016-dj-mix/1500802557|title=Boiler Room: Disclosure in Shanghai, May 1, 2016 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''Boiler Room: Disclosure, Streaming From Isolation, Apr 10, 2020''
+|
+* Released: 10 April 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/boiler-room-disclosure-streaming-from-isolation-apr/1511062376|title=Boiler Room: Disclosure, Streaming From Isolation, Apr 10, 2020 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''Big Tree Energy Radio, Vol. 1''
+|
+* Released: 4 September 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/big-tree-energy-radio-vol-1-dj-mix/1528253527|title=Big Tree Energy Radio, Vol. 1 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''Big Tree Energy Radio, Vol. 2''
+|
+* Released: 4 September 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/big-tree-energy-radio-vol-2-dj-mix/1528266407|title=Big Tree Energy Radio, Vol. 2 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''Big Tree Energy Radio, Vol. 3''
+|
+* Released: 4 September 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/big-tree-energy-radio-vol-3-dj-mix/1528256255|title=Big Tree Energy Radio, Vol. 3 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''NYE 2021''
+|
+* Released: 23 December 2020<ref>{{Cite web|url=https://music.apple.com/gb/album/nye-2021-dj-mix/1543090558|title=NYE 2021 (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=6 March 2021}}</ref>
+|-
+! scope="row"| ''[[DJ-Kicks]]''
+|
+* Released: 15 October 2021<ref>{{Cite web|url=https://music.apple.com/us/album/disclosure-dj-kicks-dj-mix/1583190969|title=Disclosure: DJ - Kicks (DJ Mix) by Disclosure on Apple Music|publisher=[[Apple Music]]|access-date=7 November 2021}}</ref>
+|}
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with year released, selected chart positions and certifications, and album name shown
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| [[Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br/><ref name="UKSingles">Peak chart positions for singles in the United Kingdom:
+* All except noted: {{cite web |url=http://www.officialcharts.com/artist/7672/disclosure/ |title=Disclosure |publisher=Official Charts Company}}
+* "Voices": {{cite web |url=http://www.zobbel.de/cluk/130615cluk.txt |title=CHART: CLUK Update 15.06.2013 (wk23) |publisher=Zobbel}}
+* "The Mechanism": {{cite web |url=http://www.zobbel.de/cluk/140524cluk.txt |title=CHART: CLUK Update 24.05.2014 (wk20) |publisher=Zobbel |accessdate=16 November 2015}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)]]<br/><ref name="BEL-FL" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles">{{cite magazine |url={{BillboardURLbyName|artist=Disclosure|chart=Billboard Canadian Hot 100}} |title=Disclosure – Chart History: Billboard Canadian Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=27 June 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NL]]<br /><ref name="NL" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br><ref name="NZL" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Scottish Singles Chart|SCO]]<br/><ref name="SCO">Peak positions for Scottish singles in the UK:
+* "Latch": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20121111/41/|title=Chart Archive > 17 November 2012|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "White Noise": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20130210/41/|title=Chart Archive > 16 February 2013|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "You & Me": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20130505/41/|title=Chart Archive > 11 May 2013|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "F For You": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20130818/41/|title=Chart Archive > 24 August 2013|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "Help Me Lose My Mind": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20131110/41/|title=Chart Archive > 16 November 2013|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "Holding On": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20150607/41/|title=Chart Archive > 13 June 2015|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "Omen": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20150807/41/|title=Chart Archive > 13 August 2015|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "Magnets": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20151002/41/|title=Chart Archive > 8 October 2015|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+* "Talk": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/|title=Chart Archive > 14 March 2019|publisher=[[Official Charts Company]]|accessdate=9 March 2019}}
+</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/disclosure/chart-history/hsi/|title=Disclosure Chart history: Hot 100|magazine=Billboard|accessdate=19 February 2020}}</ref>
+|-
+! scope="row"| "Offline Dexterity / Street Light Chronicle"
+| 2010
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "[[Tenderly / Flow]]"
+| rowspan="3"| 2012
+| — || — || —{{efn|group=upper-alpha|"Tenderly" did not enter the Ultratop 50, but peaked at number 66 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Boiling"<br/><span style="font-size:85%;">(featuring [[Sinéad Harnett]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''The Face''
+|-
+! scope="row"| "[[Latch (song)|Latch]]"<br/><span style="font-size:85%;">(featuring [[Sam Smith (singer)|Sam Smith]])</span>
+| 11 || 47 || 22 || 6 || 8 || 35 || 60 || 39 || 22 || 7
+|
+* BPI: 4× Platinum<ref name="BPI"/>
+* [[Australian Recording Industry Association|ARIA]]: Platinum<ref>{{cite web |url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2014.htm |title=ARIA Charts – Accreditations – 2014 Singles |publisher=[[Australian Recording Industry Association]] |date=28 February 2014 |accessdate=31 March 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140808111800/http://aria.com.au/pages/httpwww.aria.com.aupagesaria-charts-accreditations-singles-2014.htm |archivedate=8 August 2014 |df=dmy }}</ref>
+* [[Music Canada|MC]]: 2× Platinum<ref>{{cite web|url=https://musiccanada.com/gold-platinum/?_gp_search=Latch%20Disclosure|title=Music Canada - Disclosure Feat. Sam Smith - Latch Certifications|accessdate=13 February 2019}}</ref>
+* [[Recording Industry Association of America|RIAA]]: 3× Platinum<ref name="RIAA">{{cite web|title=Gold & Platinum: Disclosure|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=Disclosure#search_section|publisher=[[Recording Industry Association of America]]|accessdate=16 February 2016}}</ref>
+* RMNZ: 8× Platinum<ref name=Radioscope>{{cite certification|region=New Zealand|source=radioscope|artist=Disclosure|access-date=29 September 2026|type=single}}</ref>
+| rowspan="7"| ''Settle''
+|-
+! scope="row"| "[[White Noise (Disclosure song)|White Noise]]"<br/><span style="font-size:85%;">(featuring [[AlunaGeorge]])</span>
+| rowspan="5"| 2013
+| 2 || 68 || 19 || — || — || 51 || — || — || 10 || —
+|
+* BPI: 3× Platinum<ref name="BPI"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[You & Me (Disclosure song)|You & Me]]"<br/><span style="font-size:85%;">(featuring [[Eliza Doolittle (singer)|Eliza Doolittle]])</span>
+| 10 || 91 || —{{efn|group=upper-alpha|"You & Me" did not enter the Ultratop 50, but peaked at number seven on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || 2 || 66<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|access-date=15 August 2024}}</ref> || 59 || — || 27 || —{{efn|group=upper-alpha|"You & Me" did not enter the ''Billboard'' Hot 100, but peaked at number 19 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+* BPI: 3× Platinum<ref name="BPI"/>
+* ARIA: 3× Platinum<ref name=ARIA2022s>{{cite certification|region=Australia|certyear=2022|type=single|access-date=4 October 2022}}</ref>
+* RMNZ: 5× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "When a Fire Starts to Burn"<ref>{{cite web |url=https://musicfeeds.com.au/news/kick-off-the-weekend-early-with-disclosures-new-single-when-a-fire-starts-to-burn |title=Kick off the weekend early with Disclosure's new single 'When A Fire Starts To Burn' |work=Music Feeds |date=24 May 2013 |accessdate=24 May 2020 |author=Zanotti, Mark}}</ref>
+| 177 || — || — || — || 183 || —  || — || — || — || —
+|
+* BPI: Silver<ref name="BPI"/>
+* ARIA: Platinum<ref name=ARIA2022s/>
+* RMNZ: Gold<ref name=Radioscope/>
+|-
+! scope="row"| "[[F for You]]"<br/><span style="font-size:85%;">(solo or featuring [[Mary J. Blige]])</span>
+<!--The remix and original's sales were combined to form an overall chart position.-->
+| 20 || — || —{{efn|group=upper-alpha|"F for You" did not enter the Ultratop 50, but peaked at number seven on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || 46 || — || — || 25 || —{{efn|group=upper-alpha|"F for You" did not enter the ''Billboard'' Hot 100, but peaked at number 37 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+| 
+* BPI: Gold<ref name="BPI"/>
+|-
+! scope="row"| "[[Help Me Lose My Mind]]"<br/><span style="font-size:85%;">(featuring [[London Grammar]])</span>
+| 56 || — || —{{efn|group=upper-alpha|"Help Me Lose My Mind" did not enter the Ultratop 50, but peaked at number 27 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || 97 || — || — || 72 || —{{efn|group=upper-alpha|"Help Me Lose My Mind" did not enter the ''Billboard'' Hot 100, but peaked at number 45 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+* BPI: Gold<ref name="BPI"/>
+* RMNZ: Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Voices (Disclosure song)|Voices]]"<br/><span style="font-size:85%;">(featuring [[Sasha Keable]])</span>
+| rowspan="2"| 2014
+| 176 || — || —{{efn|group=upper-alpha|"Voices" did not enter the Ultratop 50, but peaked at number 54 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —
+| 
+|-
+! scope="row"| "[[The Mechanism]]"<br/><span style="font-size:85%;">(with Friend Within)</span>
+| 145 || — || — || — || — || — || — || — || — || —
+|
+| {{N/A|Non-album single}}
+|-
+<!--"Bang That" was released as Caracal's first promotional single, and so should not feature in this discography table.-->
+! scope="row"| "[[Holding On (Disclosure song)|Holding On]]"<br/><span style="font-size:85%;">(featuring [[Gregory Porter]])</span>
+| rowspan="4"| 2015
+| 46 || 77 || —{{efn|group=upper-alpha|"Holding On" did not enter the Ultratop 50, but peaked at number 13 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || 50 || — || 69 || — || 34 || —{{efn|group=upper-alpha|"Holding On" did not enter the ''Billboard'' Hot 100, but peaked at number 17 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+* BPI: Silver<ref name="BPI"/>
+| rowspan="5"| ''Caracal''
+|-
+! scope="row"| "[[Omen (Disclosure song)|Omen]]"<br/><span style="font-size:85%;">(featuring [[Sam Smith]])</span>
+| 13 || 29 || —{{efn|group=upper-alpha|"Omen" did not enter the Ultratop 50, but peaked at number two on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || 43 || 66 || 29 || 27 || 8 || 12 || 64
+|
+* BPI: Platinum<ref name="BPI"/>
+* RIAA: Gold<ref name="RIAA"/>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Jaded (Disclosure song)|Jaded]]"
+| 87 || — || —{{efn|group=upper-alpha|"Jaded" did not enter the Ultratop 50, but peaked at number eight on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Jaded" did not enter the ''Billboard'' Hot 100, but peaked at number 30 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "[[Magnets (song)|Magnets]]"<br/><span style="font-size:85%;">(featuring [[Lorde]])</span>
+| 71 || 14 || 33 || 58 || 87 || 64 || 74 || 2 || 63 || —{{efn|group=upper-alpha|"Magnets" did not enter the ''Billboard'' Hot 100, but peaked at number two on the [[Bubbling Under Hot 100 Singles]] chart.<ref>{{cite magazine | url=http://www.billboard.com/biz/charts/2015-10-17/bubbling-under-hot-100-singles | title=Bubbling Under Hot 100 : Oct 17, 2015 | magazine=Billboard | accessdate=10 October 2015}}</ref>}}
+|
+* BPI: Silver<ref name="BPI"/>
+* ARIA: 3× Platinum<ref name=ARIA2022s/>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+|-
+! scope="row"| "[[Nocturnal (song)|Nocturnal]]"<br/><span style="font-size:85%;">(featuring [[The Weeknd]])</span>
+| rowspan="2"| 2016
+| 103 || — || — || — || 179 || — || — || — || — || —{{efn|group=upper-alpha|"Nocturnal" did not enter the ''Billboard'' Hot 100, but peaked at number 16 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "Moog for Love"<ref>{{cite web |url=https://pitchfork.com/news/61456-disclosure-share-new-song-moog-for-love-listen/ |title=Disclosure share new song "Moog for Love": Listen |work=[[Pitchfork (magazine)|Pitchfork]] |date=14 June 2016 |accessdate=28 August 2020 |author=Gordon, Jeremy}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Moog for Love''
+|-
+! scope="row"| "Ultimatum"<br/><span style="font-size:85%;">(featuring [[Fatoumata Diawara]])</span><ref>{{Citation|title=Ultimatum (feat. Fatoumata Diawara) - Single por Disclosure|url=https://music.apple.com/br/album/ultimatum-feat-fatoumata-diawara-single/1383668447|language=pt-BR|access-date=2018-05-18}}</ref>
+| rowspan="6"| 2018
+| — || — || —{{efn|group=upper-alpha|"Ultimatum" did not enter the Ultratop 50, but peaked at number five on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || 149 || — || — || — || — || —{{efn|group=upper-alpha|"Ultimatum" did not enter the ''Billboard'' Hot 100, but peaked at number 35 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+| ''Les Voix Du Sahel''
+|-
+! scope="row"| "Moonlight"<ref>{{cite web|url=https://www.nme.com/news/music/disclosure-new-track-moonlight-2369002|title=Disclosure share vibrant new track 'Moonlight'|website=NME|last=Moore|first=Sam|date=20 August 2018|accessdate=23 August 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Moonlight" did not enter the ''Billboard'' Hot 100, but peaked at number 45 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+| rowspan="5"| ''Moonlight''
+|-
+! scope="row"| "Where Angels Fear to Tread"<ref>{{cite web|url=https://itunes.apple.com/us/album/where-angels-fear-to-tread-single/1425791344|archive-url=https://web.archive.org/web/20180823111159/https://itunes.apple.com/us/album/where-angels-fear-to-tread-single/1425791344|url-status=dead|archive-date=23 August 2018|title=Where Angels Fear to Tread – Single by Disclosure on iTunes|work=iTunes Store (US)|accessdate=23 August 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Where Angels Fear to Tread" did not enter the ''Billboard'' Hot 100, but peaked at number 39 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "Love Can Be So Hard"<ref>{{cite web|url=https://dancingastronaut.com/2018/08/disclosure-pivot-80s-disco-third-release-week-love-can-hard/ |title=Disclosure pivot to '80s disco on third release of the week, 'Love Can Be So Hard'|website=[[Dancing Astronaut]]|last=Evans|first=Steph|date=22 August 2018|accessdate=23 August 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Funky Sensation]]"<br/><span style="font-size:85%;">(featuring [[Gwen McCrae]])</span><ref>{{cite web|url=https://itunes.apple.com/au/album/funky-sensation-feat-gwen-mccrae-single/1425791731|title=Funky Sensation (feat. Gwen McCrae) – Single by Disclosure on Apple Music|work=iTunes Store (AU)|accessdate=24 August 2018}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+| — || — || —{{efn|group=upper-alpha|"Funky Sensation" did not enter the Ultratop 50, but charted as an extra tip on the Flemish Bubbling Under chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Where You Come From"<ref>{{Cite web |url=https://www.stereogum.com/2011669/disclosure-where-you-come-from/music/ |title=Disclosure – "Where You Come From" |last=Gray |first=Julia |date=23 August 2018 |website=[[Stereogum]] |archive-url=https://web.archive.org/web/20180824071446/https://www.stereogum.com/2011669/disclosure-where-you-come-from/music/ |archive-date=24 August 2018 |accessdate=24 August 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Know Your Worth]]"<br/><span style="font-size:85%;">(with [[Khalid (American singer)|Khalid]])</span>
+| rowspan="7"| 2020
+| 27 || 31 || —{{efn|group=upper-alpha|"Know Your Worth" did not enter the Ultratop 50, but peaked at number six on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || 46 || — || 25 || 33 || 31 || 90 || 57
+|
+* BPI: Platinum<ref name="BPI"/>
+* ARIA: Platinum<ref>{{cite web|url=http://www.ariacharts.com.au/charts/singles-chart|title=ARIA Australian Top 50 Singles|publisher=[[Australian Recording Industry Association]]|date=15 June 2020|accessdate=13 June 2020}}</ref>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+| rowspan="7" | ''Energy''{{efn-ua|"Know Your Worth" and "Ecstasy" only appears on the deluxe edition of ''Energy''.}}
+|-
+! scope="row"| "[[Ecstasy (Disclosure song)|Ecstasy]]"
+| — || — || —{{efn|group=upper-alpha|"Ecstasy" did not enter the Ultratop 50, but charted as an extra tip on the Flemish Bubbling Under chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Ecstasy" did not enter the ''Billboard'' Hot 100, but peaked at number 34 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "[[Energy (Disclosure song)|Energy]]"
+| — || — || —{{efn|group=upper-alpha|"Energy" did not enter the Ultratop 50, but peaked at number 23 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Energy" did not enter the ''Billboard'' Hot 100, but peaked at number 22 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "[[My High]]"<br/><span style="font-size:85%;">(with [[Aminé (rapper)|Aminé]] and [[Slowthai]])</span>
+| 86 || — || — || — || — || — || — || —{{efn|group=upper-alpha|"My High" did not enter the NZ Top 40 Singles Chart but peaked at number 15 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2020-07-10|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=13 July 2020|access-date=6 September 2022}}</ref>}} || — || —{{efn|group=upper-alpha|"My High" did not enter the ''Billboard'' Hot 100, but peaked at number 45 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "[[Douha (Mali Mali)]]"<br/><span style="font-size:85%;">(with [[Fatoumata Diawara]])</span>
+| 83 || — || —{{efn|group=upper-alpha|"Douha (Mali Mali)" did not enter the Ultratop 50, but peaked at number 35 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Douha (Mali Mali)" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "[[Birthday (Disclosure, Kehlani and Syd song)|Birthday]]"<br/><span style="font-size:85%;">(with [[Kehlani]] and [[Syd (singer)|Syd]])</span>
+| 81 || — || —{{efn|group=upper-alpha|"Birthday" did not enter the Ultratop 50, but charted as an extra tip on the Flemish Bubbling Under chart.<ref name="BEL-FL"/>}} || — || — || — || —{{efn|group=upper-alpha|"Birthday" did not enter the Netherlands' Single Top 100 but peaked at number 20 on the Netherlands' Single Tip Chart.<ref>{{cite web|url=https://dutchcharts.nl/showitem.asp?interpret=Disclosure%2C+Kehlani+%26+Syd&titel=Birthday&cat=s |title=Disclosure, Kehlani & Syd - Birthday - dutchcharts.nl|publisher=[[MegaCharts]]|access-date=6 September 2022}}</ref>}} || —{{efn|group=upper-alpha|"Birthday" did not enter the NZ Top 40 Singles Chart but peaked at number 14 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2020-09-04|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=7 September 2020|access-date=6 September 2022}}</ref>}} || — || —{{efn|group=upper-alpha|"Birthday" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "Watch Your Step"<br/><span style="font-size:85%;">(with [[Kelis]])</span><ref>{{cite web|url=https://www.rollingstone.com/music/music-news/disclosurewatch-your-step-video-1101950/|title=Rufio from 'Hook' Cameos in Disclosure's Quirky 'Watch Your Step' Video|publisher=[[Rolling Stone]]|date=15 December 2020|accessdate=18 January 2021}}</ref>
+| — || — || —{{efn|group=upper-alpha|"Watch Your Step" did not enter the Ultratop 50, but peaked at number 45 on the Flemish Ultratip chart.<ref name="BEL-FL"/>}} || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Watch Your Step" did not enter the ''Billboard'' Hot 100, but peaked at number 34 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "In My Arms"<ref>{{Cite web |last=Rose |first=Mitchell |date=16 August 2021 |title=Disclosure begin week of releases with groovy house single 'In My Arms' |url=https://dancingastronaut.com/2021/08/disclosure-begin-week-of-releases-with-groovy-house-single-in-my-arms/ |archive-url=https://web.archive.org/web/20210817011826/https://dancingastronaut.com/2021/08/disclosure-begin-week-of-releases-with-groovy-house-single-in-my-arms/ |archive-date=17 August 2021 |access-date=4 September 2021 |website=Dancing Astronaut}}</ref>
+| rowspan="3"| 2021
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"In My Arms" did not enter the NZ Top 40 Singles Chart but peaked at number 26 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-09-24|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=30 August 2021|access-date=6 September 2022}}</ref>}} || — || —{{efn|group=upper-alpha|"In My Arms" did not enter the ''Billboard'' Hot 100, but peaked at number 31 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+| rowspan="3"| ''Never Enough''
+|-
+! scope="row"| "Happening"<ref>{{Cite web |last=King |first=Ariel |date=17 August 2021 |title=Disclosure share second single from ''Never Enough'' EP, 'Happening' |url=https://dancingastronaut.com/2021/08/disclosure-share-second-single-from-never-enough-ep-happening/ |archive-url=https://web.archive.org/web/20210823100109/https://dancingastronaut.com/2021/08/disclosure-share-second-single-from-never-enough-ep-happening/ |archive-date=23 August 2021 |accessdate=4 September 2021 |website=Dancing Astronaut}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Seduction"<ref>{{Cite web |last=King |first=Ariel |date=18 August 2021 |title=Disclosure continue week-long release spree with third cut, 'Seduction' |url=https://dancingastronaut.com/2021/08/disclosure-release-seduction-on-day-3-of-their-new-music-releases/ |archive-url=https://web.archive.org/web/20210828101225/https://dancingastronaut.com/2021/08/disclosure-release-seduction-on-day-3-of-their-new-music-releases/ |archive-date=28 August 2021 |accessdate=4 September 2021 |website=Dancing Astronaut}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "You've Got to Let Go If You Want to Be Free"<br/><span style="font-size:85%;">(with [[Zedd]])</span><ref>{{Cite web |last=Brodsky |first=Rachel |date=28 January 2022 |title=Disclosure & Zedd – 'You've Got To Let Go If You Want To Be Free' |url=https://www.stereogum.com/2174350/disclosure-zedd-youve-got-to-let-go-if-you-want-to-be-free/music/ |accessdate=7 March 2022 |website=Stereogum}}</ref>
+| rowspan="2"| 2022
+| — || — || — || — || — || — || — || — || × || —{{efn|group=upper-alpha|"You've Got to Let Go If You Want to Be Free" did not enter the ''Billboard'' Hot 100, but peaked at number 15 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+| 
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Waterfall"<br/><span style="font-size:85%;">(with [[Raye]])</span><ref>{{cite web |last1=Jones|first1=Damian|title=Listen to Disclosure and Raye's Rousing New Garage Single 'Waterfall' |url=https://www.nme.com/news/music/listen-to-disclosure-and-rayes-rousing-new-garage-single-waterfall-3188612|website=[[NME]] |access-date=23 March 2025|date=23 March 2022|archive-date=14 January 2025|archive-url=https://web.archive.org/web/20250114105017/https://www.nme.com/news/music/listen-to-disclosure-and-rayes-rousing-new-garage-single-waterfall-3188612|url-status=live}}</ref>
+| 67 || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Waterfall" did not enter the NZ Top 40 Singles Chart but peaked at number 24 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2022-04-01|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=4 April 2022|access-date=6 September 2022}}</ref>}} || × || —{{efn|group=upper-alpha|"Waterfall" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+* BPI: Silver<ref name="BPI"/>
+* RMNZ: Gold<ref name=Radioscope />
+|-
+! scope="row"| "She's Gone, Dance On"<ref>{{cite web|url=https://djmag.com/news/disclosure-share-new-single-shes-gone-dance-listen|title=Disclosure share new single, ‘She’s Gone, Dance On’: Listen|website=DJ Mag|date=30 May 2024|access-date=8 April 2026|first=Martin|last=Guttridge-Hewitt}}</ref>
+| rowspan="4"| 2024
+| 52 || — || — || — || — || 87 || — || —{{efn|group=upper-alpha|"She's Gone, Dance On" did not enter the NZ Top 40 Singles Chart, but peaked at number eight on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-06-07|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=10 June 2024|access-date=7 June 2024}}</ref>}} || × || —{{efn|group=upper-alpha|"She's Gone, Dance On" did not enter the ''Billboard'' Hot 100, but peaked at number 16 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+* BPI: Silver<ref name="BPI"/> 
+* ARIA: Gold<ref name="ARIA25s">{{cite certification|region=Australia|certyear=2025|type=single|access-date=8 July 2025}}</ref>
+* RMNZ: Gold<ref name=Radioscope />
+| rowspan="6"| ''The Singles Vol. 2''
+|-
+! scope="row"| "in2minds"<br/><span style="font-size:85%;">(with [[Chris Lake]])</span>
+| — || — || — || — || — || — || — || — || × || —
+| 
+|-
+! scope="row"| "Arachnids"
+| — || — || — || — || — || — || — || — || × || —
+| 
+|-
+! scope="row"| "King Steps"<br/><span style="font-size:85%;">(with [[Pa Salieu]])</span><ref>{{cite web|url=https://djmag.com/news/disclosure-and-pa-salieu-link-new-single-king-steps-listen|title=Disclosure and Pa Salieu link up for new single, ‘King Steps’: Listen|website=DJ Mag|date=28 November 2024|access-date=8 April 2026|first=James|last=Keith}}</ref>
+| — || — || — || — || — || — || — || — || × || —
+|
+|-
+! scope="row"| "No Cap"<br/><span style="font-size:85%;">(with [[Anderson Paak]])</span><ref>{{cite web|url=https://pitchfork.com/news/disclosure-and-anderson-paak-share-video-for-new-song-no-cap-watch/|title=Disclosure and Anderson .Paak Share Video for New Song "No Cap": Watch|website=[[Pitchfork (website)|Pitchfork]]|date=6 August 2025|accessdate=8 August 2025|first=Matthew|last=Strauss}}</ref>
+| rowspan="3"| 2025
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"No Cap" did not enter the NZ Top 40 Singles Chart, but peaked at number 32 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-08-15|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=15 August 2025|access-date=16 August 2025}}</ref>}} || × || —{{efn|group=upper-alpha|"No Cap" did not enter the ''Billboard'' Hot 100, but peaked at number 13 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "One2Three"<br/><span style="font-size:85%;">(with [[Chris Lake]] and [[Leven Kali]])</span><ref>{{cite web|url=https://www.beatportal.com/articles/1077421-chris-lake-disclosure-reconvene-for-kaleidoscopic-floor-filler-one2three-featuring-leven-kali|title=Chris Lake and Disclosure Reconvene for Kaleidoscopic Floor Filler, “one2three,” Featuring Leven Kali|website=beatportal.com|date=26 September 2025|accessdate=9 January 2026|first=Rachel|last=Narozniak}}</ref>
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"One2Three" did not enter the NZ Top 40 Singles Chart, but peaked at number 18 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-10-03|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=3 October 2025|access-date=3 October 2025}}</ref>}} || × || —{{efn|group=upper-alpha|"One2Three" did not enter the ''Billboard'' Hot 100, but peaked at number 24 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+|-
+! scope="row"| "Deeper"<br/><span style="font-size:85%;">(with [[Leon Thomas]])</span><ref>{{cite web|url=https://edm.com/music-releases/disclosure-leon-thomas-deeper/|title=Listen to Disclosure and Leon Thomas’ Silky Single, “Deeper”|website=edm.com|date=6 December 2025|accessdate=8 January 2026|first=Cameron|last=Sunkel}}</ref>
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Deeper" did not enter the NZ Top 40 Singles Chart, but peaked at number 14 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-12-12|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=12 December 2025|access-date=13 December 2025}}</ref>}} || × || —{{efn|group=upper-alpha|"Deeper" did not enter the ''Billboard'' Hot 100, but peaked at number 19 on the [[Hot Dance/Electronic Songs]] chart.<ref name="Dance Electronic"/>}}
+|
+| rowspan="2" {{TBA}}
+|-
+! scope="row"| "The Sun Comes Up Tremendous"<ref>{{cite web|url=https://djmag.com/news/disclosure-share-new-single-and-video-sun-comes-tremendous-watch|title=Disclosure share new single and video, "The Sun Comes Up Tremendous": Watch|website=DJ Mag|date=1 April 2025|access-date=5 April 2026}}</ref>
+| 2026
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"The Sun Comes Up Tremendous" did not enter the NZ Top 40 Singles Chart, but peaked at number 22 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2026-04-10|title=Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=10 April 2026|access-date=11 April 2026}}</ref>}} || × || —
+|
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of promotional singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2"| [[Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br/><ref name="UKSingles"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Dance Chart|UK<br/>Dance]]<br/><ref name="UKDan">Peak positions for Dance singles in the UK:
+* "Latch": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20121028/104/|title=Chart Archive > 3 November 2012|publisher=Official Charts Company|date=2012-11-03}}
+* "White Noise": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20130210/104/|title=Chart Archive > 6 February 2013|publisher=Official Charts Company|date=2013-02-16}}
+* "You & Me": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20130505/104/|title=Chart Archive > 11 May 2013|publisher=Official Charts Company|date=2013-05-11}}
+* "When a Fire Starts to Burn": {{cite web |url=http://www.zobbel.de/cluk/130615cluk.txt |title=CHART: CLUK Update 15.06.2013 (wk23) |publisher=Zobbel}}
+* "F for You": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20130818/104/|title=Chart Archive > 24 August 2013|publisher=Official Charts Company|date=2013-08-24}}
+* "Voices": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20131222/104/|title=Chart Archive > 28 December 2013|publisher=Official Charts Company|date=2013-12-28}}
+* "F for You" (Remix): {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20140209/104/|title=Chart Archive > 15 February 2014|publisher=Official Charts Company|date=2014-02-15}}
+* "The Mechanism": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20140518/104/|title=Chart Archive > 24 May 2014|publisher=Official Charts Company|date=2014-05-24}}
+* "Waterfall": {{cite web|url=https://www.officialcharts.com/charts/dance-singles-chart/20220407/104/|title=Chart Archive > 1 April 2022|publisher=Official Charts Company|date=2022-04-01}}
+</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br>(FL)<br />Tip]]<br/><ref name="BEL-FL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[MegaCharts|NL<br />Air]]<br /><ref>{{cite web|url=https://dutchcharts.nl/showitem.asp?interpret=Disclosure+feat%2E+Eko+Roosevelt&titel=Tondo&cat=s |title=Disclosure feat. Eko Roosevelt - Tondo - dutchcharts.nl|publisher=[[MegaCharts]]|access-date=6 September 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Songs|US<br/>Dance]]<br/><ref name="Dance Electronic">{{cite magazine|url=https://www.billboard.com/artist/disclosure/chart-history/dan/|title=Disclosure Chart History: Dance/Electronic Songs|magazine=Billboard|accessdate=25 July 2023}}</ref>
+|-
+! scope="row"| "[[Bang That]]"
+| rowspan="3"| 2015
+| 50 || 14 || 94 || 37 || — || — || 37
+|
+| rowspan="3"| ''Caracal''{{efn-ua|"Bang That" is only included on the digital and Japanese deluxe editions of ''[[Caracal (album)|Caracal]]''.<ref>{{cite web |url=https://www.theedgesusu.co.uk/records/albums/2015/09/24/review-disclosure-caracal/ |title=Review: Disclosure – Caracal |work=[[The Edge (magazine)|The Edge]] |date=24 September 2015 |accessdate=31 August 2020 |author=Wootten, Amy}}</ref>}}
+|-
+! scope="row"| "[[Willing & Able (Disclosure song)|Willing and Able]]"<br/><span style="font-size:85%;">(featuring [[Kwabs]])</span>
+| 70 || 18 || 78 || — || 116 || —|| 22
+|
+|-
+! scope="row"| "Hourglass"<br/><span style="font-size:85%;">(featuring [[Lion Babe]])</span><ref>{{cite web|url=https://www.thefader.com/2015/09/10/disclosure-hourglass|title=Listen to Disclosure's "Hourglass"|website=[[The Fader]]|date=10 September 2015|accessdate=8 April 2026|first=Elias|last=Leight}}</ref>
+| 80 || 23 || — || — || 148 || — || 31
+|
+|-
+! scope="row"| "Tondo"<br/><span style="font-size:85%;">(with Eko Roosevelt)</span><ref>{{cite web|url=https://music.apple.com/au/album/tondo-single/1499115590|title=Tondo – Single by Disclosure & Eko Roosevelt|website=Apple Music|accessdate=27 February 2020}}</ref>
+| rowspan="3"| 2020
+| — || — || — || 16 || — || 30 || 24
+|
+* BPI: Silver<ref name="BPI"/>
+| rowspan="3"| ''Energy''{{efn-ua|name=EnergyDeluxe|These songs are only included on the deluxe edition of ''[[Energy (Disclosure album)|Energy]]''.<ref>{{cite web |url=https://www.bosshunting.com.au/culture/disclosure-energy-new-album/ |title=Disclosure drop new album 'Energy' for your Friday |work=[[Boss Hunting]]|date=28 August 2020|accessdate=31 August 2020|last=McMahon|first=John}}</ref>}}
+|-
+! scope="row"| "Expressing What Matters"<ref>{{cite web|url=https://www.stereogum.com/2074866/disclosure-expressing-what-matters/music/|title=Disclosure Sample Boz Scaggs On New Song "Expressing What Matters"|website=[[Stereogum]]|last=Rettig|first=James|date=26 February 2020|accessdate=27 February 2020}}</ref>
+| — || — || — || — || — || — || 46
+|
+|-
+! scope="row"| "Etran"<br/><span style="font-size:85%;">(with [[Etran Finatawa]])</span><ref>{{cite web|url=https://music.apple.com/nz/album/etran-single/1499117508|title=Etran – Single by Disclosure & Etran Finatawa|website=Apple Music|accessdate=28 February 2020}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+| colspan="11" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of other charted songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:23em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="6"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br/><ref>Peak chart positions for other charted songs in the United Kingdom:
+* "Royals / White Noise": {{cite web |url=http://www.officialcharts.com/artist/7672/disclosure/ |title=Disclosure |publisher=Official Charts Company}}
+* "Boss": {{cite web|url=http://www.zobbel.de/cluk/160625cluk.txt|title=CHART: CLUK Update 25.06.2016 (wk25)|publisher=Official Charts Company. zobbel.de|accessdate=11 July 2016}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ultratop|BEL<br />(FL)<br />Tip]]<br/><ref name="BEL-FL"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br/><ref>Peak chart positions for other charted songs in Ireland:
+* "Royals / White Noise": {{cite web|url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=09|title=Irish Charts > 27 February 2014|publisher=[[Irish Recorded Music Association]]|date=2014-02-27|access-date=30 June 2014|archive-url=https://web.archive.org/web/20141009194917/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2014&year=2014&week=09|archive-date=9 October 2014|url-status=dead}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ<br />Hot]]<br /><ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-07-21|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=24 July 2023|access-date=22 July 2023}}
+* "Lift Off!": {{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-07-19|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=22 July 2024|access-date=19 July 2024}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance Club Songs|US<br />Club]]<br /><ref>{{cite magazine|url=http://www.billboard.com/artist/301001/disclosure/chart?f=359|title=Disclosure - Chart history (Dance Club Songs)|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=30 August 2016}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Songs|US<br/>Dance]]<br/><ref name="Dance Electronic"/>
+|-
+! scope="row"| "Together"<br/><span style="font-size:85%;">(with Sam Smith, [[Nile Rodgers]] and [[Jimmy Napes]])</span>
+| 2012
+| — || 78 || — || — || — || —
+| ''Settle''
+|-
+! scope="row"| "[[Royals (Lorde song)|Royals]] / White Noise" (Live from the [[Brit Awards|BRITs]])<br/><span style="font-size:85%;">(with Lorde featuring AlunaGeorge)</span>
+| 2014
+| 72 || — || 93 || — || — || —
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "Boss"
+| rowspan="2" | 2016
+| 120 || — || — || — || 1 || 29
+| rowspan="2"| ''Moog for Love''
+|-
+! scope="row"| "Feel Like I Do"<br/><span style="font-size:85%;">(with [[Al Green]])</span>
+| — || 21 || — || — || — || —
+|-
+! scope="row"| "Watch Your Step"<br/><span style="font-size:85%;">(featuring [[Kelis]])</span>
+| rowspan="2"| 2020
+| — || 45 || — || — || — || 34
+| rowspan="2"| ''Energy''
+|-
+! scope="row"| "Lavender"<br/><span style="font-size:85%;">(featuring [[Channel Tres (singer)|Channel Tres]])</span>
+| — || — || — || — || — || 44
+|-
+! scope="row"| "Looking for Love"
+| rowspan="2"| 2023
+| — || — || — || — || — || 48
+| rowspan="2"| ''Alchemy''
+|-
+! scope="row"| "Higher Than Ever Before"
+| — || — || — || 19 || — || 25
+|-
+! scope="row"| "Lift Off!"<br/><span style="font-size:85%;">(with [[Salute (musician)|Salute]])</span>
+| 2024
+| — || — || — || 31 || — || —
+| ''True Magic''
+|-
+| colspan="9" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Remixes==
+{| class="wikitable plainrowheaders"
+|-
+!  style="text-align:center; width:35px;"|Year
+!Artist
+!Track
+!Title
+|-
+| style="text-align:center;"|2010
+|[[Everything Everything]]
+|"[[Photoshop Handsome]]"
+|''Disclosure Remix''
+|-
+| style="text-align:center;" rowspan="5"|2011
+|[[Crystal Fighters]]
+|"[[At Home (song)|At Home]]"
+|''Disclosure Remix''
+|-
+|[[Emeli Sandé]] featuring [[Naughty Boy]]
+|"[[Daddy (Emeli Sandé song)|Daddy]]"
+|''Disclosure Remix''
+|-
+|Jack Dixon
+|"Coconuts"
+|''Disclosure Remix''
+|-
+|[[Jess Mills]]
+|"Live for What I'd Die For"
+|''Disclosure Remix''
+|-
+|[[Q-Tip (musician)|Q-Tip]]
+|"Work It Out"
+|''Disclosure Booty Call Edit''
+|-
+| style="text-align:center;" rowspan="5"|2012
+|[[Artful Dodger (UK band)|Artful Dodger]] featuring Lifford
+|"[[Please Don't Turn Me On]]"
+|''Disclosure Remix''
+|-
+|[[Azari & III]]
+|"Manic"
+|''Disclosure Remix''
+|-
+|Disclosure
+|"What's In Your Head"
+|''Disclosure VIP''
+|-
+|[[Janet Jackson]] with [[Nelly]]
+|"[[Call on Me (Janet Jackson song)|Call on Me]]"
+|''Disclosure Bootleg''
+|-
+|[[Jessie Ware]]
+|"[[Running (Jessie Ware song)|Running]]"
+|''Disclosure Remix''<br/>''Disclosure Dub''<br/>''Disclosure VIP''
+|-
+| style="text-align:center;" rowspan="2"|2014
+|[[Pharrell Williams]] featuring [[Jay-Z]]
+|"[[Frontin']]"
+|''Disclosure Re-Work''
+|-
+|[[Usher (singer)|Usher]]
+|"[[Good Kisser]]"
+|''Disclosure Remix''
+|-
+| style="text-align:center;" rowspan="1"|2015
+|Disclosure featuring [[Lorde]]
+|"[[Magnets (song)|Magnets]]"
+|''Disclosure VIP''
+|-
+| style="text-align:center;" rowspan="3"|2016
+|Disclosure featuring [[The Weeknd]]
+|"[[Nocturnal (song)|Nocturnal]]"
+|''Disclosure VIP''
+|-
+|[[Flume (musician)|Flume]] featuring [[Kai (Canadian singer)|Kai]]
+|"[[Never Be like You]]"
+|''Disclosure Remix''
+|-
+|[[James Blake (musician)|James Blake]]
+|"[[Modern Soul (song)|Modern Soul]]"
+|''Disclosure Remix''
+|-
+|2019
+|[[Khalid (American singer)|Khalid]]
+|"[[Talk (Khalid song)|Talk]]"
+|''Disclosure VIP''
+|-
+| style="text-align:center;" rowspan="2"|2020
+|Disclosure featuring [[Kehlani]] and [[Syd (singer)|Syd]]
+|"[[Birthday (Disclosure, Kehlani and Syd song)|Birthday]]"
+|''Disclosure VIP Remix''
+|-
+|[[Tyga]] and Curtis Roach
+|"Bored In the House"
+|''Disclosure Remix'' {{small|''(unreleased)''}}
+|-
+|2021
+|[[Doja Cat]]
+|"[[Streets (song)|Streets]]"
+|''Disclosure Remix''
+|-
+|2022
+|Sam Smith featuring [[Kim Petras]]
+|"[[Unholy (Sam Smith and Kim Petras song)|Unholy]]"
+|''Disclosure Remix''
+|-
+|}
+
+==Songwriting and production credits==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:160px;"| Title
+! scope="col" | Year
+! scope="col" | Artist(s)
+! scope="col" style="width:180px;"| Album
+! scope="col" | Contributing member(s)
+! scope="col" | Credits
+! scope="col" | Written with
+! scope="col" | Produced with
+|-
+! scope="row"| "You Stressin'"<ref>{{cite web|title=Bishop Nehru - You Stressin'|url=http://www.indieshuffle.com/bishop-nehru-you-stressin-produced-by-disclosure/|accessdate=29 January 2014}}</ref><ref>{{cite web|url=https://www.qobuz.com/gb-en/album/you-stressin-single-bishop-nehru/5051823098557|title=You Stressin - Single - Bishop Nehru|website=Qobuz|access-date=19 October 2018|archive-url=https://web.archive.org/web/20181019205637/https://www.qobuz.com/gb-en/album/you-stressin-single-bishop-nehru/5051823098557|archive-date=19 October 2018|url-status=dead}}</ref>
+| rowspan="5"| 2014
+| Bishop Nehru
+| {{n/a|Non-album single}}
+| {{flatlist|
+* Howard Lawrence {{small|(producer)}}
+* Guy Lawrence {{small|(co-writer and producer)}}
+}}
+| rowspan="3"| {{flatlist|
+* Co-writer
+* producer
+}}
+| Markel Scott
+| —
+|-
+! scope="row"| "Make It to Me"<ref>{{cite web|url=https://www.youtube.com/watch?v=8rMv-LV8TGc|title=Make It To Me|website=[[YouTube]] |date=6 November 2015 |publisher=}}</ref>
+| [[Sam Smith (singer)|Sam Smith]]
+| ''[[In the Lonely Hour]]''
+| Howard Lawrence
+| {{flatlist|
+* [[Sam Smith (singer)|Samuel Smith]]
+* [[Jimmy Napes|James Napier]]
+}}
+| {{flatlist|
+* [[Steve Fitzmaurice]]
+* [[Jimmy Napes]]
+}}
+|-
+! scope="row"| "[[Right Now (Mary J. Blige song)|Right Now]]"
+| rowspan="2"| [[Mary J. Blige]]
+| rowspan="2"| ''[[The London Sessions (Mary J. Blige album)|The London Sessions]]''
+| rowspan="2"| {{flatlist|
+* Howard Lawrence
+* Guy Lawrence
+}}
+| {{flatlist|
+* [[Mary J. Blige]]
+* [[Sam Smith (singer)|Samuel Smith]]
+* [[Jimmy Napes|James Napier]]
+}}
+| —
+|-
+! scope="row"| "Follow"<br>{{small|(with Disclosure)}}<ref>{{cite web|url=http://www.stereogum.com/1720081/mary-j-blige-disclosure-follow/mp3s/|title=Mary J. Blige & Disclosure - "Follow"|date=19 November 2014 |publisher=[[Stereogum]]|accessdate=19 November 2014}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=ZrdAYCrYh6s|title=Follow|website=[[YouTube]] |date=6 November 2014 |publisher=}}</ref>
+| {{flatlist|
+* Collaborative artist
+* co-writer
+* producer
+}}
+| {{flatlist|
+* [[Mary J. Blige]]
+* [[Jimmy Napes|James Napier]]
+}}
+| —
+|-
+! scope="row"| "Eggshells"<br>{{small|(featuring [[Lianne La Havas]])}}<ref>{{cite web|url=https://www.youtube.com/watch?v=GRdArzYIVYs|title=Eggshells (feat. Lianne La Havas)|last=Aqualung - Topic|date=31 December 2017 |publisher=|via=YouTube}}</ref>
+| [[Aqualung (musician)|Aqualung]]
+| ''10 Figures''
+| {{flatlist|
+* Howard Lawrence {{small|(co-writer and co-producer)}}
+* Guy Lawrence {{small|(co-writer)}}
+}}
+| {{flatlist|
+* Co-writer
+* co-producer
+}}
+| [[Aqualung (musician)|Matthew Hales]] 
+| [[Aqualung (musician)|Aqualung]]
+|-
+! scope="row"| "Wonderful"<ref>{{cite web|url=https://www.youtube.com/watch?v=KGAWUvqLOdE|title=Wonderful|website=[[YouTube]] |date=9 February 2017 |publisher=}}</ref>
+| rowspan="4"| 2015
+| [[Lianne La Havas]]
+| ''[[Blood (Lianne La Havas album)|Blood]]''
+| Howard Lawrence
+| Co-writer
+| {{flatlist|
+* [[Lianne La Havas|Lianne Barnes]]
+* [[Aqualung (musician)|Matthew Hales]]
+}}
+| —
+|-
+! scope="row"| "[[Writing's on the Wall (Sam Smith song)|Writing's on the Wall]]"
+| [[Sam Smith (singer)|Sam Smith]]
+| {{n/a|Non-album single}}
+| {{flatlist|
+* Howard Lawrence
+* Guy Lawrence
+}}
+| Additional producer
+| —
+| {{flatlist|
+* [[Steve Fitzmaurice]]
+* [[Jimmy Napes]]
+}}
+|-
+! scope="row"| "Heal"<ref>{{cite web|url=https://www.qobuz.com/gb-en/album/delirium-ellie-goulding/0060254797707|title=Delirium - Ellie Goulding|website=Qobuz}}</ref>
+| [[Ellie Goulding]]
+| ''[[Delirium (Ellie Goulding album)|Delirium]]''
+| Guy Lawrence
+| rowspan="2"| {{flatlist|
+* Co-writer
+* producer
+}}
+| {{flatlist|
+* [[Ellie Goulding|Elena Goulding]]
+* [[Jimmy Napes|James Napier]]
+}}
+| [[Jimmy Napes]]
+|-
+! scope="row"| "Borrowed Time"<ref>{{cite web|url=https://www.youtube.com/watch?v=ZrHHFkjRQvA|title=Borrowed Time|website=[[YouTube]] |date=16 March 2017 |publisher=}}</ref>
+| [[Frances (musician)|Frances]]
+| ''[[Things I've Never Said]]''
+| rowspan="2"| Howard Lawrence
+| [[Frances (musician)|Sophie Cooke]]
+| [[Frances (musician)|Frances]]
+|-
+! scope="row"| "Meant to Be"<ref>{{cite web|url=https://www.youtube.com/watch?v=8TQWvKtqOUQ|title=Meant To Be|website=[[YouTube]] |date=18 August 2016 |publisher=}}</ref>
+| rowspan="2"| 2016
+| [[SG Lewis]]
+| ''Yours EP''
+| Co-writer
+| {{flatlist|
+* Samuel G. Lewis
+* [[Chad Hugo|Charles Hugo]]
+}}
+| —
+|-
+! scope="row"| "Open Your Eyes"<ref>{{cite web|url=https://www.youtube.com/watch?v=okeyxYxYsq4|title=Open Your Eyes|website=[[YouTube]] |date=25 January 2017 |publisher=}}</ref>
+| rowspan="2"| [[Liv Dawson]]
+| ''Open Your Eyes EP''
+| Guy Lawrence
+| rowspan="5"| {{flatlist|
+* Co-writer
+* producer
+}}
+| {{flatlist|
+* [[Liv Dawson|Olivia Dawson]]
+* [[Jimmy Napes|James Napier]]
+* [[Years & Years|Oliver "Oz Moses" Thornton]]
+}}
+| —
+|-
+! scope="row"| "Searching"<ref>{{cite web|url=https://www.ascap.com/repertory#ace/work/891873199|title=ACE Repertory|website=www.ascap.com}}</ref>
+| rowspan="2"| 2017
+| {{n/a|Non-album single}}
+| {{flatlist|
+* Howard Lawrence
+* Guy Lawrence
+}}
+| {{flatlist|
+* [[Liv Dawson|Olivia Dawson]]
+* [[Jimmy Napes|James Napier]]
+* Christian Karlsson
+* [[Pontus Winnberg]]
+* [[Henrik Jonback]]
+* [[Cathy Dennis|Catherine Dennis]]
+}}
+| —
+|-
+! scope="row"| "Blinds"<ref>{{cite web|url=https://www.ascap.com/repertory#ace/search/writer/guy+lawrence/title/blinds|title=ACE Repertory|website=www.ascap.com}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=ofR-yJI25pQ|title=Blinds|website=[[YouTube]] |date=27 July 2017 |publisher=}}</ref>
+| [[Aminé (rapper)|Aminé]]
+| ''[[Good for You (album)|Good for You]]''
+| Guy Lawrence
+| [[Aminé (rapper)|Adam Daniel]]
+| —
+|-
+! scope="row"| "Heaven Let Me In"<ref>{{cite web|url=https://www.youtube.com/watch?v=DDqjxnRGH0w|title=Heaven Let Me In|last=Friendly Fires - Topic|date=14 October 2018 |publisher=|via=YouTube}}</ref>
+| 2018
+| [[Friendly Fires]]
+| ''Inflorescent''
+| rowspan="2"| {{flatlist|
+* Howard Lawrence
+* Guy Lawrence
+}}
+| [[Friendly Fires|Edward McFarlane]]
+| {{flatlist|
+* [[Friendly Fires]]
+* [[Alex Metric]]
+* [[Hal Ritson]]
+* [[Mark Ralph (record producer)|Mark Ralph]]
+* Richard Adlam
+}}
+|-
+! scope="row"| "[[Talk (Khalid song)|Talk]]"
+| rowspan="2"| 2019
+| [[Khalid (American singer)|Khalid]]
+| ''[[Free Spirit (Khalid album)|Free Spirit]]''
+| [[Khalid (American singer)|Khalid Robinson]]
+| —
+|-
+! scope="row"| "[[I Feel Love#Sam Smith version|I Feel Love]]"
+| [[Sam Smith]]
+| {{n/a|Non-album single}}
+| rowspan="2"| Guy Lawrence
+| Producer
+| —
+| —
+|-
+! scope="row"| "Blue World"
+| rowspan="2"| 2020
+|[[Mac Miller]]
+| ''[[Circles (Mac Miller album)|Circles]]''
+| rowspan="2"| {{flatlist|
+* Co-writer
+* producer
+}}
+| {{flatlist|
+*[[Mac Miller]]
+*[[Jon Brion]]}}
+| —
+|-
+!scope="row"|"[[Ungodly Hour (song)|Ungodly Hour]]"
+| [[Chloe x Halle]]
+| ''[[Ungodly Hour]]''
+| {{flatlist|
+* Howard Lawrence
+* Guy Lawrence
+}}
+| {{flatlist|
+*[[Chloe x Halle|Chloe Bailey]]
+*[[Chloe x Halle|Halle Bailey]]}}
+| —
+|}
+
+==Other tracks==
+{| class="wikitable"
+|-
+!  style="text-align:center; width:35px;"|Year
+!Track
+!Date
+!Notes
+|-
+| style="text-align:center;" rowspan="2"|2010
+|"Linstigator"
+| style="text-align:center;"|August 2010
+| 
+|-
+|"London Town"
+| style="text-align:center;"|August 2010
+| 
+|-
+| style="text-align:center;" rowspan="2"|2012
+|"My Intention is War (Fig II)"
+| style="text-align:center;"|30 April 2012
+|Moda Black <span style="font-size:85%;">(mixed by Jaymo and Andy George)</span>
+|-
+|"Get Close"
+|1 June 2012
+|Lovebox Jukebox number 26 – Greco-Roman Soundsystem
+|-
+| style="text-align:center;"|2013
+|"You Used to Hold Me"  (feat. [[Natalie Duncan]])
+| style="text-align:center;"|15 May 2013
+|Live at Maida Vale on BBC Radio 1 – unreleased
+|-
+| style="text-align:center;"|2015
+|"Hollywood"
+| style="text-align:center;"|July 2015
+|Beats 1 Radio – unreleased
+|-
+|}
+
+==Notes==
+{{notelist-ua|30em}}
+
+==References==
+{{Reflist}}
+
+{{Disclosure}}
+
+[[Category:Discographies of British artists]]
+[[Category:Electronic music group discographies]]
+[[Category:House music discographies]]

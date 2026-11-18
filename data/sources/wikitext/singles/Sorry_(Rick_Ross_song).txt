@@ -1,0 +1,90 @@
+{{Use mdy dates|date=July 2013}}
+{{Infobox song
+| name          = Sorry
+| cover         = Rick Ross Sorry.jpg
+| alt           = 
+| type          = single
+| artist        = [[Rick Ross]] featuring [[Chris Brown]]
+| album         = [[Black Market (Rick Ross album)|Black Market]]
+| released      = October 9, 2015
+| recorded      = 2015
+| studio        = 
+| venue         = 
+| genre         = {{flat list|
+*[[Hip hop music|Hip hop]]
+*[[Contemporary R&B|R&B]]
+}}
+| length        = 4:40 (single/radio edit)
+*5:40 (album version)
+| label         = [[Def Jam Recordings|Def Jam]]
+| writer        = {{flat list|
+*[[Rick Ross|William L. Roberts II]]
+*Chris Brown
+*[[Scott Storch|Scott S. Storch]]
+*Diego Avendano
+}}
+| producer      = {{flat list|
+*[[Scott Storch]]}}
+| chronology    = [[Rick Ross]]
+| prev_title    = [[When You Feel This]]
+| prev_year     = 2015
+| next_title    = Make It Work
+| next_year     = 2016
+| misc          = {{Extra chronology
+ | artist     = [[Chris Brown]]
+ | type       = singles
+ | prev_title = [[Player (song)|Player]]
+ | prev_year  = 2015
+ | title      = Sorry
+ | year       = 2015
+ | next_title = [[Gold Slugs]]
+ | next_year  = 2015
+}}
+}}
+"'''Sorry'''" is a song by American [[Hip hop music|hip hop]] recording artist [[Rick Ross]], featuring vocals from American singer [[Chris Brown]]. This was released on October 9, 2015, as the first [[single (music)|single]] from his  eighth studio album ''[[Black Market (Rick Ross album)|Black Market]]''.<ref>{{cite magazine|url=http://www.billboard.com/articles/columns/the-juice/6721879/rick-ross-chris-brown-sorry-listen|archive-url=https://web.archive.org/web/20151009200854/http://www.billboard.com/articles/columns/the-juice/6721879/rick-ross-chris-brown-sorry-listen|url-status=dead|archive-date=October 9, 2015|title=Rick Ross Releases New Track 'Sorry' With Chris Brown: Listen|magazine=[[Billboard (magazine)|Billboard]]|access-date=November 20, 2015}}</ref><ref>{{cite web|url=https://itunes.apple.com/us/album/sorry-feat.-chris-brown-single/id1046136436|archive-url=https://web.archive.org/web/20151121201718/https://itunes.apple.com/us/album/sorry-feat.-chris-brown-single/id1046136436|url-status=dead|archive-date=November 21, 2015|title=iTunes - Music - Sorry by (feat. Chris Brown) - Single by Rick Ross|publisher=[[iTunes Store]]. [[Apple Inc]]|access-date=November 20, 2015}}</ref> The song was produced by [[Scott Storch]].<ref>{{cite web|url=https://www.hotnewhiphop.com/576080-rick-ross-sorry-cdq-feat-chris-brown-prod-by-scott-storch-new-song|title=Rick Ross benefits greatly from a Chris Brown feature and vintage Scott Storch production on new single "Sorry."|date=October 7, 2015 |publisher=hotnewhiphop|access-date=November 20, 2015}}</ref>
+
+==Background and composition==
+"Sorry" has been described as a "vulnerable" track, where Ross and Brown apologize to their respective girlfriends following their unfaithfulness.<ref>{{cite web | url=https://www.complex.com/music/a/zach-frydenlund/rick-ross-new-song-sorry-f-chris-brown | title=Rick Ross Grabs Chris Brown for "Sorry" | website=[[Complex Networks]] }}</ref> Brown's apology in the song is addressed to [[Karrueche Tran]], his ex-girlfriend who broke up with him after discovering that the singer unwittingly fathered a child with another woman.<ref>{{cite web | url=https://urbanislandz.com/2015/10/13/chris-brown-confirmed-sorry-karrueche-not-rihanna/ | title=CHRIS BROWN Says I Wrote "Sorry" for Karrueche Not Rihanna | date=October 13, 2015 }}</ref> Speaking of the song, Ross described it as a "personal" track "who speaks for itself",<ref>{{cite web | url=https://www.hotnewhiphop.com/34322-rick-ross-announces-new-single-sorry-featuring-chris-brown-news | title=Rick Ross Announces New Single "Sorry" Featuring Chris Brown | website=HNHH | date=October 5, 2015 }}</ref> while Brown said: {{cquote|text=One of the most honest records I’ve done in a while. I appreciate Ross for allowing me to be on [the] record and speak from the heart.<ref>{{cite web|title=Chris Brown talks about "Sorry"|url=https://www.capitalxtra.com/artists/rick-ross/music/chris-brown-collaboration-sorry/|website=Capital Xtra}}</ref>}}
+
+==Music video==
+On November 12, 2015 Ross uploaded the music video for "Sorry" on his [[YouTube]] and [[Vevo]] account.<ref>{{cite web|url=https://www.youtube.com/watch?v=-XLQb_tKOfQ|title=Rick Ross - Sorry (Explicit) ft. Chris Brown|publisher=[[YouTube]]|date=November 12, 2015|access-date=November 20, 2015}}</ref>
+
+==Live performances==
+On December 7, 2015, Ross and Brown performed the song live on the ''[[Jimmy Kimmel Live!]]''.<ref>{{cite web|url=http://www.rap-up.com/2015/12/08/chris-brown-rick-ross-perform-on-jimmy-kimmel-live/|archive-url=https://web.archive.org/web/20151209222640/http://www.rap-up.com/2015/12/08/chris-brown-rick-ross-perform-on-jimmy-kimmel-live/|url-status=dead|archive-date=December 9, 2015|title=Chris Brown and Rick Ross Perform on 'Jimmy Kimmel Live'|publisher=[[Rap-Up]]|date=December 8, 2015|access-date=December 9, 2015}}</ref>
+
+== Charts ==
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position 
+|-
+{{singlechart|Billboardhot100|97|artist=Rick Ross|access-date=December 15, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardrandbhiphop|32|artist=Rick Ross|access-date=December 15, 2015|rowheader=true}}
+|-
+{{singlechart|Billboardrandbhiphopairplay|18|artist=Rick Ross|access-date=December 19, 2023|rowheader=true}}
+|-
+{{single chart|Billboardrhythmic|39|artist=Rick Ross|rowheader=true|access-date=December 16, 2023}}
+|-
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|title=Sorry|artist=Rick Ross|type=single|award=Gold|relyear=2015|certyear=2021}}
+{{Certification Table Bottom|streaming=true | nosales=true | noshipments=true}}
+
+==References==
+{{Reflist|30em}}
+
+{{Rick Ross}}
+{{Chris Brown singles}}
+{{Authority control}}
+
+[[Category:2015 singles]]
+[[Category:2015 songs]]
+[[Category:Chris Brown songs]]
+[[Category:Rick Ross songs]]
+[[Category:Song recordings produced by Scott Storch]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Songs written by Rick Ross]]
+[[Category:Songs written by Scott Storch]]

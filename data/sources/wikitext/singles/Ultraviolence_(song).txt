@@ -1,0 +1,183 @@
+{{About|the Lana Del Rey song|other songs with this title|Ultraviolence (disambiguation)#Songs{{!}}Ultraviolence}}
+{{Use mdy dates|date=August 2026}}
+{{Infobox song
+| name       = Ultraviolence
+| cover      = Ultraviolencesingle.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Lana Del Rey]]
+| album      = [[Ultraviolence (album)|Ultraviolence]]
+| released   = {{Start date|2014|06|04}}
+| recorded   =
+| studio     = Easy Eye Sound ([[Nashville]])
+| venue      =
+| genre      = [[Rock music|Rock]]<ref name="TheFader">{{cite news|url=https://www.thefader.com/2014/06/04/cover-story-lana-del-rey-is-anyone-she-wants-to-be|title=Lana Del Rey Is Anyone She Wants to Be|first=Duncan|work=[[The Fader]]|last=Copper|quote=We could go back to the start, she sings on the title track, but I don’t know where we are. Certainly the rock ballad suits her retro preoccupation;|type=cover story|issue=92|date=June 4, 2014|volume=June/July 2014|access-date=February 12, 2015}}</ref>
+| length     = 4:11
+| label      =
+* [[Interscope Records|Interscope]]
+* [[Polydor Records|Polydor]]
+| writer     =
+* Lana Del Rey
+* Daniel Heath
+| producer   = [[Dan Auerbach]]
+| prev_title = [[Shades of Cool]]
+| prev_year  = 2014
+| next_title = [[Brooklyn Baby]]
+| next_year  = 2014
+| misc       = {{External music video|{{YouTube|ZFWC4SiZBao|"Ultraviolence"}}}}
+}}
+
+"'''Ultraviolence'''" is a song recorded by American singer and songwriter [[Lana Del Rey]] for her third studio album [[Ultraviolence (album)|of the same name]] (2014). It was co-written by Del Rey and Daniel Heath, and produced by [[Dan Auerbach]]. The song was released on June 4, 2014, by [[Polydor]] and [[Interscope Records]], as the third single from ''Ultraviolence''. A music video, directed by [[Francesco Carrozzini]], was released on July 30, 2014.
+
+== Composition ==
+{{Listen
+| filename     = Lana Del Rey - Ultraviolence (sample).ogg
+| title        = "Ultraviolence"
+| pos          = left
+| description  = A sample of the [[chorus effect|chorus]] on the rock [[ballad]] "Ultraviolence", where Del Rey sings about her abusive relationship with reference to [[The Crystals]]' "[[He Hit Me (And It Felt Like a Kiss)]]" (1962)
+| format       = Ogg
+}}
+According to Brenna Ehrlich of [[MTV News]], "Ultraviolence" tells the story of a "typical Lana Del Rey romantic relationship: broken, failed and painful".<ref>[https://web.archive.org/web/20140606203929/http://www.mtv.com/news/1838435/lana-del-rey-ultraviolence-single/ Lana Del Rey's 'Ultraviolence' Will Give You Goosebumps – MTV<!-- Bot generated title -->]</ref> In the line "I can hear sirens sirens, he hit me and it felt like a kiss," Del Rey references the 1962 [[The Crystals]] song "[[He Hit Me (and It Felt like a Kiss)]]", and according to Harriet Gibson of ''[[The Guardian]]'', "appear[s] to romanticise brutality".<ref>{{cite web|last1=Gibsone|first1=Harriet|title=Listen to Lana Del Rey's Ultraviolence|url=https://www.theguardian.com/music/2014/jun/05/listen-lana-del-rey-ultraviolence|work=[[The Guardian]]|access-date=June 5, 2014|date=June 5, 2014}}</ref> Molly Lambert of ''[[Grantland]]'' noted that the song is about a "difficult man" named Jim. Lambert hypothesized that "Jim" might be a reference to cult leader [[Jim Jones]] and the [[Jonestown|Jonestown massacre]], due to the line "you're my cult leader."<ref>{{cite web |url=https://grantland.com/hollywood-prospectus/songs-of-the-week-lana-del-rey-gets-culty-kanye-gets-bubblegummed-and-sheryl-crow-rides-shotgun/ |title=Songs of the Week: Lana Del Rey Gets Culty, Kanye Gets Bubblegummed, and Sheryl Crow Rides Shotgun |author=Molly Lambert |work=[[Grantland]] |publisher=[[ESPN]] |date=June 6, 2014 |access-date=December 18, 2023 }}</ref> Aimee Ferrier of ''Far Out'' said fans often assume Jim "represents a figure akin to Jim Jones."<ref>{{cite web |url=https://faroutmagazine.co.uk/who-is-lana-del-reys-character-jimmy/ |title=Who is Lana Del Rey's character 'Jimmy'?
+ |author=Aimee Ferrier |work=Far Out |date=March 16, 2023 |access-date=December 18, 2023 }}</ref>
+
+Kevin Rutherford of Radio.com remarked that "Ultraviolence" maintained the theme of songs previously released from the album; it "ups the lilting, low-tempo, strings-heavy form" Del Rey had established in her earlier work.<ref>{{cite web|last1=Rutherford|first1=Kevin|title=Listen to Lana Del Rey's Solemn, Strings-Heavy New Song 'Ultraviolence'|url=http://radio.com/2014/06/04/lana-del-rey-new-song-ultraviolence-listen/|website=Radio.com|access-date=June 5, 2014|date=June 4, 2014}}</ref> Sal Cinquemani of ''[[Slant Magazine]]'' described "Ultraviolence" as a "laconic, string-laden [[torch song]]".<ref>{{cite magazine|last1=Cinquemani|first1=Sal|title=Track Review: Lana Del Rey, "Ultraviolence"|url=https://www.slantmagazine.com/house/2014/04/track-review-lana-del-rey-ultraviolence|magazine=[[Slant Magazine]]|access-date=June 5, 2014|date=June 4, 2014}}</ref> A writer for the Music Times commented that the "violins, lightly thumping drums and Del Rey's angelic singing" gave the song a "[[Church music|church-y]]" feel, pointing out that the track presented her "title sound".<ref>{{cite web|title=REVIEW: Lana Del Rey Drops 'Ultraviolence' Title Track|url=https://www.musictimes.com/articles/6573/20140604/review-lana-del-rey-drops-ultraviolence-title-track.htm|website=Music Times|date=4 June 2014 |access-date=June 4, 2014}}</ref>
+
+== Critical reception ==
+{{Quote box|quote=She exalts a violent man on the title track, referencing [[the Crystals]]' 'He Hit Me (And It Felt Like a Kiss)'. It's harder still to listen knowing that Del Rey claims these situations are all true-to-life. 85% of domestic violence victims return to their abusers, submission is an ancient peccadillo, and there's no accounting for taste. But she conjures them with surface-level sadness worn like a shade of eyeshadow, which swiftly wears thin if you have no time for one-dimensional cads.|source=– ''[[NME]]'' on ''Ultraviolence''<ref>{{cite web|url=https://www.nme.com/reviews/lana-del-rey/15401|title=NME Reviews – Lana Del Rey – 'Ultraviolence'|work=[[NME]]|first=Laura|last=Snapes|date=June 16, 2014|access-date=February 10, 2015}}</ref>|align=right|width=20em|salign=yes}}
+Nolan Feeney of ''[[Time (magazine)|Time]]'' criticized the song for its glorification of [[domestic violence]], mentioning [[Lorde]]'s comment on Del Rey's music: "This sort of shirt-tugging, desperate, don't leave me stuff. That's not a good thing for young girls, even young people, to hear." However, Feeney also stated that Del Rey would "likely" not endorse the "screwed-up tales of vice and luxury" her character, Lana Del Rey, sings about.<ref>{{cite magazine|last1=Feeney|first1=Nolan|title=Does Lana Del Rey's New Song Glorify Domestic Violence?|url=https://time.com/2823016/lana-del-rey-ultraviolence-title-track/|magazine=[[Time (magazine)|Time]]|access-date=June 5, 2014|date=June 4, 2014}}</ref> While noting that Del Rey did not offer a positive or negative opinion on domestic violence, Harley Brown of ''[[Spin (magazine)|Spin]]'' said that the lyrics to the song could generate controversy, especially since Del Rey dismissed [[feminism]] in an interview with ''[[The Fader]]'', saying, "For me, the issue of feminism is just not an interesting concept. I'm more interested in, you know, [[SpaceX]] and [[Tesla Science Center at Wardenclyffe|Tesla]], what's going to happen with our intergalactic possibilities. Whenever people bring up feminism, I'm like, god. I'm just not really that interested."<ref>{{cite news|last1=Brown|first1=Harley|title=Listen to Lana Del Rey's Sweeping, Cinematic 'Ultraviolence'|url=https://www.spin.com/2014/06/lana-del-rey-ultraviolence-stream-title-track/|work=[[Spin (magazine)|Spin]]|date=4 June 2014 |access-date=June 5, 2014}}</ref><ref name="FaderCoverStory">{{cite web|last1=Cooper|first1=Duncan|title=Cover Story: Lana Del Rey Is Anyone She Wants to Be|url=https://www.thefader.com/2014/06/04/lana-del-rey-cover-interview/|work=[[The Fader]]|access-date=June 5, 2014|date=June 4, 2014}}</ref> By the end of 2014, ''NME'' named "Ultraviolence" the 32nd best song of the year.<ref>{{cite web|url=https://www.nme.com/photos/nme-s-top-50-tracks-of-2014/364505|title=NME's Top 50 Tracks Of 2014|work=NME|access-date=December 20, 2014}}</ref>
+
+== Music video ==
+A music video, shot entirely on an [[iPhone]] on the 8mm Vintage Camera app, was directed by [[Francesco Carrozzini]] and filmed on July 3, 2014 in [[Portofino]], Italy. In the video, Del Rey can be seen wearing a white wedding dress with a veil and a bouquet of flowers in her hands, wandering around an outside setting and later entering a church (Cappella di San Sebastiano). The video was released on July 30 by Noisey (''[[Vice (magazine)|Vice]]'').<ref>{{cite magazine|title=Watch Lana Del Rey's New Official Music Video, "Ultraviolence"|url=https://www.vice.com/en/article/lana-del-rey-ultraviolence-video-official/|magazine=[[Vice (magazine)|Vice]]|access-date=July 30, 2014|date=July 30, 2014}}</ref><ref>{{cite magazine|last1=Grow|first1=Kory|title=Lana Del Rey Plays a Bride Without a Groom in 'Ultraviolence' Video|url=https://www.rollingstone.com/music/videos/lana-del-rey-plays-a-bride-without-a-groom-in-ultraviolence-video-20140730|magazine=[[Rolling Stone]]|access-date=July 30, 2014|date=July 30, 2014}}</ref>
+
+== Live performances ==
+Del Rey premiered "Ultraviolence" as part of her set at the [[PNE Forum]] in [[Vancouver]], British Columbia, Canada on May 25, 2014.<ref>{{cite web|last1=Frydenlund|first1=Zach|title=Watch Lana Del Rey Debut "Ultraviolence" at Her Show in Vancouver|url=https://www.complex.com/music/2014/05/lana-del-rey-debuts-ultraviolence|website=Complex|access-date=June 4, 2014|date=May 27, 2014}}</ref>
+
+== Track listings ==
+*'''Digital download'''<ref name="USDigital">{{cite web|url=https://www.allmusic.com/album/release/ultraviolence-mr0004194349|title=Ultraviolence&nbsp;– Lana Del Rey (Interscope/Universal)|website=AllMusic|access-date=February 8, 2015}}</ref>
+#"Ultraviolence"&nbsp;– 4:41
+
+*'''Digital download (Hook N Sling Remix)'''<ref>{{cite web|url=https://music.apple.com/us/album/ultraviolence-hook-n-sling/965083608|title=iTunes – Music – Ultraviolence (Hook n Sling Remix)|date=15 February 2015 |publisher=iTunes Store (US)|url-status=live|archive-url=https://web.archive.org/web/20150301090445/https://itunes.apple.com/us/album/ultraviolence-hook-n-sling/id965083608|archive-date=March 1, 2015 }}</ref>
+#"Ultraviolence" ([[Hook N Sling]] Remix)&nbsp;– 5:29
+
+== Credits ==
+Credits adapted from the liner notes of ''Ultraviolence.''<ref>{{Cite AV media notes|title=Ultraviolence|year=2014|type=booklet| others= [[Lana Del Rey]] |publisher=[[Polydor Records]], [[Interscope Records]]| location=London, England; [[Santa Monica]], California}}</ref>
+
+'''Performance credits'''
+{{Div col}}
+*[[Lana Del Rey]] – vocals, [[Backing vocalist|background vocals]]
+*Alfreda McCrary Lee – background vocals
+*Ann McCrary – background vocals
+*Regina McCrary – background vocals
+{{Div col end}}
+
+'''Instruments'''
+{{Div col}}
+*Dan Auerbach – electric guitar
+*Collin Dupuis – [[Drum machine|drum programming]]
+*Seth Kaufman – electric guitar
+*Leon Michels – piano, mellotron
+*[[Nick Movshon]] – bass guitar
+*Russ Pahl – [[pedal steel guitar]]
+*Kenny Vaughan – electric guitar
+*Maximilian Weissenfeldt – drums
+{{Div col end}}
+
+'''Technical and production'''
+{{Div col}}
+*Dan Auerbach – production, [[Mixing engineer|mixing]]
+*John Davis – [[Mastering engineer|mastering]]
+*Collin Dupuis – engineering, mixing
+*[[Robert Orton (audio engineer)|Robert Orton]] – mixing
+{{Div col end}}
+
+== Charts ==
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Flanders Tip|34|artist=Lana Del Rey|song=Ultraviolence|rowheader=true|access-date=September 24, 2014}}
+|-
+{{single chart|Wallonia Tip|12|artist=Lana Del Rey|song=Ultraviolence|rowheader=true|access-date=September 24, 2014}}
+|-
+{{single chart|Canada|38|artist=Lana Del Rey|rowheader=true|access-date=June 12, 2014}}
+|-
+{{single chart|CIS|160|artist=Lana Del Rey|song=Ultraviolence|songid=58552|rowheader=true|access-date=April 19, 2021}}
+|-
+{{single chart|Czechdigital|59|year=2014|week=25|rowheader=true|access-date=July 3, 2014}}
+|-
+{{single chart|France|88|artist=Lana Del Rey|song=Ultraviolence|access-date=June 16, 2014|rowheader=true}}
+|-
+{{single chart|Billboardhot100|70|artist=Lana Del Rey|rowheader=true|access-date=June 12, 2014}}
+|}
+
+== Certifications ==
+{{Certification Table Top|caption=Certifications for "Ultraviolence"}}
+{{Certification Table Entry|type=single|region=Australia|artist=Lana Del Rey|title=Ultraviolence|award=Gold|certyear=2023|certmonth=9|relyear=2014|access-date=November 2, 2023}}
+{{Certification Table Entry|region=Brazil|title=Ultraviolence|artist=Lana Del Rey|type=single|award=Platinum|relyear=2014|certyear=2024|access-date=March 13, 2024}}
+{{Certification Table Entry|region=New Zealand|artist=Lana Del Rey|title=Ultraviolence|award=Gold|type=single|relyear=2014|certyear=2024|source=radioscope|access-date=January 15, 2025}}
+{{Certification Table Entry|type=single|region=United Kingdom|artist=Lana Del Rey|title=Ultraviolence|award=Gold|certyear=2025|relyear=2014|id=12849-3320-1|access-date=November 28, 2025}}
+{{Certification Table Entry|type=single|region=United States|artist=Lana Del Rey|title=Ultraviolence|award=Platinum|certyear=2023|relyear=2014|access-date=December 2, 2023}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+! scope="row"| Australia<ref>{{cite web|url=https://music.apple.com/au/album/ultraviolence-single/885788750|title=Ultraviolence – Single|date=January 2014 |publisher=[[iTunes Store]]. [[Apple Inc]]|location=Australia|url-status=live|archive-url=https://web.archive.org/web/20141207102447/https://itunes.apple.com/au/album/ultraviolence-single/id885788750|archive-date=December 7, 2014}}</ref>
+| rowspan="7"| June 4, 2014
+| rowspan="8"| Digital download
+| rowspan="6"| [[Interscope Records|Interscope]]
+|-
+! scope="row"| Belgium<ref>{{cite web|url=https://music.apple.com/be/album/ultraviolence-single/1445285722|title=Ultraviolence – Single|date=January 2014 |publisher=iTunes Store. Apple Inc|location=Belgium|access-date=December 16, 2014}}</ref>
+|-
+! scope="row"| Finland<ref>{{cite web|url=https://music.apple.com/be/album/ultraviolence-single/1445285722|title=Ultraviolence – Single|date=January 2014 |publisher=iTunes Store. Apple Inc|location=Finland|access-date=December 9, 2014}}</ref>
+|-
+! scope="row"| France<ref>{{cite web|url=https://music.apple.com/be/album/ultraviolence-single/1445285722|title=Ultraviolence – Single|date=January 2014 |publisher=iTunes Store. Apple Inc|location=France|access-date=December 9, 2014}}</ref>
+|-
+! scope="row"| Luxembourg<ref>{{cite web|url=https://music.apple.com/be/album/ultraviolence-single/1445285722|title=Ultraviolence – Single|date=January 2014 |publisher=iTunes Store. Apple Inc|location=Luxembourg|access-date=December 9, 2014}}</ref>
+|-
+! scope="row"| Netherlands<ref>{{cite web|url=https://nl.7digital.com/artist/lana-del-rey/release/ultraviolence-4/|title=Ultraviolence (2014)|publisher=[[7digital]] Netherlands|archive-url=https://web.archive.org/web/20141217163154/https://nl.7digital.com/artist/lana-del-rey/release/ultraviolence-4/|archive-date=December 17, 2014|language=nl}}</ref>
+|-
+! scope="row"| United States<ref name="USDigital"/>
+| {{flatlist|
+* Interscope
+* [[Universal Music|Universal]]
+}}
+|-
+! scope="row"| United Kingdom<ref>{{cite web|url=http://www.officialcharts.com/chart-news/this-weeks-new-releases-18-08-2014-3049/|title=This Week New Releases 18-08-2014|publisher=[[Official Charts Company]]|first=Daniel|last=Lane|date=August 18, 2014|access-date=December 16, 2014}}</ref>
+| August 18, 2014
+| rowspan="2"| [[Polydor Records|Polydor]]
+|-
+! scope="row"| Italy<ref>{{cite web|url=http://www.radioairplay.fm/RadioDate/PublicDetails/72453/|title=Lana Del Rey – Ultraviolence (Polydor)|publisher=Radio Airplay SRL|access-date=December 16, 2014|first=Giorgia|last=Aldi|url-status=dead|archive-url=https://web.archive.org/web/20141223010738/http://www.radioairplay.fm/RadioDate/PublicDetails/72453/|archive-date=December 23, 2014}}</ref>
+| October 3, 2014
+| [[Contemporary hit radio]]
+|}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://www.allmusic.com/song/ultraviolence-mt0049548400/lyrics "Ultraviolence" lyrics] at [[AllMusic]]
+
+{{Lana Del Rey songs}}
+{{Authority control}}
+
+[[Category:2010s ballads]]
+[[Category:2014 singles]]
+[[Category:2014 songs]]
+[[Category:Interscope Records singles]]
+[[Category:Lana Del Rey songs]]
+[[Category:Obscenity controversies in music]]
+[[Category:Rock ballads]]
+[[Category:Song recordings produced by Dan Auerbach]]
+[[Category:Songs about domestic violence]]
+[[Category:Songs written by Lana Del Rey]]
+[[Category:Torch songs]]
+[[Category:Works about Jonestown]]
+[[Category:Songs about romance]]

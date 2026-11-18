@@ -1,4 +1,4 @@
-import { competitionOn, chartWeekOf, lastTopTenWeek } from "./lib/competition.js";
+import { competitionOn, chartWeekOf, lastTopTenWeek, peerReleasesAround, strength } from "./lib/competition.js";
 
 const DATA = "../data/";
 const params = new URLSearchParams(location.search);
@@ -17,6 +17,7 @@ const state = {
   alt: null,         // {id, title, album_id, singles:[{song_id,date}]}
   sel: { lane: "alt", i: 0 },
   lookahead: 12,
+  peerWindow: 8,
 };
 
 async function j(path) {
@@ -29,7 +30,8 @@ function storeGet() { try { return JSON.parse(localStorage.getItem(STORE_KEY)); 
 function storeSet(v) { try { localStorage.setItem(STORE_KEY, JSON.stringify(v)); } catch { /* ignore */ } }
 
 async function load() {
-  const [album, hot100, index] = await Promise.all([j(`albums/${ALBUM_ID}.json`), j("charts/hot100.json"), j("eras/index.json")]);
+  const [album, hot100, index, peers] = await Promise.all([j(`albums/${ALBUM_ID}.json`), j("charts/hot100.json"), j("eras/index.json"), j("charts/peer_singles.json")]);
+  state.peers = peers;
   state.album = album;
   state.hot100 = hot100;
   state.artist = await j(`artists/${album.artist_id}.json`);
@@ -266,6 +268,12 @@ function renderCompetition() {
     <div class="section-title"><h2>In the top ten that week</h2></div>
     ${compRows(r.in_top_ten, r.chart_week)}
 
+    <div class="section-title"><h2>Released around the same time</h2>
+      <label class="field"><span>Window</span>
+        <select id="peerwin">${[4, 6, 8, 12].map((n) => `<option value="${n}" ${n === state.peerWindow ? "selected" : ""}>±${n} weeks</option>`).join("")}</select>
+      </label></div>
+    ${peerRows(peerReleasesAround(item.date, state.peers, { before: state.peerWindow, after: state.peerWindow, exclude: state.artist.name }), r)}
+
     <div class="section-title"><h2>Entering the top ten next</h2>
       <label class="field"><span>Look ahead</span>
         <select id="lookahead">${[4, 8, 12, 16, 20].map((n) => `<option value="${n}" ${n === state.lookahead ? "selected" : ""}>${n} weeks</option>`).join("")}</select>
@@ -275,7 +283,25 @@ function renderCompetition() {
     <div class="section-title"><h2>No. 1s in the window</h2></div>
     <div class="mono">${ones.map((w) => `${esc(w.title)} (${fmt(w.week)})`).join(" → ") || "—"}</div>
   `;
+  el.querySelector("#peerwin").addEventListener("change", (e) => { state.peerWindow = +e.target.value; renderCompetition(); });
   el.querySelector("#lookahead").addEventListener("change", (e) => { state.lookahead = +e.target.value; renderTimeline(); renderCompetition(); });
+}
+
+function peerRows(list, r) {
+  if (!list.length) return `<div class="empty">No charting peer singles released in this window.</div>`;
+  const counts = { high: 0, medium: 0, low: 0 };
+  list.forEach((s) => counts[strength(s.hot100_peak)]++);
+  const inTop = new Set([...r.in_top_ten, ...r.arriving_in_top_ten].map((s) => s.title.toLowerCase()));
+  return `<div class="strength-bar"><span class="sb high">${counts.high} top ten</span><span class="sb medium">${counts.medium} top 40</span><span class="sb low">${counts.low} lower</span></div>
+    <div class="tbl"><table class="comp"><thead><tr><th class="n">Hot 100 peak</th><th>Song</th><th>Artist</th><th>Released</th><th class="n">vs. yours</th><th>Strength</th></tr></thead><tbody>
+    ${list.map((s) => `<tr>
+      <td class="n">${s.hot100_peak}</td>
+      <td class="title">${esc(s.title)}${inTop.has(s.title.toLowerCase()) ? ' <span class="role">Top 10 table</span>' : ""}</td>
+      <td class="artist">${esc(s.artist)}${s.featuring ? ` <span class="mono">w/ ${esc(s.featuring)}</span>` : ""}</td>
+      <td class="mono">${fmt(s.release_date)}</td>
+      <td class="n">${s.weeks_from_release > 0 ? "+" : ""}${s.weeks_from_release}w</td>
+      <td><span class="status str-${strength(s.hot100_peak)}">${strength(s.hot100_peak)}</span></td>
+    </tr>`).join("")}</tbody></table></div>`;
 }
 
 function renderAll() { renderSingles(); renderTimeline(); renderCompetition(); }

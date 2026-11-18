@@ -1,0 +1,117 @@
+{{for|other songs named Root(s)|Root (disambiguation)#Songs}}
+{{Use mdy dates|date=October 2014}}
+{{Infobox song
+| name          = Roots
+| cover         = Imagine Dragons - Roots.png
+| alt           = 
+| type          = single
+| artist        = [[Imagine Dragons]]
+| album         = [[Evolve (Imagine Dragons album)|Evolve]] {{noitalic|(Japanese edition)}}
+| released      = {{Start date|2015|08|27
+}}
+| recorded      = 2015
+| studio        = 
+| venue         = 
+| length        = 2:54
+| label         = {{flatlist|
+* [[Alex da Kid|KIDinaKORNER]]
+* [[Interscope Records|Interscope]]
+}}
+| writer        = {{flatlist|
+* [[Ben McKee]]
+* [[Daniel Platzman]]
+* [[Dan Reynolds (musician)|Dan Reynolds]]
+* [[Wayne Sermon]]
+* {{nowrap|[[Alex da Kid]]}}
+}}
+| producer      = Alex da Kid
+| prev_title    = [[Shots (Imagine Dragons song)|Shots]]
+| prev_year     = 2015
+| next_title    = [[I Was Me]]
+| next_year     = 2015
+| misc          = {{External music video|{{YouTube|PscXGpsF3dY|"Roots"}}}}
+}}
+
+"'''Roots'''" is a song by American [[pop rock]] band [[Imagine Dragons]]. It was written by band members [[Ben McKee]], [[Daniel Platzman]], [[Dan Reynolds (musician)|Dan Reynolds]] and [[Wayne Sermon]] along with producer [[Alex da Kid]], and originally released as a non-album single, however it appears as a bonus track on the Japanese edition of their third studio album ''[[Evolve (Imagine Dragons album)|Evolve]]''. They performed the song for the first time on September 2, 2015, at their [[Melbourne, Australia]], show for the [[Smoke + Mirrors Tour]]. The music video was released on September 29, 2015, and was filmed in New Zealand. The song debuted atop the ''Billboard'' Rock Digital Songs chart.<ref>{{cite web|author=Billboard |url=https://www.billboard.com/pro/hot-100-chart-moves-tori-kelly-shouldve-been-us-vmas/ |title=Tori Kelly's 'Should've Been Us' Hits Hot 100 High After VMAs Performance: Hot 100 Chart Moves |publisher=Billboard |date=2015-10-09 |access-date=2017-05-05}}</ref>
+
+==Composition==
+Guitarist Wayne Sermon stated that the song was written on the road during their [[Smoke + Mirrors Tour]], and that it talks about the highs and lows of their lives as musicians. The short track features a distorted drum beat over a prominent piano riff. The track is dedicated to the support they have received from their fanbase.<ref>{{cite web|url=http://70mack.co/imagine-dragons-roots/|title=Imagine Dragons Release - Roots|work=70mack.co|date=December 7, 2018 }}</ref>
+
+==Music video==
+The music video for "Roots" was released on September 29, 2015. It was filmed in New Zealand, and directed by [[Matt Eastin]], who previously directed the video for "[[On Top of the World (Imagine Dragons song)|On Top of the World]]" and the [[Broiler (DJs)|Broiler]] remix of "[[Shots (Imagine Dragons song)|Shots]]".
+
+The video follows lead singer Dan Reynolds as he finds a way to escape, and remember who he is, during his hectic tour lifestyle. Throughout the video, home videos of a young Reynolds are shown ranging from infant to young adult.
+
+==Promotion==
+On August 19, 2015, Imagine Dragons began teasing the single when they changed their social profiles to all black, with the caption "My Roots". The social media post foreshadowed and promoted the impending release of "Roots". The next day, the band began posting pictures of themselves as children on social media with a hashtag (#MYROOTS). [[Twitter]] and [[Instagram]] users began submitting pictures of themselves when they were younger with the same hashtag. All pictures were used to form a collage.<ref>{{cite web|url=http://radio.com/2015/08/27/imagine-dragons-release-new-single-roots/|title=Imagine Dragons Release New Single "Roots"|work=Radio.com}}</ref> The single was released to [[iTunes]] on August 27, 2015.
+
+The single's artwork is by Louis Lander Deacon, who did the artwork for the band's 2012 EP, ''[[Continued Silence EP|Continued Silence]]''.
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Weekly chart performance for "Roots"
+|-
+! scope="col"| Chart (2015–2016)
+! scope="col"| Peak<br>position
+|-
+{{single chart|Billboardhot100|77|artist=Imagine Dragons|rowheader=true|access-date=September 21, 2015}}
+|-
+{{single chart|Billboardrocksongs|5|artist=Imagine Dragons|rowheader=true|access-date=September 21, 2015}}
+|-
+{{single chart|Billboardrockairplay|14|artist=Imagine Dragons|rowheader=true|access-date=January 23, 2022}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+2015 year-end chart performance for "Roots"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| US Hot Rock Songs (''Billboard'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2015/hot-rock-songs/|title=Hot Rock Songs – Year-End 2015|work=Billboard|archive-url=https://web.archive.org/web/20220406100817/https://www.billboard.com/charts/year-end/2015/hot-rock-songs/ |archive-date=April 6, 2022 |url-status=dead |access-date=October 19, 2025}}</ref>
+|57
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+2016 year-end chart performance for "Roots"
+|-
+! scope="col"| Chart (2016)
+! scope="col"| Position
+|-
+! scope="row"| US Hot Rock Songs (''Billboard'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2016/hot-rock-songs|title=Hot Rock Songs – Year-End 2016|work=Billboard|archive-url=https://web.archive.org/web/20190330151301/https://www.billboard.com/charts/year-end/2016/hot-rock-songs |archive-date=March 30, 2019 |url-status=dead |access-date=October 19, 2025}}</ref>
+|94
+|-
+! scope="row"| US Rock Airplay (''Billboard'')<ref>{{cite web|url=https://www.billboard.com/charts/year-end/2016/rock-airplay-songs|title=Rock Airplay Songs – Year-End 2016|work=Billboard|archive-url=https://web.archive.org/web/20180406225511/https://www.billboard.com/charts/year-end/2016/rock-airplay-songs |archive-date=April 6, 2018 |url-status=dead |access-date=October 19, 2025}}</ref>
+|49
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top|caption=Certifications for "Roots"}}
+{{Certification Table Entry|region=Brazil|artist=Imagine Dragons|title=Roots|type=single|award=Platinum|relyear=2015|certyear=2024|access-date=June 20, 2024}}
+{{Certification Table Entry|region=United States|artist=Imagine Dragons|title=Roots|award=Gold|type=single|relyear=2015|certyear=2021|access-date=September 1, 2021}}
+{{Certification Table Bottom|nosales=true|streaming=true | noshipments=true}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Music}}
+* [https://www.imaginedragonsmusic.com/home Imagine Dragons official website]
+
+{{Imagine Dragons songs}}
+{{Authority control}}
+
+[[Category:2015 singles]]
+[[Category:2015 songs]]
+[[Category:Imagine Dragons songs]]
+[[Category:Interscope Records singles]]
+[[Category:Universal Music Group singles]]
+[[Category:Songs written by Wayne Sermon]]
+[[Category:Songs written by Dan Reynolds (musician)]]
+[[Category:Songs written by Daniel Platzman]]
+[[Category:Songs written by Ben McKee]]

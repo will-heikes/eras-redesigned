@@ -1,0 +1,316 @@
+{{Short description|Band discography}}
+{{Infobox artist discography
+| Artist          = [[Fun (band)|Fun]]
+| Image           = Fun..jpg
+| Caption         = Lead singer [[Nate Ruess]] performing at [[Electric Ballroom]] in [[Camden, London]]
+| Alt             = A black-and-white photograph of a man holding up a microphone.
+| Studio          = 2
+| EP              = 7
+| Singles         = 11
+| Music videos    = 7
+}}
+
+The discography of American [[indie pop]] band [[Fun (band)|Fun]] consists of two [[studio album]]s, seven [[extended play]]s, 11 [[Single (music)|single]]s and seven [[music video]]s. Following the split of his previous band [[The Format]], lead singer [[Nate Ruess]] formed Fun in 2008 with musicians [[Andrew Dost]] and [[Jack Antonoff]], both of whom had previously toured with The Format.<ref>{{cite journal |url=https://www.spin.com/2008/08/members-format-steel-train-anathallo-unite-fun// |title=Members of the Format, Steel Train, Anathallo Unite as Fun |journal=[[Spin (magazine)|Spin]] |publisher=[[Spin Media]] |date=August 20, 2008 |accessdate=May 16, 2014 |author=Kiser, Matt}}</ref> Fun began recording sessions for their debut album in September 2008 and embarked on a North American tour the following month.<ref>{{cite web |url=http://www.jambase.com/Articles/14910/Steel-Train-Tour.New-Band |title=Members Of The Format, Anathallo & Steel Train Form New Band, Fun |publisher=JamBase |accessdate=May 16, 2014}}</ref> In May 2009, they issued their debut single, "At Least I'm Not as Sad (As I Used to Be)".<ref name="AtLeast"/> ''[[Aim and Ignite]]'', the band's first full-length album, was released by [[Nettwerk|Nettwerk Records]] on August 25, 2009, and peaked at number 71 on the United States [[Billboard 200|''Billboard'' 200]] chart.<ref name="AimAndIgnite"/><ref name="US-albums"/> The album produced an additional two singles, "All the Pretty Girls" and "Walking the Dog", which were then followed by the release of the single "C'mon", a collaboration with American [[alternative rock]] band [[Panic! at the Disco]].
+
+The band's single "[[We Are Young]]", featuring American R&B singer [[Janelle Monáe]], was released in September 2011, beginning a steady rise in popularity after gaining attention on online media and being covered on the television series ''[[Glee (TV series)|Glee]]''.<ref name="Cover">{{cite magazine |url=http://www.billboard.com/articles/news/502945/fun-the-billboard-cover-story |title=Fun.: The Billboard Cover Story |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=March 2, 2012 |accessdate=May 16, 2014 |author=Zemler, Emily}}</ref><ref>{{cite web|url=http://www.musicradar.com/news/guitars/interview-fun-s-nate-ruess-on-writing-and-recording-we-are-young-536774/ |title=Interview: Fun.'s Nate Ruess on writing and recording We Are Young |publisher=[[MusicRadar]] |date=March 27, 2012 |accessdate=May 16, 2014 |author=Bosso, Joe}}</ref> It debuted on the [[Billboard Hot 100|''Billboard'' Hot 100]] in December, becoming the band's first single to enter a national record chart.<ref name="Chevy">{{cite magazine |url=http://www.billboard.com/biz/articles/news/branding/1099054/how-funs-we-are-young-scored-chevys-stunt-anthem-super-bowl-spot |title=How fun.'s 'We Are Young' Scored Chevy's 'Stunt Anthem' Super Bowl Spot |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=February 5, 2012 |accessdate=May 16, 2014 |author=Hampp, Andrew}}</ref> The song's use in a [[Chevrolet Sonic (2012)|Chevrolet Sonic]] [[Super Bowl]] commercial further increased sales of the song,<ref name="Chevy"/> and it eventually topped the Hot 100 and hit the top ten in multiple other countries,<ref name="US-singles"/> including Canada,<ref name="CAN-singles"/> Ireland,<ref name="IRL-singles"/> and the United Kingdom.<ref name="UK-singles"/> It has become one of the [[List of best-selling singles|best-selling singles of all-time]], with sales of over 9.3 million copies.<ref>{{cite web |url=http://www.ifpi.org/content/library/DMR2013.pdf |title=Digital Music Report 2013 |publisher=[[International Federation of the Phonographic Industry]] |date=February 26, 2013 |accessdate=February 26, 2013 |archive-url=https://web.archive.org/web/20130927190016/http://www.ifpi.org/content/library/dmr2013.pdf |archive-date=September 27, 2013 |url-status=dead }}</ref> The band's second studio album, ''[[Some Nights (album)|Some Nights]]'', was released by [[Fueled by Ramen]] on February 21, 2012; it debuted at number three on the ''Billboard'' 200 and received a platinum certification from the [[Recording Industry Association of America]] (RIAA).<ref name="US-albums"/><ref name="RIAA"/> [[Some Nights (song)|The album's title track]] was released as its second single and peaked at number three on the Hot 100, while also reaching the top ten on other national singles charts.<ref name="US-singles"/> "[[Carry On (Fun song)|Carry On]]", "Why Am I the One", and "All Alone" followed as the next three singles from ''Some Nights''.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions, sales figures and certifications
+! scope="col" rowspan="2" style="width:10em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Sales
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Billboard 200}} |title=Fun. – Chart History: Billboard 200 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=August 3, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Fun. |title=Discography Fun. |work=australian-charts.com |publisher=Hung Medien |accessdate=May 28, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web |url=http://austriancharts.at/showinterpret.asp?interpret=Fun. |title=Discographie Fun. |work=austriancharts.at |publisher=Hung Medien |accessdate=May 28, 2012 |language=German}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CAN-albums">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Canadian Albums}} |title=Fun. – Chart History: Canadian Albums |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=August 3, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web | url=https://lescharts.com/showinterpret.asp?interpret=Fun%2E | title=Discographie Fun | work=lescharts.com | publisher=Hung Medien | access-date=July 22, 2021 | language=fr}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Irish Albums Chart|IRL]]<br /><ref name="IRL">{{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=Fun. |archive-url=https://web.archive.org/web/20160304142546/http://irish-charts.com/showinterpret.asp?interpret=Fun. |url-status=dead |archive-date=March 4, 2016 |title=Discography Fun. |work=irish-charts.com |publisher=Hung Medien |accessdate=May 28, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[MegaCharts|NL]]<br/><ref name="NL">{{cite web|url=https://dutchcharts.nl/showinterpret.asp?interpret=Fun%2E |title=Discografie Fun |publisher=Dutch Charts Portal. Hung Medien (Steffen Hung)|accessdate=July 20, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Recording Industry Association of New Zealand|NZ]]<br /><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=Fun. |title=Discography Fun. |work=charts.nz |publisher=Hung Medien |accessdate=May 28, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web |url=http://swedishcharts.com/showinterpret.asp?interpret=Fun. |title=Discography Fun. |work=swedishcharts.com |publisher=Hung Medien |accessdate=September 30, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK-albums">{{cite web |url=http://www.officialcharts.com/artist/_/fun/ |title=Fun |publisher=[[Official Charts Company]] |accessdate=May 28, 2012 |format=select "Albums" tab}}</ref>
+|-
+! scope="row"| ''[[Aim and Ignite]]''
+|
+* Released: August 25, 2009<ref name="AimAndIgnite">{{cite web |url=https://www.amazon.com/Aim-and-Ignite-Explicit/dp/B0045EA1P6 |title=Aim and Ignite [Explicit]: Fun. |website=Amazon |accessdate=December 12, 2012}}</ref>
+* Label: [[Nettwerk]]
+* Formats: [[Compact Disc|CD]], [[Gramophone record|LP]], [[Music download|digital download]]
+| 71 || — || — || — || — || — || — || — || — || —
+|
+* US: 74,000<ref>{{cite web |url=https://tv.yahoo.com/news/fun-finds-success-thanks-bhasker-super-bowl-135221845.html |title=Fun. finds success thanks to Bhasker, Super Bowl |work=[[Yahoo! Music]] |publisher=[[Yahoo!]] |date=March 2, 2012 |accessdate=May 16, 2014 |author=Fekadu, Mesfin}}</ref>
+|
+|-
+! scope="row"| ''[[Some Nights (album)|Some Nights]]''
+|
+* Released: February 21, 2012<ref>{{cite web |url=http://www.allmusic.com/album/some-nights-mw0002287703 |title=Some Nights – Fun. |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=December 12, 2012 |author=Sendra, Tim}}</ref>
+* Label: [[Fueled by Ramen]]
+* Formats: CD, LP, digital download
+| 3 || 2 || 11 || 5 || 37 || 8 || 29 || 3 || 36 || 4
+|
+* Worldwide: 4,000,000<ref>{{cite magazine |url=http://www.billboard.com/articles/news/6458539/is-fun-done |title=Is Fun. Done? |last=Lynch |first=Joe |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=February 5, 2015 |accessdate=February 5, 2015}}</ref>
+|
+* [[Recording Industry Association of America|RIAA]]: 3× Platinum<ref name="RIAA">{{cite web |title=Gold & Platinum: Fun. |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=FUN.#search_section |accessdate=November 4, 2022 |publisher=[[Recording Industry Association of America]]}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Platinum<ref name="ARIA-2013-albums">{{cite web|url=http://www.aria.com.au/pages/httpwww.aria.com.aupagesALBUMaccreds2012.htm |title=ARIA Charts – Accreditations – 2012 Albums |publisher=[[Australian Recording Industry Association]] |accessdate=May 16, 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20140205035631/http://www.aria.com.au/pages/httpwww.aria.com.aupagesALBUMaccreds2012.htm |archivedate=February 5, 2014 }}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name="BPI">{{cite web |url=http://www.bpi.co.uk/certified-awards/search.aspx |title=Certified Awards Search |publisher=[[British Phonographic Industry]] |accessdate=September 22, 2012 |format=To access, enter the search parameter "Fun" and select "Search by Keyword" |archivedate=August 1, 2017 |archiveurl=https://web.archive.org/web/20170801142929/http://www.bpi.co.uk/certified-awards/Search.aspx |url-status=deviated }}</ref>
+* [[Swedish Recording Industry Association|GLF]]: Gold<ref>{{cite web|url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=54&dfom=0000000&newi=0&height=784&platform=Win32&browser=Firefox&navi=no&subframe=Mainframe |title=Veckolista Album – Vecka 37, 14 september 2012 |publisher=[[Sverigetopplistan]] |accessdate=September 14, 2012 |archiveurl=https://web.archive.org/web/20130703123614/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=54&dfom=0000000&newi=0&height=784&platform=Win32&browser=Firefox&navi=no&subframe=Mainframe |archivedate=3 July 2013 |language=Swedish |url-status=dead }}</ref>
+* [[Irish Recorded Music Association|IRMA]]: Platinum<ref>{{cite web |url=http://www.irishcharts.ie/awards/platinum12.htm |archive-url=https://web.archive.org/web/20130927172638/http://www.irishcharts.ie/awards/platinum12.htm |url-status=dead |archive-date=September 27, 2013 |title=2012 Certification Awards – Platinum |publisher=[[Irish Recorded Music Association]] |accessdate=May 16, 2014}}</ref>
+* [[Music Canada|MC]]: Platinum<ref name="MC">{{cite certification |region=Canada |artist=Fun. |accessdate=November 2, 2012}}</ref>
+* [[Recorded Music NZ|RMNZ]]: 3× Platinum<ref>{{cite certification|region=New Zealand|artist=Fun|type=album|source=radioscope|access-date=May 25, 2025}}</ref>
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Details
+! scope="col" colspan="4"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard charts|US<br />Alt.]]<br /><ref name="US-Alternative-albums">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Alternative Albums}} |title=Fun. – Chart History: Alternative Albums |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=July 20, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard charts|US<br />Rock]]<br /><ref name="US-Rock-albums">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Rock Albums}} |title=Fun. – Chart History: Rock Albums |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=May 28, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[UK Album Downloads Chart|UK<br />DL]]<br /><ref name="UK-albums" />
+|-
+! scope="row"| ''Fun. Live at Fingerprints''
+|
+* Released: April 12, 2010<ref>{{cite web |url=https://www.amazon.com/Live-at-Fingerprints-Fun/dp/B00383XZ2Q |title=Live at Fingerprints |website=Amazon |accessdate=August 19, 2012}}</ref>
+* Label: Nettwerk
+* Formats: CD
+| — || — || — || —
+|-
+! scope="row"| ''Nova's Red Room Presents Fun.''
+|
+* Released: February 21, 2012<ref>{{cite web |url=https://music.apple.com/au/album/novas-red-room-presents-fun/669029969 |title=Nova's Red Room Presents Fun. (Live) – EP by Fun. |work=[[iTunes Store]] |date=21 February 2012 |publisher=[[Apple Inc.|Apple]] |access-date=December 12, 2012}}</ref>
+* Label: Fueled by Ramen
+* Format: Digital download
+| — || — || — || —
+|-
+! scope="row"| ''The Ghost That You Are to Me''
+|
+* Released: April 21, 2012<ref>{{cite web |url=http://www.allmusic.com/album/the-ghost-that-you-are-to-me-mw0002349252 |title=The Ghost That You Are To Me – Fun. |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=May 16, 2014}}</ref>
+* Label: Fueled by Ramen
+* Format: [[Gramophone record|10"]]
+| — || — || — || —
+|-
+! scope="row"| ''iTunes Session''
+|
+* Released: December 10, 2012<ref>{{cite web |url=https://music.apple.com/us/album/itunes-session/581761955 |title=iTunes Session by Fun. |work=[[iTunes Store]] |date=10 December 2012 |publisher=[[Apple Inc.|Apple]] |access-date=December 12, 2012}}</ref>
+* Label: Fueled by Ramen
+* Format: Digital download
+| 143 || 16 || 27 || 86
+|-
+! scope="row"| ''Selections & B-Sides from Aim & Ignite''
+|
+* Released: March 7, 2013<ref>{{cite journal |url=http://www.altpress.com/news/entry/fun._release_free_download_of_aim_ignite_b_sides |title=fun. release free download of 'Aim & Ignite' b-sides |journal=[[Alternative Press (music magazine)|Alternative Press]] |publisher=Alternative Press Magazine, Inc. |date=March 7, 2013 |accessdate=May 16, 2014 |author=Common, Tyler |archive-url=https://web.archive.org/web/20170308153238/http://www.altpress.com/news/entry/fun._release_free_download_of_aim_ignite_b_sides |archive-date=March 8, 2017 |url-status=dead }}</ref>
+* Label: Fueled by Ramen
+* Format: Digital download
+| — || — || — || —
+|-
+! scope="row"| ''Before Shane Went to Bangkok: Live in the USA''
+|
+* Released: December 18, 2013<ref>{{cite magazine |url=https://www.rollingstone.com/music/news/fun-ask-what-the-f-ck-on-free-live-ep-20131218 |title=Fun. Ask 'What the F*ck' on Free Live EP |magazine=[[Rolling Stone]] |publisher=[[Jann Wenner|Wenner Media]] |date=December 18, 2013 |accessdate=May 16, 2014 |author=Grow, Kory}}</ref>
+* Label: Fueled by Ramen
+* Format: Digital download, [[Gramophone record|12"]]
+| — || — || — || —
+|-
+! scope="row"| ''Point and Light''
+|
+* Released: April 19, 2014<ref>{{cite web |url=http://www.ournameisfun.com/post/80258535740/point-light-10-out-april-19th |title=Point & Light 10" out April 19th |publisher=OurNameIsFun.com |accessdate=May 16, 2014 |archive-url=https://web.archive.org/web/20140417022818/http://www.ournameisfun.com/post/80258535740/point-light-10-out-april-19th |archive-date=April 17, 2014 |url-status=dead }}</ref>
+* Label: Nettwerk
+* Format: 10"
+| — || — || — || —
+|-
+| colspan="6" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:22em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Hot 100}} |title=Fun. – Chart History: Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=August 3, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS-singles">Peak chart positions for singles in Australia:
+* All except "Why Am I the One": {{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=Fun. |title=Discography Fun. |work=australian-charts.com |publisher=Hung Medien |accessdate=May 28, 2012}}
+* "Why Am I the One": {{cite web |url=http://www.aria.com.au/Issue1203.pdf |archive-url=https://webarchive.nla.gov.au/awa/20130318130100/http://pandora.nla.gov.au/pan/23790/20130319-0001/Issue1203.pdf |url-status=dead |archive-date=2013-03-18 |title=The ARIA Report: Issue 1203 (Week Commencing 18 March 2013) |publisher=[[Australian Recording Industry Association]] |accessdate=April 8, 2013 |page=4 }}{{cbignore|bot=medic}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT"/>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN-singles">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Billboard Canadian Hot 100}} |title=Fun. – Chart History: Billboard Canadian Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=August 3, 2012}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-singles">Peak chart positions for singles in Italy:
+* All except noted: {{cite web |url=https://italiancharts.com/showinterpret.asp?interpret=Fun%2E |title=Discography Fun. |work=italiancharts.com |publisher=Hung Medien |accessdate=December 20, 2021}}
+* "Carry On": {{cite web|url=http://www.musicaedischi.it/mdonline_login_classifiche.php?ref=/classifiche.php |title=Musica&Dischi Italian Singles Chart Top 50 |publisher=Musica & Dischi |language=Italian |date=2 January 2013 |accessdate=2013-01-23 |archiveurl=https://web.archive.org/web/20160315101139/http://chartbusters.forumfree.it/?t=61418268 |archivedate=15 March 2016 |url-status=dead}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRL-singles">Peak chart positions for singles in Ireland:
+* "We Are Young" and "Some Nights": {{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=Fun. |title=Discography Fun. |work=irish-charts.com |publisher=Hung Medien |accessdate=May 28, 2012 }}
+* "Carry On": {{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2012&year=2012&week=48 |title=Top 100 Singles, Week Ending 29 November 2012 |publisher=[[Chart-Track]] |accessdate=May 16, 2014 |archive-url=https://www.webcitation.org/6JNJvIn1C?url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2012&year=2012&week=48 |archive-date=4 September 2013 |url-status=dead }}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Japan Hot 100|JPN]]<br /><ref name="Japan-Hot-100">{{cite magazine |url=https://www.billboard.com/artist/fun/chart-history/jpn/ |title=Fun. – Chart History: Japan Hot 100 |magazine=[[Billboard (magazine)|Billboard]] |accessdate=July 20, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Mexico Airplay|MEX]]<br /><ref name="Mexico">{{cite magazine |url=https://www.billboard.com/artist/fun/chart-history/mex/ |title=Fun. – Chart History: Mexico Airplay |magazine=[[Billboard (magazine)|Billboard]] |accessdate=July 20, 2021}}</ref>
+! scope="col" style="width:2.5em;font-size:85%;"| [[Recording Industry Association of New Zealand|NZ]]<br /><ref name="NZ"/>
+! scope="col" style="width:2.5em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK-singles">Peak chart positions for singles in the United Kingdom:
+* "We Are Young" and "Some Nights": {{cite web |url=http://www.officialcharts.com/artist/_/fun/ |title=Fun |publisher=[[Official Charts Company]] |accessdate=August 10, 2012}}
+* "Carry On": {{cite web |url=http://www.zobbel.de/cluk/CLUK2012.HTM |title=Chart Log UK – 2012 + Weekly Updates + Sales 2012 |publisher=Zobbel.de |accessdate=February 10, 2013 |author=Zywietz, Tobias}}
+* "Why Am I the One": {{cite web |url=http://www.zobbel.de/cluk/130223cluk.txt |title=Chart: CLUK Update 23.02.2013 (wk7) |publisher=Zobbel.de |accessdate=February 23, 2013 |author=Zywietz, Tobias}}</ref>
+|-
+! scope="row"| "At Least I'm Not as Sad (As I Used to Be)"<ref name="AtLeast">{{cite web |url=https://www.amazon.com/gp/product/B0026EAWSI/ |title=At Least I'm Not As Sad (As I Used To Be): fun. |publisher=[[Amazon.com]] |accessdate=May 16, 2014}}</ref>
+| rowspan="2"| 2009
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2"| ''Aim and Ignite''
+|-
+! scope="row"| "All the Pretty Girls"<ref>{{cite web |url=http://www.allmusic.com/album/all-the-pretty-girls-mw0002081468 |title=All the Pretty Girls – Fun. |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=May 16, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Believe in Me"<ref>{{cite web |url=https://itunes.apple.com/us/album/believe-in-me-single/id395298507 |archive-url=https://web.archive.org/web/20101103221132/http://itunes.apple.com/us/album/believe-in-me-single/id395298507 |url-status=dead |archive-date=November 3, 2010 |title=Believe In Me – Single by Fun. |work=[[iTunes Store]] |date=22 December 2009 |publisher=[[Apple Inc.|Apple]] |accessdate=August 2, 2012}}</ref>
+| rowspan="2"| 2010
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''A Winter's Night 2011''
+|-
+! scope="row"| "Walking the Dog"<ref>{{cite web |url=http://www.allmusic.com/album/walking-the-dog-4-tracks-mw0002309189 |title=Walking the Dog [4 Tracks] – Fun. |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=May 16, 2014}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="1"| ''Aim and Ignite''
+|-
+! scope="row"| "C'mon"<ref>{{cite web |url=https://music.apple.com/us/album/cmon-with-fun-single/435861781 |title=C'Mon (with Fun.) – Single by Panic! At the Disco |work=[[iTunes Store]] |date=17 May 2011 |publisher=[[Apple Inc.|Apple]] |access-date=August 2, 2012}}</ref><br /><span style="font-size:85%;">(with [[Panic! at the Disco]])</span>
+| rowspan="2"| 2011
+| —{{efn|group=upper-alpha|"C'mon" did not enter the ''Billboard'' Hot 100, but peaked at number 12 on the [[Hot Singles Sales]] chart.<ref name="Singles-Sales">{{cite magazine |url=https://www.billboard.com/music/fun./chart-history/hot-singles-sales |archive-url=https://web.archive.org/web/20210721003458/https://www.billboard.com/music/fun./chart-history/hot-singles-sales |url-status=dead |archive-date=July 21, 2021 |title=Fun Chart History: Hot Singles Sales |magazine=Billboard |access-date=July 20, 2021}}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+| {{n/a|non-album single}}
+|-
+! scope="row"| "[[We Are Young]]"<br /><span style="font-size:85%;">(featuring [[Janelle Monáe]])</span>
+| 1 || 1 || 1 || 1 || 2 || 1 || 5 || 1 || 2 || 1
+|
+* RIAA: Diamond<ref name="RIAA"/>
+* ARIA: 7× Platinum<ref name=ARIA-2020-Singles>{{cite certification|region=Australia|type=single|certyear=2020|access-date=24 April 2021}}</ref>
+* BPI: 4× Platinum<ref name="BPI"/>
+* GLF: 4× Platinum<ref>{{cite web|url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=41&dfom=20120829&newi=0&mode=list&navi=no&platform=macppc&browser=firefox |title=Veckolista Album - Vecka 36, 7 September 2012 |publisher=[[Sverigetopplistan]] |accessdate=September 9, 2012 |archiveurl=https://web.archive.org/web/20130720074712/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=41&dfom=20120829&newi=0&mode=list&navi=no&platform=macppc&browser=safari |archivedate=20 July 2013 |language=Swedish |url-status=dead }}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] AUT: Platinum<ref name="IFPI AUT">{{cite certification |region=Austria |artist=Fun |accessdate=July 26, 2012}}</ref>
+* MC: Diamond<ref name="MC"/>
+* RMNZ: 6× Platinum<ref>{{cite certification|region=New Zealand|type=single|source=radioscope|title=We Are Young|access-date=November 17, 2026}}</ref>
+| rowspan="5"| ''Some Nights''
+|-
+! scope="row"| "[[Some Nights (song)|Some Nights]]"
+| rowspan="2"| 2012
+| 3 || 1 || 6 || 4 || 9 || 6 || 69 || 49 || 1 || 7
+|
+* RIAA: 7× Platinum<ref name="RIAA"/>
+* ARIA: 7× Platinum<ref name="ARIA-2020-Singles"/>
+* BPI: Platinum<ref name="BPI"/>
+* GLF: Platinum<ref>{{cite web|url=http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=41&dfom=20120829&newi=0&mode=list&navi=no&platform=macppc&browser=firefox |title=Veckolista Album - Vecka 36, 7 September 2012 |publisher=[[Sverigetopplistan]] |accessdate=September 9, 2012 |archiveurl=https://web.archive.org/web/20130720074712/http://www.hitlistan.se/netdata/ghl002.mbr/lista?liid=41&dfom=20120829&newi=0&mode=list&navi=no&platform=macppc&browser=safari |archivedate=20 July 2013 |language=Swedish |url-status=dead }}</ref>
+* IFPI AUT: Gold<ref name="IFPI AUT"/>
+* MC: 5× Platinum<ref name="MC"/>
+* RMNZ: 4× Platinum<ref>{{cite certification|region=New Zealand|type=single|source=radioscope|title=Some Nights|access-date=January 24, 2026}}</ref>
+|-
+! scope="row"| "[[Carry On (Fun song)|Carry On]]"
+| 20 || 44 || — || 18 || 26 || 46 || 93 || —{{efn|group=upper-alpha|"Carry On" did not enter the [[Mexico Airplay]] chart, but peaked at number one on the [[Mexico Ingles Airplay]] chart.<ref name="Mexico-Ingles">{{cite magazine|url=https://www.billboard.com/artist/fun/chart-history/min/ |title=Fun Chart History: Mexican Ingles Airplay |magazine=Billboard |accessdate=July 20, 2021}}</ref>}} || 28 || 126
+|
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* MC: Platinum<ref name="MC"/>
+* RMNZ: Platinum<ref>{{cite certification|region=New Zealand|type=single|source=radioscope|title=Carry On|access-date=May 25, 2025}}</ref>
+|-
+! scope="row"| "Why Am I the One"
+| rowspan="2"| 2013
+| — || 57 || — || — || — || — || — || — || — || 169
+|
+|-
+! scope="row"| "All Alone"<ref>{{cite web |url=http://www.officialcharts.com/chart-news/this-weeks-new-releases-13-05-2013-2217/ |title=This week's new releases 13-05-2013 |publisher=[[Official Charts Company]] |date=May 12, 2013 |accessdate=May 16, 2014 |author=Lane, Daniel}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Sight of the Sun"<ref>{{cite web |url=https://music.apple.com/us/album/sight-of-the-sun-single/828941867 |title=Sight of the Sun - Single by Fun. |work=[[Apple Music]] |publisher=[[Apple Inc.|Apple]] |accessdate=December 22, 2021}}</ref>
+| 2014
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[Girls (TV series)|Girls, Vol. 1]]''
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:15em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Rock Songs|US<br />Rock]]<br /><ref name="US-Rock-singles">{{cite magazine |url={{BillboardURLbyName|artist=fun.|chart=Rock Songs}} |title=Fun. – Chart History: Hot Rock Songs |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=August 3, 2012}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Indie Chart|UK<br />Indie]]<br /><ref name="UK-singles" />
+|-
+! scope="row"| "[[Sleigh Ride]]"
+| 2012
+| 48
+| 13
+| ''[[Holidays Rule]]''
+|-
+! scope="row"| "[[We Are Young]]" (iTunes Session)<br /><span style="font-size:85%;">(featuring [[Janelle Monáe]])</span>
+| 2013
+| —{{efn|group=upper-alpha|"We Are Young" (iTunes Session) did not enter the [[Hot Rock & Alternative Songs]] chart, but peaked at number 47 on the [[Billboard charts#Rock|Rock Digital Song Sales]] chart.<ref name="US-Rock-Digital">{{cite magazine|url=https://www.billboard.com/artist/fun/chart-history/rkt/|title=Fun Chart History: Rock Digital Song Sales|magazine=Billboard|access-date=July 20, 2021}}</ref>}}
+| —
+| ''iTunes Session''
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Other appearances==
+*"Please Leave a Light On When You Go" (featured on ''[[Song Reader]]'')
+
+==Music videos==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col" style="width:15em;"| Title
+! scope="col"| Year
+! scope="col" style="width:16em;"| Director(s)
+|-
+! scope="row"| "All the Pretty Girls"
+| 2009
+| [[Isaac Rentz]]<ref>{{cite web |url=http://www.mtv.com/videos/fun/445113/all-the-pretty-girls.jhtml |archive-url=https://web.archive.org/web/20120128234858/http://www.mtv.com/videos/fun/445113/all-the-pretty-girls.jhtml |url-status=dead |archive-date=January 28, 2012 |title=All the Pretty Girls {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=May 28, 2012}}</ref>
+|-
+! scope="row"| "Walking the Dog"
+| 2010 
+| Skinny<ref>{{cite web |url=http://www.mtv.com/videos/fun/571270/walking-the-dog.jhtml |archive-url=https://web.archive.org/web/20120111101803/http://www.mtv.com/videos/fun/571270/walking-the-dog.jhtml |url-status=dead |archive-date=January 11, 2012 |title=Walking the Dog {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=May 28, 2012}}</ref>
+|-
+! scope="row"| "We Are Young"<br /><span style="font-size:85%;">(featuring [[Janelle Monáe]])</span>
+| 2011
+| [[Marc Klasfeld]]<ref>{{cite web |url=http://www.mtv.com/videos/fun/719494/we-are-young-featuring-janelle-monae.jhtml |archive-url=https://web.archive.org/web/20120108010021/http://www.mtv.com/videos/fun/719494/we-are-young-featuring-janelle-monae.jhtml |url-status=dead |archive-date=January 8, 2012 |title=We Are Young (Featuring Janelle Monae) {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=May 28, 2012}}</ref>
+|-
+! scope="row"| "Some Nights (Intro)"
+| rowspan="3"| 2012
+| [[Poppy de Villeneuve]]<ref>{{cite web |url=http://www.nettwerk.com/news/funs-some-nights-out-today-band-perform-tbs-conan-tonight |title=fun.'s 'Some Nights' Out Today; Band To Perform On TBS' Conan Tonight! |publisher=[[Nettwerk]] |date=February 21, 2012 |accessdate=May 28, 2012 |archive-url=https://web.archive.org/web/20120222070440/http://nettwerk.com/news/funs-some-nights-out-today-band-perform-tbs-conan-tonight |archive-date=February 22, 2012 |url-status=dead }}</ref>
+|-
+! scope="row"| "Some Nights"
+| rowspan="2"| [[Anthony Mandler]]<ref>{{cite web |url=http://www.mtv.com/videos/fun/787203/some-nights.jhtml |archive-url=https://web.archive.org/web/20120606221642/http://www.mtv.com/videos/fun/787203/some-nights.jhtml |url-status=dead |archive-date=June 6, 2012 |title=Some Nights {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=June 6, 2012}}</ref><ref>{{cite web |url=http://www.mtv.com/videos/fun/862338/carry-on.jhtml |archive-url=https://web.archive.org/web/20130131051546/http://www.mtv.com/videos/fun/862338/carry-on.jhtml |url-status=dead |archive-date=January 31, 2013 |title=Carry On {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=May 16, 2014}}</ref>
+|-
+! scope="row"| "Carry On"
+|-
+! scope="row"| "Why Am I the One"
+| 2013
+| Jordan Bahat<ref>{{cite web |url=http://www.mtv.com/videos/fun/941191/why-am-i-the-one.jhtml |archive-url=https://web.archive.org/web/20130807090224/http://www.mtv.com/videos/fun/941191/why-am-i-the-one.jhtml |url-status=dead |archive-date=August 7, 2013 |title=Why Am I the One? {{!}} fun. {{!}} Music Video |work=[[MTV]] |publisher=[[Viacom Media Networks]] |accessdate=May 16, 2014}}</ref>
+|-
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist|3}}
+
+==External links==
+* [https://web.archive.org/web/20200325130739/http://ournameisfun.com/ Official website]
+* [http://www.allmusic.com/artist/fun-mn0002129441 Fun] at [[AllMusic]]
+* {{Discogs artist |artist=Fun. |name=Fun}}
+* {{MusicBrainz artist |id=136c4166-85b3-4994-aa04-59857c434199 |name=Fun}}
+
+{{Fun}}
+
+[[Category:Discographies of American artists]]
+[[Category:Alternative rock discographies]]
+[[Category:Rock music group discographies]]
+[[Category:Fun (band)|Discography]]

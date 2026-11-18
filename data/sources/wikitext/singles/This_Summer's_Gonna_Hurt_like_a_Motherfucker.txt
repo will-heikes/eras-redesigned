@@ -1,0 +1,383 @@
+{{short description|2015 song by American pop band Maroon 5}}
+{{Infobox song
+| name       = This Summer's Gonna Hurt Like a Motherfucker
+| cover      = This Summer's Gonna Hurt cover.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Maroon 5]]
+| album      = [[V (Maroon 5 album)|V]] (Deluxe Edition)
+| released   = {{Start date|2015|05|15}}
+| recorded   = April 2015
+| studio     = 
+* [[MXM Studios]]<br />([[Stockholm]], [[Sweden]])
+* [[Conway Recording Studios|Conway Studios]] and<br />[[Henson Recording Studios|Henson Studios]]<br />([[Los Angeles, California]])
+| venue      =
+| genre      = 
+* [[Synth-pop]]<ref name="Rolling Stone">{{cite magazine|url=https://www.rollingstone.com/music/videos/hear-maroon-5s-list-of-insults-in-this-summers-gonna-hurt-20150515|title=Hear Maroon 5's List of Insults in 'This Summer's Gonna Hurt'|magazine=Rolling Stone|date=15 May 2015|access-date=31 October 2015|archive-date=17 May 2015|archive-url=https://web.archive.org/web/20150517123950/http://www.rollingstone.com/music/videos/hear-maroon-5s-list-of-insults-in-this-summers-gonna-hurt-20150515|url-status=live}}</ref>
+* [[synth-rock]]<ref name="Fuse Tv">{{cite web|url=http://www.fuse.tv/2015/05/maroon-5-new-song-this-summers-gonna-hurt-like-a-motherfucker|title=Maroon 5 Are Synth-Rock Stars on Foul-Mouthed New Single|work=Fuse TV|access-date=December 21, 2015}}</ref>
+| length     = 3:44
+| label      = 
+* [[222 Records|222]]
+* [[Interscope Records|Interscope]]
+| writer     = 
+* [[Adam Levine]]
+* [[Shellback (record producer)|Shellback]]
+| producer   = Shellback
+| prev_title = [[Sugar (Maroon 5 song)|Sugar]]
+| prev_year  = 2015
+| next_title = [[Feelings (Maroon 5 song)|Feelings]]
+| next_year  = 2015
+| misc       = {{External music video|1=[https://www.youtube.com/watch?v=Wa64gOwuIyE "This Summer Gonna's Hurt Like a Motherfucker"] on [[YouTube]]<br />[https://www.youtube.com/watch?v=RKhFumkKVzA "This Summer" (Clean)] on [[YouTube]]|header=Music videos}}
+}}
+"'''This Summer's Gonna Hurt Like a Motherfucker'''" (also known as "'''This Summer's Gonna Hurt…'''" or titled/shortened to "'''This Summer'''" and censored as "'''This Summer's Gonna Hurt Like a Motherf***er'''" for its single release)<ref>{{cite web|url=https://itunes.apple.com/gb/album/this-summer-single/id1015520729|archive-url=https://web.archive.org/web/20150724103428/https://itunes.apple.com/gb/album/this-summer-single/id1015520729|url-status=dead|archive-date=July 24, 2015|title=This Summer – Single|work=iTunes}}</ref> is a song by the American rock band [[Maroon 5]]. As the fourth single from the band's fifth studio album ''[[V (Maroon 5 album)|V]]'' (2014), on May 15, 2015, it was included on the album's deluxe reissue version.<ref>{{cite web|url=https://music.apple.com/us/album/v-deluxe/1422651829|title=V (Deluxe) by Maroon 5|work=iTunes|date=2 September 2014|access-date=16 March 2025|archive-date=5 May 2026|archive-url=https://ghostarchive.org/archive/bKKXc|url-status=live}}</ref> Musically, the song has been described as having a "[[Synth-pop|synthpop]] sound",<ref name="Rolling Stone" /> while incorporating an [[arena rock]] style.<ref>{{cite web|url=http://www.axs.com/maroon-5-new-single-this-summer-s-gonna-hurt-packs-a-punch-54958|title=Maroon 5 new single 'This Summer's Gonna Hurt' packs a punch|work=AXS|access-date=November 19, 2015}}</ref> Critical reception for the song was generally positive, with many critics appreciating the song as a fun live track and a catchy summer anthem, though some found it a bit generic or formulaic.
+
+== Background ==
+On May 5, 2015, it was rumored that Maroon 5 were to release a brand new single titled "This Summer's Gonna Hurt" on May 26, to [[radio airplay]].<ref>{{cite web|url=https://www.billboard.com/music/music-news/social-media-the-song-of-the-summer-and-a-sea-of-maroon-5-6568801/|title=Social Media, the Song of the Summer and a Sea of Maroon 5|magazine=Billboard|last=Ross|first=Sean|date=May 19, 2015|access-date=May 6, 2026|archive-date=July 24, 2025|archive-url=https://web.archive.org/web/20250724165907/https://www.billboard.com/music/music-news/social-media-the-song-of-the-summer-and-a-sea-of-maroon-5-6568801/|url-status=live}}</ref> The following day, it was confirmed by [[Billboard (magazine)|''Billboard'' magazine]] in an article stating that "This Summer's Gonna Hurt" would be released ahead of the band's upcoming reissue deluxe of their album ''[[V (Maroon 5 album)|V]]'' (2014) and will follow the band's previous single "[[Sugar (Maroon 5 song)|Sugar]]".<ref>{{cite magazine|url=https://www.billboard.com/pro/wiz-khalifa-tops-hot-100-t-wayne/|title=Wiz Khalifa Tops Hot 100, T-Wayne Whips Into Top 10|magazine=Billboard|last=Trust|first=Gary|access-date=May 9, 2015|archive-date=May 8, 2015|archive-url=https://web.archive.org/web/20150508184108/http://www.billboard.com/articles/columns/chart-beat/6554093/wiz-khalifa-tops-hot-100-t-wayne|url-status=live}}</ref> On May 11, 2015, the band officially announced that the single would be released on May 15,<ref>{{cite web|author=((Maroon 5))|url=https://twitter.com/maroon5/status/598240191095013376|title=Tell all your friends! #ThisSummerM5 will be available this Friday, May 15th on @iTunesMusic!|work=[[Twitter]]|date=May 11, 2015|access-date=May 11, 2015|archive-date=October 28, 2020|archive-url=https://web.archive.org/web/20201028141050/https://twitter.com/maroon5/status/598240191095013376|url-status=live}}</ref> and on mainstream radio May 19.<ref name=radiosingle />
+
+== Chart performance ==
+During the May 17–23 tracking week, "This Summer's Gonna Hurt" received approximately 4,216 pop radio spins. That earned it the number 22 position on Mediabase's official pop radio airplay chart. The following week, "Summer" leveraged only two days of airplay to debut at number 35 on the official pop chart. "This Summer's Gonna Hurt" also reached the top 25 at hot adult contemporary radio. After debuting at number 44, the song jumped to number 23 on its second week, after receiving 1,457 tracking week spins.<ref>{{cite magazine|url=http://headlineplanet.com/home/2015/05/24/maroon-5s-this-summers-gonna-hurt-vaults-into-pop-radios-top-25/|title=Maroon 5's "This Summer's Gonna Hurt" is now a Top 25 hit at pop and Hot AC radio|magazine=Billboard|date=24 May 2015|access-date=May 27, 2015}}</ref><ref>{{cite magazine|url=http://www.inquisitr.com/2118685/maroon-5s-this-summer-s-gonna-hurt-confusing-lyrics-won-t-stop-airplay-on-pop-radio/|title=Maroon 5's 'This Summer's Gonna Hurt' Confusing Lyrics Won't Stop Its Airplay On Pop Radio|magazine=Billboard|access-date=May 27, 2015}}</ref> After peaking at number 23, the song became the band's first official single release in five years to miss the top 10 of the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{cite web|url=http://www.inquisitr.com/2286199/maroon-5s-this-summers-gonna-hurt-fails-to-perform/|title=Maroon 5's 'This Summer's Gonna Hurt' Fails To Perform|work=The Inquisitr News|date=27 July 2015 }}</ref>
+
+== Music video ==
+
+=== Background ===
+The official music video for the song was filmed during a live concert at [[Wembley Arena|SSE Arena Wembley]] on May 28, 2015 and was shot in black-and-white. It was directed by Travis Schneider and Adam Levine. According to Schneider, the video was inspired by the music videos, "[[I Want Love]]" by [[Elton John]] and "[[Queer (song)|Queer]]" by [[Garbage (band)|Garbage]].<ref>{{cite magazine|url=https://ew.com/article/2015/06/01/maroon-5-this-summers-gonna-hurt/|title=The secrets (and inspirations) of Maroon 5's 'This Summer's Gonna Hurt' video|magazine=[[Entertainment Weekly]]|last=O'Donnell|first=Kevin|date=June 1, 2015|access-date=August 30, 2020|archive-date=February 12, 2021|archive-url=https://web.archive.org/web/20210212031634/https://ew.com/article/2015/06/01/maroon-5-this-summers-gonna-hurt/|url-status=live}}</ref>
+
+The video for the song was released without promo on May 30. In the video there is a scene where Levine's buttocks are fully exposed. Because of this in the video there is a content warning and the requirement that viewers sign in (to verify their age).<ref>{{cite web|url=http://entertainment.inquirer.net/171369/watch-adam-levine-goes-butt-naked-in-new-music-video|title=Watch: Adam Levine goes butt naked in new music video|work=inquirer.net|date=31 May 2015}}</ref> It was eventually released on the band's [[YouTube]] channel on June 2, without the content.<ref>{{cite web|url=https://www.youtube.com/watch?v=Wa64gOwuIyE|title=Maroon 5 – This Summer's Gonna Hurt Like A Motherf****r (Explicit) (Official Music Video)|work=[[YouTube]]|date=June 2, 2015}}</ref> A clean version of the video was released on June 12, 2015. While most of the scene are retained from the original music video, the scenes about nudity, kissing and his mouth speaking [[profanity]] has been covered by different [[emoji]]s, while the word "fucker" has been replaced by "AHA" instead of [[Bleep censor|bleeping the sounds]].<ref>{{cite web|url=https://www.youtube.com/watch?v=RKhFumkKVzA|title=Maroon 5 – This Summer's Gonna Hurt Like A MotherF****r (Clean) (Official Music Video) (Official Music Video)|work=YouTube|date=June 12, 2015}}</ref>
+
+=== Synopsis ===
+[[File:Screenshot 20210821-215018 YouTube Music.png|thumb|Adam Levine presented in a cloakroom when he's getting ready for the show.]]
+The video starts with Adam Levine coming out of the bathroom and going to the cloakroom. After dressing up there, he starts to walk in the corridor. He takes to the stage where the audience greets him and the group performs the song live. When the performance ends the group members descend the stage and go to sit in their cars to go.
+
+=== Reception ===
+The music video was received with positive response from most critics. Daniel Kreps of ''[[Rolling Stone]]'' wrote humorously that the video is revealing for two reasons; "First, it offers a candid look at life on tour through the eyes of Adam Levine as the viewer journeys with the singer from the dressing room to backstage to the edge of the catwalk at a massive arena. Secondly, the video is revealing because Levine flashes some unexpected nudity".<ref>{{cite magazine|last1=Kreps|first1=Daniel|title=Maroon 5 Drop Revealing 'This Summer's Gonna Hurt' Video|url=https://www.rollingstone.com/music/videos/maroon-5-drop-revealing-this-summers-gonna-hurt-video-20150531|access-date=May 31, 2015|magazine=[[Rolling Stone]]|date=May 31, 2015|archive-date=June 1, 2015|archive-url=https://web.archive.org/web/20150601221541/http://www.rollingstone.com/music/videos/maroon-5-drop-revealing-this-summers-gonna-hurt-video-20150531|url-status=live}}</ref> Vimal Esvaren of ''The Record Blog'' explained: "Another run-of-the-mill concert video, it is told from the perspective of frontman Levine as he leaves the shower, gets ready, goes on stage, performs and gets in a car out of the stadium with the rest of his bandmates. And in between all that he moons viewers for the extra shock factor".<ref>{{cite web|last1=Esvaren|first1=Vimal|url=http://therecordblog.blogspot.com/2015/06/music-video-review-maroon-5-this.html|title=Music Video Review: Maroon 5 – This Summer's Gonna Hurt Like A Motherfucker|work=The Record Blog|date=June 6, 2015|access-date=June 6, 2015}}</ref>
+
+=== Circuit Jerks video ===
+A music video for the song's remix version performed by Circuit Jerks and created by Kidmograph. The video was released on July 31, 2015, by [[Samsung]] and later [[YouTube]] on January 25, 2016.<ref>{{cite web|url=http://www.maroon5.com/news/check-out-circuit-jerks-remix-video-summer-exclusively-samsung-users|title=Check Out The Circuit Jerks Remix Video For "This Summer", Exclusively For Samsung Users|work=Maroon 5.com|date=July 31, 2015|access-date=May 19, 2019|url-status=dead|archive-url=https://web.archive.org/web/20150803200420/http://www.maroon5.com/news/check-out-circuit-jerks-remix-video-summer-exclusively-samsung-users|archive-date=August 3, 2015}}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=vBsoV4qm73w|title=Maroon 5 – This Summer (Circuit Jerks Remix)|work=YouTube|date=25 January 2016 }}</ref> The version also appeared on the group's [[Extended play|EP]] titled ''EP1'' (2016).<ref name="Circuit Jerks Remix" />
+
+== Live performances ==
+On May 19, 2015, Maroon 5 performed a clean version of the song during the finale of the [[The Voice (American season 8)|eighth season]] of ''[[The Voice (American TV series)|The Voice]]''.<ref>{{cite news|last1=Mink|first1=Casey|title=Maroon 5 Crushes 'This Summer's Gonna Hurt' On 'The Voice' Finale|url=https://hollywoodlife.com/2015/05/19/maroon-5-performance-the-voice-finale-season-8/|work=[[Hollywood Life]]|date=May 19, 2015|access-date=November 4, 2018|archive-date=November 4, 2018|archive-url=https://web.archive.org/web/20181104125903/https://hollywoodlife.com/2015/05/19/maroon-5-performance-the-voice-finale-season-8/|url-status=live}}</ref> Afterwards, the band also performed with the song as an encore for their worldwide concert tour, the [[Maroon V Tour]].
+
+== Track listing ==
+{{col-begin}}
+{{col-2}}
+'''CD Single'''<ref>{{cite web |title=Maroon 5 – This Summer |url=https://www.discogs.com/release/7305247-Maroon-5-This-Summer |website=Discogs |date=31 July 2015 |access-date=23 November 2022}}</ref>
+# "This Summer's Gonna Hurt Like a Motherfucker" ― 3:44
+# "Sugar (Remix)" ― 3:55
+'''Digital download'''
+# "This Summer's Gonna Hurt Like a Motherfucker" – 3:44
+{{col-2}}
+'''Digital download – Clean'''
+# "This Summer" (Clean) – 3:44
+'''Digital download – Circuit Jerks Remix'''<ref name="Circuit Jerks Remix" />
+# "This Summer" (Circuit Jerks Remix) – 3:54
+{{col-end}}
+
+== Credits and personnel ==
+All credits adapted from the liner notes.<ref name="credits" />
+;Maroon 5
+* [[Adam Levine]] – lead vocals, songwriting
+* [[Jesse Carmichael]] – guitar, gang vocals
+* [[Mickey Madden]] – bass
+* [[James Valentine (musician)|James Valentine]] – guitar, gang vocals
+* [[Matt Flynn (musician)|Matt Flynn]] – drums, percussion
+* [[PJ Morton]] – keyboards, gang vocals
+;Session musicians 
+* [[Shellback (record producer)|Shellback]] – songwriting, producer, programming, additional guitar, bass, keyboards, gang vocals
+* [[Sam Farrar]] – gang vocals
+
+;Additional personal
+* Noah "Mailbox" Passovoy – engineer
+* Sam Holland – assistant engineer
+* Corey Bice – assistant engineer
+* Emerson Day – assistant engineer
+* Ben Sedano – assistant engineer
+* Serban Ghenea – mixer
+* John Hanes – engineered for mix
+* Tim Roberts – assistant engineered for mix
+* Tom Coyne – mastering
+
+'''Recording'''<ref name="credits">{{Cite AV media notes |title=[[V (Maroon 5 album)|V]] |type=album liner notes|others=[[Maroon 5]] |year=2015 |publisher=[[222 Records]], [[Interscope Records]]}}</ref>
+* Recorded at: [[MXM Studios]], Stockholm, Sweden, and at [[Conway Recording Studios|Conway Studios]] and [[Henson Recording Studios|Henson Studios]], [[Los Angeles]], California
+* Mixed by at MixStar Studios, [[Virginia Beach, Virginia]], United States
+* Mastered at Sterling Sound, New York City, New York, United States
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+<!--- DO NOT ADD THE SOUTH KOREA DOWNLOAD CHART. THE OFFICIAL CHART IS THE DIGITAL CHART WHICH IS ALREADY HERE. --->
+<!--- DO NOT ADD UNRELIABLE CHARTS! PLEASE SEE [[WP:CHARTS]] BEFORE ADDING A CHART. THANK YOU! --->
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+{{sronly|Weekly chart performance}}
+! Chart (2015)
+! Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.noise11.com/news/aria-singles-taylor-swift-bad-blood-spends-second-week-at-no-1-20150606|title=ARIA Singles: Taylor Swift Bad Blood Spends Second Week At No 1|publisher=Noise11|last=Ryan|first=Gavin|date=June 6, 2015|access-date=June 6, 2015|archive-date=October 19, 2020|archive-url=https://web.archive.org/web/20201019173848/http://www.noise11.com/news/aria-singles-taylor-swift-bad-blood-spends-second-week-at-no-1-20150606|url-status=live}}</ref>
+| 70
+|-
+{{single chart|Austria|38|artist=Maroon 5|song=This Summer|rowheader=true|access-date=July 15, 2015}}
+|-
+{{single chart|Flanders Tip|2|artist=Maroon 5|song=This Summer|rowheader=true|access-date=June 19, 2015}}
+|-
+{{single chart|Wallonia Tip|3|artist=Maroon 5|song=This Summer|rowheader=true|access-date=June 19, 2015}}
+|-
+!scope="row"| Bulgaria ([[International Federation of the Phonographic Industry|IFPI]])<ref name=Bulgaria>{{cite web|url=http://www.bamp-bg.org/2009-07-08-09-48-53/nielsen/526-30032015-05042015.html|title=Airplay Top5 – 30 March 2015 – 05.04.2015|publisher=[[Bulgarian Association of Music Producers]]|access-date=April 10, 2015|archive-url=https://web.archive.org/web/20150830042953/http://www.bamp-bg.org/2009-07-08-09-48-53/nielsen/526-30032015-05042015.html|archive-date=August 30, 2015|url-status=dead}}</ref>
+| 4
+|-
+{{single chart|Canada|16|artist=Maroon 5|rowheader=true|access-date=May 28, 2015}}
+|-
+{{single chart|Billboardcanadaac|28|artist=Maroon 5|rowheader=true|access-date=October 7, 2016}}
+|-
+{{single chart|Billboardcanadachrtop40|11|artist=Maroon 5|rowheader=true|access-date=June 3, 2015}}
+|-
+{{single chart|Billboardcanadahotac|16|artist=Maroon 5|rowheader=true|access-date=October 7, 2016}}
+|-
+{{single chart|CIS|4|song=This Summers Gonna Hurt Like A Motherf****R|artist=Maroon 5|songid=65285|access-date=12 August 2019|rowheader=true}}
+|-
+{{single chart|Czech Republic|39|year=2015|week=24|rowheader=true|access-date=June 17, 2015}}
+|-
+{{single chart|Czechdigital|21|year=2015|week=23|rowheader=true|access-date=June 9, 2015}}
+|-
+{{single chart|Denmark|40|artist=Maroon 5|song=This Summer|rowheader=true|access-date=July 25, 2015}}
+|-
+{{single chart|Finland|16|artist=Maroon 5|song=This Summer's Gonna Hurt Like A Motherf****r|rowheader=true|access-date=July 27, 2026}}
+|-
+{{single chart|Finnishairplay|1|artist=Maroon 5|song=This Summer’S Gonna Hurt|rowheader=true|access-date=July 27, 2026}}
+|-
+{{single chart|France|69|artist=Maroon 5|song=This Summer|rowheader=true|access-date=June 6, 2015}}
+|-
+{{single chart|Germany|45|artist=Maroon 5|song=This Summer|songid=1428654|rowheader=true|access-date=October 19, 2018}}
+|-
+{{single chart|Hungaryradio|36|year=2015|week=29|rowheader=true|access-date=July 24, 2015}}
+|-
+{{single chart|Hungarysingle|30|year=2015|week=25|rowheader=true|access-date=June 25, 2015}}
+|-
+{{single chart|Hungarystream|22|year=2015|week=26|rowheader=true|access-date=October 16, 2026}}
+|-
+{{single chart|Ireland|46|year=2015|week=34|rowheader=true|access-date=August 21, 2015}}
+|-
+{{single chart|Italy|31|artist=Maroon 5|song=This Summer|rowheader=true|access-date=August 1, 2015}}
+|-
+!scope="row"|Italian Airplay ([[EarOne]])<ref>{{cite web|url=https://earone.com/song/be4defcb08|title=This Summer's Gonna Hurt Like a Motherf****r - Maroon 5|language=it|publisher=[[EarOne]]|access-date=July 15, 2026}}</ref>
+| 7
+|-
+! scope="row"| Lebanon ([[The Official Lebanese Top 20|OLT 20]])<ref name="The Official Lebanese Top 20">{{cite web|url= http://www.olt20.com/Charts#&panel1-4|title= The Official Lebanese Top 20|publisher= [[The Official Lebanese Top 20]]|access-date= February 27, 2015}}</ref>
+| 6
+|-
+! scope="row"| Lebanon English ([[The Official Lebanese Top 20|OLT 20]])<ref name="The Official Lebanese Top 20" />
+| 3
+|-
+! scope="row"| Mexico Ingles Airplay (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine| url = http://www.billboard.com/biz/charts/2015-07-11/mexico-ingles| magazine = [[Billboard (magazine)|Billboard]]| title = Mexico Ingles Airplay| access-date = 2015-08-22| archive-date = 2016-08-29| archive-url = https://web.archive.org/web/20160829063615/http://www.billboard.com/biz/charts/2015-07-11/mexico-ingles| url-status = live}}</ref>
+| 1
+|-
+{{single chart|Dutch40|30|artist=Maroon 5|song=This Summer|rowheader=true|access-date=July 3, 2015}}
+|-
+{{single chart|Dutch100|39|artist=Maroon 5|song=This Summer|rowheader=true|access-date=June 19, 2015}}
+|-
+{{single chart|Norway|37|artist=Maroon 5|song=This Summer|rowheader=true|access-date=July 3, 2015}}
+|-
+{{single chart|Poland|16|chartid=1722|year=2015|rowheader=true|access-date=August 24, 2015}}
+|-
+{{single chart|Russiaradio|7|artist=Maroon 5|song=This Summers Gonna Hurt Like A Motherf****R|date=20150717-20150723|access-date=June 13, 2025|rowheader=true}}
+|-
+{{single chart|Scotland|13|date=2015-08-21|rowheader=true|access-date=August 21, 2015}}
+|-
+{{single chart|Slovakia|55|year=2015|week=24|rowheader=true|access-date=June 17, 2015}}
+|-
+{{single chart|Slovakdigital|22|year=2015|week=23|rowheader=true|access-date=June 9, 2015}}
+|-
+! scope="row"| Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=35|title=SloTop50 – Slovenian official singles chart|publisher=slotop50.si|access-date=May 15, 2018}}</ref>
+| 36
+|-
+! scope="row"| South Korea International Chart ([[Gaon Digital Chart|Gaon]])<ref name="skic2">{{cite web |url=http://gaonchart.co.kr/main/section/chart/album.gaon?termGbn=week&hitYear=2015&targetTime=22&nationGbn=E |title=Gaon Chart |publisher=[[Gaon Music Chart|Gaon]] |access-date=May 28, 2015 |language=ko}}</ref>
+| 38
+|-
+{{single chart|Sweden|52|artist=Maroon 5|song=This Summer|rowheader=true|access-date=June 11, 2015}}
+|-
+{{single chart|Switzerland|56|artist=Maroon 5|song=This Summer|rowheader=true|access-date=August 2, 2015}}
+|-
+{{single chart|UK|40|date=2015-08-21|rowheader=true|access-date=August 21, 2015}}
+|-
+{{single chart|Ukraineradio|10|artist=Maroon 5|song=This Summers Gonna Hurt Like A Motherf****R|date=20150724-20150730|access-date=June 16, 2025|rowheader=true}}
+|-
+{{single chart|Billboardhot100|23|artist=Maroon 5|accessdate=June 11, 2015|rowheader=true}}
+|-
+{{single chart|Billboardadultcontemporary|21|artist=Maroon 5|access-date=July 9, 2015|rowheader=true}}
+|-
+{{single chart|Billboardadultpopsongs|7|artist=Maroon 5|access-date=July 9, 2015|rowheader=true}}
+|-
+{{single chart|Billboarddanceairplay|19|artist=Maroon 5|access-date=July 14, 2015|rowheader=true}}
+|-
+{{single chart|Billboardpopsongs|10|artist=Maroon 5|access-date=June 18, 2015|rowheader=true}}
+|-
+! scope="row"| Venezuela Pop General ([[Record Report]])<ref name=RecordReport>{{cite web |url=http://www.recordreport.com.ve/publico/pop/ |title=Pop Rock |publisher=[[Record Report]] |date=July 17, 2015|access-date=July 17, 2015|archive-date=July 8, 2014 |url-status=live |archive-url=https://web.archive.org/web/20140708034946/http://www.recordreport.com.ve/publico/pop/ |language=es}}</ref>
+| 19
+|-
+! scope="row"| Venezuela Pop Rock General ([[Record Report]])<ref name=RecordReport />
+| 5
+|-
+! scope="row"| Venezuela Top Anglo ([[Record Report]])<ref>{{cite web |url=http://national-report.com/forms/init100s.php |title=Record Report – Top Anglo |work=[[Record Report]] |publisher=R.R. Digital C.A. |date=July 17, 2015 |access-date=July 17, 2015 |archive-url=https://web.archive.org/web/20130512120212/http://national-report.com/forms/init100s.php |archive-date=May 12, 2013 |language=es |url-status=dead }}</ref>
+| 6
+|}
+
+{{col-2}}
+
+=== Year-end charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+{{sronly|Annual chart rankings}}
+! Chart (2015)
+! Position
+|-
+! scope="row"| Canada (Canadian Hot 100)<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100|title=Canadian Hot 100 : Jan 22, 2016|magazine=Billboard|access-date=March 7, 2016|archive-date=December 11, 2015|archive-url=https://web.archive.org/web/20151211223836/http://www.billboard.com/charts/year-end/2015/canadian-hot-100|url-status=live}}</ref>
+| 84
+|-
+! scope="row"| CIS (Tophit)<ref>{{cite web|url=https://tophit.ru/en/chart/airplay/yearly/2015-01-01/all/all|title=CIS Year-End Radio Hits (2015)|publisher=[[Tophit]]|access-date=12 August 2019|archive-date=2019-08-12|archive-url=https://web.archive.org/web/20190812094718/https://tophit.ru/en/chart/airplay/yearly/2015-01-01/all/all|url-status=dead}}</ref>
+|style="text-align:center;"| 49
+|-
+! scope="row"| Russia Airplay (Tophit)<ref>{{cite web|url=https://tophit.ru/en/chart/russia/yearly/2015-01-01/all/all|title=Russian Top Year-End Radio Hits (2015)|publisher=[[Tophit]]|access-date=12 August 2019|archive-date=2019-08-09|archive-url=https://web.archive.org/web/20190809085302/https://tophit.ru/en/chart/russia/yearly/2015-01-01/all/all|url-status=dead}}</ref>
+|style="text-align:center;"| 53
+|-
+! scope="row"| Ukraine Airplay (Tophit)<ref>{{cite web|url=https://tophit.ru/en/chart/ukraine/yearly/2015-01-01/all/all|title=Ukrainian Top Year-End Radio Hits (2015)|publisher=[[Tophit]]|access-date=12 August 2019|archive-date=2019-08-12|archive-url=https://web.archive.org/web/20190812093109/https://tophit.ru/en/chart/ukraine/yearly/2015-01-01/all/all|url-status=dead}}</ref>
+|style="text-align:center;"| 60
+|-
+! scope="row"| US Adult Top 40 (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2015/adult-pop-songs|title=Adult Pop Songs : Jan 22, 2016|magazine=Billboard|access-date=March 7, 2016|archive-date=December 14, 2015|archive-url=https://web.archive.org/web/20151214195902/http://www.billboard.com/charts/year-end/2015/adult-pop-songs|url-status=live}}</ref>
+| 44
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Brazil|artist=Maroon 5|title=This Summer |award=Platinum|type=single|relyear=2015|certyear=2024|access-date=May 2, 2024}}
+{{Certification Table Entry|region=Denmark|award=Gold|id=10704|certyear=2021|title=This Summer's Gonna Hurt Like A Motherf****r|artist=Maroon 5|type=single|relyear=2015|access-date=October 26, 2021}}
+{{Certification Table Entry|region=Italy|award=Gold|certyear=2015|certweek=35|title=This Summer's Gonna Hurt Like A Motherf****r|artist=Maroon 5|type=single|relyear=2015|access-date=September 7, 2015}}
+{{Certification Table Entry|region=Poland|type=single|artist=Maroon 5|title=This Summer's Gonna Hurt like a Motherfucker|award=Platinum|certyear=2015|relyear=2015|access-date=December 16, 2015}}
+{{Certification Table Entry|region=United States|type=single|artist=Maroon 5|title=This Summer's Gonna Hurt like a Motherf*****r|award=Platinum|certyear=2018|relyear=2015|access-date=December 21, 2018}}
+{{Certification Table Bottom|streaming=true | noshipments=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Version
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| Various
+| May 15, 2015
+| [[Music download|Digital download]]
+| {{hlist|Original|clean}}
+| rowspan="4"| {{hlist|[[222 Records|222]]|[[Interscope Records|Interscope]]}}
+| align="center"|
+|-
+! scope="row"| United States
+| May 19, 2015
+| [[Contemporary hit radio]]
+| Clean
+| align="center"| <ref name=radiosingle>{{cite web|archive-url=https://web.archive.org/web/20150518134641/http://www.allaccess.com/top40-mainstream/future-releases |url=http://www.allaccess.com/top40-mainstream/future-releases |title=Top 40/M Future Releases – Mainstream Hit Songs Being Released and Their Release Dates |archive-date=May 18, 2015 |access-date=May 19, 2019 |work=AllAccess Music Group |url-status=dead}}</ref>
+|-
+! scope="row"| Germany
+| July 31, 2015
+| [[CD single|CD]]
+| {{hlist|Original|"[[Sugar (Maroon 5 song)|Sugar]]" Remix featuring [[Nicki Minaj]]}}
+| align="center"| <ref>{{cite web|url=https://www.discogs.com/Maroon-5-This-Summer/release/7305247|title=Maroon 5 – This Summer|work=[[Discogs]]|date=July 31, 2015}}</ref>
+|-
+! scope="row"| Various
+| September 9, 2016
+| Digital download
+| Circuit Jerks Remix
+| align="center"| <ref name="Circuit Jerks Remix">{{cite web|url=https://music.apple.com/us/album/ep1/id1445044704|title=EP1 by Circuit Jerks|work=[[Apple Music]] (US)|access-date=June 18, 2020}}</ref>
+|-
+|}
+
+== Maroon 5 vs. Alesso version ==
+{{Infobox song
+| name       = This Summer <br /> (Maroon 5 vs. Alesso)
+| cover      = Maroon 5 vs Alesso - This Summer.jpg
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Maroon 5]] vs. [[Alesso]]
+| album      =
+| released   = {{Start date|2015|06|29}}
+| recorded   = June 2015
+| studio     =
+| venue      =
+| genre      = [[Progressive house]]
+| length     = {{duration|m=3|s=11}}
+| label      = {{hlist|[[222 Records|222]]|[[Interscope Records|Interscope]]}}
+| writer     = {{hlist|[[Adam Levine]]|[[Shellback (record producer)|Shellback]]}}
+| producer   = {{hlist|Shellback|[[Alesso]]}}
+| chronology = [[Alesso]]
+| prev_title = [[Sweet Escape]]
+| prev_year  = 2015
+| next_title = Anthem
+| next_year  = 2016
+| misc = {{External music video
+| 1 = {{YouTube|_OMJvOPHYkE|This Summer (Maroon 5 vs. Alesso)}}
+| header = Audio video
+| type = single
+}}
+}}
+A progressive house version of the song remixed by Swedish [[Record producer|producer]] [[Alesso]], was released on June 29, 2015 on [[iTunes]]. The version which was credited as Maroon 5 vs. Alesso.<ref>{{cite web|url=https://popcrush.com/maroon-5-this-summers-gonna-hurt-alesso/|title=Alesso Remixes Maroon 5's 'This Summer's Gonna Hurt'|work=[[PopCrush]]|last=Szubiak|first=Ali|date=June 30, 2015|access-date=June 30, 2020}}</ref>
+
+=== Background ===
+Alesso explained: {{cquote|I heard this record and I had to do a version. It's just one of those records you have to turn up so loud it hurts. It's the record of the summer for me!” It looks like Maroon 5 felt the same way about working with the “[[Heroes (We Could Be)]]” hitmaker.<ref name=M5withAlessoCollab>{{cite web|url=https://www.idolator.com/7598677/maroon-5-this-summer-hurt-mother-alesso-remix|archive-url=https://archive.today/20151117130409/http://www.idolator.com/7598677/maroon-5-this-summer-hurt-mother-alesso-remix|url-status=dead|archive-date=November 17, 2015|title=Maroon 5's "This Summer's Gonna Hurt Like A MotherF****r Gets A Massive Alesso Remix: Listen|work=[[Idolator (website)|Idolator]]|last=Wass|first=Mike|date=June 29, 2015|access-date=June 30, 2020}}</ref>}} Adam Levine also explained about the collaboration of Alesso: {{cquote|“We are big fans of Alesso's and were thrilled to hear that he would do a remix of the song. We are both friends with [producer] Shellback and have mutual respect for each other so it was cool to be able to collaborate on something together like this.”<ref name=M5withAlessoCollab />}}
+
+=== Live performances ===
+On June 20, 2015, Alesso debut the version for the first time at [[Electric Daisy Carnival|EDC]] festival in [[Las Vegas]], [[Nevada]].<ref>{{cite web|url=https://weraveyou.com/2015/06/alesso-premieres-maroon-5-remix-at-edc-vegas-2015/|title=Alesso premieres Maroon 5 remix at EDC Vegas 2015|work=We Rave You|last=Barrera|first=Kevin|date=June 25, 2015|access-date=June 30, 2020}}</ref> On July 24, 2015, Alesso performed the remix at the [[Tomorrowland (festival)|Tomorrowland]] festival in [[Boom, Belgium|Boom]], [[Belgium]].
+
+=== Track listing ===
+* '''Digital download'''<ref name="original version" />
+# "This Summer" (Maroon 5 vs. Alesso) – 3:11
+# "This Summer" (Maroon 5 vs. Alesso) (Extended Mix) - 5:04
+* '''Digital download — Clean'''
+# "This Summer" (Maroon 5 vs. Alesso) (Clean) – 3:11
+
+===Certifications===
+{{Certification Table Top|caption=Certifications for "This Summer"}}
+{{Certification Table Entry|region=Australia|type=single|certyear=2024|award=Gold|access-date=June 22, 2024}}
+{{Certification Table Bottom|nosales=true | noshipments=true | streaming=true}}
+
+=== Release history ===
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Version
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| Various
+| June 29, 2015
+| [[Music download|Digital download]]
+| {{hlist|Original|clean}}
+| {{hlist|[[222 Records|222]]|[[Interscope Records|Interscope]]}}
+| align="center"| <ref name="original version">{{cite web|url=https://music.apple.com/us/album/this-summer-maroon-5-vs-alesso/1013237181|title=This Summer (Maroon 5 vs. Alesso) – Single|website=[[iTunes Store]] (US)|date=29 June 2015 |access-date=June 29, 2015}}</ref>
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+{{Maroon 5}}
+{{Alesso}}
+{{Authority control}}
+
+[[Category:2015 singles]]
+[[Category:2015 songs]]
+[[Category:222 Records singles]]
+[[Category:American synth-pop songs]]
+[[Category:Black-and-white music videos]]
+[[Category:Electronic rock songs]]
+[[Category:Interscope Records singles]]
+[[Category:Maroon 5 songs]]
+[[Category:Song recordings produced by Alesso]]
+[[Category:Song recordings produced by Shellback (record producer)]]
+[[Category:Songs written by Adam Levine]]
+[[Category:Songs written by Shellback (record producer)]]
+[[Category:Number-one singles in Mexico]]

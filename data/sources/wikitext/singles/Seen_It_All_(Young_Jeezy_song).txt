@@ -1,0 +1,82 @@
+{{short description|Single by Jeezy}}
+{{Infobox song
+| name          = Seen It All
+| cover         = JeezySeenItAll.jpg
+| alt           = 
+| type          = single
+| artist        = [[Jeezy]] featuring [[Jay-Z]]
+| album         = [[Seen It All: The Autobiography]]
+| released      = {{Start date|2014|07|1}}
+| recorded      = 2013
+| studio        = 
+| venue         = 
+| genre         = [[Hip hop music|Hip hop]]
+| length        = 3:28
+| label         = {{hlist|[[CTE World]]|[[Def Jam Recordings|Def Jam]]}}
+| writer        = {{hlist|Jay Jenkins|[[Jay Z|Shawn Carter]]|[[Cardo (record producer)|Ronald LaTour]]}}
+| producer      = [[Cardo (record producer)|Cardo]]
+| chronology    = [[Jeezy]]
+| prev_title    = [[Money Can't Buy (song)|Money Can't Buy]]
+| prev_year     = 2014
+| next_title    = GOD
+| next_year     = 2015
+| misc          = {{Extra chronology
+ | artist     = [[Jay-Z]]
+ | type       = single
+ | prev_title = [[They Don't Love You No More]]
+ | prev_year  = 2014
+ | title      = Seen It All
+ | year       = 2014
+ | next_title = [[Pop Style]]
+ | next_year  = 2016
+}}
+}}
+
+"'''Seen It All'''" is a song by American rapper [[Jeezy]], released as the second single from his seventh studio album ''Seen It All: The Autobiography'' (2014).<ref>{{cite web|url=https://itunes.apple.com/us/album/seen-it-all-feat.-jay-z-single/id893739140 |archive-url=https://web.archive.org/web/20140701161908/https://itunes.apple.com/us/album/seen-it-all-feat.-jay-z-single/id893739140 |url-status=dead |archive-date=July 1, 2014 |title=iTunes – Music – Seen It All (feat. JAY Z) – Single by Jeezy |publisher=iTunes |date=2014-07-01 |access-date=2014-07-12}}</ref> It is a hip hop song and it features vocals from fellow rapper [[Jay-Z]] and was produced by [[Cardo (record producer)|Cardo]].<ref>{{cite web|url=http://www.xxlmag.com/news/2014/07/cardo-producing-jeezy-seen-it-all-interview/ |title=Cardo Speaks On Producing Jeezy And Jay Z's "Seen It All" |work= XXL Magazine|date=2014-07-02 |access-date=2014-07-12}}</ref>
+
+==Charts==
+
+===Weekly charts===
+{|class="wikitable"
+|-
+!Chart (2014)
+!Peak<br/>position
+|-
+{{singlechart|Billboardhot100|85|artist=Young Jeezy|song=Seen It All}}
+|-
+{{singlechart|Billboardrandbhiphop|24|artist=Young Jeezy|song=Seen It All}}
+|}
+
+===Year-end charts===
+{|class="wikitable"
+|-
+!Chart (2014)
+!Position
+|-
+|US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs – Year-End 2014|magazine=Billboard|access-date=December 26, 2019}}</ref>
+|style="text-align:center"|87
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|artist=Jeezy|title=Seen It All|award=Platinum|type=single|certyear=2022|accessdate=October 5, 2022}}
+{{Certification Table Bottom| nosales=true|noshipments=true|streaming=true}}
+
+==References==
+{{reflist}}
+
+{{Young Jeezy}}
+{{Jay-Z songs}}
+
+[[Category:2014 songs]]
+[[Category:2014 singles]]
+[[Category:Jeezy songs]]
+[[Category:Jay-Z songs]]
+[[Category:Def Jam Recordings singles]]
+[[Category:Song recordings produced by Cardo (record producer)]]
+[[Category:Songs written by Jay-Z]]
+[[Category:Songs written by Cardo (record producer)]]
+[[Category:Songs written by Jeezy]]
+
+
+{{2010s-hiphop-song-stub}}

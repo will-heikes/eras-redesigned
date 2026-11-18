@@ -1,0 +1,628 @@
+{{short description|Discography}}
+{{more citations needed|date=August 2019}}
+{{Infobox artist discography
+| Artist          = [[Krewella]]
+| Image           = File:Krewella theVogue 20121102 1.JPG
+| Caption         = Krewella in 2012.
+| Studio          = 4
+| Live            = 
+| Compilation     = 
+| Music videos    = 31
+| EP              = 3
+| Singles         = 44
+| B-sides         = 
+| Soundtrack      = 
+}}
+
+This is the discography for American [[electronic dance music]] band [[Krewella]].
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="| Title
+! scope="col" rowspan="2" style="| Details
+! scope="col" colspan="7"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br><ref name="Billboard200">{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/tlp/ |title=Krewella Chart History: Billboard 200 |magazine=Billboard |accessdate=2020-01-09}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Albums|US<br>Dance]]<br><ref name="billelec">{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/elp/ |title=Krewella Chart History: Dance/Electronic Albums |magazine=Billboard |access-date=2026-09-30}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name="AUS">Australian chart positions for Krewella:
+* Top 50 peaks: {{cite web|url=http://www.australian-charts.com/showinterpret.asp?interpret=Krewella|title=Krewella discography}}
+* "Live for the Night" and "Enjoy the Ride": {{cite web|url=http://www.aria.com.au/Issue1262.pdf|archive-url=https://webarchive.nla.gov.au/awa/20140516140000/http://pandora.nla.gov.au/pan/23790/20140517-0000/Issue1262.pdf|url-status=dead|archive-date=2014-05-16|title=ARIA Report 1262}}{{cbignore|bot=medic}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/cna/ |title=Krewella Chart History: Canadian Albums |magazine=Billboard |accessdate=2020-01-09}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Oricon Albums Chart|JPN]]<br><ref>{{cite web|url=http://www.oricon.co.jp/prof/599296/products/1060622/1/|title=Top of the Shops - アルバムの公式リストは、日本で数週間を販売しました|language=Japanese|publisher=Oricon|accessdate=April 5, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br><ref>{{cite web|url=https://charts.nz/showinterpret.asp?interpret=Krewella|title=charts.nz – Krewella discography|publisher=Hung Medien|accessdate=June 6, 2017}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br><ref>{{cite web|url=http://www.zobbel.de/cluk/131005cluk.txt|title=CHART: CLUK Update 5.10.2013 (wk39)|publisher=zobbel.de|accessdate=June 6, 2017}}</ref>
+|-
+! scope="row"| ''[[Get Wet (Krewella album)|Get Wet]]''
+|
+* Released: September 24, 2013
+* Label: [[Columbia Records]]
+* Formats: [[Compact Disc|CD]], [[Music download|digital download]]
+| 8 || 1 || 45 || 14 || 55 || 40 || 179
+|-
+! scope="row"| ''[[Zer0 (album)|Zer0]]''
+|
+* Released: January 31, 2020<ref>{{cite web|url=https://music.apple.com/ca/album/zer0/1489012753|title=Zer0 by Krewella|website=[[Apple Music]]|accessdate=January 9, 2020}}</ref>
+* Label: Mixed Kids Records
+* Formats: Vinyl,<ref>{{Cite web |title=Limited Deluxe Edition of 'zer0' Vinyl |url=https://krewella-merch.myshopify.com/products/limited-deluxe-edition-of-zer0-vinyl |archive-url=https://web.archive.org/web/20201215224917/https://krewella-merch.myshopify.com/products/limited-deluxe-edition-of-zer0-vinyl |archive-date=2020-12-15 |access-date=2025-12-18 |website=Krewella Merch |language=en}}</ref> digital download, streaming
+| — || 23 || — || — || — || — || —
+|-
+! scope="row"| ''[[The Body Never Lies]]''
+|
+* Released: March 4, 2022<ref>{{Cite web |date=March 29, 2022 |author=Dancing Astronaut |title=Krewella get personal on third studio album ''The Body Never Lies'' |url=https://dancingastronaut.com/2022/03/krewella-get-personal-on-3rd-studio-album-the-body-never-lies/ |archive-url=https://web.archive.org/web/20220329145054/https://dancingastronaut.com/2022/03/krewella-get-personal-on-3rd-studio-album-the-body-never-lies/ |archive-date=March 29, 2022 |accessdate=April 8, 2022 |website=Dancing Astronaut}}</ref>
+* Label: Mixed Kids Records
+* Formats: Vinyl,<ref name=":1">{{Cite web |title=Krewella Store |url=https://krewella-merch.myshopify.com/ |access-date=2026-09-30 |website=Krewella Merch |language=en}}</ref> digital download, streaming
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[Peak (Krewella album)|PEAK]]''
+|
+* Released: September 4, 2026<ref name=":0">{{Cite web |last=Talim|first=Ansh|date=2026-09-04|title=Listen to Krewella's First Album in Over Four Years, 'Peak'|url=https://edm.com/music-releases/krewella-new-album-peak/|access-date=2026-09-07|website=EDM|language=en-US}}</ref>
+* Label: Mixed Kids Records
+* Formats: Vinyl,<ref name=":1" /> digital download, streaming
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|-
+| colspan="10" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|}
+
+== Extended plays ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected chart positions
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="4"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Albums|US<br>Dance]]<ref name="billelec"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Heatseekers Albums|US<br>Heat.]]<br><ref>{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/tln/ |title=Krewella Chart History: Heatseekers Albums |magazine=Billboard |accessdate=2020-01-09}}</ref>
+|-
+! scope="row"| ''[[Play Hard (EP)|Play Hard]]''
+|
+* Released: June 18, 2012
+* Label: Krewella Music, LLC.
+* Formats: CD, digital download
+| 6 || 2
+|-
+! scope="row"| ''[[Ammunition (Krewella EP)|Ammunition]]''
+|
+* Released: May 20, 2016
+* Label: [[Columbia Records]]
+* Formats: Vinyl, Digital download
+| 2 || —
+|-
+! scope="row"| ''[[New World Pt. 1]]''
+|
+* Released: June 8, 2017<ref name="New World">{{cite web|url=http://www.youredm.com/2017/05/31/krewella-drops-new-single-announces-new-world-ep-june-8/|title=Krewella Drops New Single & Announces 'New World' EP Out June 8|publisher=Your EDM|last=Meadow|first=Matthew|date=May 31, 2017|accessdate=June 6, 2017}}</ref>
+* Label: Mixed Kids Records
+* Formats: Vinyl, Digital download
+| 25 || —
+|-
+| colspan="9" style="font-size:80%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+=== As lead artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as lead artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Certifications
+! scope="col" rowspan="2" style="width:10em;"| Album
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Billboard Hot 100|US]]<br><ref name="Hot 100">{{cite magazine |url=https://www.billboard.com/artist/krewella/chart-history/hsi/ |title=Krewella Chart History: Hot 100 |magazine=Billboard |accessdate=2020-01-09}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Dance/Electronic Songs|US Dance]]<br><ref name="auto">{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/dan/|title=Krewella – Chart history (Dance/Electronic Songs)|magazine=[[Billboard (magazine)|Billboard]]|accessdate=2026-09-30|date=}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref name="AUS"/>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Ultratop|BEL<br/>(WA)<br />Tip]]<br/><ref name="BEL">{{cite web|url=http://www.ultratop.be/fr/showinterpret.asp?interpret=Krewella|title=Discografie Krewella|publisher=Belgium (Wallonia) Charts Portal. Hung Medien|language=Dutch}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br><ref name="auto1">{{cite magazine|url=https://www.billboard.com/artist/krewella/chart-history/can/|title=Krewella Chart History: Canadian Hot 100|magazine=Billboard|accessdate=January 9, 2020}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA">{{cite web|url=http://lescharts.com/showinterpret.asp?interpret=Krewella|title=Discographie Krewella|website=lescharts.com|language=French}}</ref>
+! scope="col" style="width:2.9em;font-size:90%;"| [[Single Top 100|NLD]]<br/><ref name="NLD">{{cite web|url=http://dutchcharts.nl/showinterpret.asp?interpret=Krewella|title=Discografie Krewella|website=dutchcharts.nl|language=Dutch}}</ref>
+|-
+! scope="row"| "Life of the Party"{{Efn|Free release|group=upper-alpha|name=Free}}<br/><span style="font-size:90%;">(featuring S-Preme)</span><ref>{{Cite web |title=Life of the Party ft. S-Preme, by Krewella featuring S-Preme |url=https://krewella.bandcamp.com/ |access-date=2023-02-25 |website=Krewella |language=en}}</ref>
+| rowspan="3" | 2011
+| — || — || — || — || — || — || —
+|
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Strobelights"<ref>{{Cite web |title=Strobelights, by Krewella |url=https://krewella.bandcamp.com/track/strobelights |access-date=2023-02-25 |website=Krewella |language=en}}</ref>{{Efn|name=Free|group=upper-alpha}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "One Minute"<ref>{{Citation |title=Krewella - One Minute |url=https://www.youtube.com/watch?v=8a_UbXbhB3M |language=en |access-date=2023-02-25}}</ref>
+| — || 34 || — || — || — || — || —
+|
+| ''Play Hard''
+|-
+! scope="row"| "Killin' It"<ref>{{cite web|url=https://music.apple.com/au/album/killin-it-single/517325301|title=Killin' It - Single by Krewella on Apple Music|date=9 April 2012 |publisher=[[Apple Inc.]]|access-date=December 21, 2016}}</ref>
+| rowspan="3" |2012
+| — || — || — || — || — || — || —
+|
+| ''Play Hard'' and ''Get Wet''
+|-
+! scope="row"| "Come & Get It"
+| — || 41 || — || — || — || — || —
+|
+| ''Play Harder'' and ''Get Wet''
+|-
+! scope="row"| "[[Alive (Krewella song)|Alive]]"
+| 32 || 5 || — || 22 || 50 || 159 || 81
+|
+* [[Recording Industry Association of America|RIAA]]: Platinum
+| ''Play Hard'' and ''Get Wet''
+|-
+! scope="row" |"[[Live for the Night (Krewella song)|Live for the Night]]"
+| rowspan="5" |2013
+| 100 || 11 || 87 || — || 96 || — || —
+|
+| ''Get Wet''
+|-
+! scope="row"| "[[Legacy (Nicky Romero and Krewella song)|Legacy]]"<br/><span style="font-size:90%;">(with [[Nicky Romero]])</span>
+| — || — || 44 || — || — || — || —
+|
+| rowspan="3" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Party Monster"{{Efn|name=Free|group=upper-alpha}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Watercolour (song)|Watercolour]]"{{Efn|name=Free|group=upper-alpha}}{{Efn|Original by [[Pendulum (drum and bass band)|Pendulum]]|group=upper-alpha}}<br/><span style="font-size:90%;">(featuring Evan Duffy)</span>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Enjoy the Ride (Krewella song)|Enjoy the Ride]]"
+| — || 29 || 84 || 19 || — || — || —
+|
+| ''Get Wet''
+|-
+! scope="row"| "[[Say Goodbye (Krewella song)|Say Goodbye]]"
+| 2014
+| — || — || — || — || — || — || —
+|
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "[[Somewhere to Run (song)|Somewhere to Run]]"
+| 2015
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Beggars"<br/><span style="font-size:90%;">(with Diskord)</span><ref>{{cite web|url=http://www.youredm.com/2016/04/29/krewella-return-new-single-beggars-ep-announcement/|title=Krewella Return With New Single "Beggars" & EP Announcement|publisher=Your EDM|last=Meadow|first=Matthew|date=April 29, 2016|accessdate=December 21, 2016}}</ref>
+| rowspan="3"| 2016
+| — || 33 || — || — || — || — || —
+|
+| rowspan="2"| ''Ammunition''
+|-
+! scope="row"| "Broken Record"<ref>{{Cite web |date=2016-05-11 |title=Krewella Is Ready To Leave The Past Behind & This New Trap Anthem Proves It [STREAM] |url=https://www.youredm.com/2016/05/11/krewella-drops-broken-record-day-tour-annoucement/ |access-date=2023-02-25 |website=Your EDM |language=en-US}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Team"<ref>{{Cite magazine |last=Bein |first=Kat |date=2016-12-09 |title=Krewella Get on Their King Tip With New Single 'Team:' Watch |url=https://www.billboard.com/music/music-news/krewella-team-video-7616888/ |access-date=2023-02-25 |magazine=Billboard |language=en-US}}</ref>
+| — || 26 || — || — || — || — || —
+|
+| rowspan="3"| ''New World, Pt. 1''
+|-
+! scope="row"| "Be There"<ref>{{cite web|url=https://music.apple.com/us/album/be-there-single/1233957442|title=Be There – Single by Krewella on Apple Music|work=iTunes Store (US)|date=10 May 2017 |access-date=June 6, 2017}}</ref>
+| rowspan="6"| 2017
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Love Outta Me"<ref name="New World"/>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "New World"<ref>{{cite web|url=http://www.youredm.com/2017/09/18/krewella-release-new-single-yellow-claw-new-world/|title=Krewella Drops New Single & Announces 'New World pt.2' EP Out October|publisher=Your EDM|last=Meadow|first=Matthew|date=September 18, 2017|accessdate=September 21, 2017}}</ref><br/><span style="font-size:90%;">(with [[Yellow Claw (DJs)|Yellow Claw]] featuring [[Taylor Bennett (rapper)|Taylor Bennett]])</span><ref>{{cite web|url=https://music.apple.com/us/album/new-world-feat-taylor-bennett-single/1282155751|title=New World (feat. Taylor Bennett) - Single by Krewella & Yellow Claw on Apple Music|work=iTunes Store (US)|date=18 September 2017 |access-date=September 22, 2017}}</ref>
+| — || 29 || — || — || — || — || —
+|
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "dead af"<ref>{{cite magazine|url=http://www.billboard.com/articles/news/dance/8013836/krewella-dead-af-listen|title=Krewella Celebrates Halloween With Trap Song 'Dead AF': Listen|magazine=Billboard|last=Bein|first=Kat|date=October 24, 2017}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Alarm"<br/><span style="font-size:90%;">(with [[Lookas]])</span><ref>{{cite web|url=https://music.apple.com/us/album/alarm-single/1309690112|title=Alarm – Single by Lookas on Apple Music|work=iTunes Store (US)|date=December 2017 |access-date=January 12, 2018}}</ref>
+| — || — || — || — || — || — || —
+|
+| [[Lucid (Lookas Album)|''Lucid'']] 
+|-
+! scope="row"| "Ain't That Why"<br/><span style="font-size:90%;">(with [[R3hab]])</span><ref>{{cite web|url=https://itunes.apple.com/us/album/aint-that-why-single/1305100550|archive-url=https://web.archive.org/web/20180228161631/https://itunes.apple.com/us/album/aint-that-why-single/1305100550|url-status=dead|archive-date=February 28, 2018|title=Ain't That Why – Single by R3hab & Krewella on Apple Music|work=iTunes Store (US)|accessdate=February 27, 2018}}</ref>
+| — || 23 || — || — || — || — || —
+|
+| [[The Wave (R3hab album)|''The Wave'']]
+|-
+! scope="row"| "Angels Cry"{{Efn|name=Free|group=upper-alpha}}
+| rowspan="9" | 2018
+| — || — || — || — || — || — || —
+|
+| rowspan="6" {{n/a|Non-album singles}}
+|-
+! scope="row"| "New World"<br/><span style="font-size:90%;">(with Yellow Claw featuring [[Vava (rapper)|Vava]])</span><ref>{{cite web|url=https://music.apple.com/us/album/new-world-feat-vava-single/1338904834|title=New World – Single by Krewella & Yellow Claw on Apple Music|work=iTunes Store (US)|date=24 January 2018 |access-date=April 7, 2018}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Alibi"<ref>{{cite web|url=https://music.apple.com/us/album/alibi-single/1346183412|title=Alibi – Single by Krewella on Apple Music|work=iTunes Store (US)|date=13 February 2018 |access-date=February 27, 2018}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Bitch of the Year"<ref>{{cite web|url=https://music.apple.com/au/album/bitch-of-the-year-single/1357753314|title=Bitch of the Year – Single by Krewella on Apple Music|work=iTunes Store (AU)|date=14 March 2018 |access-date=March 16, 2018}}</ref>{{Efn|For [[International Women's Day]]|group=upper-alpha}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Runaway"<ref>{{cite web|url=https://music.apple.com/nz/album/runaway-single/1363266238|title=Runaway – Single by Krewella on Apple Music|work=iTunes Store (AU)|date=4 April 2018 |access-date=April 7, 2018}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Gold Wings"<br/><span style="font-size:90%;">(with [[Shaun Frank]])</span><ref>{{cite web|url=https://itunes.apple.com/us/album/gold-wings-single/1375799669|archive-url=https://web.archive.org/web/20180512183419/https://itunes.apple.com/us/album/gold-wings-single/1375799669|url-status=dead|archive-date=May 12, 2018|title=Gold Wings – Single by Shaun Frank & Krewella on Apple Music|work=iTunes Store (US)|date=11 May 2018 |accessdate=May 12, 2018}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Mine (Bazzi song)|Mine]]"{{Efn|Original by [[Bazzi (singer)|Bazzi]]|group=upper-alpha}}<br/><span style="font-size:90%;">(featuring BKaye)</span><ref>{{Cite web |title=Digital-only Label Cure8 Releases Brand New Compilation Series Titled disCOVERED |date=15 June 2018 |url=https://edm.com/news/cure8-records-release-discovered-vol-1}}</ref>
+| — || — || — || — || — || — || —
+|
+| ''DisCovered, Vol. 1''
+|-
+! scope="row"| "Bad Liar"<ref>{{cite web|url=https://music.apple.com/us/album/bad-liar-single/1402222835 |title= Bad Liar - Single by Krewella on Apple Music |website=iTunes Store |accessdate=September 5, 2019}}</ref>
+| — || — || — || — || — || — || —
+|
+| rowspan="2" {{n/a|Non-album singles}}
+|-
+! scope="row"| "Runaway"{{Efn|For [[Coke Studio Pakistan]]|group=upper-alpha}}<br/><span style="font-size:90%;">(with [[Coke Studio (Pakistani season 11)|Riaz Qadri and Ghulam Ali Qadri]])</span>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Mana"<ref>{{Cite magazine |title=Krewella talk 'Mana' music video & new empowered sound: Exclusive |last=Bein |first=Kat |url=https://www.billboard.com/articles/news/dance/8528174/krewella-mana-music-video-interview |date=August 23, 2019 |magazine=Billboard |archiveurl=https://web.archive.org/web/20190828154652/https://www.billboard.com/articles/news/dance/8528174/krewella-mana-music-video-interview |archivedate=August 28, 2019 |accessdate=September 5, 2019}}</ref>
+| rowspan="3"| 2019
+| — || — || — || — || — || — || —
+|
+| rowspan="4" | ''Zer0''
+|-
+! scope="row"| "Ghost"<ref>{{cite web|url=https://music.apple.com/us/album/ghost-single/1481421578 |title= Ghost - Single by Krewella on Apple Music |website=iTunes Store |accessdate=October 25, 2019}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Good on You"<ref>{{Cite magazine |url=https://www.billboard.com/articles/news/dance/8545240/krewella-interview-zero-album-good-on-you |title=Krewella announce ''Zer0'' album: 'We want people to feel like they're part of something big' |last=Bein |first=Kat |date=December 3, 2019 |magazine=Billboard |archive-url=https://web.archive.org/web/20191205104804/https://www.billboard.com/articles/news/dance/8545240/krewella-interview-zero-album-good-on-you |archive-date=December 5, 2019 |accessdate=December 23, 2019}}</ref> <br>{{small|(with [[Nucleya]])}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Greenlights (song)|Greenlights]]"
+| rowspan="3" | 2020
+| — || 21 || — || — || — || — || —
+|
+|-
+! scope="row"| "Goddess"<ref>{{Cite web |title=Krewella & Nervo team up for new single, 'Goddess' |url=https://www.youredm.com/2020/05/15/krewella-nervo-team-up-for-new-single-goddess/ |last=Meadow |first=Matthew |date=May 15, 2020 |website=Your EDM |archive-url=https://web.archive.org/web/20200522013106/https://www.youredm.com/2020/05/15/krewella-nervo-team-up-for-new-single-goddess/ |archive-date=May 22, 2020 |accessdate=May 31, 2020}}</ref> <br>{{small|(with [[Nervo (DJs)|Nervo]] featuring [[Raja Kumari]])}}
+| — || — || — || — || — || — || —
+|
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Rewind"<ref>{{cite web|url=https://music.apple.com/us/album/rewind-single/1512881567 |title= Rewind - Single by Krewella & Yellow Claw |website=[[Apple Music]] |accessdate=July 17, 2020}}</ref> <br>{{small|(with [[Yellow Claw (DJs)|Yellow Claw]])}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Never Been Hurt"<ref>{{Cite web |date=December 9, 2021 |author=Dancing Astronaut |title=Krewella return to the scene on 'Never Been Hurt' feat. Beauz |url=https://dancingastronaut.com/2021/12/krewella-return-to-the-scene-on-never-been-hurt-feat-beauz/ |archive-url=https://web.archive.org/web/20211219172608/https://dancingastronaut.com/2021/12/krewella-return-to-the-scene-on-never-been-hurt-feat-beauz/ |archive-date=December 19, 2021 |accessdate=January 12, 2022 |website=Dancing Astronaut}}</ref> <br>{{small|(with BEAUZ)}}
+| rowspan="2"| 2021
+| — || — || — || — || — || — || —
+|
+| rowspan="4" | ''The Body Never Lies''
+|-
+! scope="row"| "No Control"<ref>{{Cite web |date=January 14, 2022 |author=Dancing Astronaut |title=Krewella experiment with hardstyle on 'No Control' |url=https://dancingastronaut.com/2022/01/krewella-experiment-with-hardstyle-on-no-control/ |archive-url=https://web.archive.org/web/20220205124352/https://dancingastronaut.com/2022/01/krewella-experiment-with-hardstyle-on-no-control/ |archive-date=February 5, 2022 |accessdate=February 9, 2022 |website=Dancing Astronaut}}</ref> <br>{{small|(with MADGRRL)}}
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "I'm Just a Monster Underneath, My Darling"<ref>{{cite web|url=https://music.apple.com/us/album/im-just-a-monster-underneath-my-darling-single/1604106275 |title=I'm Just a Monster Underneath, My Darling - Single by Krewella on Apple Music |website=Apple Music |accessdate=February 9, 2022}}</ref>
+| rowspan="2" | 2022
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Drive Away"
+| — || 48 || — || — || — || — || —
+|
+|-
+! scope="row"| "Crying On The Dancefloor"
+| rowspan="2" | 2025
+| — || — || — || — || — || — || —
+|
+| rowspan="3" | ''PEAK''
+|-
+! scope="row" | "Eternal"<ref>{{Cite web |title=Fresh release "Eternal" by Krewella DJs is OUT NOW! - Publications on DjaneTop |url=https://djanetop.com/news/fresh-release-eternal-by-krewella-djs-is-out-now.html |access-date=2025-11-12 |website=DjaneTop |language=en}}</ref>
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Without You"
+| rowspan="5" | 2026
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "Moondance" <br>{{small|(with MERCY.MERCY.MERCY.)}}
+| — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row" | "Something Sacred"
+| — || — || — || — || — || — || —
+|
+| rowspan="2" | ''PEAK''
+|-
+! scope="row" | "the blueprint"
+| — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "One Life"<br><small>with Manila Killa</small>
+| — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+| colspan="11" style="font-size:80%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles as featured artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:24em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+!Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Album
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Airplay Top 100|RO]]<br/><ref>{{cite web | url=https://www.kissfm.ro/airplay100| title=Top Airplay 100|language=Romanian| accessdate=29 April 2019}}</ref>
+|-
+! scope="row"| "Rise & Fall"<br/><span style="font-size:90%;">([[Adventure Club]] featuring Krewella)</span><ref>{{Citation |title=Rise & Fall (feat. Krewella) |date=2012-05-31 |url=https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn |language=en |access-date=2023-02-25}}</ref>
+| 2012|| — 
+| rowspan="2" {{N/A|Non-album singles}}
+|-
+! scope="row"| "United Kids of the World"<br/><span style="font-size:90%;">([[Headhunterz]] featuring Krewella)</span><ref>{{Citation |title=United Kids of the World |date=2013-11-19 |url=https://open.spotify.com/album/2KtPmYK51K5KxUIXFAXFUi |language=en |access-date=2023-02-25}}</ref>
+| 2013|| — 
+|-
+! scope="row"| "Lights & Thunder" <br/><span style="font-size:90%;">([[Gareth Emery]] featuring Krewella)</span><ref>{{Citation |title=Lights & Thunder |date=2014-04-21 |url=https://open.spotify.com/album/5GAGq39bQh2YY5ItoSSiit |language=en |access-date=2023-02-25}}</ref>
+| 2014|| —
+| ''[[Drive (Gareth Emery album)|Drive]]''{{Efn|Also featured as a bonus track on Get Wet for [[iTunes]]|group=upper-alpha}}
+|-
+! scope="row"| "Superstar"<br/><span style="font-size:90%;">([[Pegboard Nerds]] and [[Nghtmre|NGHTMRE]] featuring Krewella)</span><ref>{{Citation |title=Superstar |url=https://www.monstercat.com/release/MCS453 |language=en |access-date=2023-02-25}}</ref>
+| 2016|| — 
+| rowspan="3" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Another Round"<br/><span style="font-size:90%;">(Pegboard Nerds featuring Krewella)</span><ref>{{Citation |title=Another Round |date=2017-11-17 |url=https://open.spotify.com/track/6htsgVVeL86w76GR5FUw6W |language=en |access-date=2023-02-25}}</ref>
+| 2017|| — 
+|-
+! scope="row"| "No Regrets" <br/><span style="font-size:90%;">([[KSHMR]] and [[Yves V]] featuring Krewella)</span><ref>{{cite web|url=https://music.apple.com/us/album/no-regrets-feat-krewella-single/1452596029|title=No Regrets (feat. Krewella) - Single by KSHMR & Yves V on iTunes|access-date=21 April 2019|website=[[iTunes]]|date=March 2019 }}</ref>
+|rowspan="2"| 2019|| 84
+|-
+! scope="row"| "Next Life" <br/><span style="font-size:90%;">(Adventure Club and [[Crankdat]] featuring Krewella)</span><ref>{{Cite web |url=https://dancingastronaut.com/2019/04/adventure-club-reunites-with-krewella-on-their-melodic-dubstep-collaboration-with-crankdat-next-life/ |title=Adventure Club reunites with Krewella on their melodic dubstep collaboration with Crankdat, 'Next Life' |last=Stack |first=Chris |date=2019-04-12 |website=Dancing Astronaut |archive-url=https://web.archive.org/web/20190422112804/https://dancingastronaut.com/2019/04/adventure-club-reunites-with-krewella-on-their-melodic-dubstep-collaboration-with-crankdat-next-life/ |archive-date=2019-04-22 |accessdate=2019-04-22}}</ref>
+| — 
+|''[[Love // Chaos]]''
+|-
+| colspan="4" style="font-size:80%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+=== Guest appearances ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;" | Title 
+! scope="col" rowspan="2" | Year 
+! scope="col" | Peak chart positions
+! scope="col" rowspan="2"| Album 
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Albums|US<br>Dance]]<br><ref name="billelec"/>
+|-
+! scope="row"|"[[Set Yourself Free (song)|Set Yourself Free]]"<br><small>[[Tiësto]] featuring Krewella</small>
+|2014
+| —
+|''[[A Town Called Paradise]]''
+|-
+! scope="row" |"Soldier"<ref>{{Citation |title=The Wise and The Wicked |date=2018-08-31 |url=https://open.spotify.com/album/3qeKWMoEXLaZLymNxFI8Q5 |language=en |access-date=2023-02-25}}</ref><br><small>[[Jauz]] & Krewella</small>
+| 2018
+| —
+|''[[The Wise and the Wicked]]''
+|-
+! scope="row" |"Lay It Down"<ref>{{Citation |title=Fallen Embers |date=2021-07-16 |url=https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V |language=en |access-date=2023-02-25}}</ref><br><small>[[Illenium]], Krewella & [[Slander (DJs)|SLANDER]]</small>
+|2021
+| 19
+|[[Fallen Embers (Illenium album)|''Fallen Embers'']]
+|}
+=== Remixes ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of remixes, showing year released and original artists
+! scope="col" style="width:16em;" | Title 
+! scope="col" | Year 
+! scope="col" |Original artist(s) 
+|-
+! scope="row" |"Breathe"<ref>{{Cite AV media |url=https://www.youtube.com/shorts/Xi9zouhastU |title=“I've never said this on the record”. 👀 #skrillex #krewella #musicpodcast #mixing #edm |language=en |access-date=2025-08-17 |via=www.youtube.com}}</ref>{{Efn|Based on a demo of [[Bangarang (EP)|Summit]]|group=upper-alpha}}
+|2011
+|[[Skrillex]]
+|-
+! scope="row" |"Fire Hive"<ref>{{Citation |title=Knife Party - Fire Hive (Krewella FUCK ON ME Remix) |url=https://www.youtube.com/watch?v=auaOkibgpkI |language=en |access-date=2023-02-25}}</ref>
+| rowspan="2" |2012
+|[[Knife Party]]
+|-
+! scope="row" |"Rise & Fall"<ref>{{Citation |title=Rise & Fall (Krewella Remix) (feat. Krewella) |date=2012-06-11 |url=https://open.spotify.com/album/0p63kPRJaZVZF8NQJZmEIY |language=en |access-date=2023-02-25}}</ref>
+|[[Adventure Club]] featuring Krewella
+|-
+! scope="row" |"Alone Together"<ref>{{Citation |title=Alone Together (The Remixes) |date=2014-01-01 |url=https://open.spotify.com/album/2ZfgrHLhsAQ2pLJg7xHVDQ |language=en |access-date=2023-02-25}}</ref>
+|2013
+|[[Fall Out Boy]]
+|}
+
+== Music videos ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:16em;" | Title<ref>{{Cite web |title=Krewella |url=https://www.youtube.com/channel/UCDY_0WzkHyj0A1ev6RTql1Q |access-date=2026-04-12 |website=YouTube |language=en}}</ref>
+! scope="col" | Year 
+! scope="col" |Director(s)
+|-
+! scope="row"|"Killin' It"
+| rowspan="3"|2012
+| Laine Kelly
+|-
+! scope="row"|"Feel Me"
+| Miles Evert
+|-
+! scope="row"|"[[Alive (Krewella song)|Alive]]"
+| Bryan Schlam<ref>{{Cite web |last=Peterson |first=Tyler |date=1970-01-01 |title=VIDEO: Krewella Releases New Music Video for 'Alive' |url=https://www.broadwayworld.com/bwwmusic/article/VIDEO-Krewella-Releases-New-Music-Video-for-Alive-20121219 |access-date=2026-04-12 |website=BroadwayWorld.com |language=en}}</ref>
+|-
+! scope="row"|"[[Live for the Night|Live For The Night]]"
+| rowspan="3"|2013
+| Aggressive
+|-
+! scope="row"|"[[Legacy (Nicky Romero and Krewella song)|Legacy]]"<ref>{{Cite web |last=McCarthy |first=Zel |date=2013-11-07 |title=Nicky Romero and Krewella’s ‘Legacy’ Video: Watch a Behind the Scenes Clip Here |url=https://www.billboard.com/music/music-news/nicky-romero-and-krewellas-legacy-video-watch-a-behind-the-scenes-clip-5785532/ |access-date=2026-04-12 |website=Billboard |language=en-US}}</ref><br>{{small|with [[Nicky Romero]]}}
+| Kyle Padilla
+|-
+! scope="row"|"United Kids of the World"<ref>{{Cite web |last=McCarthy |first=Zel |date=2013-11-25 |title=Headhunterz & Krewella, ‘United Kids of the World’ Video: Watch First Here |url=https://www.billboard.com/music/music-news/headhunterz-krewella-united-kids-of-the-world-video-watch-first-here-5800763/ |access-date=2026-04-12 |website=Billboard |language=en-US}}</ref><br>{{small|[[Headhunterz]] featuring Krewella}}
+| [[Robby Starbuck]]
+|-
+! scope="row"|"Human"
+| rowspan="3"|2014
+| Miles Evert
+|-
+! scope="row"|"[[Enjoy the Ride (Krewella song)|Enjoy The Ride]]"
+| K Tanch
+|-
+! scope="row"|"Party Monster"
+| MIXED MEDIA
+|-
+! scope="row"|"[[Somewhere to Run (song)|Somewhere To Run]]"
+|2015
+|[[Rory Kramer]]
+|-
+! scope="row"|"Beggars"<br>{{small|with DISKORD}}
+| rowspan="4"|2016
+| Laine Kelly & Brandon Parker
+|-
+! scope="row"|"Superstar"<ref>{{Cite web |date=2016-05-31 |title=This New Video From Krewella, Pegboard Nerds, and NGHTMRE Is A Girl Gamer’s Paradise |url=https://www.nylon.com/articles/pegboard-nerds-krewella-nghtmre-superstar |access-date=2026-04-12 |website=Nylon |language=en}}</ref><br>{{small|[[Pegboard Nerds]] & [[NGHTMRE]] featuring Krewella}}
+| Anthony Sylvester
+|-
+! scope="row"|"Broken Record"
+| John Curtis
+|-
+! scope="row"|"Team"
+| Nathan Lim
+|-
+! scope="row"|"Be There"
+| rowspan="3"|2017
+| Brandon Parker
+|-
+! scope="row"|"Fortune"<br>{{small|featuring DISKORD}}
+| MIXED MEDIA
+|-
+! scope="row"|"Ain't That Why"<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=Re7xxoEREOo |title=R3HAB & Krewella - Ain't That Why (Official Video) |date=2017-12-08 |last=R3HAB |access-date=2026-04-12 |via=YouTube}}</ref><br>{{small|with [[R3HAB]]}}
+|{{N/a}}
+|-
+! scope="row"|"New World"<br>{{small|with [[Yellow Claw (DJs)|Yellow Claw]] featuring [[Vava (rapper)|Vava]]}}
+| rowspan="5"|2018
+| Pako
+|-
+! scope="row"|"Alibi"
+| MIXED MEDIA
+|-
+! scope="row"|"BITCH OF THE YEAR"
+| Brandon Parker
+|-
+! scope="row"|"Runaway"
+| Blunt Action
+|-
+! scope="row"|"Alarm"<ref>{{Cite web |last=Bein |first=Kat |date=2018-08-01 |title=Lookas & Krewella Animate a Modern ‘Bonnie and Clyde’ Story For ‘Alarm’ Video: Exclusive |url=https://www.billboard.com/music/music-news/lookas-krewella-alarm-video-8468119/ |access-date=2026-04-12 |website=Billboard |language=en-US}}</ref><br>{{small|with [[Lookas]]}}
+| Melted Face Production
+|-
+! scope="row"|"No Regrets"<ref>{{Cite web |last=Karakolis |first=Konstantinos |date=2019-04-13 |title=KSHMR, Yves V and Krewella Release Music Video for "No Regrets" |url=https://edm.com/news/kshmr-yves-v-krewella-no-regrets-video/ |access-date=2026-04-12 |website=EDM |language=en-US}}</ref><br>{{small|[[KSHMR]] & [[Yves V]] featuring Krewella}}
+| rowspan="4"|2019
+| {{N/a}}
+|-
+! scope="row"|"Mana"
+| Gabyo
+|-
+! scope="row"|"Ghost"
+| Andrew Sandler & Lauren Dunn
+|-
+! scope="row"|"Good On You"<br>{{small|with [[Nucleya]]}}
+| Daniel Malikyar & Karl Jungquist
+|-
+! scope="row"|"[[Greenlights (song)|Greenlights]]"
+| rowspan="2"|2020
+| Karl Jungquist & Lucas MK
+|-
+! scope="row"|"Rewind"<br>{{small|with [[Yellow Claw (DJs)|Yellow Claw]]}}
+| Yudhistira Israel
+|-
+! scope="row"|"Never Been Hurt"<br>{{small|with BEAUZ}}
+| rowspan="2"|2021
+| {{N/a}}
+|-
+! scope="row"|"No Control"<br>{{small|with MADGRRL}}
+| Olivia Van Rye
+|-
+! scope="row"|"Drive Away"
+| 2022
+| MOM
+|-
+! scope="row"|"Moondance"<br>{{small|with MERCY. MERCY. MERCY.}}
+| 2026
+| Devin Oliver
+|-
+|}
+
+== Remix compilations ==<!-- Dedicated remix compilations only -->
+
+* ''[[Play Harder]]'' (2012)<ref>{{Cite web |date=2012-12-10 |title=Krewella's New EP Features Plenty Of Friends |url=https://www.huffpost.com/entry/krewella-play-harder-ep_n_2269141 |access-date=2026-07-29 |website=HuffPost |language=en}}</ref>
+* ''Come & Get It (The Remixes)'' (2013)<ref>{{Citation |title=Come &amp; Get It (The Remixes) |date=2013-07-09 |url=https://www.deezer.com/en/album/6764638 |access-date=2026-07-29 |language=en-GB}}</ref>
+* ''[[Live for the Night#Remixes|Live For The Night (Remix EP)]]'' (2013)
+* ''[[Legacy (Nicky Romero and Krewella song)#Track listing|Legacy (The Remixes)]]'' (2013)<ref>{{Cite web |title='Legacy (The Remixes) - EP' van Nicky Romero & Krewella in iTunes |url=https://itunes.apple.com/nl/album/legacy-the-remixes-ep/id843745253 |archive-url=https://web.archive.org/web/20151003080512/https://itunes.apple.com/nl/album/legacy-the-remixes-ep/id843745253 |archive-date=2015-10-03 |access-date=2026-07-29 |website=iTunes |language=nl}}</ref>
+* ''[[Enjoy the Ride (Krewella song)#Promotion|Enjoy The Ride (The Remixes)]]'' (2014)<ref>{{Cite web |last=Staff |first=Your EDM |date=2014-03-04 |title=Krewella - Enjoy The Ride [The Remixes] |url=https://www.youredm.com/2014/03/03/krewella-enjoy-ride-remixes/ |access-date=2026-07-29 |website=Your EDM |language=en}}</ref>
+* ''Broken Record (Remixes)'' (2016)
+* ''[[Ammunition (Krewella EP)#Ammunition: The Remixes|Ammunition: The Remixes]]'' (2016)
+* ''[[New World Pt. 1#Remix EP|New World Pt. 1: The Remixes]]'' (2017)
+* ''Alibi & Runaway (Remixes)'' (2018)
+* ''Mana (Remixes)'' (2019)
+* ''[[Zer0 (album)#Remix compilations|zer0 (The Remixes, pt. 1)]]'' (2020)
+* ''[[Zer0 (album)#Remix compilations|zer0 (The Remixes, pt. 2)]]'' (2020)
+* ''Never Been Hurt (Remixes)'' (2022)
+* ''Drive Away (The Remixes)'' (2022)
+
+<ref>{{Cite web |title=Spotify - Krewella Discography |url=https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr/discography/all |access-date=2026-07-29 |website=Spotify |language=en}}</ref>
+
+==DJ Mixes==
+'''Troll Mixes'''
+{{div col}}
+* 2012 ''Troll Mix Vol. 1: Fuck Finals Edition''
+* 2013 ''Troll Mix Vol. 2: Road to Ultra''
+* 2013 ''Troll Mix Vol. 3: Makeout Edition''
+* 2013 ''Troll Mix Vol. 4: Get Ripped or Die Trying''
+* 2013 ''Troll Mix Vol. 5: Get Wet Edition''
+* 2013 ''Troll Mix Vol. 6: Trick or Troll Edition''
+* 2013 ''Troll Mix Vol. 7: Jingle Troll Rock''
+* 2013 ''Troll Mix Vol. 8: Happy Krew Year''
+* 2014 ''Troll Mix Vol. 9: Just The Tip *Valentine's Day Edition*''
+* 2014 ''Troll Mix Vol. 10: Pre-Game Edition''
+* 2014 ''Troll Mix Vol. 11: Road to Coachella''
+* 2014 ''Troll Mix Vol. 12: To 150 BPM & Beyond''
+* 2014 ''Troll Mix Vol. 13: Sex on the Dance Floor''<ref>{{cite web|url=https://podcasts.apple.com/au/podcast/krewella-presents-troll-radio/id890235922?mt=2 |title=Krewella presents TROLL RADIO by Krewella on iTunes |work=iTunes Store (AU) |date=17 June 2014 |access-date=2015-11-17}}</ref>
+* 2015 ''Troll Mix Vol. 14: Return of the Trolls''<ref>{{cite web|url=http://www.youredm.com/2015/08/15/krewella-brings-back-the-troll-mix-series-at-long-last/ |title=Krewella Brings Back The Troll Mix Series At Long Last |date=16 August 2015 |publisher=Your EDM |accessdate=2015-11-17}}</ref>
+* 2016 ''Troll Mix Vol. 15: Sweatbox Edition''
+* 2017 ''Troll Mix Vol. 16: Winter Remedy Mix''
+* 2017 ''Troll Mix Vol. 17: Weekend Warriors''
+* 2017 ''Troll Mix Vol. 18: Troll Mix & Chill''
+* 2017 ''Troll Mix Vol. 19: New World Tour Pre-game Mix''
+* 2017 ''Troll Mix Vol. 20: dead af edition''
+* 2019 ''Troll Mix Vol. 21: Spooky Season 2019''
+* 2020 ''Troll Mix Vol. 22: Quarantine Vibe Check''
+* 2021 ''Troll Mix Vol. 23: Only Trolls Fall In Love''
+{{div col end}}
+
+== As Yyousaf ==
+In October 2026, Yasmine of Krewella unveiled a solo project under the name Yyousaf.<ref>{{Cite web |last=Ng |first=Kevin |date=2026-10-30 |title=Krewella's Yasmine Yousaf Launches Solo Project yyousaf With New Single 'BODIES IN THE CLUB' |url=https://www.edmtunes.com/2026/10/30/krewella-s-yasmine-yousaf-launches-solo-project-yyousaf-273f5c1feeef74fb/ |access-date=2026-10-30 |website=EDMTunes |language=en-US}}</ref>
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ Singles
+! scope="col" | Title
+! scope="col" style="width:1em;"| Year
+|-
+! scope="row"|"Bodies in the Club"
+| 2026
+|-
+|}
+== Notes ==
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+{{Krewella}}
+
+[[Category:Discographies of American artists]]
+[[Category:Electronic music discographies]]

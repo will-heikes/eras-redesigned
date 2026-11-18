@@ -1,0 +1,217 @@
+{{short description|2013 single by Tim McGraw and Taylor Swift}}
+{{Infobox song
+| name       = Highway Don't Care
+| cover      = TMG - Highway Dont Care cover.png
+| alt        =
+| type       = single
+| artist     = [[Tim McGraw]] and  [[Taylor Swift]]<!--Keith Urban did not get chart credit-->
+| album      = [[Two Lanes of Freedom]]
+| released   = {{Start date|2013|3|25}}<ref name="gfa">{{cite web|title=R&R :: Going For Adds :: Country|url=http://gfa.radioandrecords.com/PublishGFA/GFANextPage.asp?sDate=03/25/2013&Format=4|work=[[Radio & Records]]|access-date=March 13, 2013|url-status=dead|archive-url=https://web.archive.org/web/20140104112558/http://gfa.radioandrecords.com/PublishGFA/GFANextPage.asp?sDate=03%2F25%2F2013&Format=4|archive-date=January 4, 2014}}</ref>
+| recorded   =
+| studio     =
+| venue      =
+| genre      = [[Country music|Country]]<ref>{{cite web|last1=McGraw|last2=Swift|last3=Urban|first1=Tim|first2=Taylor|first3=Keith|url=https://www.shazam.com/zh/track/79560129/highway-dont-care|title=Highway Don't Care|via=Shazam|access-date=September 20, 2020|archive-date=April 23, 2021|archive-url=https://web.archive.org/web/20210423191058/https://www.shazam.com/zh/track/79560129/highway-dont-care|url-status=live}}</ref>
+| length     = {{Duration|m=4|s=36}}
+| label      = [[Big Machine Records|Big Machine]]
+| writer     = {{flatlist|
+* [[Mark Irwin (songwriter)|Mark Irwin]]
+* [[Josh Kear]]
+* [[Brad Warren]]
+* [[Brett Warren]]
+}}
+| producer   = {{flatlist|
+* [[Byron Gallimore]]
+* Tim McGraw
+}}
+| chronology = [[Tim McGraw]]
+| prev_title = [[One of Those Nights (Tim McGraw song)|One of Those Nights]]
+| prev_year  = 2013
+| next_title = [[Southern Girl]]
+| next_year  = 2013
+| misc       = {{Extra chronology
+ | artist     = [[Taylor Swift]]
+ | type       = single
+ | prev_title = [[22 (Taylor Swift song)|22]]
+ | prev_year  = 2013
+ | title      = Highway Don't Care
+ | year       = 2013
+ | next_title = [[Red (Taylor Swift song)|Red]]
+ | next_year  = 2013
+}}
+{{External music video|{{YouTube|KmxaY_OVvWA|"Highway Don't Care"}}}}
+}}
+
+"'''Highway Don't Care'''" is a song by the American [[country music]] singers [[Tim McGraw]] and [[Taylor Swift]], featuring the Australian country singer [[Keith Urban]] on guitar.<ref>{{cite news|last=Wyland|first=Sarah|title=Tim McGraw Collaborates with Taylor Swift & Keith Urban on New Single|url=http://blog.gactv.com/blog/2013/03/12/tim-mcgraw-collaborates-with-taylor-swift-keith-urban-on-new-single/|access-date=March 13, 2013|newspaper=[[Great American Country]]|date=March 12, 2013|archive-date=March 15, 2013|archive-url=https://web.archive.org/web/20130315224748/http://blog.gactv.com/blog/2013/03/12/tim-mcgraw-collaborates-with-taylor-swift-keith-urban-on-new-single/|url-status=live}}</ref> It was released to US [[country radio]] on March 25, 2013, as the third single from McGraw's first album for [[Big Machine Records]], ''[[Two Lanes of Freedom]]'' (2013).<ref>{{cite web|url=https://www.countryaircheck.com/pdf_publication/Issue_337%20-%20March%2018,%202013.pdf|title=McGraw with Swift and Urban on Guitar, 'Highway Don't Care'|website=Country Aircheck|page=7|issue=337|date=March 18, 2013|access-date=December 10, 2022|archive-date=October 6, 2022|archive-url=https://web.archive.org/web/20221006045856/http://www.countryaircheck.com/pdf_publication/Issue_337%20-%20March%2018,%202013.pdf|url-status=live}}</ref> The song was written by [[Mark Irwin (songwriter)|Mark Irwin]], [[Josh Kear]] and [[The Warren Brothers|Brad and Brett Warren]].<ref>{{cite news|last=Conaway|first=Alanna|title=Story Behind The Song: The Warren Brothers Discuss Tim McGraw and Taylor Swift's "Highway Don't Care"|url=http://www.roughstock.com/blog/story-behind-the-song-the-warren-brothers-discuss-tim-mcgraw-and-taylor-swift-s-highway-don-t-care|access-date=March 13, 2013|newspaper=Roughstock|date=February 13, 2013|archive-date=February 28, 2013|archive-url=https://web.archive.org/web/20130228005802/http://www.roughstock.com/blog/story-behind-the-song-the-warren-brothers-discuss-tim-mcgraw-and-taylor-swift-s-highway-don-t-care|url-status=live}}</ref> McGraw and Swift recorded their parts separately.<ref>{{cite news|last=Stromblad|first=Cory|title=Tim McGraw Spills on Recording 'Highway Don't Care' 'With' Taylor Swift, Keith Urban|url=http://tasteofcountry.com/tim-mcgraw-taylor-swift-highway-dont-care-keith-urban/|access-date=March 13, 2013|newspaper=Taste of Country|date=February 8, 2013|archive-date=February 15, 2013|archive-url=https://web.archive.org/web/20130215102032/http://tasteofcountry.com/tim-mcgraw-taylor-swift-highway-dont-care-keith-urban/|url-status=live}}</ref> "Highway Don't Care" marked Swift's seventh number one hit on ''[[Billboard (magazine)|Billboard]]''{{'s}} [[Country Airplay]] chart.<ref>{{cite web |title=Chart History: Taylor Swift – Country Airplay |url=https://www.billboard.com/artist/taylor-swift/chart-history/csa/ |magazine=Billboard |access-date=March 27, 2023 |archive-date=March 27, 2023 |archive-url=https://web.archive.org/web/20230327143208/https://www.billboard.com/artist/taylor-swift/chart-history/csa/ |url-status=live }}</ref>
+
+==Composition==
+The song is a mid-tempo ballad where the male narrator is separated from his lover who is driving. Throughout the verses, he tells her what he "bets" she is feeling, when a song (sung by Swift) comes on her radio containing the lines "I can't live without you, baby." He also says that the highway she is driving on does not care if she is alone or if she is going home, but he does. The song is in [[D major]] with a main chord pattern of D-B{{sub|m}}7-G{{sub|sus2}}-A.<ref>{{cite web|url=http://www.musicnotes.com/sheetmusic/mtdFPE.asp?ppn=MN0116258&|title=Tim McGraw "Highway Don't Care" Sheet Music in D Major (transposable) – Download & Print|first=Irwin|last=Mark|website=Musicnotes.com|date=9 April 2013|access-date=2013-04-17|archive-date=2021-04-23|archive-url=https://web.archive.org/web/20210423191100/https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0116258|url-status=live}}</ref> [[Keith Urban]] plays lead guitar on it.
+
+==Critical reception==
+In his review of the album, Thom Jurek of [[AllMusic]] wrote that "the hook is irresistible and McGraw's vocal, paired with the young singer's, is a perfect match."<ref>{{cite web|last=Jurek|first=Thom|title=Two Lanes of Freedom – Tim McGraw|url=https://www.allmusic.com/album/mw0002474140|work=[[Allmusic]]|access-date=March 13, 2013|archive-date=January 9, 2016|archive-url=https://web.archive.org/web/20160109034024/http://www.allmusic.com/album/mw0002474140|url-status=live}}</ref> Chuck Dauphin of ''Roughstock'' also reviewed the song favorably, saying that "this song flows well, with winning performances from two of the format's top vocalists."<ref>{{cite news|last=Dauphin|first=Chuck|title=The Weekly Single Recap: February 22, 2013: Tate Stevens, Tim McGraw & Taylor Swift, Jason Aldean & More|url=http://www.roughstock.com/blog/the-weekly-single-recap-february-22-2013-tate-stevens-tim-mcgraw-taylor-swift-jason-aldean-more|access-date=March 13, 2013|newspaper=Roughstock|date=February 22, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130301044322/http://www.roughstock.com/blog/the-weekly-single-recap-february-22-2013-tate-stevens-tim-mcgraw-taylor-swift-jason-aldean-more|archive-date=March 1, 2013}}</ref> Billy Dukes of ''Taste of Country'' gave the song five stars, saying that the track is arguably "one of the best collaborations of the decade – maybe even ever. Each artist brings his or her best effort to the song from McGraw's ''[[Two Lanes of Freedom]]'' album. 'Highway Don't Care' feels like a special moment from the very first listen, and only becomes more cathartic with time."<ref>{{cite web|last=Dukes|first=Billy|title=Tim McGraw (Feat. Taylor Swift and Keith Urban), 'Highway Don't Care' – Song Review|url=http://tasteofcountry.com/tim-mcgraw-taylor-swift-highway-dont-care/|access-date=March 14, 2013|newspaper=Taste of Country|date=February 25, 2013|archive-date=March 23, 2013|archive-url=https://web.archive.org/web/20130323221718/http://tasteofcountry.com/tim-mcgraw-taylor-swift-highway-dont-care/|url-status=live}}</ref> Jeff Benjamin of [[Fuse TV|Fuse]] said the track has "major crossover potential".<ref>{{cite web|last=Benjamin|first=Jeff|title=Tim McGraw, Taylor Swift & Keith Urban Want You Home Safe in "Highway Don't Care" Video|url=http://www.fuse.tv/videos/2013/05/tim-mcgraw-taylor-swift-keith-urban-star-in-emotional-highway-don-t-care-video|access-date=May 7, 2013|newspaper=Fuse.tv|date=May 7, 2013|archive-date=June 21, 2013|archive-url=https://web.archive.org/web/20130621085456/http://www.fuse.tv/videos/2013/05/tim-mcgraw-taylor-swift-keith-urban-star-in-emotional-highway-don-t-care-video|url-status=live}}</ref> The song was ranked 30th best country song of the 2010s by [[Taste Of Country]].<ref>{{Cite web|url=https://tasteofcountry.com/best-country-songs-2010s/|title=It's Official: We've Picked the 50 Best Country Songs of the 2010s|last=Dukes|first=Billy|website=Taste of Country|language=en|access-date=2019-12-16|archive-date=2019-12-16|archive-url=https://web.archive.org/web/20191216234043/https://tasteofcountry.com/best-country-songs-2010s/|url-status=live}}</ref>
+
+==Chart performance==
+"Highway Don't Care" debuted at number 13 on the US ''[[Billboard (magazine)|Billboard]]'' [[Hot Country Songs]] chart and number 43 on the US ''Billboard'' [[Country Airplay]] chart for the week of February 23, 2013, due to unsolicited airplay seven weeks before being released to radio.<ref>{{cite news|last=Morris|first=Edward|title=Tim McGraw's ''Two Lanes of Freedom'' Is Week's No. 1 Country Album|url=http://www.cmt.com/news/country-music/1702109/tim-mcgraws-two-lanes-of-freedom-is-weeks-no-1-country-album.jhtml|access-date=March 13, 2013|newspaper=[[Country Music Television]]|date=February 16, 2013|archive-date=March 26, 2013|archive-url=https://web.archive.org/web/20130326092300/http://www.cmt.com/news/country-music/1702109/tim-mcgraws-two-lanes-of-freedom-is-weeks-no-1-country-album.jhtml|url-status=dead}}</ref> It also debuted at number 59 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and number 23 on the [[Canadian Hot 100]] for the week of February 23, 2013. The single also debuted at number one on the US ''Billboard'' Country Digital Songs chart with 86,000 downloads for the week of February 13, 2013.<ref>{{cite news|last=Bjorke|first=Matt|title=Country Chart News – The Top 30 Digital Singles: The Week of February 13, 2012: Tim McGraw & Taylor Swift #1; Lady Antebellum #2|url=http://www.roughstock.com/blog/country-chart-news-the-top-30-digital-singles-the-week-of-february-13-2012-tim-mcgraw-taylor-swift-1-lady-antebellum-2|access-date=March 28, 2013|newspaper=Roughstock|date=February 13, 2013|url-status=dead|archive-url=https://archive.today/20130411190147/http://www.roughstock.com/blog/country-chart-news-the-top-30-digital-singles-the-week-of-february-13-2012-tim-mcgraw-taylor-swift-1-lady-antebellum-2|archive-date=April 11, 2013}}</ref> On October 17, 2017, the single was certified [[RIAA Certification|triple platinum]] by the [[Recording Industry Association of America]] (RIAA) for combined sales and streaming data of over three million units.<ref>{{cite web|url=https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=highway+don%27t+care&lab=&genre=&format=&date_option=release&from=&to=&award=&type=&category=&adv=SEARCH#search_section|title=RIAA Certifications – Keith Urban|website=[[Recording Industry Association of America]]|access-date=March 1, 2020|archive-date=April 23, 2021|archive-url=https://web.archive.org/web/20210423191100/https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=&ti=highway+don%27t+care&lab=&genre=&format=&date_option=release&from=&to=&award=&type=&category=&adv=SEARCH#search_section|url-status=live}}</ref> As of November 2017, the song has sold 2.3&nbsp;million copies in the United States.<ref name=sales>{{cite magazine |url=https://www.billboard.com/pro/taylor-swift-career-album-song-sales-ask-billboard/ |title=Ask Billboard: Taylor Swift's Career Album & Song Sales |date=November 26, 2017 |access-date=November 26, 2017 |first=Gary |last=Trust |magazine=[[Billboard (magazine)|Billboard]] |archive-date=November 26, 2017 |archive-url=https://web.archive.org/web/20171126192431/https://www.billboard.com/articles/columns/chart-beat/8046939/taylor-swift-career-album-song-Sales-ask-billboard |url-status=live }}</ref>
+
+==Music video==
+The music video was directed by [[Shane Drake]] and premiered on May 6, 2013.<ref>{{cite web|url=http://www.cmt.com/videos/tim-mcgraw/906464/highway-dont-care.jhtml|title=CMT : Videos : Tim McGraw : Highway Don't Care|publisher=[[Country Music Television]]|access-date=May 6, 2013|archive-date=May 9, 2013|archive-url=https://web.archive.org/web/20130509163053/http://www.cmt.com/videos/tim-mcgraw/906464/highway-dont-care.jhtml|url-status=dead}}</ref> The music video for the song features Tim McGraw, Taylor Swift, and Keith Urban, as well as actors portraying the song's narrator and his lover. It was made in partnership with [[Vanderbilt University Medical Center]] in Nashville, Tennessee and highlights the dangers of driving while distracted, particularly texting and driving. In the video, the narrator's lover mentioned in the song is driving, crying, and texting the narrator. After dropping her phone and trying to retrieve it, she drifts into the wrong lane while reaching across her car and collides with oncoming traffic. She is then airlifted by a Vanderbilt LifeFlight helicopter to Vanderbilt University Medical Center, where she is treated in the Adult Emergency Department. The video implies that she survives as the doctor comes out to see the girl's parents and the narrator, after which they are seen smiling happily and embracing that their daughter's going to be okay.
+
+The structure of the video at first seems to imply that Tim McGraw (as the singer/narrator and a character in the video) is the boyfriend who keeps being texted by the female driver. Upon the LifeFlight helicopter arriving at the hospital, the viewer realizes that Tim McGraw's character is actually the physician who saves the driver's life, and the texts he had been receiving earlier in the video were from the hospital paging/notifying him about this emergency. Taylor Swift was standing in the bedroom-curtain. Keith Urban was standing on the beach.<ref>{{cite web|url=https://news.vanderbilt.edu/2013/05/09/vanderbilt-county-superstar-tim-mcgraw-share-important-message-regarding-dangers-of-distracted-driving/|title=Vanderbilt, country superstar Tim McGraw share important message regarding dangers of distracted driving|first=Jennifer|last=Wetzel|website=Vanderbilt University|date=9 May 2013 |access-date=2017-09-04|archive-date=2017-09-04|archive-url=https://web.archive.org/web/20170904062939/https://news.vanderbilt.edu/2013/05/09/vanderbilt-county-superstar-tim-mcgraw-share-important-message-regarding-dangers-of-distracted-driving/|url-status=live}}</ref>
+
+==Accolades==
+{| class="wikitable plainrowheaders"
+|-
+! Year
+! Organization
+! Award/work
+! Result
+! {{Reference column heading}}
+|-
+! rowspan="6" scope="row" | 2013
+| rowspan="3" | [[American Country Awards]]
+| Collaborative Single of the Year
+| {{won}}
+| rowspan="3" style="text-align:center;" |<ref>{{cite web|title=American Country Awards: See the winners here! |url=https://edition.cnn.com/2013/12/11/showbiz/music/american-country-awards-ew/ |publisher=CNN |access-date=June 14, 2015 |date=December 11, 2013 |url-status=live |archive-url=https://web.archive.org/web/20150622174252/http://edition.cnn.com/2013/12/11/showbiz/music/american-country-awards-ew/ |archive-date=June 22, 2015}}</ref>
+|-
+| Collaborative Video of the Year
+| {{won}}
+|-
+| Song of the Year (Songwriters Award)
+| {{won}}
+|-
+| rowspan="3" | [[Country Music Association Awards]]
+| [[Country Music Association Award for Musical Event of the Year|Musical Event of the Year]]
+| {{won}}
+| rowspan="3" style="text-align:center;" |<ref name="CMA World">{{cite web|url=http://www.cmaworld.com/initiatives/international/international-awards/#achievement |title=CMA World&nbsp;– International Awards&nbsp;– CMA World |publisher=Country Music Association Awards |access-date=January 25, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150201051132/http://www.cmaworld.com/initiatives/international/international-awards/ |archive-date=February 1, 2015 }}</ref><br /><ref>{{cite web |url=http://taylorswift.com/news/187833 |title=Taylor to be presented with CMA's Pinnacle Award! |publisher=[[Taylor Swift]] |access-date=January 25, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150109131351/http://taylorswift.com/news/187833 |archive-date=January 9, 2015 }}</ref>
+|-
+| [[Country Music Association Award for Video of the Year|Music Video of the Year]]
+| {{won}}
+|-
+| [[Country Music Association Award for Single of the Year|Single of the Year]]
+| {{nom}}
+|-
+! rowspan="10" scope="row" | 2014
+| rowspan="3" | [[Academy of Country Music Awards]]
+| Video of the Year
+| {{won}}
+| rowspan="3" style="text-align:center;" |<ref>{{cite news|title=2014 ACM Awards: Nominees & Winners |url=http://www.countryweekly.com/news/2014-acm-awards-nominees-winners |access-date=June 14, 2015 |work=Nash Country Weekly |date=April 6, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150622110110/http://www.countryweekly.com/news/2014-acm-awards-nominees-winners |archive-date=June 22, 2015 }}</ref>
+|-
+| Single Record of the Year
+| {{nom}}
+|-
+| Vocal Event of the Year
+| {{nom}}
+|-
+| rowspan="2" | [[BMI Awards]]
+| Publisher of the Year
+| {{won}}
+| rowspan="2" style="text-align:center;" |<ref>{{cite web|url=http://www.bmi.com/news/entry/vince_gill_recognized_as_bmi_icon_at_the_2014_bmi_country_awards |title=Vince Gill Recognized as BMI Icon at the 2014 BMI Country Awards |publisher=Broadcast Music, Inc. |access-date=January 25, 2015 |date=November 4, 2014 |url-status=live |archive-url=https://web.archive.org/web/20150108133612/http://www.bmi.com/news/entry/vince_gill_recognized_as_bmi_icon_at_the_2014_bmi_country_awards |archive-date=January 8, 2015 }}</ref>
+|-
+| Country Awards Top 50 Songs
+| {{won}}
+|-
+| rowspan="2" | [[CMT Music Awards]]
+| Collaborative Video of the Year
+| {{nom}}
+| rowspan="2" style="text-align:center;" |<ref>{{cite web|url=http://www.countryweekly.com/news/miranda-lambert-leads-2014-cmt-music-awards-nominations |title=Miranda Lambert Leads 2014 CMT Music Awards Nominations |work=Nash Country Weekly |access-date=January 25, 2015 |url-status=live |archive-url=https://web.archive.org/web/20141129204154/http://www.countryweekly.com/news/miranda-lambert-leads-2014-cmt-music-awards-nominations |archive-date=November 29, 2014 }}</ref>
+|-
+| Video of the Year
+| {{nom}}
+|-
+| [[iHeartRadio Music Awards]]
+| Country Song of the Year
+| {{nom}}
+|<ref>{{cite web|last1=Blake |first1=Emily |title=Rihanna, Justin Timberlake Lead iHeartRadio Nominees: See The Full List |url=http://www.mtv.com/news/1724882/rihanna-justin-timberlake-lead-iheartradio-nominees-see-the-full-list/ |publisher=MTV |access-date=June 14, 2015 |date=March 26, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150622153632/http://www.mtv.com/news/1724882/rihanna-justin-timberlake-lead-iheartradio-nominees-see-the-full-list/ |archive-date=June 22, 2015 }}</ref>
+|-
+| [[Grammy Awards]]
+| [[Best Country Duo/Group Performance]]
+| {{nom}}
+|<ref>{{cite news|url=http://www.latimes.com/entertainment/music/la-et-ms-grammy-nominations-winners-list-story.html#page=1 |title=Grammys 2014: The complete list of nominees and winners |date=January 26, 2014 |work=Los Angeles Times |access-date=January 25, 2015 |url-status=live |archive-url=https://web.archive.org/web/20150304121852/http://www.latimes.com/entertainment/music/la-et-ms-grammy-nominations-winners-list-story.html |archive-date=March 4, 2015 }}</ref>
+|-
+| [[CMC Music Awards]]
+| International Video of the Year
+| {{won}}
+|<ref name="DM Mar14">{{cite news | url = https://www.dailymercury.com.au/news/morgan-evans-fans-choice-cmc-country-music-awards/2199901/ | title = Morgan Evans Is Fans' Choice in CMC Country Music Awards | work = [[Daily Mercury]] | publisher = News Corp Australia | date = 15 March 2014 | access-date = 2 April 2018 | archive-date = 12 June 2018 | archive-url = https://web.archive.org/web/20180612144335/https://www.dailymercury.com.au/news/morgan-evans-fans-choice-cmc-country-music-awards/2199901/ | url-status = live }}</ref>
+|}
+
+==Official versions==
+* Album version (4:36)
+* Radio edit (4:14)
+* Duet with Brazilian singer [[Paula Fernandes]], a ''[[Porglish]]'' version (4:38)
+
+==Charts==
+{{col-start}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders"
+|+Weekly chart performance for "Highway Don't Care"
+!scope="col"|Chart (2013)
+!scope="col"|Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.aria.com.au/Issue1199.pdf|archive-url=https://webarchive.nla.gov.au/awa/20130219032800/http://pandora.nla.gov.au/pan/23790/20130219-1428/Issue1199.pdf|url-status=dead|archive-date=2013-02-19|title=The ARIA Charts|website=webarchive.nla.gov.au|access-date=January 6, 2017}}{{cbignore|bot=medic}}</ref>
+| align="center"| 73
+|-
+{{singlechart|Canada|21|artist=Tim McGraw|rowheader=true}}
+|-
+{{singlechart|Billboardcanadacountry|2|artist=Tim McGraw|rowheader=true}}
+|-
+{{singlechart|Billboardhot100|22|artist=Tim McGraw|rowheader=true}}
+|-
+{{singlechart|Billboardcountryairplay|1|artist=Tim McGraw|rowheader=true}}
+|-
+{{singlechart|Billboardcountrysongs|4|artist=Tim McGraw|rowheader=true}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders"
+|+Year-end chart performance for "Highway Don't Care"
+!scope="col"|Chart (2013)
+!scope="col"|Position
+|-
+! scope="row"| Canada (Canadian Hot 100)<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/canadian-hot-100 | title=Best of 2013: Canadian Hot 100 | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2013 | access-date=December 13, 2013 | archive-date=December 18, 2013 | archive-url=https://web.archive.org/web/20131218012601/http://www.billboard.com/charts/year-end/2013/canadian-hot-100 | url-status=live }}</ref>
+| align="center" | 81
+|-
+! scope="row"| US ''Billboard'' Hot 100<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/hot-100-songs | title=Best of 2013: Hot 100 Songs | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2013 | access-date=December 13, 2013 | archive-date=December 16, 2013 | archive-url=https://web.archive.org/web/20131216044228/http://www.billboard.com/charts/year-end/2013/hot-100-songs | url-status=live }}</ref>
+| align="center" | 77
+|-
+! scope="row"| US Country Airplay (''Billboard'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/country-airplay-songs | title=Best of 2013: Country Airplay | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2013 | access-date=December 13, 2013 | archive-date=May 5, 2016 | archive-url=https://web.archive.org/web/20160505123617/http://www.billboard.com/charts/year-end/2013/country-airplay-songs | url-status=live }}</ref>
+| align="center" | 32
+|-
+! scope="row"| US Hot Country Songs (''Billboard'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2013/hot-country-songs | title=Best of 2013: Hot Country Songs | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2013 | access-date=December 13, 2013 | archive-date=December 15, 2015 | archive-url=https://web.archive.org/web/20151215161138/http://www.billboard.com/charts/year-end/2013/hot-country-songs | url-status=live }}</ref>
+| align="center" | 6
+|}
+{{col-end}}
+
+==Certifications==
+{{certification Table Top|caption=Certifications for "Highway Don't Care"}}
+{{Certification Table Entry|region=Australia|type=single|award=Platinum|artist=Tim McGraw|title=Highway Don't Care|certyear=2023|access-date=November 30, 2023}}
+{{Certification Table Entry|region=New Zealand|type=single|artist=Tim McGraw feat. Taylor Swift and Keith Urban|title=Highway Don't Care|award=Gold|relyear=2013|certyear=2024|source=radioscope|access-date=February 6, 2026}}
+{{certification Table Entry|type=single|region=United States|artist=Tim McGraw|title=Highway Don't Care|award=Platinum|number=3|relyear=2013|certyear=2017|access-date=May 9, 2020}}
+{{Certification Table Bottom|streaming=true | nosales=true | noshipments=true}}
+
+==References==
+{{Reflist}}
+
+{{Tim McGraw singles}}
+{{Taylor Swift songs}}
+{{CMA Musical Event of the Year}}
+{{CMA Video of the Year}}
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:2013 singles]]
+[[Category:2010s ballads]]
+[[Category:Tim McGraw songs]]
+[[Category:Taylor Swift songs]]
+[[Category:Male–female vocal duets]]
+[[Category:Songs written by Josh Kear]]
+[[Category:Songs written by the Warren Brothers]]
+[[Category:Songs written by Mark Irwin (songwriter)]]
+[[Category:Song recordings produced by Byron Gallimore]]
+[[Category:Song recordings produced by Tim McGraw]]
+[[Category:Music videos directed by Shane Drake]]
+[[Category:Country ballads]]
+[[Category:Big Machine Records singles]]
+[[Category:Vehicle wreck ballads]]
+[[Category:Vocal–instrumental collaborations]]

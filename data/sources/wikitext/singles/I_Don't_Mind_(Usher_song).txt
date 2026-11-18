@@ -1,0 +1,179 @@
+{{Infobox song
+| name          = I Don't Mind
+| cover         = Usher I Don't Mind.png
+| alt           = 
+| border        = yes
+| type          = single
+| artist        = [[Usher (musician)|Usher]] featuring [[Juicy J]]
+| album         = 
+| released      = {{Start date|2014|11|21}}
+| recorded      = 2014
+| studio        = 
+| venue         = 
+| genre         = {{hlist|[[Electro (music)|Electro]]-[[Contemporary R&B|R&B]]|[[hip-hop]]}}
+| length        = {{duration|m=4|s=12}}
+| label         = [[RCA Records|RCA]]
+| writer        = {{hlist|[[Usher (musician)|Usher Raymond IV]]|[[Juicy J|Jordan Houston]]|[[Dr. Luke|Lukasz Gottwald]]|[[Jacob Kasher Hindlin]]|[[Rock City (production duo)|Theron Thomas]]|[[Rock City (production duo)|Timothy Thomas]]|[[Cirkut (record producer)|Henry Walter]]}}
+| producer      = {{hlist|[[Dr. Luke]]|[[Cirkut (record producer)|Cirkut]]|[[Rock City (production duo)|Rock City]]}}
+| chronology    = [[Usher (musician)|Usher]]
+| prev_title    = [[Body Language (Kid Ink song)|Body Language]]
+| prev_year     = 2014
+| next_title    = [[The Matrimony (song)|The Matrimony]]
+| next_year     = 2015
+| misc          = {{Extra chronology
+ | artist     = [[Juicy J]]
+ | type       = singles
+ | prev_title = [[Multiply (ASAP Rocky song)|Multiply]]
+ | prev_year  = 2014
+ | title      = I Don't Mind
+ | year       = 2014
+ | next_title = For Everybody
+ | next_year  = 2015
+}}
+}}
+
+"'''I Don't Mind'''" is a song by American singer [[Usher (musician)|Usher]], featuring American rapper [[Juicy J]]. It was released on November 21, 2014, through [[RCA Records]], as the intended third single from his then-upcoming eighth studio album, ''[[Hard II Love]]''. The song's lyrics concern being involved with a stripper, and not being bothered by her line of work.
+
+The song peaked at number 11 on the [[Billboard Hot 100|''Billboard'' Hot 100]] and topped the ''[[Billboard (magazine)|Billboard]]'' [[Hot R&B/Hip Hop Songs]] chart, becoming his thirteenth number-one single on the chart and tying him with [[Michael Jackson]] and [[Marvin Gaye]] for sixth place among artists with the most number ones on the chart. Internationally, "I Don't Mind" has peaked within the top ten of the charts in the United Kingdom.<ref>{{cite magazine |url=https://www.billboard.com/pro/usher-13th-number-1-hot-rb-hip-hop-songs/ |title=Usher Earns 13th No. 1 On Hot R&B/Hip-Hop Songs |magazine=[[Billboard (magazine)|Billboard]] |date=February 6, 2015 |access-date=February 27, 2015 |author=Mendizabal, Amaya}}</ref>
+
+==Background==
+An unfinished version of the track surfaced on June 24, 2014, online to good reception. Usher posted the song to his official [[SoundCloud]] account on October 2, 2014, confirming it to be the next official single from his then titled album ''Flawed''.<ref>{{cite web |url=https://www.hotnewhiphop.com/558739-usher-i-don-t-mind-feat-juicy-j-new-song |title=Usher – I Don't Mind Feat. Juicy J |publisher=HotNewHipHop |date=June 27, 2014 |access-date=February 6, 2015 |author=Smith, Trevor}}</ref>
+
+==Track listing==
+{{Track listing
+| headline      = Digital download<ref name="itunes">{{cite web |url=https://music.apple.com/us/album/i-dont-mind-feat-juicy-j/944304850 |title=I Don't Mind (feat. Juicy J) – Single by Usher |work=[[iTunes Store]] |location=United States |publisher=[[Apple Inc.|Apple]] |access-date=November 22, 2014}}</ref>
+| title1        = I Don't Mind
+| note1         = featuring [[Juicy J]]
+| length1       = 4:11
+}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2014–2015)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>{{cite web|url=http://www.noise11.com/news/aria-singles-wiz-khalifa-and-charlie-puth-spends-4th-week-at-no-1-20150502|title=ARIA Singles: Wiz Khalifa and Charlie Puth Spends 4th Week At No 1|publisher=Noise11|last=Ryan|first=Gavin|date=May 2, 2015|access-date=May 2, 2015}}</ref>
+| 80
+|-
+{{single chart|Flanders Tip|34|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=December 27, 2014}}
+|-
+{{single chart|Flanders Urban|24|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=December 27, 2014}}
+|-
+{{single chart|Wallonia Tip|27|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=February 27, 2015}}
+|-
+{{single chart|Canada|70|artist=Usher|song=I Don't Mind|rowheader=true|access-date=29 July 2014}}
+|-
+{{single chart|Billboardcanadachrtop40|38|artist=Usher|song=I Don't Mind|rowheader=true|access-date=February 10, 2024}}
+|-
+{{single chart|France|99|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=February 20, 2015}}
+|-
+{{single chart|Hungarystream|39|year=2015|week=7|rowheader=true|access-date=October 16, 2026}}
+|-
+{{single chart|Ireland|67|year=2015|week=16|access-date=March 5, 2015|refname="Ireland"|rowheader=true}}
+|-
+{{single chart|Dutch100|64|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=January 23, 2015}}
+|-
+{{single chart|Scotland|13|artist=Usher|rowheader=true|date=2015-03-15}}
+|-
+{{single chart|Sweden|90|artist=Usher feat. Juicy J|song=I Don't Mind|rowheader=true|access-date=February 12, 2015}}
+|-
+{{single chart|UK|8|artist=Usher|rowheader=true|date=2015-03-21}}
+|-
+{{single chart|UKrandb|3|date=2015-03-15|rowheader=true|access-date=March 18, 2015}}
+|-
+{{single chart|Billboardhot100|11|artist=Usher|rowheader=true|access-date=March 5, 2015}}
+|-
+{{single chart|Billboardrandbhiphop|1|artist=Usher|rowheader=true|access-date=February 19, 2014}}
+|-
+{{single chart|Billboarddanceairplay|20|artist=Usher|rowheader=true|access-date=February 19, 2015}}
+|-
+{{single chart|Billboardpopsongs|17|artist=Usher|rowheader=true|access-date=March 5, 2015}}
+|-
+{{single chart|Billboardrhythmic|1|artist=Usher|rowheader=true|access-date=November 22, 2014}}
+|-
+! scope="row"| US ([[Monitor Latino]])<ref>{{cite web|title=Charts monitorLATINO |url=http://us.monitorlatino.com/mondayChartsConsult_History.aspx?year=2015&mes=4&semana=14&formato=10&pais=2|access-date=18 April 2015}}</ref>
+| 18
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| US [[Billboard Hot 100|''Billboard'' Hot 100]]<ref>{{cite magazine|title=Hot 100: Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-100-songs|magazine=Billboard|publisher=billboard.com|access-date=December 23, 2015}}</ref>
+| 55
+|-
+!scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2015/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip Hop Songs: Year-End 2015|publisher=Billboard.com|access-date=December 11, 2015}}</ref>
+| 17
+|-
+! scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/rhythmic-songs|title=Rhythmic Songs – Year-End 2015|magazine=Billboard|access-date=October 4, 2019}}</ref>
+| 10
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|type=single|title=I Don't Mind|artist=Usher|award=Platinum|certyear=2018}}
+{{Certification Table Entry|type=single|region=Denmark|artist=Usher feat. Juicy J|title=I Don't Mind|award=Gold|relyear=2014|certyear=2016|certmonth=01|id=5007|access-date=November 3, 2023}}
+{{Certification Table Entry|type=single|region=New Zealand|artist=Usher feat. Juicy J|title=I Don't Mind|award=Platinum|number=2|relyear=2015|certyear=2025|source=radioscope|access-date=January 22, 2026}}
+{{Certification Table Entry|type=single|region=United Kingdom|artist=Usher ft Juicy J|title=I Don't Mind|award=Platinum|relyear=2015|certyear=2021|id=13248-4025-1|access-date=January 9, 2021}}
+{{Certification Table Entry|type=single|region=United States|artist=Usher|title=I Don%t Mind (feat. Juicy J)|award=Platinum|number=4|relyear=2014|certyear=2024|access-date=February 10, 2024}}
+{{Certification Table Bottom|nosales=true|streaming=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|- <!--
+| September 23, 2014
+| Rhythmic radio
+|-
+| October 28, 2014
+| Urban radio
+|- -->
+! scope="row" rowspan="2"| United States
+| November 21, 2014
+| [[Music download|Digital download]]<ref name="itunes"/>
+| rowspan="3"| [[RCA Records|RCA]]
+|-
+| January 20, 2015
+| [[Contemporary hit radio]]<ref>{{cite web|url=http://www.allaccess.com/top40-mainstream/future-releases |title=Top 40/M Future Releases |publisher=All Access Music Group |access-date=January 23, 2015 |archive-url=https://web.archive.org/web/20150121120934/http://www.allaccess.com/top40-mainstream/future-releases |archive-date=January 21, 2015 |url-status=dead }}</ref>
+|-
+! scope="row"| United Kingdom 
+| March 8, 2015
+| Digital download<ref>{{cite web|url=https://www.amazon.co.uk/gp/product/B00T6ZM4NG?ie=UTF8&at=&force-full-site=1&ref_=aw_bottom_links|title=I Don't Mind [Explicit]|work=amazon.co.uk}}</ref>
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.lyricsondemand.com/u/usherlyrics/idontmindlyrics.html Full lyrics at LyricsOnDemand.com] 
+<!-- Licensed lyrics provider -->
+
+{{Usher singles}}
+{{Juicy J}}
+
+{{authority control}}
+
+[[Category:Usher (musician) songs]]
+[[Category:Juicy J songs]]
+[[Category:2014 singles]]
+[[Category:2014 songs]]
+[[Category:Songs written by Usher (musician)]]
+[[Category:Songs written by Juicy J]]
+[[Category:RCA Records singles]]
+[[Category:Songs written by Theron Thomas]]
+[[Category:Songs written by Timothy Thomas]]
+[[Category:Songs written by Jacob Kasher]]
+[[Category:Songs written by Dr. Luke]]

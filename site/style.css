@@ -210,3 +210,12 @@ th.grp { color: var(--ink-2); border-bottom: 1px solid var(--hair); text-align: 
 .two > div { min-width: 0; }
 @media (max-width: 700px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } .stat { min-width: 0; } }
 .fact.wide { grid-column: span 2; }
+.strength-bar { display: flex; gap: 1px; margin-bottom: 8px; font: 500 11px var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.sb { padding: 5px 10px; }
+.sb.high { background: var(--tier-1); color: #fff; }
+.sb.medium { background: var(--tier-40); }
+.sb.low { background: var(--tier-100); color: var(--ink-2); }
+.status.str-high { color: var(--accent); }
+.status.str-medium { color: var(--ink); }
+.status.str-low { color: var(--ink-3); }
+.comp td.mono { white-space: nowrap; }

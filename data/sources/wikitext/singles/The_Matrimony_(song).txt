@@ -1,0 +1,105 @@
+{{Use mdy dates|date=August 2026}}
+{{Infobox song
+| name       = The Matrimony
+| cover      = Wale The Matrimony.jpg
+| alt        =
+| type       = single
+| artist     = [[Wale (rapper)|Wale]] featuring [[Usher (entertainer)|Usher]]
+| album      = [[The Album About Nothing]]
+| released   = March 2, 2015
+| recorded   = 2015
+| studio     =
+| venue      =
+| genre      = {{flatlist|
+* [[Hip hop music|Hip hop]]
+* [[Contemporary R&B|R&B]]
+}}
+| length     = {{ubl|{{Duration|m=6|s=35}}| {{Duration|m=4|s=14}} (radio edit)}}
+| label      = {{flatlist|
+* [[Maybach Music Group]]
+* [[Allido Records|Allido]]
+* [[Atlantic Records|Atlantic]]
+}}
+| writer     = {{flatlist|
+* [[Wale (rapper)|Olubowale Akintimehin]]
+* [[Usher (entertainer)|Usher Raymond IV]]
+* [[Sam Dew]]
+* [[Jake One|Jacob Dutton]]
+* Daniel  Tannenbaum
+* [[DJ Khalil|Khalil Abdul-Rahman]]
+* [[Charlie B]]
+}}
+| producer   = {{flatlist|
+*[[Jake One]]
+*[[DJ Khalil]]
+*Marcè Reazon
+}}
+| chronology = [[Wale (rapper)|Wale]]
+| prev_title = [[Ride Out]]
+| prev_year  = 2015
+| next_title = [[Coffee (Miguel song)|Coffee]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Usher (entertainer)|Usher]]
+ | type       = single
+ | prev_title = [[I Don't Mind (Usher song)|I Don't Mind]]
+ | prev_year  = 2014
+ | title      = The Matrimony
+ | year       = 2015
+ | next_title = [[Don't Look Down (Martin Garrix song)|Don't Look Down]]
+ | next_year  = 2015
+}}
+}}
+"'''The Matrimony'''" is a song by American [[Hip hop music|hip hop]] recording artist [[Wale (rapper)|Wale]]. It was released on March 2, 2015, as the second single from his fourth studio album ''[[The Album About Nothing]]'' (2015). The song, [[hip hop production|produced]] by [[Jake One]], features a guest appearance from [[Usher (entertainer)|Usher]]. The song begins with a monologue from [[Jerry Seinfeld]]. The song samples artist Daniel "Danny Keyz" Tannenbaum.
+<ref name="Single">{{cite web|url=https://itunes.apple.com/us/album/the-matrimony-feat.-usher-single/id917119774 |title=iTunes - Music - The Matrimony (feat. Usher) - Single by Wale |publisher=[[iTunes]] |date=2015-03-02 |access-date=2015-03-02}}{{dead link|date=March 2025|bot=medic}}{{cbignore|bot=medic}}</ref> The song has peaked at number 70 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart.
+
+==Music video==
+A [[music video]] for "The Matrimony" was released on June 8, 2015.<ref>{{cite web|url=http://www.rap-up.com/2015/06/08/video-wale-usher-the-matrimony/ |archive-url=https://web.archive.org/web/20150610024437/http://www.rap-up.com/2015/06/08/video-wale-usher-the-matrimony/ |url-status=dead |archive-date=June 10, 2015 |title=Video: Wale feat. Usher – 'The Matrimony' |publisher=[[Rap-Up]] |date=June 8, 2015 |accessdate=September 2, 2015}}</ref> It was directed by Sarah McColgan.<ref>{{cite web|url=http://www.videostatic.com/watch-it/2015/06/27/wale-matrimony-sarah-mccolgan-dir |title=Wale f/ Usher "The Matrimony" (Sarah McColgan, dir.) |publisher=VideoStatic |date=June 29, 2015 |accessdate=September 2, 2015}}</ref>
+
+==Chart performance==
+"The Matrimony" peaked at number 70 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart. On July 10, 2018, the song was certified [[RIAA Certification|double platinum]] by the [[Recording Industry Association of America]] (RIAA) for sales of over two million digital copies in the United States.<ref name="RIAA"/>
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ Chart performance for "The Matrimony"
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Billboardhot100|70|artist=Wale|rowheader=true}}
+|-
+{{single chart|Billboardrandbhiphop|17|artist=Wale|rowheader=true}}
+|-
+{{single chart|Billboardrhythmic|24|artist=Usher|rowheader=true|access-date=December 31, 2022}}
+|}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "The Matrimony"}}
+{{Certification Table Entry|region=United States|type=single|artist=Wale|title=The Matrimony|award=Platinum|number=2|relyear=2015|certyear=2025|access-date=March 23, 2025|refname=RIAA}}
+{{Certification Table Bottom|streaming=true|nosales=true|noshipments=true}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{YouTube|XNwwZ56xz8A|Official music video}}
+*{{YouTube|A0PUGSh0GUU|Official audio}}
+
+{{Wale}}
+{{Usher singles}}
+
+{{DEFAULTSORT:Matrimony, The}}
+[[Category:2015 singles]]
+[[Category:2015 songs]]
+[[Category:Wale (rapper) songs]]
+[[Category:Usher (musician) songs]]
+[[Category:Maybach Music Group singles]]
+[[Category:Atlantic Records singles]]
+[[Category:Songs written by Usher (musician)]]
+[[Category:Songs written by Wale (rapper)]]
+[[Category:Songs written by DJ Khalil]]
+[[Category:Song recordings produced by DJ Khalil]]
+[[Category:Songs about marriage]]
+[[Category:Songs written by Sam Dew]]
+[[Category:Songs written by Daniel Tannenbaum]]
+
+{{2010s-hiphop-single-stub}}

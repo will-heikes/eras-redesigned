@@ -1,0 +1,301 @@
+{{Use dmy dates|date=January 2025}}
+{{Infobox song
+| name       = I Want You to Know
+| cover      = I Want You to Know Zedd cover.png
+| alt        =
+| type       = single
+| artist     = [[Zedd (musician)|Zedd]] featuring [[Selena Gomez]]
+| album      = [[True Colors (Zedd album)|True Colors]]
+| released   = {{Start date|2015|02|23|df=y}}
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = {{hlist|[[Electronic dance music|EDM]]<ref name="inquis" />|[[electropop]]<ref name="azteca" />}}
+| length     = {{duration|m=3|s=59}}
+| label      = [[Interscope Records|Interscope]]
+| writer     = {{hlist|
+[[Zedd (musician)|Anton Zaslavski]]|[[Ryan Tedder]]|[[KDrew|Kevin Nicholas Drew]]}}
+| producer   = {{hlist|[[Zedd]]|Ryan Tedder}}
+| chronology = [[Zedd]]
+| prev_title = [[Break Free (song)|Break Free]]
+| prev_year  = 2014
+| next_title = [[Beautiful Now]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Selena Gomez]]
+ | type       = single
+ | prev_title = [[The Heart Wants What It Wants]]
+ | prev_year  = 2014
+ | title      = I Want You to Know
+ | year       = 2015
+ | next_title = [[Good for You (Selena Gomez song)|Good for You]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|X46t8ZFqUB4|"I Want You to Know"}} }}
+}}
+
+"'''I Want You to Know'''" is a song by German [[Record producer|music producer]] [[Zedd]], featuring vocals from American singer [[Selena Gomez]] from the former's second studio album, ''[[True Colors (Zedd album)|True Colors]]'' (2015). It was written by Zedd, [[OneRepublic]]'s frontman [[Ryan Tedder]], and [[KDrew]]. "I Want You to Know" was released on 23 February 2015 as the album's lead single and debuted on American [[contemporary hit radio]] on 3 March 2015, receiving generally positive reviews from [[music critics]]. It charted within the top 10 in Finland, as well as the top 40 in fifteen additional countries. It has been certified platinum in the United States and Sweden. It won a [[Latin American Music Awards|Latin American Music Award]] for Favorite Dance Song in 2015. It is also featured in the video games ''[[Guitar Hero Live]]'', ''[[Dance Dance Revolution A]]'' and ''[[NBA 2K16]]''.
+
+==Background==
+"I Want You to Know" is an [[Electronic dance music|EDM]]<ref name="inquis">{{cite web|url=http://www.inquisitr.com/1867209/zedd-i-want-you-to-know-selena-gomez/|title=Zedd's Underwhelming 'I Want You To Know ft. Selena Gomez' Hits No. 1 On iTunes Dance Chart [Review]|first=Page|last=Mackinley|date=February 23, 2015|publisher=The Inquisitr|access-date=April 7, 2017}}</ref> and [[electropop]] track<ref name="azteca">{{cite web|url=http://www.aztecatrends.com/notas/musica/199030/selena-gomez-y-zedd-estrenan-i-want-you-to-know-audio|title=Selena Gomez y Zedd estrenan 'I want you to know' AUDIO|url-status=dead|archive-url=https://web.archive.org/web/20150224185419/http://www.aztecatrends.com/notas/musica/199030/selena-gomez-y-zedd-estrenan-i-want-you-to-know-audio|first=Isth|last=GuPla|date=February 23, 2015|archive-date=February 24, 2015|language=es|publisher=Azteca Trends|access-date=May 23, 2019}}</ref> written by Zedd, [[Ryan Tedder]], and [[KDrew]].<ref>{{cite web|title=I Want You To Know &#124; Zedd&nbsp;&ndash; Télécharger et écouter l'album|url=http://www.qobuz.com/fr-fr/album/i-want-you-to-know-zedd/0060254724802|publisher=Qobuz.com|access-date=26 February 2015|url-status=dead|archive-url=https://web.archive.org/web/20150226213201/http://www.qobuz.com/fr-fr/album/i-want-you-to-know-zedd/0060254724802|archive-date=26 February 2015|language=fr}}</ref> Tedder and Zedd had previously worked together on ''[[Clarity (Zedd album)|Clarity]]'' album track "Lost at Sea".<ref name="billboard1">{{cite magazine|last1=Lipshutz|first1=Jason|title=The Lyca Gairanod/Zedd Single Will Likely Come Out in February, Says Ryan Tedder|url=http://www.billboard.com/articles/events/grammys-2015/6465540/selena-gomez-zedd-single-release|magazine=[[Billboard (magazine)|Billboard]]|access-date=February 25, 2015|date=February 8, 2015}}</ref> Tedder called Zedd when he had an idea of a track.<ref name="billboard1"/> Zedd and Gomez first met by accident on 4 December 2014, with Zedd stating: "Our studios are right across the street from each other, and I just went to the bathroom and ran into her at the studio."<ref name=":0">{{Cite news|title = EDM's Zedd Finds New Voice, Shows Growth on 'True Colors'|url = https://www.nytimes.com/aponline/2015/07/15/arts/ap-us-music-zedd.html|archive-url = https://web.archive.org/web/20150723051501/http://www.nytimes.com/aponline/2015/07/15/arts/ap-us-music-zedd.html|url-status = dead|archive-date = 2015-07-23|newspaper = The New York Times|date = 2015-07-15|access-date = 2015-08-21|issn = 0362-4331}}</ref> The following day, Gomez posted a picture online with Zedd although did not confirm they were working together.<ref>{{cite magazine|last1=Vena|first1=Jocelyn|title=Selena Gomez Hangs With Jennifer Aniston, Zedd|url=http://www.billboard.com/articles/news/6385926/selena-gomez-hangs-with-jennifer-aniston-zedd|magazine=Billboard|date=6 December 2014}}</ref> Describing her featuring, he said: "We recorded her vocal and I loved it, and I never tried anyone else on [the song]."<ref name=":0" /> Commenting on the song, Tedder said: "[[Zedd (musician)|Zedd]] crushed it."<ref name="billboard1"/>
+
+==Composition==
+Musically, according to the sheet music published at Musicnotes.com, "I Want You to Know" is written in the key of [[A Minor]] with a tempo of 130 beats per minute. It follows a chord progression of Am-Em-F-Cadd9-C.<ref>[http://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0147704 Zedd "I Want You to Know" Sheet Music]. musicnotes.com</ref>
+
+==Critical reception==
+The song has received generally positive reviews. Nolan Feeney of ''[[Time (magazine)|Time]]'' applauded the collaboration between Zedd and Gomez saying they "make beautiful music together". He explained: "Zedd's futuristic synthesizers recall '[[Break Free (Ariana Grande song)|Break Free]],' his literally-out-of-this-world collaboration with [[Ariana Grande]], but Gomez [...] keeps the track from becoming a lifeless carbon copy."<ref>{{cite magazine|last1=Feeney|first1=Nolan|title=Selena Gomez and Zedd Make a Great Team on 'I Want You to Know'|url=https://time.com/3719148/selena-gomez-zedd-i-want-you-to-know/|magazine=[[Time (magazine)|Time]]|access-date=February 25, 2015|date=February 23, 2015}}</ref>  Jason Lipshutz of ''[[Billboard (magazine)|Billboard]]'' wrote that Gomez "finally hit her mark" with the song. "Gomez has never been known as a vocal powerhouse, but she deftly handles patently overdramatic lines [...] with the proper amount of yearning and unflappability. When that first drop does arrive about 80 seconds in, Zedd provides a swiveling party scene with a whiff of [[Daft Punk]]'s maximalist disco thrown in for good measure."<ref>{{cite magazine|last1=Lipshutz|first1=Jason|title=Zedd Gives Selena Gomez The Perfect Muse on 'I Want You To Know': Listen|url=https://www.billboard.com/music/pop/zedd-selena-gomez-i-want-you-to-know-single-stream-6480293/|magazine=[[Billboard (magazine)|Billboard]]|access-date=February 23, 2015|date=February 25, 2015}}</ref> Writing for the same publication, Dan Hyman awarded the song two stars out of a possible five, stating that it "never finds its footing, and never rises above the clichéd EDM formula it follows to a T".<ref>{{cite magazine |url=http://www.billboard.com/articles/news/6494734/best-and-worst-singles-of-the-week-kanye-west-kacey-musgraves-carly-rae-jepsen-zedd-selena-gomez |title=Best and Worst Singles of the Week: From Kanye West to Kacey Musgraves |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=March 6, 2015 |access-date=March 20, 2015}}</ref>
+
+''Music Times'' praised the song: "The duo's real life chemistry is present in "I Want You to Know," with Gomez's voice weaving perfectly through the beat, and it's a wonder why she hasn't ventured much into the world of EDM before."<ref>{{cite web|url=http://www.musictimes.com/articles/29385/20150223/zedd-selena-gomez-release-i-want-you-to-know.htm|title=Zedd, Selena Gomez 'I Want You to Know' Review: Couple's Chemistry Shines Through on Glitzy Dance Track [LISTEN]
+|first=Carolyn|last=Menyes|date=February 23, 2015|access-date=May 24, 2019}}</ref> ''Inquisitr'' called this song "underwhelming given all the hype."<ref name="inquis"/> [[Idolator (website)|Idolator]] also wrote a mixed opinion "Zedd borrows his tried-and-true EDM formula that doesn’t bring anything new to the genre, while Gomez’s vocals churn around the rhythms like clothes on auto-spin. It is not the most exciting track, but it will have people bopping at the nightclubs."<ref>{{cite web|url=http://www.idolator.com/7582205/selena-gomez-zedd-i-want-you-to-know-listen|archive-url=https://archive.today/20150223190845/http://www.idolator.com/7582205/selena-gomez-zedd-i-want-you-to-know-listen|url-status=dead|archive-date=February 23, 2015|title=Selena Gomez & Zedd Release "I Want You To Know": Listen|first=Bianca|last=Gracie|date=February 23, 2015|access-date=May 24, 2019}}</ref>
+
+==Chart performance==
+Two days after its release, the song debuted at No. 6 on the US [[Dance/Electronic Digital Songs]] chart and No. 9 on the full US [[Dance/Electronic Songs]] chart.<ref>{{cite magazine|last1=Murray|first1=Gordon|title=Zedd, Selena Gomez Launch in Hot Dance/Electronic Songs Chart's Top 10|url=https://www.billboard.com/pro/zedd-selena-gomez-launch-in-hot-danceelectronic-songs-charts-top/|access-date=March 3, 2015|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|date=February 27, 2015}}</ref> On the chart dated 14 March 2015, "I Want You to Know" debuted at number 24 on the US [[Mainstream Top 40]] chart (the highest debut on the chart that week) and at number 22 on the US [[Dance/Mix Show Airplay]] chart. On the week of 14 March, the song debuted at its peak position of number 17 on the US [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{cite magazine|last1=Trust|first1=Gary|title=Chart Highlights: Mark Ronson, Bruno Mars Top Adult Pop Songs, Nate Ruess Debuts Solo|url=https://www.billboard.com/pro/chart-highlights-mark-ronson-bruno-mars-top-adult-pop-songs-nate/|access-date=March 3, 2015|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|date=March 2, 2015}}</ref> It also peaked at number 14 in UK Singles Chart. As of July 2015, "I Want You To Know" has sold 511,000 copies in the US.<ref>{{cite magazine |url=https://www.billboard.com/pro/ask-billboard-is-there-an-unusually-high-number-of-new-acts-in/|title=Ask Billboard: Is There an Unusually High Number of New Acts in the Hot 100's Top 10? |last=Trust |first=Gary |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=July 19, 2015|url-status=live|archive-url=https://web.archive.org/web/20180916225929/https://www.billboard.com/articles/columns/chart-beat/6634614/ask-billboard-is-there-an-unusually-high-number-of-new-acts-in|archive-date=September 16, 2018|access-date=May 23, 2019}}</ref> It has been certified 2x Platinum in the United States.
+
+In France, although the song failed to enter into the [[French Singles Chart]]'s top forty, it peaked at no. 12 at the French Airplay Chart.<ref>{{cite web|url=https://snepmusique.com/classement-radio/?semaine=18?&annee=2015|title=Top de la semaine|work=snepmusique.com|publisher=[[Syndicat National de l'Edition Phonographique]]|date=May 18, 2015|access-date=September 21, 2025}}</ref>
+
+It has been certified Platinum in Sweden. It has also been certified Gold in Australia, Denmark and Italy.{{citation needed|date=September 2025}}
+
+==Music video==
+The music video was released on 10 March 2015 on [[Vevo]]. It was directed by Brent Bonacorso<ref>Gottlieb, Steven, "[http://www.videostatic.com/watch-it/2015/03/11/zedd-i-want-you-know-brent-bonacorso-dir Zedd 'I Want You to Know' (brent bonacorso, dir.)]", ''Video Static'', March 11, 2015.</ref><ref>"[http://collaborationfactory.com/news.php Collaboration Factory News: Brent Bonacorso directs Zedd, ft. Lyca Gairanod] {{Webarchive|url=https://web.archive.org/web/20150402102014/http://collaborationfactory.com/news.php|date=2015-04-02}}", Collaboration Factory, February 10, 2015.</ref> and edited by Anthony Chirco.<ref>[http://anthonychirco.com/ Anthony Chirco] official web site.</ref> Zedd said, "It's gonna be a sexy 70s video with a lot of very interesting effects. Really cool."<ref>{{cite web|author1=Amrisha|title=Behind The Scenes: Selena Gomez & Zedd's 'I Want You To Know'|url=http://www.filmibeat.com/hollywood/news/2015/behind-the-scenes-selena-zedd-song-i-want-you-to-know-177341.html|access-date=March 24, 2015|date=March 20, 2015}}</ref> The video focuses on Gomez going to a party club and dancing while Zedd appears as a hologram. The disco scenes are intercut with scenes where Zedd and Gomez are together illuminated by strobe lights.
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! scope="col" | Year
+! scope="col" | Award
+! scope="col" | Category
+! scope="col" | Result
+|-
+|rowspan="4"|2015
+|rowspan="2"|[[Teen Choice Awards]]
+| Choice Party Song<ref>{{cite web|url=http://www.teenchoice.com/article/wave-2-nominees|title=Check out 2015 Wave 2 Nominees! - Teen Choice on FOX|access-date=7 April 2017|url-status=dead|archive-url=https://web.archive.org/web/20160411172500/http://www.teenchoice.com/article/wave-2-nominees|archive-date=11 April 2016}}</ref>
+|{{nominated}}
+|-
+| Choice Theme Song
+|rowspan="2" {{Won}}
+|-
+| rowspan="1"|[[Latin American Music Awards]]
+| Favorite Dance Song<ref>{{cite web | url=http://www.eonline.com/news/704676/2015-latin-american-music-awards-selena-gomez-demi-lovato-more-snag-an-award-see-the-complete-winners-list | title=2015 Latin American Music Awards: Selena Gomez, Demi Lovato & More Snag an Award—See the Complete Winners List! | work=eonline | date=9 October 2015 | access-date=8 January 2016}}</ref>
+|}
+
+==Formats and track listings==
+{{Track listing
+| headline = Digital download and CD single<ref>{{Cite web|url=https://itunes.apple.com/gb/album/id968882820|archive-url=https://web.archive.org/web/20150225051122/https://itunes.apple.com/gb/album/id968882820|url-status=dead|archive-date=25 February 2015|title=I Want You To Know (feat. Selena Gomez) - Single by Zedd on Apple Music|website=iTunes|language=en|access-date=2017-02-11}}</ref>{{citation needed|date=March 2017}}
+| title1 = I Want You to Know
+| note1 = featuring Selena Gomez
+| length1 = 3:58
+}}
+
+{{Track listing
+| headline = Digital download – Lophiile Remix<ref>{{Cite web|url=https://music.apple.com/us/album/i-want-you-to-know-feat-selena-gomez-lophiile-remix-single/1433789910|title=I Want You to Know (feat. Selena Gomez) [Lophiile Remix] - Single by Zedd on Apple Music|website=iTunes|access-date=2017-02-11}}</ref>
+| title1 = I Want You to Know
+| note1 = featuring Selena Gomez) ([[Tyler Acord|Lophiile]] Remix
+| length1 = 2:58
+}}
+
+{{Track listing
+| headline = Digital download – Remixes<ref>{{Cite web|url=https://music.apple.com/gb/album/i-want-you-to-know-feat-selena-gomez-remixes-single/1444314785|title=I Want You to Know (feat. Selena Gomez) [Remixes] - Single by Zedd on Apple Music|website=iTunes|access-date=2017-02-11}}</ref>
+| title1 = I Want You to Know
+| note1 = featuring Selena Gomez) ([[Fox Stevenson]] Remix
+| length1 = 3:44
+| title2 = I Want You to Know
+| note2 = featuring Selena Gomez) ([[Marc Benjamin]] Remix
+| length2 = 4:57
+| total_length = 8:41
+}}
+
+==Credits and personnel==
+*[[Selena Gomez]] – lead vocals, background vocals
+*[[Zedd (musician)|Anton Zaslavski]], [[Ryan Tedder]], [[KDrew|Kevin Nicholas Drew]] – [[songwriters]] 
+*[[Zedd (musician)|Zedd]] – [[Record producer|producer]]
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Weekly chart performance for "I Want You to Know"
+! Chart (2015)
+! Peak<br/>position
+|-
+{{single chart|Australia|22|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=April 11, 2015|rowheader=true}}
+|-
+{{single chart|Austria|36|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 4, 2015|rowheader=true}}
+|-
+{{single chart|Flanders|40|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 4, 2015|rowheader=true}}
+|-
+{{single chart|Wallonia Tip|6|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 4, 2015|rowheader=true}}
+|-
+{{single chart|Canada|19|artist=Zedd|song=I Want You To Know|access-date=March 5, 2015|rowheader=true}}
+|-
+{{single chart|CIS|60|artist=Zedd feat. Selena Gomez|song=I Want You To Know|songid=63010|rowheader=true|access-date=April 18, 2021}}
+|-
+{{single chart|Czech Republic|26|year=2015|week=15|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Czechdigital|10|year=2015|week=13|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Denmark|25|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 21, 2015|rowheader=true}}
+|-
+{{single chart|Billboardeurodigital|15|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Finland|7|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 23, 2015|rowheader=true}}
+|-
+{{single chart|France|61|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 4, 2015|rowheader=true}}
+|-
+! scope="row"|France Airplay ([[Syndicat National de l'Edition Phonographique|SNEP]])<ref>{{cite web|title=Top de la semaine|url=https://snepmusique.com/classement-radio/?semaine=18?&annee=2015|access-date=May 3, 2015}}</ref>
+|style="text-align:center;"|12
+|-
+{{single chart|Germany|39|artist=Zedd feat. Selena Gomez|song=I Want You To Know|songid=1390351|access-date=April 3, 2020|rowheader=true}}
+|-
+! scope="row"| Hong Kong ([[Hong Kong Recording Industry Alliance|HKRIA]])<ref>{{cite web|url=http://musicweekly.asia/charts/top-30-singles-hong-kong |title=Top 30 Singles Chart Hong Kong |publisher=[[Hong Kong Recording Industry Alliance]] |date=March 22, 2015 |access-date=August 8, 2025 |url-status=unfit |archive-url=https://web.archive.org/web/20150322011751/http://musicweekly.asia/charts/top-30-singles-hong-kong |archive-date=22 March 2015 }}</ref>
+| 12
+|-
+{{single chart|Hungarysingle|12|year=2015|week=9|access-date=March 5, 2015|rowheader=true}}
+|-
+{{single chart|Hungarystream|14|year=2015|week=13|access-date=October 16, 2026|rowheader=true}}
+|-
+{{single chart|Ireland2|23|song=I Want You To Know|access-date=January 20, 2020|rowheader=true}}
+|-
+{{single chart|Italy|49|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=June 11, 2015|rowheader=true}}
+|-
+{{single chart|Billboardjapanhot100|21|artist=Zedd|song=I Want You To Know|access-date=July 19, 2015|rowheader=true}}
+|-
+! scope="row"|Mexico Anglo ([[Monitor Latino]])<ref>{{cite web|url=http://charts.monitorlatino.com/top20/Print/Mexico/Anglo/20150420|title=Top 20 Inglés Del 20 al 26 de Abril, 2015|date=2015-04-20|work=Monitor Latinoaccessdate=2018-05-02}}</ref>
+|style="text-align:center;"|17
+|-
+{{single chart|Dutch40|30|artist=Zedd feat. Selena Gomez|song=I Want You To Know|rowheader=true|access-date=July 19, 2015}}
+|-
+{{single chart|Dutch100|34|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 15, 2015|rowheader=true}}
+|-
+{{single chart|Norway|15|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 15, 2015|rowheader=true}}
+|-
+{{single chart|Scotland|5|artist=Zedd feat. Selena Gomez|song=I Want You To Know|date=2015-07-14|access-date=March 19, 2016|rowheader=true}}
+|-
+{{single chart|Slovakia|53|year=2015|week=19|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Slovakdigital|18|year=2015|week=14|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Spain|85|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 15, 2015|rowheader=true}}
+|-
+{{single chart|Sweden|23|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=March 10, 2015|rowheader=true}}
+|-
+{{single chart|Switzerland|48|artist=Zedd feat. Selena Gomez|song=I Want You To Know|access-date=July 14, 2015|rowheader=true}}
+|-
+{{single chart|UK|14|artist=Zedd|date=2015-06-20|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|UKdance|4|artist=Zedd|date=2015-06-20|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Ukraineradio|35|artist=Zedd feat. Selena Gomez|song=I Want You To Know|date=20150306-20150312|access-date=June 15, 2025|rowheader=true}}
+|-
+{{single chart|Billboardhot100|17|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Billboardadultpopsongs|36|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Billboarddanceelectronic|1|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Billboarddanceclubplay|14|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Billboardpopsongs|11|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+{{single chart|Billboardrhythmic|40|artist=Zedd|rowheader=true|access-date=July 14, 2015}}
+|-
+|}
+<!-- Before adding any other US charts please review/consult [[WP:USCHARTS#Single charts]] & [[WP:CHARTMATH]]. -->
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders sortable" style="text-align:center;"
+|+2015 year-end chart performance for "I Want You to Know"
+!Chart (2015)
+!Position
+|-
+!scope="row"|Australia Dance (ARIA)<ref>{{cite web|url=http://www.aria.com.au/aria-charts-end-of-year-charts-dance-singles-2015.htm|title=End Of Year Charts – Top 50 Dance Singles 2015|publisher=[[ARIA Charts]]|access-date=25 September 2018}}</ref>
+| 21
+|-
+!scope="row"|Belgium Dance (Ultratop Flanders)<ref>{{cite web|url=https://www.ultratop.be/nl/annual.asp?year=2015&cat=sd|title=Jaaroverzichten 2015: Dance|language=nl|publisher=Ultratop Flanders|access-date=25 September 2018}}</ref>
+| 96
+|-
+!scope="row"|Belgium Dance (Ultratop Wallonia)<ref>{{cite web|url=https://www.ultratop.be/fr/annual.asp?year=2015&cat=sd|title=Rapports Annuels 2015: Dance|language=fr|publisher=Ultratop Wallonia|access-date=25 September 2018}}</ref>
+| 47
+|-
+!scope="row"|Canada ([[Canadian Hot 100]])<ref>{{cite web|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100?page=3|title=Best of 2015: Canadian Hot 100|publisher=Prometheus Global Media|access-date=December 9, 2015}}</ref>
+| 93
+|-
+! scope="row"| Netherlands Dance (MegaCharts)<ref>{{cite web|title=Jaaroverzichten – Dance 2015|url=https://dutchcharts.nl/jaaroverzichten.asp?year=2015&cat=sd|language=nl|publisher=MegaCharts|access-date=25 September 2018}}</ref>
+| 34
+|-
+! scope="row"| Sweden (Sverigetopplistan)<ref>{{cite web |url=http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=43&dfom=20150001|title=Årslista Singlar – År 2015|url-status=dead|archive-url=https://web.archive.org/web/20160126190002/http://www.sverigetopplistan.se/netdata/ghl002.mbr/lista?liid=43&dfom=20150001|archive-date=January 26, 2016|language=sv |publisher=[[Sverigetopplistan]]. [[Swedish Recording Industry Association]] |access-date=May 24, 2019}}</ref>
+| 99
+|-
+! scope="row"| US Hot Dance/Electronic Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2015/hot-dance-electronic--songs|title=Hot Dance/Electronic Songs – Year-End 2015|magazine=Billboard|access-date=25 September 2018}}</ref>
+| 10
+|}
+
+===Decade-end charts===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Decade-end chart performance for "I Want You to Know"
+! scope="col"| Chart (2010–2019)
+! scope="col"| Position
+|-
+! scope="row"| US Hot Dance/Electronic Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/decade-end/hot-dance-electronic-songs-2013-on|title=Decade-End Charts: Hot Dance/Electronic Songs (2013-ON)|magazine=Billboard|access-date=November 26, 2019}}</ref>
+| 43
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "I Want You to Know"}}
+{{Certification Table Entry|region=Australia|relyear=2015|certyear=2025|title=I Want You to Know|artist=Zedd feat. Selena Gomez|type=single|award=Platinum|number=2|access-date=14 May 2025}}
+{{Certification Table Entry|region=Denmark|type=single|title=I Want You to Know|artist=Zedd feat. Selena Gomez|award=Gold|relyear=2015|certyear=2015|id=5230|access-date=5 August 2015}}
+{{Certification Table Entry|region=Germany|type=single|title=I Want You to Know|artist=Zedd feat. Selena Gomez|award=Gold|relyear=2015|certyear=2023|access-date=5 June 2023}}
+{{Certification Table Entry|region=Italy|type=single|title=I Want You to Know|artist=Zedd feat. Selena Gomez|award=Gold|relyear=2015|certyear=2015|certweek=26|id=3085|access-date=27 February 2015}}
+{{Certification Table Entry|region=New Zealand|artist=Zedd feat. Selena Gomez|title=I Want You to Know|award=Gold|type=single|relyear=2015|certyear=2015|access-date=18 December 2024|source=radioscope}}
+{{Certification Table Entry|region=Sweden|relyear=2015|certyear=2015|certweek=28|position=85|title=I Want You to Know|artist=Zedd feat. Selena Gomez|type=single|award=Platinum|access-date=5 July 2020}}
+{{Certification Table Entry|region=United Kingdom|relyear=2015|certyear=2019|title=I Want You to Know|artist=Zedd ft Selena Gomez|type=single|award=Silver|access-date=18 October 2019|id=15963-5082-1}}
+{{Certification Table Entry|region=United States|relyear=2015|certyear=2025|title=I Want You to Know|artist=Zedd|type=single|award=Platinum|number=2|access-date=7 May 2025}}
+{{Certification Table Bottom|streaming=true}}
+
+==Release history==
+{|class="wikitable plainrowheaders"
+|+Release dates for "I Want You to Know"
+!scope="col"|Country
+!scope="col"|Date
+!scope="col"|Format
+!scope="col"|Label
+|-
+! scope="row"| Italy<ref>{{cite web|url=http://www.radioairplay.fm/RadioDate/PublicDetails/122953/ZEDD-I-want-you-to-know--feat--Selena-Gomez--Interscope-Records|title=Zedd – I Want You To Know (feat. Selena Gomez)|url-status=dead|archive-url=https://web.archive.org/web/20150403094707/http://www.radioairplay.fm/RadioDate/PublicDetails/122953/ZEDD-I-want-you-to-know--feat--Selena-Gomez--Interscope-Records|archive-date=April 3, 2015|access-date=May 24, 2019}}</ref>
+| 27 February 2015
+| rowspan="2"| [[Contemporary hit radio]]
+| rowspan="4"| [[Interscope Records|Interscope]]
+|-
+! scope="row"| United States<ref>{{cite web|url=http://www.allaccess.com/top40-mainstream/future-releases |title=Top 40/M Future Releases |access-date=2014-06-17 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20150301090025/http://www.allaccess.com/top40-mainstream/future-releases |archive-date=March 1, 2015 }}</ref>
+| 3 March 2015
+|-
+! scope="row"| Ireland<ref>{{cite web|title=I Want You to Know (feat. Selena Gomez) - Single by Zedd|url=https://itunes.apple.com/ie/album/i-want-you-to-know-feat.-selena/id968882820|archive-url=https://web.archive.org/web/20150306032259/https://itunes.apple.com/ie/album/i-want-you-to-know-feat.-selena/id968882820|url-status=dead|archive-date=6 March 2015|website=iTunes (Ireland)}}</ref>
+|rowspan="2"| 7 June 2015
+| rowspan="2"| [[Music download|Digital download]]
+|-
+! scope="row"| United Kingdom<ref>{{cite web|title=I Want You to Know feat. Selena Gomez) - Single by Zedd|url=https://itunes.apple.com/gb/album/i-want-you-to-know-feat.-selena/id968882820|archive-url=https://web.archive.org/web/20150306032255/https://itunes.apple.com/gb/album/i-want-you-to-know-feat.-selena/id968882820|url-status=dead|archive-date=6 March 2015|website=iTunes (UK)}}</ref>
+|-
+|}
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* {{YouTube|67qworViFpY|Audio}}
+
+{{Zedd}}
+{{Selena Gomez}}
+
+{{Authority control}}
+
+[[Category:2014 songs]]
+[[Category:2015 singles]]
+[[Category:Electronic dance music songs]]
+[[Category:Electropop songs]]
+[[Category:Interscope Records singles]]
+[[Category:Selena Gomez songs]]
+[[Category:Songs written by Ryan Tedder]]
+[[Category:Songs written by Zedd]]
+[[Category:Zedd songs]]

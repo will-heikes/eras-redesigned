@@ -1,0 +1,98 @@
+{{Infobox song
+| name       = Adore
+| cover      = CashmereAdore.png
+| alt        =
+| type       = single
+| artist     = [[Cashmere Cat]] featuring [[Ariana Grande]]
+| album      = [[9 (Cashmere Cat album)|9]] {{Noitalic|(Japanese deluxe)}}
+| released   = {{Start date|2015|3|3}}
+| recorded   = {{Start date|2015|1|23}}
+| studio     =
+| genre      = 
+* [[Electronic music|Electronic]]
+* [[Contemporary R&B|R&B]]
+| length     = {{Duration|m=3|s=35}}
+| label      = 
+* Friends Keep Secrets
+* [[Interscope Records|Interscope]]<ref name="itunes us">{{cite web|title =Adore (feat. Ariana Grande) – Single by Cashmere Cat|url=https://itunes.apple.com/us/album/adore-feat.-ariana-grande/id971609066|archive-url=https://web.archive.org/web/20150304172752/https://itunes.apple.com/us/album/adore-feat.-ariana-grande/id971609066|url-status=dead|archive-date=March 4, 2015|publisher=[[iTunes Store]]. [[Apple Inc]]|accessdate=28 March 2015}}</ref>
+| writer     = 
+* [[Babyface (musician)|Kenneth "Babyface" Edmonds]]
+* [[Jeremih|Jeremih Felton]]
+* [[Cashmere Cat|Magnus August Høiberg]]
+* [[Benny Blanco|Benjamin Levin]]
+* [[Lido (musician)|Peder Losnegård]]
+* [[Ammar Malik]]
+* [[Daryl Simmons|Darryl Simmons]]
+| producer   = 
+* Cashmere Cat
+* [[Lido (musician)|Lido]]
+* [[Benny Blanco]]
+| chronology = [[Cashmere Cat]]
+| prev_title = Ice Rink
+| prev_year  = 2015
+| next_title = [[Wild Love (Cashmere Cat song)|Wild Love]]
+| next_year  = 2016
+| misc       = {{Extra chronology
+ | artist     = [[Ariana Grande]]
+ | type       = single
+ | prev_title = [[One Last Time (Ariana Grande song)|One Last Time]]
+ | prev_year  = 2015
+ | title      = Adore
+ | year       = 2015
+ | next_title = [[E più ti penso]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|MdoB_kYLTGw|"Adore"}}|header=Audio video}}
+}}
+
+"'''Adore'''" is a song recorded by Norwegian DJ and record producer [[Cashmere Cat]], featuring vocals by American singer-songwriter [[Ariana Grande]]. It was written and produced by Cashmere along with [[Benny Blanco]] and [[Lido (musician)|Lido]], and co-written by [[Ammar Malik]], [[Jeremih Felton]], [[Babyface (musician)|Kenneth "Babyface" Edmonds]] and Darryl Simmons. "Adore" was [[Music download|digitally]] released on March 3, 2015 by Friends Keep Secrets and [[Interscope Records]].<ref name="itunes us"/>
+
+==Background and composition==
+"Adore" is the second collaboration between Cashmere Cat and Grande, the first being the song "Be My Baby", from Grande's second studio album, ''[[My Everything (Ariana Grande album)|My Everything]]'' (2014).<ref>{{Cite web|url = http://www.mtv.com/news/2091420/cashmere-cat-new-ariana-grande-song/|archive-url = https://web.archive.org/web/20150228101231/http://www.mtv.com/news/2091420/cashmere-cat-new-ariana-grande-song/|url-status = dead|archive-date = February 28, 2015|title = Cashmere Cat Debuts New Ariana Grande Song During Honeymoon Tour Kickoff|date = February 26, 2015|accessdate = March 28, 2015|website = [[MTV]]|last = Roth|first = Madeline}}</ref><ref name=MTV>{{Cite web|url = http://www.mtv.com/news/2094803/ariana-grande-cashmere-cat-adore-song/|archive-url = https://web.archive.org/web/20150305004339/http://www.mtv.com/news/2094803/ariana-grande-cashmere-cat-adore-song/|url-status = dead|archive-date = March 5, 2015|title = Ariana Grande's New Song With Cashmere Cat Will Have You Screaming 'My My Myyyyy My My My My!'|date = March 3, 2015|accessdate = March 28, 2015|website = MTV|last = Lindner|first = Emilee}}</ref> The song features a heavy dose of breathy, falsetto vocals, atmospheric elements, subtle dance beats and punches of clattering percussion, and a vocal interpolation of [[Johnny Gill]]'s classic R&B hit "[[My, My, My (Johnny Gill song)|My, My, My]]".<ref name=MTV />
+
+==Live performances==
+The song was first presented on Grande's [[The Honeymoon Tour]] where [[Cashmere Cat]] performed the song with Grande during his opening act.<ref>{{cite magazine|last=Vena|first=Jocelyn|title=Watch Ariana Grande & Cashmere Cat Perform 'Adore'|url=http://www.billboard.com/articles/news/6487745/watch-ariana-grande-cashmere-cat-perform-adore|magazine=[[Billboard (magazine)|Billboard]]|date=March 4, 2015|accessdate=March 5, 2015}}</ref> It was also performed as an interlude for the [[Sweetener World Tour]]  <ref>https://www.youtube.com/watch?v=cKuuUNl_JGA</ref> for leg 2 and 3
+
+==Critical reception==
+''[[USA Today]]'' ranked the song as one of the 50 best in 2015, writing, "Grande’s towering vocals have never sounded better than on this offbeat R&B track."<ref>McDermott, Maeve and Patrick Ryan. [https://www.usatoday.com/story/life/music/2015/12/22/songs-of-the-year-2015/77689258/ "The 50 best songs of 2015"], ''USA Today'', December 22, 2015</ref>
+
+==Commercial performance==
+Commercially, the song peaked at number 93 on the US [[Billboard Hot 100|''Billboard'' Hot 100]], becoming Cashmere Cat's first appearance on that chart.<ref name="US"/>
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+! Chart (2015)
+! Peak<br />position
+|-
+{{single chart|Flanders Urban|27|artist=Cashmere Cat feat. Ariana Grande|song=Adore|accessdate=March 14, 2015|rowheader=true}}
+|-
+{{single chart|Billboardhot100|93|artist=Cashmere Cat|song=Adore|rowheader=true|accessdate=April 25, 2015|refname="US"}}
+|}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+* [https://soundcloud.com/cashmerecat Cashmere Cat] at [[SoundCloud]]
+
+{{Cashmere Cat}}
+{{Ariana Grande songs}}
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:Ariana Grande songs]]
+[[Category:Interscope Records singles]]
+[[Category:Norwegian electronic songs]]
+[[Category:Songs written by Benny Blanco]]
+[[Category:Songs written by Ammar Malik]]
+[[Category:Songs written by Babyface (musician)]]
+[[Category:Songs written by Daryl Simmons]]
+[[Category:Songs written by Jeremih]]
+[[Category:Song recordings produced by Benny Blanco]]
+[[Category:Song recordings produced by Cashmere Cat]]
+[[Category:Torch songs]]
+[[Category:Songs written by Cashmere Cat]]
+[[Category:Cashmere Cat songs]]
+[[Category:Songs written by Lido (musician)]]

@@ -1,0 +1,205 @@
+{{short description|2013 single by will.i.am}}
+{{Use mdy dates|date=August 2016}}
+{{Infobox song
+| name       = Feelin' Myself
+| cover      = FeelinMyselfCover.png
+| alt        =
+| type       = single
+| artist     = [[will.i.am]] featuring [[Miley Cyrus]], [[French Montana]], [[Wiz Khalifa]] and [[DJ Mustard]]
+| album      = [[willpower (will.i.am album)|#willpower]]
+| released   = November 26, 2013
+| recorded   =
+| studio     = [[Record Plant]] (Los Angeles, CA)<ref>{{cite AV media notes|others=[[will.i.am]]|title=#willpower|year=2013|publisher=[[Interscope Records]]}}</ref>
+| venue      =
+| genre      = {{hlist|[[West Coast hip hop]]|[[electro-hop]]}}
+| length     = {{Duration|m=4|s=13}}
+| label      = [[Interscope Records|Interscope]]
+| writer     = {{flatlist|
+*[[will.i.am|William Adams]]
+*Jean-Baptiste
+*[[DJ Mustard|Dijon McFarlane]]
+*[[French Montana|Karim Kharbouch]]
+*[[Mike Free|Mikely Adam]]
+*[[Wiz Khalifa|Cameron Jibril Thomaz]]
+}}
+| producer   = {{flatlist|
+*[[DJ Mustard]]
+}}
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+| misc       = {{Extra chronology
+ | artist     = [[will.i.am]]
+ | type       = single
+ | prev_title = [[Something Really Bad]]
+ | prev_year  = 2013
+ | title      = Feelin' Myself
+ | year       = 2013
+ | next_title = [[It's My Birthday]]
+ | next_year  = 2014
+}}{{Extra chronology
+ | artist     = [[Miley Cyrus]]
+ | type       = single
+ | prev_title = [[Real and True]]
+ | prev_year  = 2013
+ | title      = Feelin' Myself
+ | year       = 2013
+ | next_title = [[Adore You (Miley Cyrus song)|Adore You]]
+ | next_year  = 2013
+}}{{Extra chronology
+ | artist     = [[French Montana]]
+ | type       = single
+ | prev_title = [[I Swear (Ice Prince song)|I Swear]]
+ | prev_year  = 2013
+ | title      = Feelin' Myself
+ | year       = 2013
+ | next_title = [[Loyal (Chris Brown song)|Loyal]]
+ | next_year  = 2013
+}}
+{{Extra chronology
+ | artist     = [[Wiz Khalifa]]
+ | type       = single
+ | prev_title = [[Think About It (Naughty Boy song)|Think About It]]
+ | prev_year  = 2013
+ | title      = Feelin' Myself
+ | year       = 2013
+ | next_title = [[Or Nah (Ty Dolla Sign song)|Or Nah]]
+ | next_year  = 2014
+}}
+{{Extra chronology
+ | artist     = [[DJ Mustard]]
+ | type       = single
+ | prev_title = [[This D]]
+ | prev_year  = 2013
+ | title      = Feelin' Myself
+ | year       = 2013
+ | next_title = [[Left, Right]]
+ | next_year  = 2013
+}}
+{{External music video|{{YouTube|VRuoR--LdqQ|"Feelin' Myself"}}}}
+}}
+{{Song ratings
+|rev1=[[Digital Spy]]
+|rev1Score={{rating|3|5}}<ref name = "Digital Spy">{{cite web|last=Corner|first=Lewis|date=December 21, 2013|url=https://www.digitalspy.com/music/review/a539868/william-ft-miley-cyrus-feelin-myself-single-review.html|title=will.i.am ft. Miley Cyrus: 'Feelin' Myself' - Single review|publisher=[[Digital Spy]]|access-date=December 26, 2013}}</ref>
+|rev2=''[[Rolling Stone]]''
+|rev2Score={{rating|2|5}}<ref name = "Rolling Stone">{{cite magazine|last=Dolan|first=Jon|date=November 15, 2013|url=https://www.rollingstone.com/music/songreviews/feeling-myself-20131115|archive-url=https://web.archive.org/web/20131124005526/http://www.rollingstone.com/music/songreviews/feeling-myself-20131115|url-status=dead|archive-date=November 24, 2013|title=Will.i.am feat. Miley Cyrus, French Montana and Wiz Khalifa, Feelin' Myself|magazine=[[Rolling Stone]]|access-date=December 26, 2013}}</ref>
+}}
+
+"'''Feelin' Myself'''" is a song by American rapper & singer [[will.i.am]] featuring singer [[Miley Cyrus]], rappers [[French Montana]] and [[Wiz Khalifa]], and record producer [[DJ Mustard]]. It was released on November 26, 2013, by [[Interscope Records]] as the [[lead single]] from the re-release of will.i.am's fourth [[studio album]] ''[[Willpower (will.i.am album)|#willpower]]'' (2013). It was written by its performers along with Jean-Baptiste, while production was handled by non-performing guest artist Mustard. An accompanying music video was premiered on November 26, 2013. The songs instrumental was noted for its similarity to "Gettin Tho'd" by rapper [[Paul Wall]], which was also produced by Mustard. The song peaked at number ninety-six on the [[Billboard Hot 100|''Billboard'' Hot 100]]. 
+
+Outside the United States, the song peaked within the top ten of the charts in Belgium, the Republic of Ireland and the United Kingdom. "Feelin' Myself" has been described as a [[nightclub|club]]-oriented track which features its performers trading verses over a "glossy" [[West Coast hip hop]] beat. Despite generally negative reception, critics praised the song's production.<ref name="Digital Spy"/>
+
+==Background==
+"Feelin' Myself" marks the last of three collaborations between will.i.am and Cyrus in 2013. She first appeared on his track "[[Fall Down (will.i.am song)|Fall Down]]" for the original version of his fourth studio album, ''[[Willpower (will.i.am album)|#willpower]]'' (2013). will.i.am later appeared as a songwriter and producer on the track "Do My Thang" for Cyrus' fourth studio album, ''[[Bangerz]]'' (2013).
+
+The song was also featured in a commercial for Samsung's Milk Music app, which was later discontinued.
+
+==Critical reception==
+Lewis Corner of ''[[Digital Spy]]'' gave the song a moderate review stating: "The final result may be devoid of any musical credibility, but it's annoyingly catchy - and much like will.i.am's strange anti-carb diet shoutout, we've got a feeling this is going to be just as hard to give up in 2014." {{rating|3|5}}<ref>{{cite web|last1=Corner|first1=Lewis|title=will.i.am ft. Miley Cyrus: 'Feelin' Myself' - Single review|url=https://www.digitalspy.co.uk/music/review/a539868/william-ft-miley-cyrus-feelin-myself-single-review.html#~oNdCqLWFIgvNU2|website=[[Digital Spy]]|access-date=August 17, 2014|date=December 21, 2013}}</ref> ''[[Spin (magazine)|Spin]]'' wrote the song features "bleepy, stripped-bare production from ratchet-music man of the hour DJ Mustard".<ref>{{cite web|title=NEXT Miley Cyrus Is 'Feelin' Myself' With French Montana, Wiz Khalifa in Will.i.am Video|url=https://www.spin.com/2013/11/miley-cyrus-feelin-myself-will-i-am-dj-mustard-video/|website=[[Spin (magazine)|Spin]]|access-date=August 17, 2014|date=November 26, 2013}}</ref>
+James Shotwell of Under the Gun Review felt that the collaboration with the featured artists "didn't bring anything to the table you haven't heard before, and most of it has been said better on at least a dozen other songs. Will.i.am has gone from being on the forefront of pop music to barely staying on the bandwagon, and it’s getting more disappointing with each release."<ref>{{cite web|last1=Shotwell|first1=James|title=SINGLE REVIEW: will.i.am Featuring Miley Cyrus, Wiz Khalifa, and French Montana – "Feeling Myself"|url=http://www.underthegunreview.net/2013/11/05/single-review-will-i-am-featuring-miley-cyrus-wiz-khalifa-and-french-montana-feeling-myself/|publisher=Under the Gun Review|access-date=August 17, 2014|date=November 5, 2013|archive-url=https://web.archive.org/web/20140819082945/http://www.underthegunreview.net/2013/11/05/single-review-will-i-am-featuring-miley-cyrus-wiz-khalifa-and-french-montana-feeling-myself/|archive-date=August 19, 2014|url-status=dead}}</ref>
+
+==Music video==
+An accompanying music video for "Feelin' Myself," directed by Michael Jurkovac with graphic designer [[Pasha Shapiro]], was premiered through [[Vevo]] on November 26, 2013.<ref>{{cite web|url=https://www.rollingstone.com/music/videos/will-i-am-and-miley-cyrus-keep-it-classy-in-feelin-myself-20131126|title=Will.i.am and Miley Cyrus Keep it Classy in 'Feelin' Myself': Wiz Khalifa and French Montana join pop hit-makers for simple, sharp new video|access-date=November 27, 2013|date=November 26, 2013|work=[[Rolling Stone (magazine)|Rolling Stone]]|author=Blistein, John}}</ref><ref>{{cite web|url=https://www.hollywoodreporter.com/earshot/miley-cyrus-raps-williams-feelin-660079|title=Miley Cyrus Raps for Will.i.am's 'Feelin' Myself' (Video)|access-date=November 27, 2013|date=November 26, 2013|work=[[The Hollywood Reporter]]|author=Lee, Ashley}}</ref> All four artists appear in the video.
+
+==Track listing==
+*;Digital download<ref>{{cite web|url=https://itunes.apple.com/gb/album/feelin-myself-feat.-miley/id774793387 |archive-url=https://web.archive.org/web/20140605192412/https://itunes.apple.com/gb/album/feelin-myself-feat.-miley/id774793387 |url-status=dead |archive-date=June 5, 2014 |title=Feelin' Myself (feat. Miley Cyrus, Wiz Khalifa, French Montana & DJ Mustard) - Single by will.i.am |publisher=[[iTunes]]}}</ref>
+#"Feelin' Myself" (featuring Miley Cyrus, Wiz Khalifa, French Montana and DJ Mustard) <small>(Explicit)</small>
+#"Feelin' Myself" (featuring Miley Cyrus, Wiz Khalifa, French Montana and DJ Mustard) <small>(Clean)</small>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2013–2014)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Australia|34|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=February 7, 2020}}
+|-
+{{single chart|Flanders Tip|2|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=December 8, 2013|refname="Flanders"}}
+|-
+{{single chart|Flanders Urban|12|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=February 7, 2020}}
+|-
+{{single chart|Wallonia Tip|2|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=December 19, 2013}}
+|-
+{{single chart|Denmark|36|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=December 31, 2013}}
+|-
+{{single chart|France|50|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=December 19, 2013}}
+|-
+{{single chart|Germany|songid=1212560|55|artist=will.i.am feat. Miley Cyrus / Wiz Khalifa / French Montana / DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=December 19, 2013}}
+|-
+{{single chart|Ireland2|3|artist=will.i.am feat. Miley|song=Feelin' Myself|rowheader=true|access-date=March 21, 2023}}
+|-
+! scope="row"| Lebanon ([[The Official Lebanese Top 20]])<ref>{{cite web|url=http://www.olt20.com/Archive#&panel1-1|title=Archive Chart|publisher=[[The Official Lebanese Top 20]]|access-date=February 7, 2014}}</ref>
+| 18
+|-
+{{single chart|New Zealand|16|artist=will.i.am feat. Miley Cyrus, French Montana, Wiz Khalifa & DJ Mustard|song=Feelin' Myself|rowheader=true|access-date=January 18, 2014}}
+|-
+{{single chart|Scotland|2|date=20140202|rowheader=true|access-date=February 8, 2014}}
+|-
+{{single chart|UK|2|date=20140202|rowheader=true|access-date=February 7, 2020}}
+|-
+{{single chart|UKrandb|1|date=20140202|rowheader=true|access-date=February 8, 2014}}
+|-
+{{single chart|Billboardhot100|96|artist=will.i.am|rowheader=true|access-date=March 14, 2014}}
+|-
+{{single chart|Billboardrandbhiphop|29|artist=will.i.am|rowheader=true|access-date=March 2, 2014}}
+|-
+{{single chart|Billboardrhythmic|19|artist=will.i.am|rowheader=true|access-date=March 20, 2014}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Position
+|-
+! scope="row"| France (SNEP)<ref>{{cite web|url=https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?categorie=Top%20Single%20de%20l%E2%80%99ann%C3%A9e&annee=2014|title=Top de l'année Top Singles 2014|publisher=SNEP|language=fr|access-date=July 7, 2020}}</ref>
+| 198
+|-
+! scope="row"| UK Singles (Official Charts Company)<ref>{{cite web|url=https://www.officialcharts.com/charts/end-of-year-singles-chart/20140105/37501/|title=End of Year Singles Chart Top 100 – 2014|publisher=Official Charts Company|access-date=September 4, 2019}}</ref>
+| 49
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs – Year-End 2014|magazine=Billboard|date=January 2, 2013|access-date=December 26, 2019}}</ref>
+| 86
+|}
+{{col-2}}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Brazil|artist=will.i.am|title=Feelin' Myself|type=single|award=Gold|relyear=2013|certyear=2024|access-date=July 15, 2024}}
+{{Certification Table Entry|region=New Zealand|artist=Will.I.Am feat. Miley Cyrus, French Montana, Wiz Khalifa And DJ Mustard|title=Feelin' Myself|award=Platinum|type=single|relyear=2013|certyear=2015|access-date=December 21, 2024|source=radioscope}}
+{{Certification Table Entry|region=Sweden|artist=will.i.am feat. Miley Cyrus, French Montana M.FL.|title=Feelin' Myself|award=Gold|type=single|relyear=2013|certyear=2015|certref=<ref>{{cite web|url=http://sys2.grammotex.se/netdata/grp006.mbr/artdata?sart=3674553|title=will.i.am feat. Miley Cyrus, French Montana M.FL. – Feelin' Myself|publisher=[[Grammofonleverantörernas förening]]|language=sv|access-date=April 23, 2024|url-status=live|archive-url=https://web.archive.org/web/20240423025813/http://sys2.grammotex.se/netdata/grp006.mbr/artdata?sart=3674553|archive-date=April 23, 2024}}</ref>}}
+{{Certification Table Entry|region=United Kingdom|artist=Will I Am/Cyrus/Khalifa|title=Feelin' Myself|award=Platinum|type=single|relyear=2013|certyear=2020|id=12763-3873-1|access-date=February 7, 2020}}
+{{Certification Table Separator|title=Streaming}}
+{{Certification Table Entry|region=Denmark|artist=will.i.am feat. M Cyrus W Khalifa & F..|title=Feelin' Myself|award=Gold|type=single|relyear=2013|certyear=2014|certmonth=3|certday=14|id=5671|streamsonly=true|access-date=May 1, 2024}}
+{{Certification Table Bottom|streaming=true|noshipments=true|streamsonly=true}}
+
+==References==
+{{Reflist|2}}
+
+{{Will.i.am}}
+{{French Montana}}
+{{Miley Cyrus songs}}
+{{Wiz Khalifa singles}}
+{{DJ Mustard}}
+
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:2013 singles]]
+[[Category:French Montana songs]]
+[[Category:Miley Cyrus songs]]
+[[Category:Will.i.am songs]]
+[[Category:Wiz Khalifa songs]]
+[[Category:Song recordings produced by Mustard (record producer)]]
+[[Category:Songs written by Mustard (record producer)]]
+[[Category:Songs written by will.i.am]]
+[[Category:Songs written by Wiz Khalifa]]
+[[Category:Songs written by Jean-Baptiste (songwriter)]]
+[[Category:Songs written by French Montana]]

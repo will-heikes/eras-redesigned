@@ -1,0 +1,740 @@
+{{Short description|none}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Use dmy dates|date=July 2022}}
+{{Infobox artist discography
+| Artist       = [[Jessie Ware]]
+| Logo         = 
+| Image        = Jessie Ware in the Islington Assembly Hall in September 2017 (14).jpg
+| Caption      = Ware in 2017
+| Studio       = 6
+| Compilation  = 3
+| Singles      = 35
+| EP           = 4
+| Music videos = 31
+| Option name  = Reissues
+| Option       = 1
+}}
+British singer-songwriter [[Jessie Ware]] has released six [[studio album]]s (and one reissue), three [[compilation album]]s, thirty-five [[Single (music)|singles]], four [[extended plays]] and thirty-one [[music video]]s.
+
+Ware released her debut studio album ''[[Devotion (Jessie Ware album)|Devotion]]'' in 2012, charting at number five on the [[UK Albums Chart]]. The album included the singles "[[Running (Jessie Ware song)|Running]]", "[[110% (song)|110%]]" and "[[Wildest Moments]]". The album was later certified Gold by the [[British Phonographic Industry]] for sales over 100,000 copies. The singer's second album ''[[Tough Love (Jessie Ware album)|Tough Love]]'' was released in 2014, scoring Ware her second consecutive top-ten album. It includes the [[Tough Love (Jessie Ware song)|title track]] and the [[Ed Sheeran]]-penned "[[Say You Love Me (Jessie Ware song)|Say You Love Me]]" as singles. Both attained Ware's first top-forty positions on the [[UK Singles Chart]]. Her third album, ''[[Glasshouse (album)|Glasshouse]]'' was released in 2017 and again achieved a top-ten position in the UK. It includes the singles "[[Midnight (Jessie Ware song)|Midnight]]", "[[Selfish Love (Jessie Ware song)|Selfish Love]]" and "[[Alone (Jessie Ware song)|Alone]]". In 2020, she released ''[[What's Your Pleasure?]]'', her fourth album, it includes singles such as "[[Spotlight (Jessie Ware song)|Spotlight]]" and "[[Save a Kiss]]", the album peaked at number three in the UK, being her highest appearance on the chart. Her first two compilation albums were released in 2025.
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:11em;"| Sales
+! scope="col" rowspan="2" style="width:11em;"| [[Music recording sales certification|Certifications]]<br/>{{small|([[List of music recording sales certifications|sales thresholds]])}}
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br/><ref name="UK">{{cite web|url=https://www.officialcharts.com/artist/7447/jessie-ware/|title=Jessie Ware > UK Charts|publisher=[[Official Charts Company]]|accessdate=25 April 2026}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS">Jessie Ware peaks in Australia:
+* For all except noted: {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Jessie+Ware |title=australian-charts.com - Discography Jessie Ware |publisher=Hung Medien |access-date=25 July 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150919073457/http://australian-charts.com/showinterpret.asp?interpret=Jessie%2BWare |archive-date=19 September 2015}}
+* For "Say You Love Me": {{cite web|url=http://www.noise11.com/news/aria-singles-belgiums-lost-frequencies-tops-singles-chart-20150725 |title=ARIA Singles: Belgium's Lost Frequencies Tops Singles Chart |publisher=Noise11 |last=Ryan |first=Gavin |date=25 July 2015 |accessdate=25 July 2015}}
+* For ''Superbloom'': {{cite magazine|title=The ARIA Report: Week Commencing 27 April 2026|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1886|page=6|date=27 April 2026}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL]]<br/><ref name="BEL">{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Jessie+Ware|title=Discografie Jessie Ware|publisher=Belgium Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Hitlisten|DEN]]<br/><ref name="DEN">{{cite web|url=https://danishcharts.dk/showinterpret.asp?interpret=Jessie+Ware |title=Discography Jessie Ware |publisher=Danish Charts Portal. Hung Medien }}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Albums Chart|IRE]]<br/><ref name="IRE">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Jessie+Ware|archive-url=https://web.archive.org/web/20150417081417/http://irish-charts.com/showinterpret.asp?interpret=Jessie+Ware|url-status=dead|archive-date=17 April 2015|title=Discography Jessie Ware|publisher=Irish Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br/><ref name="NZ">{{cite web|url=https://charts.nz/showinterpret.asp?interpret=Jessie+Ware|title=Discography Jessie Ware|publisher=New Zealand Charts Portal. Hung Medien|accessdate=27 October 2017}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[OLiS|POL]]<br/><ref name="POL">Peak chart positions for studio albums in Poland:
+* ''Devotion'': {{cite web |url=http://olis.onyx.pl/listy/index.asp?idlisty=769&lang=en |title=OLiS – sales for the period 24.09.2012 – 30.09.2012 |publisher=[[Polish Society of the Phonographic Industry|ZPAV]] |accessdate=8 October 2012}}
+* ''Tough Love'': {{cite web |url=http://olis.onyx.pl/listy/index.asp?idlisty=891&lang=en |title=OLiS – sales for the period 13.10.2014 – 19.10.2014 |publisher=ZPAV |accessdate=27 October 2014}}
+* ''Glasshouse'': {{cite web |url=http://olis.onyx.pl/listy/index.asp?idlisty=1107&lang=en |title=OLiS – sales for the period 20.10.2017 – 26.10.2017 |publisher=ZPAV |accessdate=2 November 2017}}
+* ''What's Your Pleasure?'': {{cite web |url=http://olis.onyx.pl/listy/index.asp?idlisty=1295&lang=en |title=OLiS – sales for the period 26.06.2020 – 02.07.2020 |publisher=ZPAV |accessdate=9 July 2020}}
+* ''That! Feels Good!'': {{cite web |url=https://www.olis.pl/charts/oficjalna-lista-sprzedazy/albumy |title=OLiS – oficjalna lista sprzedaży – albumy |publisher=[[OLiS]] |accessdate=11 May 2023 |language=pl |type=Select week 28.04.2023–04.05.2023.}}
+* ''Superbloom'': {{cite web |url=https://www.olis.pl/charts/oficjalna-lista-sprzedazy/albumy |title=OLiS – oficjalna lista sprzedaży – albumy |publisher=OLiS |accessdate=30 April 2026 |language=pl |type=Select week 17.04.2026–23.04.2026.}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Scottish Singles and Albums Charts|SCO]]<br/><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br/><ref name="SWI">{{cite web|url=http://hitparade.ch/artist/Jessie_Ware |title=Discographie Jessie Ware |publisher=Swiss Charts Portal |url-status=dead |archive-url=https://web.archive.org/web/20141006075330/http://hitparade.ch/artist/Jessie_Ware |archive-date=2014-10-06}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br/><ref name="US200">{{cite magazine|url=https://www.billboard.com/artist/jessie-ware/chart-history/tlp/|title=Jessie Ware Chart History: ''Billboard'' 200|magazine=[[Billboard (magazine)|Billboard]]|accessdate=4 September 2020}}</ref>
+|-
+! scope="row"| ''[[Devotion (Jessie Ware album)|Devotion]]''
+|
+* Released: 20 August 2012
+* Label: [[PMR Records|PMR]], [[Island Records|Island]]
+* Formats: [[CD]], [[Phonograph record|LP]], [[Music download|digital download]], [[streaming]]
+| 5 || — || 8 || 38 || 74 || — || 13 || 20 || 59 || 79
+|
+* UK: 140,486<ref name="musicweek2023">{{cite web|url=https://www.musicweek.com/interviews/read/the-music-week-interview-jessie-ware/087728|title=The Music Week Interview: Jessie Ware|publisher=Music Week|date=18 April 2023|first=Ben|last=Homewood|accessdate=18 April 2023}}</ref>
+|
+* [[British Phonographic Industry|BPI]]: Gold<ref name=BPI>{{cite certification|region=United Kingdom|artist=Jessie Ware|access-date=19 September 2025}}</ref>
+* [[Polish Society of the Phonographic Industry|ZPAV]]: Platinum<ref>{{cite web |url=http://bestsellery.zpav.pl/wyroznienia/platynoweplyty/cd/archiwum.php?year=2013#title |title=Albums certified Platinum in 2013 |publisher=[[Polish Society of the Phonographic Industry|ZPAV]] |accessdate=18 July 2013 |archive-date=10 November 2024 |archive-url=https://web.archive.org/web/20241110011143/http://bestsellery.zpav.pl/wyroznienia/platynoweplyty/cd/archiwum.php?year=2013#title |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[Tough Love (Jessie Ware album)|Tough Love]]''
+|
+* Released: 13 October 2014
+* Label: PMR, Island
+* Formats: CD, LP, digital download, streaming
+| 9 || 36 || 29 || — || 14 || 32 || 6 || 11 || 40 || 50
+|
+* UK: 108,839<ref name="musicweek2023"/>
+|
+* BPI: Gold<ref name="BPI"/>
+* ZPAV: 2× Platinum<ref>{{cite web |url=http://bestsellery.zpav.pl/wyroznienia/platynoweplyty/cd/archiwum.php?year=2017#title |title=Albums and singles certified Platinum in 2017 |publisher=ZPAV |accessdate=4 December 2017 |archive-date=25 June 2018 |archive-url=https://archive.today/20180625085731/http://bestsellery.zpav.pl/wyroznienia/platynoweplyty/cd/archiwum.php?year=2017#title |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[Glasshouse (album)|Glasshouse]]''
+|
+* Released: 20 October 2017
+* Label: PMR, Island
+* Formats: CD, LP, digital download, streaming
+| 7 || — || 67 || — || 31 || —{{efn|group=upper-alpha|''Glasshouse'' did not chart on the [[Official New Zealand Music Chart|NZ Top 40 Albums Chart]], but peaked at number 4 on the NZ Heatseeker Albums chart.<ref>{{cite web|url=https://nztop40.co.nz/chart/albums?chart=4413#all_records_extra|archive-url=https://web.archive.org/web/20171027131530/https://nztop40.co.nz/chart/albums?chart=4413#all_records_extra|url-status=dead|archive-date=27 October 2017|title=NZ Heatseeker Albums Chart|publisher=[[Recorded Music NZ]]|date=30 October 2017|accessdate=27 October 2017}}</ref>}} || 9 || 11 || — || —
+|
+* UK: 43,412<ref name="musicweek2020">{{cite web|url=https://www.musicweek.com/talent/read/jessie-ware-reveals-how-podcast-success-revitalised-her-pop-career/080128|title=Jessie Ware reveals how podcast success revitalised her pop career|publisher=Music Week|date=19 June 2020|first=Ben|last=Homewood|accessdate=20 June 2020}}</ref>
+|
+* ZPAV: Platinum<ref>{{cite web |url=http://bestsellery.zpav.pl/wyroznienia/platynoweplyty/cd/archiwum.php?year=2020#title |title=Albums and singles certified Platinum in 2020 |publisher=ZPAV |accessdate=17 December 2020 |archive-date=7 January 2021 |archive-url=https://web.archive.org/web/20210107124121/http://bestsellery.zpav.pl/wyroznienia/zloteplyty/cd/archiwum.php?year=2020#title |url-status=dead }}</ref>
+|-
+! scope="row"| ''[[What's Your Pleasure?]]''
+|
+* Released: 26 June 2020
+* Label: PMR, [[Virgin EMI Records|Virgin EMI]]
+* Formats: CD, LP, [[Cassette tape|cassette]], digital download, streaming
+| 3 || — || 36 || — || 28 || — || 17 || 3 || 66 || —{{efn|group=upper-alpha|''What's Your Pleasure?'' did not enter the US ''Billboard'' 200, but did peak at number 34 on the ''Billboard'' [[Top Album Sales]] chart.<ref name="US-Sales">{{cite magazine|url=https://www.billboard.com/artist/jessie-ware/chart-history/tsl/|title=Jessie Ware Chart History: Top Album Sales|magazine=Billboard|accessdate=7 July 2020}}</ref>}}
+|
+* UK: 66,426<ref name="musicweek2023"/>
+|
+* BPI: Silver<ref name="BPI"/>
+* ZPAV: Gold<ref>{{cite certification|region=Poland|artist=Jessie Ware|access-date=30 October 2024}}</ref>
+|-
+! scope="row"| ''[[That! Feels Good!]]''
+|
+* Released: 28 April 2023<ref name=":0">{{cite web|url=https://pitchfork.com/news/jessie-ware-announces-album-shares-new-song-pearls-listen/|title=Jessie Ware Announces Album, Shares New Song "Pearls": Listen|work=Pitchfork|last1=Bloom|first1=Madison|last2=Monroe|first2=Jazz|date=9 February 2023|access-date=9 February 2023}}</ref>
+* Label: EMI
+* Formats: CD, LP, cassette, digital download, streaming
+| 3 || — || 54 || — || 28 || — || 25 || 5 || 70 || —{{efn|group=upper-alpha|''That! Feels Good!'' did not enter the US ''Billboard'' 200, but did peak at number 16 on the ''Billboard'' [[Top Album Sales]] chart.<ref name="US-Sales"/>}}
+|
+|
+|-
+! scope="row"| ''[[Superbloom (Jessie Ware album)|Superbloom]]''
+|
+* Released: 17 April 2026<ref>{{Cite magazine |last=Murray |first=Robin |date=2026-01-29 |title=Jessie Ware Announces New Album 'Superbloom' {{!}} News |url=https://www.clashmusic.com/news/jessie-ware-announces-new-album-superbloom/ |access-date=2026-01-29 |magazine=[[Clash (magazine)|Clash]] |language=en-GB}}</ref>
+* Label: EMI
+* Formats: CD, LP, cassette, digital download, streaming
+| 2 || 84 || 35 || — || 73<br /><ref>{{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Albums|title=IRMA – Irish Charts (Week 17, 2026)|publisher=[[Irish Recorded Music Association]]|access-date=25 April 2026}}</ref> || — || 19 || 1 || 87 || —
+|
+* UK: 18,582<ref>{{Cite web |title=Charts analysis: Olivia Rodrigo's Drop Dead becomes her fourth No.1 single {{!}} Analysis {{!}} Music Week |url=https://www.musicweek.com/analysis/read/charts-analysis-olivia-rodrigo-s-drop-dead-becomes-her-fourth-no-1-single/094006 |access-date=2026-07-17 |website=www.musicweek.com}}</ref>
+|
+|-
+| colspan="20" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Reissues===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br/><ref>{{cite web|url=https://www.officialcharts.com/charts/albums-chart/20210618/7502/|title=UK Official Albums Chart 18 June - 24 June 2021|publisher=[[The Official Charts Company]]|accessdate=2 July 2021}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Scottish Singles and Albums Charts|SCO]]<br/><ref>{{cite web|url=https://www.officialcharts.com/charts/scottish-albums-chart/20210618/40/|title=Scottish Albums Chart Top 100 18 June - 24 June 2021|publisher=[[The Official Charts Company]]|accessdate=2 July 2021}}</ref>
+|-
+! scope="row"| ''What's Your Pleasure? (The Platinum Pleasure Edition)''
+|
+* Released: 11 June 2021
+* Label: PMR, [[EMI Records|EMI]]
+* Formats: 2×LP, 2×CD, 2×Cassette, digital download, streaming
+| 7 || 3
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="1" style="width:14em;"| Title
+! scope="col" rowspan="1" style="width:18em;"| Details
+|-
+! scope="row"| ''Disco & Groove''
+|
+* Released: 31 October 2025
+* Label: [[Universal Music Group|uDiscover Music]], [[Universal Music Group|UMG]]
+* Formats: Digital download, streaming
+|-
+! scope="row"| ''Love & Heartbreak''
+|
+* Released: 14 November 2025
+* Label: uDiscover Music, UMG
+* Formats: Digital download, streaming
+|-
+! scope="row"| ''Remixes''
+|
+* Released: 28 November 2025
+* Label: uDiscover Music, UMG
+* Formats: Digital download, streaming
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:18em;"| Details
+! scope="col" colspan="1"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Top Heatseekers|US<br/>Heat]]<ref>{{cite magazine|url=https://www.billboard.com/artist/jessie-ware/chart-history/tln/|title=Jessie Ware Chart History: Heatseekers Albums|magazine=Billboard|accessdate=6 July 2020}}</ref>
+|-
+! scope="row"| ''Nervous''
+|
+* Released: 10 November 2010
+* Label: [[Numbers (record label)|Numbers]]
+* Formats: [[Music download|Digital download]]
+| —
+|-
+! scope="row"| ''No to Love''
+|
+* Released: 12 November 2012
+* Label: [[PMR Records|PMR]]
+* Formats: Digital download
+| —
+|-
+! scope="row"| ''Spotify Sessions (Live from Spotify London)''<ref>{{cite web|url=https://open.spotify.com/album/6My1l80JiOl4nucLqcYHZ1|title=Spotify Sessions (Live from Spotify London) by Jessie Ware|website=Spotify|accessdate=July 1, 2020}}</ref>
+|
+* Released: 1 January 2013
+* Label: Island
+* Formats: Streaming
+| —
+|-
+! scope="row"| ''[[If You're Never Gonna Move]]''
+|
+* Released: 15 January 2013
+* Label: Island
+* Formats: CD, digital download
+| 11
+|-
+| colspan="5" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="8"| Peak chart positions
+! scope="col" rowspan="2" style="width:8em;"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br/><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br/><ref name="AUS"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop#Ultratip|BEL<br/>(FL)<br/>Tip]]<br/><ref name="BEL"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br/><ref name="FRA">{{cite web|url=http://lescharts.com/showinterpret.asp?interpret=Jessie+Ware|title=Discographie Jessie Ware|publisher=French Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Single Top 100|NED]]<br/><ref name="NL">{{cite web|url=http://dutchcharts.nl/showinterpret.asp?interpret=Jessie+Ware|title=Discografie Jessie Ware|publisher=Dutch Charts Portal. Hung Medien}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Polish Music Charts|POL]]<br/><ref name="POL1">Peak chart positions for singles in Poland:
+* "Wildest Moments": {{cite web|url=http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2012&typ=nowosci&idlisty=752#title|title=Listy bestsellerów, wyróżnienia :: Związek Producentów Audio-Video|publisher=[[Polish Society of the Phonographic Industry|ZPAV]]|accessdate=27 October 2017|archive-date=27 October 2017|archive-url=https://web.archive.org/web/20171027232727/http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2012&typ=nowosci&idlisty=752#title|url-status=dead}}
+* "Say You Love Me": {{cite web|url=http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2014&typ=nowosci&idlisty=1412#title|title=Listy bestsellerów, wyróżnienia :: Związek Producentów Audio-Video|publisher=ZPAV|accessdate=27 October 2017|archive-date=24 September 2014|archive-url=https://web.archive.org/web/20140924042515/http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2014&typ=nowosci&idlisty=1412#title|url-status=dead}}
+* "Midnight": {{cite web|url=http://bestsellery.zpav.pl/airplays/top/archiwum.php?year=2017&idlisty=2447#title|title=Listy bestsellerów, wyróżnienia :: Związek Producentów Audio-Video|publisher=ZPAV|accessdate=27 October 2017|archive-date=25 September 2017|archive-url=https://web.archive.org/web/20170925181332/http://bestsellery.zpav.pl/airplays/top/archiwum.php?year=2017&idlisty=2447#title|url-status=dead}}
+* "Alone": {{cite web|url=http://bestsellery.zpav.pl/airplays/top/archiwum.php?year=2017&idlisty=2507#title|title=Listy bestsellerów, wyróżnienia :: Związek Producentów Audio-Video|publisher=ZPAV|accessdate=22 November 2017|archive-date=1 December 2017|archive-url=https://web.archive.org/web/20171201042833/http://bestsellery.zpav.pl/airplays/top/archiwum.php?year=2017&idlisty=2507#title|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Scottish Singles and Albums Charts|SCO]]<br/><ref>Peaks on the Scottish Singles chart.
+* "Tough Love": {{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20140810/41/|title=Official Scottish Singles Sales Chart Top 100: 10 August 2014 – 16 August 2014|publisher=Official Charts Company|date=10 August 2014|accessdate=27 October 2017}}
+* "Say You Love Me": {{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20141005/41/|title=Official Scottish Singles Sales Chart Top 100: 5 October 2014 – 11 October 2014|publisher=Official Charts Company|date=5 October 2014|accessdate=27 October 2017}}
+* "Midnight": {{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20170804/41/|title=Official Scottish Singles Sales Chart Top 100: 04 August 2017 – 10 August 2017|publisher=Official Charts Company|date=4 August 2017|accessdate=27 October 2017}}
+* "Alone": {{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20171027/41/|title=Chart Archive > 27 October 2017|publisher=Official Charts Company|accessdate=28 October 2017}}
+* "Spotlight": {{cite web|url=https://www.officialcharts.com/charts/scottish-singles-chart/20200501/41/|title=Chart Archive > 1 May 2020|publisher=Official Charts Company|accessdate=11 April 2020}}
+* "Save a Kiss": {{cite web|url=http://www.officialcharts.com/charts/scottish-singles-chart/20200703/41/|title=Chart Archive > 3 July 2020|publisher=Official Charts Company|accessdate=3 July 2020}}</ref>
+! scope="col" style="width:3em;font-size:85%;"|[[Hot Dance/Electronic Songs|US<br/>Dance]]<br/><ref>{{cite magazine|url=https://www.billboard.com/artist/jessie-ware/chart-history/dan/|title=Jessie Ware Chart History (Hot Dance/Electronic Songs)|magazine=Billboard|access-date=22 February 2023}}</ref>
+|-
+! scope="row"| "Nervous"<br />{{small|(with [[SBTRKT]])}}
+| 2010
+| — || — || — || — || — || — || — || —
+|
+| ''Nervous''
+|-
+! scope="row"| "Valentine"<br />{{small|(with [[Sampha]])}}
+| rowspan="2"| 2011
+| — || — || — || — || — || — || — || —
+|
+| ''Devotion – The Gold Edition''
+|-
+! scope="row"| "Strangest Feeling"
+| — || — || — || — || — || — || — || —
+|
+| rowspan="7"| ''Devotion''
+|-
+! scope="row"| "[[Running (Jessie Ware song)|Running]]"
+| rowspan="4"| 2012
+| 165 || — || 17 || — || 99 || — || — || —
+|
+* BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| "[[If You're Never Gonna Move]]"
+| 41{{efn|group=upper-alpha|Originally peaked at 61 as "110%". Peaked in 2013 under the new title, "If You're Never Gonna Move".}} || — || 20 || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Wildest Moments]]"
+| 46 || — || —{{efn|group=upper-alpha|"Wildest Moments" is the only of Ware's singles to have made the official Flanders [[Ultratop|Ultratop 50]], where it peaked at number 3.<ref name="BEL"/>}} || — || — || —{{efn|group=upper-alpha|"Wildest Moments" did not enter the Top 5 AirPlay Chart, but peaked at number four on the AirPlay New Chart.<ref name="POL1"/>}} || — || —
+|
+* BPI: Silver<ref name="BPI"/>
+* BEA: Gold<ref name="BEA">{{cite certification|type=single|region=Belgium|certyear=2012|accessdate=August 11, 2017}}</ref>
+|-
+! scope="row"| "[[Night Light (Jessie Ware song)|Night Light]]"
+| 95 || — || 7 || — || — || — || — || —
+|
+|-
+! scope="row"| "Sweet Talk"
+| rowspan="2"| 2013
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Imagine It Was Us]]"
+| 105 || — || 15 || 148 || — || — || — || —
+|
+|-
+! scope="row"| "[[Tough Love (Jessie Ware song)|Tough Love]]"
+| rowspan="2"| 2014
+| 34 || — || 19 || — || — || — || 37 || —
+|
+| rowspan="4"| ''Tough Love''
+|-
+! scope="row"| "[[Say You Love Me (Jessie Ware song)|Say You Love Me]]"
+| 22 || 91 || 30 || — || — || —{{efn|group=upper-alpha|"Say You Love Me" did not enter the Top 20 AirPlay Chart, but peaked at number one on the AirPlay New Chart.<ref name="POL1"/>}} || 18 || —
+|
+* BPI: Platinum<ref name="BPI"/>
+|-
+! scope="row"| "You & I (Forever)"
+| rowspan="2"| 2015
+| — || — || 34 || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Champagne Kisses]]"
+| 169 || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Midnight (Jessie Ware song)|Midnight]]"
+| rowspan="4"| 2017
+| 89 || — || — || — || — || 53 || 69 || —
+|
+| rowspan="4"| ''Glasshouse''
+|-
+! scope="row"| "[[Selfish Love (Jessie Ware song)|Selfish Love]]"
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Alone (Jessie Ware song)|Alone]]"
+| 60 || — || — || — || — || 19 || 29 || —
+|
+* BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| "Your Domino"
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Overtime (Jessie Ware song)|Overtime]]"
+| 2018
+| — || — || — || — || — || — || — || —
+|
+| ''What's Your Pleasure? (The Platinum Pleasure Edition)''
+|-
+! scope="row"| "Adore You"
+| rowspan="2"| 2019
+| — || — || — || — || — || — || — || —
+|
+| rowspan="7"| ''What's Your Pleasure?''
+|-
+! scope="row"| "Mirage (Don't Stop)"
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Spotlight (Jessie Ware song)|Spotlight]]"
+| rowspan="4"| 2020
+| —{{efn|group=upper-alpha|"Spotlight" did not enter the UK Singles Chart, but peaked at number 32 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20200501/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=2 February 2021}}</ref>}} || — || — || — || — || — || 38 || —
+|
+|-
+! scope="row"| "[[Ooh La La (Jessie Ware song)|Ooh La La]]"
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Save a Kiss]]"
+| —{{efn|group=upper-alpha|"Save a Kiss" did not enter the UK Singles Chart, but peaked at number 43 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20200703/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=2 February 2021}}</ref>}} || — || — || — || — || — || 48 || —
+|
+|-
+! scope="row"| "What's Your Pleasure?"<ref>{{cite web|url=https://open.spotify.com/album/1T17hFE0ZVw6xQIWzJStCN?si=ODrub1wFQj2qC027uhz4pA|title=What's Your Pleasure? by Jessie Ware|website=Spotify|accessdate=26 July 2020}}</ref>
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Remember Where You Are]]"<ref>{{cite web|url=https://open.spotify.com/album/6zxRJa07aWtklwITBR5ymg?si=LIv-PnzLRxSi17huAaqGsw|title=Remember Where You Are by Jessie Ware|website=Spotify|accessdate=5 February 2021}}</ref>
+| rowspan="4"|2021
+| —{{efn|group=upper-alpha|"Remember Where You Are" did not enter the UK Singles Chart, but peaked at number 8 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20210212/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=13 February 2021}}</ref>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Please"
+| —{{efn|group=upper-alpha|"Please" did not enter the UK Singles Chart, but peaked at number 60 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20210611/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=10 July 2021}}</ref>}} || — || — || — || — || — || — || 48
+|
+| rowspan="2"|''What's Your Pleasure? (The Platinum Pleasure Edition)''
+|-
+! scope="row"| "Hot N Heavy"<ref>{{cite web|url=https://www.udiscovermusic.com/news/jessie-ware-hot-n-heavy/|title=Jessie Ware Drops "Hot N Heavy" From ''What's Your Pleasure?'' Expanded Edition|website=udiscovermusic|date=4 June 2021|access-date=4 June 2021}}</ref>
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Kiss of Life (Kylie Minogue and Jessie Ware song)|Kiss of Life]]"<br />{{small|(with [[Kylie Minogue]])}}<ref>{{cite web|url=https://retropopmagazine.com/kylie-minogue-jessie-ware-kiss-of-life-single/|title=Kylie Minogue and Jessie Ware drop shimmering disco single "Kiss of Life"|website=retropopmagazine.com|date=29 October 2021|access-date=1 November 2021}}</ref>
+| —{{efn|group=upper-alpha|"Kiss of Life" did not enter the UK Singles Chart, but peaked at number 30 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20211105/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=19 May 2023}}</ref>}} || — || — || — || — || — || — || 49
+|
+| ''[[Disco (Kylie Minogue album)|Disco: Guest List Edition]]''
+|-
+! scope="row"| "[[Free Yourself (Jessie Ware song)|Free Yourself]]"
+| 2022
+| —{{efn|group=upper-alpha|"Free Yourself" did not enter the UK Singles Chart, but peaked at number 33 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20220909/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=21 November 2023}}</ref>}}  || — || — || — || — || — || — || —
+|
+| rowspan="5" | ''That! Feels Good!''
+|-
+! scope="row"| "Pearls"<br />{{small|(solo or Brabo remix featuring [[Pabllo Vittar]])}}
+| rowspan="4"|2023
+| —{{efn|group=upper-alpha|"Pearls" did not enter the UK Singles Chart, but peaked at number 49 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20230310/7000/|title=Official Singles Download Chart|publisher=[[Official Charts Company]]|access-date=21 November 2023}}</ref>}} || — || — || — || — || — || — || 44
+|
+|-
+! scope="row"| "Begin Again"
+| —{{efn|group=upper-alpha|"Begin Again" did not enter the UK Singles Chart, but peaked at number 29 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20230505/|title=Official Singles Downloads Chart|publisher=[[Official Charts Company]]|access-date=5 May 2023}}</ref>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Freak Me Now"<br />{{small|(with [[Róisín Murphy]])}}
+| —{{efn|group=upper-alpha|"Freak Me Now" did not enter the UK Singles Chart, but peaked at number 37 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20230804/7000/|title=Official Singles Downloads Chart|publisher=[[Official Charts Company]]|access-date=21 November 2023}}</ref>}} || — || — || — || — || — || — || —
+|-
+! scope="row"| "Hello Love"
+| —{{efn|group=upper-alpha|"Hello Love" did not enter the UK Singles Chart, but peaked at number 39 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-downloads-chart/20231117/7000/|title=Official Singles Downloads Chart|publisher=[[Official Charts Company]]|access-date=21 November 2023}}</ref>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Lift You Up"<br />{{small|(with [[Romy Madley Croft|Romy]])}}<ref>{{cite web|url=https://www.nme.com/news/music/listen-to-jessie-ware-and-romys-emphatic-new-single-lift-you-up-3770443|title=Listen to Jessie Ware and Romy's emphatic new single, "Lift You Up"|last=England|first=Adam|website=[[NME]]|date=30 June 2024|access-date=30 June 2024}}</ref>
+| rowspan="2" | 2024
+| — || — || — || — || — || — || — || —
+|
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "Heaven in Your Arms"<br />{{small|(with [[Salute (musician)|Salute]])}}<ref>{{cite web|url=https://retropopmagazine.com/jessie-ware-joins-salute-on-new-single-heaven-in-your-arms/|title=Jessie Ware joins salute on new single Heaven In Your Arms"|website=Retropop|date=15 November 2024|access-date=22 November 2024}}</ref>
+| — || — || — || — || — || — || — || —
+|
+| ''True Magic''
+|-
+! scope="row"| "I Could Get Used to This"
+| rowspan="5" | 2026
+| —{{efn|group=upper-alpha|"I Could Get Used to This" did not enter the UK Singles Chart, but peaked at number 43 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/songs/jessie-ware-i-could-get-used-to-this/|title=I Could Get Used to This – Jessie Ware|publisher=[[Official Charts Company]]|access-date=23 February 2026}}</ref>}} || — || — || — || — || — || — || —
+|
+| rowspan="4" |''Superbloom''
+|-
+! scope="row"| "Ride"
+| —{{efn|group=upper-alpha|"Ride" did not enter the UK Singles Chart, but peaked at number 30 on the UK Singles Downloads Chart.<ref>{{cite web|url=https://www.officialcharts.com/songs/jessie-ware-Ride/|title=Ride – Jessie Ware|publisher=[[Official Charts Company]]|access-date=27 February 2026}}</ref>}} || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Automatic"
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Sauna"<ref>{{cite web|url=https://www.udiscovermusic.com/news/jessie-ware-sauna/|title=Jessie Ware Releases New Single "Sauna" |website= U Discover Music|date= 17 July 2026|access-date=18 July 2026}}</ref> 
+| — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Middle of the Night"
+| — || — || — || — || — || — || — || —
+|
+| ''Sauna'' (deluxe)
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:19em;"| Title
+! scope="col" style="width:1em;"| Year
+! scope="col"| Album
+|-
+! scope="row"| "Soul Control"<ref>{{cite web|url=https://open.spotify.com/album/5hMg7Ag10dKVeN1iUylfrW?highlight=spotify:track:1mLMcVT41dZsjxwo1AfrUr|title=Soul Control by Jessie Ware|website=Spotify|accessdate=15 July 2020}}</ref>
+| 2020
+| ''What's Your Pleasure?''
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="1" style="width:19em;"| Title
+! scope="col" rowspan="1" style="width:1em;"| Year
+! scope="col" rowspan="1"| Album
+|-
+! scope="row"| "Take Care"<br />{{small|([[The Magic Gang]] featuring Jessie Ware)}}
+| 2018
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Time After Time"<br />{{small|(Franky Wah featuring Jessie Ware)}}
+| 2019
+|}
+
+==Other appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:19em;"| Title
+! scope="col" style="width:1em;"| Year
+! Other artist(s)
+! Album
+|-
+! scope="row"| "Nervous"
+| rowspan="6"|2010
+| [[SBTRKT]]
+| ''Nervous''
+|-
+! scope="row"| "Lovestruck"
+| rowspan="3"| Man Like Me
+| rowspan="3"| ''Lovestruck''
+|-
+! scope="row"| "Run Over"
+|-
+! scope="row"| "Why Bother?"
+|-
+! scope="row"| "Midnight Loving"
+| [[RackNRuin]], Trendy
+| rowspan="2"| ''Soundclash''
+|-
+! scope="row"| "Soundclash"
+| RackNRuin
+|-
+! scope="row"| "The Vision (Let Me Breathe)"
+| rowspan="3"| 2011
+|[[Joker (British musician)|Joker]]
+| ''The Vision''
+|-
+! scope="row"| "Right Thing to Do"
+| SBTRKT
+| rowspan="2"| ''[[SBTRKT (album)|SBTRKT]]''
+|-
+! scope="row"| "Sanctuary"
+| SBTRKT, Sampha
+|-
+! scope="row"| "Love Is Gonna Lift You Up"
+| rowspan="3"| 2012
+| [[Bobby Womack]]
+| ''[[The Bravest Man in the Universe]]''
+|-
+! scope="row"| "Aaliyah"
+| [[Katy B]]
+| ''[[Little Red (album)|Little Red]]''
+|-
+! scope="row"| "Shut Down Shop"
+| SBTRKT
+| {{n/a}}
+|-
+! scope="row"| "Confess to Me"
+| rowspan="5"| 2013
+| [[Disclosure (band)|Disclosure]]
+| ''[[Settle (album)|Settle]]''
+|-
+! scope="row"| "Peppermint"
+| Julio Bashmore
+| "Peppermint"
+|-
+! scope="row"| "Her Favorite Song"
+| [[Mayer Hawthorne]]
+| ''[[Where Does This Door Go]]''
+|-
+! scope="row"| "[[Adorn (song)|Adorn]]"
+| [[Miguel (singer)|Miguel]]
+| ''Adorn''
+|-
+! scope="row"| "[[Never Knew Love Like This Before]]"
+| {{n/a}}
+| ''[[I Give It a Year]]''
+|-
+! scope="row"| "The Crying Game"
+| rowspan="3"| 2014
+|[[Nicki Minaj]]
+| ''[[The Pinkprint]]''
+|-
+! scope="row"| "Problem (Solved)"
+| SBTRKT
+| ''[[Wonder Where We Land]]''
+|-
+! scope="row"| "Break Away"
+| Cool Uncle ([[Bobby Caldwell]] & [[Jack Splash]])
+| ''Cool Uncle''
+|-
+
+! scope="row"| "Meet Me in the Middle"
+| rowspan="2"| 2015
+| rowspan="3" {{n/a}}
+| ''[[Fifty Shades of Grey (soundtrack)|Fifty Shades of Grey]]''
+|-
+! scope="row"| "[[A Dream Is a Wish Your Heart Makes]]"
+| ''We Love Disney''
+|-
+! scope="row"| "Till the End"
+| rowspan="2"| 2016
+| ''[[Me Before You (film)|Me Before You]]''
+|-
+! scope="row"| "So Well"
+| [[The Invisible (band)|The Invisible]]
+| ''Patience''
+|-
+! scope="row"| "Running/Finally"
+| 2017
+| [[Pete Tong]], Jules Buckley, The Heritage Orchestra
+| ''Ibiza Classics''
+|-
+! scope="row"| "Wish Me Well"
+| rowspan="2"| 2018
+| MIST
+| ''Diamond in the Dirt''
+|-
+! scope="row"| "Better Together"
+| {{n/a}}
+| ''Sherlock Gnomes''
+|-
+! scope="row"| "Walking Alone"
+| 2019
+| [[Octavian]], J.Rick
+| ''Endorphins''
+|-
+! scope="row"| "Lost in LA"
+| 2021
+| [[Two Inch Punch]], [[James Vincent McMorrow]]
+| ''A Month of Sundays''
+|}
+
+==Music videos==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:19em;"| Title
+! scope="col" style="width:1em;"| Year
+! Directors
+|-
+! scope="row"| "Valentine"
+| 2011
+| [[Marcus Söderlund]]<ref>{{cite web|title=Video premiere: Jessie Ware & Sampha 'Valentine' |last= |first= |publisher=Dummy |url=http://www.dummymag.com/news/2011/02/13/video-premiere-jessie-ware-sampha-valentine-/ |date=13 February 2011 |access-date=9 April 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130703151711/http://www.dummymag.com/news/2011/02/13/video-premiere-jessie-ware-sampha-valentine-/ |archive-date= 3 July 2013}}</ref>
+|-
+! scope="row"| "[[Running (Jessie Ware song)|Running]]"
+| rowspan=5| 2012
+| rowspan=3| [[Kate Moross]]<ref>{{cite web|title=Jessie Ware "Running" Music Video|last=|first=|publisher=IMVDb|url=http://imvdb.com/video/jessie-ware/running|date=|accessdate=9 April 2013}}</ref><ref>{{cite web|title=Jessie Ware – If You're Never Gonna Move|last=|first=|publisher=YouTube|url=https://www.youtube.com/watch?v=Y-nsrUoShQQ|date=6 January 2012|accessdate=9 April 2013}}</ref><ref>{{cite web|title=Jessie Ware – Wildest Moments|last=|first=|publisher=YouTube|url=https://www.youtube.com/watch?v=bMJkddvJ4L4|date=2 July 2012|accessdate=9 April 2013}}</ref>
+|-
+! scope="row"| "[[If You're Never Gonna Move]]"
+|-
+! scope="row"| "[[Wildest Moments]]"
+|-
+! scope="row"| "[[Night Light (Jessie Ware song)|Night Light]]"
+| Chris Sweeney<ref>{{cite web|title=Jessie Ware – Night Light (Official Video)|last=|first=|publisher=YouTube|url=https://www.youtube.com/watch?v=YyY5upiRO8Q|date=18 September 2012|accessdate=9 April 2013}}</ref>
+|-
+! scope="row"| "If You Love Me"
+| Kate Moross<ref>{{cite web|title=Jessie Ware & BenZel – "If You Love Me" Video|last=Breihan|first=Tom|publisher=[[Stereogum]]|url=http://stereogum.com/1194182/jessie-ware-benzel-if-you-love-me-video/video/|date=6 November 2012|accessdate=3 May 2013}}</ref>
+|-
+! scope="row"| "Sweet Talk"
+| rowspan=2| 2013
+| Joel Wilson<ref>{{cite web|title=Jessie Ware – Sweet Talk|last=|first=|publisher=YouTube|url=https://www.youtube.com/watch?v=Y9IsJ2MYKQI|date=12 December 2012|accessdate=9 April 2013}}</ref>
+|-
+! scope="row"| "[[Imagine It Was Us]]"
+| Kate Moross<ref>{{cite web|title=Jessie Ware Shares Her "Imagine It Was Us" Video|last=Minsker|first=Evan|publisher=[[Pitchfork Media|Pitchfork]]|url=http://pitchfork.com/news/50223-jessie-ware-shares-her-imagine-it-was-us-video/|date=8 April 2013|accessdate=9 April 2013}}</ref>
+|-
+! scope="row"| "[[Tough Love (Jessie Ware song)|Tough Love]]"
+| rowspan=3| 2014
+| [[Jake Scott (director)|Jake Scott]], Luke Scott<ref>{{Cite web |date=8 July 2014|first=Steven|last=Gottlieb|title=Jessie Ware, "Tough Love" (BRTHR, dir.)|url=https://www.videostatic.com/watch-it/2014/07/08/jessie-ware-tough-love-brthr-dir |access-date=24 November 2023 |website=videostatic.com}}</ref>
+|-
+! scope="row"| "[[Say You Love Me (Jessie Ware song)|Say You Love Me]]"
+| Luke White, Remi Weekes<ref>{{cite web|url=https://www.nme.com/news/jessie-ware/79729|title=NME News Jessie Ware teams up with award-winning directors for 'Say You Love Me' video – watch|work=[[NME]]|last=Renshaw|first=David|date=12 September 2014|accessdate=24 November 2023}}</ref>
+|-
+! scope="row"| "You & I (Forever)"
+| Adam Powell<ref>{{Cite web |date=5 December 2014|title=Jessie Ware, "You & I (Forever)" (Adam Powell, dir.)|url=https://www.videostatic.com/watch-it/2014/12/04/jessie-ware-you-i-forever-adam-powell-dir|access-date=24 November 2023 |website=videostatic.com}}</ref>
+|-
+! scope="row"| "[[Champagne Kisses]]"
+| 2015
+| Chris Sweeney<ref>{{Cite web |date=29 May 2015|title=Jessie Ware, "CHAMPAGNE KISSES" (Chris Sweeney, dir.)|url=https://www.videostatic.com/watch-it/2015/05/28/jessie-ware-champagne-kisses-chris-sweeney-dir|access-date=24 November 2023 |website=videostatic.com}}</ref>
+|-
+! scope="row"| "[[Midnight (Jessie Ware song)|Midnight]]"
+| rowspan="3"| 2017
+| rowspan="2"| Tom Beard<ref>{{Cite web |date=6 September 2017|first=Steven|last=Gottlieb|title=Jessie Ware, "Selfish Love" (Tom Beard, dir.)|url=https://www.videostatic.com/watch-it/2017/09/06/jessie-ware-selfish-love-tom-beard-dir|access-date=24 November 2023 |website=videostatic.com}}</ref>
+|-
+! scope="row"| "[[Selfish Love (Jessie Ware song)|Selfish Love]]"
+|-
+! scope="row"| "[[Alone (Jessie Ware song)|Alone]]"
+| Charlie Robbins<ref>{{cite web|url=http://uproxx.com/music/jessie-ware-alone-video/|title=Jessie Ware Shares An Architecturally Gorgeous Video For 'Alone'|work=[[Uproxx]]|date=12 October 2017}}</ref>
+|-
+! scope="row"| "[[Spotlight (Jessie Ware song)|Spotlight]]"
+| rowspan="8"| 2020
+| Jovan Todorović<ref>{{cite web|url=https://www.nme.com/news/music/jessie-ware-spotlight-video-new-album-whats-your-pleasure-2615875|title=Listen to Jessie Ware's 'Spotlight' from new album 'What's Your Pleasure?'|work=[[NME]]|date=4 March 2020}}</ref>
+|-
+! scope="row"| "[[Save a Kiss]]"
+| Vicky Lawton<ref>{{cite web|first=Valerie|last=Stepanova|url=https://vmagazine.com/article/jessie-ware-speaks-on-her-newest-music-video-and-more/|title=Jessie Ware Speaks On Her Newest Music Video And More|work=[[V (American magazine)|V]]|date=27 July 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "What's Your Pleasure?" (dance video)
+| I Could Never Be a Dancer<ref>{{cite web|url=https://icouldneverbeadancer.com/selected/jessie-ware-3/|title=Jessie Ware – What's Your Pleasure|website=icouldneverbeadancer.com|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "Soul Control"
+| I Could Never Be a Dancer<ref>{{cite web|first=Zachary|last=Whittenburg|url=https://www.dancemagazine.com/jessie-ware-dancers-2646357252.html|title=Dance and Dancers Are Front and Center in Pop Star Jessie Ware's New Videos |website=dancemagazine.com|date=7 July 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "Step Into My Life"
+| Madison Shelpuk<ref>{{cite web|first=Christopher|last=Roberts|url=https://www.undertheradarmag.com/news/jessie_ware_shares_video_for_please|title=Jessie Ware Shares Video for "Step Into My Life" Featuring a Dancer in a Lone Bowling Alley|website=undertheradarmag.com|date=7 July 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "In Your Eyes"
+| Francesca de Bassa<ref>{{cite web|first=Makeda|last=Easter|url=https://www.latimes.com/entertainment-arts/story/2020-08-03/jessie-ware-whats-your-pleasure-quarantine-videos|title=How Jessie Ware's stunning new disco dance videos were shot in quarantine|work=[[Los Angeles Times]]|date=3 August 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "The Kill"
+| Najeeb Tarazi<ref>{{cite web|first=Steven|last=Gottlieb|url=https://www.videostatic.com/watch-it/2020/07/16/jessie-ware-kill-najeeb-tarazi-dir|title=Jessie Ware "The Kill" (Najeeb Tarazi, dir.)|website=videostatic.com|date=16 July 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "What's Your Pleasure?"
+| Vicky Lawton<ref>{{cite web|first=Tim|last=Peacock|url=https://www.undertheradarmag.com/news/jessie_ware_shares_video_for_please|title=Watch The Video For Jessie Ware's 'What's Your Pleasure?'|website=undertheradarmag.com|date=24 July 2020|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "[[Remember Where You Are]]"
+| rowspan="4"| 2021
+| [[Dominic Savage]]<ref>{{cite magazine|first=Angie|last=Martoccio|url=https://www.rollingstone.com/music/music-news/jessie-ware-remember-where-you-are-video-1133894/|title=Jessie Ware Captures the Lonely Streets of London in 'Remember Where You Are' Video|magazine=[[Rolling Stone]]|date=26 February 2021|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "Please"
+| I Could Never Be a Dancer<ref>{{cite web|first=Mark|last=Redfern|url=https://www.undertheradarmag.com/news/jessie_ware_shares_video_for_please|title=Jessie Ware Shares Video for "Please"|website=undertheradarmag.com|date=4 May 2021|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "Hot n Heavy"
+| I Could Never Be a Dancer<ref>{{cite web|first=Mark|last=Redfern|url=https://www.undertheradarmag.com/news/jessie_ware_shares_new_video_for_hot_n_heavy|title=Jessie Ware Shares New Video for "Hot N Heavy"|website=undertheradarmag.com|date=15 June 2021|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "[[Kiss of Life (Kylie Minogue and Jessie Ware song)|Kiss of Life]]"
+| [[Sophie Muller]]<ref>{{cite web|first=Michael|last=Cook|url=https://instinctmagazine.com/kylie-minogue-jessie-ware-duet-on-the-new-track-kiss-of-life/|title=Kylie Minogue & Jessie Ware Duet On The New Track 'Kiss Of Life'|website=instinctmagazine.com|date=5 November 2021|accessdate=14 November 2021}}</ref>
+|-
+! scope="row"| "[[Free Yourself (Jessie Ware song)|Free Yourself]]"
+| 2022
+| Vicky Lawton<ref>{{Cite magazine |date=8 August 2022|first=Larisha|last=Paul|title=Jessie Ware Leads By Example in Self-Love Championing 'Free Yourself' Video|url=https://www.rollingstone.com/music/music-news/jessie-ware-free-yourself-video-1394157/ |access-date=24 November 2023 |magazine=[[Rolling Stone]]}}</ref>
+|-
+! scope="row"| "[[Pearls (Jessie Ware song)|Pearls]]"
+| 2023
+| Sophie Muller<ref>{{Cite web |date=16 February 2023|first=Jazz|last=Monroe|title=Watch Jessie Ware's New "Pearls" Video|url=https://pitchfork.com/news/watch-jessie-ware-video-new-song-begin-again/ |access-date=24 November 2023 |website=[[Pitchfork (website)|Pitchfork]]}}</ref>
+|-
+! scope="row"| "Begin Again"
+| 2023
+| Charlie Di Placidor<ref>{{Cite web |date=13 April 2023|first=Evan |last=Minsker|title=Watch Jessie Ware's Video for New Song "Begin Again"|url=https://pitchfork.com/news/watch-jessie-ware-video-new-song-begin-again/ |access-date=24 November 2023 |website=[[Pitchfork (website)|Pitchfork]]}}</ref>
+|-
+! scope="row"| "Freak Me Now"<br />{{small|(with [[Róisín Murphy]])}}
+| 2023
+| Sophie Muller, [[Theo Adams]]<ref>{{Cite web |date=27 July 2023|first=Jazz|last=Monroe|title=Jessie Ware and Róisín Murphy Join Forces for "Freak Me Now": Watch the Video|url=https://pitchfork.com/news/jessie-ware-and-roisin-murphy-join-forces-for-freak-me-now-listen/|access-date=24 November 2023 |website=[[Pitchfork (website)|Pitchfork]]}}</ref>
+|-
+! scope="row"| "I Could Get Used to This"
+| rowspan="2"|2026
+| Fa & Fon<ref>{{Cite web |date=23 January 2026|first=Tom |last=Breihan|title=Jessie Ware – “I Could Get Used To This”|url=https://stereogum.com/2486397/jessie-ware-i-could-get-used-to-this/music|access-date=23 February 2026 |website=[[Stereogum]]}}</ref>
+|-
+! scope="row"|"Ride"
+| Thomas James<ref>{{cite news |last1=Zwick |first1=Hannah |title=Jessie Ware Shares ‘Ride’ Video Starring James Norton |url=https://www.udiscovermusic.com/news/jessie-ware-ride-video-james-norton/ |access-date=30 April 2026 |work=uDiscover Music |date=9 March 2026}}</ref>
+|}
+
+==Songwriting credits==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of songs written or co-written for other artists, showing year released and album name
+! scope="col" style="width:17em;"| Title
+! scope="col"| Year
+! scope="col"| Artist 
+! scope="col"| Album
+|-
+! scope="row"| "Days Are Gone"
+| 2013
+| [[Haim (band)|Haim]]
+| ''[[Days Are Gone]]''
+|-
+! scope="row"| "[[New Man (Ed Sheeran song)|New Man]]"
+| 2017
+| [[Ed Sheeran]]
+| ''[[÷ (album)|÷]]''
+|-
+! scope="row"| "Outside"
+| 2021
+| Worryworry
+| {{Non-album single}}
+|-
+!scope="row"|"Love Controller"
+| 2026
+| [[Demi Lovato]]
+| ''[[It's Not That Deep|It's Not That Deep (Unless You Want It to Be)]]''
+|}
+
+==References==
+===Notes===
+{{notelist-ua}}
+
+===Sources===
+{{Reflist|2}}
+
+{{Jessie Ware}}
+
+{{DEFAULTSORT:Ware, Jessie}}
+[[Category:Discographies of British artists]]

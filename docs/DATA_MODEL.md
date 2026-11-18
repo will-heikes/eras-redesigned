@@ -75,6 +75,21 @@ top ten, not the exit date, so the end of each run is estimated as entry date
 plus weeks. Songs that left and re-entered are flagged and their runs are
 approximate.
 
+## Peer singles (`charts/peer_singles.json`)
+
+Competition below the top ten. Every 2013–2015 single that charted on the Hot
+100 by about 80 artists who were active then (the top-ten acts of the period
+plus major pop peers), taken from their Wikipedia discographies. Each has
+`title`, `artist`, `featuring`, `year`, `hot100_peak`, and, where the single's
+own article gives one, `release_date` (about 85% of them).
+
+```
+python3 scripts/build_peer_singles.py 2013 2015
+python3 scripts/add_release_dates.py --fetch
+```
+
+Discographies for new artists go in `data/sources/wikitext/discographies/`.
+
 ### Competition lookup
 
 `site/lib/competition.js` answers "what would a single released on this date be

@@ -1,0 +1,605 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2016}}
+{{Use British English|date=February 2016}}
+{{Infobox artist discography
+| Artist       = [[Clean Bandit]]
+| Image        = Clean Bandit 2016.jpg
+| Caption      = Clean Bandit at the El Rey Theatre in November 2016.
+| Studio       = 2
+| EP           = 2
+| Singles      = 37
+| Music videos = 22
+| 1Option      = 14
+| 1Option name = Remixes
+}}
+English [[electronic music]] group [[Clean Bandit]] have released two [[studio album]]s, two [[extended play]]s, 35 [[single (music)|singles]] (including four as a featured artist), 22 [[music video]]s and 13 [[remix]]es. In December 2012, the group released their debut single "[[A+E (song)|A+E]]", which peaked at number 100 on the [[UK Singles Chart]]. The song is the lead single from their debut album, ''[[New Eyes]]'', which was released in May 2014. The album's second single, "[[Mozart's House]]", charted at number seventeen on the UK Singles Chart, becoming Clean Bandit's first top twenty single on the chart. "[[Dust Clears]]" was released as the third single from the album, reaching number forty-three on the UK chart. The album's fourth single, "[[Rather Be]]", features [[Jess Glynne]] and topped the UK Singles Chart, the group's first number one on the chart.
+
+Clean Bandit's 2016 single "[[Rockabye (song)|Rockabye]]", which features rapper [[Sean Paul]] and singer [[Anne-Marie (singer)|Anne-Marie]], became their second number-one hit in the UK, becoming the [[List of UK Singles Chart Christmas number ones|Christmas number one single for 2016]] in its seventh consecutive week at number one. The follow-up to "Rockabye", "[[Symphony (Clean Bandit song)|Symphony]]", featured [[Zara Larsson]] and became their third UK number-one single. Their second album, ''[[What Is Love? (Clean Bandit album)|What Is Love?]]'', followed on 30 November 2018.<ref>{{cite news|url=http://www.completemusicupdate.com/article/clean-bandit-announced-loved-up-new-album/|title=Clean Bandit announce loved up new album|last=Malt|first=Andy|date=28 September 2018|publisher=Complete Music Update|accessdate=29 September 2018}}</ref>
+
+== Studio albums ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:18.5em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web |url=http://www.officialcharts.com/artist/25722/clean-bandit/ |title=Clean Bandit |publisher=[[Official Charts Company]] |accessdate=10 May 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:3em;font-size:90%;"| [[Ultratop|BEL (FL)]]<br /><ref name="FL">{{cite web |url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Clean+Bandit |title=Discografie Clean Bandit |language=Dutch |publisher=[[Ultratop]] |accessdate=13 January 2025}}</ref>
+! scope="col" style="width:3em;font-size:90%;" |[[Canadian Hot 100|CAN]]<br /><ref name="CAN" />
+! scope="col" style="width:3em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web |url=http://lescharts.com/showinterpret.asp?interpret=Clean+Bandit |title=Discographie Clean Bandit |language=French |website=lescharts.com |accessdate=22 August 2014 }}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/suche?artist_search=Clean+Bandit&do_search=do|title=Discographie Clean Bandit|publisher=GfK Entertainment|accessdate=7 December 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE">{{cite web |url=http://irish-charts.com/showinterpret.asp?interpret=Clean+Bandit |archive-url=https://web.archive.org/web/20140830191236/http://irish-charts.com/showinterpret.asp?interpret=Clean+Bandit |url-status=dead |archive-date=30 August 2014 |title=Discography Clean Bandit |website=irish-charts.com |accessdate=22 August 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=Clean+Bandit |title=Discography Clean Bandit |website=charts.nz |accessdate=22 August 2014}}
+* ''What Is Love?'': {{cite web|url=https://aotearoamusiccharts.co.nz/archive/albums/2019-02-01|title=NZ Top 40 Albums Chart|publisher=[[Recorded Music NZ]]|date=4 February 2019|access-date=1 February 2019}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web |url=http://swisscharts.com/artist/Clean_Bandit |title=Clean Bandit |format=select "Charts" tab |website=swisscharts.com |accessdate=22 August 2014}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard 200|US]]<br /><ref>{{cite web |url=https://www.billboard.com/artist/clean-bandit/chart-history/tlp/ |title=Clean Bandit Chart History: Billboard 200 |work=[[Billboard (magazine)|Billboard]] |accessdate=10 May 2018}}</ref>
+|-
+! scope="row"| ''[[New Eyes]]''
+|
+* Released: 30 May 2014
+* Label: [[Atlantic Records UK|Atlantic]]
+* Formats: [[Compact disc|CD]], CD/[[DVD]], [[LP record|LP]], [[music download|digital download]]
+| 3 || — || 39 || — || 52 || 31 || 9 || 30 || 8 || 180
+|
+* [[British Phonographic Industry|BPI]]: Gold<ref name="BPI">{{cite certification|region=United Kingdom|access-date=30 October 2026|artist=Clean Bandit}}</ref>
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite certification|region=United States|artist=Clean Bandit|access-date=14 March 2019}}</ref>
+* [[Recorded Music NZ|RMNZ]]: Platinum<ref name="RMNZ-albums">{{cite certification|region=New Zealand|type=album|artist=Clean Bandit|source=radioscope|access-date=3 April 2026}}</ref>
+|-
+! scope="row"| ''[[What Is Love? (Clean Bandit album)|What Is Love?]]''
+|
+* Released: 30 November 2018
+* Label: Atlantic
+* Formats: CD, LP, digital download
+| 9 || 48 || 56 || 50 || 141 || — || 24 || 33 || 58 || 141
+|
+* BPI: Platinum<ref name="BPI"/>
+* [[Music Canada|MC]]: Platinum<ref name="musiccanada" />
+* RIAA: Gold<ref name="RIAA"/>
+* RMNZ: Platinum<ref name="RMNZ-albums"/>
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+== Extended plays ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:19em;"| Details
+|-
+! scope="row"| ''A+E''<ref>{{cite web|url=https://music.apple.com/gb/album/a-e-ep/572999962 |title=A+E - Ep by Clean Bandit on Apple Music |website=[[iTunes Store]] |access-date=14 August 2018}}</ref>
+|
+* Released: 7 December 2012
+* Label: [[Black Butter Records|Black Butter]]
+* Format: Digital download
+|-
+! scope="row"| ''Mozart's House''<ref>{{cite web|url=https://music.apple.com/gb/album/mozarts-house-ep/606872850 |title=Mozart's House - EP by Clean Bandit on Apple Music |website=[[iTunes Store]] |access-date=14 August 2018}}</ref>
+|
+* Released: 29 March 2013
+* Label: Warner Music
+* Format: Digital download
+|}
+
+== Singles ==
+=== As lead artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:19em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">Peaks in Australia:
+* All except noted: {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Clean+Bandit|title=Discography Clean Bandit|website=australian-charts.com}}
+* "Tick Tock": {{cite magazine|title=The ARIA Report: Week Commencing 2 November 2020|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1600|page=4|date=2 November 2020}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="FL" />
+! scope="col" style="width:3em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CAN">{{cite web|url=https://www.billboard.com/artist/clean-bandit/chart-history/can/|title=Clean Bandit Chart History: Canadian Hot 100|work=Billboard|accessdate=17 January 2018}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[SNEP|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:3em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:3em;font-size:90%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:3em;font-size:90%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ" />
+! scope="col" style="width:3em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref>{{cite web |url=https://www.billboard.com/artist/clean-bandit/chart-history/hsi/ |title=Clean Bandit – Chart history: The Hot 100 |work=Billboard |accessdate=17 January 2018}}</ref>
+|-
+! scope="row"| "[[A+E (song)|A+E]]"<br /><span style="font-size:85%;">(featuring Kandaka Moore and Nikki Cislyn)</span>
+| 2012
+| 100 || — || — || — || — || — || — || — || — || — 
+|
+| rowspan="6"| ''New Eyes''
+|-
+! scope="row"| "[[Mozart's House]]"<br /><span style="font-size:85%;">(featuring Love Ssega)</span>
+| rowspan="2"| 2013
+| 17 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Dust Clears]]"<br /><span style="font-size:85%;">(featuring [[Noonie Bao]])</span>
+| 43 || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Rather Be]]"{{efn|group=upper-alpha|"Rather Be" also features on the deluxe edition of [[Jess Glynne]]'s debut studio album ''[[I Cry When I Laugh]]''.}}<br /><span style="font-size:85%;">(featuring [[Jess Glynne]])</span>
+| rowspan="4"| 2014
+| 1 || 2 || 2 || 13 || 2 || 1 || 1 || 2 || 2 || 10
+|
+* BPI: 6× Platinum<ref name="BPI" />
+* [[Australian Recording Industry Association|ARIA]]: 6× Platinum<ref name="ARIA Singles 2019">{{cite certification|region=Australia|type=single|certyear=2019|access-date=3 April 2026}}</ref>
+* [[Belgian Entertainment Association|BEA]]: 2× Platinum<ref>{{cite certification|region=Belgium|certyear=2016|type=single|access-date=23 September 2021}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: 2× Platinum<ref name="BVMI">{{cite certification|region=Germany|artist=Clean Bandit|access-date=2 April 2026}}</ref>
+* MC: 5× Platinum<ref name="musiccanada">{{cite certification|region=Canada|artist=Clean Bandit|access-date=3 April 2026}}</ref>
+* [[International Federation of the Phonographic Industry|IFPI]] SWI: Platinum<ref name="SWI-cert">{{cite certification|region=Switzerland|artist=Clean Bandit|access-date=3 April 2026}}</ref>
+* RIAA: 4× Platinum<ref name="RIAA"/>
+* RMNZ: 6× Platinum<ref name=Radioscope>{{cite certification|region=New Zealand|type=single|artist=Clean Bandit|source=radioscope|access-date=12 September 2026}}</ref>
+* [[SNEP]]: Platinum<ref name="SNEP">{{cite certification|region=France|artist=Clean Bandit|access-date=3 April 2026}}</ref>
+|-
+! scope="row"| "[[Extraordinary (Clean Bandit song)|Extraordinary]]"<br /><span style="font-size:85%;">(featuring [[Sharna Bass]])</span>
+| 5 || — || —{{efn|group=upper-alpha|"Extraordinary" did not enter the Ultratop 50, but peaked at number 4 on the Flemish [[Ultratip]] chart.<ref name="FL" />}}|| — || — || — || 21 || — || — || —
+|
+* BPI: Silver<ref name="BPI" />
+|-
+! scope="row"| "[[Come Over (Clean Bandit song)|Come Over]]"<br /><span style="font-size:85%;">(featuring [[Stylo G]])</span>
+| 45 || — || —{{efn|group=upper-alpha|"Come Over" did not enter the Ultratop 50, but peaked at number 7 on the Flemish Ultratip chart.<ref name="FL" />}}|| — || — || 76 || — || — || — || —
+|
+|-
+! scope="row"| "[[Real Love (Clean Bandit and Jess Glynne song)|Real Love]]"{{efn|group=upper-alpha| "Real Love" also features on [[Jess Glynne]]'s debut studio album ''[[I Cry When I Laugh]]''.}}<br /><span style="font-size:85%;">(with Jess Glynne)</span>
+| 2 || 13 || —{{efn|group=upper-alpha|"Real Love" did not enter the Ultratop 50, but peaked at number 9 on the Flemish Ultratip chart.<ref name="FL" />}}|| — || 131 || 2 || 26 || 35 || 37 || —
+|
+* BPI: Platinum<ref name="BPI" />
+* ARIA: Platinum<ref>{{cite certification|region=Australia|type=single|certyear=2015|access-date=7 March 2015}}</ref>
+* RMNZ: Gold<ref name=Radioscope/>
+| rowspan="2"| ''New Eyes (Special Edition)''
+|-
+! scope="row"| "[[Stronger (Clean Bandit song)|Stronger]]"<!-- No other artists are officially credited, so please don't add them. -->
+| 2015
+| 4 || — || —{{efn|group=upper-alpha|"Stronger" did not enter the Ultratop 50, but peaked at number 79 on the Flemish Ultratip chart.<ref name="FL" />}}|| — || — || — || 56 || — || — || —
+|
+* BPI: Silver<ref name="BPI" />
+|-
+! scope="row"| "[[Tears (Clean Bandit song)|Tears]]"<br /><span style="font-size:85%;">(featuring [[Louisa Johnson]])</span>
+| rowspan="2"| 2016
+| 5 || — || — || — || — || 95 || 21 || —{{efn|group=upper-alpha|"Tears" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number 10 on the NZ Heatseeker Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2016-07-22|title=NZ Heatseeker Singles Chart|publisher=[[Recorded Music NZ]]|date=25 July 2016|access-date=22 July 2016}}</ref>}} || — || —
+|
+* BPI: 2× Platinum<ref name="BPI" />
+* RMNZ: Gold<ref name=Radioscope/>
+| ''What Is Love? (Deluxe edition)''
+|-
+! scope="row"| "[[Rockabye (song)|Rockabye]]"{{efn|group=upper-alpha|"Rockabye" is also included on the deluxe edition of [[Anne-Marie (singer)|Anne-Marie]]'s debut studio album ''[[Speak Your Mind]]''.}}<br /><span style="font-size:85%;">(featuring [[Sean Paul]] and [[Anne-Marie (singer)|Anne-Marie]])</span>
+| 1 || 1 || 2 || 4 || 4 || 1 || 1 || 1 || 1 || 9
+|
+* BPI: 4× Platinum<ref name="BPI" />
+* ARIA: 5× Platinum<ref>{{cite certification|region=Australia|type=single|certyear=2018|access-date=3 April 2026}}</ref>
+* BEA: 2× Platinum<ref name="BEA-2017">{{cite certification|region=Belgium|certyear=2017|type=single|access-date=5 June 2017}}</ref>
+* BVMI: 2× Platinum<ref name="BVMI" />
+* MC: 9× Platinum<ref name="musiccanada"/>
+* IFPI SWI: 2× Platinum<ref name="SWI-cert" />
+* RIAA: 3× Platinum<ref name="RIAA"/>
+* RMNZ: 5× Platinum<ref name=Radioscope/>
+* SNEP: Diamond<ref name="SNEP"/>
+| rowspan="2"| ''What Is Love?''
+|-
+! scope="row"| "[[Symphony (Clean Bandit song)|Symphony]]"{{efn|group=upper-alpha|"Symphony" is also included on Zara Larsson's second studio album ''[[So Good (Zara Larsson album)|So Good]]''.}}<br /><span style="font-size:85%;">(featuring [[Zara Larsson]])</span>
+| rowspan="3"| 2017
+| 1 || 4 || 4 || 34 || 11 || 9 || 2 || 12 || 6 || —{{efn|group=upper-alpha|"Symphony" did not enter the ''Billboard'' Hot 100, but peaked at number one on the [[Bubbling Under Hot 100 Singles]] chart.<ref name="Bubbling">{{cite web|url=https://www.billboard.com/artist/clean-bandit/chart-history/hbu/|title=Chart Search for Clean Bandit (Bubbling Under Hot 100 Singles)|work=Billboard|accessdate=19 June 2018}}</ref>}}
+|
+* BPI: 5× Platinum<ref name="BPI" />
+* ARIA: 5× Platinum<ref name="ARIA Singles 2019"/>
+* BEA: Platinum<ref name="BEA-2017"/>
+* BVMI: 3× Gold<ref name="BVMI" />
+* MC: 4× Platinum<ref name="musiccanada"/>
+* IFPI SWI: 2× Platinum<ref name="SWI-cert" />
+* RIAA: Platinum<ref name="RIAA"/>
+* RMNZ: 5× Platinum<ref name=Radioscope/>
+* SNEP: Diamond<ref name="SNEP"/>
+|-
+! scope="row"| "[[Disconnect (Clean Bandit and Marina and the Diamonds song)|Disconnect]]"<br /><span style="font-size:85%;">(with [[Marina and the Diamonds]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{n/a|Non-album single}}
+|-
+! scope="row"| "[[I Miss You (Clean Bandit song)|I Miss You]]"<br /><span style="font-size:85%;">(featuring [[Julia Michaels]])</span>
+| 4 || 20 || 5 || 50 || 112 || 49 || 3 || 17 || 43 || 92
+|
+* BPI: 2× Platinum<ref name="BPI" />
+* ARIA: 3× Platinum<ref name="ARIA Singles 2019"/>
+* BEA: Platinum<ref>{{cite certification|region=Belgium|certyear=2018|type=single|access-date=16 March 2018}}</ref>
+* BVMI: Gold<ref name="BVMI" />
+* MC: 2× Platinum<ref name="musiccanada"/>
+* RIAA: Gold<ref name="RIAA"/>
+* RMNZ: 3× Platinum<ref name=Radioscope/>
+* SNEP: Platinum<ref name="SNEP"/>
+| rowspan="4"| ''What Is Love?''
+|-
+! scope="row"| "[[Solo (Clean Bandit song)|Solo]]"<br /><span style="font-size:85%;">(featuring [[Demi Lovato]])</span>
+| rowspan="2"| 2018
+| 1 || 7 || 3 || 14 || 4 || 1 || 1 || 21 || 2 || 58
+|
+* BPI: 3× Platinum<ref name="BPI" />
+* ARIA: 3× Platinum<ref>{{cite certification|region=Australia|type=single|certyear=2021|access-date=3 February 2022}}</ref>
+* BEA: Platinum<ref>{{cite certification|region=Belgium|certyear=2019|type=single|access-date=3 April 2026}}</ref>
+* BVMI: 3× Gold<ref name="BVMI" />
+* MC: 4× Platinum<ref name="musiccanada"/>
+* RIAA: Platinum<ref name="RIAA"/>
+* RMNZ: 2× Platinum<ref name=Radioscope/>
+* SNEP: Diamond<ref name="SNEP"/>
+|-
+! scope="row"| "[[Baby (Clean Bandit song)|Baby]]"{{efn|group=upper-alpha|"Baby" is also included on Marina's fourth studio album ''[[Love + Fear]]''.}}<br />{{small|(featuring [[Marina and the Diamonds|Marina]] and [[Luis Fonsi]])}}
+| 15 || — || —{{efn|group=upper-alpha|"Baby" did not enter the Ultratop 50, but peaked at number 30 on the Flemish Ultratip chart.<ref name="FL" />}}|| — || — || — || 39 || —{{efn|group=upper-alpha|"Baby" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number 20 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2018-11-09|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=12 November 2018|access-date=9 November 2018}}</ref>}} || — || —
+|
+* BPI: Gold<ref name="BPI"/>
+|-
+! scope="row"| "[[Mama (Clean Bandit song)|Mama]]"<br />{{small|(featuring [[Ellie Goulding]])}}
+| 2019
+| 98 || — || — || — || — || — || 97 || — || — || —
+|
+|-
+! scope="row"| "[[Tick Tock (Clean Bandit and Mabel song)|Tick Tock]]"{{efn|group=upper-alpha|"Tick Tock" is also included on digital and streaming versions of Mabel's debut studio album ''[[High Expectations]]''.}}<br />{{small|(with [[Mabel (singer)|Mabel]] featuring [[24kGoldn]])}}
+| 2020
+| 8 || 61 || 3 || — || 76 || 48 || 13 || —{{efn|group=upper-alpha|"Tick Tock" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number 16 on the NZ Hot Singles Chart.<ref>{{Cite web|url=https://nztop40.co.nz/chart/hotsingles?chart=4927|archive-url=https://web.archive.org/web/20200901174219/https://nztop40.co.nz/chart/hotsingles?chart=4927|url-status=dead|archive-date=1 September 2020|title = The Official New Zealand Music Chart}}</ref>}} || 17 || —
+|
+* BPI: Platinum<ref name="BPI" />
+* BEA: Gold<ref>{{cite certification|region=Belgium|certyear=2021|type=single|access-date=23 April 2021}}</ref>
+* RMNZ: Gold<ref name=Radioscope/>
+* SNEP: Platinum<ref>{{cite certification|region=France|artist=Clean Bandit|title=Tick Tock|type=single|access-date=20 October 2025}}</ref>
+| rowspan="12" {{Non-album singles}}
+|-
+! scope="row"| "[[Higher (Clean Bandit song)|Higher]]"<br>{{small|(featuring [[Iann Dior]])}}
+| rowspan="3"| 2021
+| 66 || — || — || — || — || — || 67 || —{{efn|group=upper-alpha|"Higher" did not enter the NZ Top 40 Singles Chart, but peaked at number seven on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-02-05|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=8 February 2021|access-date=6 February 2021}}</ref>}} || — || — 
+|
+|-
+! scope="row"| "[[Drive (Clean Bandit and Topic song)|Drive]]"<br>{{small|(with [[Topic (DJ)|Topic]] featuring [[Wes Nelson]])}}
+| 17 || — || — || — || — || — || 30<br /><ref>{{cite web|url=https://www.officialcharts.com/charts/irish-singles-chart/20211112/ie7501/|title=Top 100 Singles, Week Ending 12 November 2021|publisher=Official Charts Company|access-date=12 November 2021}}</ref> || —{{efn|group=upper-alpha|"Drive" did not enter the NZ Top 40 Singles Chart, but peaked at number 36 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-09-03|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=9 August 2021|access-date=7 August 2021}}</ref>}} || — || —
+|
+* BPI: Platinum<ref name="BPI" />
+|-
+! scope="row"| "[[How Will I Know#Whitney × Clean Bandit version|How Will I Know]]"<br>{{small|(with [[Whitney Houston]])}}
+| 92 || — || ― || ― || ― || ― || ― || ―{{efn|group=upper-alpha|"How Will I Know" did not enter the NZ Top 40 Singles Chart, but peaked at number 31 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2021-10-01|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=4 October 2021|access-date=2 October 2021}}</ref>}} || ― || ―
+|
+* BPI: Silver<ref name="BPI" />
+* MC: Gold<ref name="musiccanada"/>
+* RMNZ: Gold<ref name=Radioscope/>
+|-
+! scope="row"| "[[Everything but You (Clean Bandit song)|Everything but You]]"<ref>{{Cite web |last=Brereton |first=Greta |date=21 February 2022 |title=Listen to Clean Bandit link up with A7S for new single 'Everything But You' |url=https://www.nme.com/en_asia/news/music/listen-to-clean-bandit-link-up-with-a7s-for-new-single-everything-but-you-3165882 |archive-url=https://web.archive.org/web/20220329163352/https://www.nme.com/en_asia/news/music/listen-to-clean-bandit-link-up-with-a7s-for-new-single-everything-but-you-3165882 |archive-date=29 March 2022 |accessdate=30 March 2022 |website=NME}}</ref> <br /><span style="font-size:85%;">(featuring [[A7S]])</span>
+| rowspan="3"| 2022
+| 55 || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+* BPI: Silver<ref name="BPI"/>
+|-
+! scope="row"| "Sad Girls"<br /><span style="font-size:85%;">(with [[French the Kid]] featuring [[Rema (musician)|Rema]])</span><ref>{{cite web|url=https://www.officialcharts.com/chart-news/clean-bandit-french-the-kid-and-rema-team-up-on-sad-girls-first-listen__37363/|title=Clean Bandit, French The Kid and Rema team up on Sad Girls: First Listen|publisher=Official Charts Company|last=Smith|first=Carl|date=8 September 2022|access-date=8 September 2022}}</ref>
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "Don't Leave Me Lonely"<br /><span style="font-size:85%;">(with [[Elley Duhé]])</span><ref>{{cite web|url=https://music.apple.com/nz/album/dont-leave-me-lonely-single/1647926168|title=Don't Leave Me Lonely - Single by Clean Bandit & Elley Duhé on Apple Music|website=[[Apple Music]]|access-date=20 October 2022}}</ref>
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "Mar Azul"<br>{{small|(with [[Piso 21]] and Jhosy)}}
+| rowspan="3"| 2024
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "[[Cry Baby (Clean Bandit, Anne-Marie and David Guetta song)|Cry Baby]]"<br>{{small|(with Anne-Marie and [[David Guetta]])}}
+| 49 || ― || 23 || ― || ― || ― || ― || ―{{efn|group=upper-alpha|"Cry Baby" did not enter the NZ Top 40 Singles Chart, but peaked at number 16 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-09-13|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=19 August 2024|access-date=16 August 2024}}</ref>}} || ― || ―
+|
+* BPI: Silver<ref name="BPI" />
+|-
+! scope="row"| "2s n 3s"<br>{{small|(with LeoStayTrill)}}<ref>{{cite web|url=https://www.clashmusic.com/news/leostaytrills-2s-n-3s-is-a-clean-bandit-sampling-smash/|title=LeoStayTrill's ‘"2s N 3s" Is a Clean Bandit Sampling Smash |website=Clash Music|date=22 November 2024|access-date=23 November 2024}}</ref>
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "Tell Me Where U Go"<br>{{small|(with [[Tiësto]] and [[Leony]])}}
+| rowspan="2"| 2025
+| — || ― || ― || ― || ― || ― || ― || ―{{efn|group=upper-alpha|"Tell Me Where U Go" did not enter the NZ Top 40 Singles Chart, but peaked at number 27 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-05-02|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=2 May 2025|access-date=3 May 2025}}</ref>}} || ― || ―
+|
+|-
+! scope="row"| "Believe"<br>{{small|(featuring [[Lloyiso]])}}
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "I Don’t Wanna Hurt You"<br>{{small|(with [[Biig Piig]])}}
+| rowspan="3"| 2026
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+| rowspan="3" {{TBA}}
+|-
+! scope="row"| "Company"<br>{{small|(with [[Chloe Bailey|Chlöe]] and [[Omah Lay]])}}
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+! scope="row"| "La Dolce Vita"<br>{{small|(with [[Tära|TÄRA]])}}
+| — || ― || ― || ― || ― || ― || ― || ― || ― || ―
+|
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Ultratop|BEL<br />(FL)<br />Tip]]<br /><ref name="FL" />
+|-
+! scope="row"| "[[Intentions (Gorgon City song)|Intentions]]"<br /><span style="font-size:85%;">([[Gorgon City]] featuring Clean Bandit)</span>
+| 2013
+| 88
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "Lost"<br /><span style="font-size:85%;">([[Sekai no Owari|End of the World]] featuring Clean Bandit)</span>
+| rowspan="3"| 2019
+| —
+| ''Chameleon''
+|-
+! scope="row"| "Arriba"<br /><span style="font-size:85%;">([[Little Big (band)|Little Big]] and [[Tatarka (musician)|Tatarka]] featuring Clean Bandit)</span>
+| —
+| rowspan="3" {{N/A|Non-album singles}}
+|-
+! scope="row"| "Open to More"<br /><span style="font-size:85%;">([[Henry Lau]] featuring Clean Bandit)</span>
+| —
+|-
+! scope="row"| "[[Stop Crying Your Heart Out#BBC Radio 2 Allstars charity single|Stop Crying Your Heart Out]]"<ref>{{Cite web|title=All-star BBC Children in Need charity single announced|url=https://www.officialcharts.com/chart-news/bbc-radio-2s-allstars-including-cher-kylie-and-robbie-williams-to-release-stop-crying-your-heart-out-cover-for-bbc-children-in-need__31577/|access-date=2020-11-10|website=www.officialcharts.com|language=en}}</ref><br><span style="font-size:85%;">(as BBC Radio 2's Allstars)</span>
+| 2020
+| —
+|-
+! scope="row"| "My Own Beat"<br /><span style="font-size:85%;">([[Louane (singer)|Louane]] featuring Clean Bandit)</span>
+| 2023
+| —
+| ''Sentiments Heureux''
+|-
+| colspan="4" style="font-size:85%"| "—" denotes a recording that did not chart or was not released.
+|-
+|}
+
+== Music videos ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Director(s)
+|-
+! scope="row"| "Mozart's House"<ref>{{cite web|url=https://www.youtube.com/watch?v=rd0cT7Dnpt8 |title=Clean Bandit - Mozart's House ft. Love Ssega [Official Video] |website=[[YouTube]] |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Love Ssega)</span>
+| rowspan="2"| 2010
+| rowspan="2"| Jack Patterson
+|-
+! scope="row"| "Christmas Special"<ref>{{cite web|url=https://www.youtube.com/watch?v=7US9ZvcEwJY |title=Clean Bandit - Christmas Special |website=YouTube |accessdate=14 August 2018}}</ref>
+|-
+! scope="row"| "Telephone Banking"<ref>{{Cite web |url=https://www.theguardian.com/music/musicblog/2011/aug/26/new-music-clean-bandit |title=New music: Clean Bandit – Telephone Banking |last=Cragg |first=Michael |date=26 August 2011 |website=[[The Guardian]] |archive-url=https://web.archive.org/web/20141018085106/https://www.theguardian.com/music/musicblog/2011/aug/26/new-music-clean-bandit |archive-date=18 October 2014 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Love Ssega)</span>
+| 2011
+| {{hlist|Jack Patterson|Grace Chatto}}
+|-
+! scope="row"| "UK Shanty"<ref>{{cite web|url=https://www.youtube.com/watch?v=9-TO4943ThQ |title=Clean Bandit - UK Shanty ft. Eliza Shaddad (Channel 4's Random Acts) |website=YouTube |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Eliza Shaddad)</span>
+| rowspan="3"| 2012
+| rowspan="5"| Jack Patterson
+|-
+! scope="row"| "A&E"<ref>{{Cite web |url=https://www.clashmusic.com/videos/clean-bandit-ae |title=Clean Bandit - A&E |last=Murray |first=Robin |date=28 November 2012 |website=Clash Magazine |archive-url=https://web.archive.org/web/20180615143856/https://www.clashmusic.com/videos/clean-bandit-ae |archive-date=15 June 2018 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Kandaka Moore and Nikki Cislyn)</span>
+|-
+! scope="row"| "Nightingale"<ref>{{cite web|url=https://www.youtube.com/watch?v=U4bPB0_UTAA |title=Clean Bandit - Nightingale ft. Nikki Cislyn [Official Video] |website=YouTube |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Nikki Cislyn)</span>
+|-
+! scope="row"| "Dust Clears"<ref>{{Cite web |url=http://diymag.com/archive/watch-clean-bandit-air-dust-clears-video |title=Watch: Clean Bandit Air 'Dust Clears' Video |date=20 June 2013 |website=[[DIY (magazine)|DIY]] |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Noonie Bao)</span>
+| rowspan="2"| 2013
+|-
+! scope="row"| "Rather Be"<ref>{{Cite web |url=https://www.capitalfm.com/artists/clean-bandit/videos/rather-be/ |title=Clean Bandit Feat. Jess Glynne - 'Rather Be' (Official Video) |date=20 January 2014 |website=Capital FM |archive-url=https://web.archive.org/web/20151031142710/https://www.capitalfm.com/artists/clean-bandit/videos/rather-be/ |archive-date=31 October 2015 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Jess Glynne)</span>
+|-
+! scope="row"| "Extraordinary"<ref>{{Cite web |url=http://www.officialcharts.com/chart-news/clean-bandit-unveil-video-for-new-single-extraordinary-ft-sharna-bass__3921/ |title=Clean Bandit unveil video for new single, Extraordinary FT Sharna Bass |last=Moss |first=Liz |date=2 April 2014 |website=Official Charts |archive-url=https://web.archive.org/web/20160406032448/http://www.officialcharts.com/chart-news/clean-bandit-unveil-video-for-new-single-extraordinary-ft-sharna-bass__3921/ |archive-date=6 April 2016 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Sharna Bass)</span>
+| rowspan="3"| 2014
+| rowspan="2"| Clean Bandit
+|-
+! scope="row"| "Come Over"<ref>{{Cite web |url=http://www.officialcharts.com/chart-news/watch-clean-bandit-s-video-for-new-single-come-over-ft-stylo-g__7402/ |title=Watch Clean Bandit's video for new single Come Over FT Stylo G |last=Moss |first=Liz |date=22 July 2014 |website=Official Charts |archive-url=https://web.archive.org/web/20171027052603/http://www.officialcharts.com/chart-news/watch-clean-bandit-s-video-for-new-single-come-over-ft-stylo-g__7402/ |archive-date=27 October 2017 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Stylo G)</span>
+|-
+! scope="row"| "Real Love"<ref>{{Cite web |url=https://nesthq.com/clean-bandit-real-love-vid/ |title=Smile Big to Clean Bandit & Jess Glynne's Music Video for "Real Love" |last=Berry |first=Jonah |website=Nest HQ |archive-url=https://web.archive.org/web/20150506122228/https://nesthq.com/clean-bandit-real-love-vid/ |archive-date=6 May 2015 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(with Jess Glynne)</span>
+| rowspan="3"| Jack Patterson
+|-
+! scope="row"| "Stronger"<ref>{{Cite web |url=http://www.idolator.com/7584312/clean-bandit-stronger-video-watch |title=Clean Bandit's "Stronger" Video Will Get You Into The Groove: Watch |last=Gracie |first=Bianca |date=12 March 2015 |website=Idolator |accessdate=14 August 2018}}{{dead link|date=August 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+| 2015
+|-
+! scope="row"| "Tears"<ref>{{Cite web |url=https://www.mtv.co.uk/news/e01f8r/clean-bandit-debut-tears-video-featuring-flamethrowers-and-hedwig-from-harry-potter |title=Clean Bandit Debut 'Tears' Video Featuring Flamethrowers and Hedwig From Harry Potter |date=7 July 2016 |website=[[MTV]] |archive-url=https://web.archive.org/web/20170718044558/http://www.mtv.co.uk/clean-bandit/news/clean-bandit-debut-tears-video-featuring-flamethrowers-and-hedwig-from-harry-potter |archive-date=18 July 2017 |url-status=live |access-date=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Louisa Johnson)</span>
+| rowspan="2"| 2016
+|-
+! scope="row"| "Rockabye"<ref>{{Cite web |url=https://www.breatheheavy.com/newly-reformed-clean-bandit-release-rockabye-video-featuring-sean-paul-and-anne-marie/ |title=Newly Reformed Clean Bandit Release "Rockabye" Video Featuring Sean Paul And Anne-Marie |last=Miller |first=Jordan |date=21 October 2016 |website=Breathe Heavy |archive-url=https://web.archive.org/web/20171221095402/https://www.breatheheavy.com/newly-reformed-clean-bandit-release-rockabye-video-featuring-sean-paul-and-anne-marie/ |archive-date=21 December 2017 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Sean Paul and Anne-Marie)</span>
+| rowspan="5"| {{hlist|Jack Patterson|Grace Chatto}}
+|-
+! scope="row"| "Symphony"<ref>{{Cite web |url=https://www.pinknews.co.uk/2017/03/17/clean-bandit-zara-larsson-unveil-beautiful-music-video-featuring-same-sex-couple/ |title=Clean Bandit, Zara Larsson unveil beautiful music video featuring same-sex couple |last=Duffy |first=Nick |date=17 March 2017 |website=[[PinkNews]] |archive-url=https://web.archive.org/web/20171027185819/http://www.pinknews.co.uk/2017/03/17/clean-bandit-zara-larsson-unveil-beautiful-music-video-featuring-same-sex-couple/ |archive-date=27 October 2017 |accessdate=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Zara Larsson)</span>
+| rowspan="2"| 2017
+|-
+! scope="row"| "I Miss You"<ref>{{Cite magazine |url=https://www.billboard.com/music/pop/clean-bandit-julia-michaels-i-miss-you-new-track-video-8014890/ |title=Clean Bandit Taps Julia Michaels for Fun New Track and Video 'I Miss You': Premiere |last=Stubblebine |first=Allison  |date=27 October 2017 |magazine=[[Billboard (magazine)|Billboard]] |archive-url=https://web.archive.org/web/20180702050141/https://www.billboard.com/articles/columns/pop/8014890/clean-bandit-julia-michaels-i-miss-you-new-track-video |archive-date=2 July 2018 |url-status=live |access-date=14 August 2018}}</ref> <br><span style="font-size:85%;">(featuring Julia Michaels)</span>
+|-
+! scope="row"| "Solo"<ref>{{cite web|url=https://www.youtube.com/watch?v=8JnfIa84TnU&t=8s|title=Clean Bandit - Solo feat. Demi Lovato [Official Video]|website=YouTube|date=31 May 2018|accessdate=1 November 2018}}</ref> <br><span style="font-size:85%;">(featuring Demi Lovato)</span>
+| rowspan="4"| 2018
+|-
+! scope="row"| "Solo" {{small|(acoustic version)}}<ref>{{cite web|url=https://www.youtube.com/watch?v=_sEDBAy45p0|title=Clean Bandit - Solo feat. Demi Lovato [Acoustic Version]|website=YouTube|date=15 June 2018|accessdate=1 November 2018}}</ref> <br><span style="font-size:85%;">(featuring Demi Lovato)</span>
+|-
+! scope="row"| "Baby"<ref>{{cite web|url=https://www.youtube.com/watch?v=hlznpxNGFGQ|title=Clean Bandit - Baby feat. Marina & Luis Fonsi [Official Video]|website=YouTube|date=2 November 2018|accessdate=2 November 2018}}</ref><br><span style="font-size:85%;">(featuring Marina and Luis Fonsi)</span>
+| Clean Bandit
+|-
+! scope="row"| "Baby" {{small|(acoustic version)}}<ref>{{cite web|url=https://www.youtube.com/watch?v=BYkA4gt0wUc|title=Clean Bandit – Baby (feat. Marina) [Acoustic Version]|website=YouTube|date=17 November 2018|accessdate=11 September 2020}}</ref><br><span style="font-size:85%;">(featuring Marina and Luis Fonsi)</span>
+| Dan Massie
+|-
+! scope="row"| "Tick Tock"<ref>{{cite web|url=https://www.youtube.com/watch?v=yC8SPG2LwSA|title=Clean Bandit and Mabel - Tick Tock (feat. 24kGoldn) [Official Video]|website=YouTube|date=21 August 2020|accessdate=11 September 2020}}</ref><br><span style="font-size:85%;">(with Mabel featuring 24kGoldn)</span>
+| rowspan="2"| 2020
+| Clean Bandit
+|-
+! scope="row"| "Tick Tock" {{small|(acoustic version)}}<ref>{{cite web|url=https://www.youtube.com/watch?v=hTjBcxmo-l8|title=Clean Bandit and Mabel - Tick Tock [Official Acoustic Video]|website=YouTube|date=4 September 2020|accessdate=11 September 2020}}</ref><br><span style="font-size:85%;">(with Mabel)</span>
+| Electric Light Studios
+|}
+
+== Remixes ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:22em;"| Title
+! scope="col" style="width:2em;"| Year
+! scope="col" style="width:15em;"| Artist
+|-
+! scope="row"| "A&E" <small>(Clean Bandit VIP remix)</small><ref>{{cite web|url=https://www.youtube.com/watch?v=nMyZ95KMOJs |title=Clean Bandit - A&E (Clean Bandit Remix) |website=[[YouTube]] |accessdate=14 August 2018}}</ref>
+| 2012
+| Clean Bandit
+|-
+! scope="row"| "[[Waiting All Night]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/au/album/waiting-all-night-ep/616781143 |title=Waiting All Night - EP by Rudimental on Apple Music |website=[[iTunes Store]] |date=12 April 2013 |access-date=14 August 2018}}</ref>
+| 2013
+| [[Rudimental]]<br /><span style="font-size:85%;">(featuring [[Ella Eyre]])</span>
+|-
+! scope="row"| "[[Wanderlust (The Weeknd song)|Wanderlust]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://itunes.apple.com/us/album/wanderlust-single/875109642 |archive-url=https://web.archive.org/web/20180814173126/https://itunes.apple.com/us/album/wanderlust-single/875109642 |url-status=dead |archive-date=14 August 2018 |title=Wanderlust - Single by The Weeknd on Apple Music |website=[[iTunes Store]] |accessdate=14 August 2018}}</ref>
+| rowspan="2"| 2014
+| [[The Weeknd]]
+|-
+! scope="row"| "Come Over" <small>(Clean Bandit VIP remix)</small><ref>{{cite web|url=https://soundcloud.com/cleanbandit/come-over-feat-stylo-g-and-cecile-clean-bandit-vip-remix |title=Come Over (feat. Stylo G and Cecile) [Clean Bandit VIP Remix] by Clean Bandit on Soundcloud |website=[[iTunes Store]] |accessdate=14 August 2018}}</ref>
+| Clean Bandit
+|-
+! scope="row"| "Love Again" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/gb/album/love-again-remixes-ep/988761549 |title=Love Again (Remixes) - EP by Rae Morris on Apple Music |website=[[iTunes Store]] |date=7 May 2015 |access-date=14 August 2018}}</ref>
+| rowspan="2"| 2015
+| [[Rae Morris]]
+|-
+! scope="row"| "[[To Ü]]" <small>(Clean Bandit remix)</small><ref>{{Cite web |url=https://www.spin.com/2015/10/clean-bandit-jack-u-remix-diplo-skrillex-to-u-alunageorge-stream/ |title=Clean Bandit Give Skrillex and Diplo's 'To Ü' a Sublime, Echoing Remix |last=Grebey |first=James |date=23 October 2015 |website=[[Spin (magazine)|Spin]] |archive-url=https://web.archive.org/web/20180122234318/https://www.spin.com/2015/10/clean-bandit-jack-u-remix-diplo-skrillex-to-u-alunageorge-stream/ |archive-date=22 January 2018 |accessdate=14 August 2018}}</ref>
+| [[Jack Ü]]<br /><span style="font-size:85%;">(featuring [[AlunaGeorge]])</span>
+|-
+! scope="row"| "[[Say It (Flume song)|Say It]]" <small>(Clean Bandit remix)</small><ref>{{Cite web |url=https://dancingastronaut.com/2016/10/flume-say-it-clean-bandit/ |title=Flume's 'Say It' receives official remix from Clean Bandit |last=Reaper |first=Toby |date=19 October 2016 |website=[[Dancing Astronaut]] |archive-url=https://web.archive.org/web/20161023205752/https://dancingastronaut.com/2016/10/flume-say-it-clean-bandit/ |archive-date=23 October 2016 |accessdate=14 August 2018}}</ref>
+| 2016
+| [[Flume (musician)|Flume]]<br /><span style="font-size:85%;">(featuring [[Tove Lo]])</span>
+|-
+! scope="row"| "Stargazer" <small>(Clean Bandit remix)</small><ref>{{Cite web |url=https://www.clashmusic.com/news/clean-bandit-have-remixed-end-of-the-world-and-it-is-wild |title=Clean Bandit Have Remixed End Of The World And It Is Wild |last=Murray |first=Robin |date=6 April 2018 |website=[[Clash (magazine)|Clash]] |archive-url=https://web.archive.org/web/20180819074445/https://www.clashmusic.com/news/clean-bandit-have-remixed-end-of-the-world-and-it-is-wild |archive-date=19 August 2018 |accessdate=19 August 2018}}</ref>
+| rowspan="3"| 2018
+| [[Sekai no Owari|End of The World]]
+|-
+! scope="row"| "[[Alone (Halsey song)|Alone]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/us/album/alone-feat-big-sean-stefflon-don-remixes-single/1377414966 |title=Alone (feat. Big Sean & Stefflon Don) [Remixes] - Single by Halsey on Apple Music |website=[[iTunes Store]] |date=4 May 2018 |access-date=19 August 2018}}</ref>
+| [[Halsey (singer)|Halsey]]<br /><span style="font-size:85%;">(featuring [[Big Sean]] and [[Stefflon Don]])</span>
+|-
+! scope="row"| "Drink About" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/us/album/drink-about-clean-bandit-remix-single/1419974316 |title=Drink About (Clean Bandit Remix) - Single by Seeb, Dagny & Clean Bandit on Apple Music |website=[[iTunes Store]] |date=10 August 2018 |access-date=12 August 2018}}</ref>
+| [[Seeb (music producers)|Seeb]]<br /><span style="font-size:85%;">(featuring [[Dagny (singer)|Dagny]])</span>
+|-
+! scope="row"| "[[You Need to Calm Down]]" <small>(Clean Bandit remix)</small><ref>{{Cite web|url=https://www.nme.com/news/music/taylor-swift-clean-bandit-you-need-to-calm-down-remix-2539828|title=Taylor Swift enlists Clean Bandit for chirpy 'You Need To Calm Down' remix|last=Gwee|first=Karen|date=2019-08-20|website=NME|language=en-US|access-date=2019-08-20}}</ref>
+| 2019
+| [[Taylor Swift]]
+|-
+! scope="row"| "[[In Your Eyes (Robin Schulz song)|In Your Eyes]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/us/album/in-your-eyes-feat-alida-clean-bandit-remix-single/1511056322 |title=In Your Eyes (feat. Alida) [Clean Bandit Remix] - Single by Robin Schulz on Apple Music |website=Apple Music |date=15 May 2020 |accessdate=2020-05-27}}</ref>
+| rowspan=3"| 2020
+| [[Robin Schulz]]
+|-
+! scope="row"| "[[Caution (The Killers song)|Caution]]" <small>(Clean Bandit remix)</small><ref>{{Cite web |last=Heffler |first=Jason |date=8 June 2020 |title=EDM and The Killers collide in official remix package for 'Caution' |url=https://edm.com/music-releases/the-killers-collide-caution-official-remixes |archive-url=https://web.archive.org/web/20200621052505/https://edm.com/music-releases/the-killers-collide-caution-official-remixes |archive-date=21 June 2020 |accessdate=21 June 2020 |website=EDM.com}}</ref>
+| [[The Killers]]
+|-
+! scope="row"| "[[Life Goes On (Oliver Tree song)|Life Goes On]]" <small>(Clean Bandit remix)</small>
+| [[Oliver Tree]]
+|-
+! scope="row"| "[[The Business (Tiësto song)|The Business, Pt. II]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/us/album/1554944407 |title=The Business, Pt. II (Clean Bandit Remix) - Single by Tiësto & Ty Dolla $ign on Apple Music |website=Apple Music |date=5 March 2021 |accessdate=19 March 2021}}</ref>
+|rowspan="2"|2021
+| [[Tiësto]] and [[Ty Dolla $ign]]
+|-
+! scope="row"| "[[Heartbreak Anthem]]" <small>(Clean Bandit remix)</small><ref>{{cite web|url=https://music.apple.com/us/album/heartbreak-anthem-clean-bandit-remix-single/1579112320 |title=Heartbreak Anthem (Clean Bandit Remix) - Single by David Guetta, Galantis & Little Mix on Apple Music |website=Apple Music |accessdate=31 August 2021}}</ref>
+| [[Galantis]], [[David Guetta]] and [[Little Mix]]
+|-
+! scope="row"| "[[Grace Kelly (song)|Grace Kelly]]" <small>(Clean Bandit remix)</small>
+| 2022
+| [[Mika (singer)|Mika]]
+|-
+! scope="row"| "[[Dai Dai]]" <small>(Clean Bandit remix)</small>
+| 2026
+| [[Shakira]] and [[Burna Boy]]
+|-
+|}
+
+==Songwriting and production credits==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|- 
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" rowspan="2"| Artist
+! scope="col" rowspan="2"| Album
+! scope="col" rowspan="2"| Contributed<br>Member(s)
+! scope="col" rowspan="2"| Songwriter
+! scope="col" colspan="3"| Producer
+|-
+! scope="col"| Primary
+! scope="col"| Secondary
+! scope="col"| Additional
+|-
+! scope="row"| "[[Hold My Hand (Jess Glynne song)|Hold My Hand]]"<ref>{{Cite web|url=https://www.qobuz.com/gb-en/album/i-cry-when-i-laugh-jess-glynne/0825646089567|title=Album I Cry when I Laugh, Jess Glynne &#124; Qobuz: Download and streaming in high quality}}</ref>
+| 2015
+| Jess Glynne
+| ''[[I Cry When I Laugh]]''
+| rowspan="9"| Jack Patterson
+| {{tick}}
+| 
+| {{tick}}
+|
+|-
+! scope="row"| "[[Mad Love (Sean Paul and David Guetta song)|Mad Love]]"<ref>{{cite AV media| url-status = live| archive-url = https://ghostarchive.org/varchive/youtube/20211211/rQDUb1g7pbQ| archive-date = 2021-12-11| url = https://www.youtube.com/watch?v=rQDUb1g7pbQ| title = Mad Love (Valentino Khan Remix) | website=[[YouTube]]}}{{cbignore}}</ref><br>{{small|(with [[David Guetta]] featuring [[Becky G]])}}
+| 2018
+| Sean Paul
+| ''[[Mad Love the Prequel]]''
+| {{tick}}
+|
+|
+| {{tick}}
+|-
+! scope="row"| "You"
+| rowspan="4"| 2019
+| rowspan="2"| Marina
+| rowspan="2"| ''Love + Fear''<ref>{{Cite web|url=https://www.qobuz.com/gb-en/album/love-fear-marina/ul8xs5gey9pgc|title = Album Love + Fear, Marina &#124; Qobuz: Download and streaming in high quality}}</ref>
+| {{tick}}
+| {{tick}}
+|
+|
+|-
+! scope="row"| "[[Karma (Marina song)|Karma]]"
+| {{tick}}
+| {{tick}}
+|
+|
+|-
+! scope="row"| "[[Senorita (Shawn Mendes and Camila Cabello song)|Senorita]]"<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/VKC_hzJ3jzg Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20190626031645/https://www.youtube.com/watch?v=VKC_hzJ3jzg Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=VKC_hzJ3jzg| title = Señorita | website=[[YouTube]]}}{{cbignore}}</ref><br>{{small|(with [[Camila Cabello]])}}
+| [[Shawn Mendes]]
+| ''[[Shawn Mendes (album)|Shawn Mendes]]'' and ''[[Romance (Camila Cabello album)|Romance]]''
+| {{tick}}
+|
+|
+|
+|-
+! scope="row"| "Lead Me On"<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/U-Bqv588S40 Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20190705033939/https://www.youtube.com/watch?v=U-Bqv588S40 Wayback Machine]{{cbignore}}: {{cite AV media| url = https://www.youtube.com/watch?v=U-Bqv588S40| title = Lead Me On | website=[[YouTube]]}}{{cbignore}}</ref>
+| [[Louise Redknapp|Louise]]
+| ''[[Heavy Love (Louise album)|Heavy Love]]''
+| {{tick}}
+| {{tick}}
+|
+| 
+|-
+! scope="row"| "[[My Heart Goes (La Di Da)]]"<br>{{small|(with [[Topic (DJ)|Topic]])}}
+| 2021
+| [[Becky Hill]]
+| ''[[Only Honest on the Weekend]]''
+| {{tick}}
+|
+|
+|
+|-
+! scope="row"| "Easy"
+| 2024
+| [[Jess Glynne]]
+| ''[[Jess (album)|Jess]]''
+| {{tick}}
+| {{tick}}
+|
+|
+|-
+! scope="row"| "Before You Know It"<br>{{small|(with [[Ava Max]])}}
+|2026
+|[[Kygo]]
+|{{n/a|Non-album single}}
+| {{tick}}
+|
+|
+|
+|}
+
+== Notes ==
+{{reflist|group=upper-alpha}}
+
+== References ==
+{{Reflist}}
+
+{{Clean Bandit}}
+
+[[Category:Discographies of British artists]]
+[[Category:Electronic music discographies]]

@@ -1,0 +1,163 @@
+{{distinguish|You're in Love}}
+{{Short description|2014 song by Taylor Swift}}
+{{good article}}
+{{Use American English|date=April 2024}}
+{{Use mdy dates|date=April 2024}}
+{{Infobox song
+| name          = You Are in Love
+| type          = promotional single
+| artist        = [[Taylor Swift]]
+| album         = [[1989 (album)|1989 (Deluxe Edition)]]
+| released      = {{Start date|2015|2|24}}
+| studio        = [[Jungle City]] (New York)
+| genre         = [[Electropop]]
+| length        = {{Duration|m=4|s=27}}
+| label         = [[Big Machine Records|Big Machine]]
+| writer        = * Taylor Swift
+* [[Jack Antonoff]]
+| producer      = * Taylor Swift
+* Jack Antonoff
+| misc          = {{External music video|header=Audio video|type=song|{{YouTube|KgL0t6nu-Mo|"You Are in Love"}}}}
+}}
+{{Infobox song
+| name          = You Are in Love (Taylor's Version)
+| type          = song
+| artist        = [[Taylor Swift]]
+| album         = [[1989 (Taylor's Version)]]
+| released      = {{Start date|2023|10|27}}
+| studio        = * [[Conway Recording Studios|Conway Recording]] (Los Angeles)
+* [[Electric Lady Studios|Electric Lady]] (New York)
+* Rough Customer (Brooklyn)
+* Sharp Sonics (Los Angeles)
+| genre         = <!--Do not put the original's genres without providing a standalone source.-->
+| length        = {{Duration|m=4|s=27}}
+| label         = [[Republic Records|Republic]]
+| writer        = * Taylor Swift
+* [[Jack Antonoff]]
+| producer      = * Taylor Swift
+* Jack Antonoff
+| misc          = {{External music video|header=Lyric video|type=song|{{YouTube|M7ySK0keirY&pp|"You Are in Love (Taylor's Version)"}}}}
+}}
+
+"'''You Are in Love'''" is a song by the American singer-songwriter [[Taylor Swift]] from the deluxe edition of her fifth studio album, ''[[1989 (album)|1989]]'' (2014). [[Big Machine Records]] released the track as an [[iTunes Store]]-exclusive download on February 24, 2015. Swift wrote and produced the song with [[Jack Antonoff]], whose relationship with the writer-actress [[Lena Dunham]] influenced its lyrical content. Some critics applauded the song's portrayal of love with simple lyrics and production, although a few others deemed the track insubstantial.
+
+The song was the inspiration for the music video of Swift's 2019 single "[[Lover (Taylor Swift song)|Lover]]". Following [[Taylor Swift masters dispute|a dispute over her masters]] with her former label, [[Big Machine Records]], Swift re-recorded the song as "'''You Are in Love (Taylor's Version)'''", as part of her fourth re-recorded album, ''[[1989 (Taylor's Version)]]'' (2023).
+
+==Background and writing==
+
+[[Taylor Swift]] had identified as a [[Country music|country]] musician until her fourth studio album, ''[[Red (Taylor Swift album)|Red]]'', which was released on October 22, 2012.<ref>{{cite magazine |last=Caulfield |first=Keith |date=October 30, 2012 |title=Taylor Swift's ''Red'' Sells 1.21 Million; Biggest Sales Week for an Album Since 2002 |url=http://www.billboard.com/articles/news/474400/taylor-swifts-red-sells-121-million-biggest-sales-week-for-an-album-since-2002 |url-status=live |archive-url=https://web.archive.org/web/20130201140727/http://www.billboard.com/articles/news/474400/taylor-swifts-red-sells-121-million-biggest-sales-week-for-an-album-since-2002 |archive-date=February 1, 2013 |access-date=May 8, 2024 |magazine=[[Billboard (magazine)|Billboard]]}}</ref><ref name="lamarketing">{{cite web |last=Lewis |first=Randy |date=October 30, 2012 |title=Taylor Swift raises the bar with a savvy ''Red'' marketing campaign |url=https://www.latimes.com/entertainment/music/la-xpm-2012-oct-30-la-et-ms-taylor-swift-20121031-story.html |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20201228034534/https://www.latimes.com/entertainment/music/la-xpm-2012-oct-30-la-et-ms-taylor-swift-20121031-story.html |archive-date=December 28, 2020 |access-date=December 28, 2020 |work=[[Los Angeles Times]]}}</ref> ''Red'' incorporates eclectic [[Pop music|pop]] and [[Rock music|rock]] styles beyond the country stylings of Swift's past albums, which led to critics questioning her country-music identity.{{sfn|McNutt|2020|pp=78}}<ref>{{cite magazine |last=Light |first=Alan |author-link=Alan Light |date=December 5, 2014 |title=''Billboard'' Woman of the Year Taylor Swift on Writing Her Own Rules, Not Becoming a Cliche and the Hurdle of Going Pop |url=https://www.billboard.com/articles/events/women-in-music-2014/6363514/billboard-woman-of-the-year-taylor-swift-on-writing-her |url-status=live |archive-url=https://web.archive.org/web/20141226012450/https://www.billboard.com/articles/events/women-in-music-2014/6363514/billboard-woman-of-the-year-taylor-swift-on-writing-her |archive-date=December 26, 2014 |access-date=May 8, 2024 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Swift finalized her fifth studio album in mid-2014, during the Asian leg of [[the Red Tour]].<ref>{{cite web |last=Garibaldi |first=Christina |date=May 30, 2014 |title=Taylor Swift Finally Reveals Details About Her Next Album |url=http://www.mtv.com/news/1835178/taylor-swift-new-album-2/ |url-status=dead |archive-url=https://web.archive.org/web/20140602005154/http://www.mtv.com/news/1835178/taylor-swift-new-album-2/ |archive-date=June 2, 2014 |access-date=May 8, 2024 |publisher=[[MTV]]}}</ref> Inspired by 1980s [[synth-pop]], she named the album ''[[1989 (album)|1989]]'' after her birth year to signify an artistic reinvention: she described it as her first "official pop album".<ref>{{cite magazine |last=Eells |first=Josh |date=September 16, 2014 |title=Taylor Swift Reveals Five Things to Expect on ''1989'' |url=https://www.rollingstone.com/music/music-features/taylor-swift-reveals-five-things-to-expect-on-1989-65750/ |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20181116173655/https://www.rollingstone.com/music/music-features/taylor-swift-reveals-five-things-to-expect-on-1989-65750/ |archive-date=November 16, 2018 |access-date=May 8, 2024 |magazine=[[Rolling Stone]]}}</ref> On ''1989'', Swift worked with new producers including [[Jack Antonoff]], who produced three tracks with Swift, including "You Are in Love".<ref name="Medium">{{cite web |last=Zollo |first=Paul |author-link=Paul Zollo |date=February 12, 2015 |title=The Oral History of Taylor Swift's ''1989'' |url=https://medium.com/cuepoint/the-oral-history-of-taylor-swift-s-1989-d9869cc13adc?sf22314340=1 |url-status=live |archive-url=https://web.archive.org/web/20160404113417/https://medium.com/cuepoint/the-oral-history-of-taylor-swift-s-1989-d9869cc13adc?sf22314340=1 |archive-date=April 4, 2016 |access-date=May 8, 2024 |publisher=[[The Recording Academy]] |via=[[Cuepoint]]}}</ref> Antonoff first sent Swift the instrumental track of "You Are in Love", with Swift later writing the lyrics to it.<ref name=":2">{{Cite web |last=Hopper |first=Alex |date=2024-02-07 |title=Behind the Meaning of 'You Are In Love' by Taylor Swift |url=https://americansongwriter.com/behind-the-meaning-of-you-are-in-love-by-taylor-swift/ |archive-url=https://web.archive.org/web/20240419074853/https://americansongwriter.com/behind-the-meaning-of-you-are-in-love-by-taylor-swift/ |archive-date=April 19, 2024 |access-date=May 1, 2024 |website=[[American Songwriter]]}}</ref>
+
+== Music and lyrics ==
+"You Are in Love" is an atmospheric [[electropop]]{{Sfn|Zaleski|2024|p=124}} [[Sentimental ballad|ballad]]{{Sfn|Perone|2017}}<ref name=":1" /> instrumented by a recurring [[synth]] [[riff]]<ref name=":4">{{Cite magazine |date=2024-04-29 |title=Taylor Swift and Jack Antonoff's 20 Best Collaborations |url=https://www.slantmagazine.com/music/taylor-swift-and-jack-antonoff-best-collaborations/|url-status=live |archive-url=https://web.archive.org/web/20240506180418/https://www.slantmagazine.com/music/taylor-swift-and-jack-antonoff-best-collaborations/ |archive-date=May 6, 2024 |access-date=2024-05-07 |website=[[Slant Magazine]]}}</ref> that critics thought to evoke the music of [[Bruce Springsteen]]; David Greenwalt of ''[[The Oregonian]]'' thought that it "[echoes] the synth tones" of "[[Streets of Philadelphia]]" (1993),<ref name=":0">{{Cite news |last=Greenwald |first=David |date=2014-10-27 |title=Review: Taylor Swift's ''1989'' loses more than country |url=https://www.oregonlive.com/music/2014/10/review_taylor_swift_1989_country.html |archive-url=https://web.archive.org/web/20230120150944/https://www.oregonlive.com/music/2014/10/review_taylor_swift_1989_country.html |archive-date=January 20, 2023 |access-date=2024-03-29 |website=[[The Oregonian]] |language=}}</ref> while Sal Cinquemani of ''[[Slant Magazine]]'' picked "[[Secret Garden (Bruce Springsteen song)|Secret Garden]]" (1995) as a possible influence.<ref name=":4" /> The lyrics, narrated from an outside woman's perspective,<ref name=":2" /><ref name=":0" /> present imagery of various phases and experiences in a fruitful relationship ("small talk", "coffee at midnight", "kisses on sidewalk"),<ref name=":4" /> with the words being set to a four-note [[Motif (music)|motif]] that forms the melody of the verses.{{Sfn|Perone|2017}} According to Swift, the inspiration was the relationship of Antonoff and the writer-actress [[Lena Dunham]], both of whom were close friends of hers.<ref>{{Cite magazine |last=Monroe |first=Jazz |date=2015-05-08 |title=Taylor Swift reveals that Lena Dunham and Jack Antonoff inspired ''1989'' song |url=https://www.nme.com/news/music/taylor-swift-147-1221420 |archive-url=https://web.archive.org/web/20240329035745/https://www.nme.com/news/music/taylor-swift-147-1221420 |archive-date=March 29, 2024 |access-date=2024-03-29 |website=[[NME]]}}</ref> Dunham dubbed it as her "someday wedding song".<ref>{{Cite web |last=White |first=Caitlin |date=October 25, 2014 |title=Taylor Swift Finally Wrote The Happiest Love Song—But It's Not About Her |url=https://www.mtv.com/news/msd0zm/taylor-swift-love-song-jack-antonoff-lena-dunham |archive-url=https://web.archive.org/web/20240329035427/https://www.mtv.com/news/msd0zm/taylor-swift-love-song-jack-antonoff-lena-dunham |archive-date=March 29, 2024 |access-date=2024-03-29 |publisher=[[MTV]] |language=}}</ref>
+
+When interviewed about writing "You Are in Love", Swift said she found it difficult and boring at times. The song also describes love as something that does not need to be perfect. Swift also said that she wrote it as a commentary of Antonoff and Dunham's relationship, saying that she's actually going through everything that happened in it.<ref name=":3" /> The song is also the inspiration for the music video of the title track of her seventh studio album, "[[Lover (Taylor Swift song)|Lover]]".<ref name="BusinessInsider">{{Cite web |last=Larocca |first=Courteney |date=October 30, 2019 |title=17 of the best and 17 of the worst Taylor Swift songs of all time |url=https://www.businessinsider.com/best-worst-taylor-swift-songs |archive-url=https://web.archive.org/web/20240401054301/https://www.businessinsider.com/best-worst-taylor-swift-songs |archive-date=April 1, 2024 |access-date=2024-04-01 |website=[[Business Insider]]}}</ref>
+
+== Release and commercial performance ==
+[[File:Taylor tokyo 20150506 (cropped 2).jpg|alt=Taylor Swift in a black and blue crop top, holding a brown acoustic guitar|thumb|upright|Swift performing "You Are in Love" on acoustic guitar during [[the 1989 World Tour]]]]
+"You Are in Love" was originally included as one of the three bonus cuts on the deluxe package of ''1989'', which was released exclusively at [[Target Corporation|Target]] in the United States. On February 17, 2015, Swift announced that she would make all the bonus tracks available to US [[iTunes Store]]s as [[Promotional recording|promotional singles]] one at a time.<ref>{{Cite magazine |last=Lipshutz |first=Jason |date=February 17, 2015 |title=Taylor Swift Releasing ''1989'' Bonus Songs to iTunes |url=https://www.billboard.com/music/music-news/taylor-swift-1989-bonus-songs-itunes-6473113/ |archive-url=https://web.archive.org/web/20230121135759/https://www.billboard.com/music/music-news/taylor-swift-1989-bonus-songs-itunes-6473113/ |archive-date=January 21, 2023 |access-date=April 27, 2024 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> The song was released on February 24, 2015, by [[Big Machine Records]].<ref>{{Cite web |date=February 24, 2015 |title=You Are In Love – Single by Taylor Swift |url=https://music.apple.com/us/song/you-are-in-love/1440933797 |archive-url=https://web.archive.org/web/20150603123109/https://itunes.apple.com/us/album/you-are-in-love/id966734216?i=966734221 |archive-date=June 3, 2015 |access-date=April 27, 2024 |publisher=[[iTunes Store]] (United States)}}</ref>
+
+"You Are in Love" debuted on both the US [[Billboard Hot 100|''Billboard'' Hot 100]] and [[Canadian Hot 100]], with peaks of number 83<ref name="hot100" /> and number 99,<ref name="canada" /> respectively. The track was featured in the setlist of [[the 1989 World Tour]] (2015), where Swift would sing it on acoustic guitar.<ref>{{Cite web |last=Landsbaum |first=Claire |date=June 9, 2015 |title=We Re-created Taylor Swift's ''1989'' World Tour for You |url=https://www.vulture.com/2015/06/we-re-created-taylor-swifts-1989-world-tour.html |url-status=live |archive-url=https://web.archive.org/web/20230411053537/https://www.vulture.com/2015/06/we-re-created-taylor-swifts-1989-world-tour.html |archive-date=April 11, 2023 |access-date=April 27, 2024 |website=[[Vulture (website)|Vulture]]}}</ref> On August 4, 2023, she sang the song with a piano during the [[Los Angeles]] stop as part of her [[Eras Tour]] (2023–2024) and included it on the extended cut of [[Taylor Swift: The Eras Tour|the tour's associated concert film]].<ref name=":5">{{Cite web |last=Shafer |first=Ellise |date=2024-07-22 |title=Taylor Swift's Eras Tour: Every Surprise Song She's Played So Far |url=https://variety.com/2024/music/news/taylor-swift-eras-tour-surprise-songs-list-1235578714/ |access-date=2024-07-29 |website=Variety |language=en-US |archive-date=July 22, 2024 |archive-url=https://web.archive.org/web/20240722150906/https://variety.com/2024/music/news/taylor-swift-eras-tour-surprise-songs-list-1235578714/ |url-status=live }}</ref><ref>{{Cite magazine |last=Georgi |first=Maya |date=March 14, 2024 |title=Taylor Swift Reveals 'You Are in Love' As Third Surprise Song for 'Eras Tour' Disney+ Version |url=https://www.rollingstone.com/music/music-news/taylor-swift-you-are-in-love-surprise-song-eras-tour-disney-1234987508/ |archive-url=https://web.archive.org/web/20240401061118/https://www.rollingstone.com/music/music-news/taylor-swift-you-are-in-love-surprise-song-eras-tour-disney-1234987508/ |archive-date=April 1, 2024 |access-date=April 1, 2024 |magazine=[[Rolling Stone]]}}</ref><ref>{{Cite magazine |last=Dailey |first=Hannah |date=March 14, 2024 |title=Taylor Swift Confirms This ''1989'' Fan Favorite Is the Third Acoustic Song in Disney+ 'Eras Tour': Watch |url=https://www.billboard.com/music/music-news/taylor-swift-you-are-in-love-eras-tour-film-disney-sneak-peek-1235632866/ |archive-url=https://web.archive.org/web/20240401061120/https://www.billboard.com/music/music-news/taylor-swift-you-are-in-love-eras-tour-film-disney-sneak-peek-1235632866/ |archive-date=April 1, 2024 |access-date=April 1, 2024 |magazine=[[Billboard (magazine)|Billboard]] |language=en-US}}</ref> Swift later performs "You Are in Love" as a surprise number in [[Mashup (music)|mashup]] with "[[Cowboy like Me]]" (2020) on piano and "[[Fresh Out the Slammer]]" (2024) on guitar during the [[Amsterdam]] and [[Munich]] stops respectively.<ref name=":5" /> In January 2024, the song received a gold [[Music recording certification|certification]] from the [[Australian Recording Industry Association]] (ARIA) for selling over 35,000 units.<ref name="aria" />
+
+After signing a new contract with [[Republic Records]], Swift began re-recording her first six studio albums in November 2020.<ref>{{cite web |last=Melas |first=Chloe |date=November 16, 2020 |title=Taylor Swift Speaks Out about Sale of Her Masters |url=https://edition.cnn.com/2020/11/16/entertainment/taylor-swift-masters/index.html |url-status=live |archive-url=https://web.archive.org/web/20201118064935/https://www.ctvnews.ca/entertainment/taylor-swift-speaks-out-about-sale-of-her-masters-1.5191925 |archive-date=November 18, 2020 |access-date=November 19, 2020 |publisher=[[CNN]]}}</ref> The decision came after a [[Taylor Swift masters dispute|2019 public dispute]] between Swift and the talent manager [[Scooter Braun]], who acquired Big Machine Records, including the masters of Swift's albums the label had released.<ref>{{Cite news |date=August 22, 2019 |title=Taylor Swift Wants to Re-record Her Old Hits |url=https://www.bbc.com/news/entertainment-arts-49432817 |url-status=live |archive-url=https://web.archive.org/web/20190822202321/https://www.bbc.com/news/entertainment-arts-49432817 |archive-date=August 22, 2019 |access-date=August 22, 2019 |publisher=[[BBC News]]}}</ref><ref>{{cite web |last=Finnis |first=Alex |date=November 17, 2020 |title=Taylor Swift Masters: The Controversy around Scooter Braun Selling the Rights to Her Old Music Explained |url=https://inews.co.uk/culture/music/taylor-swift-masters-scooter-braun-selling-rights-music-rerecording-row-explained-762411 |url-status=live |archive-url=https://web.archive.org/web/20210212170953/https://inews.co.uk/culture/music/taylor-swift-masters-scooter-braun-selling-rights-music-rerecording-row-explained-762411 |archive-date=February 12, 2021 |access-date=February 13, 2021 |work=[[i (newspaper)|i]]}}</ref> By re-recording them, Swift had full ownership of the new masters, including the copyright licensing of her songs, devaluing the Big Machine-owned masters.<ref>{{Cite news |last=Shah |first=Neil |date=April 9, 2021 |title=Taylor Swift Releases New ''Fearless'' Album, Reclaiming Her Back Catalog |url=https://www.wsj.com/articles/taylor-swift-releases-new-fearless-album-reclaiming-her-back-catalog-11617945524 |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20211008111731/https://www.wsj.com/articles/taylor-swift-releases-new-fearless-album-reclaiming-her-back-catalog-11617945524 |archive-date=October 8, 2021 |access-date=September 25, 2022 |work=[[The Wall Street Journal]] |issn=}}</ref> The re-recording of "You Are in Love", subtitled "Taylor's Version", was released as part of Swift's fourth re-recorded album, ''[[1989 (Taylor's Version)]]'', on October 27, 2023.<ref>{{Cite web |last=Vassell |first=Nicole |date=October 27, 2023 |title=Taylor Swift Fans Celebrate As Pop Star Releases ''1989 (Taylor's Version)'' |url=https://www.independent.co.uk/arts-entertainment/music/news/taylor-swift-1989-track-list-b2436950.html |url-access=limited |archive-url=https://web.archive.org/web/20240406124702/https://www.independent.co.uk/arts-entertainment/music/news/taylor-swift-1989-track-list-b2436950.html |archive-date=April 6, 2024 |access-date=October 30, 2023 |website=[[The Independent]]}}</ref> It debuted and peaked at number 38 on the [[Billboard Global 200|''Billboard'' Global 200]]<ref name="Billboardglobal200" /> and reached the countries of New Zealand (38),<ref name="NZ" /> Canada (42),<ref name="canada" /> and the US (43).<ref name="Hot1002023" />
+
+== Critical reception ==
+Hannah Yasharoff and David Oliver, writing for ''[[USA Today]]'', commended two lines from "You Are in Love": "You understand now why they lost their minds and fought the wars / And why I've spent my whole life trying to put it in words", further elaborating that it "[puts] specific and universal feelings into words", something Swift "does best".<ref>{{Cite magazine |last1=Yasharoff |first1=Hannah |last2=Oliver |first2=David |date=December 13, 2019 |title=Taylor Swift's 85 best lyrics definitively ranked |url=https://www.usatoday.com/story/entertainment/music/2019/12/13/taylor-swift-songs-30-best-lyrics-all-her-albums/4179419002/ |archive-url=https://web.archive.org/web/20240206181740/https://www.usatoday.com/story/entertainment/music/2019/12/13/taylor-swift-songs-30-best-lyrics-all-her-albums/4179419002/ |archive-date=February 6, 2024 |access-date=2024-04-01 |website=[[USA Today]] |language=en-US}}</ref> ''[[Billboard (magazine)|Billboard]]''{{'s}} Ashley Iasimone compared the song to "[[The Lakes (song)|The Lakes]]", elaborating that both songs portray "love that's as pretty as a picture, the kind that has no place for the noise from the outside world".<ref>{{Cite magazine |last=Iasimone |first=Ashley |date=2020-08-30 |title=If ''Folklore'' Turned You On to Taylor Swift, These Are the Deep Cuts You'll Like |url=https://www.billboard.com/music/pop/songs-like-taylor-swift-folklore-9438687/ |archive-url=https://web.archive.org/web/20240401131008/https://www.billboard.com/music/pop/songs-like-taylor-swift-folklore-9438687/ |archive-date=April 1, 2024 |access-date=2024-04-02 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> Alex Berry of ''[[Clash (magazine)|Clash]]'' applauded the song for being an "ethereal, delicate [ballad]",<ref name=":1">{{Cite magazine |last1=Berry |first1=Alex |date=2023-10-27 |title=Taylor Swift - ''1989 (Taylor's Version)'' |url=https://www.clashmusic.com/reviews/taylor-swift-1989-taylors-version/ |archive-url=https://web.archive.org/web/20231031175033/https://www.clashmusic.com/reviews/taylor-swift-1989-taylors-version/ |archive-date=October 31, 2023 |access-date=2024-04-04 |website=[[Clash (magazine)|Clash]] |language=}}</ref> while Grace Wehniainen of ''[[Bustle (magazine)|Bustle]]'' commended it for being a "hidden gem among gems", further elaborating that it "isn't just a gorgeous song, but a handy time capsule for Swift's personal and professional life".<ref name=":3">{{Cite magazine |last=Wehniainen |first=Grace |date=2023-10-23 |title=Taylor Swift Wrote 'You Are In Love' About Lena Dunham & Jack Antonoff |url=https://www.bustle.com/entertainment/taylor-swift-you-are-in-love-song-lena-dunham-jack-antonoff |archive-url=https://web.archive.org/web/20240404003522/https://www.bustle.com/entertainment/taylor-swift-you-are-in-love-song-lena-dunham-jack-antonoff |archive-date=April 4, 2024 |access-date=2024-04-04 |website=[[Bustle (magazine)|Bustle]]}}</ref> [[Vulture (website)|''Vulture'']]'s Nate Jones complimented its simplicity demonstrated by the "appropriately restrained" vocals and production,<ref>{{Cite magazine |last=Jones |first=Nate |date=2023-11-08 |title=All 214 Taylor Swift Songs, Ranked |url=https://www.vulture.com/article/all-taylor-swift-songs-ranked-from-worst-to-best.html |url-access=limited |archive-url=https://web.archive.org/web/20240421090058/https://www.vulture.com/article/all-taylor-swift-songs-ranked-from-worst-to-best.html |archive-date=April 21, 2024 |access-date=2024-05-07 |website=[[Vulture (website)|Vulture]]}}</ref> and [[Variety (magazine)|''Variety'']]{{'s}} Chris Willman deemed the track "a sweet testament to being aspirational about love through the proxy passions of friends".<ref>{{Cite magazine |last=Willman |first=Chris |date=2023-08-09 |title=Taylor Swift's 25 Best Bonus Tracks, Ranked |url=https://variety.com/lists/taylor-swift-best-bonus-tracks-ranked-deluxe-vault/ |archive-url=https://web.archive.org/web/20231106132939/https://variety.com/lists/taylor-swift-best-bonus-tracks-ranked-deluxe-vault/ |archive-date=November 6, 2023 |access-date=2024-05-07 |website=[[Variety (magazine)|Variety]]}}</ref> Amara Sorosiak of ''[[American Songwriter]]'' ranked it eighth in a 2024 list of "Taylor Swift's Top 10 Love Songs", praising "her stripped-back, atmospheric pop prowess".<ref>{{Cite web |last=Sorosiak |first=Amara |date=September 12, 2023 |title=Taylor Swift's Top 10 Love Songs |url=https://americansongwriter.com/taylor-swifts-top-10-love-songs/ |access-date=May 17, 2024 |website=[[American Songwriter]] |archive-date=May 22, 2024 |archive-url=https://web.archive.org/web/20240522201202/https://americansongwriter.com/taylor-swifts-top-10-love-songs/ |url-status=live }}</ref>
+
+On a less positive side, Jane Song of ''[[Paste (magazine)|Paste]]'' ranked "You Are in Love" 66th out of 158 in a 2020 ranking of Swift's songs, considering it "sweet", but also noting that the romantic rumors of Antonoff blemished its message.<ref>{{Cite web |last=Song |first=Jane |date=February 11, 2020 |title=All 158 Taylor Swift Songs, Ranked |url=https://www.pastemagazine.com/music/taylor-swift/best-taylor-swift-songs |archive-url=https://web.archive.org/web/20240227115308/https://www.pastemagazine.com/music/taylor-swift/best-taylor-swift-songs |archive-date=February 27, 2024 |access-date=2024-04-10 |website=[[Paste (magazine)|Paste]]}}</ref> Courteney Larocca of ''[[Business Insider]]'' regarded the song as one of the 17 worst Taylor Swift songs, criticizing it for being "boring" and commenting that "It's just disappointing that a song about realizing you're fully in love is about a relationship that ultimately didn't work out—and wasn't even one from Swift's own life".<ref name="BusinessInsider" /> Reviewing the re-recording, "You Are in Love (Taylor's Version)", Hugh G. Puddles argued that it declines in quality due to Antonoff's "overstating his ascending synth arpeggios in the chorus, walking headlong into the '80s kitsch" that overshadows Swift's understated vocals as in the original.<ref>{{Cite web |last=Puddles |first=Hugh G. |date=October 31, 2023 |title=Review: Taylor Swift - ''1989 (Taylor's Version)'' |url=https://www.sputnikmusic.com/review/87846/Taylor-Swift-1989-Taylor%E2%80%99s-Version/ |access-date=May 14, 2024 |website=[[Sputnikmusic]] |archive-date=May 20, 2024 |archive-url=https://web.archive.org/web/20240520061203/https://www.sputnikmusic.com/review/87846/Taylor-Swift-1989-Taylor%E2%80%99s-Version/ |url-status=live }}</ref>
+
+== Credits and personnel ==
+'''"You Are in Love" (2014)'''<ref name="bigmachine"> [[1989 (album)|''1989'']] (CD liner notes). [[Taylor Swift]]. [[Big Machine Records]]. 2014. BMRBD0500A. </ref>
+{{div col begin}}
+* Taylor Swift&nbsp;– lead vocals, [[background vocals]], songwriter, [[Record producer|producer]]
+* [[Jack Antonoff]]&nbsp;– songwriter, producer, keyboards, drums, electric guitar, bass guitar
+* [[Max Martin]]&nbsp;– vocal producer
+* [[Serban Ghenea]]&nbsp;– [[audio mixing (recorded music)|mixing]]
+* John Hanes&nbsp;– engineered for mix
+* Peter Carlsson&nbsp;– [[Pro Tools]] engineer
+* [[Tom Coyne (music engineer)|Tom Coyne]]&nbsp;– [[Mastering (audio)|mastering]]
+{{div col end}}
+
+'''"You Are in Love (Taylor's Version)" (2023)'''<ref name="TV">{{Cite AV media notes |others=Taylor Swift |title=[[1989 (Taylor's Version)]] |year=2023 |publisher=[[Republic Records]] |id=0245597656 |type=Compact disc liner notes}}</ref>
+{{div col}}
+* Taylor Swift&nbsp;– vocals, background vocals, songwriter, producer
+* Jack Antonoff&nbsp;– songwriter, producer, programming, engineering, synthesizer, electric guitar, bass guitar, drums
+* [[Mikey Freedom Hart]]&nbsp;– synthesizer, electric guitar, acoustic guitar, programming, engineering
+* [[Evan Smith (musician)|Evan Smith]]&nbsp;– synthesizer, programming, engineering
+* [[Michael Riddleberger]]&nbsp;– drums, percussion, engineering
+* [[Sean Hutchinson]]&nbsp;– drums, percussion, programming, engineering
+* [[Zem Audu]]&nbsp;– synthesizer, engineering
+* [[Christopher Rowe (record producer)|Christopher Rowe]]&nbsp;– engineering
+* David Hart&nbsp;– engineering
+* Oli Jacobs&nbsp;– engineering
+* Jon Sher&nbsp;– engineering assistance
+* Megan Searl&nbsp;– engineering assistance
+* Joey Miller&nbsp;– engineering assistance
+* Jozef Caldwell&nbsp;– engineering assistance
+* Serban Ghenea&nbsp;– mixing
+* [[Randy Merrill]]&nbsp;– mastering
+* Ryan Smith&nbsp;– mastering
+{{div col end}}
+
+==Charts==
+
+=== "You Are in Love" ===
+{| class="wikitable sortable plainrowheaders"
+|+{{sronly|Chart performance for "You Are in Love"}}
+!Chart (2014–2015)
+!Peak<br />position
+|-
+{{singlechart|Canada|99|artist=Taylor Swift|rowheader=true|access-date=December 8, 2021|refname="canada"}}
+|-
+{{singlechart|Billboardhot100|83|artist=Taylor Swift|rowheader=true|access-date=December 8, 2021|refname="hot100"}}
+|}
+
+=== "You Are in Love (Taylor's Version)" ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ {{sronly|Chart performance for "You Are in Love (Taylor's Version)"}}
+! scope="col"| Chart (2023)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Canada|42|artist=Taylor Swift|rowheader=true|access-date=November 7, 2023|refname="Canada2023"}}
+|-
+{{single chart|Billboardglobal200|38|artist=Taylor Swift|rowheader=true|access-date=April 1, 2024|refname="Billboardglobal200"}}
+|-
+! scope="row"| Greece International ([[IFPI Greece]])<ref>{{cite web|archive-url=https://web.archive.org/web/20231113024932/https://www.ifpi.gr/digital_iel.html|url=https://www.ifpi.gr/digital_iel.html|title=Digital Singles Chart (International)|publisher=[[IFPI Greece]]|url-status=deviated|archive-date=November 13, 2023|access-date=December 31, 2025}}</ref>
+| 70
+|-
+{{single chart|New Zealand|38|song=You Are in Love (Taylor's Version)|artist=Taylor Swift|rowheader=true|access-date=April 1, 2024|refname="NZ"}}
+|-
+{{single chart|Portugal|108|artist=Taylor Swift|song=You Are in Love|rowheader=true|access-date=November 7, 2023}}
+|-
+{{single chart|UKstreaming|41|date=20231103|rowheader=true|access-date=December 31, 2025}}
+|-
+{{single chart|Billboardhot100|43|artist=Taylor Swift|rowheader=true|access-date=April 1, 2024|refname=Hot1002023}}
+|}
+
+== Certifications ==
+{{Certification Table Top|caption=Certification for "You Are in Love"}}
+{{Certification Table Entry|region=Australia|type=single|award=Gold|access-date=February 14, 2024|relyear=2015|certyear=2024|refname=aria}}
+{{Certification Table Entry|region=New Zealand|artist=Taylor Swift|title=You Are in Love|award=Gold|type=single|relyear=2015|certyear=2026|source=radioscope|access-date=April 25, 2026|refname=RMNZ}}
+{{Certification Table Bottom|nosales=true|streaming=true|noshipments=true}}
+
+{{Certification Table Top|caption=Certification for "You Are in Love (Taylor's Version)"}}
+{{Certification Table Entry|region=Australia|award=Gold|type=single|certyear=2025|access-date=November 14, 2025}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+== References ==
+{{Reflist}}
+
+=== Bibliography ===
+* {{cite journal |last=McNutt |first=Myles |year=2020 |title=From 'Mine' to 'Ours': Gendered Hierarchies of Authorship and the Limits of Taylor Swift's Paratextual Feminism |journal=[[Communication, Culture and Critique]] |volume=13 |issue=1 |pages=72–91 |doi=10.1093/ccc/tcz042}}
+* {{Cite book |last=Perone |first=James E. |title=The Words and Music of Taylor Swift |date=July 14, 2017 |publisher=ABC-CILO |isbn=9781440852954 |pages=65}}
+* {{Cite book |last=Zaleski |first=Annie |author-link=Annie Zaleski |title=Taylor Swift: The Stories Behind the Songs |publisher=[[Thunder Bay Press]] |year=2024 |isbn=978-1-6672-0845-9 |pages=106–131 |chapter=The ''1989'' Era}}
+
+{{Taylor Swift songs}}
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:Taylor Swift songs]]
+[[Category:Songs written by Taylor Swift]]
+[[Category:Songs written by Jack Antonoff]]
+[[Category:Song recordings produced by Taylor Swift]]
+[[Category:Song recordings produced by Jack Antonoff]]
+[[Category:Electropop songs]]
+[[Category:Pop ballads]]

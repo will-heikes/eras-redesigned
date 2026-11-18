@@ -1,0 +1,615 @@
+{{Short description|none}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox artist discography
+| Artist          = [[Idina Menzel]]
+| Image           = IdinaMenzel-byPhilipRomano.jpg
+| Caption         =
+| Alt             =
+| Studio          = 7
+| Live            = 2
+| Option          = 5
+| Option name     = Cast recordings
+| 1Option         = 3
+| 1Option name    = Soundtracks
+| 2Option         = 16
+| 2Option name    = Singles
+}}
+American actress and singer [[Idina Menzel]] has released seven [[studio album]]s, fifteen [[Single (music)|singles]] and two [[live albums]]. She is dubbed as the "''Streisand of her generation''" by various media outlets.<ref>{{Cite web|date=July 18, 2011|title=Idina Menzel at Red Rocks: If you can't feel the love … you're dead|url=https://www.denverpost.com/2011/07/18/idina-menzel-at-red-rocks-if-you-cant-feel-the-love-youre-dead/|access-date=September 19, 2021|website=The Denver Post|language=en-US}}</ref> She became the first artist with both a [[Billboard Hot 100|Billboard Top 10]] hit and a [[Tony Awards|Tony Award]] for acting with her global smash hit "[[Let It Go]]". Her album "[[Holiday Wishes (Idina Menzel album)|Holiday Wishes]]" remains her highest-charting album on [[Billboard 200]], peaking at #6<ref>{{Cite magazine|title=Idina Menzel|url=https://www.billboard.com/music/idina-menzel|access-date=September 19, 2021|magazine=Billboard}}</ref> and also debuted at #1 on Billboard's Holiday Albums Chart. ''Let It Go'' stormed the charts and became a pop culture phenomenon. It became the fifth biggest-selling song of 2014, selling 10.9 million worldwide via [[International Federation of the Phonographic Industry|IFPI]].<ref>{{Cite news|date=April 15, 2015|title=Frozen soundtrack was the biggest-selling album of 2014|language=en-GB|work=BBC News|url=https://www.bbc.com/news/newsbeat-32321455|access-date=September 19, 2021}}</ref> Menzel was ''Billboard's'' 48th top performing artist of 2014 as well as the 9th top performing Hot 100 artist of the same year.<ref>{{Cite magazine|title=Hot 100 Artists - Female - Year-End|url=https://www.billboard.com/charts/year-end/2014/hot-100-artists-female|access-date=September 19, 2021|magazine=Billboard}}</ref> ''Let It Go'' is certified 11× Platinum in the US according to the [[Recording Industry Association of America|RIAA]]<ref name="RIAA" /> and has sold a million units in South Korea and United Kingdom.
+
+She produced and released her debut album, ''[[Still I Can't Be Still]]'', in 1998. One single from the album "Minuet", made the [[Radio & Records]] CHR/Pop Tracks chart at number 48 in October 1998. Her second album, ''[[Here (Idina Menzel album)|Here]]'', was released independently in 2004. Her third solo album, ''[[I Stand (album)|I Stand]]'', was released on January 29, 2008. The album debuted at number 58 in the ''Billboard'' 200, making it the first solo album by Menzel to make the charts. Menzel wrote many of the songs on her album. Menzel voiced the character of Queen Elsa in the Disney-animated film ''[[Frozen (2013 film)|Frozen]]'', which was released in November 2013. Her performance received praise from film critics, much of it focused on her performance of "[[Let It Go (Disney song)|Let It Go]]". Her fourth studio album, ''[[Holiday Wishes (Idina Menzel album)|Holiday Wishes]]'', was released in October 2014. Her latest album, ''[[Idina (album)|Idina]]'', was released in September 2016.
+
+==Albums==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:19em;"| Details
+! colspan="3"| Peak chart positions
+! rowspan="2" style="width:8em;"| Sales
+! rowspan="2" style="width:8em;"| Certifications 
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200">{{cite magazine|url={{BillboardURLbyName|artist=idina menzel|chart=all}}|title=Idina Menzel Chart History - Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 1, 2011}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref>{{cite web|first=Gavin|last=Ryan|url=https://www.noise11.com/news/michael-buble-christmas-creates-aria-chart-record-20141213|title=Michael Bublé Christmas Creates ARIA Chart Record|website=Noise11|date=December 13, 2014|access-date=December 13, 2014}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web|url=https://www.officialcharts.com/artist/5248/idina-menzel/|title=Artist Chart History – Idina Menzel|publisher=[[Official Charts Company]]|access-date=September 29, 2019}}</ref>
+|-
+! scope="row"| ''[[Still I Can't Be Still]]''
+| 
+* Release date: September 15, 1998
+* Label: [[Hollywood Records|Hollywood]]
+* Formats: [[Compact Disc|CD]], [[Compact Cassette|cassette]]
+| — || — || —
+|
+* US: 18,000<ref name=billboardcover>{{cite web|title=Idina Menzel's Fairy Tale Journey: From Broadway to 'Frozen' and a 'Gorgeous' Note From John Travolta (Cover Story)|date=March 24, 2014|url=https://www.billboard.com/articles/news/5944667/idina-menzel-billboard-cover-story|publisher=Billboard Magazine|access-date=April 1, 2014}}</ref>
+|
+|-
+! scope="row"| ''[[Here (Idina Menzel album)|Here]]''
+| 
+* Release date: February 23, 2004
+* Label: Zel
+* Formats: CD
+| — || — || —
+|
+* US: 2,000<ref name=billboardcover />
+|
+|-
+! scope="row"| ''[[I Stand (album)|I Stand]]''
+| 
+* Release date: January 29, 2008
+* Label: [[Warner Bros. Records|Warner Bros.]]
+* Formats: CD, [[Music download|digital download]]
+| 58 || — || 54
+|
+* US: 80,000<ref name=billboardcover />
+|
+|-
+! scope="row"| ''[[Holiday Wishes (Idina Menzel album)|Holiday Wishes]]''
+| 
+* Release date: October 14, 2014
+* Label: Warner Bros.
+* Formats: CD, digital download
+| 6 || 55 || 42
+|
+* US: <!-- Certifications do NOT equal sales, so don't change to 500,000 -->370,000<ref>{{cite magazine |url=https://www.billboard.com/pro/billboard-200-chart-moves-pentatonix-earns-2014s-top-selling/ |title=Billboard 200 Chart Moves: Pentatonix Earns 2014's Top Selling Christmas Album |last=Caulfield |first=Keith |magazine=[[Billboard (magazine)|Billboard]] |date=January 2, 2015 |access-date=January 3, 2015}}</ref>
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref>{{cite web |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=idina+menzel#search_section|title=RIAA: Gold & Platinum |publisher=[[RIAA]] |date=November 29, 2017 |access-date=December 25, 2018}}</ref>
+|-
+! scope="row"| ''[[Idina (album)|Idina]]''
+| 
+* Release date: September 23, 2016
+* Label: Warner Bros.
+* Formats: CD, digital download
+| 29 || — || 86
+|
+* US: 20,000<ref name=billboardcover />
+|
+|-
+! scope="row"| ''[[Christmas: A Season of Love]]''
+| 
+* Release date: October 18, 2019
+* Label: [[School Boy Records|School Boy]], [[Decca Records|Decca]]
+* Formats: CD, digital download, streaming
+| 123 || — || —
+|
+* US: 34,900<ref name=billboardcover />
+|
+|-
+! scope="row"| ''Drama Queen''
+| 
+* Release date: August 18, 2023
+* Label: Walkman, BMG
+* Formats: CD, digital download, streaming
+| — || — || —
+|
+|
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:19em;"| Details
+! colspan="1"| Peak chart<br />positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200" />
+|-
+! scope="row"| ''[[Live: Barefoot at the Symphony|Live: Barefoot at the Symphony]]''
+| 
+* Release date: March 6, 2012
+* Label: [[Concord Records|Concord]]
+* Formats: CD, [[DVD]], digital download
+| 53
+|-
+! scope="row"| ''Idina: Live''<ref>{{Cite web|url=https://idinamenzel.com/|title=Idina Menzel - Official Site &#124; 'Christmas: A Season of Love' out now!}}</ref><ref>{{cite web | url=https://www.amazon.com/Idina-Live-2CD-Menzel/dp/B07G235ZL1 | title=Idina: Live | website=Amazon }}</ref>
+| 
+* Release date: October 5, 2018
+* Label: Walkman, Arts Music
+* Formats: CD, digital download
+| —
+|}
+
+===Cast recordings===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:19em;"| Details
+! colspan="1"| Peak chart positions
+! rowspan="2" style="width:14em;"| 
+Certifications 
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200" />
+|-
+! scope="row"| ''[[Rent (albums)|Rent]]''
+| 
+* Release date: 1996
+* Label: [[DreamWorks Records|DreamWorks]]
+| 19
+|
+|-
+! scope="row"| ''[[The Wild Party (Lippa musical)|The Wild Party (Lippa)]]''
+| 
+* Release date: 2000
+* Label: [[RCA Records|RCA]]
+| —
+|
+|-
+! scope="row"| ''[[Wicked (musical album)|Wicked]]''
+| 
+* Release date: 2003
+* Label: [[Decca Records|Decca]]
+| 66
+|
+* RIAA: 4× Platinum{{Certification Cite Ref|region=United States|type=album}}
+* BPI: Platinum<ref name="BPI" />
+|-
+! scope="row"| ''[[See What I Wanna See]]''
+| 
+* Release date: 2006
+* Label: [[Sh-K-Boom Records|Sh-K-Boom]]
+| —
+|
+|-
+! scope="row"| ''[[Chess (musical)#List of miscellaneous productions, concerts, and recordings|Chess in Concert]]''
+| 
+* Release date: 2009
+* Label: [[Reprise Records|Reprise]]
+| —
+|
+|-
+! scope="row"| ''[[If/Then]]''
+| 
+* Release date: 2014
+* Label: [[Masterworks Broadway]]
+| 19
+|
+|-
+| colspan="20" style="font-size:8pt"| "—" denotes an album that did not chart or was not released.
+|}
+
+===Soundtracks===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2" style="width:14em;"| Title
+! rowspan="2" style="width:19em;"| Album details
+! colspan="4"| Peak chart<br />positions
+! rowspan="2" style="width:12em;"| Certifications
+! rowspan="2" style="width:12em;"| Sales
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US200" />
+! scope="col" style="width:3em;font-size:85%;"| [[Australian Albums Chart|AUS]]<br /><ref name="auscharts">{{cite web|url=http://www.australian-charts.com/showitem.asp?interpret=Soundtrack&titel=Frozen&cat=a|title=SOUNDTRACK - FROZEN|publisher=ARIA Charts|access-date=January 12, 2014}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Albums Chart|CAN]]<br /><ref>{{cite magazine |url=http://www.billboard.com/charts/2014-03-08/canadian-albums |title=Canadian Albums : March 8, 2014 |magazine=Billboard |publisher=Prometheus Global Media |access-date=March 2, 2014}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="nzcharts">{{cite web|title=Soundtrack - Frozen|url=https://acharts.us/album/82422|publisher=acharts.us}}</ref>
+|-
+! scope="row"| ''[[Rent (Original Motion Picture Soundtrack)|Rent]]''
+| 
+* Release date: September 23, 2005
+* Label: Warner Bros.
+| — || — || — || —
+|
+|
+|-
+! scope="row"| ''[[Frozen (soundtrack)|Frozen]]''
+| 
+* Release date: November 25, 2013
+* Label: [[Walt Disney Records|Walt Disney]]
+| 1 || 1 || 1 || 1
+|
+* RIAA: Diamond<ref name=":0">{{Cite web |title=Gold & Platinum |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=soundtrack&ti=frozen&lab=&genre=&format=Album&date_option=release&from=&to=&award=&type=&category=&adv=SEARCH#search_section |access-date=2026-06-16 |website=RIAA |language=en-US}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 4× Platinum<ref>{{cite web|url=http://ariacharts.com.au/chart/albums/3208|title=ARIA Australian Top 50 Albums|publisher=[[Australian Recording Industry Association]]|date=January 19, 2015|access-date=January 17, 2015|url-status=dead|archive-url=https://web.archive.org/web/20150116121904/http://www.ariacharts.com.au/chart/albums/3208|archive-date=January 16, 2015}}</ref>
+* [[Music Canada|MC]]: 7× Platinum<ref>{{Cite web |date=2024-10-07 |title=Gold & Platinum |url=https://musiccanada.com/gold-platinum/ |access-date=2026-06-16 |website=Music Canada |language=en-US}}</ref>
+* [[Recorded Music NZ|RMNZ]]: 3× Platinum{{cn|date=December 2025}}
+* [[British Phonographic Industry|BPI]]: 4× Platinum{{Certification Cite Ref|region=United Kingdom|type=album|title=Frozen|artist=Original Soundtrack|id=2430-1140-2|access-date=August 19, 2022}}
+|
+* US: 3,500,000<ref>{{cite magazine |url=https://www.billboard.com/pro/official-taylor-swifts-1989-debuts-with-1287-million-sold-in/ |title=Official: Taylor Swift's '1989' Debuts With 1.287 Million Sold In First Week|author= Keith Caulfield |date=November 4, 2014 |magazine=Billboard}}</ref>
+* CAN: 202,000<ref>{{cite web|title=Weekly Music Sales Report and Analysis: 26 November 2014|url=http://ajournalofmusicalthings.com/weekly-music-sales-report-analysis-november-26-2014/|publisher=A Journal of Musical Things|access-date=November 28, 2014|last=Cross|first=Alan|date=November 26, 2014}}</ref>
+|-
+! scope="row"| ''[[Frozen II (soundtrack)|Frozen II]]''
+| 
+* Release date: November 15, 2019
+* Label: [[Walt Disney Records|Walt Disney]]
+| 1 || 2 || 4 || 8
+|
+* RIAA: 2× Platinum{{Certification Cite Ref|region=United States|type=album|title=Frozen 2|artist=Soundtrack}}
+* MC: Platinum{{Certification Cite Ref|region=Canada|type=album|title=Frozen 2|artist=Various Artists|award=Platinum|access-date=October 26, 2022}}
+* BPI: Platinum{{Certification Cite Ref|region=United Kingdom|type=album|title=Frozen 2|artist=Original Soundtrack|id=16096-1140-2|access-date=March 25, 2023}}
+|
+|-
+! scope="row"| ''[[Disenchanted (soundtrack)|Disenchanted]]''
+| 
+* Release date: November 18, 2022
+* Label: [[Walt Disney Records|Walt Disney]]
+| — || — || — || —
+|
+|
+|-
+| colspan="20" style="font-size:8pt"| "—" denotes an album that did not chart or was not released.
+|}
+
+===EPs===
+*''[[Defying Gravity (song)#Idina Menzel single|Defying Gravity]]'', May 2007 (remix EP)
+*''[[Defying Gravity (song)#Idina Menzel single|Defying Gravity (DJ version)]]'', May 2007 (remix EP)
+*''Gorgeous'', December 2007 (remix EP #1)
+*''Gorgeous'', January 2008 (remix EP #2)
+*''Acoustic'', August 2008 (acoustic version EP)
+*''Idina Menzel'', April 2010
+*''Beaches (Soundtrack From The Lifetime Original Movie)'', January 13, 2017
+
+==Singles==
+
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|- 
+! scope="col" style="width:3em; font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="Prometheus Global Media">{{cite magazine|url={{BillboardURLbyName|artist=idina menzel|chart=all}}|title=Idina Menzel Chart History - Hot 100|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 10, 2019}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Adult Contemporary (chart)|US AC]]<br /><ref name="ReferenceA">{{cite magazine|url={{BillboardURLbyName|artist=idina menzel|chart=Adult Contemporary}}|title=Idina Menzel Chart History - Adult Contemporary|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 1, 2011}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Dance Club Songs|US Dance]]<br /><ref name="ReferenceB">{{cite magazine|url={{BillboardURLbyName|artist=idina menzel|chart=Dance/Club Play Songs}}|title=Idina Menzel Chart History - Dance/Club Play Songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=October 1, 2011}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="Idina Menzel discography">{{cite web|url=https://australian-charts.com/showinterpret.asp?interpret=Idina+Menzel|title=Idina Menzel discography|publisher=Hung Medien|access-date=January 18, 2014}}
+* "Baby, It's Cold Outside": {{cite magazine|title=The ARIA Report: Week Commencing 3 January 2022|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1661|page=3|date=January 3, 2022}}
+* "Making Today a Perfect Day": {{cite web|url=https://www.noise11.com/news/aria-singles-lunchmoney-lewis-has-the-number-1-song-20150321|title=ARIA Singles: Lunchmoney Lewis Has The Number 1 Song|website=Noise11|last=Ryan|first=Gavin|date=March 21, 2015|access-date=March 21, 2015}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="austriancharts.at - Austria Top 40">{{cite web|url=http://austriancharts.at/search.asp?search=idina+menzel&cat=s|title=austriancharts.at - Austria Top 40|publisher=Hung Medien|access-date=October 1, 2011}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="ReferenceC">{{cite magazine|url={{BillboardURLbyName|artist=Idina Menzel|chart=Canadian Hot 100}}|title=Idina Menzel Chart History: Canadian Hot 100|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 4, 2019}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE">Peaks on the Irish Singles Chart:
+* "Let It Go": {{cite web|title=Idina Menzel - Let It Go|url=https://acharts.us/song/82419|work=acharts|publisher=acharts.us|access-date=January 7, 2014}}
+* "Baby, It's Cold Outside": {{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|access-date=December 16, 2017}}
+* "Into the Unknown": {{cite web|url=https://www.officialcharts.com/charts/irish-singles-chart/20200103/ie7501|title=Official Irish Singles Chart Top 50|publisher=Official Charts Company|date=January 3, 2020|access-date=January 4, 2020}}
+* "Show Yourself": {{cite web|url=http://irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts|publisher=[[Irish Recorded Music Association]]|access-date=January 4, 2020}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Japan Hot 100|JPN]]<br /><ref name="Billboard Japan Hot 100 Chart">{{cite magazine|title=Billboard Japan Hot 100 Chart|url=http://www.billboard.com/artist/276493/Idina+Menzel/chart?f=848|magazine=billboard|publisher=billboard|access-date=March 21, 2014}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="Billboard Japan Hot 100 Chart" />
+! scope="col" style="width:3em; font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="uksingles">UK chart peaks:
+* All but noted: {{cite web|url=http://www.officialcharts.com/artist/5248/idina%20menzel/|title=Idina Menzel: Artist Discography|publisher=Official Charts Company|access-date=April 10, 2017}}
+* "Defying Gravity" (Artist name mistakenly listed as "Kristen"): {{cite web|url=https://www.officialcharts.com/charts/singles-chart/20080525/7501/|access-date=January 25, 2019|publisher=[[Official Charts Company]]|title=Official Singles Chart Top 100, 25 May 2008 - 31 May 2008}} 
+* "Making Today a Perfect Day": {{cite web|url=http://www.officialcharts.com/artist/47318/cast-of-frozen/|title=Cast of Frozen: Artist Discography|publisher=Official Charts Company|access-date=April 10, 2017}}</ref>
+|-
+! scope="row"| "Minuet"
+| 1998
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Still I Can't Be Still''
+|-
+! scope="row"| "[[Take Me or Leave Me]]"<br />{{small|(with [[Tracie Thoms]])}}
+| 2006
+| —{{efn|group=upper-alpha|"Take Me or Leave Me" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the [[Bubbling Under Hot 100]] chart.<ref name="Bubbling">{{cite magazine|url=https://www.billboard.com/artist/idina-menzel/chart-history/hbu/|title=Idina Menzel: Chart History (Bubbling Under Hot 100)|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 3, 2024}}</ref>}} || — || 32 || — || — || — || — || — || — || —
+|
+| ''[[Rent (film soundtrack)|Rent]]''
+|-
+! scope="row"| "[[Defying Gravity (song)#Idina Menzel single|Defying Gravity]]"
+| rowspan="3"| 2007
+| — || — || 5 || — || 72 || — || — || — || — || 60
+|
+| rowspan="3"| ''I Stand''
+|-
+! scope="row"| "[[Brave (Idina Menzel song)|Brave]]"
+| — || 19 || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Gorgeous"
+| — || — || 3 || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Hope"
+| 2008
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{n/a}}
+|-
+! scope="row"| "You Learn to Live Without"
+| rowspan="2"| 2013
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[If/Then]]''
+|-
+! scope="row"| "[[Let It Go]]"
+| 5 || 9 || 1 || 16 || 74 || 18 || 7 || 4 || 34 || 11
+|
+* RIAA: 11× Platinum<ref name="RIAA">{{cite web |title=Idina Menzel Certifications |url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=IDINA+MENZEL#search_section |access-date=April 9, 2014 |publisher=[[Recording Industry Association of America]]}}</ref>
+* ARIA: 8× Platinum<ref name="ARIA24s">{{cite certification|region=Australia|certyear=2024|type=single|access-date= April 18, 2024}}</ref>
+* BPI: 4× Platinum<ref name="BPI">{{cite certification|region=United Kingdom|access-date=January 10, 2026|artist=Idina Menzel}}</ref>
+* [[Music Canada|MC]]: 8× Platinum
+* [[Recording Industry Association of Japan|RIAJ]]: Platinum
+* [[Recorded Music NZ|RMNZ]]: 3× Platinum
+| ''[[Frozen (soundtrack)|Frozen]]''
+|-
+! scope="row"| "[[Baby, It's Cold Outside]]"<br />{{small|(duet with [[Michael Bublé]])}}
+| 2014
+| 78 || 1 || — || 58 || — || 58 || 71 || — || — || 39
+|
+* BPI: Platinum<ref name="BPI"/>
+| ''[[Holiday Wishes (Idina Menzel album)|Holiday Wishes]]''
+|-
+! scope="row"| "[[Making Today a Perfect Day]]"<ref>{{cite web|url=https://music.apple.com/us/album/making-today-perfect-day-from/970775910|title=iTunes - Music - Making Today a Perfect Day (From "Frozen Fever") - Single by Idina Menzel, Kristin Bell & The Cast of Frozen Fever|date=March 12, 2015|publisher=[[Apple Inc.]]|access-date=March 21, 2015}}</ref><br />{{small|(with [[Kristen Bell]] and the cast of ''[[Frozen Fever]]'')}}
+| 2015
+| — || — || — || 80 || — || — || — || — || — || 94
+|
+| {{N/A}}
+|-
+! scope="row"| "Queen of Swords"
+| 2016
+| — || 24 || — || — || — || — || — || — || — || —
+|
+| rowspan="2"| ''[[Idina (album)|Idina]]''
+|-
+! scope="row"| "Small World"
+| 2017
+| — || 27 || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Into the Unknown (song)|Into the Unknown]]"<br />{{small|(with [[Aurora (singer)|Aurora]])}}
+| 2019
+| 46 || — || — || —{{efn|group=upper-alpha|"Into the Unknown" did not enter the [[ARIA Charts|ARIA Singles Chart]], but peaked at number 32 on the [[ARIA Digital Track Chart]].<ref>{{cite web|url=https://cdn.aria.com.au/pdfs/F78F1235E330B2DE0543BF711254AFE704A61BC9879112387B26376EEE18AE1B/ARIA%20Digital%20Tracks%20Chart.pdf?seq=30|title=ARIA Australian Top 40 Digital Tracks|publisher=[[Australian Recording Industry Association]]|date=January 13, 2020|access-date=January 11, 2020}}</ref>}} || — || 39 || 31 || — || —{{efn|group=upper-alpha|"Into the Unknown" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Singles Chart]], but peaked at number four on the NZ Hot Singles Chart.<ref name="NZ Hot"/>}} || 19
+|
+*RIAA: 4× Platinum<ref name="RIAA" />
+*BPI: Platinum<ref name="BPI" />
+*MC: 3× Platinum<ref name="MC" />
+*ARIA: 2× Platinum<ref name="ARIA24s"/>
+*RMNZ: Platinum<ref name="RMNZ">{{cite certification|region=New Zealand|artist=Idina Menzel|type=single|source=radioscope|access-date=October 2, 2026}}</ref>
+| ''[[Frozen II (soundtrack)|Frozen II]]''
+|-
+! scope="row"| "The Loud Mouse Song"
+| rowspan="2"| 2022
+| — || — || — || — || — || — || — || — || —  || — || || {{N/A}}
+|-
+! scope="row"| "[[Love Power (Disenchanted song)|Love Power]]"
+| — || — || — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Love Power" did not enter the UK Singles Chart, but peaked at number 96 on the [[UK Singles Downloads Chart]].<ref>{{cite web|url=https://www.officialcharts.com/charts/singles-chart/20221125/|title=Official Singles Downloads Chart Top 100|publisher=[[Official Charts Company]]|access-date=November 25, 2022}}</ref>}}  || || ''[[Disenchanted (film)|Disenchanted]]''
+|-
+! scope="row"| "Move"<ref>{{cite web|url=http://www.womeninpop.com/news-home/idina-menzel-launches-new-era-and-sound-with-single-move-and-announces-new-album-drama-queen|title=Idina Menzel launches new era and sound with single 'Move' and announces new album 'Drama Queen' |website=Women in Pop|date= May 12, 2023|access-date= July 25, 2023}}</ref>
+| rowspan="3"| 2023
+| — || — || — || — || — || — || — || — || —  || — ||  
+| rowspan="3"| ''Drama Queen''
+|-
+! scope="row"| "Dramatic"<ref>{{cite web|url=https://retropopmagazine.com/idina-menzel-drops-latest-single-dramatic-ahead-of-upcoming-album-drama-queen/|title= Idina Menzel drops latest single Dramatic ahead of upcoming album Drama Queen|website= Retropop Magazine|date= June 10, 2023|access-date= July 25, 2023}}</ref>
+| — || — || — || — || — || — || — || — || —  || — ||  
+|-
+! scope="row"| "Beast"<ref>{{cite web|url=https://retropopmagazine.com/idina-menzel-shares-latest-single-beast-from-forthcoming-drama-queen-album/|title= Idina Menzel Shares Latest Single Beast|website= Retropop Magazine|date= July 22, 2023|access-date= July 25, 2023}}</ref>
+| — || — || — || — || — || — || — || — || —  || — ||  
+|-
+| colspan="20" style="font-size:8pt"| "—" denotes a single that did not chart or was not released.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="5"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|- 
+! scope="col" style="width:3em; font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="Prometheus Global Media" />
+! scope="col" style="width:3em; font-size:85%;"| [[ARIA Singles Chart|AUS]]<br /><ref name="Idina Menzel discography" />
+! scope="col" style="width:3em; font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="ReferenceC" />
+! scope="col" style="width:3em; font-size:85%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:3em; font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row"| "[[Funny Girl (film)#Musical numbers|Funny Girl]]"<br />{{small|([[Glee cast|''Glee'' cast]] featuring Idina Menzel)}}
+| rowspan="3"| 2010
+| —{{efn|group=upper-alpha|"Funny Girl" did not enter the ''Billboard'' Hot 100, but peaked at number 17 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || — || — || — || —
+| ''Glee: The Music, The Complete Season One''
+|-
+! scope="row"| "[[I Dreamed a Dream]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| 31 || — || 45 || 36 || 36
+| rowspan="2"| ''[[Glee: The Music, Volume 3 Showstoppers]]''
+|-
+! scope="row"| "[[Poker Face (Lady Gaga song)|Poker Face]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| 20 || 25 || 26 || 16 || 27
+|-
+! scope="row"| "[[West Side Story (musical)#Songs|Somewhere]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| rowspan="3"| 2011
+| 75 || — || — || — || 110
+| ''[[Glee: The Music, Volume 7]]''
+|-
+! scope="row"| "[[You and I (Lady Gaga song)|Yoü and I]]" / "[[You and I (Eddie Rabbitt and Crystal Gayle song)|You and I]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| 69 || — || — || — || 174
+| ''Glee: The Music, The Complete Season Three''
+|-
+! scope="row"| "[[Constant Craving]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| 89 || — || — || — || —
+| ''[[Glee: The Music, Volume 7]]''
+|-
+! scope="row"| "[[Next to Me (Emeli Sandé song)|Next to Me]]"<br />{{small|(''Glee'' cast featuring Idina Menzel)}}
+| 2013
+| — || — || — || — || —
+| ''Glee: The Music, The Complete Season Four''
+|-
+| colspan="20" style="font-size:8pt"| "—" denotes a single that did not chart or was not released.
+|}
+
+==Other charted songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="8"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|- 
+! scope="col" style="width:3em; font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="Prometheus Global Media" />
+! scope="col" style="width:3em; font-size:85%;"| [[Adult Contemporary (chart)|US AC]]<br /><ref name="ReferenceA" />
+! scope="col" style="width:3em; font-size:85%;"| [[ARIA Singles Chart|AUS]]<br /><ref name="Idina Menzel discography" />
+! scope="col" style="width:3em; font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="ReferenceC" />
+! scope="col" style="width:3em; font-size:85%;"| [[Irish Singles Chart|IRE]]<br /><ref name="IRE" />
+! scope="col" style="width:3em; font-size:85%;"| [[Japan Hot 100|JPN]]<br /><ref name="Billboard Japan Hot 100 Chart" />
+! scope="col" style="width:3em; font-size:85%;"| [[Official New Zealand Music Chart|NZ Hot]]<br /><ref name="NZ Hot">Peaks on the NZ Hot Singles Chart:
+* "Into the Unknown" and "Show Yourself": {{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2019-12-06|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=December 9, 2019|access-date=December 7, 2019}}
+* "For Good" (Live from the Gershwin Theatre): {{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-11-14|title=NZ Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=November 14, 2025|access-date=November 14, 2025}}</ref>
+! scope="col" style="width:3em; font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row"| "[[Defying Gravity (song)|Defying Gravity]]"<br />{{small|(with [[Kristin Chenoweth]])}}
+| 2003
+| — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Defying Gravity" did not enter the UK Singles Chart, but peaked at number 86 on the [[UK Singles Sales Chart]].<ref>{{cite web |url=https://www.officialcharts.com/charts/singles-sales-chart/20240913/7509/ |title=Official Singles Sales Chart Top 100|publisher=[[Official Charts Company]]|access-date=September 13, 2024}}</ref>}}
+|
+*BPI: Platinum<ref name="BPI" />
+| ''[[Wicked (musical album)|Wicked]]''
+|-
+! scope="row"| "[[For the First Time in Forever]]"<br />{{small|(with [[Kristen Bell]])}}
+| 2014
+| 57 || — || 62 || 70 || 54 || 14 || — || 38
+|
+*RIAA: Gold<ref name="RIAA" />
+*ARIA: Gold<ref name="cert">{{cite web|first=Gavin|last=Ryan|url=https://www.noise11.com/news/the-veronicas-spend-third-week-on-top-of-aria-singles-chart-20141011|title=The Veronicas Spend Third Week On Top Of ARIA Singles Chart|work=Noise11|publisher=Noise Network|date=October 11, 2014|access-date=October 11, 2014}}</ref>
+*BPI: 2× Platinum<ref name="BPI" />
+| ''Frozen''
+|-
+! scope="row"| "Some Things Never Change"<br />{{small|(with Kristen Bell, [[Josh Gad]], [[Jonathan Groff]] and the cast of ''Frozen II'')}}
+| rowspan="4"| 2019
+| —{{efn|group=upper-alpha|"Some Things Never Change" did not enter the ''Billboard'' Hot 100, but peaked at number 19 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || — || — || — || — || — || — || 73
+|
+*BPI: Gold<ref>{{cite certification|region=United Kingdom|artist=Bell/Menzel/Gad/Groff|title=Some Things Never Change |id=16753-5401-1| access-date=January 17, 2023}}</ref>
+*RIAA: Platinum<ref name="RIAA" />
+| rowspan="2" | ''Frozen II''
+|-
+! scope="row"| "[[Show Yourself (Disney song)|Show Yourself]]"<br />{{small|(with [[Evan Rachel Wood]])}}
+| 70 || — || — || 73 || 84 || — || 8 || 62
+|
+*BPI: Platinum<ref name="BPI" />
+*ARIA: Platinum<ref name="ARIA24s" />
+*RIAA: 2× Platinum<ref name="RIAA" 
+/>
+*RMNZ: Platinum<ref name="RMNZ"/>
+*MC: Gold<ref name="MC"/>
+|-
+! scope="row"| "Caroling, Caroling"
+| — || 12 || — || — || — || — || — || —
+|
+| rowspan="2"| ''Christmas: A Season of Love''
+|-
+! scope="row"| "[[I'll Be Home for Christmas]]"<br />{{small|(featuring [[Aaron Lohr]])}}
+| — || 24 || — || — || — || — || — || —
+|
+|-
+! scope="row" | "One Short Day"<br>{{small|(with [[Cynthia Erivo]], [[Ariana Grande]] and Kristin Chenoweth featuring Michael McCorry Rose)}}
+| 2024
+| —{{efn|group=upper-alpha|"One Short Day" did not enter the ''Billboard'' Hot 100, but peaked at number 14 on the Bubbling Under Hot 100 chart.<ref name="Bubbling"/>}} || — || — || — || — || — || — || —
+|
+|''[[Wicked: The Soundtrack]]''
+|-
+! scope="row"| "[[For Good]]" {{small|(Live from the Gershwin Theatre)}}<br>{{small|(with Cynthia Erivo, Ariana Grande and Kristin Chenoweth)}}
+| 2025
+| — || — || — || — || — || — || 37 || —
+|
+| ''[[Wicked: One Wonderful Night]]''
+|-
+| colspan="16" style="font-size:8pt"| "—" denotes releases that did not chart
+|}
+
+==Other appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"| Title
+!Other artist(s)
+!scope="col"| Year
+!scope="col"| Album
+|-
+!scope="row"| "Follow If You Lead"
+|
+|rowspan="2"| 1998
+| ''[[The Other Sister]]''
+|-
+!scope="row"| "Silence"
+|[[Corey Glover]]
+| ''[[Hymns (Corey Glover album)|Hymns]]''
+|-
+!scope="row"| "How Shall I See You Through My Tears"
+|
+|rowspan="3"| 2003
+|rowspan="2"| ''Camp''
+|-
+!scope="row"| "The Want of a Nail"
+|
+|-
+!scope="row"| "[[I Saw Three Ships]]"
+|
+| ''Broadway's Greatest Gifts: Carols for a Cure, Vol. 5''
+|-
+!scope="row"| "Damsel In Distress"
+|
+|rowspan="2"| 2005
+| ''[[Music from and Inspired by Desperate Housewives]]''
+|-
+!scope="row"| "I Will Be There"
+|[[Ray Charles]]
+| ''[[Genius & Friends]]''
+|-
+!scope="row"| "A Hero Comes Home"
+|
+| 2007
+| ''[[Beowulf (soundtrack)|Beowulf]]''
+|-
+!scope="row"| "[[What If (Kate Winslet song)|What If]]"
+|[[Rhydian Roberts]]
+| 2008
+| ''[[Rhydian (album)|Rhydian]]''
+|-
+!scope="row"| "[[Take a Bow (Madonna song)|Take a Bow]]"
+|[[Elaine Paige]]
+| 2010
+| ''[[Elaine Paige and Friends]]''
+|-
+!scope="row"| "[[When I Fall in Love]]"
+|[[George Benson]]
+| 2013
+| ''[[Inspiration: A Tribute to Nat King Cole]]''
+|-
+!scope="row"| "[[Little Drummer Boy]]"
+|[[Jennifer Nettles]]
+| 2016
+| ''[[To Celebrate Christmas]]''
+|-
+!scope="row"|"[[Wind Beneath My Wings]]"
+|
+| 2017
+| [[Beaches (2017 film)|''Beaches'']]
+|-
+!scope="row"|"[[Rhythm Nation]] / [[You Gotta Be]]"
+|[[Camila Cabello]]
+| rowspan="5" |2021
+| rowspan="5" |''[[Cinderella (2021 soundtrack)|Cinderella]]''
+|-
+!scope="row"|"[[Material Girl]]"
+|
+|-
+!scope="row"|"[[Am I Wrong]]"
+|[[Camila Cabello]] and [[Nicholas Galitzine (actor)|Nicholas Galitzine]]
+|-
+!scope="row" |"Dream Girl"
+|
+|-
+!scope="row"|"[[Let's Get Loud]]"
+|[[Camila Cabello]] and [[Nicholas Galitzine (actor)|Nicholas Galitzine]]
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Idina Menzel}}
+
+{{DEFAULTSORT:Menzel, Idina}}
+[[Category:Pop music discographies]]
+[[Category:Discographies of American artists]]
+[[Category:Idina Menzel|Discography]]

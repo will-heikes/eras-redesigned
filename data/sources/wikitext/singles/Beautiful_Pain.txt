@@ -1,0 +1,75 @@
+{{Infobox song
+| name       = Beautiful Pain
+| cover      =
+| alt        =
+| type       =
+| artist     = [[Eminem]] featuring [[Sia]]
+| album      = [[The Marshall Mathers LP 2]]
+| released   =
+| format     =
+| recorded   =
+| studio     =
+| venue      =
+| genre      =
+| length     = {{duration|m=4|s=25}}
+| label      = {{hlist|[[Shady Records|Shady]]|[[Aftermath Entertainment|Aftermath]]|[[Interscope Records|Interscope]]|}}
+| writer     =
+* [[Eminem|Marshall Mathers]]
+* [[Emile Haynie]]
+* [[Sia|Sia Furler]]
+* [[Luis Resto (musician)|Luis Resto]]
+| producer   =
+* Haynie
+* Eminem {{small|({{abbr|co.|Co-producer}})}}
+}}
+
+"'''Beautiful Pain'''" is a song by American rapper [[Eminem]] featuring Australian singer [[Sia]], appearing as a bonus track on his 2013 album ''[[The Marshall Mathers LP 2]]'',<ref>{{Cite news|url=http://www.mtv.com/news/2305860/eminem-sia-beautiful-pain/|archive-url=https://web.archive.org/web/20161111112048/http://www.mtv.com/news/2305860/eminem-sia-beautiful-pain/|url-status=dead|archive-date=November 11, 2016|title=Eminem Calls On Sia To Heal His 'Beautiful Pain': Listen To 'The Marshall Mathers LP 2' Bonus Track|work=MTV News|access-date=2018-05-23|language=en}}</ref> marking the first collaboration between the two [[musicians]]. They further collaborated on the song "[[Guts Over Fear]]" from Eminem's 2014 compilation album ''[[SHADYXV]]''. ''Billboard'' described the song as an "emo-punched rap ballad", and one of Eminem's best collaborations with a female artist.<ref>{{Cite magazine|url=https://www.billboard.com/lists/eminem-best-collaborations-female-artists/|title=Eminem's Top 9 Collaborations With Female Artists: Beyoncé, Rihanna, P!nk and More (Critic's Picks)|magazine=Billboard|access-date=2018-05-23}}</ref> In 2014, ''Spin'' ranked the song number 264 out of Eminem's 289 songs released to date.<ref>{{Cite news|url=https://www.spin.com/2014/10/eminem-every-song-ranked/|title=All 289 Eminem Songs, Ranked|date=2014-10-27|work=Spin|access-date=2018-05-23}}</ref>
+
+==Charts==
+
+{|class="wikitable sortable plainrowheaders"
+|+ Chart performance for "Beautiful Pain"
+! scope="col"| Chart (2013–2014)
+! scope="col"| Peak<br>position
+|-
+{{singlechart|Canada|55|artist=Eminem|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|France|114|artist=Eminem feat. Sia|song=Beautiful Pain|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|Germany|87|artist=Eminem feat. Sia|song=Beautiful Pain|songid=1211292|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|New Zealand|15|artist=Eminem feat. Sia|song=Beautiful Pain|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|UK|67|artist=Eminem ft Sia|song=Beautiful Pain|date=20131116|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|Billboardhot100|99|artist=Eminem|rowheader=true|access-date=October 17, 2018}}
+|-
+{{singlechart|Billboardrandbhiphop|30|artist=Eminem|rowheader=true|access-date=October 17, 2018}}
+|}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "Beautiful Pain"}}
+{{Certification Table Entry|region=Australia|type=single|certyear=2024|award=Gold|access-date=June 29, 2024}}
+{{Certification Table Entry|region=New Zealand|artist=Eminem feat. Sia|title=Beautiful Pain|award=Platinum|type=single|relyear=2013|source=radioscope|access-date=December 18, 2024|certyear=2015}}
+{{Certification Table Entry|region=United Kingdom|artist=Eminem|title=Beautiful Pain |award=Silver|type=single|relyear=2013|certyear=2025|id=21212-5395-1|access-date=July 11, 2025}}
+{{Certification Table Entry|region=United States|artist=Eminem|title=Beautiful Pain (feat. Sia)|award=Gold|type=single|relyear=2013|certyear=2022|access-date=March 30, 2023}}
+{{Certification Table Bottom|noshipments=true|streaming=true}}
+
+==References==
+{{reflist}}
+
+{{Eminem songs}}
+{{Sia singles}}
+
+{{authority control}}
+
+[[Category:2013 songs]]
+[[Category:Eminem songs]]
+[[Category:Sia (musician) songs]]
+[[Category:Songs written by Luis Resto (musician)]]
+[[Category:Songs written by Eminem]]
+[[Category:Songs written by Emile Haynie]]
+[[Category:Songs written by Sia (musician)]]
+
+
+{{2010s-hiphop-song-stub}}

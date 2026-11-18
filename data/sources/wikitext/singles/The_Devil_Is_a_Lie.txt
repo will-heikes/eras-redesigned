@@ -1,0 +1,121 @@
+{{For|the Tommy Richman song|Devil Is a Lie}}
+{{Infobox song
+| name       = The Devil Is a Lie
+| cover      = Rick Ross The Devil Is a Lie.jpg
+| alt        =
+| type       = single
+| artist     = [[Rick Ross]] featuring [[Jay-Z]]
+| album      = [[Mastermind (Rick Ross album)|Mastermind]]
+| released   = December 19, 2013
+| recorded   = 2013
+| studio     =
+| venue      =
+| genre      = [[Hip hop music|Hip hop]]
+| length     = 5:12
+| label      = {{hlist|[[Maybach Music Group|Maybach Music]]|[[Slip-n-Slide Records|Slip-n-Slide]]|[[Def Jam Recordings|Def Jam]]}}
+| writer     = {{hlist|[[Rick Ross|William Roberts]]|LeShawn Rogers|Willie McNeal|[[Jay-Z|Shawn "Jay-Z" Carter]]}}
+| producer   = {{hlist|Major Seven|[[K.E. on the Track]]<ref>{{cite web|url=http://www.complex.com/music/2013/12/ke-on-the-track-stole-beat |title=K.E. On The Track Stole Devil Is A Lie Beat |publisher=Complex |access-date=2014-02-08}}</ref><ref>{{cite web|url=http://www.xxlmag.com/news/2013/12/ke-on-the-track-major-seven-the-devil-is-a-lie-interview/ |title=Producer Major Seven Clears Up "The Devil Is A Lie" Controversy With K.E. On The Track – XXL |publisher=Xxlmag.com |date=2013-12-21 |access-date=2014-02-08}}</ref>}}
+| chronology = [[Rick Ross]]
+| prev_title = [[No Games (song)|No Games]]
+| prev_year  = 2013
+| next_title = [[Thug Cry]]
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Jay-Z]]
+ | type       = single
+ | prev_title = [[Drunk in Love]]
+ | prev_year  = 2013
+ | title      = The Devil Is a Lie
+ | year       = 2013
+ | next_title = [[Part II (On the Run)]]
+ | next_year  = 2014
+}}
+{{External music video|{{YouTube|wRSbiw6dj5c|"The Devil Is a Lie"}}}}
+}}
+
+"'''The Devil Is a Lie'''" is a hip hop song by American rapper [[Rick Ross]], featuring [[Jay-Z]]. It was released as the [[lead single]] from his sixth studio album, ''[[Mastermind (Rick Ross album)|Mastermind]]'' on December 19, 2013.<ref name="The Devil Is A Lie single announcement">{{cite web|url=http://www.xxlmag.com/news/2013/10/rick-ross-next-single-will-feature-jay-z/ |title=Rick Ross' Next Single Will Feature Jay Z – XXL |publisher=Xxlmag.com |date=2013-10-24 |access-date=2014-01-17}}</ref><ref name="apple1">{{cite web|url=https://itunes.apple.com/us/album/devil-is-lie-feat.-jay-z-single/id786836885 |archive-url=https://web.archive.org/web/20131224080201/https://itunes.apple.com/us/album/devil-is-lie-feat.-jay-z-single/id786836885 |url-status=dead |archive-date=December 24, 2013 |title=iTunes – Music – The Devil Is a Lie (feat. JAY Z) – Single by Rick Ross |publisher=[[iTunes]] |date=2013-12-19 |access-date=2014-01-17}}</ref> The song was produced by Major Seven and [[K.E. on the Track]].
+
+==Background==
+On October 23, 2013, Rick Ross announced that the album's second single, which will feature [[Jay-Z]], will be released in early November 2013.<ref name="The Devil Is A Lie single announcement"/> The following day, Ross revealed that the song is titled "The Devil Is A Lie". He explained that song saying, "We're pushing the envelope once again and it's just one of those records I can't wait to hit the streets. We went in another direction but it's just one of those records that's gonna speak for itself and everybody's gonna have their opinion of it, but it's most definitely what the streets need."<ref name="The Devil Is A Lie single announcement"/> On December 19, 2013, the song was released for [[Music download|digital download]].<ref name="apple1"/> It was sent to [[urban contemporary]] radio in the United States on January 21, 2014.<ref>{{cite web|url=http://www.allaccess.com/urban/future-releases |title=Urban/UAC Future Releases &#124; R&B, Hip Hop, Release Schedule and Street Dates &#124; |publisher=Allaccess.com |access-date=2014-01-17}}</ref> Dan Rys of ''[[XXL (magazine)|XXL]]'' called the instrumental "the most massive beat we've heard this year". 
+
+==Music video ==
+The video for "The Devil Is A Lie" was released on March 20, 2014, and does not include Jay-Z's verse.<ref>{{cite web|title=Rick Ross Drops Fiery New Video For "The Devil Is A Lie"|date=20 March 2014 |url=http://www.xxlmag.com/news/2014/03/rick-ross-drops-fiery-new-video-for-devil-is-a-lie/|publisher=XXL|access-date=20 March 2014}}</ref> An unofficial music video directed by Ashley Smith, has amassed a considerable view count on [[YouTube]] as well. This video in question has reached 21 million views, while the official has over 2.6 million as of April 2024. The video features 2 catholic priests lip syncing the entire song, rapping Ross and Jay-Z's respective verses.<ref>{{Cite web|url=https://theboombox.com/rick-ross-devil-is-a-lie-unofficial-video/|title=Rick Ross' 'Devil is a Lie' Gets an Unofficial Visual Treatment|date=4 January 2014 }}</ref>
+
+==Track listing==
+{{tracklist
+| headline = Digital single
+| extra_column    = Producer(s)
+| title1          = The Devil Is A Lie
+| note1           = featuring [[Jay-Z]] 
+| writer1         = [[Rick Ross|William Roberts]], LeShawn Rogers, Willie McNeal, [[Jay-Z|Shawn "Jay-Z" Carter]]
+| extra1          = Major Seven, [[K.E. on the Track]]
+| length1         = 5:12
+}}
+
+== Chart performance ==
+{|class="wikitable plainrowheaders"
+|-
+! scope="col"| Chart (2014)
+! scope="col"| Peak<br>position
+|-
+!scope="row" {{singlechart|UKrandb|27|artist=Rick Ross|date=2014-03-15}}
+|-
+! scope="row"| UK Singles ([[Official Charts Company]])<ref>{{cite web | url=http://www.zobbel.de/cluk/140315cluk.txt | title=Chart: CLUK Update 15.03.2014 (wk10) | publisher=Zobbel.de | access-date=January 6, 2014 | author=Zywietz, Tobias}}</ref>
+| style="text-align:center;"| 143
+|-
+!scope="row" {{singlechart|Billboardhot100|86|artist=Rick Ross}}
+|-
+!scope="row" {{singlechart|Billboardrandbhiphop|26|artist=Rick Ross|song=The Devil Is a Lie}}
+|-
+!scope="row"{{singlechart|Billboardrapsongs|16|artist=Rick Ross|song=he Devil Is a Lie}}
+|}
+
+=== Certifications ===
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|title=The Devil Is a Lie|artist=Rick Ross|type=single|award=Gold|certyear=2015|digital=true}}
+{{Certification Table Bottom|nosales=true | noshipments=true|streaming=true}}
+
+==Release history==
+{| class="wikitable"
+|-
+!Country
+!Date
+!Format
+!Label
+!{{abbr|Ref.|Reference(s)}}
+|-
+| rowspan="3"| United States
+|December 19, 2013
+|[[Music download|Digital download]]
+|rowspan="3"| [[Maybach Music Group]], [[Slip-n-Slide Records]], [[Def Jam Recordings]]
+| <ref name="apple1"/>
+|-
+|January 13, 2014
+|[[Mainstream urban]] radio
+| <ref>{{cite web|url=http://www.frequencynews.com/musiclibrary_detail.cfm?LabelID=6&ArtistID=54&AlbumID=1147&SingleID=3908&Gospel=0 |title=Frequency News |publisher=Frequency News |date=2014-01-13 |access-date=2016-04-06}}</ref>
+|-
+|January 21, 2014
+| Urban contemporary radio
+| <ref>{{cite web|url=http://www.allaccess.com/urban/future-releases |title=Urban/UAC Future Releases &#124; R&B, Hip Hop, Release Schedule and Street Dates &#124; |publisher=Allaccess.com |access-date=2014-02-08}}</ref>
+|}
+
+==References==
+{{Reflist|2}}
+
+{{Rick Ross}}
+{{Jay-Z songs}}
+{{Authority control}}
+
+{{DEFAULTSORT:Devil Is a Lie}}
+[[Category:2013 singles]]
+[[Category:Rick Ross songs]]
+[[Category:Jay-Z songs]]
+[[Category:Maybach Music Group singles]]
+[[Category:Def Jam Recordings singles]]
+[[Category:Songs written by Jay-Z]]
+[[Category:Songs written by Rick Ross]]
+[[Category:2013 songs]]
+[[Category:Song recordings produced by K.E. on the Track]]
+
+
+{{2010s-hiphop-single-stub}}

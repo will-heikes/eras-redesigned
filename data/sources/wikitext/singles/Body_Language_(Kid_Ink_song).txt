@@ -1,0 +1,131 @@
+{{Use mdy dates|date=April 2014}}
+{{Infobox song
+| name       = Body Language
+| cover      = KidInkBodyLanguage.jpg
+| alt        =
+| type       = single
+| artist     = [[Kid Ink]] featuring [[Usher (musician)|Usher]] and [[Tinashe]]
+| album      = [[Full Speed (album)|Full Speed]]
+| released   = September 9, 2014
+| recorded   = 2014
+| studio     =
+| venue      =
+| genre      = {{Flat list|
+*[[Hip hop music|Hip hop]]
+*[[Contemporary R&B|R&B]]}}
+| length     = 3:28
+| label      = {{Flat list|
+*Tha Alumni Music Group
+*88 Classic
+*[[RCA Records|RCA]]}}
+| writer     = {{Flat list|
+*[[Kid Ink|Brian Collins]]
+*Ryon Lovett
+*[[Tinashe|Tinashe Kachingwe]]
+*[[Cashmere Cat|Magnus Høiberg]]
+*[[Stargate (production team)|Mikkel S. Eriksen]]
+*[[Stargate (production team)|Tor Erik Hermansen]]}}
+| producer   = {{Flat list|
+*[[Cashmere Cat]]
+*[[Stargate (production team)|Stargate]]}}
+| chronology = [[Kid Ink]]
+| prev_title = [[Boneless (song)#Delirious (Boneless)|Delirious (Boneless)]]
+| prev_year  = 2014
+| next_title = [[Hotel (Kid Ink song)|Hotel]]
+| next_year  = 2015
+| misc       = {{Extra chronology
+ | artist     = [[Usher (musician)|Usher]]
+ | type       = single
+ | prev_title = [[She Came to Give It to You]]
+ | prev_year  = 2014
+ | title      = Body Language
+ | year       = 2014
+ | next_title = [[I Don't Mind (Usher song)|I Don't Mind]]
+ | next_year  = 2014
+}}
+{{Extra chronology
+ | artist     = [[Tinashe]]
+ | type       = single
+ | prev_title = [[Pretend (Tinashe song)|Pretend]]
+ | prev_year  = 2014
+ | title      = Body Language
+ | year       = 2014
+ | next_title = [[Drop That Kitty]]
+ | next_year  = 2015
+}}
+{{External music video|{{YouTube|_Ht6gSClAzo|"Body Language"}} }}
+}}
+
+"'''Body Language'''" is a song by American rapper [[Kid Ink]]. The song was released on September 9, 2014 by Tha Alumni Music Group, 88 Classic and [[RCA Records]], as the [[lead single]] from his third [[studio album]] ''[[Full Speed (album)|Full Speed]]'' (2015).
+
+The song, produced by [[Cashmere Cat]] and melody created by [[Stargate (production team)|Stargate]], features a [[guest appearance]]s from [[RCA Records]] label cohorts, singers [[Usher (musician)|Usher]] and [[Tinashe]].<ref>{{cite web |url=https://www.hotnewhiphop.com/561772-kid-ink-body-language-feat-usher-tinashe-new-song |title=Kid Ink - Body Language Feat. Usher & Tinashe |publisher=Hotnewhiphop.com |date=2014-09-08 |access-date=2022-05-08}}</ref>
+
+==Music video==
+The accompanying [[music video]] for the track was directed by Darren Craig and filmed in Atlanta, Georgia.<ref>{{cite web |url=http://www.mtv.com/news/1961803/kid-ink-usher-tinashe-behind-the-scenes-body-language-video/ |archive-url=https://web.archive.org/web/20141016083138/http://www.mtv.com/news/1961803/kid-ink-usher-tinashe-behind-the-scenes-body-language-video/ |url-status=dead |archive-date=October 16, 2014 |title=Kid Ink, Usher And Tinashe Take You Behind-The-Scenes Of 'Body Language' Video |work=[[MTV]] |date=October 13, 2014 |access-date=October 5, 2015}}</ref> It was released on October 27, 2014.<ref>{{cite web |url=http://www.complex.com/music/2014/10/kid-ink-f-usher-tinashe-body-language-video |title=Watch Kid Ink's "Body Language" Video f/ Usher and Tinashe |work=[[Complex (magazine)|Complex]] |date=October 27, 2014 |access-date=October 5, 2015}}</ref>
+
+==Charts==
+{|class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+! scope="col"| Chart (2014–2015)
+! scope="col"| Peak<br />position
+|-
+{{singlechart|Flanders Tip|28|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|rowheader=true|access-date=November 28, 2014}}
+|-
+{{singlechart|Flanders Urban|16|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|rowheader=true|access-date=November 28, 2014}}
+|-
+{{singlechart|Wallonia Tip|12|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|rowheader=true|access-date=October 2, 2024}}
+|-
+{{singlechart|France|104|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|rowheader=true|access-date=November 28, 2014}}
+|-
+{{singlechart|Germany|54|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|songid=1332993|rowheader=true|access-date=March 1, 2019}}
+|-
+{{single chart|Dutch100|107|artist=Kid Ink feat. Usher & Tinashe|song=Body Language|rowheader=true|access-date=11 October, 2014}}
+|-
+{{singlechart|Scotland|45|date=2014-09-21|rowheader=true|access-date=November 26, 2015}}
+|-
+{{singlechart|UK|46|date=2014-09-21|rowheader=true|access-date=September 21, 2014}}
+|-
+{{singlechart|Billboardhot100|72|artist=Kid Ink|song=Body Language|rowheader=true|access-date=November 28, 2014}}
+|-
+{{singlechart|Billboardrandbhiphop|21|artist=Kid Ink|song=Body Language|rowheader=true|access-date=November 23, 2014}}
+|-
+{{singlechart|Billboardrandbhiphopairplay|26|artist=Kid Ink|song=Body Language|rowheader=true|access-date=October 9, 2023}}
+|-
+{{singlechart|Billboardrhythmic|6|artist=Kid Ink|song=Body Language|rowheader=true|access-date=November 28, 2014}}
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|type=single|region=Australia|artist=Kid Ink|title=Body Language|award=Gold|relyear=2014|certyear=2017|access-date=March 12, 2017}}
+{{Certification Table Entry|type=single|region=Canada|artist=Kid Ink|title=Body Language (ft. Usher & Tinashe)|award=Gold|relyear=2014|certyear=2019|access-date=November 22, 2022}}
+{{Certification Table Entry|type=single|region=New Zealand|artist=Kid Ink feat. Usher and Tinashe|title=Body Language|award=Platinum|relyear=2014|certyear=2023|source=radioscope|access-date=December 25, 2024}}
+{{Certification Table Entry|type=single|region=United Kingdom|artist=Kid Ink ft Usher & Tinashe|title=Body Language|award=Silver|relyear=2014|certyear=2017|id=982-4419-1|access-date=June 9, 2017}}
+{{Certification Table Entry|type=single|region=United States|artist=Kid Ink|title=Body Language (feat. Usher, Tinashe)|award=Platinum|relyear=2014|certyear=2019|access-date=February 10, 2019}}
+{{Certification Table Bottom|streaming=true|nosales=true|noshipments=true}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.lyricsondemand.com/k/kidinklyrics/bodylanguagelyrics.html Full lyrics at LyricsOnDemand.com] 
+<!-- Licensed lyrics provider -->
+
+{{Kid Ink}}
+{{Tinashe}}
+{{Usher songs}}
+
+{{authority control}}
+
+[[Category:2014 songs]]
+[[Category:2014 singles]]
+[[Category:Kid Ink songs]]
+[[Category:Usher (musician) songs]]
+[[Category:Tinashe songs]]
+[[Category:RCA Records singles]]
+[[Category:Song recordings produced by Cashmere Cat]]
+[[Category:Song recordings produced by Stargate (record producers)]]
+[[Category:Songs written by Cashmere Cat]]
+[[Category:Songs written by Mikkel Storleer Eriksen]]
+[[Category:Songs written by Tor Erik Hermansen]]
+[[Category:Songs written by Tinashe]]
+[[Category:Songs written by Kid Ink]]

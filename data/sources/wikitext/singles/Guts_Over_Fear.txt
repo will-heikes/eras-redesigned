@@ -1,0 +1,163 @@
+{{Infobox song
+| name       = Guts Over Fear
+| cover      = Guts-Over-Fear.png
+| alt        =
+| type       = single
+| artist     = [[Eminem]] featuring [[Sia]]
+| album      = [[Shady XV]]
+| released   = August 25, 2014
+| recorded   =
+| studio     = Effigy Studios {{small|([[Ferndale, Michigan|Ferndale]], [[Michigan]])}}
+| genre      = {{hlist|[[Hip hop music|Hip hop]]|[[pop music|pop]]}}
+| length     = *{{Duration|m=5|s=1}}
+*{{Duration|m=4|s=7}} (radio edit)
+| label      = * [[Shady Records|Shady]]
+* [[Interscope Records|Interscope]]
+| writer     = {{hlist|[[Eminem|Marshall Mathers]]|[[Sia|Sia Furler]]|[[Emile Haynie]]|[[John Hill (producer)|John Hill]]|[[Luis Resto (musician)|Luis Resto]]}}
+| producer   = {{hlist|[[Emile Haynie]]<ref>{{cite web|title=Eminem Announces 'Shady XV' With New Track 'Guts Over Fear' and New Compilation|url=http://www.billboard.com/articles/news/6229233/eminem-announces-shady-xv-with-new-track-guts-over-fear-and-new-compilation|website=Billboard.com|access-date=June 26, 2014|archive-url=https://web.archive.org/web/20160315165556/http://www.billboard.com/articles/news/6229233/eminem-announces-shady-xv-with-new-track-guts-over-fear-and-new-compilation|archive-date=March 15, 2016|url-status=live}}</ref>|[[John Hill (producer)|John Hill]]}}
+| chronology = [[Eminem]]
+| prev_title = [[Calm Down (Busta Rhymes song)|Calm Down]]
+| prev_year  = 2014
+| next_title = [[Detroit vs. Everybody]]
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Sia]]
+ | type       = single
+ | prev_title = [[Big Girls Cry]]
+ | prev_year  = 2014
+ | title      = Guts Over Fear
+ | year       = 2014
+ | next_title = [[You're Never Fully Dressed Without a Smile#Sia cover|You're Never Fully Dressed Without a Smile]]
+ | next_year  = 2014
+}}{{External music video|{{YouTube|0AqnCSdkjQ0|"Guts Over Fear"}}
+ | type = single
+}}
+}}
+
+"'''Guts Over Fear'''" is a song by American rapper [[Eminem]] featuring Australian singer-songwriter [[Sia]], from Eminem's compilation album ''[[Shady XV]]'', released on August 25, 2014. This song is included in the closing credits of the film, ''[[The Equalizer (film)|The Equalizer]]''.
+
+==Background==
+Previews of the song premiered in trailers and during the end credits for the film, ''[[The Equalizer (film)|The Equalizer]]'' starring [[Denzel Washington]]. The song was officially released to [[iTunes]] on August 25, 2014, the same day Eminem announced his plans to release an album later that year.
+
+==Content==
+The song's subject matter concerns Eminem and his struggles as an artist, and touches on moments of his career. Australian singer [[Sia]] provides the chorus, making this the second time the artists have collaborated, the first being "[[Beautiful Pain]]" from the deluxe version of ''[[The Marshall Mathers LP 2]]''.<ref name="Rolling stone">{{cite magazine | title=Hear Eminem and Sia's Triumphant New Duet 'Guts Over Fear' | url=https://www.rollingstone.com/music/news/hear-eminem-and-sias-triumphant-new-duet-guts-over-fear-20140825 | magazine=Rolling stone | access-date=June 26, 2014 | archive-url=https://web.archive.org/web/20171213131100/https://www.rollingstone.com/music/news/hear-eminem-and-sias-triumphant-new-duet-guts-over-fear-20140825 | archive-date=December 13, 2017 | url-status=live}}</ref>
+
+==Music video==
+Eminem posted a picture on [[Instagram]] to serve as a sneak peek for the upcoming music video.<ref>{{cite web|url=http://www.mtv.com/news/1987432/eminem-guts-over-fear-teaser/|archive-url=https://web.archive.org/web/20141108022228/http://www.mtv.com/news/1987432/eminem-guts-over-fear-teaser/|url-status=dead|archive-date=November 8, 2014|title=Eminem's 'Guts Over Fear' Video Might Knock You Out: See The Teaser|work=MTV News}}</ref> The video premiered on November 24, via [[VEVO]], was filmed in [[Detroit]], [[Michigan]], directed by Syndrome and starred Alexander Wraith and [[America's Next Top Model (cycle 21)|''America's Next Top Model'' cycle 21 contestant]], [[Winnie Harlow]].
+
+==Chart performance==
+The song debuted at number 22 on the [[Billboard Hot 100|''Billboard'' Hot 100]], selling 134,328 copies in its first week of release.<ref>{{cite web|url=http://www.hiphopdx.com/index/news/id.30530/title.hip-hop-singles-sales-this-week-eminem-iggy-azalea-nicki-minaj|title=Hip Hop Singles Sales This Week: Eminem, Iggy Azalea, Nicki Minaj|website=Hiphopdx.com|access-date=28 December 2017|archive-url=https://web.archive.org/web/20141020180917/http://www.hiphopdx.com/index/news/id.30530/title.hip-hop-singles-sales-this-week-eminem-iggy-azalea-nicki-minaj|archive-date=20 October 2014|url-status=dead}}</ref>
+
+==Track listing==
+;Digital Download
+{{track_listing
+| extra_column = Producer(s)
+
+| title1  = Guts Over Fear
+| note1   = featuring [[Sia]]
+| writer1 = {{hlist|[[Eminem|Marshall Mathers]]|[[Sia|Sia Furler]]|[[Emile Haynie]]|[[John Hill (producer)|John Hill]]|[[Luis Resto (musician)|Luis Resto]]}}
+| extra1  = {{hlist|[[Emile Haynie]]<ref>{{cite web|title=Eminem Announces 'Shady XV' With New Track 'Guts Over Fear' and New Compilation|url=http://www.billboard.com/articles/news/6229233/eminem-announces-shady-xv-with-new-track-guts-over-fear-and-new-compilation|website=Billboard.com|access-date=June 26, 2014|archive-url=https://web.archive.org/web/20160315165556/http://www.billboard.com/articles/news/6229233/eminem-announces-shady-xv-with-new-track-guts-over-fear-and-new-compilation|archive-date=March 15, 2016|url-status=live}}</ref>|[[John Hill (producer)|John Hill]]}}
+| length1 = {{duration|m=5|s=1}}
+}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!Chart (2014)
+!Peak<br/>position
+|-
+{{Single chart|Australia|22|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 4, 2014}}
+|-
+{{Single chart|Austria|53|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 4, 2014}}
+|-
+{{Single chart|Flanders Tip|15|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 26, 2014|refname="VL"}}
+|-
+{{Single chart|Flanders Urban|13|artist=Eminem feat. Sia|song=Guts Over Fear|refname="VL2"|rowheader=true}}
+|-
+{{Single chart|Wallonia Tip|27|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 26, 2014}}
+|-
+! scope="row"| Brazil ([[Pro-Música Brasil|ABPD]])<ref name="Brazil">{{cite web |date=October 6, 2001 |title=Brazil |url=http://asdfg-menezes.org/bookBR.pdf |url-status=live |archive-url=https://web.archive.org/web/20160408222209/http://asdfg-menezes.org/bookBR.pdf |archive-date=April 8, 2016 |access-date=February 21, 2026 |publisher=[[Pro-Música Brasil|Associação Brasileira dos Produtores de Discos]]}}</ref>
+| 47
+|-
+{{Single chart|Canada|9|artist=Eminem|rowheader=true|access-date=September 1, 2014}}
+|-
+{{Single chart|Czechdigital|87|year=2014|week=36|rowheader=true}}
+|-
+{{Single chart|Denmark|22|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 5, 2014}}
+|-
+{{Single chart|France|10|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 8, 2014}}
+|-
+{{Single chart|Hungarysingle|24|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 4, 2014|year=2013|week=35}}
+|-
+{{Single chart|Germany|35|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 4, 2014|songid=1327248}}
+|-
+{{Single chart|ItalyFIMI|45|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=April 18, 2015|week=35|year=2014|chartid=1876}}
+|-
+{{Single chart|New Zealand|22|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 4, 2014}}
+|-
+{{Single chart|Slovakdigital|85|year=2014|week=36|rowheader=true}}
+|-
+{{Single chart|Sweden|40|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 1, 2014}}
+|-
+{{Single chart|Switzerland|30|artist=Eminem feat. Sia|song=Guts Over Fear|rowheader=true|access-date=September 1, 2014}}
+|-
+{{Single chart|UK|10|date=20141025|rowheader=true|access-date=November 15, 2014}}
+|-
+{{Single chart|Billboardhot100|22|artist=Eminem|rowheader=true|access-date=September 1, 2014}}
+|-
+{{single chart|Billboardrandbhiphop|6|artist=Eminem|rowheader=true|access-date=September 7, 2014}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders" style="text-align:center;"
+|-
+!Chart (2014)
+!Position
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|title=Hot R&B/Hip-Hop Songs – Year-End 2014|magazine=Billboard|access-date=December 24, 2019|archive-url=https://web.archive.org/web/20200809064333/http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|archive-date=August 9, 2020|url-status=live}}</ref>
+| 96
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|region=Australia|type=single|certyear=2024|award=Platinum|access-date=June 29, 2024}}
+{{Certification Table Entry|region=Brazil|artist=Eminem|title=Guts Over Fear|award=Platinum|type=single|relyear=2014|certyear=2024|access-date=June 13, 2024}}
+{{Certification Table Entry|region=New Zealand|artist=Eminem feat. Sia|title=Guts Over Fear|award=Gold|type=single|relyear=2014|certyear=2015|access-date=December 18, 2024|source=radioscope}}
+{{Certification Table Entry|region=United Kingdom|type=single|award=Silver|artist=Eminem|title=Guts Over Fear|relyear=2014|certyear=2020|access-date=October 6, 2020|id=16734-5395-1}}
+{{Certification Table Entry|region=United States|type=single|award=Platinum |artist=Eminem|title=Guts Over Fear|relyear=2014|certyear=2018|digital=true|access-date=February 28, 2018}}
+{{Certification Table Bottom|streaming=true | noshipments=true}}
+
+==References==
+
+{{Reflist|2}}
+
+==External links==
+*[https://www.youtube.com/watch?v=0AqnCSdkjQ0 Guts Over Fear] on [[YouTube]]
+*[http://www.lyricsondemand.com/e/eminemlyrics/gutsoverfearlyrics.html Full Lyrics at LyricsOnDemand.com]
+<!-- Licensed lyrics provider -->
+
+{{Shady Records}}
+{{Eminem singles}}
+{{Sia singles}}
+
+{{authority control}}
+
+[[Category:Eminem songs]]
+[[Category:2014 singles]]
+[[Category:Interscope Records singles]]
+[[Category:Shady Records singles]]
+[[Category:Aftermath Entertainment singles]]
+[[Category:Songs written by Eminem]]
+[[Category:2014 songs]]
+[[Category:Songs written by Sia (musician)]]
+[[Category:Song recordings produced by Emile Haynie]]
+[[Category:Songs written by Emile Haynie]]
+[[Category:Sia (musician) songs]]
+[[Category:Songs written by Luis Resto (musician)]]
+[[Category:Song recordings produced by John Hill (record producer)]]

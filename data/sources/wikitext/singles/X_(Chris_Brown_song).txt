@@ -1,0 +1,71 @@
+{{Infobox song
+| name           = X
+| cover          = X Like Me.jpg
+| type           = promotional single
+| artist         = [[Chris Brown]]
+| album          = [[X (Chris Brown album)|X]]
+| released       = August 25, 2014
+| misc           = {{External music video|1={{YouTube|o8NbG5B7p-o|"X"}}|header=Audio video|type=song}}
+| genre          = {{flat list|
+* [[Alternative R&B]]
+* [[Soul music|soul]]
+* [[Electronic dance music|EDM]]<ref>{{cite web | url=https://www.vibe.com/music/reviews/chris-brown-x-album-review-blame-game-236663/ | title=Review: Chris Brown Plays the Blame Game on Cathartic Album 'X' | date=15 September 2014 }}</ref>
+}}
+| length         = {{Duration|m=4|s=20}}
+| label          = [[RCA Records|RCA]]
+| writer         = {{flatlist|
+*[[Chris Brown]]
+*[[Diplo|Thomas Pentz]]
+*[[Djemba Djemba|Andrew Swanson]]
+*[[RoccStar|Leon Youngblood]]
+*[[Dewain Whitmore Jr.|Dewain Whitmore]]
+*[[Sevyn Streeter|Amber Streeter]]
+}}
+| producer       = [[Diplo]]
+}}
+
+"'''X'''" is a song by American singer [[Chris Brown]], taken from his sixth homonym studio album [[X (Chris Brown album)|of the same name]] (2014), and was released as an instant-gratification track alongside the album pre-order on [[iTunes]] on August 25, 2014.<ref>{{cite web|last1=Brown|first1=Chris|title=Download X on @iTunesMusic today!|url=https://twitter.com/chrisbrown/status/503877465454813184|publisher=Twitter}}</ref> It was written by Brown, [[Diplo]], [[Djemba Djemba]], [[RoccStar]], [[Dewain Whitmore Jr.|Dewain Whitmore]] and [[Sevyn Streeter]]. Musically, "X" is a song that unites [[Contemporary R&B|R&B]] and [[Soul music|soul]] vocals with a [[Electronic dance music|dance]] beat. The song contains lyrics about Brown forgetting a failed relationship with a woman. "X" received critical praise from [[Music journalism|music critics]], which praised the maturity of the lyrics and his production. Following the release of ''X'', as a result of the strong digital downloads, the song charted on multiple charts worldwide; it peaked at number 98 on the US [[Billboard Hot 100|''Billboard'' Hot 100]], number 26 on the US [[Hot R&B/Hip-Hop Songs]] chart, number 63 on the [[French Singles Chart]], number 12 on the [[UK R&B Singles and Albums Charts|UK Singles R&B Chart]], number 81 on the [[UK Singles Chart]] and number 75 on the [[Australian Singles Chart]].
+
+==Composition and lyrics==
+"X" is a song that unites [[Contemporary R&B|R&B]] and [[Soul music|soul]] vocals with an [[Electronic dance music|EDM]] beat, with an [[instrumentation]] provided by a [[roland TR-808]] and [[synthesizer]]s.<ref>{{Cite web|url=http://hiphopdx.com/reviews/id.2343/title.chris-brown-x|title = Chris Brown - X|date = 15 September 2014}}</ref> In the song Brown sings over a soft beat before transitioning into a more [[up-tempo]] sound.<ref>{{Cite web|url=http://www.xxlmag.com/rap-music/reviews/2014/09/chris-brown-x-album-review/|title=Chris Brown Delivers Standout Hits on 'X' - XXL|date=16 September 2014 }}</ref> In the song, Brown says that he's forgetting a failed relationship with a woman, as he sings, "I swear to god i'm moving on!", admitting his past errors singing "I deal with my pain like a lonely child".<ref>{{Cite web|url=http://www.slantmagazine.com/music/review/chris-brown-x|title = Review: Chris Brown, X|website = [[Slant Magazine]]|date = 13 September 2014}}</ref> Alex Camp of [[Slant Magazine]] speculated that the lyrics were about Brown's former relationship with recording artist Rihanna.<ref>{{Cite web|url=http://www.slantmagazine.com/music/review/chris-brown-x|title = Review: Chris Brown, X|website = [[Slant Magazine]]|date = 13 September 2014}}</ref>
+
+==Reception==
+"X" received critical praise from [[Music journalism|music critics]]. Miranda J. of ''[[XXL (magazine)|XXL]]'' gave a positive review saying that in the song Brown "speaks of maturing and accepts his role in recent events, over the soft beat before transitioning into a more up-tempo sound".<ref>{{Cite web|url=http://www.xxlmag.com/rap-music/reviews/2014/09/chris-brown-x-album-review/|title=Chris Brown Delivers Standout Hits on 'X' - XXL|date=16 September 2014 }}</ref> Brad Wete of ''[[Billboard (magazine)|Billboard]]'' called the song "Brown's most honest song", saying also that "it's safe to say that this is a man who knows he's got to get his life together and has to prove to himself and others".<ref>{{Cite magazine|url=http://www.billboard.com/articles/review/6251517/chris-brown-x-track-by-track-review|title=Chris Brown, 'X': Track-by-Track Review|magazine=[[Billboard (magazine)|Billboard]]}}</ref> ''[[Slant Magazine]]'''s Alexa Camp felt that "X" was "an admirable attempt to take responsibility for his anger-management issues" from Brown, speculating that the lyrics were about Brown's relationship with [[Barbadians|Barbadian]] recording artist [[Rihanna]].<ref>{{Cite web|url=http://www.slantmagazine.com/music/review/chris-brown-x|title = Review: Chris Brown, X|website = [[Slant Magazine]]|date = 13 September 2014}}</ref> Marcus Dowling of ''[[HipHopDX]]'' wrote that "Brown emphatically stating that “[he] swears to god he’s moving on!” is either an amazing kiss-off to well documented on again/off again flame [[Rihanna]].<ref>{{Cite web|url=http://hiphopdx.com/reviews/id.2343/title.chris-brown-x|title = Chris Brown - X|date = 15 September 2014}}</ref>
+
+==Charts==
+
+{|class="wikitable sortable plainrowheaders"
+|+ Chart performance for "X"
+! scope="col"| Chart (2014)
+! scope="col"| Peak<br />position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref>https://webarchive.nla.gov.au/awa/20140905010800/http://pandora.nla.gov.au/pan/23790/20140905-1108/ARIAIssue1279.pdf {{cbignore|bot=medic}}</ref>
+| style="text-align:center;"|75
+|-
+! scope="row"{{single chart|France|63|artist=Brown, Chris|song=X}}
+|-
+! scope="row"| Lebanon ([[The Official Lebanese Top 20|Lebanese Top 20]])<ref name="auto">{{cite web|url=http://www.olt20.com/Chris-Brown#fragment-2|title=The Official Lebanese Top 20 - Chris Brown|publisher=[[The Official Lebanese Top 20]]|access-date=September 20, 2017}}</ref>
+| style="text-align:center;"|9
+|-
+! scope="row"{{single chart|UK|91|artist=Chris Brown|song=X|date=20140927|refname="United Kingdom"}}
+|-
+{{single chart|UKrandb|12|date=2014-27-09|access-date=December 6, 2015|rowheader=true}}
+|-
+! scope="row"{{single chart|Billboardhot100|98|artist=Chris Brown||refname="Billboard Hot One Hundred"}}
+|-
+! scope="row"{{single chart|Billboardrandbhiphop|26|artist=Chris Brown||refname="R&B Hip-Hop"}}
+|-
+|}
+
+==References==
+{{Reflist|2}}
+
+{{Chris Brown singles}}
+
+[[Category:2014 songs]]
+[[Category:Chris Brown songs]]
+[[Category:Songs written by Diplo]]
+[[Category:Songs written by Chris Brown]]
+[[Category:Songs written by Dewain Whitmore Jr.]]
+[[Category:Songs written by Djemba Djemba]]
+[[Category:Songs written by Sevyn Streeter]]

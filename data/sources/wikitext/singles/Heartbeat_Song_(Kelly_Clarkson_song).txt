@@ -1,0 +1,491 @@
+{{Infobox song
+| name       = Heartbeat Song
+| cover      = Kelly Clarkson - Heartbeat Song (Official Single Cover).png
+| alt        = An artwork of a heart made of three-dimensional blocks sliding towards the upward left are printed against a checkered-patterned background, with the word-marks "Kelly Clarkson" and "Heartbeat Song" are printed in front of it.
+| border     = yes
+| type       = single
+| artist     = [[Kelly Clarkson]]
+| album      = [[Piece by Piece (Kelly Clarkson album)|Piece by Piece]]
+| released   = {{Start date|2015|01|12}}
+| recorded   = 2014
+| studio     = Echo Recording Studio, Los Angeles, California
+| venue      =
+| genre      = [[Synth-pop]]
+| length     = 3:18
+| label      = [[RCA Records|RCA]]
+| writer     = {{flat list |
+* [[Mitch Allan]]
+* [[Kara DioGuardi]]
+* [[Jason Evigan]]
+* [[Audra Mae]]
+}}
+| producer   = [[Greg Kurstin]]
+| prev_title = [[Wrapped in Red (song)|Wrapped in Red]]
+| prev_year  = 2014
+| next_title = [[Invincible (Kelly Clarkson song)|Invincible]]
+| next_year  = 2015
+| misc       = {{External music video|{{YouTube|d4_6N-k5VS4|"Heartbeat Song"}}}}
+}}
+
+"'''Heartbeat Song'''" is a song by [[United States|American]] singer [[Kelly Clarkson]] from her seventh studio album, ''[[Piece by Piece (Kelly Clarkson album)|Piece by Piece]]'' (2015). Written by [[Mitch Allan]], [[Audra Mae]], [[Kara DioGuardi]], and [[Jason Evigan]], the song is an uptempo [[synth-pop]] track produced by [[Greg Kurstin]]. Lyrically, it sings of meeting a person who restores someone's faith in love. Inspired by [[1980s music|1980s]] [[synth-pop]] music, "Heartbeat Song" was released by [[RCA Records]] as the album's lead single on January 12, 2015.
+
+"Heartbeat Song" was released to a positive response from music critics, who complimented the song's production and praised Clarkson's decision to return to mainstream pop music. Other critics, however, noted the strong resemblance the song's melody bore to that of Jimmy Eat World's single "[[The Middle (Jimmy Eat World song)|The Middle]]" (2001), which later{{when|date=October 2017}} allowed the band to be credited as additional songwriters.<ref name="ASCAP 1">{{cite web|title=2016 ASCAP Pop Music Awards|url=http://www.ascap.com/eventsawards/awards/popawards/2016/awards-home|publisher=[[ASCAP]]|date=July 24, 2016}}</ref> Commercially, the single debuted on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart at number 37 and has peaked at number 21, marking Clarkson's sixteenth [[top 40]] hit on the chart. It also became her fifth song to top the ''Billboard'' [[Hot Dance Club Songs]] chart and marked as her highest debut among her twenty career entries on the ''Billboard'' [[Adult Top 40]] chart. Internationally, it became a top ten hit single in Austria, Iceland, Poland, Slovenia, South Africa, and the United Kingdom while also becoming a top 20 hit in the national charts of the Czech Republic, Germany, Mexico, Slovakia and Sweden.
+
+Directed by [[Marc Klasfeld]], its accompanying music video features scenes of various downtrodden people and their process of finding love again. Clarkson premiered "Heartbeat Song" in a live televised performance on ''[[The Graham Norton Show]]'' in February 2015 and has performed it on ''[[The Tonight Show Starring Jimmy Fallon]]'' and the [[American Idol (season 14)|fourteenth season]] of ''[[American Idol]]''. The song was nominated for [[Grammy Award for Best Pop Solo Performance|Best Pop Solo Performance]] at the [[58th Annual Grammy Awards]].<ref name="Grammy nods">{{cite web|last1=Gage|first1=Jeff|title=DALLAS GETS GRAMMY NODS WITH LEON BRIDGES, KELLY CLARKSON AND MORE|url=http://www.dallasobserver.com/music/dallas-gets-grammy-nods-with-leon-bridges-kelly-clarkson-and-more-7835700|website=Dallas Observer|date=December 7, 2015}}</ref>
+
+==Background and composition==
+{{listen|pos=right|filename=Kelly Clarkson - Heartbeat Song.ogg|title="Heartbeat Song" (2015)|description=According to [[Audra Mae]], [[Kara DioGuardi]] came up with the lyric "This is my heartbeat song and I'm gonna play it!", as sung by Clarkson in this 27-second sample of "Heartbeat Song".<ref name="Entertainment Tonight 1" />|format=[[Ogg]]|}}
+Shortly after the release of her first Christmas album, ''[[Wrapped in Red]]'' (2013), Clarkson, despite her pregnancy, began to record material for her seventh studio album, with a target release date in 2014.<ref name="WWGP 1" /> One of these tracks, "Heartbeat Song", is an uptempo<ref name="Spin 1" /> [[synthpop]]<ref name="Idolator 2" /> track produced by [[Greg Kurstin]].,<ref name="Billboard 1" /> Lyrically, the song sings of meeting a person who restores someone's faith in love.<ref name="Rolling Stone 1" /> Sonically, ''[[USA Today]]''{{'}}s Brian Mansfeld remarked that the record serves as sonic [[defibrillator]], starting with a jolt of melody, its rhythms shifting a couple times before finally settling into its steady pulse;<ref name="USA Today 1" /> while [[Idolator (website)|Idolator]]'s Bradley Stern described its production as [[Top 40]] radio-friendly and remarked that the track sees Clarkson's pulse raising while falling in love above kicky [[drum]]s, [[guitar]]s and hints of [[synthesizer|synths]].
+
+"Heartbeat Song" was written by [[Mitch Allan]], [[Audra Mae]], [[Kara DioGuardi]], and [[Jason Evigan]] in a two-day session writing camp.<ref name="Entertainment Tonight 1" /> In an interview on ''[[Entertainment Tonight]]'', Mae revealed that DioGuardi came up with the main idea and used it as the song's chorus, with everybody else contributing in.<ref name="Entertainment Tonight 1" /> After pitching the song to different artists, including [[Demi Lovato]],<ref>{{cite web|url=https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch#|title=Heartbeat Song – APRA ID: GW45867329|work=[[Australasian Performing Right Association|APRA]]|access-date=March 25, 2016|archive-date=November 17, 2015|archive-url=https://web.archive.org/web/20151117020448/https://www.apra.com.au/cms/worksearch/worksearch.srvlt?action=workSearch|url-status=dead}}</ref> she later found out during the Christmas season that Clarkson had recorded it and planned to release the song as the album's [[lead single]].<ref name="Entertainment Tonight 1" />
+
+Musically, the song is written in the key of [[G-flat major]] with a fast [[tempo]] of 149 [[beats per minute]].  It follows the chord progression G{{flat}}–B{{flat}}<small>m7</small>–E{{flat}}m–C{{flat}}, and Clarkson's vocals span from G{{flat}}<sub>3</sub> to E{{flat}}<sub>5</sub>.<ref>{{Cite web|title = Kelly Clarkson "Heartbeat Song" Sheet Music - Download & Print|url = http://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0145479|website = www.musicnotes.com|access-date = 2015-08-03|first = Clarkson|last = Kelly|date = 2015-01-16}}</ref>
+
+==Release and reception==
+In January 2015, Clarkson revealed a set of clues for the single, posting the words "Proof of life and [[Dr. Dre]] #[[The Next Episode|TheNextEpisode]] (''[[sic]]'')".<ref name="Daily Mirror 1"/> On January 7, 2015, she announced January 12, 2015, as its release date as a [[Music download|digital download]] by [[RCA Records]],<ref name="Amazon.com 1" /><ref name="Idolator 1"/><ref name="MTV 1" /> followed by a release to [[Contemporary hit radio|Mainstream Top 40]] radio stations in the United States on January 13, 2015.<ref name="FMQB 1" /> A [[CD single]] was also issued by RCA's parent company [[Sony Music Entertainment]] on March 6, 2015.<ref name="Amazon.com 4" />
+
+===Critical response===
+"Heartbeat Song" garnered positive reviews from music critics, with Clarkson's return to mainstream pop music lauded, along with her vocals.<ref name="Billboard 1" /><ref name="Spin 2" /> ''[[Billboard (magazine)|Billboard]]'''s associate editor Jason Lipshutz gave the song 4/5 stars, writing the song's production and vocals sounded invigorated.<ref name="Billboard 1" /> Reviewing for ''[[Rolling Stone]]'', Jon Dylan gave the song a three-and-a-half star rating, describing it as a "warm, fuzzy snuggle-fest."<ref name="Rolling Stone 2" /> In his midweek review for ''[[Spin (magazine)|Spin]]'', assistant editor Brennan Carley wrote that the song is "a Kurstin production that sparkles with new-found passion" and said Clarkson sings a lyric of the chorus with a bubblegum snap.<ref name="Spin 2" /> In his review for music website Popdust.com, Jason Scott gave the song an "A−" grade, saying that song would fit quite nicely to Clarkson's previous studio album ''[[All I Ever Wanted (album)|All I Ever Wanted]]'' (2009).<ref name="Popdust.com 1" /> He also added that despite the song's the chorus isn't quite as "tasty" as what she's capable of, it's just as momentous as her previous singles such as "[[Mr. Know It All (Kelly Clarkson song)|Mr. Know It All]]" (2011) and "[[Breakaway (Kelly Clarkson song)|Breakaway]]" (2004).<ref name="Popdust.com 1" /> Reviewing for ''[[Time (magazine)|Time]]'', Nolan Feeney wrote that "Heartbeat Song" as more of a celebration of that than a hungry comeback, reminding listeners of what Clarkson has so reliably provided over the years, with just a few souped-up adjustments.<ref name="Time 1" /> He also praised Kurstin's production and Clarkson's "arena-ready pipes", describing the song as "slick, sugary and incredibly catchy — everything you want in a pop song, really".<ref name="Time 1" /> The song has been nominated for the Choice Music Single: Female Artist category for the [[2015 Teen Choice Awards]].<ref>{{cite web|url=http://www.teenchoice.com/article/wave-1-nominees|title=Wave 1 Nominees!|work=Teen Choice on FOX|access-date=2015-06-09|archive-url=https://web.archive.org/web/20160414154711/http://www.teenchoice.com/article/wave-1-nominees|archive-date=2016-04-14|url-status=dead}}</ref>
+
+Critics also compared "Heartbeat Song" to [[Jimmy Eat World]]'s single "[[The Middle (Jimmy Eat World song)|The Middle]]" (2001) due to a notable similarity between the melodies of the songs' verses, as well as their choruses.<ref name="Time 2" /> In his review for Idolator, Stern observed both songs' similitude.<ref name="Idolator 3" /> Hunter Hauk of ''[[The Dallas Morning News]]'' also remarked of the two songs' similarities, but was ambivalent of "Heartbeat Song"'s lack of innovation as compared to Clarkson's previous lead singles.<ref name="Dallas Morning News 1" /> Digital Spy rated this song with 2 stars out of 5 and concluded by describing it: "ruthless in its pursuit of earworm status, and like it or not it'll find itself lodged in the inner vestibules of your brain.<ref>[http://www.digitalspy.co.uk/music/feature/a630459/this-weeks-new-singles-reviewed-madonna-george-ezra-nick-jonas.html Review by Digital Spy]. Retrieved 22 February 2015</ref>
+
+===Chart performance===
+On the chart week ending January 31, 2015, "Heartbeat Song" debuted on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart at number 37 with 70,000 copies of digital downloads, becoming her 16th top 40 hit on the chart.<ref name="Billboard 2" /> It also marked as her third highest debut among her 25 career entries, following "[[Never Again (Kelly Clarkson song)|Never Again]]", and "Mr. Know It All", which debuted at number 8 and number 18 respectively.<ref name="Billboard 2" /> On the chart week ending February 21, 2015, it moved to a peak of number 21.<ref name="Billboard 4" /> The song also debuted on other ''Billboard'' charts, including the ''Billboard'' [[Mainstream Top 40]] chart, the ''Billboard'' [[Adult Contemporary (chart)|Adult Contemporary]] chart, the Billboard [[Billboard Twitter Real-Time|Trending 140]] and the ''Billboard'' [[Adult Top 40]] chart, where it entered at number 20, marking a career-high for Clarkson.<ref name="Billboard 2" /> On July 23, 2015, "Heartbeat Song" was certified Platinum by RIAA for selling a million copies.<ref>https://www.riaa.com/goldandplatinumdata.php?artist=%22Heartbeat+Song%22 {{Dead link|date=February 2022}}</ref> In Canada, "Heartbeat Song" debuted on the ''Billboard'' [[Canadian Hot 100]] chart at number 37 on the chart week ending January 31, 2015.<ref name="Nielsen 1" /> In Australia, it entered the [[ARIA Charts|ARIA Singles Chart]] at number 51 on the chart week ending January 26, 2015.<ref name="Chart – AU 1" /> In the United Kingdom, the song debuted at number 7 on the [[UK Singles Chart|Official UK Singles Chart]], becoming Clarkson's ninth song to reach the chart's top 10.<ref name="Chart – UK 1" /> As of April 24, 2016 is sold over 362,000 copies in the United Kingdom.<ref>{{Cite web |last=Myers |first=Justin |date=October 24, 2017 |title=Kelly Clarkson's Top 10 biggest hits on the Official Chart |url=http://www.officialcharts.com/chart-news/kelly-clarksons-official-top-10-biggest-songs-revealed__14576/ |website=[[Official Charts Company|Official Charts]]}}</ref> In addition, "Heartbeat Song" had attained a chart position in the national charts of Austria, Germany, Spain, and Sweden; and has also charted in the airplay charts of Czech Republic, Denmark, the Netherlands, Slovakia.<ref name="Chart – NL 1" />
+
+As of September 2017, the song has sold over 909,000 copies in the US.<ref name="us sales">{{cite magazine|url=https://www.billboard.com/pro/ask-billboard-kelly-clarksons-career-sales-wild-thoughts-about/ |title=Ask Billboard: Kelly Clarkson's Career Sales & 'Wild Thoughts' About Rihanna |first=Gary |last=Trust |magazine=Billboard |publisher=Prometheus Global Media |date=September 10, 2017 |access-date=September 10, 2017}}</ref>
+
+===Awards and nominations===
+At the [[2015 Teen Choice Awards]], "Heartbeat Song" was nominated for Choice Music Single: Female Artist. For the [[58th Annual Grammy Awards]] the song is nominated for [[Best Pop Solo Performance]].<ref name="Grammy nods" /> In 2016 Audra Mae won ASCAP Pop Music Award for co-writing the song.<ref>{{Cite web | url=http://newsok.com/article/5494932 | title=Audra Mae wins ASCAP Pop Music Award for Kelly Clarkson's 'Heartbeat Song'| date=2016-04-29}}</ref> In May 2016, the song won at the [[BMI Awards|64th Annual BMI Pop Awards]].<ref>{{Cite web |date=May 11, 2016 |title=BMI Honors Taylor Swift and Legendary Songwriting Duo Mann & Weil at the 64th Annual BMI Pop Awards |url=http://www.bmi.com/news/entry/2016_bmi_pop_awards |website=[[Broadcast Music, Inc.]]}}</ref>
+
+==Music video==
+On January 26, 2015, RCA released an animated lyric video for "Heartbeat Song", featuring heartbeat graphs of Clarkson and three other radio guests in Nashville using an [[electrocardiography|ECG]] monitor.<ref name="NRJ Germany 1" /><ref name="E Online 1" /> Directed by [[Marc Klasfeld]], its accompanying music video premiered on February 5, 2015, on [[Vevo]].<ref name="Billboard 3" />  It was filmed in [[Nashville, Tennessee]].
+
+===Synopsis===
+The video depicts scenes of various heartbroken people unexpectedly finding a chance to love again.<ref name="Time 2" /><ref name="Yahoo 1" /> These scenes are inter-cut with footage of Clarkson performing the track in a colorful background.<ref name="MTV 2" /><ref name="Spin 3" /> Upon its premiere, the video had received a generally positive response, with mild criticism targeting a scene depicting a couple kissing through the opposite seating sides of a bench.<ref name="Time 2" /><ref name="MTV 2" /> In his coverage for ''Spin'', Carley remarked that there are some surprisingly deep moments tracing the journey from loss to happiness in the video.<ref name="Spin 3" /> Reviewing for [[Yahoo! Music]], senior editor Wendy Geller wrote that despite the video's concept may sound hokey, but the idea that life can change from dark to light in an instant (couple with Clarkson's buoyant vocals) is irresistible.<ref name="Yahoo 1" />
+
+==Live performances==
+Clarkson premiered "Heartbeat Song" in a live televised performance on the British television programs ''[[The Graham Norton Show]]'' on February 20, 2015, and ''[[Loose Women]]'' on March 2, 2015.<ref name="British Comedy Guide 1" /> She also performed the song on ''[[The Tonight Show Starring Jimmy Fallon]]'' on March 2, 2015, ''[[Good Morning America]]'' on March 3, 2015, [[2nd iHeartRadio Music Awards|iHeartRadio Music Awards]] on March 29, 2015, and on ''[[The Ellen DeGeneres Show]]'', on April 3, 2015. On April 2, 2015, Clarkson performed the song on the [[American Idol (season 14)|fourteenth season]] of ''[[American Idol]]'' where she was also the guest mentor for the top 8 as part of the "Evening with Kelly Clarkson" week. Clarkson performed the song in a medley with "[[Since U Been Gone]]" and "[[Stronger (What Doesn't Kill You)]]" on the [[La Voix (season 3)|season three]] finale of ''[[La Voix]]'' in Montreal on April 12, 2015. Additionally, Clarkson performed the song at the Summertime Ball hosted by Capital FM on June 6, 2015. In July 2015, Clarkson performed the song on ''[[Macy's 4th of July Fireworks|Macy's 4th of July Spectacular]]'' on [[NBC]].
+
+==Track listing==
+{{Track listing
+| all_writing = Kara DioGuardi, Audra Mae, Jason Evigan, Mitch Allan
+| headline = Digital download<ref name="Amazon.com 1" />
+| title1   = Heartbeat Song
+| length1  = {{Duration|m=3|s=18}}
+}}
+{{Track listing
+| headline = CD<ref name="Amazon.com 4" />
+| title1   = Heartbeat Song
+| length1  = {{Duration|m=3|s=18}}
+| title2   = Heartbeat Song
+| note2    = Lenno Remix
+| length2  = {{Duration|m=3|s=16}}
+}}
+{{Track listing
+| headline = Digital download – Didrick Remix<ref name="Amazon.com 6" />
+| title1   = Heartbeat Song
+| note1    = Didrick Remix
+| length1  = {{Duration|m=3|s=15}}
+}}
+
+{{Track listing
+| headline = Digital download – The Remixes EP<ref name="Amazon.com 5" /><ref>{{cite web|url=https://music.apple.com/us/album/heartbeat-song-the-remixes-ep/969661805|title=Heartbeat Song (The Remixes) - EP by Kelly Clarkson|work=[[iTunes Store]]s|date=24 February 2015 |publisher=[[Apple, Inc.|Apple Inc]]|access-date=November 1, 2015}}</ref>
+| title1   = Heartbeat Song
+| note1    = Lenno Remix
+| length1  = {{Duration|m=3|s=17}}
+| title2   = Heartbeat Song
+| note2    = [[Dave Audé]] Radio Mix
+| length2  = {{Duration|m=3|s=48}}
+| title3   = Heartbeat Song
+| note3    = Frank Pole Radio Mix
+| length3  = {{Duration|m=3|s=24}}
+| title4   = Heartbeat Song
+| note4    = Nebuer Remix
+| length4  = {{Duration|m=3|s=56}}
+| title5   = Heartbeat Song
+| note5    = Ikon Radio Mix
+| length5  = {{Duration|m=3|s=18}}
+| title6   = Heartbeat Song
+| note6    = Skrux Remix
+| length6  = {{Duration|m=4|s=34}}
+}}
+
+==Credits and personnel==
+Credits adapted from the "Heartbeat Song" [[metadata]].<ref name="Liner notes – Heartbeat Song"/>
+
+'''Personnel'''
+*Kelly Clarkson – all vocals
+*John Denosky –  [[Engineering (music)|engineering]]
+*Chris Dye – engineering
+*Greg Kurstin –  [[Bass guitar|bass]], engineering, recording, [[guitar]], [[keyboard instrument|keyboard]]s, [[record production|production]], [[programming (music)|programming]]
+*Alex Pasco – recording
+*Serban Ghenea – [[Mixing (music production)|mixing]]
+*John Hanes – [[mixing engineer]]
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Weekly chart performance for "Heartbeat Song"
+! scope="col"| Chart (2015)
+! scope="col"| Peak<br />position
+|-
+{{single chart|Australia|29|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 28, 2015}}
+|-
+{{single chart|Austria|8|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Flanders Tip|7|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Wallonia Tip|6|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardcanadianhot100|23|artist=Kelly Clarkson|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardcanadaac|4|artist=Kelly Clarkson|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardcanadachrtop40|37|artist=Kelly Clarkson|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardcanadahotac|9|artist=Kelly Clarkson|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Czech Republic|25|year=2015|week=10|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Czechdigital|12|year=2015|week=11|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Denmark Airplay|16|artist=Kelly Clarkson|year=2015|week=3|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardeurodigital|8|artist=Kelly Clarkson|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Finnishairplay|43|artist=Kelly Clarkson|year=2015|week=7|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|France|84|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=April 4, 2015}}
+|-
+{{single chart|Germany|16|artist=Kelly Clarkson|song=Heartbeat Song|songid=1375807|rowheader=true|access-date=October 29, 2018}}
+|-
+! scope="row"| Hong Kong ([[Hong Kong Recording Industry Alliance|HKRIA]])<ref>{{cite web|url=http://musicweekly.asia/charts/top-30-singles-hong-kong |title=Top 30 Singles Chart Hong Kong |publisher=[[Hong Kong Recording Industry Alliance]] |date=March 22, 2015 |access-date=March 9, 2025 |url-status=unfit |archive-url=https://web.archive.org/web/20150322011751/http://musicweekly.asia/charts/top-30-singles-hong-kong |archive-date=22 March 2015 }}</ref>
+| 29
+|-
+! scope="row"| Hungary ([[Association of Hungarian Record Companies|Editors' Choice Top 40]])<ref>{{cite web |title=2015/20. heti Editors' Choice Top 40 slágerlista |url=https://slagerlistak.hu/editors-choice-radios-jatszasi-lista/2015/20 |publisher=[[Association of Hungarian Record Companies|MAHASZ]]|language=hu|access-date=June 19, 2025}}</ref>
+| 20
+|-
+! scope="row"|Hungary ([[Mahasz|Stream Top 40]])<ref name="Chart – HU 1" />
+| 23
+|-
+!scope="row"|Iceland ([[RÚV]])<ref>{{cite web|url=http://www.ruv.is/persona/kelly-clarkson|publisher=[[RÚV]]|title= Kelly Clarkson Chart History|work=RÚV | access-date=July 12, 2017|date=2016-04-11}}</ref>
+| 6
+|-
+{{single chart|Ireland|23|artist=Kelly Clarkson|song=Heartbeat Song|year=2015|week=11|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Italy|89|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardjapanhot100|78|artist=Kelly Clarkson|rowheader=true|access-date=April 10, 2015}}
+|-
+!scope="row" |Japan Hot Overseas (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=http://www.billboard-japan.com/charts/detail?a=d_and_a_overseas&year=2015&month=04&day=13 |title=Hot Overseas |work=[[Billboard Japan]] |date=April 13, 2015 |access-date=September 29, 2019}}</ref>
+|style="text-align:center;"|11
+|-
+!scope="row" |Japan [[Adult Contemporary]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=http://www.billboard-japan.com/charts/detail?a=adult_airplay&year=2015&month=04&day=13 |title=Adult Contemporary Airplay |work=[[Billboard Japan]] |date=April 13, 2015 |access-date=September 29, 2019}}</ref>
+|style="text-align:center;"|12
+|-
+! scope="row"|[[Mexican Airplay|Mexico Inglés Airplay]] (''[[Billboard (magazine)|Billboard]]'')<ref name="Chart – MX 1" />
+| 16
+|-
+! scope="row"|Netherlands ([[MegaCharts#Tipparade|Dutch Top 40 Tipparade]])<ref name="Chart – NL 1" />
+| 3
+|-
+{{single chart|Dutch100|71|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|New Zealand|21|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 6, 2015}}
+|-
+{{single chart|Poland|10|chartid=1588|year=2015|access-date=March 30, 2015|rowheader=true}}
+|-
+! scope="row"| Poland ([[Polish Music Charts|Polish Airplay New]])<ref>{{cite web|url=http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2015&typ=nowosci&idlisty=1564#title|archive-url=https://web.archive.org/web/20150402193329/http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2015&typ=nowosci&idlisty=1564#title|url-status=dead|archive-date=April 2, 2015|title=Listy bestsellerów, wyróżnienia :: Związek Producentów Audio-Video|publisher=[[Polish Music Charts|Polish Airplay New]]|access-date=26 February 2015}}</ref>
+| 1
+|-
+{{single chart|Scotland|3|date=2015-03-01|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Slovakia|14|year=2015|week=14|rowheader=true|access-date=April 8, 2015}}
+|-
+{{single chart|Slovakdigital|19|year=2015|week=13|rowheader=true|access-date=April 8, 2015}}
+|-
+! scope="row"| Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=18|title=SloTop50 – Slovenian official singles chart|publisher=slotop50.si|access-date=26 February 2018|archive-date=6 January 2018|archive-url=https://web.archive.org/web/20180106063634/http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2015&week=18|url-status=dead}}</ref>
+| align=center|10
+|-
+{{single chart|South Africa|4|date=2015-03-24|rowheader=true|access-date=September 17, 2015}}
+|-
+! scope="row"|South Korea International Singles ([[Gaon Chart|Gaon]])<ref name="Chart – KR 1" />
+| 7
+|-
+{{single chart|Spain|36|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 20, 2015}}
+|-
+{{single chart|Sweden|20|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Switzerland|24|artist=Kelly Clarkson|song=Heartbeat Song|rowheader=true|access-date=March 8, 2015}}
+|-
+{{single chart|UK|7|date=2015-03-01|rowheader=true|access-date=March 4, 2015}}
+|-
+{{single chart|Billboardhot100|21|artist=Kelly Clarkson|rowheader=true|access-date=March 12, 2015}}
+|-
+{{single chart|Billboardadultcontemporary|2|artist=Kelly Clarkson|rowheader=true|access-date=May 7, 2015}}
+|-
+{{single chart|Billboardadultpopsongs|6|artist=Kelly Clarkson|rowheader=true|access-date=April 2, 2015}}
+|-
+{{single chart|Billboarddanceclubplay|1|artist=Kelly Clarkson|rowheader=true|access-date=April 30, 2015}}
+|-
+{{single chart|Billboardpopsongs|19|artist=Kelly Clarkson|rowheader=true|access-date=April 2, 2015}}
+|}
+
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+2015 year-end chart performance for "Heartbeat Song"
+! scope="col"| Chart (2015)
+! scope="col"| Position
+|-
+! scope="row"| Austria ([[Ö3 Austria Top 40]])<ref>{{cite web|title=Ö3 Austria Top 40 - Single Charts 2015|url=http://oe3.orf.at/charts/stories/2749413/|publisher=[[Ö3 Austria Top 40]]|access-date=10 December 2015|archive-url=https://web.archive.org/web/20161228174302/http://oe3.orf.at/charts/stories/2749413/|archive-date=28 December 2016|url-status=dead}}</ref>
+| 71
+|-
+! scope="row"| Canada ([[Canadian Hot 100]])<ref>{{cite magazine|title=Canadian Hot 100 : Year End 2015|url=http://www.billboard.com/charts/year-end/2015/canadian-hot-100|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=10 December 2015}}</ref>
+| 82
+|-
+! scope="row"| Germany ([[GfK Entertainment|Official German Charts]])<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2015 |title=Top 100 Single-Jahrescharts|language=de |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=6 January 2016}}</ref>
+| 95
+|-
+! scope="row"|Slovenia (SloTop50)<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|title=SloTop50: Slovenian official year end singles chart|publisher=slotop50.si|access-date=31 December 2016|archive-date=30 June 2017|archive-url=https://web.archive.org/web/20170630022441/http://www.slotop50.si/Glasbene-lestvice/Letne-lestvice/?year=2015|url-status=dead}}</ref> 
+| 23
+|-
+! scope="row"| UK Singles ([[UK Singles Chart|Official Charts Company]])<ref>{{cite web|title=2015 End of Year Singles Chart|url=http://www.officialcharts.com/charts/end-of-year-singles-chart/
+|publisher=[[Official Charts Company]]|access-date=19 January 2016}}</ref>
+| 90
+|-
+! scope="row"| US [[Billboard Year-End Hot 100 singles of 2015|''Billboard'' Hot 100]]<ref>{{cite magazine|title=Hot 100 Songs : Year End 2015|url=http://www.billboard.com/charts/year-end/2015/hot-100-songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=10 December 2015}}</ref>
+| 91
+|-
+! scope="row"| US [[Adult Contemporary (chart)|Adult Contemporary]] (''Billboard'')<ref>{{cite magazine|title=Adult Contemporary Songs : Year End 2015|url=http://www.billboard.com/charts/year-end/2015/adult-contemporary-songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=10 December 2015}}</ref>
+| 8
+|-
+! scope="row"| US [[Adult Top 40]] (''Billboard'')<ref>{{cite magazine|title=Adult Pop Songs : Year End 2015|url=http://www.billboard.com/charts/year-end/2015/adult-pop-songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=10 December 2015}}</ref>
+| 19
+|-
+! scope="row"| US [[Dance Club Songs]] (''Billboard'')<ref>{{cite magazine|title=Dance Club Songs : Year End 2015|url=http://www.billboard.com/charts/year-end/2015/dance-club-songs|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=10 December 2015}}</ref>
+| 46
+|-
+|}
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top|caption=Sales and certifications for "Heartbeat Song"}}
+{{Certification Table Entry|region=Australia|digital=true|title=Heartbeat Song|artist=Kelly Clarkson|type=single|award=Gold|relyear=2015|certyear=2015}}
+{{Certification Table Entry|region=Germany|artist=Kelly Clarkson|title=Heartbeat Song|award=Gold|type=single|relyear=2015|certyear=2023|access-date=February 17, 2023}}
+{{Certification Table Entry|title=Heartbeat Song|artist=Kelly Clarkson|type=single|region=New Zealand|award=Platinum|source=radioscope|access-date=2026-02-06|relyear=2015|certyear=2024}}
+{{Certification Table Entry|region=Norway|title=Heartbeat Song|artist=Kelly Clarkson|type=single|award=Gold|relyear=2015|certyear=2015}}
+{{Certification Table Entry|region=Sweden|title=Heartbeat Song|artist=Kelly Clarkson|type=single|award=Platinum|relyear=2015|certyear=2015|certweek=17}}
+{{Certification Table Entry|region=United Kingdom|title=Heartbeat Song|artist=Kelly Clarkson|type=single|award=Platinum|relyear=2015|certyear=2024|id=13225-1808-1}}
+{{Certification Table Entry|region=United States|title=Heartbeat Song|artist=Kelly Clarkson|type=single|award=Platinum|relyear=2015|certyear=2015}}
+{{Certification Table Bottom|nosales=true|streaming=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|+List of release dates, showing region, release format, label catalog number, and reference
+|- 
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format(s)
+! scope="col"| Label
+! scope="col"| Catalog number
+! scope="col"| Ref
+|-
+! scope="row" | Worldwide
+| rowspan="2" | {{Start date|2015|01|12}}
+| rowspan="2" | [[Music download|Digital download]]
+| [[Sony Music Entertainment|Sony Music]]
+| rowspan="2" | GBCTA1400065
+| {{center|<ref name="Amazon.com 2" />}}
+|-
+! scope="row" rowspan="2" | United States
+| rowspan="3" | [[RCA Records|RCA]]
+| {{center|<ref name="Amazon.com 1" />}}
+|-
+| {{Start date|2015|01|13}}
+| Mainstream [[contemporary hit radio]]
+| {{n/a}}
+| {{center|<ref name="FMQB 1" />}}
+|-
+! scope="row" | United Kingdom
+| {{Start date|2015|02|22}}
+| Digital download
+| GBCTA1400065
+| {{center|<ref name="Amazon.com 3" />}}
+|-
+! scope="row" | Worldwide
+| {{Start date|2015|02|24}}
+| Digital download – The Remixes EP
+| rowspan="3"| Sony Music
+| 886445111613
+| {{center|<ref name="Amazon.com 5" />}}
+|-
+! scope="row" | Europe
+| {{Start date|2015|03|06}}
+| [[CD single|CD]]
+| 88875079082
+| {{center|<ref name="Amazon.com 4" />}}
+|-
+! scope="row" | Worldwide
+| {{Start date|2015|03|11}}
+| Digital download – Didrick Remix
+| GBCTA1500034
+| {{center|<ref name="Amazon.com 6" />}}
+|}
+
+==See also==
+* [[List of UK top 10 singles in 2015]]
+* [[List of number-one dance singles of 2015 (U.S.)]]
+
+==References==
+{{reflist|30em|refs=
+<ref name="Liner notes – Heartbeat Song">
+{{cite AV media notes |title=''"Heartbeat Song"'' |others=Kelly Clarkson |year=2015 |publisher=[[19 Recordings|19 Recordings Limited]] under exclusive license to [[RCA Records]] |id=GBCTA1400065 |type=booklet}}
+</ref>
+<ref name="Billboard 1">
+{{cite news |url=http://www.billboard.com/articles/review/6436441/kelly-clarkson-heartbeat-song-single-review |archive-url=https://web.archive.org/web/20150207164909/http://www.billboard.com/articles/review/6436441/kelly-clarkson-heartbeat-song-single-review |title=Kelly Clarkson Returns in Style on 'Heartbeat Song': Single Review |first=Jason |last=Lipshutz |magazine=[[Billboard (magazine)|Billboard]] |location=New York |date=January 12, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Billboard 2">
+{{cite news |url=https://www.billboard.com/pro/hot-100-chart-kelly-clarkson-heartbeat-song-debuts/ |archive-url=https://web.archive.org/web/20150128083233/http://www.billboard.com/articles/columns/chart-beat/6450394/hot-100-chart-kelly-clarkson-heartbeat-song-debuts |title=Hot 100 Chart Moves: Kelly Clarkson's 'Heartbeat Song' Debuts in Top 40 |first=Gary |last=Trust |magazine=Billboard |date=January 23, 2015 |access-date=January 28, 2015 |url-status=live |archive-date=January 28, 2015}}
+</ref>
+<ref name="Billboard 3">
+{{cite news |url=https://www.billboard.com/music/pop/kelly-clarkson-heartbeat-song-music-video-6465257/ |archive-url=https://web.archive.org/web/20150207201337/http://www.billboard.com/articles/columns/pop-shop/6465257/kelly-clarkson-heartbeat-song-music-video |title=Watch Kelly Clarkson's New 'Heartbeat Song' Video, Then Go Out & Find Love |first=Chris |last=Payne |magazine=Billboard |date=February 5, 2015 |access-date=February 7, 2015 |url-status=live |archive-date=February 7, 2015}}
+</ref>
+<ref name="Billboard 4">
+{{cite news |url=http://www.billboard.com/charts/hot-100 |title=The Billboard Hot 100: March 21, 2015 |magazine=Billboard |date=March 21, 2015 |access-date=March 12, 2015}}
+</ref>
+<ref name="Nielsen 1">
+{{cite web |url=https://dl.dropboxusercontent.com/u/67270545/Canadian%20Newsletters/2015/nielsen_music_canadian_update_Jan21_2015.pdf |archive-url=https://web.archive.org/web/20160304050425/https://dl.dropboxusercontent.com/u/67270545/Canadian%20Newsletters/2015/nielsen_music_canadian_update_Jan21_2015.pdf |title=Nielsen Music Canadian Update |first=Paul |last=Tuch |publisher=[[Nielsen Broadcast Data Systems]]/Prometheus Global Media |date=January 21, 2015 |access-date=February 7, 2015 |url-status=dead |archive-date=March 4, 2016}}
+</ref>
+<ref name="Entertainment Tonight 1">
+{{cite news |url=http://www.etonline.com/music/156211_q_a_with_kelly_clarkson_and_miranda_lambert_her_corner_songwriter_audra_mae_is_having_a_moment/ |archive-url=https://web.archive.org/web/20150207165304/http://www.etonline.com/music/156211_q_a_with_kelly_clarkson_and_miranda_lambert_her_corner_songwriter_audra_mae_is_having_a_moment/ |title=Q&A: With Kelly Clarkson and Miranda Lambert in Her Corner, Songwriter Audra Mae Is Having a Moment |first=Sophie |last=Schillaci |work=[[Entertainment Tonight]] |publisher=[[CBS Television Distribution]] |date=January 13, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="WWGP 1">
+{{cite web |url=http://www.wwgp1050.com/2014/02/03/kelly-clarkson-looking-to-release-next-album-later-this-year/ |archive-url=https://web.archive.org/web/20150128073257/http://www.wwgp1050.com/2014/02/03/kelly-clarkson-looking-to-release-next-album-later-this-year/ |title=Kelly Clarkson Looking to Release Next Album Later This Year |website=[[ABC News Radio]] |publisher=[[WWGP|WWGP Broadcasting Corporation]] |date=February 3, 2014 |access-date=January 28, 2015 |archive-date=January 28, 2015}}
+</ref>
+<ref name="Daily Mirror 1">
+{{cite journal |url=https://www.mirror.co.uk/3am/celebrity-news/kelly-clarkson-teases-new-single-4924725 |archive-url=https://web.archive.org/web/20150108171646/http://www.mirror.co.uk/3am/celebrity-news/kelly-clarkson-teases-new-single-4924725 |title=Kelly Clarkson teases new single as she says: "I'm gonna be the most amazing rapper you've ever heard" |first=Claire |last=Rutter |journal=[[Daily Mirror]] |date=January 5, 2015 |access-date=January 8, 2015 |archive-date=January 8, 2015}}
+</ref>
+<ref name="Spin 1">
+{{cite web |url=https://www.spin.com/2015/01/kelly-clarkson-heartbeat-song-stream/ |archive-url=https://web.archive.org/web/20150128082627/https://www.spin.com/2015/01/kelly-clarkson-heartbeat-song-stream/ |title=Kelly Clarkson Pours Out Her 'Heartbeat Song' |first=Brennan |last=Carley |work=[[Spin (magazine)|Spin]]  |date=January 12, 2015 |access-date=January 28, 2015 |archive-date=January 28, 2015}}
+</ref>
+<ref name="Spin 2">
+{{cite web |url=https://www.spin.com/2015/01/spin-singles-mix-waxahatchee-kelly-clarkson-a-place-to-bury-strangers-matthew-e-white/ |archive-url=https://web.archive.org/web/20150121094739/https://www.spin.com/2015/01/spin-singles-mix-waxahatchee-kelly-clarkson-a-place-to-bury-strangers-matthew-e-white/ |title=Spin Singles Mix: Waxahatchee Breathes 'Air,' Kelly Clarkson Sings 'Heartbeat Song,' and More |work=Spin |date=January 14, 2015 |access-date=January 21, 2015 |archive-date=January 21, 2015}}
+</ref>
+<ref name="Spin 3">
+{{cite web |url=https://www.spin.com/2015/02/kelly-clarkson-heartbeat-song-video/ |archive-url=https://web.archive.org/web/20150207202256/https://www.spin.com/2015/02/kelly-clarkson-heartbeat-song-video/ |title=Kelly Clarkson Learns to Love Again in 'Heartbeat Song' Video |first=Brennan |last=Carley |work=Spin |date=February 5, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Idolator 1">
+{{cite web |url=http://www.idolator.com/7576023/kelly-clarkson-teases-comeback-heartbeat-song-due-out-january-12 |archive-url=https://archive.today/20150108125350/http://www.idolator.com/7576023/kelly-clarkson-teases-comeback-heartbeat-song-due-out-january-12 |title=Kelly Clarkson Teases Comeback "Heartbeat Song," Due Out January 12 |first=Bradley |last=Stern |work=[[Idolator (website)|Idolator]]  |date=January 7, 2015 |access-date=January 8, 2015 |archive-date=January 8, 2015}}
+</ref>
+<ref name="Idolator 2">
+{{cite web |url=http://www.idolator.com/7579689/kelly-clarkson-teases-her-romantic-heartbeat-song-video-watch-a-preview |archive-url=https://archive.today/20150207173924/http://www.idolator.com/7579689/kelly-clarkson-teases-her-romantic-heartbeat-song-video-watch-a-preview |title=Kelly Clarkson Teases Her Romantic 'Heartbeat Song' Video: Watch A Preview |first=Mike |last=Wass |work=Idolator  |date=February 4, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Idolator 3">
+{{cite web |url=http://www.idolator.com/7576473/kelly-clarkson-heartbeat-song-listen |archive-url=https://archive.today/20150113120857/http://www.idolator.com/7576473/kelly-clarkson-heartbeat-song-listen |title=Kelly Clarkson Teases Comeback "Heartbeat Song," Due Out January 12 |first=Bradley |last=Stern |work=Idolator  |date=January 12, 2015 |access-date=January 13, 2015 |archive-date=January 13, 2015}}
+</ref>
+<ref name="Time 1">
+{{cite magazine |url=https://time.com/3663940/kelly-clarkson-heartbeat-song/ |archive-url=https://web.archive.org/web/20150128074911/http://time.com/3663940/kelly-clarkson-heartbeat-song/ |title=Listen to Kelly Clarkson's Bold New Single, 'Heartbeat Song' |first=Nolan |last=Feeney |magazine=[[Time (magazine)|Time]]  |date=January 12, 2015 |access-date=January 28, 2015 |url-status=live |archive-date=January 28, 2015}}
+</ref>
+<ref name="Time 2">
+{{cite magazine |url=https://time.com/3697481/kelly-clarkson-heartbeat-song-video/ |archive-url=https://web.archive.org/web/20150207201708/http://time.com/3697481/kelly-clarkson-heartbeat-song-video/ |title=Watch Some Really, Really Sad People Find Love Again in Kelly Clarkson's New Music Video |first=Nolan |last=Feeney |magazine=Time |date=February 5, 2015 |access-date=February 7, 2015 |url-status=live |archive-date=February 7, 2015}}
+</ref>
+<ref name="USA Today 1">
+{{cite web |url=https://www.usatoday.com/story/life/music/2015/01/12/kelly-clarkson-heartbeat-song-listen-up-song-of-the-week/21516145/ |archive-url=https://web.archive.org/web/20150119041254/http://www.usatoday.com/story/life/music/2015/01/12/kelly-clarkson-heartbeat-song-listen-up-song-of-the-week/21516145/ |title=Song of the Week: Kelly Clarkson's 'Heartbeat Song' |first=Brian |last=Mansfield |work=[[USA Today]]  |date=January 12, 2015 |access-date=February 7, 2015 |url-status=live |archive-date=January 19, 2015}}
+</ref>
+<ref name="Rolling Stone 1">
+{{cite magazine |url=https://www.rollingstone.com/music/videos/hear-kelly-clarkson-new-heartbeat-song-20150112 |archive-url=https://web.archive.org/web/20150207210504/http://www.rollingstone.com/music/videos/hear-kelly-clarkson-new-heartbeat-song-20150112 |title=Hear Kelly Clarkson's Pulse-Racing New 'Heartbeat Song' |first=Daniel |last=Kreps |magazine=[[Rolling Stone]]  |date=January 12, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Rolling Stone 2">
+{{cite magazine |url=https://www.rollingstone.com/music/songreviews/kelly-clarkson-heartbeat-song-20150123 |archive-url=https://web.archive.org/web/20150207173127/http://www.rollingstone.com/music/songreviews/kelly-clarkson-heartbeat-song-20150123 |title=Kelly Clarkson: "Heartbeat Song" Song Review |first=Jon |last=Dylan |magazine=Rolling Stone  |date=January 23, 2015 |access-date=February 7, 2015 |url-status=dead |archive-date=February 7, 2015}}
+</ref>
+<ref name="FMQB 1">
+{{cite web |url=http://www.fmqb.com/Article.asp?id=16691 |archive-url=https://web.archive.org/web/20150109103315/http://www.fmqb.com/Article.asp?id=16691 |title=Available for Airplay: FMQB: Radio Industry News, Music Industry Updates, Nielsen Ratings, Music News and more |website=FMQB |publisher=Friday Morning Quarterback Album Report, Inc. |date=January 9, 2015 |access-date=January 9, 2015 |archive-date=January 9, 2015}}
+</ref>
+<ref name="Dallas Morning News 1">
+{{cite news |url=http://popcultureblog.dallasnews.com/2015/01/how-does-kelly-clarksons-heartbeat-song-compare-to-her-other-albums-lead-singles.html/ |archive-url=https://web.archive.org/web/20150118235035/http://popcultureblog.dallasnews.com/2015/01/how-does-kelly-clarksons-heartbeat-song-compare-to-her-other-albums-lead-singles.html/ |title=How does Kelly Clarkson's 'Heartbeat Song' compare to her other albums' lead singles? |first=Hunter |last=Hauk |work=[[Dallas Morning News]] |publisher=[[DallasNews Corporation|A. H. Belo Corporation]] |date=January 15, 2015 |access-date=January 18, 2015 |archive-date=January 18, 2015}}
+</ref>
+<ref name="Popdust.com 1">
+{{cite web |url=http://popdust.com/2015/01/12/kelly-clarkson-heartbeat-song-single-review/ |title=The Singles Bar—Kelly Clarkson Reclaims Pop Dominance With 'Heartbeat Song' |first=Jason |last=Scott |website=Popdust.com |publisher=Popdust.com, Inc. |date=January 12, 2015 |access-date=February 7, 2015 }}
+</ref>
+<ref name="Yahoo 1">
+{{cite web|url=https://www.yahoo.com/music/kelly-clarksons-heartbeat-song-will-make-you-110169873171.html |archive-url=https://web.archive.org/web/20150207203449/https://www.yahoo.com/music/kelly-clarksons-heartbeat-song-will-make-you-110169873171.html |title=Kelly Clarkson's 'Heartbeat Song' Will Make You Believe in Love... Again! |first=Wendy |last=Geller |publisher=[[Yahoo! Music]] |date=February 6, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="MTV 1">
+{{cite web|url=http://www.mtv.com/news/2044417/kelly-clarksons-daughter-reveals-teaser-heartbeat-song-single/ |archive-url=https://web.archive.org/web/20150110082820/http://www.mtv.com/news/2044417/kelly-clarksons-daughter-reveals-teaser-heartbeat-song-single/ |title=Kelly Clarkson's Baby Reveals First Teaser To 'Heartbeat Song' And It's The Cutest Thing. Ever. |first=Christina |last=Garibaldi |publisher=[[MTV]] |date=January 9, 2015 |access-date=January 9, 2015 |archive-date=January 10, 2015}}
+</ref>
+<ref name="MTV 2">
+{{cite web|url=http://www.mtv.com/news/2070469/kelly-clarkson-heartbeat-song-video/ |archive-url=https://web.archive.org/web/20150207202002/http://www.mtv.com/news/2070469/kelly-clarkson-heartbeat-song-video/ |title=Kelly Clarkson Is All About Love In Her New 'Heartbeat Song' Video |first=Madeline |last=Roth |publisher=MTV |date=February 5, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="NRJ Germany 1">
+{{cite web |url=http://www.energy.de/musik/lesen/article/single-kelly-clarkson-heartbeat-song/ |archive-url=https://web.archive.org/web/20150207194944/http://www.energy.de/musik/lesen/article/single-kelly-clarkson-heartbeat-song/ |title=Single: Kelly Clarkson – Heartbeat Song |work=RADIO ENERGY.de |language=de |location=Germany |publisher=[[NRJ Group]] |date=January 28, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="British Comedy Guide 1">
+{{cite news|url=http://www.comedy.co.uk/guide/tv/graham_norton_show/episodes/16/21/ |archive-url=https://web.archive.org/web/20150207203924/http://www.comedy.co.uk/guide/tv/graham_norton_show/episodes/16/21/ |title=Episode 16.19 – Richard Gere, Celia Imrie, Kelly Clarkson |work=[[The Graham Norton Show]] |publisher=[[British Comedy Guide]] |date=February 20, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="E Online 1">
+{{cite news|url=http://www.eonline.com/news/611014/kelly-clarkson-reveals-new-album-and-tour-is-coming-soon-reminds-fans-she-needed-time-with-her-baby |archive-url=https://web.archive.org/web/20150127131415/http://www.eonline.com/news/618768/kelly-clarkson-s-next-album-gets-a-release-date-plus-go-behind-the-scenes-of-the-lyric-video-for-heartbeat-song-watch-now |title=Kelly Clarkson's Next Album Gets a Release Date, Plus Go Behind the Scenes of the Lyric Video for ''Heartbeat Song'' — Watch Now! |first=Natalie |last=Finn |publisher=[[E!]] |date=January 26, 2015 |access-date=January 27, 2015 |archive-date=January 27, 2015}}
+</ref>
+<ref name="Amazon.com 1">
+{{cite web|url=https://www.amazon.com/Heartbeat-Song-Kelly-Clarkson/dp/B00S0FG3JE |archive-url=https://web.archive.org/web/20150207185548/http://www.amazon.com/Heartbeat-Song-Kelly-Clarkson/dp/B00S0FG3JE |title=Heartbeat Song – Single by Kelly Clarkson |website=Amazon |location=United States |date=January 12, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Amazon.com 2">
+{{cite web |url=https://www.amazon.de/Heartbeat-Song/dp/B00S1OQW0E |archive-url=https://web.archive.org/web/20150207185252/http://www.amazon.de/Heartbeat-Song/dp/B00S1OQW0E |title=Heartbeat Song – Single von Kelly Clarkson |website=Amazon Germany |language=de |location=Germany |date=January 12, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Amazon.com 3">
+{{cite web |url=https://www.amazon.co.uk/gp/product/B00S668EQC/ |archive-url=https://web.archive.org/web/20150207185815/http://www.amazon.co.uk/gp/product/B00S668EQC/ |title=Heartbeat Song – Single by Kelly Clarkson |website=Amazon UK |location=United Kingdom |date=February 22, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Amazon.com 4">
+{{cite web |url=https://www.amazon.de/Heartbeat-Song-Clarkson-Kelly/dp/B00TAEAEBM |archive-url=https://web.archive.org/web/20150207190015/http://www.amazon.de/Heartbeat-Song-Clarkson-Kelly/dp/B00TAEAEBM |title=Heartbeat Song – CD single von Kelly Clarkson |website=Amazon Germany |language=de |location=Germany |date=March 6, 2015 |access-date=February 7, 2015 |archive-date=February 7, 2015}}
+</ref>
+<ref name="Amazon.com 5">
+{{cite web |url=https://www.amazon.de/Heartbeat-Song-Remixes-Kelly-Clarkson/dp/B00TZIJAAY |archive-url=https://web.archive.org/web/20150226142231/http://www.amazon.de/Heartbeat-Song-Remixes-Kelly-Clarkson/dp/B00TZIJAAY |title=Heartbeat Song (The Remixes) – EP von Kelly Clarkson |website=Amazon Germany |language=de |location=Germany |date=February 24, 2015 |access-date=February 26, 2015 |archive-date=February 26, 2015}}
+</ref>
+<ref name="Amazon.com 6">
+{{cite web |url=https://www.amazon.de/Heartbeat-Didrick-Remix-Kelly-Clarkson/dp/B00UP8XVB2/ |archive-url=https://web.archive.org/web/20150322010431/http://www.amazon.de/Heartbeat-Didrick-Remix-Kelly-Clarkson/dp/B00UP8XVB2/ |title=Heartbeat Song (Didrick Remix) – Single von Kelly Clarkson |website=Amazon Germany |language=de |location=Germany |date=March 11, 2015 |access-date=March 22, 2015 |archive-date=March 22, 2015}}
+</ref>
+<ref name="Chart – AU 1">
+{{cite web|url=http://www.noise11.com/news/aria-singles-cheerleader-by-omi-is-no-1-20150124 |archive-url=https://web.archive.org/web/20150128132107/http://www.noise11.com/news/aria-singles-cheerleader-by-omi-is-no-1-20150124 |title=ARIA Singles: Cheerleader By Omi Is No 1 |first=Gavin |last=Ryan |website=[[Noise11]] |publisher=The Noise Network Pty Ltd. |date=January 24, 2015 |access-date=January 28, 2015 |archive-date=January 28, 2015}}
+</ref>
+<ref name="Chart – NL 1">
+{{cite web|url=http://www.top40.nl/kelly-clarkson-4/heartbeat-song_25398 |title=Top 40: Heartbeat Song |language=nl |work=[[MegaCharts#Tipparade|Tiparade]] |publisher=[[Dutch Top 40|Stichting Nederlandse Top 40]] |date=January 17, 2015 |access-date=January 17, 2015}}
+</ref>
+<ref name="Chart – HU 1">
+{{Cite web |url=http://zene.slagerlistak.hu/stream-top-40-slagerlista |archive-url=https://web.archive.org/web/20150416232622/http://radio.hrt.hr/emisija/arc-top-40/51/ |title=Stream Top 40 slágerlista: 2015. 03. 02. – 2015. 03. 08. |language=hu |work=[[Mahasz|Stream Top 40 slágerlista]] |publisher=Magyar Hanglemezkiadók Szövetsége |access-date=March 19, 2015 |archive-date=April 16, 2015 }}
+</ref>
+<ref name="Chart – KR 1">
+{{cite web|url=http://gaonchart.co.kr/chart/digital.php?f_type=week&f_year=2015&f_month=&f_week=04&f_chart_kind_cd=E |archive-url=https://web.archive.org/web/20150128140900/http://gaonchart.co.kr/chart/digital.php?f_type=week&f_year=2015&f_month=&f_week=04&f_chart_kind_cd=E |title=2015년 04주차 Digital Chart |language=ko |publisher=[[Gaon Chart]] |date=January 27, 2015 |access-date=January 28, 2015 |archive-date=January 28, 2015}}
+</ref>
+<ref name="Chart – MX 1">
+{{Cite magazine|url=http://www.billboard.com/artist/305681/kelly+clarkson/chart?f=1188 |title=Kelly Clarkson Album & Song Chart History |magazine=[[Billboard (magazine)|Billboard]] [[Mexican Airplay|Mexico Ingles Airplay]] for Kelly Clarkson |access-date=March 4, 2015}}
+</ref>
+<ref name="Chart – UK 1">
+{{cite web|url=http://www.officialcharts.com/chart-news/ellie-goulding-spends-fourth-week-at-number-1-on-official-singles-chart__8227/ |archive-url=https://web.archive.org/web/20150304155706/http://www.officialcharts.com/chart-news/ellie-goulding-spends-fourth-week-at-number-1-on-official-singles-chart__8227/ |title=Ellie Goulding spends fourth week at Number 1 on Official Singles Chart  |work=[[UK Singles Chart]] |publisher=[[Official Charts Company]] |date=March 1, 2015 |access-date=March 4, 2015 |archive-date=March 4, 2015}}
+</ref>
+}}
+
+==External links==
+* {{Official website|http://hbs.kellyclarkson.com|Official "Heartbeat Song" website}}
+* {{URL|http://www.lyricsondemand.com/k/kellyclarksonlyrics/heartbeatsonglyrics.html|Full Lyrics at LyricsOnDemand.com}}
+<!-- Licensed lyrics provider -->
+
+{{Kelly Clarkson singles}}
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:Kelly Clarkson songs]]
+[[Category:Music videos directed by Marc Klasfeld]]
+[[Category:RCA Records singles]]
+[[Category:Song recordings produced by Greg Kurstin]]
+[[Category:Songs written by Mitch Allan]]
+[[Category:Songs written by Kara DioGuardi]]
+[[Category:Songs written by Jason Evigan]]
+[[Category:Songs written by Audra Mae]]
+[[Category:Songs about music]]
+[[Category:Sony Music singles]]

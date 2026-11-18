@@ -1,0 +1,114 @@
+{{short description|2013 single by Krewella}}
+{{Infobox song
+| name       = Live for the Night
+| cover      = KrewellaLFTN.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Krewella]]
+| album      = [[Get Wet (Krewella album)|Get Wet]]
+| released   = July 2, 2013
+| recorded   = 2011−2013
+| studio     =
+| venue      =
+| genre      = {{flat list|
+*[[Electropop]]
+* [[electro house]]<ref>{{usurped|1=[https://web.archive.org/web/20140128111935/http://daystune.com/2013/07/new-krewella-live-for-the-night-out-now-lyric-video/]}} </ref>
+*[[dubstep]]
+*[[complextro]]}}
+| length     = 3:26
+| label      = [[Columbia Records|Columbia]]
+| writer     = {{flat list|
+*Yasmine Yousaf
+*Jahan Yousaf
+*Kris Trindl
+*Jean Paul Makhlouf
+*Alex Makhlouf
+*Samuel Frisch
+*Nicholas Ditri
+*Daniel Boselovic}}
+| producer   = [[Cash Cash]]
+| chronology = [[Krewella]]
+| prev_title = [[Alive (Krewella song)|Alive]]
+| prev_year  = 2012
+| next_title = [[Enjoy the Ride (Krewella song)|Enjoy the Ride]]
+| next_year  = 2013
+}}
+
+"'''Live for the Night'''" is a single by American [[electronic dance music]] band [[Krewella]]. The song was released on July 2, 2013 for digital download and streaming. It is the fourth single from their debut album ''[[Get Wet (Krewella album)|Get Wet]]'', the first of which did not appear in one of their previous extended plays ''[[Play Hard (EP)|Play Hard]]'' or ''[[Play Harder]]''.<ref name="youtube1">{{cite web|url=https://www.youtube.com/watch?v=jFNurBwy2h8 |title=Krewella - Live For The Night (Official Lyric Video) |publisher=YouTube |date=2013-07-02 |accessdate=2016-04-14}}</ref> The song was written by band members Kris Trindl, Yasmine Yousaf and Jahan Yousaf, along with Nicholas Ditri and Daniel Boselovic, whilst production was handled by the electronic music trio [[Cash Cash]],<ref>{{cite web|url=https://www.facebook.com/cashcash/posts/10151705503184643 |title=Cash Cash - We teamed up with our friends Krewella and... |publisher=Facebook |date=2013-07-02 |accessdate=2016-04-14}}</ref> who also assisted in writing the song. It reached number one on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Dance Club Songs]] chart in its October 19, 2013 issue.<ref>{{cite magazine|url=http://www.billboard.com/charts/2013-10-19/dance-club-play-songs|title=Hot Dance Club Songs - Week of October 19, 2013|magazine=[[Billboard (magazine)|Billboard]]|date=October 19, 2013|accessdate=October 14, 2013}}</ref>
+
+==Background==
+Krewella's debut album ''Get Wet'' was released on September 20, 2013.<ref>{{cite web|url=https://music.apple.com/au/album/get-wet/689472430 |title=Get Wet by Krewella on iTunes |website=[[iTunes]] |date=2013-09-20 |access-date=2016-02-09}}</ref> It spawned three singles prior to the release of "Live for the Night" these being "Killin' It", "Alive", and "Come & Get It".
+
+==Promotion==
+A set of remixes by [[Pegboard Nerds]], Xilent, Dash Berlin, [[W&W]], Danny Avila & Deniz Koyu was released on November 4, 2013.<ref>{{cite web|url=http://www.youredm.com/2013/11/04/krewella-live-night-remixes/ |title=Krewella - Live For The Night (The Remixes) [Columbia Records |publisher=Your EDM |date= 5 November 2013|accessdate=2016-04-14}}</ref>
+
+==Music video==
+The audio and lyric videos were released on the same day as the single's release, with the audio video being released via Proximity and the lyric video being released via KrewellaMusicVEVO, both on YouTube.<ref name="youtube1"/><ref>{{cite web|url=https://www.youtube.com/watch?v=T0OXeA9M1As |title=Krewella - Live For The Night (Original Mix) |publisher=YouTube |date=2013-07-02 |accessdate=2016-04-14}}</ref>
+The music video was released on August 1, 2013.<ref>{{cite web|url=https://www.youtube.com/watch?v=0mVck88W01I |title=Krewella - Live for the Night (Explicit) |publisher=YouTube |date=2013-08-01 |accessdate=2016-04-14}}</ref> The music video features Krewella cutting off the power to a town and luring the people to a secret concert at the power plant where they are no longer slaves to the various electronic devices that distract them all day long.<ref>{{cite web|url=http://www.youredm.com/2013/08/01/krewella-live-for-the-night-music-video/ |title=Krewella Tempt You To Unplug and Live For The Night [Official Music Video |publisher=Your EDM |date= August 2013|accessdate=2016-04-14}}</ref>
+
+== Live performances ==
+Krewella performed "Live For The Night" on [[Good Morning America]] as part of their Halloween broadcast on October 31, 2013.<ref>{{Cite web |last=khrisd |date=2013-10-31 |title=Watch Krewella Perform "Live for the Night" on "Good Morning America" |url=https://www.complex.com/music/a/khrisd/krewella-good-morning-america-performance |access-date=2026-08-28 |website=Complex |language=en}}</ref>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"|Chart (2013–2014)
+!scope="col"|Peak<br />position
+|-
+{{singlechart|Canada|96|artist=Krewella|rowheader=true|accessdate=August 29, 2019}}
+|-
+{{singlechart|Billboardjapanhot100|10|artist=Krewella|rowheader=true|accessdate=August 29, 2019}}
+|-
+{{singlechart|Billboardhot100|100|artist=Krewella|rowheader=true|accessdate=August 29, 2019}}
+|-
+{{singlechart|Billboarddanceclubplay|1|artist=Krewella|rowheader=true|accessdate=August 29, 2019}}
+|-
+{{singlechart|Billboarddanceelectronic|14|artist=Krewella|rowheader=true|accessdate=August 29, 2019}}
+|}
+{{col-2}}
+
+===Year-end charts===
+{|class="wikitable plainrowheaders sortable" style="text-align:center;"
+|-
+!scope="col"|Chart (2013)
+!scope="col"|Position
+|-
+! scope="row"| US Dance Club Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2013/dance-club-songs|title=Dance Club Songs – Year-End 2013|magazine=Billboard|accessdate=August 29, 2019}}</ref>
+| 11
+|-
+! scope="row"| US Hot Dance/Electronic Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2013/hot-dance-electronic--songs|title=Hot Dance/Electronic Songs – Year-End 2013|magazine=Billboard|date=13 December 2013|accessdate=August 29, 2019}}</ref>
+| 32
+|}
+{{col-end}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|+Release dates and formats for "Live for the Night"
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| United States
+| July 9, 2013
+| [[Contemporary hit radio|Mainstream airplay]]
+| [[Columbia Records|Columbia]]
+| style="text-align:center"| <ref>{{Cite web |title=CHR Available For Airplay - Archive |url=http://fmqb.com/Article.asp?id=69239 |archive-url=https://web.archive.org/web/20150907091626/http://fmqb.com/Article.asp?id=69239 |archive-date=2015-09-07 |access-date=2026-04-17 |website=fmqb.com}}</ref>
+|}
+
+== References ==
+{{Reflist}}
+{{Krewella}}
+
+{{authority control}}
+
+[[Category:2013 singles]]
+[[Category:2013 songs]]
+[[Category:Columbia Records singles]]
+[[Category:Krewella songs]]

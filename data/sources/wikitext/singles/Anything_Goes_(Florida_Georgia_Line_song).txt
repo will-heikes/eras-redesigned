@@ -1,0 +1,90 @@
+{{Infobox song
+| name       = Anything Goes
+| cover      =
+| alt        =
+| type       = single
+| artist     = [[Florida Georgia Line]]
+| album      = [[Anything Goes (Florida Georgia Line album)|Anything Goes]]
+| released   = {{Start date|2015|06|15}}<ref>{{cite web|url=http://roughstock.com/news/2015/06/35695-florida-georgia-line-debut-new-single-anything-goes/|title=Florida Georgia Line Debut New Single|last=Conaway|first=Alanna|date=15 June 2015|work=Roughstock|accessdate=2 August 2015}}</ref>
+| recorded   =
+| studio     =
+| genre      = [[Country music|Country]]
+| length     = {{Duration|m=3|s=39}}
+| label      = [[Republic Nashville]]
+| writer     = {{hlist|[[Felix McTeigue]]|[[Chris Tompkins]]|[[Craig Wiseman]]<ref name="toc">{{cite web|url=http://tasteofcountry.com/florida-georgia-line-anything-goes/|title=Florida Georgia Line, 'Anything Goes': Everything You Need to Know|date=14 October 2014|work=[[Taste of Country]]|accessdate=2 August 2015}}</ref>}}
+| producer   = [[Joey Moi]]<ref name="toc"/>
+| prev_title = [[Sippin' on Fire]]
+| prev_year  = 2015
+| next_title = [[Confession (Florida Georgia Line song)|Confession]]
+| next_year  = 2015
+| misc       = 
+{{External music video|1={{YouTube|wQfP1lcJ_eo|"Anything Goes"}}|header=Music videos|type= studio}}
+{{External music video|1={{YouTube|ekB_lRje53A|"Anything Goes (Lyric Video)"}}|header=no|type= studio}}
+}}
+"'''Anything Goes'''" is a song recorded by American [[country music]] duo [[Florida Georgia Line]].  It was released to radio on June 15, 2015 as the fourth single from their second studio album, ''[[Anything Goes (Florida Georgia Line album)|Anything Goes]]''.  The song was written by [[Felix McTeigue]], [[Chris Tompkins]] and [[Craig Wiseman]].<ref name="toc"/>
+
+==Critical reception==
+Billy Dukes of ''[[Taste of Country]]'' reviewed the single favorably, saying that "By freeing themselves of the shackles of what is or isn't 'real' country music, this duo is able to fall into rhymes and metaphors that set their sound apart as much as their in-your-face production style...Sonically, the song is very similar to many (but not all) of FGL's previous hits...a closer listen reveals an incredibly refined sonic landscape."<ref>{{cite web|url=http://tasteofcountry.com/florida-georgia-line-anything-goes-song/|title=Florida Georgia Line, 'Anything Goes' [Listen]|last=Dukes|first=Billy|date=8 June 2015|work=Taste of Country|accessdate=7 December 2015}}</ref>
+
+==Commercial performance==
+The song first entered the ''Billboard'' [[Country Airplay]] at number 50 on chart dated June 27, 2015,<ref>{{cite magazine |url=http://www.billboard.com/biz/charts/2015-06-27/country-airplay |title=Country Airplay: June 27, 2015|magazine=Billboard |date=2 January 2013|url-access=subscription  }}</ref> and peaked at number 3 on the chart on October 31, 2015.<ref>{{cite magazine |url=http://www.billboard.com/charts/country-airplay/2015-10-31 |title=Country Airplay: June 27, 2015|magazine=Billboard |date=2 January 2013}}</ref>  The song also peaked at number 6 on the [[Hot Country Songs]] chart, making it the duo's first single to not reach number one on either chart, although it did reach number one on the Canadian Country Chart.<ref>{{Cite magazine|url=http://www.billboard.com/biz/charts/2015-11-07/canada-country|title = Canada Country|magazine = [[Billboard (magazine)|Billboard]]|date = 6 March 2013}}</ref> The song has sold 430,000 copies in the US as of November 2015.<ref name=sales>{{cite news |url=http://roughstock.com/news/2015/11/39388-top-30-digital-country-singles-chart-november-23-2015 |title=Top 30 Digital Country Singles Chart: November 23, 2015|first= Matt |last=Bjorke |date= November 20, 2015 |work=Roughstock }}</ref> It was certified Platinum by the RIAA on September 23, 2016.<ref name=RIAA />
+
+==Music video==
+The music video was directed by [[Shaun Silva]] and premiered in June 2015. It consists entirely of footage from the duo's 2015 Anything Goes tour, their first as a headliner.<ref>{{cite web|url=http://www.cmt.com/videos/florida-georgia-line/1210748/anything-goes.jhtml|archive-url=https://web.archive.org/web/20150614003211/http://www.cmt.com/videos/florida-georgia-line/1210748/anything-goes.jhtml|url-status=dead|archive-date=June 14, 2015|title=CMT : Videos : Florida Georgina Line : Anything Goes|publisher=[[Country Music Television]]|accessdate=June 12, 2015}}</ref>
+
+== Charts ==
+{| class="wikitable sortable"
+|-
+! Chart (2015)
+! Peak<br>position
+|-
+{{singlechart|Billboardcanadianhot100|51|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcanadacountry|1|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardhot100|55|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcountrysongs|6|artist=Florida Georgia Line}}
+|-
+{{singlechart|Billboardcountryairplay|3|artist=Florida Georgia Line}}
+|}
+
+===Year-end charts===
+{| class="wikitable sortable"
+|-
+!scope="col"|Chart (2015)
+!scope="col"|Position
+|-
+| US [[Country Airplay]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2015/country-airplay-songs | title=Best of 2015: Country Airplay | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2015 | accessdate=December 9, 2015}}</ref>
+| align="center" | 24
+|-
+| US [[Hot Country Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{Cite magazine | url=http://www.billboard.com/charts/year-end/2015/hot-country-songs | title=Best of 2015: Hot Country Songs | magazine=[[Billboard (magazine)|Billboard]] | publisher=[[Prometheus Global Media]] | date=2015 | accessdate=December 9, 2015}}</ref>
+| align="center" | 38
+|-
+|}
+
+==Certifications==
+{{certification Table Top}}
+{{certification Table Entry|type=single|region=United States|artist=Florida Georgia Line|title=Anything Goes|award=Platinum|number=2|certyear=2021|relyear=2014|salesamount=430,000|salesref=<ref name="sales"/>|accessdate=October 25, 2021|refname=RIAA}}
+{{table end}}
+
+== References ==
+{{Reflist}}
+{{Florida Georgia Line}}
+
+
+{{authority control}}
+
+[[Category:2015 songs]]
+[[Category:2015 singles]]
+[[Category:Florida Georgia Line songs]]
+[[Category:Republic Nashville singles]]
+[[Category:Songs written by Craig Wiseman]]
+[[Category:Songs written by Chris Tompkins]]
+[[Category:Song recordings produced by Joey Moi]]
+[[Category:Music videos directed by Shaun Silva]]
+[[Category:Republic Records singles]]
+[[Category:Songs written by Felix McTeigue]]
+
+
+{{2010s-country-song-stub}}

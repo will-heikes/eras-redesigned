@@ -1,0 +1,1750 @@
+{{Short description|Recordings by American singer}}
+{{Infobox artist discography
+| Artist          = [[John Legend]]
+| Image           = John Legend performing in Pennsylvania.jpg
+| Caption         = Legend performing in 2008
+| Alt             = 
+| Studio          = 11
+| Live            = 6
+| Video           = 2
+| EP              = 3
+| Singles         = 56
+| Option          = 2
+| Option name     = Promotional singles 
+}}
+
+The discography of American singer [[John Legend]] consists of eleven full-length [[studio album]]s, six [[live album]]s, two [[video album]]s, three [[extended play]]s, 56 [[Single (music)|singles]] and two [[promotional single]]s.
+
+Prior to the release of Legend's debut album, his career gained momentum through his collaborations with multiple artists; these include [[Slum Village]]'s "[[Selfish (Slum Village song)|Selfish]]", [[Dilated Peoples]]' "[[This Way (Dilated Peoples song)|This Way]]", [[Jay-Z]]'s "[[Encore (Jay-Z song)|Encore]]", [[Alicia Keys]]' "[[You Don't Know My Name]]", the Kanye West remix of [[Britney Spears]]' "[[Me Against the Music]]", and [[Fort Minor]]'s "High Road". Additionally, he played piano on [[Lauryn Hill]]'s "[[Everything Is Everything (Lauryn Hill song)|Everything Is Everything]]". He peaked the ''Billboard'' Hot 100 with his 2013 single "[[All of Me (John Legend song)|All of Me]]". He has sold over 10 million albums in the United States.
+
+== Albums ==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected chart positions, sales figures and certifications
+! scope="col" rowspan="2" style="width:13em;"| Title
+! scope="col" rowspan="2" style="width:19.5em;"| Album details
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| Sales
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/tlp/ |title=John Legend Chart History: Billboard 200 |magazine=[[Billboard (magazine)|Billboard]] |access-date=November 3, 2026}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br>R&B<br>/HH]]<br /><ref name="US-R&B-albums">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/blp/ |title=John Legend Chart History: R&B/Hip-Hop Albums |magazine=Billboard |access-date=November 3, 2026}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS-albums">Peak chart positions for albums in Australia:
+* ''Get Lifted'', ''Wake Up!'' and ''Love in the Future'': {{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=John+Legend |title=Discography John Legend |work=australian-charts.com |access-date=June 9, 2012}}
+* ''Once Again'': {{cite web |title=The ARIA Report: Issue 870 (Week Commencing 6 November 2006) |url=http://www.aria.com.au/issue870.pdf |archive-url=https://webarchive.nla.gov.au/awa/20061219130000/http://pandora.nla.gov.au/pan/23790/20061220-0000/issue870.pdf |url-status=dead |archive-date=2006-12-19 |publisher=[[Australian Recording Industry Association]] |access-date=July 30, 2014 |page=5 }}{{cbignore|bot=medic}}
+* ''Evolver'': {{cite web |title=The ARIA Report: Issue 975 (Week Commencing 3 November 2008) |url=http://www.aria.com.au/issue975.pdf |archive-url=https://webarchive.nla.gov.au/awa/20081119130000/http://pandora.nla.gov.au/pan/23790/20081120-0000/issue975.pdf |url-status=dead |archive-date=2008-11-19 |publisher=Australian Recording Industry Association |access-date=July 30, 2014 |page=6 }}{{cbignore|bot=medic}}
+* ''Bigger Love'': {{cite magazine|title=The ARIA Report: Week Commencing 29 June 2020|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1582|date=June 29, 2020}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CAN-albums">Peak chart positions for albums in Canada:
+* All except noted: {{cite magazine|url=https://www.billboard.com/artist/john-legend/chart-history/cna/ |title=John Legend Chart History: Canadian Albums |magazine=Billboard |access-date=November 6, 2018}}
+* ''Get Lifted'': {{cite web|url=http://jam.canoe.com/Music/Charts/ALBUMS.html |title=Albums: Top 100 (For The Week Ending 03 February, 2005) |work=[[Jam!]] |date=January 30, 2005 |access-date=August 10, 2013 }}
+* ''Once Again'': {{cite web|url=http://jam.canoe.com/Music/Charts/ALBUMS.html |title=Albums: Top 100 (For The Week Ending 9 November, 2006) |work=Jam! |date=November 5, 2006 |access-date=July 27, 2014 }}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hitlisten|DEN]]<br /><ref name="DEN">{{cite web |url=https://danishcharts.dk/showinterpret.asp?interpret=John+Legend |title=Discography John Legend |work=danishcharts.dk |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web |url=http://lescharts.com/showinterpret.asp?interpret=John+Legend |title=Discographie John Legend |work=lescharts.com |access-date=February 1, 2025 |language=fr}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-albums">{{cite web |url=http://italiancharts.com/search.asp?search=John+Legend&cat=a |title=Search for: John Legend (Albums) |work=italiancharts.com |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Dutch Album Top 100|NLD]]<br /><ref name="NLD">{{cite web |url=http://dutchcharts.nl/showinterpret.asp?interpret=John+Legend |title=Discografie John Legend |work=dutchcharts.nl |access-date=December 30, 2023 |language=nl}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web |url=https://swisscharts.com/showinterpret.asp?interpret=john%20legend |title=Discographie John Legend |work=swisscharts.com |access-date=June 9, 2012 |language=gsw |format=select "Charts" tab}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web |url=http://www.officialcharts.com/artist/_/john%20legend |title=John Legend |publisher=[[Official Charts Company]] |access-date=June 9, 2012 |format=select "Albums" tab}}</ref>
+|-
+! scope="row"| ''[[Get Lifted]]''
+|
+* Released: December 28, 2004<br /><span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/get-lifted-mw0000472472 |title=Get Lifted – John Legend |work=[[AllMusic]] |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: [[GOOD Music|GOOD]], [[Columbia Records|Columbia]]
+* Formats: [[Compact Disc|CD]], [[LP record|LP]], [[Music download|digital download]]
+| 4 || 1 || 36 || 56 || 33 || 53 || 49 || 5 || 65 || 12
+|
+* US: 2,100,000<ref>{{cite news |url=https://www.algemeiner.com/2012/06/06/tonight-john-legend-to-jam-for-judaism/ |title=Tonight: John Legend to Jam for Judaism |work=[[Algemeiner Journal]] |date=June 6, 2012 |access-date=August 10, 2013 |author=Arbesfeld, Atara}}</ref>
+* World: 4,000,000<ref>{{cite journal |url=http://10mag.com/events/soul-king-john-legend-comes-to-supersonic-2013/ |title=Soul King John Legend comes to Supersonic 2013 |journal=[[10 Magazine (Korea)|10 Magazine]] |publisher=Maxcom Global Ventures |access-date=August 10, 2013}}</ref>
+|
+* [[Recording Industry Association of America|RIAA]]: 2× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=John Legend|access-date=February 15, 2023}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref name="ARIA-2011-albums">{{cite web |url=https://www.aria.com.au/pages/httpwww.aria.com.aupageshttpwww.aria.com.aupageshttpwww.aria.com.auALBUMaccreds2011.htm |title=ARIA Charts – Accreditations – 2011 Albums |publisher=[[Australian Recording Industry Association]] |access-date=May 11, 2012}}</ref>
+* [[British Phonographic Industry|BPI]]: Platinum<ref name="BPI">{{Cite certification|region=United Kingdom|artist=John Legend|access-date=October 25, 2024}}</ref>
+* [[Music Canada|MC]]: Gold<ref name="MC">{{cite certification |region=Canada |artist=John Legend |access-date=February 21, 2014}}</ref>
+* [[NVPI]]: Gold<ref name="NVPI">{{cite web|url=https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/|title=Goud/Platina — NVPI Audio|format=To access, enter the search parameter "John Legend" and select "Search"|access-date=September 6, 2018|publisher=[[NVPI]]|language=nl|archive-date=December 3, 2019|archive-url=https://web.archive.org/web/20191203124722/https://nvpi.nl/nvpi-audio/marktinformatie/goud-platina/|url-status=dead}}</ref>
+|-
+! scope="row"| ''[[Once Again (John Legend album)|Once Again]]''
+|
+* Released: October 24, 2006 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/once-again-mw0000566319 |title=Once Again – John Legend |work=AllMusic |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: GOOD, Columbia
+* Formats: CD, LP, digital download
+| 3 || 1 || 56 || 11 || 21 || 58 || 5 || 2 || 12 || 10
+|
+* World: 2,500,000<ref name="Tapping">{{cite magazine |url=https://www.billboard.com/articles/news/1047291/legend-tapping-kanye-pharrell-for-new-album |title=Legend Tapping Kanye, Pharrell For New Album |magazine=Billboard |date=November 16, 2007 |access-date=August 10, 2013 |author=Graff, Gary}}</ref>
+|
+* RIAA: Platinum<ref name="RIAA" />
+* BPI: Gold<ref name="BPI" />
+* MC: Gold<ref name="MC" />
+* NVPI: Platinum<ref name="NVPI"/>
+|-
+! scope="row"| ''[[Evolver (John Legend album)|Evolver]]''
+|
+* Released: October 28, 2008 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/evolver-mw0000799573 |title=Evolver – John Legend |work=AllMusic |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: GOOD, Columbia
+* Formats: CD, LP, digital download
+| 4 || 1 || 66 || 14 || — || 72 || 19 || 7 || 36 || 21
+|
+* US: 603,000<ref>{{cite magazine |url=https://www.billboard.com/articles/news/268664/john-legends-brother-vaughn-anthony-ready-for-spotlight |title=John Legend's Brother, Vaughn Anthony, Ready For Spotlight |magazine=Billboard |date=May 11, 2009 |access-date=August 10, 2013 |author=Herrera, Monica}}</ref>
+|
+* RIAA: Platinum<ref name="RIAA" />
+* BPI: Silver<ref name="BPI" />
+* NVPI: Gold<ref name="NVPI"/>
+|-
+! scope="row"| ''[[Wake Up! (John Legend and the Roots album)|Wake Up!]]''<br /><span style="font-size:85%;">(with [[The Roots]])</span>
+|
+* Released: September 21, 2010 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/wake-up!-mw0002024479 |title=Wake Up! – John Legend / The Roots |work=AllMusic |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: GOOD, Columbia
+* Formats: CD, LP, digital download
+| 8 || 3 || 42 || 16 || 38 || 95 || 27 || 6 || 15 || 26
+|
+* US: 273,000<ref>{{cite web|url=http://www.hitsdailydouble.com/sales/sales_ur.cgi |title=HITS Daily Double: Upcoming Releases |url-status=dead |archive-url=https://archive.today/20140129032930/http://www.hitsdailydouble.com/sales/sales_ur.cgi |archive-date=2014-01-29}}</ref>
+|
+|-
+! scope="row"| ''[[Love in the Future]]''
+|
+* Released: September 3, 2013 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/love-in-the-future-mw0002562784 |title=Love in the Future – John Legend |work=AllMusic |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: GOOD, Columbia
+* Formats: CD, LP, digital download
+| 4 || 2 || 15 || 10 || 12 || 67 || 13 || 3 || 16 || 2
+|
+* US: 789,000<ref>{{cite web |archive-url =https://web.archive.org/web/20161130103156/http://hitsdailydouble.com/new_album_releases|archive-date= November 30, 2016 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |website=Hits Daily Double}}</ref>
+* UK: 373,860<ref>{{cite news|url=http://www.musicweek.com/businessanalysis/read/official-charts-analysis-chemical-brothers-claim-sixth-no-1-album-with-born-in-the-echoes/062463|title=Official Charts Analysis: Chemical Brothers claim sixth No.1 album with Born in the Echoes|last=Jones|first=Alan|date=July 31, 2015|work=[[Music Week]]|publisher=Intent Media|access-date=October 16, 2020|url-access=subscription }}</ref>
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+* ARIA: Platinum<ref name=ARIA23a>{{cite certification|region=Australia|certyear=2023|type=album|access-date=May 3, 2023}}</ref>
+* BPI: Platinum<ref name="BPI" />
+* [[IFPI Denmark|IFPI DEN]]: Platinum<ref>{{cite web|url=http://ifpi.dk/certificeringer-0|title=Certificeringer {{!}} IFPI|publisher=IFPI Denmark|date=January 8, 2019|access-date=January 17, 2019}}</ref>
+* MC: Gold<ref name="MC" />
+|-
+! scope="row"| ''[[Darkness and Light (John Legend album)|Darkness and Light]]''
+|
+* Released: December 2, 2016<br /><span style="font-size:85%;">(US)</span>
+* Label: GOOD, Columbia
+* Formats: CD, LP, digital download, streaming
+| 14 || 5 || 37 || 29 || — || 123 || 49 || 21 || 32 || 35
+|
+* US: 26,000<ref>{{cite magazine|url=https://www.billboard.com/pro/rb-charts-childish-gambino-hamilton-rihanna/|title=Childish Gambino's 'Awaken, My Love!' Debuts at No. 1 on R&B Albums Chart|magazine=[[Billboard (magazine)|Billboard]] |date=December 14, 2016|access-date=December 14, 2016}}</ref>
+|
+* MC: Gold<ref name="MC" />
+|-
+! scope="row"| ''[[A Legendary Christmas]]''
+|
+* Released: October 26, 2018<ref>{{cite web|url=https://www.wxyz.com/news/john-legend-bringing-a-legendary-christmas-tour-to-detroit-s-fox-theatre-in-december|title=John Legend bringing 'A Legendary Christmas Tour' to Detroit's Fox Theatre in December|website=[[WXYZ-TV|WXYZ.com]]|date=October 1, 2018|access-date=October 1, 2018}}</ref>
+* Label: Columbia
+* Formats: CD, LP, digital download, [[streaming media|streaming]]
+| 22 || 8 || 39 || 44 || — || — || 77 || 23 || — || —
+|
+* US: 19,000<ref name="Billboard">{{cite magazine|url=https://www.billboard.com/pro/billboard-200-chart-moves-john-legend-pentatonix-christmas/|title=Billboard 200 Chart Moves: John Legend & Pentatonix Debut in Top 40 With New 'Christmas' Albums|magazine=Billboard|last=Caulfield|first=Keith|date=November 10, 2018|access-date=November 11, 2018}}</ref>
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| ''[[Bigger Love]]''
+|
+* Released: June 19, 2020<ref>{{cite magazine |url=https://www.billboard.com/music/pop/john-legend-bigger-love-album-release-date-9377268/ |title=John Legend's 'Bigger Love' album gets a release date |magazine=[[Billboard (magazine)|Billboard]] |date=May 13, 2020 |access-date=May 14, 2020 |author=Aniftos, Rania}}</ref>
+* Label: Columbia
+* Formats: CD, LP, digital download, streaming
+| 19 || 13 || 52 || 45 || — || 179 || — || 42 || 30 || 63
+|
+| 
+|-
+! scope="row"| ''[[Legend (John Legend album)|Legend]]''
+|
+* Released: September 9, 2022<ref name="Legend">{{cite web|url=https://thesource.com/2022/08/05/john-legend-to-release-legend-album-on-september-9/|title=John Legend to Release 'Legend' Album on September 9|work=[[The Source (magazine)|The Source]]|last=Grant|first=Shawn|date=August 5, 2022|access-date=August 6, 2022}}</ref>
+* Label: [[Republic Records|Republic]]
+* Formats: CD, LP, digital download, streaming
+| 59 || 32 || — || — || — || 185 || — || — || 39 || —
+|
+|
+|-
+! scope="row"| ''[[My Favorite Dream]]''
+|
+* Released: August 30, 2024
+* Label: Republic
+* Formats: CD, LP, digital download, streaming
+| — || — || — || — || — || — || — || — || — || —
+|
+|
+|-
+! scope="row"| ''[[Muse (John Legend album)|Muse]]''
+|
+* Released: October 23, 2026
+* Label: Republic
+* Formats: CD, LP, digital download, streaming
+| 36 || 11 || — || — || — || — || — || — || — || —
+|
+|
+|-
+| colspan="14" style="font-size:90%"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== Live albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of live albums, with selected chart positions
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:19.5em;"| Album details
+! scope="col" colspan="4"| Peak chart positions
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br />R&B]]<br /><ref name="US-R&B-albums" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[MegaCharts|NLD]]<br /><ref name="NLD" />
+|-
+! scope="row"| ''Live at Jimmy's Uptown''
+|
+* Released: 2001 <span style="font-size:85%;">(US)</span><ref name="USA Today">{{cite news |url=http://usatoday30.usatoday.com/life/music/news/2005-01-24-otv-legend_x.htm |title=With 'Lifted,' he's going up and up |work=[[USA Today]] |date=January 24, 2005 |access-date=August 11, 2013 |author=Jones, Steve}}</ref>
+* Formats: CD
+| — || — || — || —
+|-
+! scope="row"| ''[[Live at SOB's]]''
+|
+* Released: June 10, 2003 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/live-at-sobs-new-york-city-mw0000030854 |title=Live at SOB's New York City – John Legend |work=AllMusic |access-date=August 10, 2013}}</ref>
+* Label: DCN
+* Formats: CD
+| — || — || — || —
+|-
+! scope="row"| ''[[Solo Sessions Vol. 1: Live at the Knitting Factory]]''
+|
+* Released: 2004 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.amazon.com/Solo-Sessions-Vol-Knitting-Factory/dp/B002EDPW22 |title=Solo Sessions Vol. 1: Live at the Knitting Factory: John Legend |website=Amazon |access-date=August 10, 2013}}</ref>
+* Label: [[Knitting Factory]]
+* Formats: CD
+| — || — || — || —
+|-
+! scope="row"| ''[[John Legend: Live from Philadelphia]]''
+|
+* Released: June 3, 2008 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/live-from-philadelphia-mw0000582845 |title=Live from Philadelphia – John Legend |work=AllMusic |access-date=August 10, 2013 |author=Kellman, Andy}}</ref>
+* Label: GOOD, Columbia
+* Formats: CD, digital download
+| 7 || 4 || 187 || 44
+|-
+! scope="row"| ''iTunes Festival: London 2013''
+|
+* Released: September 2, 2014<ref>{{Cite web|url=https://music.apple.com/us/album/itunes-festival-london-2013/1441844049|title=iTunes Festival: London 2013 by John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 2, 2021}}</ref>
+* Label: GOOD, Columbia
+* Formats: digital download
+| — || — || — || —
+|-
+! scope="row"| ''[[Verzuz]]: Alicia Keys x John Legend''<br /><span style="font-size:85%;">(with [[Alicia Keys]])</span>
+|
+* Released: June 19, 2020<ref>{{Cite web|url=https://music.apple.com/us/album/verzuz-alicia-keys-x-john-legend-live/1519700762|title=Verzuz: Alicia Keys x John Legend (Live) by Alicia Keys & John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 2, 2021}}</ref>
+* Formats: digital download
+| — || — || — || —
+|-
+| colspan="10" style="font-size:90%"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== Video albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of video albums
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:19.5em;"| Album details
+! scope="col" style="width:13em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="row"| ''John Legend: Live at the House of Blues''
+|
+* Released: November 22, 2005 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/live-at-the-house-of-blues-mw0001017650 |title=Live at the House of Blues – John Legend |work=AllMusic |access-date=August 10, 2013}}</ref>
+* Label: [[Sony Music|Sony]]
+* Formats: [[Blu-ray]], [[DVD]]
+|
+|-
+! scope="row"| ''John Legend: Live from Philadelphia''
+|
+* Released: April 8, 2008 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.amazon.com/John-Legend-Live-Philadelphia/dp/B0014BEDAW |title=John Legend – Live from Philadelphia (2008) |website=Amazon |access-date=August 10, 2013}}</ref>
+* Label: Sony
+* Formats: Blu-ray, DVD
+|
+* RIAA: Gold<ref name="RIAA" />
+|}
+
+== Extended plays ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of extended plays
+! scope="col" style="width:14em;"| Title
+! scope="col" style="width:19.5em;"| EP details
+|-
+! scope="row"| ''Connect Sets''
+|
+* Released: 2005 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/connect-set-mw0001014592 |title=Connect Set – John Legend |work=AllMusic |access-date=August 10, 2013}}</ref>
+* Label: Columbia
+* Formats: CD
+|-
+! scope="row"| ''Sounds of the Season''
+|
+* Released: October 2006 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.amazon.com/John-Legend-Collection-Sounds-Holiday/dp/B000LMEK5I |title=The John Legend Collection – NBC Sounds of the Season – Holiday Songs: John Legend |website=Amazon |access-date=August 10, 2013}}</ref>
+* Label: GOOD, Sony
+* Formats: CD
+|-
+! scope="row"| ''iTunes Live from SoHo''<br /><span style="font-size:85%;">(with [[The Roots]])</span>
+|
+* Released: January 28, 2011 <span style="font-size:85%;">(US)</span><ref>{{cite web |url=https://www.allmusic.com/album/itunes-live-from-soho-mw0002113972 |title=iTunes Live from SoHo – John Legend / The Roots |work=AllMusic |access-date=August 10, 2013}}</ref>
+* Label: GOOD
+* Formats: Digital download
+|}
+
+== Singles ==
+=== As lead artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/hsi/ |title=John Legend – Chart History: Hot 100 |magazine=Billboard |access-date=April 8, 2020}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B/HH]]<br /><ref name="US-R&B-singles">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/bsi/ |title=John Legend – Chart History: Hot R&B/Hip-Hop Songs |magazine=Billboard |access-date=January 23, 2020}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hot Dance Club Songs|US<br />Dance]]<br /><ref name="US-Dance-singles">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/dsi/ |title=John Legend – Chart History: Dance/Club Play Songs |magazine=Billboard |access-date=May 31, 2023}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard charts#Jazz|US<br />Jazz]]<br /><ref name="US-Jazz-singles">{{cite magazine |url={{BillboardURLbyName|artist=john legend|chart=Jazz Songs}} |title=John Legend – Chart History: Smooth Jazz Songs |magazine=Billboard |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS-singles">Peak chart positions for singles in Australia:
+* "Used to Love U": {{cite web |title=The ARIA Report: Issue 793 (Week Commencing 9 May 2005) |url=http://www.aria.com.au/issue793.pdf |archive-url=https://webarchive.nla.gov.au/awa/20050519140000/http://pandora.nla.gov.au/pan/23790/20050520-0000/issue793.pdf |url-status=dead |archive-date=2005-05-19 |publisher=[[Australian Recording Industry Association]] |access-date=December 14, 2013 |page=4 }}{{cbignore|bot=medic}}
+* "[[Ordinary People (John Legend song)|Ordinary People]]": {{cite web |title=The ARIA Report: Issue 808 (Week Commencing 22 August 2005) |url=http://www.aria.com.au/issue808.pdf |archive-url=https://webarchive.nla.gov.au/awa/20050819140000/http://pandora.nla.gov.au/pan/23790/20050820-0000/issue808.pdf |url-status=dead |archive-date=2005-08-19 |publisher=Australian Recording Industry Association |access-date=December 21, 2013 |page=2 }}{{cbignore|bot=medic}}
+* "All of Me": {{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=John+Legend |title=Discography John Legend |work=australian-charts.com |access-date=June 9, 2012 }}
+* "Glory": {{cite news |url=https://www.noise11.com/news/aria-singles-ellie-goulding-remains-at-no-1-20150307 |title=ARIA Singles: Ellie Goulding Remains At No 1 |publisher=Noise11 |author=Gavin, Ryan |date=March 7, 2015 |access-date=March 7, 2015 }}
+* "Beauty and the Beast": {{cite web|url=https://www.auspop.com.au/2017/04/aria-chart-watch-414/|title=ARIA Chart Watch #414|publisher=auspOp|date=April 1, 2017|access-date=April 1, 2017|archive-date=April 1, 2017|archive-url=https://web.archive.org/web/20170401232601/https://www.auspop.com.au/2017/04/aria-chart-watch-414/|url-status=dead}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>{{cite magazine |url={{BillboardURLbyName|artist=john legend|chart=Billboard Canadian Hot 100}} |title=John Legend – Chart History: Billboard Canadian Hot 100 |magazine=Billboard |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="ITA-singles">{{cite web |url=http://italiancharts.com/search.asp?search=John+Legend&cat=s |title=Search for: John Legend (Songs) |work=italiancharts.com |publisher=Hung Medien |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[MegaCharts|NLD]]<br /><ref name="NLD" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref>Peak chart positions for singles in the United Kingdom:
+* All except "So High", "P.D.A. (We Just Don't Care)", "If You're Out There", "Wake Up Everybody" and "Tonight (Best You Ever Had)": {{cite web |url=https://www.officialcharts.com/artist/16378/john-legend/ |title=John Legend |publisher=[[Official Charts Company]] |access-date=December 14, 2019}}
+* "So High", "P.D.A. (We Just Don't Care)", "If You're Out There" and "Wake Up Everybody": {{cite web |url=https://www.zobbel.de/cluk/CLUK_L.HTM |title=Chart Log UK: DJ Steve L. – LZ Love |work=zobbel.de |publisher=Tobias Zywietz |access-date=September 28, 2011}}
+* "Tonight (Best You Ever Had)": {{cite web |url=https://www.zobbel.de/cluk/130316cluk.txt |title=Chart Log UK: New Entries Update (16 March 2013 – Week 10) |work=zobbel.de |publisher=Tobias Zywietz |access-date=March 21, 2013}}</ref>
+|-
+! scope="row"| "[[Used to Love U]]"
+| 2004
+| 74 || 32 || — || — || 67 || — || 36 || 42 || — || 29
+|
+| rowspan="4" | ''Get Lifted''
+|-
+! scope="row"| "[[Ordinary People (John Legend song)|Ordinary People]]"
+| rowspan="3" | 2005
+| 24 || 4 || — || 4 || 88 || — || — || 20 || — || 4
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+* ARIA: Platinum<ref name=ARIA23s/>
+* BPI: Platinum<ref name="BPI" />
+|-
+! scope="row"| "[[Number One (John Legend song)|Number One]]"<br /><span style="font-size:85%;">(featuring [[Kanye West]])</span>
+| — || — || — || 86 || — || — || — || — || — || 62
+|
+|-
+! scope="row"| "[[So High (John Legend song)|So High]]"<br /><span style="font-size:85%;">(featuring [[Lauryn Hill]])</span>
+| —{{efn|group=upper-alpha|"So High" did not enter the ''Billboard'' Hot 100, but peaked at number 5 on the [[Bubbling Under Hot 100 Singles]] chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles">{{cite magazine |url=https://www.billboard.com/artist/john-legend/chart-history/hbu/ |title=John Legend Chart History: Bubbling Under Hot 100 |magazine=Billboard |access-date=December 29, 2021}}</ref>}} || — || — || 53 || — || — || — || — || — || 118
+|
+|-
+! scope="row"| "[[Save Room (song)|Save Room]]"
+| rowspan="2" | 2006
+| 61 || 17 || 7 || 17 || — || — || 6 || 11 || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+| rowspan="6" | ''Once Again''
+|-
+! scope="row"| "[[Heaven (John Legend song)|Heaven]]"
+| —{{efn|group=upper-alpha|"Heaven" did not enter the ''Billboard'' Hot 100, but peaked at number 12 on the Bubbling Under Hot 100 Singles chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles" />}} || — || — || 26 || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[P.D.A. (We Just Don't Care)]]"
+| rowspan="6" | 2007
+| — || — || — || — || — || — || — || 18 || — || 199
+|
+|-
+! scope="row"| "[[Stereo (John Legend song)|Stereo]]"
+| — || — || — || 47 || — || — || — || 17 || — || —
+|
+|-
+! scope="row"| "Another Again"
+| — || — || — || 30 || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Show Me (John Legend song)|Show Me]]"<ref name="Tapping" />
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Someday"<ref>{{cite web |url=https://music.apple.com/us/album/someday-from-the-august-rush-soundtrack-single/264795696 |title=Someday – Single by John Legend |work=[[iTunes Store]] |access-date=August 11, 2013}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "Sun Comes Up"<ref>{{cite web |url=https://music.apple.com/us/album/sun-comes-up-single/263769157 |title=Sun Comes Up – Single by John Legend |work=iTunes Store |access-date=August 11, 2013}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Live at SOB's''
+|-
+! scope="row"| "[[Green Light (John Legend song)|Green Light]]"<br /><span style="font-size:85%;">(featuring [[André 3000]])</span>
+| rowspan="2" | 2008
+| 24 || 4 || — || 6 || — || 94 || 19 || 46 || 81 || 35
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+| rowspan="5" | ''Evolver''
+|-
+! scope="row"| "[[If You're Out There]]"
+| —{{efn|group=upper-alpha|"If You're Out There" did not enter the ''Billboard'' Hot 100, but peaked at number 10 on the Bubbling Under Hot 100 Singles chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles" />}} || — || — || —{{efn|group=upper-alpha|"If You're Out There" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 17 on the [[Hot R&B/Hip-Hop Songs#Bubbling Under R&B/Hip-Hop Singles|Bubbling Under R&B/Hip-Hop Singles]] chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles">{{cite magazine |url=https://www.billboard.com/music/john-legend/chart-history/bubbling-under-r-b-hip-hop-songs |archive-url=https://web.archive.org/web/20181217052617/https://www.billboard.com/music/john-legend/chart-history/bubbling-under-r-b-hip-hop-songs |url-status=dead |archive-date=December 17, 2018 |title=John Legend – Chart History: Bubbling Under R&B/Hip-Hop Songs |magazine=Billboard |access-date=December 12, 2018}}</ref>}} || — || — || — || — || — || 135
+|
+|-
+! scope="row"| "[[Everybody Knows (John Legend song)|Everybody Knows]]"
+| rowspan="3" | 2009
+| — || — || — || 64 || — || — || — || 10 || — || —
+|
+|-
+! scope="row"| "This Time"
+| — || — || — || — || — || — || — || 46 || — || —
+|
+|-
+! scope="row"| "No Other Love"<ref>{{cite web |url=https://itunes.apple.com/bz/album/no-other-love-feat.-estelle/id290190775 |archive-url=https://web.archive.org/web/20160323024441/https://itunes.apple.com/bz/album/no-other-love-feat.-estelle/id290190775 |url-status=dead |archive-date=March 23, 2016 |title=No Other Love (feat. Estelle) – Single by John Legend |work=iTunes Store |access-date=August 11, 2013}}</ref><br /><span style="font-size:85%;">(featuring [[Estelle (musician)|Estelle]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Wake Up Everybody (Harold Melvin & the Blue Notes song)#Other versions|Wake Up Everybody]]"<br /><span style="font-size:85%;">(with [[The Roots]], featuring [[Common (rapper)|Common]] and [[Melanie Fiona]])</span>
+| rowspan="3" | 2010
+| — || — || 6 || 53 || — || — || — || 16 || 62 || 179
+|
+| rowspan="2" | ''Wake Up!''
+|-
+! scope="row"| "Hard Times"<ref>{{cite web |url=https://itunes.apple.com/us/album/hard-times-feat-black-thought/id390176459 |archive-url=https://web.archive.org/web/20100910004247/http://itunes.apple.com/us/album/hard-times-feat-black-thought/id390176459 |url-status=dead |archive-date=September 10, 2010 |title=Hard Times (feat. Black Thought) – Single by John Legend & The Roots |work=iTunes Store |access-date=September 10, 2010}}</ref><br /><span style="font-size:85%;">(with The Roots, featuring [[Black Thought]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Wake Up (Arcade Fire song)|Wake Up]]"<ref>{{cite web |url=https://music.apple.com/us/album/wake-up-cover-arcade-fire/406171860 |title=Wake Up (Cover of Arcade Fire Song) – Single by John Legend & The Roots |work=iTunes Store |access-date=September 10, 2010}}</ref><br /><span style="font-size:85%;">(with The Roots)</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[When Christmas Comes]]"<br /><span style="font-size:85%;">(with [[Mariah Carey]])</span>
+| 2011
+| — || — || — || 59 || — || — || — || — || — || —
+|
+| ''[[Merry Christmas II You]]''
+|-
+! scope="row"| "[[Tonight (Best You Ever Had)]]"<br /><span style="font-size:85%;">(featuring [[Ludacris]])</span>
+| 2012
+| 79 || 12 || — || 12 || — || — || 16 || — || — || 108
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+* ARIA: Gold<ref name=ARIA23s/>
+* FIMI: Platinum<ref name="FIMI"/>
+| [[Think like a Man#Soundtrack|''Think Like a Man'' soundtrack]]
+|-
+! scope="row"| "Who Do We Think We Are"<br /><span style="font-size:85%;">(featuring [[Rick Ross]])</span>
+| rowspan="3" | 2013
+| — || — || — || —{{efn|group=upper-alpha|"Who Do We Think We Are" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 2 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} || — || — || — || — || — || —
+|
+| rowspan="4" | ''Love in the Future''
+|-
+! scope="row"| "Made to Love"
+| — || — || — || — || — || — || — || 28 || — || —
+|
+|-
+! scope="row"| "[[All of Me (John Legend song)|All of Me]]"
+| 1 || 1 || 32 || 1 || 1 || 1 || 8 || 1 || 1 || 2
+|
+* RIAA: 14× Platinum<ref name="RIAA" />
+* ARIA: 17× Platinum<ref name=ARIA23s>{{cite certification|region=Australia|certyear=2023|type=single|access-date=7 July 2023}}</ref>
+* BPI: 7× Platinum<ref name="BPI" />
+* [[Federazione Industria Musicale Italiana|FIMI]]: Gold<ref name="FIMI">{{cite certification|region=Italy|artist=John Legend|access-date=March 7, 2020}}</ref>
+* IFPI SWI: 2× Platinum<ref name="IFPISWI">{{cite web|url=http://www.swisscharts.com/search_certifications.asp?search=John+Legend|title=John Legend – Awards|publisher=The Official Swiss Charts and Music Community|access-date=January 13, 2017}}</ref>
+* MC: 5× Platinum<ref name="MC" />
+* NVPI: Platinum<ref name="NVPI"/>
+|-
+! scope="row"| "[[You & I (Nobody in the World)]]"<ref>{{cite web |url=http://www.allaccess.com/urban/future-releases |title=Urban/UAC Future Releases |publisher=All Access Music Group |access-date=April 10, 2014 |archive-url=https://web.archive.org/web/20140304123847/http://www.allaccess.com/urban/future-releases |url-status=live |archive-date=March 4, 2014}}</ref>
+| rowspan="2" | 2014
+| 66 || — || — || 18 || — || — || — || — || — || 166
+|
+* RIAA: Platinum<ref name="RIAA" />
+* ARIA: Gold<ref name=ARIA23s/>
+|-
+! scope="row"| "[[Glory (Common and John Legend song)|Glory]]"<ref>{{cite web |url=https://music.apple.com/us/album/glory-from-the-motion-picture-selma-single/951104551 |title=Glory (From the Motion Picture "Selma") – Single by Common & John Legend |work=iTunes Store |access-date=January 15, 2015}}</ref><br /><span style="font-size:85%;">(with Common)</span>
+| 49 || — || — || 18 || 62 || — || — || 49 || 38 || 62
+|
+| ''[[Selma (film)#Music|Selma]]''
+|-
+! scope="row"| "Under the Stars"<ref>{{cite web|url=https://www.anheuser-busch.com/newsroom/stella-artois-and-john-legend-debut-first-ever-duet-with-the-stars-in-celebration-of-give-beautifully-holiday-campaign|title=Stella Artois and John Legend Debut First-Ever Duet With the Stars, In Celebration of "Give Beautifully" Holiday Campaign |date=25 November 2015 |publisher=Anheuser-Busch|access-date=August 4, 2025}}</ref> <br />
+| 2015
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Love Me Now (John Legend song)|Love Me Now]]"
+| rowspan="2" | 2016
+| 23 || — || — || 10 || 25 || 20 || 36 || 13 || 14 || 17
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+* ARIA: 3× Platinum<ref name=ARIA23s/>
+* BPI: Platinum<ref name="BPI" />
+* FIMI: Platinum<ref name="FIMI"/>
+* IFPI SWI: Gold<ref name="IFPISWI" />
+* MC: 2× Platinum<ref name="MC" />
+* NVPI: 2× Platinum<ref name="NVPI"/>
+| rowspan="2" | ''Darkness and Light''
+|-
+! scope="row"| "Penthouse Floor" <br /><span style="font-size:85%;">(featuring [[Chance the Rapper]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row" | "[[Beauty and the Beast (Disney song)#Covers and use in media|Beauty and the Beast]]"<br /><span style="font-size:85%;">(with [[Ariana Grande]])</span>
+| rowspan="5" | 2017
+| 87 || — || — || — || 64 || 70 || — || — || — || 52
+|
+* RIAA: Gold<ref name="RIAA" />
+* ARIA: Platinum<ref name=ARIA23s/>
+* BPI: Silver<ref name="BPI" />
+| ''[[Beauty and the Beast (2017): Original Motion Picture Soundtrack|Beauty and the Beast]]''
+|-
+! scope="row"| "God Only Knows" <br /><span style="font-size:85%;">(featuring [[Cynthia Erivo]] & [[yMusic]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "In America"<ref>{{cite web|url=https://www.youtube.com/watch?v=qVD5bvlEpUU|title=John Legend Talks about In America Single & Underground |date=2 March 2017 |publisher=Access Hollywood|access-date=March 2, 2017}}</ref> <br />
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Surefire"
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Darkness and Light''
+|-
+! scope="row"| "Woodstock"<ref>{{cite web|url=https://www.woodstock.com/john-legend-returns-with-soulful-woodstock-joni-mitchell-cover/|title=John Legend returns with soulful "Woodstock" Joni Mitchell cover |date=2 November 2017 |publisher=Woodstock|access-date=August 4, 2025}}</ref> <br />
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4" {{Non-album singles}}
+|-
+! scope="row"| "[[A Good Night]]"<br /><span style="font-size:85%;">(featuring [[BloodPop]])</span><ref>{{cite web|url=https://music.apple.com/au/album/a-good-night-feat-bloodpop-single/1366481600|title=A Good Night (feat. BloodPop®) – Single on iTunes|work=[[iTunes Store]] (AU)|access-date=April 6, 2018}}</ref>
+| 2018
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Preach (John Legend song)|Preach]]"
+| rowspan="3" | 2019
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "We Need Love"<br>{{small|(from ''[[Songland]]'')}}<ref>{{cite web|url=https://music.apple.com/au/album/we-need-love-from-songland-single/1465154037|title=We Need Love (from Songland) by John Legend|website=iTunes Store|access-date=May 31, 2019}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[Happy Xmas (War Is Over)]]"
+| 69 || — || — || — || — || — || — || — || — || 9
+|
+* RIAA: Gold<ref name="RIAA" />
+| ''A Legendary Christmas''
+|-
+! scope="row"| "[[Conversations in the Dark]]"<ref>{{cite web|url=https://music.apple.com/us/album/conversations-in-the-dark-single/1492767155|title=Conversations in the Dark – Single by John Legend|website=Apple Music|access-date=January 10, 2020|archive-date=March 3, 2021|archive-url=https://web.archive.org/web/20210303102817/https://music.apple.com/us/album/conversations-in-the-dark-single/1492767155|url-status=dead}}</ref><br /><span style="font-size:85%;">(solo or with [[David Guetta]])</span>
+| rowspan="6" | 2020
+| 86 || 42 || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA"/>
+* ARIA: Gold<ref name=ARIA23s/>
+| rowspan="4" | ''Bigger Love''
+|-
+! scope="row"| "Actions"<ref>{{cite web|url=https://music.apple.com/au/album/actions-single/1502177523|title=Actions – Single by John Legend|website=Apple Music|access-date=March 20, 2020}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Bigger Love"<ref>{{cite web|url=https://music.apple.com/us/album/bigger-love/1506304283?i=1506304285|title=Bigger Love – Single by John Legend|website=Apple Music|access-date=April 17, 2020|archive-date=May 16, 2022|archive-url=https://web.archive.org/web/20220516131000/https://music.apple.com/us/album/bigger-love/1506304283?i=1506304285|url-status=dead}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Wild"<ref>Sources concerning the single release of "Wild":
+*{{cite web|url=https://metro.co.uk/2020/08/13/john-legend-chrissy-teigen-pregnant-expecting-third-child-together-confirm-baby-news-wild-music-video-13126542/|title=John Legend and Chrissy Teigen expecting third child together as they confirm baby news in Wild music video|website=Metro|last=Dosani|first=Rishma|date=August 13, 2020|access-date=August 15, 2020}}
+*{{cite web|url=https://www.vulture.com/2020/08/john-legend-chrissy-teigen-pregnancy-music-video.html|title=John Legend and Chrissy Teigen Announce New Pregnancy Through Song|website=Vulture|last=Alter|first=Rebecca|date=August 13, 2020|access-date=August 15, 2020}}
+*{{cite web|url=https://people.com/music/john-legend-chrissy-teigen-wild-music-video/|title=John Legend Debuts Romantic 'Wild' Music Video with Wife Chrissy Teigen|website=People|last=VanHoose|first=Benjamin|date=August 13, 2020|access-date=August 15, 2020}}</ref><br>{{small|(with [[Gary Clark Jr.]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name=RIAA/>
+* ARIA: Gold<ref name=ARIA23s/>
+|-
+! scope="row"| "[[Minefields (Faouzia and John Legend song)|Minefields]]"<ref>{{cite web|url=https://music.apple.com/au/album/minefields-single/1537030403|title=Minefields – Single by Faouzia & John Legend|website=Apple Music|access-date=November 6, 2020}}</ref><br>{{small|(with [[Faouzia]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''Citizens''<ref>{{Cite web|url=https://music.apple.com/us/album/citizens/1620589102|title=Minefields - Single by Faouzia & John Legend on Apple Music|publisher=[[Apples Music]]|access-date=September 24, 2023}}</ref>
+|-
+! scope="row"| "[[Hallelujah (Carrie Underwood song)|Hallelujah]]"<br /><span style="font-size:85%;">(with [[Carrie Underwood]])</span>
+| 54 || — || — || — || — || — || — || — || — || —
+|
+| ''[[My Gift]]''
+|-
+! scope="row"| "In My Mind"<ref>{{Cite web|url=https://music.apple.com/us/album/in-my-mind-single/1575085966|title=In My Mind – Single by Alok & John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 2, 2021}}</ref><br /><span style="font-size:85%;">(with [[Alok (DJ)|Alok]])</span>
+| rowspan="2"| 2021
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4" {{Non-album singles}}
+|-
+! scope="row"| "You Deserve It All"<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-news/john-legend-you-deserve-it-all-single-1256368/|title=John Legend Welcomes the Holidays on 'You Deserve It All'|magazine=[[Rolling Stone]]|last=Zemler|first=Emily|date=November 11, 2021|access-date=December 7, 2021}}</ref>
+| —{{efn|group=upper-alpha|"You Deserve It All" did not enter the ''Billboard'' Hot 100, but peaked at number 10 on the Bubbling Under Hot 100 chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles"/>}} || — || — || — || — || — || — || — || — || —
+|-
+! scope="row"| "Tomorrow"<ref>{{Cite web |last=Larisha |first=Paul |date=February 4, 2022 |title=John Legend and Nas say hello to 'Tomorrow' on new collaboration |url=https://www.udiscovermusic.com/news/john-legend-nas-tomorrow-single/ |archive-url=https://web.archive.org/web/20220309232621/https://www.udiscovermusic.com/news/john-legend-nas-tomorrow-single/ |archive-date=March 9, 2022 |accessdate=March 11, 2022 |website=UDiscoverMusic}}</ref> <br /><span style="font-size:85%;">(with [[Florian Picasso]] featuring [[Nas]])</span>
+| rowspan="6"| 2022
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Free"<ref>{{Cite web|url=https://music.apple.com/us/album/free-single/1616229270|title=Free – Single by John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 27, 2022}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Dope" <br /><span style="font-size:85%;">(featuring [[JID]])</span><ref>{{Cite tweet |user=johnlegend |number=1524443771571646465 |title=DOPE feat. @JIDsv. May 18th. |date=May 11, 2022 |access-date=May 12, 2022}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4"| ''Legend''
+|-
+! scope="row"| "Honey" <br /><span style="font-size:85%;">(featuring [[Muni Long]])</span><ref>{{Cite tweet |user=johnlegend |number=1537549395041734656 |title=#Honey with @munilong drops at midnight tonight! |date=June 16, 2022 |access-date=June 17, 2022}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "All She Wanna Do" <br /><span style="font-size:85%;">(solo or featuring [[Saweetie]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Nervous"<ref>{{Cite web|url=https://music.apple.com/us/album/nervous-remix-single/1651689130|title=Nervous (Remix) – Single by John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 11, 2025}}</ref><br /><span style="font-size:85%;">(solo or remix featuring [[Sebastián Yatra]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Don't Need to Sleep"<ref>{{Cite magazine|url=https://www.rollingstone.com/music/music-news/john-legend-dont-need-sleep-we-dare-to-dream-documentary-1234928619/ |title=John Legend Is Wide Awake and Dreaming on New Single 'Don't Need to Sleep'|magazine=[[Rolling Stone]] |date=14 December 2023 |access-date=August 11, 2025}}</ref>
+|2023
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "L-O-V-E"<ref>{{Cite web |last=Siroky |first=Mary |url=https://consequence.net/2024/08/john-legend-my-favorite-dream-sufjan-stevens/ |title=John Legend Announces Children's Album Produced by Sufjan Stevens, Shares "L-O-V-E": Stream |date=August 9, 2024 |access-date=August 9, 2024}}</ref><br /><span style="font-size:85%;">(with [[Sufjan Stevens]], featuring Chrissy, Luna and Miles)</span>
+| rowspan="2"| 2024
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2"|''My Favorite Dream''
+|-
+! scope="row"| "Safe"<ref>{{Cite web |last=Thomson |first=Zangba |title=Discover Michaël Brun, John Legend, & Rutshelle Guillaume's "Safe" Single |date=November 13, 2024 |url=https://www.bongminesentertainment.com/michael-brun-john-legend-rutshelle-guillaume-safe-single/ |access-date=August 11, 2025}}</ref><br /><span style="font-size:85%;">(featuring [[Michaël Brun]] and Rutshelle Guillaume)</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Daylight"
+| rowspan="2" | 2026
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" | ''Muse''
+|-
+! scope="row"| "Fireflies" <br /><span style="font-size:85%;">(with [[Pharrell Williams]])</span>
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="14" style="font-size:90%"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles as featured artist, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:21.5em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="9"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard charts#Jazz|US<br />Jazz]]<br /><ref name="US-Jazz-singles" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Pop Songs|US<br />Pop]]<br /><ref>Peak chart positions for guest appearances on the [[Pop Songs]] chart in the United States:
+* "Finally": {{cite magazine |url={{BillboardURLbyName|artist=fergie|chart=Pop Songs B}} |title=Fergie – Chart History: Pop Songs |magazine=Billboard |access-date=May 29, 2012}}
+* "Like I'm Gonna Lose You": {{cite magazine |url={{BillboardURLbyName|artist=meghan trainor|chart=Pop Songs B}} |title=Meghan Trainor – Chart History: Pop Songs |magazine=Billboard |access-date=October 21, 2015}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]<br /><ref name="US-R&B-singles" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hot Rap Songs|US<br />Rap]]<br /><ref>Peak chart positions for guest appearances on the Rap Songs chart in the United States:
+* "Selfish": {{cite magazine |url={{BillboardURLbyName|artist=slum village|chart=Rap Songs}} |title=Slum Village – Chart History: Rap Songs |magazine=Billboard |access-date=June 1, 2013}}
+* "Magnificent": {{cite magazine |url={{BillboardURLbyName|artist=rick ross|chart=Rap Songs}} |title=Rick Ross – Chart History: Rap Songs |magazine=Billboard |access-date=June 9, 2012}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref>{{cite web |title=The ARIA Report: Issue 1029 (Week Commencing 16 November 2009) |url=http://www.aria.com.au/issue1029.pdf |archive-url=https://webarchive.nla.gov.au/awa/20091204130000/http://pandora.nla.gov.au/pan/23790/20091205-0000/issue1029.pdf |url-status=dead |archive-date=2009-12-04 |publisher=Australian Recording Industry Association |access-date=August 24, 2014 |page=4 }}{{cbignore|bot=medic}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref>Peak chart positions for guest appearances in Canada:
+* "Finally": {{cite magazine |url={{BillboardURLbyName|artist=fergie|chart=Billboard Canadian Hot 100}} |title=Fergie – Chart History: Billboard Canadian Hot 100 |magazine=Billboard |access-date=May 29, 2012}}
+* "Like I'm Gonna Lose You": {{cite magazine |url={{BillboardURLbyName|artist=meghan trainor|chart=Billboard Canadian Hot 100}} |title=Meghan Trainor – Chart History: Billboard Canadian Hot 100 |magazine=Billboard |access-date=May 18, 2015}}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[Irish Singles Chart|IRL]]<br /><ref>{{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2015&year=2015&week=12 |title=Irish Music Charts Archive (Top 100 Singles, Week Ending 19 March 2015) |work=chart-track.co.uk |publisher=[[GfK]] International |access-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150714173208/http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&ct=240001&arch=t&lyr=2015&year=2015&week=12 |archive-date=14 July 2015 |url-status=dead }}</ref>
+! scope="col" style="width:2.8em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref>Peak chart positions for guest appearances in the United Kingdom:
+* "Selfish": {{cite web |url=https://www.zobbel.de/cluk/CLUK_S.HTM |title=Chart Log UK: DJ S – The System Of Life |work=zobbel.de |publisher=Tobias Zywietz |access-date=February 9, 2012}}
+* "Heartbreaker": {{cite web |url=http://www.officialcharts.com/artist/_/mstrkrft/ |title=MSTRKRFT |publisher=Official Charts Company |access-date=June 9, 2012}}
+* "Getting Nowhere": {{cite web |url=http://www.officialcharts.com/artist/_/magnetic%20man/ |title=Magnetic Man |publisher=Official Charts Company |access-date=June 9, 2012}}</ref>
+|-
+! scope="row"| "[[Selfish (Slum Village song)|Selfish]]"<br /><span style="font-size:85%;">([[Slum Village]] featuring [[Kanye West]] and John Legend)</span>
+| 2004
+| 55 || — || — || 20 || 15 || — || — || — || 129
+|
+| ''[[Detroit Deli (A Taste of Detroit)]]''
+|-
+! scope="row"| "[[Grammy Family]]"<br /><span style="font-size:85%;">([[DJ Khaled]] featuring Kanye West, [[Consequence (rapper)|Consequence]], and John Legend)</span>
+| 2006
+| — || — || — || —{{efn|group=upper-alpha|"Grammy Family" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 24 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} || — || — || — || — || —
+|
+| ''[[Listennn... the Album]]'' and ''[[Don't Quit Your Day Job!]]''
+|-
+! scope="row"| "[[Finally (Fergie song)|Finally]]"<br /><span style="font-size:85%;">([[Fergie (singer)|Fergie]] featuring John Legend)</span>
+| rowspan="2"| 2008
+| —{{efn|group=upper-alpha|"Finally" did not enter the ''Billboard'' Hot 100, but peaked at number 1 on the Bubbling Under Hot 100 Singles chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles" />}} || — || 34 || — || — || — || 61 || — || —
+|
+| ''[[The Dutchess]]''
+|-
+! scope="row"| "Stay with Me (By the Sea)"<br /><span style="font-size:85%;">([[Al Green]] featuring John Legend)</span>
+| — || 16 || — || 49 || — || — || —  || — || —
+|
+| ''[[Lay It Down (Al Green album)|Lay It Down]]''
+|-
+! scope="row"| "[[Magnificent (Rick Ross song)|Magnificent]]"<br /><span style="font-size:85%;">([[Rick Ross (rapper)|Rick Ross]] featuring John Legend)</span>
+| rowspan="3"| 2009
+| 62 || — || — || 7 || 5 || — || — || — || —
+|
+| ''[[Deeper Than Rap]]''
+|-
+! scope="row"| "Whatever You Want"<br /><span style="font-size:85%;">(Consequence featuring Kanye West and John Legend)</span>
+| — || — || — || —{{efn|group=upper-alpha|"Whatever You Want" did not enter the ''Billboard'' Hot 100, but peaked at number 4 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-R&B-singles" />}} || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "Heartbreaker"<br /><span style="font-size:85%;">([[MSTRKRFT]] featuring John Legend)</span>
+| — || — || — || — || — || 63 || — || — || 50
+|
+| ''[[Fist of God]]''
+|-
+! scope="row"| "[[Move on Up]]"<ref>{{cite web |url=https://itunes.apple.com/us/album/move-on-up-remixes-by-radioclit/id371340705 |archive-url=https://web.archive.org/web/20160320204152/https://itunes.apple.com/us/album/move-on-up-remixes-by-radioclit/id371340705 |url-status=dead |archive-date=March 20, 2016 |title=Move On Up (Remixes by Radioclit) [feat. John Legend] – Single by Angélique Kidjo & John Legend |work=iTunes Store |access-date=August 11, 2013}}</ref><br /><span style="font-size:85%;">([[Angélique Kidjo]] featuring John Legend)</span>
+| rowspan="3"| 2010
+| — || — || — || — || — || — || — || — || —
+|
+| ''Õÿö''
+|-
+! scope="row"| "[[Don't Give Up (Peter Gabriel and Kate Bush song)|Don't Give Up]]"<ref>{{cite web |url=https://music.apple.com/bz/album/dont-give-up-feat-john-legend/374933350 |title=Don't Give Up (feat. John Legend & P!nk) – Single by Herbie Hancock |work=iTunes Store |access-date=August 11, 2013}}</ref><br /><span style="font-size:85%;">([[Herbie Hancock]] featuring John Legend and [[Pink (singer)|Pink]])</span>
+| — || — || — || — || — || — || — || — || —
+|
+| ''[[The Imagine Project]]''
+|-
+! scope="row"| "[[Fall in Love (Estelle song)|Fall in Love]]"<br /><span style="font-size:85%;">([[Estelle (musician)|Estelle]] featuring John Legend and [[Nas (rapper)|Nas]])</span>
+| — || — || — || 71 || — || — || — || — || —
+|
+| ''[[All of Me (Estelle album)|All of Me]]''
+|-
+! scope="row"| "[[Getting Nowhere]]"<br /><span style="font-size:85%;">([[Magnetic Man]] featuring John Legend)</span>
+| 2011
+| — || — || — || — || — || — || — || — || 65
+|
+| ''[[Magnetic Man (album)|Magnetic Man]]''
+|-
+! scope="row"| "Reminiscing"<ref>{{cite web |url=https://music.apple.com/us/album/reminiscing-feat-john-legend-single/529255571 |title=Reminiscing (feat. John Legend) – Single by Don Blaq |work=iTunes Store |access-date=August 11, 2013}}</ref><br /><span style="font-size:85%;">(Don Blaq featuring John Legend)</span>
+| 2012
+| — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "Dance the Pain Away"<ref>{{cite web |url=https://itunes.apple.com/us/album/dance-pain-away-feat.-john/id664878389 |archive-url=https://web.archive.org/web/20140619233032/https://itunes.apple.com/us/album/dance-pain-away-feat.-john/id664878389 |url-status=dead |archive-date=June 19, 2014 |title=Dance the Pain Away (feat. John Legend) [Remixes] – EP by Benny Benassi |work=iTunes Store |access-date=August 11, 2013}}</ref><br /><span style="font-size:85%;">([[Benny Benassi]] featuring John Legend)</span>
+| 2013
+| — || — || — || — || — || — || — || — || —
+|
+| ''[[Danceaholic]]''
+|-
+! scope="row"| "Don't Say Goodbye"<ref>{{cite web|url=https://music.apple.com/br/album/dont-say-goodbye-feat-john/907628363|title=iTunes – Music – Don't Say Goodbye (feat. John Legend) – Single by Sergio Mendes|work=iTunes Store|access-date=March 19, 2015}}</ref><br /><span style="font-size:85%;">([[Sérgio Mendes]] featuring John Legend)</span>
+| rowspan="2"| 2014
+| — || — || — || — || — || — || — || — || —
+|
+| ''Magic!''
+|-
+! scope="row"| "Angel"<ref name="Angel">{{cite web|last=Golding|first=Shenequa|url=https://www.vibe.com/2014/12/stacy-barthe-angel|title=Stacy Barthe Does Anita Baker Justice With Her Remake of 'Angel'|website=[[Vibe (magazine)|VIBE]]|publisher=[[Prometheus Global Media]]|access-date=December 24, 2014}}</ref><br /><span style="font-size:85%;">([[Stacy Barthe]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+| ''[[Becoming (Stacy Barthe album)|BEcoming]]''
+|-
+! scope="row"| "[[Lay Me Down (Sam Smith song)#Red Nose Day 2015 release|Lay Me Down]]"<br /><span style="font-size:85%;">([[Sam Smith (singer)|Sam Smith]] featuring John Legend)</span>
+| rowspan="2"| 2015
+| — || — || — || — || — || — || —  || 4 || 1
+|
+* BPI: Platinum<ref name="BPI" />
+| ''[[Red Nose Day 2015]]''
+|-
+! scope="row"| "[[Like I'm Gonna Lose You]]"<br /><span style="font-size:85%;">([[Meghan Trainor]] featuring John Legend)</span>
+| 8 || — || 5 || — || — || 1 || 8 || 96 || 99
+|
+* RIAA: 2× Platinum<ref name="RIAA" />
+* ARIA: 8× Platinum<ref name=ARIA23s/>
+* BPI: Platinum<ref name="BPI" />
+* MC: Gold<ref name="MC" />
+| ''[[Title (album)|Title]]''
+|-
+! scope="row"| "[[Listen (David Guetta song)|Listen]]"<br /><span style="font-size:85%;">([[David Guetta]] featuring [[John Legend]])</span>
+| rowspan="2"| 2016
+| — || — || — || — || — || — || — || — || — || 
+| ''[[Listen (David Guetta album)|Listen]]''
+|-
+! scope="row"| "[[Summer Nights (Tiësto song)|Summer Nights]]"<br /><span style="font-size:85%;">([[Tiësto]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || 60
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Higher (DJ Khaled song)|Higher]]"<br /><span style="font-size:85%;">([[DJ Khaled]] featuring [[Nipsey Hussle]] and John Legend)</span>
+| 2019
+| 21 || — || — || 9 || 7 || — || 40 || — || 48
+|
+* RIAA: Gold<ref name="RIAA" />
+| ''[[Father of Asahd]]''
+|-
+! scope="row"| "Quisiera"<br /><span style="font-size:85%;">([[Flor de Toloache]] featuring John Legend and [[Cultura Profética]])</span>
+| rowspan="3"| 2020
+| — || — || — || — || — || — || — || — || —
+|
+|''Indestructible''
+|-
+! scope="row"| "Memories"<br /><span style="font-size:85%;">([[Buju Banton]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+| ''[[Upside Down 2020]]''
+|-
+! scope="row"| "Drown"<br /><span style="font-size:85%;">([[Lecrae]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+| ''[[Restoration (Lecrae album)|Restoration]]''
+|-
+! scope="row"| "[[Tacones Rojos]]"<ref>{{Cite web|url=https://music.apple.com/us/album/tacones-rojos-single/1624965559|title=Tacones Rojos – Single by Sebastián Yatra & John Legend on Apple Music|publisher=[[Apple Music]]|access-date=August 27, 2022}}</ref><br /><span style="font-size:85%;">([[Sebastián Yatra]] featuring John Legend)</span>
+|2022
+| — || — || — || — || — || — || — || — || —
+|
+|''[[Dharma (Sebastián Yatra album)|Dharma]] +''
+|-
+! scope="row"| "Heading for Home"<ref>{{Cite web|url=https://www.broadwayworld.com/bwwmusic/article/Rufus-Wainwright-Shares-Heading-For-Home-Feat-John-Legend-20230411|title=Rufus Wainwright Shares 'Heading for Home (Feat. John Legend)'|publisher=[[BroadwayWorld]]|access-date=August 11, 2025}}</ref><br /><span style="font-size:85%;">([[Rufus Wainwright]] featuring John Legend)</span>
+| rowspan="2"| 2023
+| — || — || — || — || — || — || — || — || —
+|
+|''[[Folkocracy]]''
+|-
+! scope="row"| "The Show"<br /><span style="font-size:85%;">([[Niall Horan]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+|''[[The Show (Niall Horan album)|The Show]]''
+|-
+! scope="row"| "[[Bridge over Troubled Water (song)|Bridge Over Troubled Water]]"<br /><span style="font-size:85%;">([[Jacob Collier]] featuring John Legend and [[Tori Kelly]])</span>
+|2024
+| — || — || — || — || — || — || — || — || —
+|
+|''[[Djesse Vol. 4]]''
+|-
+! scope="row"| "Summertime Blue"<br /><span style="font-size:85%;">([[Norah Jones]] featuring John Legend)</span>
+| rowspan="3"| 2025
+| — || — || — || — || — || — || — || — || —
+|
+| {{TBA}}
+|-
+! scope="row"| "[[The Birds Don't Sing]]"<br /><span style="font-size:85%;">([[Clipse]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+|''[[Let God Sort Em Out]]''
+|-
+! scope="row"| "Church"<br /><span style="font-size:85%;">([[Tasha Cobbs Leonard]] featuring John Legend)</span>
+| — || — || — || — || — || — || — || — || —
+|
+|''TASHA''
+|-
+| colspan="13" style="font-size:90%"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== Promotional singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of promotional singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:21.5em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles" />
+|-
+! scope="row"| "I Know Better"
+| 2016
+| —
+| ''Darkness and Light''
+|-
+! scope="row"| "Last Time I Say Sorry"<br>{{small|(with [[Kane Brown]])}}<ref>{{cite web|url=https://music.apple.com/au/album/last-time-i-say-sorry-single/1503584660|title=Last Time I Say Sorry – Single by Kane Brown & John Legend|website=Apple Music|access-date=March 27, 2020}}</ref>
+| 2020
+| 89
+| ''[[Mixtape, Vol. 1 (EP)|Mixtape, Vol. 1]]''
+|-
+| colspan="4" style="font-size:90%"| "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+== Other charted songs ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of songs, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:21.5em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! colspan="3" scope="col" | Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-singles" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Billboard charts#Jazz|US<br />Jazz]]<br /><ref name="US-Jazz-singles" />
+! scope="col" style="width:2.8em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B/HH]]<br /><ref name="US-R&B-singles" />
+|-
+! scope="row"| "Slow Dance"
+| rowspan="2"| 2007
+| — || — || 81 
+|
+| rowspan="2"| ''Once Again''
+|-
+! scope="row"| "Each Day Gets Better"
+| — || 12 || — 
+|
+|-
+! scope="row"| "Good Morning"
+| rowspan="2"| 2008
+| — || 14 || — 
+|
+| rowspan="2"| ''Evolver''
+|-
+! scope="row"| "It's Over"<br /><span style="font-size:85%;">(featuring [[Kanye West]])</span>
+| — || — || —{{efn|group=upper-alpha|"It's Over" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 18 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} 
+|
+|-
+! scope="row"| "Decision"<br /><span style="font-size:85%;">([[Busta Rhymes]] featuring [[Jamie Foxx]], [[Mary J. Blige]], John Legend, and [[Common (rapper)|Common]])</span>
+| 2009
+| — || — || —{{efn|group=upper-alpha|"Decision" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 10 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} 
+|
+| ''[[Back on My B.S.]]''
+|-
+! scope="row"| "Free Mason"<br /><span style="font-size:85%;">([[Rick Ross]] featuring [[Jay-Z]] and John Legend)</span>
+| rowspan="2"| 2010
+| — || — || —{{efn|group=upper-alpha|"Free Mason" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 9 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} 
+|
+| ''[[Teflon Don (album)|Teflon Don]]''
+|-
+! scope="row"| "Shine"<br /><span style="font-size:85%;">(with [[The Roots]])</span>
+| — || — || 64 
+|
+| ''Wake Up!''
+|-
+! scope="row"| "So Special"<br /><span style="font-size:85%;">([[Lil Wayne]] featuring John Legend)</span>
+| 2011
+| 95 || — || — 
+|
+| ''[[Tha Carter IV]]''
+|-
+! scope="row"| "Rich Forever"<br /><span style="font-size:85%;">(Rick Ross featuring John Legend)</span>
+| 2012
+| — || — || —{{efn|group=upper-alpha|"Rich Forever" did not enter the R&B/Hip-Hop Songs chart, but peaked at number 8 on the Bubbling Under R&B/Hip-Hop Singles chart, which acts as an extension to the R&B/Hip-Hop Songs chart.<ref name="US-Bubbling-R&B-singles" />}} 
+|
+| ''[[Rich Forever]]''
+|-
+! scope="row"| "One Man Can Change the World"<br /><span style="font-size:85%;">([[Big Sean]] featuring Kanye West and John Legend)</span>
+| 2015
+| 82 || — || 27 
+|
+| ''[[Dark Sky Paradise]]''
+|-
+! scope="row"| "Start a Fire"
+| 2016
+| — || — || — 
+|
+| ''[[La La Land (soundtrack)|La La Land]]''
+|-
+! scope="row"| "[[What Christmas Means to Me]]"<br /><span style="font-size:85%;">(featuring [[Stevie Wonder]])</span>
+| rowspan="4"| 2018
+| —{{efn|group=upper-alpha|"What Christmas Means to Me" did not enter the ''Billboard'' Hot 100, but peaked at number one on the Bubbling Under Hot 100 chart, which acts as an extension to the Hot 100.<ref name="US-Bubbling-singles"/>}} || — || 49 
+|
+* RIAA: Platinum<ref name=RIAA/>
+| rowspan="5"| ''A Legendary Christmas''
+|-
+! scope="row"| "Bring Me Love"
+| — || — || — 
+|
+|-
+! scope="row"| "[[The Christmas Song|The Christmas Song (Chestnuts Roasting on an Open Fire)]]"
+| — || — || — 
+|
+|-
+! scope="row"| "[[Have Yourself a Merry Little Christmas]]"<br /><span style="font-size:85%;">(featuring [[Esperanza Spalding]])</span>
+| — || — || — 
+|
+|-
+! scope="row"| "[[Baby, It's Cold Outside]]"<br /><span style="font-size:85%;">(featuring [[Kelly Clarkson]])</span>
+| 2019
+| — || — || — 
+|
+|-
+! scope="row"| "U Move, I Move"<br /><span style="font-size:85%;">(featuring [[Jhené Aiko]])</span>
+| 2020
+| —{{efn|group=upper-alpha|"U Move, I Move" did not enter the ''Billboard'' Hot 100, but peaked at number 25 on the [[Bubbling Under Hot 100]] chart.<ref name="US-Bubbling-singles"/>}} || — || — 
+|
+| ''Bigger Love''
+|-
+! scope="row"| "[[God Did (song)|God Did]]"<br /><span style="font-size:85%;">([[DJ Khaled]] featuring Rick Ross, Lil Wayne, Jay-Z, John Legend, and [[Fridayy]])</span>
+| rowspan="2"| 2022
+| 17 || — || 6 
+|
+| ''[[God Did]]''
+|-
+! scope="row"| "On Time"<br /><span style="font-size:85%;">(with [[Metro Boomin]])</span>
+| 48 || — || 17 
+|
+| ''[[Heroes & Villains]]''
+|-
+| colspan="7" style="font-size:90%" | "—" denotes releases that did not chart or were not released in that territory.
+|}
+
+== Guest appearances ==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:21.5em;"| Title
+! scope="col"| Year
+! scope="col"| Other artist(s)
+! scope="col"| Album
+|-
+! scope="row"| "Swing by My Way"<ref name="mustb21">{{cite web |url = {{AllMusic|class=album|id=mw0000318447|pure_url=yes}} |title=Must B 21: Soundtrack to Get Things Started > Overview |access-date=June 11, 2012 |first=Stephen Thomas |last=Erlewine |work=AllMusic}}</ref>
+| rowspan="4"|2003
+| rowspan="2" | [[will.i.am]]
+| rowspan="2" | ''[[Must B 21]]''
+|-
+! scope="row"| "Ride Ride"<ref name="mustb21" />
+|-
+! scope="row"| "Summer Kiss"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000019463|pure_url=yes}} |title=Velvet > Overview |access-date=June 11, 2012 |first=Paula |last=Edelstein |work=AllMusic}}</ref>
+| [[Gerald Veasley]]
+| ''Velvet''
+|-
+! scope="row"| "[[Me Against the Music]]" ([[Kanye West]] Remix) <small>(Backing vocals)</small><ref>{{cite web |url = {{AllMusic|class=album|id=mw0000324730|pure_url=yes}} |title=Me Against the Music (Remixes) > Overview |access-date=June 17, 2013 |first=Paula |last=Edelstein |work=AllMusic}}</ref>
+| [[Britney Spears]]
+| ''[[Me Against the Music]] (Remix EP)''
+|-
+! scope="row"| "[[This Love (Maroon 5 song)|This Love]]" (Kanye West Remix) <small>(Backing vocals)</small>
+| rowspan="8"|2004
+| [[Maroon 5]]
+| {{N/A}}
+|-
+! scope="row"| "Hey Girl"<ref name="the18thday">{{cite web |url = {{AllMusic|class=album|id=mw0000470571|pure_url=yes}} |title=The 18th Day... > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| rowspan="2" | [[Estelle (musician)|Estelle]]
+| rowspan="2" | ''[[The 18th Day]]''
+|-
+! scope="row"| "Freedom"<ref name="the18thday" />
+|-
+! scope="row"| "U Know"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000220633|pure_url=yes}} |title=No Gray Area > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| White Boy
+| ''No Gray Area''
+|-
+! scope="row"| "So Soulful"<ref name="takeemtothecleaners">{{cite web |url = {{AllMusic|class=album|id=mw0000205389|pure_url=yes}} |title=Take 'Em to the Cleaners > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| rowspan="3" |[[Consequence (rapper)|Consequence]]
+| rowspan="3" |''[[Take 'Em To The Cleaners]]''
+|-
+! scope="row"| "Getting Out the Game"<ref name="takeemtothecleaners" />
+|-
+! scope="row"| "And You Say"<ref name="takeemtothecleaners" />
+|-
+! scope="row"| "Around My Way"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000719559|pure_url=yes}} |title=The Beautiful Struggle > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| [[Talib Kweli]]
+| ''[[The Beautiful Struggle]]''
+|-
+! scope="row"| "Faithful"<ref name="be">{{cite web |url = {{AllMusic|class=album|id=mw0000208461|pure_url=yes}} |title=Be > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="11"|2005
+| rowspan="2" | [[Common (rapper)|Common]]
+| rowspan="2" | ''[[Be (Common album)|Be]]''
+|-
+! scope="row"| "They Say"<ref name="be" />
+|-
+! scope="row"| "Grown Man Pt. 2"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000208730|pure_url=yes}} |title=Brothers from Another > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| [[Young Gunz]]
+| ''[[Brothers from Another]]''
+|-
+! scope="row"| "I've Been Waiting on You"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000217306|pure_url=yes}} |title=The Hip-Hop Violinist > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Miri Ben-Ari]]
+| ''[[The Hip-Hop Violinist]]''
+|-
+! scope="row"| "Like That"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000343891|pure_url=yes}} |title=Monkey Business > Overview |access-date=June 11, 2012 |first=John |last=Bush |work=AllMusic}}</ref>
+| [[Black Eyed Peas|The Black Eyed Peas]], [[Q-Tip (musician)|Q-Tip]], [[Talib Kweli]], [[CeeLo Green]]
+| ''[[Monkey Business (Black Eyed Peas album)|Monkey Business]]''
+|-
+! scope="row"| "Love Won't Let Me Wait"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000715165|pure_url=yes}} |title=So Amazing: An All-Star Tribute to Luther Vandross > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| {{n/a|none}}
+| ''So Amazing: An All-Star Tribute to Luther Vandross''
+|-
+! scope="row"| "Touch"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000381429|pure_url=yes}} |title=Genius & Friends > Overview |access-date=June 11, 2012 |first=John |last=Bush |work=AllMusic}}</ref>
+| [[Ray Charles]]
+| ''[[Genius & Friends]]''
+|-
+! scope="row"| "Hello, It's Me"<ref>{{cite magazine |url=https://www.billboard.com/articles/news/61948/morissette-urban-stone-among-gap-favorites |title=Morissette, Urban, Stone Among Gap 'Favorites' |magazine=Billboard |access-date=June 11, 2012}}</ref>
+| {{n/a|none}}
+| ''GAP - Favorite Songs''
+|-
+! scope="row"| "Please Don't Stop"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000779370|pure_url=yes}} |title=Tiki > Overview |access-date=June 11, 2012 |first=Jeff |last=Tamarkin |work=AllMusic}}</ref>
+| [[Richard Bona]]
+| ''Tiki''
+|-
+! scope="row"| "High Road"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000703596|pure_url=yes}} |title=The Rising Tied > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Fort Minor]]
+| ''[[The Rising Tied]]''
+|-
+! scope="row"| "Home"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0001057491|pure_url=yes}} |title=Freshmen Adjustment > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| Kanye West
+| ''[[Freshmen Adjustment]]''
+|-
+! scope="row"| "Please Baby Don't"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000487473|pure_url=yes}} |title=Timeless > Overview |access-date=May 30, 2012 |first=Thom |last=Jurek |work=AllMusic}}</ref>
+| rowspan="5"|2006
+| [[Sérgio Mendes]]
+| ''[[Timeless (Sérgio Mendes album)|Timeless]]''
+|-
+! scope="row"| "Sing You Sinners"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000451646|pure_url=yes}} |title=Duets: An American Classic > Overview |access-date=June 11, 2012 |first=John |last=Bush |work=AllMusic}}</ref>
+| [[Tony Bennett]]
+| ''[[Duets: An American Classic]]''
+|-
+! scope="row"| "Do U Wanna Ride"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000735307|pure_url=yes}} |title=Kingdom Come > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| [[Jay-Z]]
+| ''[[Kingdom Come (Jay-Z album)|Kingdom Come]]''
+|-
+! scope="row"| "King & Queen"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000445774|pure_url=yes}} |title=Reflections (A Retrospective) > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| [[Mary J. Blige]]
+| ''[[Reflections (A Retrospective)]]''
+|-
+! scope="row"| "Tōkage"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0001638966|pure_url=yes}} |title=Face to Face > Overview |access-date=June 11, 2012 |first=Adam |last=Greenberg |work=AllMusic}}</ref>
+| [[Chemistry (band)|Chemistry]]
+| ''Face to Face''
+|-
+! scope="row"| "Feel This Way"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000569769|pure_url=yes}} |title=Don't Quit Your Day Job > Overview |access-date=June 11, 2012 |first=Marisa |last=Brown |work=AllMusic}}</ref>
+| rowspan="6"|2007
+| Consequence
+| ''[[Don't Quit Your Day Job]]''
+|-
+! scope="row"| "Ghetto Rich"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000568099|pure_url=yes}} |title=Rich Boy > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| [[Rich Boy]]
+| ''[[Rich Boy (album)|Rich Boy]]''
+|-
+! scope="row"| "Eternity Intro"<ref name="betweenraisinghellandamazinggrace">{{cite web |url = {{AllMusic|class=album|id=mw0000585085|pure_url=yes}} |title=Between Raising Hell and Amazing Grace > Overview |access-date=June 11, 2012 |first=Stephen Thomas |last=Erlewine |work=AllMusic}}</ref>
+| rowspan="2" |[[Big & Rich]]
+| rowspan="2" |''[[Between Raising Hell and Amazing Grace]]''
+|-
+! scope="row"| "Eternity"<ref name="betweenraisinghellandamazinggrace" />
+|-
+! scope="row"| "Celebrate"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000497890|pure_url=yes}} |title=B.A.R.S.: The Barry Adrian Reese Story > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| [[Cassidy (rapper)|Cassidy]]
+| ''[[B.A.R.S. The Barry Adrian Reese Story]]''
+|-
+!scope="row"|"What Y'all Came to Do"
+|[[Aretha Franklin]]
+|''[[Jewels in the Crown: All-Star Duets with the Queen]]''
+|-
+! scope="row"| "Slide Show"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000796531|pure_url=yes}} |title=Paper Trail > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="3"|2008
+| [[T.I.]]
+| ''[[Paper Trail]]''
+|-
+! scope="row"| "Come Over"<ref name="shine">{{cite web |url = {{AllMusic|class=album|id=mw0000783329|pure_url=yes}} |title=Shine > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="2" | Estelle
+| rowspan="2" |''[[Shine (Estelle album)|Shine]]''
+|-
+! scope="row"| "You Are"<ref name="shine" />
+|-
+! scope="row"| "Decision"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000803149|pure_url=yes}} |title=Back on My B.S. > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| rowspan="4"|2009
+| [[Busta Rhymes]], [[Jamie Foxx]], Mary J. Blige, Common
+| ''[[Back on My B.S.]]''
+|-
+! scope="row"| "Entreolhares (The Way You Look at Me)"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0001504851|pure_url=yes}} |title=N9ve > Overview |access-date=June 11, 2012 |first=Jason |last=Birchmeier |work=AllMusic}}</ref>
+| [[Ana Carolina]]
+| ''[[N9ve]]''
+|-
+! scope="row"| "Let's Stop Playin'"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000827534|pure_url=yes}} |title=Ghostdini the Wizard of Poetry in Emerald City > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Ghostface Killah]]
+| ''[[Ghostdini: Wizard of Poetry in Emerald City]]''
+|-
+! scope="row"| "No Importa"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000829050|pure_url=yes}} |title=Uno No Es Uno > Overview|access-date=March 3, 2017|first=Jason |last=Birchmeier |work=AllMusic}}</ref>
+| [[Noel Schajris]]
+| ''[[Uno No Es Uno]]''
+|-
+! scope="row"| "The Fire"<ref name="howigotover">{{cite web |url = {{AllMusic|class=album|id=mw0000820054|pure_url=yes}} |title=How I Got Over > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="6"|2010
+| rowspan="2" | [[The Roots]]
+| rowspan="2" | ''[[How I Got Over (album)]]''
+|-
+! scope="row"| "Doing It Again"<ref name="howigotover" />
+|-
+! scope="row"| "[[Blame Game]]"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002022752|pure_url=yes}} |title=My Beautiful Dark Twisted Fantasy > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| Kanye West
+| ''[[My Beautiful Dark Twisted Fantasy]]''
+|-
+! scope="row"| "[[Christian Dior Denim Flow]]"<ref>{{cite web |url=http://www.hiphopdx.com/index/singles/id.12246/title.kanye-west-f-kid-cudi-pusha-t-john-legend-lloyd-banks-ryan-leslie-christian-dior-denim-flow |title=Kanye West f. Kid Cudi, Pusha T, John Legend, Lloyd Banks & Ryan Leslie – Christian Dior Denim Flow |work=HipHopDX |date=October 2, 2010 |access-date=June 11, 2012}}</ref>
+| Kanye West, [[Kid Cudi]], [[Pusha T]], [[Lloyd Banks]], [[Ryan Leslie]]
+| [[GOOD Fridays]] release
+|-
+! scope="row"| "[[The Way You Make Me Feel]]"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002044358|pure_url=yes}} |title=The 25th Anniversary Rock & Roll Hall of Fame Concerts > Overview |access-date=June 11, 2012 |first=Stephen Thomas |last=Erlewine |work=AllMusic}}</ref>
+| [[Stevie Wonder]]
+| ''The 25th Anniversary Rock & Roll Hall of Fame Concerts''
+|-
+! scope="row"| "Victory"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0001958423|pure_url=yes}} |title=Victory > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[DJ Khaled]], [[Nas]]
+| ''[[Victory (DJ Khaled album)|Victory]]''
+|-
+! scope="row"| "Never Forget You"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002099977|pure_url=yes}} |title=Lasers > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="6"|2011
+| [[Lupe Fiasco]]
+| ''[[Lasers (album)|Lasers]]''
+|-
+! scope="row"| "Eyez Closed"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002081514|pure_url=yes}} |title=Doggumentary > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Snoop Dogg]], Kanye West
+| ''[[Doggumentary]]''
+|-
+! scope="row"| "Memories (Part II)"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002113242|pure_url=yes}} |title=Finally Famous > Overview |access-date=December 16, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Big Sean]]
+| ''[[Finally Famous (Big Sean album)|Finally Famous]]''
+|-
+! scope="row"| "So Special"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002044358|pure_url=yes}} |title=Tha Carter IV > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Lil Wayne]]
+| ''[[Tha Carter IV]]''
+|-
+! scope="row"| "Karma"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002252505|pure_url=yes}} |title=El Amor Es Una Cosa Simple > Overview |access-date=June 11, 2012 |work=AllMusic}}</ref>
+| [[Tiziano Ferro]]
+| ''[[L'amore è una cosa semplice]]''
+|-
+! scope="row"| "The Believer"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002233280|pure_url=yes}} |title=The Dreamer/The Believer > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| Common
+| ''[[The Dreamer, The Believer]]''
+|-
+! scope="row"| "L.O.V.E."<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002196663|pure_url=yes}} |title=The MF Life > Overview |access-date=June 11, 2012 |first=Andy |last=Kellman |work=AllMusic}}</ref>
+| rowspan="5"|2012
+| [[Melanie Fiona]]
+| ''[[The MF Life]]''
+|-
+! scope="row"| "Ghetto Dreams"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002403649|pure_url=yes}} |title=Based on a T.R.U. Story > Overview |access-date=June 11, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[2 Chainz]], [[Scarface (rapper)|Scarface]]
+| ''[[Based on a T.R.U. Story]]''
+|-
+! scope="row"| "Sin City"<ref name="cruelsummer">{{cite web |url = {{AllMusic|class=album|id=mw0002412300|pure_url=yes}} |title=Cruel Summer > Overview |access-date=October 6, 2012 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| Travis Scott, [[Teyana Taylor]], [[Cyhi the Prynce]], [[Malik Yusef]]
+| rowspan="2" | ''[[Cruel Summer (GOOD Music album)|Kanye West Presents: GOOD Music – Cruel Summer]]''
+|-
+! scope="row"| "Bliss"<ref name="cruelsummer" />
+| Teyana Taylor
+|-
+! scope="row"| "Maybach Curtains"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002404926|pure_url=yes}} |title=Dreams and Nightmares > Overview |access-date=January 1, 2013 |first=David |last=Jeffries |work=AllMusic}}</ref>
+| [[Meek Mill]], Nas, Rick Ross
+| ''[[Dreams and Nightmares]]''
+|-
+! scope="row"| "Why Do I Even Go Home?"<ref>{{cite web |url=https://www.complex.com/music/2013/01/premiere-consequences-movies-on-demand-4-artwork-and-tracklisting |title=Premiere: Consequence's "Movies On Demand 4" Artwork and Tracklisting |work=[[Complex (magazine)|Complex]] |date=January 9, 2013 |access-date=January 9, 2013 |author=Martin, Andrew}}</ref>
+| rowspan="3"|2013
+| Consequence
+| ''Movies on Demand 4''
+|-
+! scope="row"| "Never Surrender"<ref>{{cite web |url=https://www.allmusic.com/album/suffering-from-success-mw0002582888 |title=Suffering from Success – DJ Khaled |work=AllMusic |access-date=December 23, 2013 |author=Jeffries, David}}</ref>
+| [[DJ Khaled]], [[Akon]], [[Anthony Hamilton (musician)|Anthony Hamilton]], [[Jadakiss]], Meek Mill, [[Scarface (rapper)|Scarface]]
+| ''[[Suffering from Success]]''
+|-
+! scope="row"| "Bridges"<ref>{{cite web |url=https://www.allmusic.com/album/freedom-mw0002594117 |title=Freedom – Rebecca Ferguson |work=AllMusic |access-date=December 23, 2013}}</ref>
+| [[Rebecca Ferguson (singer)|Rebecca Ferguson]]
+| ''[[Freedom (Rebecca Ferguson album)|Freedom]]''
+|-
+! scope="row"| "[[What Kind of Fool]]"
+| rowspan="1"| 2014
+| [[Barbra Streisand]]
+| ''[[Partners (Barbra Streisand album)|Partners]]''
+|-
+! scope="row"| "[[Run Run Run (Tokio Hotel song)|Run Run Run]]"
+|rowspan="4"|2015
+| [[Kelly Clarkson]]
+| ''[[Piece by Piece (Kelly Clarkson album)|Piece by Piece]]''
+|-
+! scope="row"| "God"
+| [[Scarface (rapper)|Scarface]]
+| ''[[Deeply Rooted]]''
+|-
+! scope="row"| "Most High"
+| DJ Khaled
+| ''[[I Changed a Lot]]''
+|-
+! scope="row"| "Free Enterprise"
+| Rick Ross
+| ''[[Black Market (Rick Ross album)|Black Market]]''
+|-
+! scope="row"| "Happy Birthday"
+| rowspan="4"|2016
+| [[Kygo]]
+| ''[[Cloud Nine (Kygo album)|Cloud Nine]]''
+|-
+! scope="row"| "Another Summer"
+| [[Mustard (record producer)|Mustard]], Rick Ross, [[James Fauntleroy]]
+| ''[[Cold Summer (Mustard album)|Cold Summer]]''
+|-
+! scope="row"| "Leave It to the Sky"<ref>{{Cite web|url=https://music.apple.com/us/album/why-dont-you-stay/1138648741?i=1138648867|title="Why Don't You Stay?" from Broken People by Muddy Magnolias on iTunes|website=iTunes|access-date=August 11, 2016}}</ref>
+|[[Muddy Magnolias]]
+|''Broken People''
+|-
+! scope="row"| "Rain"
+| Common
+| ''[[Black America Again]]''
+|-
+! scope="row"| "Holiday"
+| rowspan="2"|2017
+| [[Calvin Harris]], [[Snoop Dogg]], [[Takeoff (rapper)|Takeoff]]
+| ''[[Funk Wav Bounces Vol. 1]]''
+|-
+! scope="row"| "I'll Be Gentle"
+| [[Paloma Faith]]
+| ''[[The Architect (Paloma Faith album)|The Architect]]''
+|-
+! scope="row"| "Written In The Stars"
+| 2018
+| [[Wendy (singer)|Wendy]] 
+| ''[[SM Station|Station X 0]]''
+|-
+! scope="row"| "A Safe Place to Land"
+| rowspan="4"|2019
+| [[Sara Bareilles]] 
+| ''[[Amidst the Chaos]]''
+|-
+! scope="row"| "All Day Long"
+| [[Chance the Rapper]]
+| ''[[The Big Day (album)|The Big Day]]''
+|-
+! scope="row"| "Maybach Music VI"
+| Rick Ross, Lil Wayne
+| ''[[Port of Miami 2]]''
+|-
+! scope="row"| "The Real MVP"
+| [[Jeezy]] 
+| ''[[TM104: The Legend of the Snowman]]''
+|-
+! scope="row"| "Lightning & Thunder"
+| rowspan="2"|2020
+| [[Jhené Aiko]] 
+| ''[[Chilombo (album)|Chilombo]]''
+|-
+! scope="row"| "Last Time I Say Sorry"
+| [[Kane Brown]]
+| ''[[Mixtape, Vol. 1 (EP)|Mixtape, Vol. 1]]''
+|-
+! scope="row"| "Die Under the Moon"
+| rowspan="4"|2021
+| [[Yung Bleu]]
+| ''[[Moon Boy (album)|Moon Boy]]''
+|-
+!scope="row"|"Where Is Your Heart"
+|[[Diane Warren]]
+|''The Cave Sessions: Vol. 1''
+|-
+!scope="row"|"[[The Christmas Song (Chestnuts Roasting on an Open Fire)]]"
+|[[Nat King Cole]]
+|''A Sentimental Christmas with Nat King Cole and Friends: Cole Classics Reimagined''
+|-
+! scope="row"| "Touch the Sky"
+| [[French Montana]], Rick Ross
+| ''[[They Got Amnesia]]''
+|-
+! scope="row"| "Kim Porter"
+| 2023
+| [[Sean Combs|Diddy]], [[Babyface (musician)|Babyface]]
+| ''[[The Love Album: Off the Grid]]''
+|-
+! scope="row"| "Never Let Go"
+| 2025
+| [[Offset (rapper)|Offset]]
+| ''Kiari''
+|}
+
+==Soundtrack appearances==
+{|class="wikitable plainrowheaders"  style="text-align:center;" border="1"
+! width="290px"| Song
+! width="40px"| Year
+! width="290px"| Album
+|-
+! scope="row"| "Don't You Worry 'Bout a Thing"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0000259909|pure_url=yes}} |title=Hitch – Original Soundtrack > Overview |access-date=June 11, 2012 |first=Rob |last=Theakston |work=AllMusic}}</ref>
+|2005
+| [[Hitch (film)|''Hitch'' soundtrack]]
+|-
+! scope="row"| "Who Did That to You?"<ref>{{cite web |url = {{AllMusic|class=album|id=mw0002460486|pure_url=yes}} |title=Django Unchained <nowiki>[Original Motion Picture Soundtrack]</nowiki> > Overview |access-date=January 1, 2013 |first=Stephen Thomas |last=Erlewine |work=AllMusic}}</ref>
+|2012
+| [[Django Unchained (soundtrack)|''Django Unchained'' soundtrack]]
+|-
+! scope="row"| "My Imagination"
+|2015
+| ''[[Finding Neverland (musical)|Finding Neverland The Album (Songs From The Broadway Musical)]]''
+|-
+! scope="row"| "Start"<ref>{{Cite web|url=https://music.apple.com/us/album/southside-with-you-music-from-the-motion-picture/1145521695|title=Southside with You (Music From the Motion Picture) on iTunes|website=iTunes|access-date=August 4, 2025}}</ref>
+| rowspan="2"| 2016
+| ''Southside with You (Music From the Motion Picture)''
+|-
+! scope="row"| "History Has Its Eyes on You"
+| ''[[The Hamilton Mixtape]]''
+|-
+! scope="row"| "One Woman Man"
+|2017
+| ''[[Fifty Shades Darker: Original Motion Picture Soundtrack|Fifty Shades Darker (Original Motion Picture Soundtrack)]]''
+|-
+! scope="row"| "What's The Buzz / Strange Thing Mystifying"<br /><small>(with [[Sara Bareilles|Sarah Bareilles]] and [[Brandon Victor Dixon]])</small>
+| rowspan="14"| 2018
+| rowspan="14"| ''[[Jesus Christ Superstar Live in Concert|Jesus Christ Superstar Live in Concert (Original Soundtrack of the NBC Television Event)]]''<ref>{{cite web| url=https://music.apple.com/us/album/jesus-christ-superstar-live-in-concert-soundtrack-of/1359176580| title=''Jesus Christ Superstar Live in Concert'' (Original Soundtrack of the NBC Television Event)| publisher=Sony Music Entertainment| access-date=August 7, 2025}}</ref>
+|-
+! scope="row"| "Everything's Alright"<br /><small>(with Sarah Bareilles and Brandon Victor Dixon)</small>
+|-
+! scope="row"| "Hosanna"<br /><small>(with [[Norm Lewis]])</small>
+|-
+! scope="row"| "Simon Zealotes / Poor Jerusalem"<br /><small>(with [[Erik Grönwall]])</small>
+|-
+! scope="row"| "The Temple"
+|-
+! scope="row"| "Everything's Alright (Reprise)"<br /><small>(with Sarah Bareilles)</small>
+|-
+! scope="row"| "The Last Supper"<br /><small>(with Brandon Victor Dixon)</small>
+|-
+! scope="row"| "Gethsemane (I Only Want to Say)"
+|-
+! scope="row"| "Transition"
+|-
+! scope="row"| "The Arrest"<br /><small>(with [[Jason Tam]], [[Jin Ha]] and Norm Lewis)</small>
+|-
+! scope="row"| "Pilate and Christ"<br /><small>(with [[Ben Daniels]] and Jin Ha)</small>
+|-
+! scope="row"| "Trial Before Pilate (Including The 39 Lashes)"<br /><small>(with Ben Daniels, Jin Ha and Norm Lewis)</small>
+|-
+! scope="row"| "The Crucifixion"
+|-
+! scope="row"| "Curtain Call"<br /><small>(with Sarah Bareilles, Brandon Victor Dixon, [[Alice Cooper]], Ben Daniels, Norm Lewis, Jin Ha, Jason Tam and Erik Grönwall)</small>
+|-
+|}
+
+==Production discography==
+
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of [[music production|production]] credits, including non-performing [[Ghostwriter|songwriting]] or other contribution credits for other artists
+! scope="col" style="width:24em;"| Track(s)
+! scope="col" style="width:1em;"| Year
+! scope="col"| Credit(s)
+! scope="col"| Artist(s)
+! scope="col"| Album
+|-
+| 
+13. "[[Everything Is Everything (Lauryn Hill song)|Everything Is Everything]]"
+|1998
+|Keyboards
+|[[Lauryn Hill]]
+|''[[The Miseducation of Lauryn Hill]]''
+|-
+|
+10. "The Boogie That Be"
+|rowspan="2"|2003
+|Songwriter
+|[[Black Eyed Peas]]
+|''[[Elephunk]]''
+|-
+|
+4. "[[Encore (Jay-Z song)|Encore]]"
+|Songwriter, additional vocals
+|[[Jay-Z]]
+|''[[The Black Album (Jay-Z album)|The Black Album]]''
+|-
+|
+4. "[[Slow Jamz]]"<br>{{small|(with [[Kanye West]] featuring [[Jamie Foxx]])}}
+|rowspan="8"|2004
+| rowspan="2"|Keyboards
+| rowspan="2"|[[Twista]]
+| rowspan="2"|''[[Kamikaze (Twista album)|Kamikaze]]''
+|-
+|
+5. "[[Overnight Celebrity]]"
+|-
+|
+3. "Graduation Day"
+| Additional vocals, keyboards, songwriter
+| rowspan="2"|[[Kanye West]]
+| rowspan="2"|''[[The College Dropout]]''
+|-
+|
+11. "[[The New Workout Plan]]"
+| Songwriter
+|-
+|
+12. "[[I Want You (Janet Jackson song)|I Want You]]"
+|Songwriter
+|[[Janet Jackson]]
+|''[[Damita Jo (album)|Damita Jo]]''
+|-
+|
+6. "I Try"<br>{{small|(featuring [[Mary J. Blige]])}}
+|Songwriter
+|[[Talib Kweli]]
+|''[[The Beautiful Struggle]]''
+|-
+|
+9. "What Can I Do?"<br>{{small|(featuring [[Missy Elliott]])}}
+|Keyboards, additional vocals 
+|[[Shawnna]]
+|''[[Worth tha Weight]]''
+|-
+|
+10. "Hey Girl"<br>{{small|(featuring John Legend)}}
+| Co-producer <small>(with Joe Buhdah and E-Boogie)</small>
+| [[Estelle (musician)|Estelle]]
+| ''[[The 18th Day]]''
+|-
+|
+5. "Believer"
+|rowspan="2"|2005
+|Songwriter
+|[[Christina Milian]]
+|Various artists – ''[[Be Cool #Soundtrack|Be Cool]]''
+|-
+|
+2. "[[I Changed My Mind]]"
+| Songwriter 
+|[[Keyshia Cole]]
+|''[[The Way It Is (Keyshia Cole album)|The Way It Is]]''
+|-
+|
+13. "[[Finally (Fergie song)|Finally]]"<br>{{small|(featuring John Legend)}}
+|2006 
+| Producer <small>(with [[Ron Fair]])</small>
+|[[Fergie (singer)|Fergie]]
+|''[[The Dutchess]]''
+|-
+|
+4. "Love Is You"
+|rowspan="2"|2007
+|Producer, piano
+|[[Chrisette Michele]]
+|''[[I Am (Chrisette Michele album)|I Am]]''
+|-
+|
+5. "[[Good Life (Kanye West song)|Good Life]]"<br>{{small|(featuring [[T-Pain]])}}
+|Songwriter, additional vocals
+|Kanye West
+|''[[Graduation (album)|Graduation]]''
+|-
+|{{n/a}}
+| rowspan="11"|2008
+|Executive producer
+|rowspan="10"|Estelle
+|rowspan="9"|''[[Shine (Estelle album)|Shine]]''
+|-
+|
+1. "[[Wait a Minute (Just a Touch)]]"
+|rowspan="9"|Songwriter
+|-
+|
+2. "[[No Substitute Love]]"
+|-
+|
+3. "[[American Boy]]"<br>{{small|(featuring Kanye West)}}
+|-
+|
+4. "More Than Friends"
+|-
+|
+6. "[[Come Over (Estelle song)|Come Over]]"<br>{{small|(featuring [[Sean Paul]])}}
+|-
+|
+9. "Back In Love"
+|-
+|
+11. "[[Pretty Please (Love Me)]]"<br>{{small|(featuring [[CeeLo Green|Cee-Lo]])}}
+|-
+|
+12. "Shine"
+|-
+|
+13. "I Wanna Live"
+| ''Shine (Japanese/iTunes edition)''
+|-
+|
+6. "The Promise"
+| Co-producer <small>(with [[Devo Harris|Devo Springsteen]])</small>, keyboards
+| [[Deborah Cox]]
+|''[[The Promise (Deborah Cox album)|The Promise]]''
+|-
+|
+2. "Move On Me"
+|rowspan="2"|2009
+|Piano, songwriter 
+|rowspan="2"|[[Fink (singer)|Fink]]
+|rowspan="2"|''[[Sort of Revolution]]''
+|-
+|
+9. "Maker"
+|Songwriter
+|-
+|
+8. "Sweet Life"<br>{{small|(featuring John Legend)}}
+| rowspan="5"|2010
+| Producer
+|[[Rick Ross]]
+|''The Albert Anastasia EP''
+|-
+|
+11. "All the Boys"
+|Songwriter
+|[[Keri Hilson]]
+|''[[No Boys Allowed]]''
+|-
+|
+3. "Free Mason"<br>{{small|(featuring [[Jay-Z]])}}
+|Additional vocals, songwriter 
+|Rick Ross
+|''[[Teflon Don (album)|Teflon Don]]''
+|-
+|
+11. "Watch the Sunrise"
+| Songwriter, keyboards, additional vocals
+|[[Cassandra Wilson]]
+|''[[Silver Pony]]''
+|-
+|
+5. "I Don't Know Why, But I Do"
+| Songwriter
+|[[Chrisette Michele]]
+|''[[Let Freedom Reign]]''
+|-
+|
+5. "Silver&Gold" 
+| rowspan="3"|2011
+|Producer <small>(with [[Jerry Duplessis]])</small>
+|[[Musiq Soulchild]]
+| ''[[MusiqInTheMagiq]]''
+|-
+|
+9. "I Miss You Now"
+|Songwriter
+|[[Ledisi]]
+|''[[Pieces of Me (Ledisi album)|Pieces of Me]]''
+|-
+|
+13. "You Win"
+|Producer <small>(with Patrick Warren)</small>
+|[[Pixie Lott]]
+|''[[Young Foolish Happy]]''
+|-
+|
+1. "[[Baby Come Home (Scissor Sisters song)|Baby Come Home]]"
+|rowspan="6"|2012
+|Keyboards, songwriter
+|[[Scissor Sisters]]
+|''[[Magic Hour (Scissor Sisters album)|Magic Hour]]''
+|-
+|{{n/a}}
+|Executive producer
+|rowspan="3"|Estelle 
+|rowspan="3"|''[[All of Me (Estelle album)|All of Me]]''
+|-
+|
+5. "Cold Crush"
+|rowspan="2"|Songwriter
+|-
+|
+7. "[[Break My Heart (Estelle song)|Break My Heart]]"<br>{{small|(featuring [[Rick Ross]])}}
+|-
+|
+3. "When It's All Over"
+|rowspan="2"|Songwriter
+|rowspan="2"|[[Alicia Keys]]
+|rowspan="2"|''[[Girl on Fire (album)|Girl on Fire]]''
+|-
+|
+4. "Listen to Your Heart"
+|-
+|
+16. "I Come Apart"<br>{{small|(featuring [[Florence Welch]])}}
+|rowspan="6"|2013
+|Songwriter
+|[[ASAP Rocky]]
+|''[[Long. Live. ASAP]]''
+|-
+|
+6. "[[All of Me (John Legend song)|All of Me]]"
+|rowspan="4"|Producer <small>(with [[Dave Tozer]])</small>
+|rowspan="4"|John Legend
+|rowspan="4"|''[[Love in the Future]]''
+|-
+|
+8. "Save the Night"
+|-
+|
+11. "Dreams"
+|-
+|
+14. "[[You & I (Nobody in the World)]]" 
+|-
+|
+10. "[[Bound 2]]"
+|Songwriter
+|Kanye West
+|''[[Yeezus]]''
+|-
+|
+3. "Take Me"
+|rowspan="2"|2014
+|Songwriter
+|[[Paloma Faith]]
+|''[[A Perfect Contradiction]]''
+|-
+|
+11. "Nobody But You"
+|Songwriter, keyboards
+|[[Kimbra]]
+|''[[The Golden Echo]]''
+|-
+|{{n/a}}
+|rowspan="2"|2015
+|Executive producer
+|rowspan="2"|[[Stacy Barthe]]
+|rowspan="2"|''[[Becoming (Stacy Barthe album)|BEcoming]]''
+|-
+|
+5. "Here I Am"
+|Songwriter
+|-
+|
+14. "(I Guess I) Miss You"
+|2017
+|Songwriter<ref>{{Cite web |last=McIntyre |first=Hugh |title=David Bowie, John Legend, TI, And Aerosmith Are Writing The SpongeBob Squarepants Musical |url=https://www.forbes.com/sites/hughmcintyre/2015/09/03/david-bowie-john-legend-ti-and-aerosmith-are-writing-the-spongebob-squarepants-musical/ |access-date=2023-10-26 |website=Forbes |language=en}}</ref>
+|[[Ethan Slater]], Danny Skinner (as "[[SpongeBob SquarePants]]" and "[[Patrick Star]]" respectively)
+|''[[SpongeBob SquarePants (musical) #Musical Numbers|SpongeBob SquarePants, The New Musical (Original Cast Recording)]]''
+|-
+|
+9. "End In Love"
+|rowspan="2"|2018
+| Producer <small>(with [[RedOne]], [[Sean Garrett]] and T.I. Jakke)</small>
+|[[Jordan Smith (musician)|Jordan Smith]] 
+|''Only Love''
+|-
+|
+3. "Once I Was Loved"
+|Songwriter
+|[[Jennifer Warnes]]
+|''Another Time, Another Place''
+|-
+|
+9. "The Big Day"<br>{{small|(featuring [[Francis and the Lights]])}}
+|rowspan="2"|2019
+|Songwriter
+|[[Chance the Rapper]]
+|''[[The Big Day (album)|The Big Day]]''
+|-
+|
+"Something New"
+|Songwriter
+|[[Songland|Ollie Gabriel]]
+|''[[Songland]]''
+|-
+|
+1. "This Day"
+|rowspan="3"|2021
+|rowspan="2"|Songwriter
+|[[Justin Cornwell]], Sharon Rose
+|rowspan="2"|''[[Jingle Jangle: A Christmas Journey (soundtrack)]]''
+|-
+|
+9. "Make It Work"
+|[[Forest Whitaker]], [[Anika Noni Rose]]
+|-
+|
+6. "Where Is Your Heart"<br>{{small|(featuring John Legend)}}
+|Producer
+|[[Diane Warren]]
+|''Diane Warren: The Cave Sessions Vol 1''
+|-
+|
+6. "Believe It"
+|2023
+|Songwriter, additional vocals<ref>{{cite web | url=https://fox2now.com/business/press-releases/ein-presswire/659485061/actor-rob-murat-unveils-feel-good-rb-album-good-day-good-people-with-john-legend-j-ivy-shatta-wale-jon-connor/ | title=Actor Rob Murat Unveils Feel Good R&B Album, "Good Day Good People," with John Legend, J. Ivy, Shatta Wale & Jon Connor | date=4 October 2023 }}</ref>
+|[[Rob Murat]]
+|''Good Day Good People''
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.johnlegend.com/ Official website]
+* [https://www.allmusic.com/artist/john-legend-mn0000814387 John Legend] at [[AllMusic]]
+* {{Discogs artist |artist=John Legend |name=John Legend}}
+* {{MusicBrainz artist |id=75a72702-a5ef-4513-bca5-c5b944903546 |name=John Legend}}
+
+{{John Legend}}
+
+{{DEFAULTSORT:Legend, John}}
+[[Category:Discographies of American artists]]
+[[Category:Rhythm and blues discographies]]
+[[Category:John Legend|Discography]]
+[[Category:Production discographies]]

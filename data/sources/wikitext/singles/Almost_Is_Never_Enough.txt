@@ -1,0 +1,124 @@
+{{Use mdy dates|date=June 2026}}
+{{Infobox song
+| name     = Almost Is Never Enough
+| cover    =
+| alt      =
+| border   = yes
+| type     = Promotional
+| artist   = [[Ariana Grande]] and [[Nathan Sykes]]
+| album    = [[The Mortal Instruments: City of Bones (Music from the Motion Picture)|The Mortal Instruments: City of Bones]] {{Noitalic|and}} [[Yours Truly (Ariana Grande album)|Yours Truly]]
+| released = {{Start date|2013|08|19}}<ref>{{Cite web|url=https://www.amazon.com/Almost-Never-Enough-Soundtrack-Version/dp/B00ECMCYLU|title=Almost is Never Enough|website=Amazon }}</ref>
+| recorded = 2011
+| studio   =
+* Powerhouse Studios (London, England)
+* London Bridge Studios (Los Angeles, CA)
+| genre    = 
+* [[Pop music|Pop]]
+* [[Soul music|soul]]
+| length   = {{ubl|{{duration|m=3|s=30}} {{small|(soundtrack version)}}|{{duration|m=5|s=28}} {{small|(album version)}}}}
+| label    = 
+* [[Republic Records|Republic]]
+* [[Island Records|Island]]<ref name="UK chart">{{cite web|title=CHART LOG UK: NEW ENTRIES UPDATE (31/08/2013)|url=http://zobbel.de/cluk/130831cluk.txt|access-date=December 4, 2013|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303201757/http://zobbel.de/cluk/130831cluk.txt|url-status=live}}</ref>
+| writer   = 
+* [[Harmony Samuels]]
+* [[Carmen Reece|Helen "Carmen Reece" Culver]]
+* [[Al Sherrod Lambert]]
+* Moses Ayo Samuels
+* Olaniyi Michael Akinkunmi
+* Ariana Grande
+| producer = Harmony
+| chronology = [[Ariana Grande]] [[promotional singles]]
+| prev_title = [[L.A. Boyz (song)|L.A. Boyz]]
+| prev_year  = 2012
+| next_title = [[Best Mistake]]
+| next_year  = 2014
+| misc       = {{External music video|{{YouTube|b87dBaL4qI0|"Almost Is Never Enough"}}|type=song}}
+}}
+
+"'''Almost Is Never Enough'''" is a song recorded by American singer [[Ariana Grande]] and English singer [[Nathan Sykes]]. The [[Pop music|pop]] and [[Soul music|soul]]-influenced track was written by [[Carmen Reece]], [[Al Sherrod Lambert]], Moses Ayo Samuels, Olaniyi Michael Akinkunmi, Grande, and its producer, [[Harmony Samuels]]. Two official versions of the song exist. A shortened version is included on the [[The Mortal Instruments: City of Bones (Music from the Motion Picture)|official soundtrack]] for the 2013 fantasy film ''[[The Mortal Instruments: City of Bones]]'' and was released August 19, 2013, via [[Republic Records]] as a second promotional single from the same, following [[Colbie Caillat]]'s "When the Darkness Comes" on July 10, and a longer version was remastered for inclusion on Grande's debut studio album, ''[[Yours Truly (Ariana Grande album)|Yours Truly]]'' (2013).
+
+==Composition==
+The song is composed using the key of D Major. The duo's vocal range spans 2 octaves and 2 notes, from F#3 to D6.
+
+==Critical reception==
+{{listen|filename=Almost Is Never Enough.ogg|title="Almost Is Never Enough" (2013)
+|description=A 29-second sample of "Almost Is Never Enough", a [[Pop music|pop]] and [[Soul music|soul]] song.
+|pos= left
+|format=[[Ogg]]
+|align = right
+|type= music
+}}
+The duet received primarily positive reception. ''[[Idolator (website)|Idolator]]'' editor Mike Wass called "Almost Is Never Enough" a "glorious" and "soulful" anthem and praised the collaboration between the two artists; "The simple production is timeless and showcases Ariana’s powerful pipes superbly. And who knew Nathan could sing like that? 'Almost Is Never Enough' is a revelation all around and promises very good things for Grande's debut album."<ref>{{cite web|last=Wass|first=Mike|title=Ariana Grande Duets With The Wanted's Nathan Sykes: Hear A Snippet Of "Almost Is Never Enough"|url=http://idolator.com/7472628/ariana-grande-almost-is-never-enough|work=[[Idolator (website)|Idolator]]|date=July 22, 2013|publisher=[[Spin Media]]|access-date=September 15, 2013|archive-date=December 4, 2023|archive-url=https://web.archive.org/web/20231204192929/https://www.idolator.com/7472628/ariana-grande-almost-is-never-enough|url-status=dead}}</ref> Brent Faulkner of ''Star Pulse'' found the duet to be a pleasantly surprising blend of modern and classical elements and noted that the song "should be sappy but isn't".<ref>{{cite web|last=Faulkner|first=Brent|title=Review: Ariana Grande 'Yours Truly' - Ariana Grande Stuns Vocally Throughout Her Debut Album|url=http://www.starpulse.com/news/Brent_Faulkner/2013/09/11/review_ariana_grande_yours_truly_aria|publisher=Star Pulse|access-date=September 15, 2013|archive-date=July 22, 2015|archive-url=https://web.archive.org/web/20150722071904/http://www.starpulse.com/news/Brent_Faulkner/2013/09/11/review_ariana_grande_yours_truly_aria|url-status=dead}}</ref> This sentiment was mirrored by ''Popdust''{{'}}s Andrew Unterberger, who observed that the song "manages to mostly stay out of the way of its two talented young vocalists... and lets them carry it with the strength of their voices, and of the song itself. The result is a ballad that’s surprisingly mature and classic sounding." Unterberger also drew comparisons to [[Mariah Carey]], and her [[Boyz II Men]] duet "[[One Sweet Day]]" also [[Brandy Norwood|Brandy]] and [[Wanya Morris]]'s "[[Brokenhearted (Brandy Norwood song)|Brokenhearted]]" in particular.<ref>{{cite web|last=Unterberger|first=Andrew|title=Ariana Grande's "Yours Truly" Reviewed: "Almost Is Never Enough"|work=Popdust|date=September 3, 2013|url=http://popdust.com/2013/09/03/ariana-grandes-yours-truly-reviewed-almost-is-never-enough/|access-date=September 15, 2013|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303230845/http://popdust.com/2013/09/03/ariana-grandes-yours-truly-reviewed-almost-is-never-enough/|url-status=live}}</ref>
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+! Chart (2013–2016)
+! Peak<br/>position
+|-
+{{single chart|Ireland|56|artist=Ariana Grande featuring Nathan Sykes|song=Almost is Never Enough|week=34|year=2013|rowheader=true|access-date=March 5, 2015}}
+|-
+{{single chart|Scotland|60|date=20130825|rowheader=true}}
+|-
+! scope="row"|South Korea International Chart ([[Gaon Chart|Gaon]])<ref>{{cite web | url = http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=week&hitYear=2016&targetTime=01&nationGbn=E | publisher = [[Gaon Chart]] | title = Gaon Digital Chart – Issue date: 2015.12.27 – 2016.01.02 | access-date = January 12, 2016 | archive-date = March 4, 2016 | archive-url = https://web.archive.org/web/20160304212628/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=week&hitYear=2016&targetTime=01&nationGbn=E | url-status = live }}</ref>
+| 4
+|-
+{{single chart| UKsinglesbyname| 49| artist=Ariana Grande featuring Nathan Sykes| song=Almost is Never Enough|rowheader=true|artistid=30674}}
+|-
+{{single chart| Billboardhot100| 82| artist=Ariana Grande| song=Almost is Never Enough|rowheader=true}}
+|}
+{{col-2}}
+
+===Year-end charts===
+
+{|class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col"| Chart (2015)
+!scope="col"| Position
+|-
+! scope="row"| South Korea International Chart ([[Gaon Chart|GAON]])<ref>{{cite web |url =http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=year&hitYear=2016&targetTime=2016&nationGbn=E |title =2016년 Digital Chart (International) |publisher =[[Gaon Music Chart|GAON]] |language =ko |access-date =September 14, 2017 |archive-date =September 14, 2017 |archive-url =https://web.archive.org/web/20170914220348/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=year&hitYear=2016&targetTime=2016&nationGbn=E |url-status =live }}</ref>
+| 113
+|}
+
+{|class="wikitable plainrowheaders" style="text-align:center"
+|-
+!scope="col"| Chart (2016)
+!scope="col"| Position
+|-
+! scope="row"| South Korea International Chart ([[Gaon Chart|GAON]])<ref>{{cite web |url =http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=year&hitYear=2016&targetTime=2016&nationGbn=E |title =2016년 Digital Chart (International) |publisher =[[Gaon Music Chart|GAON]] |language =ko |access-date =September 14, 2017 |archive-date =September 14, 2017 |archive-url =https://web.archive.org/web/20170914220348/http://gaonchart.co.kr/main/section/chart/online.gaon?serviceGbn=ALL&termGbn=year&hitYear=2016&targetTime=2016&nationGbn=E |url-status =live }}</ref>
+| 52
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top}}
+{{certification Table Entry|artist=|type=single|region=Australia|title=|certyear=2023|award=Platinum|access-date=July 7, 2023}}
+{{certification Table Entry|region=Brazil|artist=Ariana Grande|title=Almost Is Never Enough|award=Gold|type=single|relyear=2013|certyear=2023|access-date=December 15, 2023}}
+{{certification Table Entry|region=New Zealand|artist=Ariana Grande And Nathan Sykes|title=Almost Is Never Enough|award=Platinum|type=single|relyear=2013|certyear=2023|source=radioscope|access-date=June 12, 2025}}
+{{Certification Table Entry|region=United Kingdom|type=single|artist=Ariana Grande & Nathan Sykes|title=Almost Is Never Enough|award=Silver|relyear=2013|certyear=2023|id=19016-6376-1|access-date=June 5, 2023}}{{Certification Table Entry|region=United States|title=Almost Is Never Enough|artist=Ariana Grande|type=single|award=Platinum|relyear=2013|certyear=2025|source="RIAA"}}
+{{Certification Table Bottom|nosales=true|noshipments=true|streaming=true}}
+
+==References==
+{{reflist}}
+
+{{Ariana Grande songs}}
+{{Nathan Sykes}}
+{{The Shadowhunter Chronicles}}
+{{authority control}}
+
+[[Category:2010s ballads]]
+[[Category:2013 songs]]
+[[Category:Ariana Grande songs]]
+[[Category:Island Records singles]]
+[[Category:Male–female vocal duets]]
+[[Category:Pop ballads]]
+[[Category:Republic Records singles]]
+[[Category:Songs written by Al Sherrod Lambert]]
+[[Category:Songs written by Ariana Grande]]
+[[Category:Songs written by Carmen Reece]]
+[[Category:Songs written by Harmony Samuels]]
+[[Category:Soul ballads]]
+[[Category:The Mortal Instruments]]

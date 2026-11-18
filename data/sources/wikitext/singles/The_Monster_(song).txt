@@ -1,0 +1,604 @@
+{{For|songs with similar title|Monster (disambiguation)|The Monster Song}}
+{{Distinguish|Godzilla (Eminem song)|text=Eminem's song "[[Godzilla (Eminem song)|Godzilla]]" with its repeated refrain of "monster"}}
+{{Use mdy dates|date=December 2024}}
+{{Infobox song
+| name          = The Monster
+| cover         = The Monster cover.png
+| alt           = 
+| type          = single
+| artist        = [[Eminem]] featuring [[Rihanna]]
+| album         = [[The Marshall Mathers LP 2]]
+| released      = {{Start date|2013|10|29}}
+| recorded      = 2012–2013
+| studio        = Effigy Studios (Detroit, MI)<ref>{{cite web |url=http://www.allmusic.com/album/the-marshall-mathers-lp-2-mw0002583498/credits |title=The Marshall Mathers LP 2 – Eminem &#124; Credits |website=AllMusic |date=2013-11-05 |access-date=2013-11-19 |archive-date=April 6, 2023 |archive-url=https://web.archive.org/web/20230406044101/https://www.allmusic.com/album/the-marshall-mathers-lp-2-mw0002583498/credits |url-status=live }}</ref>
+| genre         = * [[Pop rap]]
+* [[rap rock]]
+| length        = {{duration|m=4|s=10}}
+| label         = {{hlist|[[Aftermath Entertainment|Aftermath]]|[[Shady Records|Shady]]|[[Interscope Records|Interscope]]}}
+| writer        = {{hlist|[[Eminem|Marshall Mathers]]|[[Rihanna|Robyn Fenty]]|Maki Athanasiou|[[Frequency (record producer)|Bryan Fryzel]]|[[Aalias|Aaron Kleinstub]]|[[Jon Bellion|Jonathan Bellion]]|[[Bebe Rexha|Bleta Rexha]]}}
+| producer      = {{hlist|Frequency|Aalias}}
+| tracks        = 
+| misc          = {{Extra chronology
+ | artist     = [[Eminem]]
+ | type       = single
+ | prev_title = [[Rap God]]
+ | prev_year  = 2013
+ | title      = The Monster
+ | year       = 2013
+ | next_title = [[Headlights (Eminem song)|Headlights]]
+ | next_year  = 2013
+}}
+{{Extra chronology
+ | artist     = [[Rihanna]]
+ | type       = single
+ | prev_title = [[What Now (song)|What Now]]
+ | prev_year  = 2013
+ | title      = The Monster
+ | year       = 2013
+ | next_title = [[Can't Remember to Forget You]]
+ | next_year  = 2014
+}}
+{{External music video|{{YouTube|EHkozMIXZ8w|"The Monster (Explicit)"}}}}
+{{Audio sample
+ | type        = single
+ | file        = The Monster (Eminem featuring Rihanna) sample.ogg
+}}
+}}
+
+"'''The Monster'''" is a song by American rapper [[Eminem]] from his album ''[[The Marshall Mathers LP 2]]'' (2013) featuring a guest appearance from Barbadian singer [[Rihanna]]. The song was written by [[Bebe Rexha]], [[Eminem]], [[Rihanna]], [[Aalias]], [[Jon Bellion]], Maki Athanasiou, and [[Frequency (record producer)|Frequency]], with the latter also handling production. Released on October 29, 2013, as the fourth single from the album, "The Monster" marks the fourth collaboration between Eminem and Rihanna, following "[[Love the Way You Lie]]" (2010), its sequel "[[Love the Way You Lie (Part II)]]" (2010), and "[[Numb (Rihanna song)|Numb]]" (2012), and is a hip-hop and pop song, with lyrics that describe Eminem pondering the negative effects of his [[Celebrity|fame]] while Rihanna comes to grips with her inner demons.
+
+Upon release, the song was met with positive reviews from [[music critics]], who compared the song to "Love the Way You Lie". "The Monster" has successfully charted worldwide, topping the charts in twelve countries including Australia, Canada, France, Ireland, New Zealand, Russia, Switzerland, the United Kingdom and the United States' [[Billboard Hot 100|''Billboard'' Hot 100]]. It also marks Eminem's first number one on the US [[Hot R&B/Hip-Hop Songs]] chart and has reached the top ten in Austria, Belgium, Italy and Spain.
+
+==Background and production==
+[[File:Bebe Rexha by rufusowliebat.jpg|thumbnail|upright|left|The song, "Monster Under My Bed," written by [[Bebe Rexha]], was originally intended to be used on her own debut album. The chorus was later used for "The Monster"]]
+
+In 2010, Eminem and Rihanna released their first official collaboration titled "[[Love the Way You Lie]]". The song received both critical and commercial success and topped the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart for seven consecutive weeks.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/951892/rihanna-and-eminems-love-the-way-you-lie-part-ii-sequel-leaks |first=Monica |last=Herrera |title=Rihanna and Eminem's 'Love the Way You Lie (Part II)' Sequel Leaks |magazine=[[Billboard (magazine)|Billboard]] |date=November 3, 2010 |access-date=February 1, 2013 |archive-url=https://web.archive.org/web/20130705063941/http://www.billboard.com/articles/news/951892/rihanna-and-eminems-love-the-way-you-lie-part-ii-sequel-leaks |archive-date=July 5, 2013 |url-status=live }}</ref> By the end of the year, 854,000&nbsp;copies of the song were sold in the UK, making "Love the Way You Lie" the [[List of best-selling singles by year in the United Kingdom|country's biggest-selling song of 2010]].<ref name="official charts end of 2010">{{cite web|title=Eminem/Rihanna & Take That scoop 2010 crowns |url=http://www.officialcharts.com/chart-news/cardle-at-no-1-again-eminemrihanna-take-that-scoop-2010-crowns/ |publisher=[[Official Charts Company]] |access-date=January 29, 2011 |date=January 2, 2011 |archive-url=https://web.archive.org/web/20111026060230/http://www.theofficialcharts.com/chart-news/cardle-at-no-1-again-eminemrihanna-take-that-scoop-2010-crowns/ |archive-date=October 26, 2011 }}</ref> The same year, a sequel to the single, titled "[[Love the Way You Lie (Part II)]]" was released as part of Rihanna's fifth studio album ''[[Loud (Rihanna album)|Loud]]''; it mainly views matters from the female protagonist perspective.<ref name="latimesmag">{{cite news|first=Gerrick D. |last=Kennedy |title=Hooked |url=http://www.latimesmagazine.com/2011/06/hooked.html |access-date=December 4, 2011 |work=[[Los Angeles Times]] |date=June 2011 |archive-url=https://web.archive.org/web/20130704171751/http://www.latimesmagazine.com/2011/06/hooked.html |archive-date=July 4, 2013 |url-status=live }}</ref> In November 2012, Eminem and Rihanna collaborated again on "[[Numb (Rihanna song)|Numb]]", which was included on Rihanna's seventh album ''[[Unapologetic]]''.<ref name="Notes">{{cite AV media notes|others=Rihanna|title=[[Unapologetic]]|year=2012|type= inlay cover|publisher= [[Def Jam Recordings]], SRP|page=19}}</ref>
+
+In November 2012, singer Bebe Rexha was at Stadium Red studio in [[Harlem|Harlem, New York]] working on material to be included in her debut album. During the sessions, Rexha stated that she "was in a really dark place, a dark head space. Figuring out where you are in life and trying to make shit work for yourself—it gets to you. You get super down on yourself. I was just trying to get out of a depressed phase." At that moment, she wrote the hook for "The Monster"; in the moment she wrote it she knew that it was going to be a song performed by Eminem.<ref name="beberexhawritting">{{cite web|url=http://www.vibe.com/article/singer-bebe-rexha-talks-co-writing-eminem-and-rihannas-mmlp2-collaboration-monster|title=Singer Bebe Rexha Talks Co-Writing Eminem And Rihanna's 'MMLP2' Collaboration 'The Monster'|work=[[Vibe (magazine)|Vibe]]|last=Kennedy|first=John|date=October 24, 2013|access-date=October 29, 2013|archive-date=October 2, 2015|archive-url=https://web.archive.org/web/20151002182327/http://www.vibe.com/article/singer-bebe-rexha-talks-co-writing-eminem-and-rihannas-mmlp2-collaboration-monster|url-status=live}}</ref> The singer further stated that she got the inspiration from the quote "about the monsters that are around us and that live inside of us"; additionally, Rexha was disappointed at being dropped from the [[Island Def Jam]] record label.<ref name="beberexhawritting"/>
+
+The Senior Director of A&R for [[Shady Records]], [[Riggs Morales]] started looking for potential songs to be included on Eminem's eighth studio album. When the producer of "The Monster", [[Frequency (record producer)|Frequency]], played the song for Morales he "freaked out" and asked for the verses to be stripped and [[ProTools]] sessions to be sent to Eminem.<ref name="beberexhawritting"/> When Eminem heard the demo he then added his own verses and adjusted the instrumental portion(s) of the track. However, he left the background vocals sung by Rexha intact. On September 11, 2013, Rihanna wrote on her [[Twitter]] account that she had recorded a "#monster" hook for one of her favorite artists.<ref name="beberexhawritting"/> On October 22, Eminem revealed the track listing for his eighth studio album, ''[[The Marshall Mathers LP 2]]'', including "The Monster" on which Rihanna was credited as a featured artist.<ref>{{cite web |url=https://www.hotnewhiphop.com/16398-eminem-reveals-mmlpii-cover-art-news |title=Eminem Reveals "MMLP2" Cover Art [Update: Deluxe Edition Tracklist Revealed&#93; |date=October 22, 2013 |publisher=Hotnewhiphop.com |access-date=October 30, 2013 |archive-date=August 10, 2023 |archive-url=https://web.archive.org/web/20230810224847/https://www.hotnewhiphop.com/16398-eminem-reveals-mmlpii-cover-art-news |url-status=live }}</ref> Shortly after premiering the song, Eminem spoke of working with Rihanna again to [[MTV News]]: "The perception of the record, what it's saying, I thought it would be a good idea to have her on it because I think people look at us like we're both a little nuts. That's one of the things that I was telling her in making the record: I think that people look at us a little crazy."<ref>{{Cite web|url=http://www.mtv.com/news/1716821/eminem-rihanna-monster-collaboration-perfect/|archive-url=https://web.archive.org/web/20140812220530/http://www.mtv.com/news/1716821/eminem-rihanna-monster-collaboration-perfect/|url-status=dead|archive-date=August 12, 2014|title=Eminem On 'Monster' Rihanna Collabo: 'People Look At Us Like We're Both A Little Nuts'|first=Rob|last=Markman|website=MTV News}}</ref>
+
+==Composition==
+The song runs for 4 minutes and 10 seconds and is set in the key of [[C-sharp minor]] in common time, with a [[chord progression]] of C#m-B-A, and a [[tempo]] of 110 beats per minute. Vocals span from C#4-D#6.<ref>{{Cite web |url=https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0126810 |title=The Monster Sheet Music |access-date=April 12, 2024 |archive-date=February 22, 2025 |archive-url=https://web.archive.org/web/20250222044823/https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0126810 |url-status=live }}</ref>
+
+==Critical reception==
+The song was generally well received by critics. Writing for the ''[[International Business Times|IBTimes]]'', Tarun Mazumdar reacted positively to it, praising its "memorable lines" and Rihanna's "soulful" vocals and rating it 3.5 out of 5.<ref name=mazumdar>{{cite web|last=Mazumdar|first=Tarun|title=Review: Eminem and Rihanna's New Single 'The Monster' is One Monster of a Single|url=http://au.ibtimes.com/articles/518836/20131101/eminem-feat-rihanna-monster-single-review.htm|work=[[International Business Times]]|access-date=November 12, 2013|date=November 1, 2013|archive-url=https://web.archive.org/web/20131112043056/http://au.ibtimes.com/articles/518836/20131101/eminem-feat-rihanna-monster-single-review.htm|archive-date=November 12, 2013}}</ref> Amy Sciaretto of ''PopCrush'' gave it the same rating and noted that "it's not nearly as powerful or affective as the previous partnership, but it's not supposed to be."<ref name=sciarretto>{{cite web|last=Sciarretto|first=Amy|title=EMINEM, 'THE MONSTER' – FEAT. RIHANNA – SONG REVIEW|date=October 29, 2013|url=http://popcrush.com/eminem-the-monster-rihanna/|publisher=PopCrush|access-date=November 12, 2013|archive-date=November 9, 2013|archive-url=https://web.archive.org/web/20131109051301/http://popcrush.com/eminem-the-monster-rihanna/|url-status=live}}</ref> Allan Raible of [[ABC News (United States)|ABC News]] also enjoyed the song, calling it "a career highlight" and a "personal rhyme about his history."<ref name=raible>{{cite web|last=Raible|first=Allan|title=Eminem's "The Marshall Mathers LP 2" (Deluxe Edition) ***|url=https://abcnews.go.com/Entertainment/music-reviews-latest-eminem-mia-avril-lavigne/story?id=20832098#1|publisher=[[ABC News (United States)|ABC News]]|access-date=November 12, 2013|archive-date=November 9, 2013|archive-url=https://web.archive.org/web/20131109191521/https://abcnews.go.com/Entertainment/music-reviews-latest-eminem-mia-avril-lavigne/story?id=20832098#1|url-status=live}}</ref> [[About.com]]'s Bill Lamb had similar thoughts, opining that Eminem's introspection "lends the song engaging power" while also praising Rihanna's vocals.<ref name=lamb>{{cite web|last=Lamb|first=Bill|title=Eminem - "The Monster" featuring Rihanna|work=About.com Entertainment |url=http://top40.about.com/od/singles/fl/Eminem-The-Monster-featuring-Rihanna.htm|publisher=[[About.com]]|access-date=November 12, 2013|archive-url=https://web.archive.org/web/20131114222810/http://top40.about.com/od/singles/fl/Eminem-The-Monster-featuring-Rihanna.htm|archive-date=November 14, 2013}}</ref> [[MRC (company)|Idolator]]'s Mike Wass noted that while it did not meet the standard of the duo's previous collaboration, the song was still "undeniably catchy and hook-filled enough for top 40 radio success."<ref name=wass>{{cite web|last=Wass|first=Mike|title=Eminem And Rihanna Join Forces (Again) On Catchy Hip-Hop/Pop Collab "The Monster": Listen|date=October 28, 2013|url=http://www.idolator.com/7490880/eminem-and-rihanna-join-forces-again-on-catch-hip-hoppop-collab-the-monster-listen|archive-url=https://archive.today/20131112193002/http://www.idolator.com/7490880/eminem-and-rihanna-join-forces-again-on-catch-hip-hoppop-collab-the-monster-listen|url-status=dead|archive-date=November 12, 2013|publisher=[[Idolator (website)|Idolator]]|access-date=November 12, 2013}}</ref> Keith Murphy of ''[[Vibe (magazine)|Vibe]]'' praised the lyrical content of the song but otherwise found the single lackluster.<ref name=murphy>{{cite magazine|last=Murphy|first=Keith|title=Review: Eminem Brings Insightful Lyricism To Otherwise Stale 'Monster'|url=http://www.vibe.com/article/review-eminem-brings-insightful-lyricism-otherwise-stale-monster|magazine=[[Vibe (magazine)|Vibe]]|access-date=November 12, 2013|date=October 29, 2013|archive-date=April 2, 2015|archive-url=https://web.archive.org/web/20150402145635/http://www.vibe.com/article/review-eminem-brings-insightful-lyricism-otherwise-stale-monster|url-status=live}}</ref> Jim Farber of ''[[The New York Daily News]]'' found it inferior to Eminem's previous single, "[[Rap God]]" and too similar to "[[Love the Way You Lie]]", but appreciated that "at least Em gets off some good lines in the new song."<ref name=farber>{{cite web|last=Farber|first=Jim|title=Eminem and Rihanna's new single, 'The Monster,' sounds familiar: review|url=http://www.nydailynews.com/entertainment/music-arts/eminem-rihana-new-single-familiar-monster-article-1.1500536|work=[[Daily News (New York)|Daily News]]|location=New York|access-date=November 12, 2013|date=October 29, 2013|archive-date=October 6, 2017|archive-url=https://web.archive.org/web/20171006111831/http://www.nydailynews.com/entertainment/music-arts/eminem-rihana-new-single-familiar-monster-article-1.1500536|url-status=live}}</ref> ''[[XXL (magazine)|XXL]]'' positioned it at number 19 on their list of the best songs of 2013.<ref>{{Cite web|url=http://www.xxlmag.com/news/2013/12/the-25-best-songs-of-2013/3/|title=The 25 Best Songs Of 2013 - Page 3 of 6 - XXL<!-- Bot generated title -->|date=December 25, 2013|access-date=December 26, 2013|archive-date=December 27, 2013|archive-url=https://web.archive.org/web/20131227020221/http://www.xxlmag.com/news/2013/12/the-25-best-songs-of-2013/3/|url-status=live}}</ref> ''Atlanta Black Star'' described the song as sounding "like an [[old school rap]] song as it blends genres with Eminem's rap vocals, [[Rock music|rock guitars]], and Rihanna's pop-style singing of the chorus."<ref>{{Cite web|url=https://atlantablackstar.com/2013/10/29/eminem-rihanna-make-monster-track/|title=Eminem and Rihanna Make Another 'Monster' Track|date=October 29, 2013|website=Atlanta Black Star|access-date=September 6, 2020|archive-date=August 3, 2021|archive-url=https://web.archive.org/web/20210803034919/https://atlantablackstar.com/2013/10/29/eminem-rihanna-make-monster-track/|url-status=live}}</ref>
+
+==Commercial performance==
+[[File:Rihanna Cologne 2013 03.jpg|thumbnail|upright|160px|right|With "The Monster" becoming Rihanna's 13th number one on the ''Billboard'' Hot 100, she tied [[Michael Jackson]] for the fourth most number ones in the chart's history, as well as becoming the fastest solo artist to accumulate thirteen number ones, surpassing [[Mariah Carey]]'s record.]]
+"The Monster" first entered the [[Billboard Hot 100|''Billboard'' Hot 100]] at number three, on November 6, 2013, marking Eminem's third best entry following "[[Not Afraid]]" (number one, 2010) and "[[Love the Way You Lie]]" also featuring Rihanna (number two, 2010). This ties "[[Berzerk (song)|Berzerk]]", which also debuted at number three on the Hot 100. The entry gave Rihanna her 25th top ten on the chart, equaling [[Elvis Presley]] for the eighth-most top tens in the chart's history. This achievement also earned the singer the honor of being the fastest woman to accumulate the top ten tally (with eight years and four months since her first single), besting [[Madonna]] by three months. Furthermore, the debut marked Rihanna's 45th overall chart entry, tying [[Mariah Carey]] for the eighth most chart appearances amongst women.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5785501/rihanna-scores-25th-hot-100-top-10|title=Rihanna Scores 25th Hot 100 Top 10|date=November 7, 2013|magazine=Billboard|access-date=November 7, 2013|archive-date=March 22, 2017|archive-url=https://web.archive.org/web/20170322101101/http://www.billboard.com/articles/news/5785501/rihanna-scores-25th-hot-100-top-10|url-status=live}}</ref>
+
+The song concurrently opened at number one on the US [[Digital Songs]] chart, with sales of 373,000. The feat marked Eminem's ninth chart topper, giving him the third-most leaders in the tally's history, behind [[Katy Perry]] (9), and Rihanna, who increased her total to 13. The track also entered the US [[Radio Songs (chart)|Radio Songs]] chart at number 31, marking Eminem's second-best entry position following "[[Just Lose It]]" (number 17, 2004). In the same issue, "The Monster" debuted atop the [[Hot R&B/Hip-Hop Songs]] chart, marking Eminem's first number one on the chart of his career, and Rihanna's third. Furthermore, the song entered at number one on the US [[Rap Songs]] chart, marking the sixth and fourth leaders for Eminem and Rihanna, respectively.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/5778259/lordes-royals-rules-hot-100-for-sixth-week|title=Lorde's 'Royals' Rules Hot 100 for Sixth Week|date=November 6, 2013|magazine=Billboard|access-date=November 6, 2013|archive-date=March 30, 2014|archive-url=https://web.archive.org/web/20140330211023/http://www.billboard.com/articles/news/5778259/lordes-royals-rules-hot-100-for-sixth-week|url-status=live}}</ref>
+
+The song topped the Hot 100 in its sixth week on the chart, after previously spending four consecutive weeks at number two. The song's ascent to number one marked Rihanna's 13th US number one, tying her with Michael Jackson for the fourth most number ones in the chart's 55-year history. Additionally, Rihanna became the fastest solo artist to achieve 13 chart-toppers, surpassing the previous record held by Mariah Carey (seven-years, eight-month and 19 days), with only [[the Beatles]] reaching 13 number ones more quickly. The song also rose to number one on the ''Billboard'' Radio Songs chart, marking Rihanna's twelfth and Eminem's third number one on the chart. Rihanna also passes Mariah Carey for the most number ones on the Radio Songs chart with the single's number one peak. For Eminem, he ties [[Sean Combs]] and [[Ludacris]] for the most Hot 100 number ones among rappers, with five each.<ref>{{cite magazine|url=http://www.billboard.com/articles/news/5820081/eminem-rihanna-rule-hot-100-with-the-monster|title=Eminem, Rihanna Rule Hot 100 With 'The Monster'|magazine=[[Billboard (magazine)|Billboard]]|publisher=Nielson Soundscan, Inc|first=Gary|last=Trust|date=December 11, 2013|access-date=December 11, 2013|archive-date=December 22, 2013|archive-url=https://web.archive.org/web/20131222014903/http://www.billboard.com/articles/news/5820081/eminem-rihanna-rule-hot-100-with-the-monster|url-status=live}}</ref><ref>{{cite magazine|url=http://www.billboard.com/articles/news/5819991/chart-highlights-rihanna-breaks-record-for-most-pop-songs-no-1s|title=Chart Highlights: Rihanna Breaks Record For Most Pop Songs No. 1s|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 9, 2013|archive-date=April 2, 2016|archive-url=https://web.archive.org/web/20160402152327/http://www.billboard.com/articles/news/5819991/chart-highlights-rihanna-breaks-record-for-most-pop-songs-no-1s|url-status=live}}</ref> The song has sold 3,844,000 digital copies in the US as of June 2015.<ref name=us_sales>{{cite magazine |url=https://www.billboard.com/pro/ask-billboard-rihannas-best-selling-songs-albums/ |title=Ask Billboard: Rihanna's Best-Selling Songs & Albums |last=Trust |first=Gary |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=June 23, 2015 |access-date=June 23, 2015 |archive-date=June 29, 2016 |archive-url=https://web.archive.org/web/20160629182257/http://www.billboard.com/articles/columns/chart-beat/6605708/ask-billboard-rihannas-best-selling-songs-albums |url-status=live }}</ref>
+In Canada, the song debuted at number one on the [[Canadian Hot 100]], selling 54,000 downloads, making it Eminem's highest selling debut week in Canada for a single since his song "[[Berzerk (song)|Berzerk]]," which sold 50,000 downloads in its debut week.<ref name="CANsales">{{cite web|url=https://dl.dropboxusercontent.com/u/67270545/Canadian%20Newsletters/nielsen_music_canadian_update_Nov6_2013.pdf |title=ARCADE FIRE SCORES THIRD CHART-TOPPING ALBUM |last=Tuch |first=Paul |date=November 6, 2013 |access-date=November 13, 2013 }}{{dead link|date=May 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+In the United Kingdom, "The Monster" entered at number one on the [[UK Singles Chart]] on November 3, 2013―for the week ending date November 9, 2013―selling 74,674 copies,<ref>{{Cite web|url=http://www.musicweek.com/businessanalysis/read/official-charts-analysis-arcade-fire-lp-sells-45k-to-hit-no-1/056607|title=Official Charts Analysis: Arcade Fire LP sells 45k to hit No.1 &#124; Music Week|access-date=November 4, 2013|archive-date=March 3, 2016|archive-url=https://web.archive.org/web/20160303202334/http://www.musicweek.com/businessanalysis/read/official-charts-analysis-arcade-fire-lp-sells-45k-to-hit-no-1/056607|url-status=dead}}</ref> despite being released on the previous Tuesday, and having a 48-hour disadvantage on the rest of the week's new singles. The song however, sold 96,059 copies the following week it dropped to number two, selling more copies than it did on the week it reached number one. The song marked Eminem and Rihanna's eighth number one single in that country of their careers respectively. It became Eminem's first single to top the chart as a lead artist since "[[Like Toy Soldiers]]" in 2005. Eminem however was featured on [[Akon]]'s chart topping single "[[Smack That]]" in 2006.<ref name="occ chart history em">{{cite web|title=Eminem|url=http://www.officialcharts.com/artist/_/eminem/|publisher=[[Official Charts Company]]|access-date=November 12, 2013|archive-date=June 8, 2012|archive-url=https://web.archive.org/web/20120608071515/http://www.officialcharts.com/artist/_/eminem/|url-status=live}}</ref> As for Rihanna, the chart topper placed her with [[Elvis Presley]] and [[The Beatles]] in the chart's history, as just one of three acts to have scored seven number ones in Britain over seven consecutive years. The song was commercially successful around Europe, reaching the top of the charts in eight countries and entered the top 10 in every territory it charted in.
+Thus, in France, the song debuted atop the Singles Chart, becoming Rihanna's fifth number one and Eminem's first and only one. It was also Eminem's highest-charting debut in the country since "Love The Way You Lie" with Rihanna in 2010.<ref>{{cite web|url=https://lescharts.com/showitem.asp?interpret=Eminem+feat%2E+Rihanna&titel=The+Monster&cat=s|title=Les charts - Eminem feat. Rihanna - The Monster|work=lescharts.com|date=November 9, 2013|access-date=July 20, 2025|archive-date=December 5, 2025|archive-url=https://web.archive.org/web/20251205234559/https://lescharts.com/showitem.asp?cat=s&interpret=Eminem%20feat.%20Rihanna&titel=The%20Monster|url-status=live}}</ref>
+The song also reached or debuted at the summit in Norway, Switzerland, Croatia, Finland, Slovakia, the Netherlands, Poland, Slovenia and Sweden and top ten in Germany, Belgium, Denmark, Spain, Hungary and Italy.<ref>{{cite web|url=http://hitparade.ch/song/Eminem-feat.-Rihanna/The-Monster-1209248|title=Hit Parade - Eminem feat. Rihanna - The Monster|work=dutchcharts.nl|date=November 7, 2013|access-date=July 20, 2025|archive-date=August 31, 2025|archive-url=https://web.archive.org/web/20250831151710/https://hitparade.ch/song/Eminem-feat.-Rihanna/The-Monster-1209248|url-status=live}}</ref><ref>{{cite web|url=http://norwegiancharts.com/showitem.asp?interpret=Eminem+feat%2E+Rihanna&titel=The+Monster&cat=s|title=Norwegian Charts - Eminem feat. Rihanna - The Monster|work=norwegiancharts.com|date=November 3, 2013|access-date=July 20, 2025|archive-date=October 9, 2025|archive-url=https://web.archive.org/web/20251009024944/http://norwegiancharts.com/showitem.asp?interpret=Eminem+feat.+Rihanna&titel=The+Monster&cat=s|url-status=live}}</ref>
+In Asia and Oceania, the single was a huge hit reaching the top position in many countries, including Australia and Lebanon where it spent seven weeks at number one in "The Official Lebanese Top 20".<ref>{{Cite web|url=http://www.officialcharts.com/chart-news/eminem-and-rihanna-deny-one-direction-their-fourth-number-1-2585/|title=Eminem and Rihanna deny One Direction their fourth Number 1<!-- Bot generated title -->|website=[[OfficialCharts.com]]|access-date=November 3, 2013|archive-date=October 31, 2014|archive-url=https://web.archive.org/web/20141031011130/http://www.officialcharts.com/chart-news/eminem-and-rihanna-deny-one-direction-their-fourth-number-1-2585/|url-status=live}}</ref>
+
+==Music video==
+Released on December 16, 2013, the song's accompanying [[music video]], Eminem's third to be directed by the American filmmaker [[Rich Lee]],<ref>{{Cite web|url=https://www.instagram.com/p/g83Yc8pY8l/ |archive-url=https://ghostarchive.org/iarchive/instagram/eminem/593592823813869349 |archive-date=December 23, 2021 |url-access=subscription|title=Instagram post by Marshall Mathers • Nov 20, 2013 at 9:10pm UTC|website=Instagram}}{{cbignore}}</ref><ref>{{Cite web|url=https://www.instagram.com/p/g9AMbSpY4V/ |archive-url=https://ghostarchive.org/iarchive/instagram/eminem/593631579820363285 |archive-date=December 23, 2021 |url-access=subscription|title=Marshall Mathers on Instagram: "On set"|website=Instagram}}{{cbignore}}</ref> depicts Rihanna as Eminem's [[therapist]] in a session, as previous videos from his career are shown and referenced including "[[Mockingbird (Eminem song)|Mockingbird]]", "[[My Name Is]]", "[[Lose Yourself]]", "[[3 a.m. (Eminem song)|3 a.m.]]", "[[The Way I Am (Eminem song)|The Way I Am]]" and the [[43rd Annual Grammy Awards|2001 Grammy Awards]] performance of "[[Stan (song)|Stan]]" with [[Elton John]].<ref>{{cite web |url=http://www.rap-up.com/2013/12/16/video-eminem-f-rihanna-the-monster/ |title=Video: Eminem f/ Rihanna – 'The Monster' |publisher=Rap-Up.com |date=October 18, 2010 |access-date=December 17, 2013 |archive-date=March 5, 2016 |archive-url=https://web.archive.org/web/20160305000731/http://www.rap-up.com/2013/12/16/video-eminem-f-rihanna-the-monster/ |url-status=dead }}</ref> The video was well received and earned three nominations at the [[2014 MTV Video Music Awards]], in the categories for "[[MTV Video Music Award for Best Male Video|Best Male Video]]", "[[MTV Video Music Award for Best Collaboration|Best Collaboration]]" and "[[MTV Video Music Award for Best Direction|Best Direction]]".<ref>{{cite web|url=http://www.mtv.com/news/1870248/2014-video-music-awards-nominations-full-list/ |archive-url=https://web.archive.org/web/20140717142334/http://www.mtv.com/news/1870248/2014-video-music-awards-nominations-full-list/ |url-status=dead |archive-date=July 17, 2014 |title=2014 MTV Video Music Awards Nominations: Get The Full List |publisher=MTV |access-date=July 18, 2014}}</ref> Eminem and Rihanna performed the song live at the [[2014 MTV Movie Awards]].<ref>{{cite web|url=http://www.mtv.com/news/articles/1725645/eminem-rihanna-performing-monster-mtv-movie-awards-2014.jhtml |archive-url=https://web.archive.org/web/20140408212941/http://www.mtv.com/news/articles/1725645/eminem-rihanna-performing-monster-mtv-movie-awards-2014.jhtml |url-status=dead |archive-date=April 8, 2014 |title=Eminem And Rihanna To Perform 'Monster' At 2014 MTV Movie Awards |publisher=MTV |date=April 8, 2014 |access-date=July 18, 2014}}</ref>
+
+==Awards and nominations==
+{{see also|List of awards and nominations received by Eminem}}
+{| class="wikitable"
+|-
+!Year
+!Ceremony
+!Award
+!Result
+|-
+|rowspan="8"|2014
+||[[BET Hip Hop Awards]]
+|Best Collabo, Duo or Group
+|rowspan=8 {{nom}}
+|-
+||[[Billboard Music Award]]
+|Top Rap Song
+|-
+|rowspan="2"|iHeartRadio Awards
+|Song of The Year
+|-
+|Best Collaboration
+|-
+|rowspan="3"|[[MTV Video Music Awards]]
+|[[MTV Video Music Award for Best Male Video|Best Male Video]]
+|-
+|[[MTV Video Music Award for Best Collaboration|Best Collaboration]]
+|-
+|[[MTV Video Music Award for Best Direction|Best Direction]]
+|-
+|rowspan="1"|[[MTV Europe Music Awards]]
+|[[MTV Europe Music Award for Best Song|Best Song]]
+|-
+| 2015
+| [[Grammy Awards]]
+| [[Grammy Award for Best Rap/Sung Collaboration|Best Rap/Sung Collaboration]]
+| {{won}}
+|-
+|}
+
+==Cover versions==
+The Russian-American guitarist [[Alex Feather Akimov]], released a guitar cover of "The Monster",<ref>{{cite web|url=https://www.youtube.com/watch?v=vxgCIpqzliM|title=The Monster - Eminem ft Rihanna (Cover) Alex Feather Akimov|publisher=[[YouTube]]|access-date=November 29, 2013|archive-date=January 7, 2014|archive-url=https://web.archive.org/web/20140107030552/http://www.youtube.com/watch?v=vxgCIpqzliM&gl=US&hl=en|url-status=live}}</ref> a recording that was recognized by Billboard.biz (Web Trends).
+
+The Welsh band [[the Beef Seeds]] recorded a bluegrass version of "The Monster" on their album ''Keepin' it Beefy'' (EP) (released January 27, 2014, on iTunes)
+
+In November 2013, [[Rudimental]] covered the song at [[BBC Radio 1]]'s [[Live Lounge]].<ref>Archived at [https://ghostarchive.org/varchive/youtube/20211205/f_L8cI9BxWk Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20131121150828/http://www.youtube.com/watch?v=f_L8cI9BxWk&gl=US&hl=en Wayback Machine]{{cbignore}}: {{cite web| url = https://www.youtube.com/watch?v=f_L8cI9BxWk| title = Rudimental - Monster/The Story Of My Life in the Live Lounge | website=[[YouTube]]| date = November 21, 2013 }}{{cbignore}}</ref>
+
+==Track listing==
+{{Track listing
+| headline     = Digital download<ref name="Digital download"/>
+| extra_column = Producer(s)
+| title1       = Monster
+| note1        = featuring [[Rihanna]]
+| writer1      = {{hlist|[[Eminem|Marshall Mathers]]|[[Bebe Rexha|Bleta Rexha]]|[[Rihanna|Robyn Fenty]]|[[Aalias|Aaron Kleinstub]]|[[Jon Bellion]]|[[Frequency (record producer)|Bryan Fryzel]]|Maki Athanasiou}}
+| extra1       = {{hlist|[[Frequency (record producer)|Frequency]]|[[Aalias]]{{small|{{ref|a|[a]}}}}}}
+| length1      = {{duration|m=4|s=10}}
+}}
+
+{{Track listing
+| headline     = CD (2-track)<ref name="CD single">{{Cite web|url=http://www.amazon.de/Monster-2-Track-Eminem-Feat-Rihanna/dp/B00GBJVJCM|title=The Monster (2-Track) |date=November 18, 2013|website=[[Amazon (company)|amazon.de]]|language=de|access-date=August 5, 2022|archive-url=https://web.archive.org/web/20131121152059/https://www.amazon.de/Monster-2-Track-Eminem-Feat-Rihanna/dp/B00GBJVJCM|archive-date=November 21, 2013}}</ref>
+| extra_column = Producer(s)
+| title1       = Monster
+| note1        = explicit; featuring [[Rihanna]]
+| writer1      = {{hlist|[[Eminem|Marshall Mathers]]|[[Bebe Rexha|Bleta Rexha]]|[[Rihanna|Robyn Fenty]]|[[Aalias|Aaron Kleinstub]]|[[Jon Bellion]]|[[Frequency (record producer)|Bryan Fryzel]]|Maki Athanasiou}}
+| extra1       = {{hlist|[[Frequency (record producer)|Frequency]]|[[Aalias]]{{small|{{ref|a|[a]}}}}}}
+| length1      = {{duration|m=4|s=10}}
+| title2       = Monster
+| note2        = edited; featuring Rihanna
+| writer2      = {{hlist|Mathers|Rexha|Fenty|Kleinstub|Bellion|Fryzel|Athanasiou}}
+| extra2       = {{hlist|Frequency|Aalias{{small|{{ref|a|[a]}}}}}}
+| length2      = {{duration|m=4|s=10}}
+| total_length = {{duration|m=8|s=20}}
+}}
+
+{{Track listing
+| headline     = 7-inch picture disc<ref name="7in">{{Cite web|url=https://shop.eminem.com/products/the-monster-die-cut-7|title=The Monster Die-Cut 7|publisher=Official Eminem Online Store|access-date=November 6, 2023|archive-url=https://web.archive.org/web/20231106103945/https://shop.eminem.com/products/the-monster-die-cut-7|archive-date=November 6, 2023}}</ref>
+| title1       = Monster
+| note1        = featuring Rihanna
+| length1      = 
+| title2       = [[Bad Guy (Eminem song)|Bad Guy]]
+| length2      = 
+}}
+
+;Notes
+*{{sup|{{note|a|[a]}}}} signifies a co-[[Record producer|producer]]
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ Weekly chart performance for "The Monster"
+! scope="col" | Chart (2013–2014)
+! scope="col" | Peak<br />position
+|-
+{{Single chart|Australia|1|artist=Eminem feat. Rihanna|song=The Monster|access-date=November 9, 2013|rowheader=true}}
+|-
+{{Single chart|Austria|6|artist=Eminem feat. Rihanna|song=The Monster|access-date=November 6, 2013|rowheader=true}}
+|-
+{{Single chart|Flanders|2|artist=Eminem feat. Rihanna|song=The Monster|access-date=November 2, 2013|rowheader=true}}
+|-
+{{Single chart|Wallonia|4|artist=Eminem feat. Rihanna|song=The Monster|access-date=January 21, 2014|rowheader=true}}
+|-
+! scope="row"| Brazil ([[Pro-Música Brasil|ABPD]])<ref name="Brazil-ABPD">{{cite web |date=October 6, 2001 |title=Brazil |url=http://asdfg-menezes.org/bookBR.pdf |url-status=live |archive-url=https://web.archive.org/web/20160408222209/http://asdfg-menezes.org/bookBR.pdf |archive-date=April 8, 2016 |access-date=February 21, 2026 |publisher=[[Pro-Música Brasil|Associação Brasileira dos Produtores de Discos]]}}</ref>
+| 1
+|-
+! scope="row" | Brazil ([[Billboard Brasil Hot 100|''Billboard'' Brasil Hot 100]])<ref name="Billboard Brasil 1-13">{{Cite journal |date=March 2014|title=Billboard Brasil Hot 100 Airplay |journal=[[Billboard Brasil]] |issue=47 <!--|isbn=977-217605400-2 -->|editor=BPP}}</ref>
+| 8
+|-
+! scope="row" | Brazil [[Billboard Brasil|Hot Pop Songs]]<ref name="Billboard Brasil 1-13"/>
+| 1
+|-
+{{Single chart|Canada|1|artist=Eminem|access-date=November 6, 2013|rowheader=true}}
+|-
+{{single chart|CIS|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true|songid=51947|access-date=August 10, 2019}}
+|-
+! scope="row"| Croatia International Airplay ([[Hrvatska radiotelevizija|HRT]])<ref name="CRO">{{Cite web|url=http://radio.hrt.hr/clanak/airplay-radio-chart-2013/10534/|archive-url=https://web.archive.org/web/20140116134817/http://radio.hrt.hr/clanak/airplay-radio-chart-2013/10534/|url-status=dead|archive-date=2014-01-16|title=Airplay Radio Chart January 13th, 2014|year=2014|access-date=May 16, 2025}}</ref>
+| align="center" |1
+|-
+{{Single chart|Czech Republic|4|artist=Eminem|song=The Monster|week=03|year=2014|access-date=February 2, 2014|rowheader=true}}
+|-
+{{Single chart|Czechdigital|1|year=2014|week=24|access-date=July 2, 2014|rowheader=true}}
+|-
+{{Single chart|Denmark|2|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{single chart|Billboardeurodigital|1|artist=Rihanna|rowheader=true|access-date=August 8, 2026}}
+|-
+!scope="row"|[[Euro Digital Tracks]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite web|url=https://www.billboard.com/artist/rihanna/chart-history/idt/|title=Rihanna Chart History (Euro Digital Trakcs)|work=[[Billboard (magazine)|Billboard]]|access-date=August 9, 2026|archive-date=August 9, 2026|archive-url=https://web.archive.org/web/20260809204621/https://www.billboard.com/artist/rihanna/chart-history/idt/|url-status=live}}</ref>{{break}}{{small|''Explicit album version''}}
+| 1
+|-
+{{Single chart|Finland|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{Single chart|France|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{Single chart|Germany|3|artist=Eminem feat. Rihanna|song=The Monster|songid=1209248|rowheader=true}}
+|-
+! scope="row" | Greece Airplay ([[IFPI Greece|IFPI]]){{Citation needed|date=August 2022}}
+| 1
+|-
+! scope="row" | Greece Digital Songs (''[[Billboard (magazine)|Billboard]]''){{Citation needed|date=August 2022}}
+| 1
+|-
+{{Single chart|Hungaryradio|30|year=2014|week=2|access-date=January 16, 2014|rowheader=true}}
+|-
+{{Single chart|Hungarysingle|2|year=2013|week=44|access-date=November 7, 2013|rowheader=true}}
+|-
+{{Single chart|Ireland|1|year=2013|week=45|access-date=October 31, 2013|rowheader=true}}
+|-
+{{Single chart|Italy|5|artist=Eminem feat. Rihanna|song=The Monster|access-date= January 20, 2014|rowheader=true}}
+|-
+{{Single chart|Billboardjapanhot100|20|artist=Eminem|access-date=May 20, 2015|rowheader=true}}
+|-
+! scope="row" | Lebanon ([[The Official Lebanese Top 20]])<ref>{{Cite web|url=http://www.olt20.com/Eminem|title=The official lebanese Top 20 - Eminem|website=The official lebanese Top 20|access-date=March 30, 2014|archive-date=May 22, 2025|archive-url=https://web.archive.org/web/20250522190320/https://www.olt20.com/Eminem|url-status=live}}</ref>
+| 1
+|-
+! scope="row" | Mexico Anglo ([[Monitor Latino]])<ref>{{cite web|title=Top 20 Ingles: Del 13 Al 19 de Enero del 2014|url=http://monitorlatino.com.mx//Charts/ingles11320141192014.html|date=January 19, 2014|access-date=January 20, 2014|publisher=[[Monitor Latino]]. RadioNotas|language=es|archive-url=https://web.archive.org/web/20140202122133/http://monitorlatino.com.mx//Charts/ingles11320141192014.html|archive-date=February 2, 2014}}</ref>
+| 1
+|-
+{{Single chart|Dutch40|2|year=2014|week=1|rowheader=true}}
+|-
+{{Single chart|Dutch100|3|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{Single chart|New Zealand|1|artist=Eminem feat. Rihanna|song=The Monster|access-date=November 1, 2013|rowheader=true}}
+|-
+{{Single chart|Norway|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{Single chart|Poland|1|chartid=1164|year=2013|access-date=December 16, 2013|rowheader=true}}
+|-
+! scope="row" | Romania ([[Airplay 100 (Romania)|Airplay 100]])<!--Please do not change this to Romanian Top 100 or Media Forest. The Airplay 100 is Romania's national singles chart from 2012 onwards. For further information, see WP:GOODCHARTS--><ref>{{cite news|url=https://www.kissfm.ro/emisiuni/54/Airplay-100-Cristi-Nitzu|title=Airplay 100 – Cristi Nitzu {{!}} Kiss FM – March 3, 2014|access-date=January 27, 2018|publisher=[[Kiss FM (Romania)|Kiss FM]]|url-status=live|archive-url=https://web.archive.org/web/20180127090412/https://www.kissfm.ro/emisiuni/54/Airplay-100-Cristi-Nitzu|archive-date=January 27, 2018}} ''Note: User may scroll down the 'Podcasturi' menu to play or download the respective podcast.''</ref>
+| 17
+|-
+{{Single chart|Russiaradio|1|artist=Eminem feat. Rihanna|song=The Monster|date=20140131-20140206|access-date=June 12, 2025|rowheader=true}}
+|-
+{{single chart|Scotland|1|date=2013-11-16|access-date=November 10, 2013|rowheader=true}}
+|-
+{{Single chart|Slovakia|1|year=2014|week=07|access-date=July 8, 2014|rowheader=true}}
+|-
+{{Single chart|Slovakdigital|1|year=2014|week=27|access-date=July 8, 2014|rowheader=true}}
+|-
+! scope="row" | Slovenia ([[SloTop50]])<ref>{{cite web|url=http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2013&week=47|title=SloTop50: Slovenian official singles weekly chart|publisher=[[SloTop50]]|language=sl|access-date=November 24, 2013|archive-date=January 6, 2018|archive-url=https://web.archive.org/web/20180106063914/http://www.slotop50.si/Glasbene-lestvice/Tedenske-lestvice/?year=2013&week=47|url-status=dead}}</ref>	
+| 7
+|-
+{{single chart|South Africa|1|date=2014-01-28|rowheader=true|access-date=September 16, 2015}}
+|-
+!scope="row"|South Korea ([[Circle Chart|Circle]])<ref>{{cite web|url=https://circlechart.kr/page_chart/onoff.circle?nationGbn=T&serviceGbn=ALL&targetTime=46&hitYear=2013&termGbn=week&yearTime=3|title=Circle Singles Chart (Week 46 2013)|publisher=[[Circle Chart|Circle]]|website=circlechart.kr|language=ko|access-date=October 23, 2025|archive-date=November 1, 2025|archive-url=https://web.archive.org/web/20251101040757/https://circlechart.kr/page_chart/onoff.circle?nationGbn=T&serviceGbn=ALL&targetTime=46&hitYear=2013&termGbn=week&yearTime=3|url-status=live}}</ref>
+|58
+|-
+!scope="row"|South Korea Foreign ([[Circle Chart|Circle]])<ref>{{cite web|url=https://circlechart.kr/page_chart/onoff.circle?nationGbn=E&serviceGbn=ALL&targetTime=45&hitYear=2013&termGbn=week&yearTime=3|title=Circle Foreign Singles Chart (Week 45 2013)|publisher=[[Circle Chart|Circle]]|website=circlechart.kr|language=ko|access-date=October 23, 2025|archive-date=November 1, 2025|archive-url=https://web.archive.org/web/20251101025307/https://circlechart.kr/page_chart/onoff.circle?nationGbn=E&serviceGbn=ALL&targetTime=45&hitYear=2013&termGbn=week&yearTime=3|url-status=live}}</ref>
+|1
+|-
+{{Single chart|Spain|9|artist=Eminem feat. Rihanna|song=The Monster|date=November 6, 2013|access-date=November 6, 2013|rowheader=true}}
+|-
+{{Single chart|Sweden|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+{{Single chart|Switzerland|1|artist=Eminem feat. Rihanna|song=The Monster|rowheader=true}}
+|-
+! scope="row" | Turkey  ([[Turkish Singles Chart]])<ref>{{cite web|url=http://www.hayatadair.info/number-one-top-20/ |title=Number One Top 20 |language=tr |publisher=[[Number 1 TV]] |date=January 24, 2014 |archive-url=https://web.archive.org/web/20140701235932/http://www.hayatadair.info/number-one-top-20/ |archive-date=July 1, 2014 }}</ref>
+| 1
+|-
+{{Single chart|Ukraineradio|11|artist=Eminem feat. Rihanna|song=The Monster|date=20140425-20140501|access-date=June 15, 2025|rowheader=true}}
+|-
+{{single chart|UK|1|date=2013-11-09|access-date=November 3, 2013|rowheader=true}}
+|-
+{{single chart|UKrandb|1|date=2013-11-09|access-date=November 3, 2013|rowheader=true}}
+|-
+{{Single chart|Billboardhot100|1|artist=Eminem|access-date=December 14, 2013|rowheader=true}}
+|-
+{{Single chart|Billboardadultpopsongs|22|artist=Eminem|access-date=November 6, 2011|rowheader=true}}
+|-
+{{Single chart|Billboarddanceairplay|11|artist=Rihanna|rowheader=true|access-date=August 9, 2026}}
+|-
+{{Single chart|Billboarddanceclubplay|22|artist=Eminem|access-date=March 22, 2014|rowheader=true}}
+|-
+{{Single chart|Billboardlatinsongs|23|artist=Eminem|access-date=December 14, 2013|rowheader=true}}
+|-
+{{Single chart|Billboardrandbhiphop|1|artist=Eminem|access-date=November 6, 2011|rowheader=true}}
+|-
+{{Single chart|Billboardpopsongs|1|artist=Eminem|access-date=December 14, 2013|rowheader=true}}
+|-
+{{Single chart|Billboardrhythmic|1|artist=Eminem|access-date=November 6, 2011|rowheader=true}}
+|-
+! scope="row" | Venezuela Pop Rock General ([[Record Report]])<ref>{{cite web|archive-url=https://web.archive.org/web/20131202225551/http://recordreport.com.ve/publico/?i=poprock |title=Record Report - Pop Rock General |language=es |url=http://www.recordreport.com.ve/publico/?i=poprock |date=December 7, 2013 |archive-date=December 2, 2013 |work=[[Record Report]] |publisher=R.R. Digital C.A. }}</ref>
+| 1
+|}<!-- Before adding any other US charts please review/consult [[WP:USCHARTS#Song charts]] & [[WP:CHARTMATH]]. -->
+{{col-2}}
+
+===Year-end charts===
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|+ 2013 year-end chart performance for "The Monster"
+! scope="col"| Chart (2013)
+! scope="col"| Position
+|-
+! scope="row"| Australia ([[ARIA Charts|ARIA]])<ref name="AUSendofyear">{{cite web|url=http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2013.htm|title=ARIA Charts&nbsp;– End Of Year Charts&nbsp;– Top 100 Singles 2013|publisher=[[Australian Recording Industry Association]]|access-date=January 7, 2013|archive-date=January 7, 2014|archive-url=https://web.archive.org/web/20140107125256/http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2013.htm|url-status=live}}</ref>
+| 24
+|-
+! scope="row"| Belgium ([[Ultratop|Ultratop 50]] Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2013|title=JAAROVERZICHTEN 2013: Singles|language=nl|publisher=ultratop,be/nl. Hung Medien|access-date=June 9, 2014|archive-date=June 22, 2015|archive-url=https://web.archive.org/web/20150622131502/http://www.ultratop.be/nl/annual.asp?year=2013|url-status=live}}</ref>
+| 61
+|-
+! scope="row"| Belgium Urban ([[Ultratop]] Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2013&cat=sr|title=JAAROVERZICHTEN 2013: Urban|language=nl|publisher=ultratop,be/nl. Hung Medien|access-date=June 9, 2014|archive-date=April 18, 2014|archive-url=https://web.archive.org/web/20140418213329/http://www.ultratop.be/nl/annual.asp?year=2013&cat=sr|url-status=live}}</ref>
+| 15
+|-
+! scope="row"| Belgium ([[Ultratop|Ultratop 50]] Wallonia)<ref>{{cite web|url=http://www.ultratop.be/fr/annual.asp?year=2013|title=Report Annuels 2013: Singles|language=fr|publisher=ultratop,be/fr. Hung Medien|access-date=June 9, 2014|archive-date=June 8, 2014|archive-url=https://web.archive.org/web/20140608120754/http://www.ultratop.be/fr/annual.asp?year=2013|url-status=live}}</ref>
+| 97
+|-
+! scope="row"| France ([[Syndicat National de l'Édition Phonographique|SNEP]])<ref>{{cite web|url=https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?categorie=Top%20Single%20de%20l%E2%80%99ann%C3%A9e&annee=2013|title=Top de l'année Top Singles 2013|publisher=SNEP|language=fr|access-date=May 21, 2021|archive-date=September 22, 2020|archive-url=https://web.archive.org/web/20200922090053/https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?categorie=Top%20Single%20de%20l%E2%80%99ann%C3%A9e&annee=2013|url-status=live}}</ref>
+| 61
+|-
+! scope="row"| Germany (Media Control AG)<ref name="ger2013">{{cite web |url=http://www.viva.tv/musikvideo/1756-top-100-single-jahrescharts-2013/playlist |title=Top 100 Singles Jahrescharts 2013 |language=de |publisher=[[VIVA (TV station)|VIVA]]. [[Viacom International Media Networks (Europe)|Viacom International Media Networks]] |access-date=January 12, 2014 |archive-url=https://web.archive.org/web/20140120000533/http://www.viva.tv/musikvideo/1756-top-100-single-jahrescharts-2013/playlist |archive-date=January 20, 2014 }}</ref>
+| 55
+|-
+! scope="row"| Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref>{{cite web|url=http://www.fimi.it/4111 |title=CLASSIFICHE ANNUALI 2013 TOP OF THE MUSIC BY FIMI GfK |publisher=FIMI |language=it |date=January 9, 2014 |archive-url=https://web.archive.org/web/20140107154534/http://www.fimi.it/4111 |archive-date=January 7, 2014 }}</ref>
+| 87
+|-
+! scope="row"| Netherlands ([[Dutch Top 40]])<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2013|title=Top 100-Jaaroverzicht van 2013|publisher=Dutch Top 40|access-date=November 30, 2019|archive-date=March 29, 2019|archive-url=https://web.archive.org/web/20190329172639/https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2013|url-status=live}}</ref>
+| 52
+|-
+! scope="row"| Netherlands ([[Single Top 100]])<ref>{{cite web|url=https://dutchcharts.nl/jaaroverzichten.asp?year=2013&cat=s|title=Jaaroverzichten – Single 2013|publisher=MegaCharts|language=nl|access-date=October 5, 2019|archive-date=March 24, 2019|archive-url=https://web.archive.org/web/20190324103123/https://www.dutchcharts.nl/jaaroverzichten.asp?year=2013&cat=s|url-status=live}}</ref>
+| 35
+|-
+! scope="row"| New Zealand ([[Recorded Music NZ]])<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-singles/2013-12-31|title=Top Selling Singles of 2013|publisher=[[Recorded Music NZ]]|access-date=January 1, 2015|archive-date=October 29, 2014|archive-url=https://web.archive.org/web/20141029222717/http://nztop40.co.nz/chart/singles?chart=2363|url-status=live}}</ref>
+| 30
+|-
+!scope="row"| South Korea Foreign ([[Circle Chart|Circle]])<ref>{{cite web|url=https://circlechart.kr/page_chart/onoff.circle?nationGbn=E&serviceGbn=ALL&targetTime=2013&hitYear=2013&termGbn=year&yearTime=3|title=South Korea Foreign Digital Chart: Year-End 2013|publisher=[[Circle Chart|Circle]]|website=circlechart.ko|language=ko|access-date=October 23, 2025|archive-date=August 12, 2025|archive-url=https://web.archive.org/web/20250812062307/https://circlechart.kr/page_chart/onoff.circle?targetTime=2013&hitYear=2013&termGbn=year&yearTime=3&nationGbn=E&serviceGbn=ALL|url-status=live}}</ref>
+|64
+|-
+! scope="row"| Sweden ([[Sverigetopplistan]])<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2013&dspp=1|title=Årslista Singlar – År 2013|publisher=Sverigetopplistan|language=sv|access-date=October 5, 2019|archive-date=February 24, 2020|archive-url=https://web.archive.org/web/20200224042304/https://www.sverigetopplistan.se/chart/43?dspy=2013&dspp=1|url-status=live}}</ref>
+| 41
+|-
+! scope="row"| Switzerland ([[Schweizer Hitparade]])<ref>{{cite web|url=http://hitparade.ch/year.asp?key=2013|title=SCHWEIZER JAHRESHITPARADE 2013|language=de|publisher=hitparade.ch. Hung Medien|access-date=June 9, 2014|archive-date=March 5, 2014|archive-url=https://web.archive.org/web/20140305052812/http://www.hitparade.ch/year.asp?key=2013|url-status=live}}</ref>
+| 66
+|-
+! scope="row"| UK Singles ([[Official Charts Company|OCC]])<ref>{{cite web|last=Lane|first=Daniel|date=January 1, 2014|url=http://www.officialcharts.com/chart-news/the-official-top-40-biggest-singles-of-2013-2709/|title=The Official Top 40 Biggest Selling Singles Of 2013|publisher=[[Official Charts Company]]|access-date=June 9, 2014|archive-date=February 23, 2015|archive-url=https://web.archive.org/web/20150223235852/http://www.officialcharts.com/chart-news/the-official-top-40-biggest-selling-singles-of-2013__3658/|url-status=live}}</ref>
+| 26
+|-
+! scope="row"| US [[Hot R&B/Hip-Hop Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=4|title=2013 Year End Charts — R&B/Hip-Hop Songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=December 13, 2013|archive-date=October 3, 2015|archive-url=https://web.archive.org/web/20151003052703/http://www.billboard.com/charts/year-end/2013/hot-r-b-hip-hop-songs?page=4|url-status=live}}</ref>
+| 42
+|}<!-- Before adding any other US charts please review/consult [[WP:USCHARTS#Song charts]] & [[WP:CHARTMATH]]. -->
+
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|+ 2014 year-end chart performance for "The Monster"
+! scope="col"| Chart (2014)
+! scope="col"| Position
+|-
+! scope="row"| Australia (ARIA)<ref>{{cite web|url=http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm|title=ARIA Top 100 Singles 2014|publisher=ARIA Charts. Australian Recording Industry Association|access-date=February 14, 2015|archive-date=January 9, 2015|archive-url=https://web.archive.org/web/20150109053819/http://aria.com.au/pages/aria-charts-end-of-year-charts-top-100-singles-2014.htm|url-status=live}}</ref>
+| 72
+|-
+! scope="row"| Belgium (Ultratop Flanders)<ref>{{cite web|url=http://www.ultratop.be/nl/annual.asp?year=2014&cat=s|title=Jaaroverzichten 2014|publisher=Ultratop|access-date=October 5, 2019|archive-date=February 2, 2015|archive-url=https://web.archive.org/web/20150202102512/http://www.ultratop.be/nl/annual.asp?year=2014&cat=s|url-status=live}}</ref>
+| 53
+|-
+! scope="row"| Belgium Urban (Ultratop)<ref>{{cite web|url=https://www.ultratop.be/nl/annual.asp?year=2014&cat=sr|title=Jaaroverzichten 2014: R&B/Hip-hop|work=Ultratop|language=nl|access-date=January 23, 2022|archive-date=October 22, 2020|archive-url=https://web.archive.org/web/20201022185059/https://www.ultratop.be/nl/annual.asp?year=2014&cat=sr|url-status=live}}</ref>
+| 10
+|-
+! scope="row"| Belgium (Ultratop Wallonia)<ref>{{cite web|url=http://www.ultratop.be/fr/annual.asp?year=2014&cat=s|title=Rapports Annuels 2014|publisher=Ultratop|access-date=October 5, 2019|archive-date=February 2, 2015|archive-url=https://web.archive.org/web/20150202102525/http://www.ultratop.be/fr/annual.asp?year=2014&cat=s|url-status=live}}</ref>
+| 69
+|- 
+!scope="row" |Brazil ([[Crowley Broadcast Analysis|Crowley]])<ref>{{cite web|url=https://maistocadas.mus.br/2014/|title=Brazilian Top 100 Year-End 2014|date=April 3, 2018|publisher=[[Crowley Broadcast Analysis]]|accessdate=January 30, 2022|archive-date=February 27, 2022|archive-url=https://web.archive.org/web/20220227154328/https://maistocadas.mus.br/2014/|url-status=live}}</ref> 
+| 52
+|-
+! scope="row"| Canada (Canadian Hot 100)<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/canadian-hot-100|magazine=[[Billboard (magazine)|Billboard]]|access-date=January 1, 2015|title=2014 Year End Charts – Top Canadian Hot 100|archive-date=December 27, 2014|archive-url=https://web.archive.org/web/20141227120432/http://www.billboard.com/charts/year-end/2014/canadian-hot-100|url-status=live}}</ref>
+| 16
+|-
+! scope="row"| Denmark (Tracklisten)<ref>{{cite web|url=http://hitlisten.nu/aarslister.asp?list=Download%2050work=Hitlisten.nu|access-date=January 21, 2015|title=Track top 50 2014|archive-date=January 24, 2024|archive-url=https://web.archive.org/web/20240124073842/http://hitlisten.nu/aarslister.asp?list=Download%2050work=Hitlisten.nu|url-status=live}}</ref>
+| 39
+|-
+! scope="row"| France (SNEP)<ref>{{cite web|url=https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?categorie=Top%20Single%20de%20l%E2%80%99ann%C3%A9e&annee=2014|title=Top de l'année Top Singles 2014|publisher=SNEP|language=fr|access-date=May 21, 2021|archive-date=July 4, 2020|archive-url=https://web.archive.org/web/20200704225900/https://snepmusique.com/les-tops/le-top-de-lannee/top-singles-annee/?categorie=Top%20Single%20de%20l%E2%80%99ann%C3%A9e&annee=2014|url-status=live}}</ref>
+| 105
+|-
+! scope="row"| Germany ([[GfK Entertainment charts|Official German Charts]])<ref>{{cite web |url=https://www.offiziellecharts.de/charts/single-jahr/for-date-2014 |title=Top 100 Single-Jahrescharts |language=de |work=[[GfK Entertainment]] |publisher=offiziellecharts.de |access-date=August 10, 2015 |archive-date=March 27, 2019 |archive-url=https://web.archive.org/web/20190327114614/https://www.offiziellecharts.de/charts/single-jahr/for-date-2014 |url-status=live }}</ref>
+| 77
+|-
+! scope="row"| Hungary (Single Top 40)<ref>{{cite web|url=http://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/single_db/2014|title=Single Top 100 - eladási darabszám alapján - 2014|access-date=March 30, 2020|publisher=[[Mahasz]]|archive-date=April 30, 2020|archive-url=https://web.archive.org/web/20200430085759/https://zene.slagerlistak.hu/archivum/eves-osszesitett-listak/single_db/2014|url-status=live}}</ref>
+| 84
+|-
+! scope="row"| Italy (FIMI)<ref>{{cite web|url=http://www.fimi.it/5233 |publisher=[[Federazione Industria Musicale Italiana]] |language=it |access-date=January 19, 2015 |title=FIMI - Classifiche Annuali 2014 "TOP OF THE MUSIC" FIMI-GfK: un anno di musica italiana |archive-url=https://web.archive.org/web/20150113005101/http://www.fimi.it/5233 |archive-date=January 13, 2015 }}</ref>
+| 41
+|-
+! scope="row"| Netherlands (Dutch Top 40)<ref>{{cite web|url=https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2014|title=Top 100-Jaaroverzicht van 2014|publisher=Dutch Top 40|access-date=November 30, 2019|archive-date=April 2, 2019|archive-url=https://web.archive.org/web/20190402163146/https://www.top40.nl/bijzondere-lijsten/top-100-jaaroverzichten/2014|url-status=live}}</ref>
+| 34
+|-
+! scope="row"| New Zealand (Recorded Music NZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-singles/2014-12-31|title=Top Selling Singles of 2014|publisher=[[Recorded Music NZ]]|access-date=January 1, 2015|archive-date=March 6, 2016|archive-url=https://web.archive.org/web/20160306001312/http://nztop40.co.nz/chart/singles?chart=2614|url-status=live}}</ref>
+| 45
+|-
+! scope="row"| Russia Airplay (TopHit)<ref>{{cite web|url=https://tophit.com/ru/chart/top/radio/hits/russia/annual/2014-01-01|title=Top Radio Hits Russia Annual Chart 2014|publisher=[[TopHit]]|language=ru|access-date=April 1, 2023|archive-url=https://web.archive.org/web/20230401100816/https://tophit.com/ru/chart/top/radio/hits/russia/annual/2014-01-01|archive-date=April 1, 2023}}</ref>
+| 20
+|-
+!scope="row"| South Korea Foreign ([[Circle Chart|Circle]])<ref>{{cite web|url=https://circlechart.kr/page_chart/onoff.circle?nationGbn=E&serviceGbn=ALL&targetTime=2014&hitYear=2014&termGbn=year&yearTime=3|title=South Korea Foreign Digital Chart: Year-End 2014|publisher=[[Circle Chart|Circle]]|website=circlechart.ko|language=ko|access-date=October 23, 2025|archive-date=February 21, 2025|archive-url=https://web.archive.org/web/20250221010605/https://circlechart.kr/page_chart/onoff.circle?nationGbn=E&serviceGbn=ALL&targetTime=2014&hitYear=2014&termGbn=year&yearTime=3|url-status=live}}</ref>
+|98
+|-
+! scope="row"|Sweden ([[Sverigetopplistan]])<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2014&dspp=1|title=Årslista Singlar – År 2014|publisher=Sverigetopplistan|language=sv|access-date=October 5, 2019|archive-date=June 12, 2020|archive-url=https://web.archive.org/web/20200612095851/https://www.sverigetopplistan.se/chart/43?dspy=2014&dspp=1|url-status=live}}</ref>
+| 33
+|-
+! scope="row"| Switzerland (Schweizer Hitparade)<ref>{{cite web|url=https://hitparade.ch/charts/jahreshitparade/2014|title=Schweizer Jahreshitparade 2014 – hitparade.ch|publisher=Hung Medien|access-date=October 5, 2019|archive-date=July 24, 2020|archive-url=https://web.archive.org/web/20200724132148/https://hitparade.ch/charts/jahreshitparade/2014|url-status=live}}</ref>
+| 51
+|-
+! scope="row"| UK Singles (Official Charts Company)<ref>{{cite web|url=http://www.officialcharts.com/charts/end-of-year-singles-chart/20140105/37501/|title=End of Year Singles Chart Top 100 - 2014|publisher=Official Charts Company|access-date=November 30, 2019|archive-date=June 16, 2016|archive-url=https://web.archive.org/web/20160616193310/http://www.officialcharts.com/charts/end-of-year-singles-chart/20140105/37501/|url-status=live}}</ref>
+| 93
+|-
+! scope="row"| Ukraine Airplay ([[TopHit]])<ref>{{cite web|url=https://tophit.ru/en/chart/ukraine/yearly/2014-01-01/all/all|title=Ukrainian Top Year-End Radio Hits (2014)|publisher=[[TopHit]]|access-date=August 10, 2019|archive-date=July 3, 2019|archive-url=https://web.archive.org/web/20190703210040/https://tophit.ru/en/chart/ukraine/yearly/2014-01-01/all/all|url-status=dead}}</ref> 
+| 66 
+|-
+! scope="row"| US ''Billboard'' Hot 100<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2014/hot-100-songs|title=Hot 100 Songs – Year End 2014|magazine=[[Billboard (magazine)|Billboard]]|access-date=January 1, 2015|archive-date=December 31, 2014|archive-url=https://web.archive.org/web/20141231002420/http://www.billboard.com/charts/year-end/2014/hot-100-songs|url-status=live}}</ref>
+| 16
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|title=Hot R&B/Hip-Hop Songs – Year-End 2014|url=http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|magazine=Billboard|access-date=October 5, 2019|archive-date=August 9, 2020|archive-url=https://web.archive.org/web/20200809064333/http://www.billboard.com/charts/year-end/2014/hot-r-and-and-b-hip-hop-songs|url-status=live}}</ref>
+| 5
+|-
+! scope="row"| US Mainstream Top 40 (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/pop-songs|title=Pop Songs – Year-End 2014|magazine=Billboard|access-date=October 5, 2019|archive-date=December 25, 2014|archive-url=https://web.archive.org/web/20141225014509/https://www.billboard.com/charts/year-end/2014/pop-songs|url-status=live}}</ref>
+| 13
+|-
+! scope="row"| US Rhythmic (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2014/rhythmic-songs|title=Rhythmic Songs – Year-End 2014|magazine=Billboard|access-date=October 5, 2019|archive-date=December 27, 2014|archive-url=https://web.archive.org/web/20141227115153/http://www.billboard.com/charts/year-end/2014/rhythmic-songs|url-status=live}}</ref>
+| 4
+|}
+
+===Decade-end charts===
+{| class="wikitable plainrowheaders sortable" style="text-align:center;"
+|+ Decade-end chart performance for "The Monster"
+! scope="col"| Chart (2010–2019)
+! scope="col"| Position
+|-
+! scope="row"| Australia (ARIA)<ref>{{cite web|url=https://www.ariacharts.com.au/annual-charts/2019/end-of-decade-singles-chart|title=2019 ARIA End of Decade Singles Chart|publisher=ARIA|date=January 2020|access-date=January 16, 2020|archive-date=January 11, 2020|archive-url=https://web.archive.org/web/20200111005800/https://www.ariacharts.com.au/annual-charts/2019/end-of-decade-singles-chart|url-status=live}}</ref>
+| 70
+|-
+! scope="row"| US Hot R&B/Hip-Hop Songs (''Billboard'')<ref>{{cite magazine|url=https://www.billboard.com/charts/decade-end/hot-r-and-b-hip-hop-songs|title=Decade-End Charts: Hot R&B/Hip-Hop Songs|magazine=Billboard|access-date=January 13, 2020|archive-date=November 15, 2019|archive-url=https://web.archive.org/web/20191115171113/https://www.billboard.com/charts/decade-end/hot-r-and-b-hip-hop-songs|url-status=live}}</ref>
+| 42
+|}
+{{col-end}}
+
+==Certifications==
+{{Certification Table Top|caption=Certifications for "The Monster"}}
+{{Certification Table Entry|region=Australia|certyear=2024|relyear=2013|artist=Eminem feat. Rihanna|title=The Monster|award=Platinum|number=11|access-date=June 30, 2024|type=single}}
+{{Certification Table Entry|region=Belgium|relyear=2013|certyear=2014|artist=Eminem feat. Rihanna|title=The Monster|type=single|award=Gold}}
+{{Certification Table Entry|region=Brazil|title=The Monster|artist=Eminem|award=Diamond|type=single|certyear=2024|relyear=2013|access-date=March 8, 2024}}
+{{Certification Table Entry|region=Canada|certyear=2013|relyear=2013|artist=Eminem|title=The  Monster|award=Platinum|number=2|type=single|digital=true}}
+{{Certification Table Entry|region=Denmark|certyear=2014|relyear=2013|artist=Eminem feat. Rihanna|title=The Monster|refname="denmarkcert"|award=Gold|id=5752|type=single|certmonth=02}}
+{{Certification Table Entry|region=Germany|certyear=2018|relyear=2013|artist=Eminem feat. Rihanna|title=The Monster|award=Gold|number=3|type=single|access-date=April 17, 2018}}
+{{Certification Table Entry|region=Italy|artist=Eminem feat. Rihanna|title=The Monster|relyear=2013|certyear=2019|award=Platinum|number=3|type=single|id=7352|access-date=November 18, 2019}}
+{{Certification Table Entry|region=Mexico|type=single|artist=Eminem feat. Rihanna|title=The Monster|access-date=November 24, 2014|relyear=2013|award=Platinum}}
+{{Certification Table Entry|region=New Zealand|title=The Monster|artist=Eminem feat. Rihanna|type=single|award=Platinum|number=5|relyear=2013|certyear=2026|source=radioscope|access-date=February 13, 2026}}
+{{Certification Table Entry|region=Portugal|type=single|artist=Eminem feat. Rihanna|title=The Monster|relyear=2013|certyear=2022|award=Gold|id=file_2022-05-13-15-04-29.pdf|access-date=May 23, 2022}}
+{{Certification Table Entry|region=Sweden|certyear=2013|relyear=2013|artist=Eminem feat. Rihanna|title=The  Monster|award=Platinum|number=5|type=single|certref=<ref>{{cite web|url=https://www.sverigetopplistan.se/chart/43?dspy=2014&dspp=1|title=Årslista Singlar, 2014|language=sv|publisher=[[Sverigetopplistan]]|access-date=October 28, 2020|archive-date=June 12, 2020|archive-url=https://web.archive.org/web/20200612095851/https://www.sverigetopplistan.se/chart/43?dspy=2014&dspp=1|url-status=live}}</ref>}}
+{{Certification Table Entry|region=Switzerland|certyear=2013|relyear=2013|artist=Eminem feat. Rihanna|title=The  Monster|award=Platinum|type=single}}
+{{Certification Table Entry|region=United Kingdom|certyear=2024|relyear=2013|artist=Eminem Ft Rihanna|title=The Monster|award=Platinum|number=3|type=single|id=12639-3222-1|access-date=March 22, 2024}}
+{{Certification Table Entry|region=United States|title=The Monster|artist=Eminem|award=Platinum|number=8|type=single|relyear=2013|certyear=2018|access-date=October 9, 2025}}
+{{Certification Table Separator|title=Streaming}}
+{{Certification Table Entry|region=Denmark|type=single|title=Monster|artist=Eminem|award=Platinum|number=3|streamsonly=true|relyear=2013|certyear=2014|certmonth=1|id=5791|access-date=October 28, 2020}}
+{{Certification Table Bottom|streamsonly=true|streaming=true}}
+
+==Release history==
+{| class="wikitable plainrowheaders"
+|+ "The Monster" release history
+! scope="col"| Region
+! scope="col"| Date
+! scope="col"| Format(s)
+! scope="col"| Label(s)
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row"| France
+| rowspan="7"| October 29, 2013
+| rowspan="3"| [[Music download|Digital download]]
+| rowspan="3"| {{flat list|
+*[[Aftermath Entertainment|Aftermath]]
+*[[Interscope Records|Interscope]]
+*[[Shady Records|Shady]]}}
+| align="center"| <ref>{{cite web|url=https://www.amazon.fr/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y042A|title=The Monster (feat. Rihanna): Eminem|publisher=[[Amazon.com]] (FR)|access-date=October 29, 2013|language=fr|archive-url=https://web.archive.org/web/20131101161524/https://www.amazon.fr/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y042A|archive-date=November 1, 2013}}</ref>
+|-
+! scope="row"| Germany
+| align="center"| <ref>{{cite web|url=https://www.amazon.de/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y0466|title=The Monster (feat. Rihanna)|publisher=Amazon.com (DE)|access-date=October 29, 2013|language=de|archive-url=https://web.archive.org/web/20131101123856/https://www.amazon.de/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y0466|archive-date=November 1, 2013}}</ref>
+|-
+! rowspan="2" scope="row"| Italy
+| align="center"| <ref>{{cite web|url=https://www.amazon.it/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y043Y|title=The Monster (feat. Rihanna): Eminem|publisher=Amazon.com (IT)|access-date=October 29, 2013|language=it|archive-url=https://web.archive.org/web/20131101161610/https://www.amazon.it/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y043Y|archive-date=November 1, 2013}}</ref>
+|-
+| Radio [[airplay]]
+| [[Universal Music Group|Universal]]
+| align="center"| <ref>{{Cite press release|last=Aldi|first=Giorgia|date=October 29, 2013|title=Eminem - The Monster (feat. Rihanna) (Radio Date: 29-10-2013)|url=https://www.earone.it/news/eminem_the_monster_feat_rihanna_radio_date_29_10_2013_8624310/|url-status=live|language=it|publisher=EarOne|archive-url=https://web.archive.org/web/20171222184548/https://www.earone.it/news/eminem_the_monster_feat_rihanna_radio_date_29_10_2013_8624310/|archive-date=December 22, 2017|access-date=August 5, 2022}}</ref>
+|-
+! scope="row"| Spain
+| rowspan="3"| Digital download
+| rowspan="5"| {{flat list|
+*Aftermath
+*Interscope
+*Shady}}
+| align="center"| <ref>{{cite web|url=https://www.amazon.es/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y061O|title=The Monster (feat. Rihanna): Eminem|publisher=Amazon.com (ES)|access-date=October 29, 2013|language=es|archive-url=https://web.archive.org/web/20131101145455/https://www.amazon.es/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y061O|archive-date=November 1, 2013}}</ref>
+|-
+! scope="row"| United Kingdom
+| align="center"| <ref>{{cite web|url=https://www.amazon.co.uk/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y0BXC|title=The Monster (feat. Rihanna): Eminem|publisher=Amazon.com (UK)|access-date=October 29, 2013|archive-url=https://web.archive.org/web/20131101181429/https://www.amazon.co.uk/The-Monster-feat-Rihanna-Explicit/dp/B00G9Y0BXC|archive-date=November 1, 2013}}</ref>
+|-
+! rowspan="3" scope="row"| United States
+| align="center"| <ref name="Digital download">{{cite web|url=https://www.amazon.com/The-Monster-feat-Rihanna/dp/B00G5PWJGW|title=The Monster (feat. Rihanna): Eminem: MP3 Downloads|publisher=[[Amazon.com]] (US)|access-date=October 29, 2013|archive-url=https://web.archive.org/web/20131103044132/https://www.amazon.com/The-Monster-feat-Rihanna/dp/B00G5PWJGW|archive-date=November 3, 2013}}</ref>
+|-
+| November 5, 2013
+| {{Hlist|[[Contemporary hit radio]]|[[rhythmic contemporary]] radio}}
+| align="center"| <ref>{{Cite magazine|date=November 5, 2013|title=FMQB: Radio Industry News, Music Industry Updates, Arbitron Ratings, Music News and more!|url=https://www.fmqb.com/Article.asp?id=16691|magazine=[[FMQB]]|archive-url=https://web.archive.org/web/20131105075634/https://www.fmqb.com/Article.asp?id=16691|archive-date=November 5, 2013|access-date=August 5, 2022}}</ref>
+|-
+| November 11, 2013
+| [[Urban contemporary music|Urban contemporary radio]]
+| align="center"| {{Citation needed|date=August 2022}}
+|-
+! scope="row"| Germany
+| November 18, 2013
+| [[CD single|CD]]
+| {{hlist|Interscope|Universal}}
+| align="center"| <ref name="CD single"/>
+|-
+! scope="row"| Various
+| December 15, 2023
+| [[7-inch vinyl|7-inch]] [[picture disc]]
+| 
+| align="center"| <ref name="7in"/>
+|}
+
+==See also==
+{{Div col|colwidth=25em}}
+*[[List of best-selling singles in the United States]]
+*[[List of number-one singles of 2013 (Australia)]]
+*[[List of Canadian Hot 100 number-one singles of 2013]]
+*[[List of number-one singles of 2013 (Ireland)]]
+*[[List of number-one singles of 2013 (Finland)]]
+*[[List of number-one hits of 2013 (France)]]
+*[[List of number-one singles from the 2010s (New Zealand)]]
+*[[List of number-one songs in Norway]]
+*[[List of number-one singles of 2013 (Poland)]]
+*[[List of number-one singles of 2014 (Poland)]]
+*[[List of number-one singles of the 2010s (Sweden)]]
+*[[List of number-one hits of 2013 (Switzerland)]]
+*[[List of Billboard Hot 100 number ones of 2013|List of ''Billboard'' Hot 100 number ones of 2013]]
+*[[List of Billboard Rhythmic number-one songs of the 2010s|List of ''Billboard'' Rhythmic number-one songs of the 2010s]]
+*[[List of Billboard Mainstream Top 40 number-one songs of 2013|List of ''Billboard'' Mainstream Top 40 number-one songs of 2013]]
+*[[List of UK Singles Chart number ones of the 2010s]]
+*[[List of UK R&B Singles Chart number ones of 2013]]
+*[[List of UK Singles Downloads Chart number ones of the 2010s]]
+*[[List of number-one R&B/hip-hop songs of 2013 (U.S.)]]
+*[[List of highest-certified singles in Australia]]
+*[[The Monster Tour (Eminem and Rihanna)|The Monster Tour]]
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{YouTube|ZDXXi19_7iE|Audio}}
+
+{{Eminem songs}}
+{{Rihanna songs}}
+{{Grammy Award for Best Melodic Rap Performance}}
+{{Authority control}}
+
+{{DEFAULTSORT:Monster, The}}
+[[Category:2013 songs]]
+[[Category:2013 singles]]
+[[Category:Eminem songs]]
+[[Category:Rihanna songs]]
+[[Category:Songs about loneliness]]
+[[Category:Songs written by Eminem]]
+[[Category:Songs written by Rihanna]]
+[[Category:Shady Records singles]]
+[[Category:Aftermath Entertainment singles]]
+[[Category:Interscope Records singles]]
+[[Category:Irish Singles Chart number-one singles]]
+[[Category:UK singles chart number-one singles]]
+[[Category:Billboard Hot 100 number-one singles]]
+[[Category:Canadian Hot 100 number-one singles]]
+[[Category:SNEP Top Singles number-one singles]]
+[[Category:Number-one singles in Poland]]
+[[Category:Record Report Pop Rock General number-one singles]]
+[[Category:Number-one singles in Finland]]
+[[Category:Number-one singles in Greece]]
+[[Category:Number-one singles in Hungary]]
+[[Category:Number-one singles in Lebanon]]
+[[Category:Number-one singles in Russia]]
+[[Category:Number-one singles in Scotland]]
+[[Category:Number-one singles in Switzerland]]
+[[Category:Number-one singles in Sweden]]
+[[Category:Number-one singles in Norway]]
+[[Category:Number-one singles in New Zealand]]
+[[Category:Number-one singles in Australia]]
+[[Category:Songs written by Bebe Rexha]]
+[[Category:Songs written by Jon Bellion]]
+[[Category:Grammy Award for Best Rap/Sung Collaboration]]
+[[Category:Music videos directed by Rich Lee]]
+[[Category:Songs about fame]]
+[[Category:Songs about monsters]]

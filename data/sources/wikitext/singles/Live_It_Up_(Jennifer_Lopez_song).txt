@@ -1,0 +1,390 @@
+{{Infobox song
+| name       = Live It Up
+| cover      = JLo_-_Live It Up.png
+| alt        =
+| border     = yes
+| type       = single
+| artist     = [[Jennifer Lopez]] featuring [[Pitbull (rapper)|Pitbull]]
+| album      = 
+| released   = {{Start date|2013|05|08}}
+| recorded   = 2012–2013
+| studio     =
+| venue      =
+| genre      = *[[Electro house]]
+*[[dance-pop]]
+*[[Europop]]
+| length     = {{duration|m=4|s=04}}
+| label      = {{flat list|
+*[[2101 Records|2101]]
+*[[Capitol Records|Capitol]]
+}}
+| writer     = {{flat list|
+*[[RedOne]]
+*[[Alex P]]apaconstantinou
+*Björn Djupström
+*Viktor Svensson
+*[[Pitbull (rapper)|Armando Perez]]
+*[[AJ Junior|Achraf Janussi]]
+*[[Bilal Hajji|Bilal "The Chef" Hajji]]
+}}
+| producer   = {{flat list|
+*RedOne
+*Alex P
+*Viktor Svensson
+*[[Kuk Harrell]]
+}}
+| chronology = [[Jennifer Lopez]]
+| prev_title = [[Sweet Spot (Flo Rida song)|Sweet Spot]]
+| prev_year  = 2013
+| next_title = [[Adrenalina (Wisin song)|Adrenalina]]
+| next_year  = 2014
+| misc       = {{Extra chronology
+ | artist     = [[Pitbull (rapper)|Pitbull]]
+ | type       = single
+ | prev_title = [[Sexy People (The Fiat Song)]]
+ | prev_year  = 2013
+ | title      = Live It Up
+ | year       = 2013
+ | next_title = [[Outta Nowhere]]
+ | next_year  = 2013
+}}
+{{External music video|{{YouTube|BofL1AaiTjo|"Live It Up"}}}}
+}}
+
+"'''Live It Up'''" is a song recorded by American singer [[Jennifer Lopez]]. It was written by [[RedOne]], [[Alex P]]apaconstantinou, Björn Djupström, Viktor Svensson, [[Pitbull (rapper)|Armando "Pitbull" Perez]] (who is also the featured artist), [[AJ Junior|Achraf Janussi]] and [[Bilal Hajji|Bilal "The Chef" Hajji]]. It was produced by RedOne and Alex P, with co-production from Viktor Svensson and audio production by [[Kuk Harrell]]. The song marks the fourth collaboration between two artists following "[[Fresh Out the Oven]]" (2009), "[[On the Floor]]" (2011) and "[[Dance Again]]" (2012), the latter two of which achieved commercial success. "Live It Up" is a [[dance-pop]] and [[Europop]] song that features Lopez singing inspirational lyrics about [[Free will|living it up]]. It received generally positive reviews from music critics, with several critics predicting that it would be the [[summer hit]] of 2013.
+
+"Live It Up" experienced moderate commercial success worldwide, entering the top-twenty in twelve countries including the United Kingdom, Canada and Australia; however, in the United States the song only managed to reach number 60, thus failing to achieve the same commercial success as Lopez's previous collaborations with Pitbull. Lopez performed the song live for the first time on the [[American Idol (season 12)|season 12]] finale of ''[[American Idol]]'' on May 16, 2013. The following day, the song's [[music video]] was released; set in France, the video is divided into two halves including a chaotic fashion show in [[Paris]], which contrasts the care-free environment of the beach in [[Saint-Tropez]]. The music video was nominated for [[2013 MTV Video Music Awards#Best Choreography|Best Choreography]] at the [[2013 MTV Video Music Awards]].
+
+== Background and release ==
+{{Quote box
+| quote  = Jennifer is a hard worker, very professional, gorgeous and she's a walking empire. Anytime I'm around her, I'm watching, learning, studying. It's a natural combination, like a student and teacher. I'm a student all day. I think it would be an honor for Jennifer to watch me grow and say, "That kid did learn."
+| source = [[Pitbull (rapper)|Pitbull]], on partnering up with Lopez again, ''[[The Washington Post]]'' (2013)<ref>{{cite news|last=Kit|first=Zorianna|title=Pitbull on music, Jennifer Lopez and 'Epic'|url=https://www.washingtonpost.com/lifestyle/style/pitbull-on-music-jennifer-lopez-and-epic/2013/05/23/bc108dbc-c314-11e2-914f-a7aba60512a7_story.html|newspaper=[[The Washington Post]]|access-date=May 26, 2013|date=May 26, 2013}}</ref>
+| width  = 28em
+| align  = left
+}}
+
+In 2013, Lopez signed a new record deal with [[RedOne]]'s [[2101 Records]] which falls under the label's multi-year worldwide agreement with the then-[[EMI]] label and now [[Universal Music Group|Universal Music]] label [[Capitol Records]], which will distribute the singer's future releases. Gerrick D. Kennedy of the ''[[Los Angeles Times]]'' said the deal "shouldn't come as a surprise" considering RedOne's role in Lopez's musical comeback two years prior.<ref name="LAT" /> In an official press release, RedOne stated:
+:"This is like a dream come true for me [...] It was amazing to be able to work with Jennifer on so many great records over the past two years, and now it is such an honor to have her on my label. She is a creative inspiration and a true global superstar artist who brings so much to everything she does. I feel that this is historic and a wonderful opportunity to launch 2101/Capitol in this way".<ref>{{cite web|title=Jennifer Lopez Signs With RedOne's 2101 Records|url=http://www.hollywoodreporter.com/news/jennifer-lopez-signs-redones-2101-519579|work=[[The Hollywood Reporter]]|access-date=May 9, 2013|date=May 8, 2013}}</ref><ref>{{cite news|title=Jennifer Lopez Teams With RedOne's 2101 Records / Capitol Records To Release JLO's 10th Album Late 2013 (Press Release)|url=https://online.wsj.com/article/PR-CO-20130508-917154.html|newspaper=[[The Wall Street Journal]]|publisher=[[News Corporation (1980–2013)|News Corporation]]|access-date=May 10, 2013|date=May 8, 2013}}</ref><ref>{{cite news|last=Jones|first=Steve|title=J.Lo's new single a harbinger of album later this year|url=https://www.usatoday.com/story/life/music/2013/05/09/jennifer-lopez-live-it-up/2147617/|newspaper=[[USA Today]]|publisher=[[Gannett Company]], Inc.|access-date=May 10, 2013|date=May 9, 2013}}</ref>
+
+"Live It Up", announced on April 24, 2013, was originally to serve as the lead single to Lopez's eighth studio album.<ref name="Snippet" /><ref name="Confirmed">{{cite web|title=Jennifer Lopez Enlists Pitbull for New Single 'Live It Up'|url=http://www.rap-up.com/2013/04/24/jennifer-lopez-enlists-pitbull-for-new-single-live-it-up/|archive-url=https://web.archive.org/web/20130518021159/http://www.rap-up.com/2013/04/24/jennifer-lopez-enlists-pitbull-for-new-single-live-it-up/|url-status=dead|archive-date=May 18, 2013|work=[[Rap-Up]]|publisher=SPIN Media Group|access-date=April 25, 2013|date=April 24, 2013}}</ref> Two days prior to the song's release, a low-quality snippet of "Live It Up" surfaced online.<ref name="Snippet">{{cite web|last=Williot|first=Carl|title=Jennifer Lopez & Pitbull's "Live It Up": Hear A (Low Quality) Preview Of The Party Track|url=http://idolator.com/7456563/jennifer-lopez-pitbull-live-it-up-preview|archive-url=https://archive.today/20130615065024/http://idolator.com/7456563/jennifer-lopez-pitbull-live-it-up-preview|url-status=dead|archive-date=June 15, 2013|publisher=Idolator (SpinMedia)|access-date=May 7, 2013|date=May 6, 2013}}</ref> On May 8, 2013, it was premiered at the [[New York City|New York]] radio station [[WHTZ]],<ref>{{cite web|title=Jennifer Lopez Premieres Pitbull Collab 'Live It Up'|url=http://www.mtv.co.uk/news/jennifer-lopez/381542-jennifer-lopez-new-single-pitbull-live-it-up-listen-here|archive-url=https://web.archive.org/web/20130615002402/http://www.mtv.co.uk/news/jennifer-lopez/381542-jennifer-lopez-new-single-pitbull-live-it-up-listen-here|url-status=dead|archive-date=June 15, 2013|publisher=[[MTV News|MTV News UK]] (MTV Networks)|access-date=May 8, 2013|date=May 8, 2013}}</ref> where Lopez told host [[Elvis Duran]] that she had no intentions of setting a release date for its parent album, "I think we're going to release this first and then a few singles and then we'll decide when to put the album out". She added, "I'm more a believer of letting it gain momentum. Let there be demand for the album by putting out some great music first", although [[Digital Spy]] reported that it would be released in November 2013.<ref name="Digital Spy premieres new single">{{cite web|last=Corner|first=Lewis|title=Jennifer Lopez premieres new single 'Live It Up'&nbsp;– listen|url=http://www.digitalspy.com.au/music/news/a479663/jennifer-lopez-premieres-new-single-live-it-up-listen.html|publisher=Digital Spy (Hearst Magazines UK)|access-date=May 8, 2013|date=May 8, 2013}}</ref> Ultimately, Lopez's eighth studio album ''[[A.K.A. (album)|A.K.A.]]'' (2014) was released the following year, but "Live it Up" was not included on its final track listing.<ref>{{cite web|last1=Benjamin|first1=Jeff|title=The Complete Guide to Jennifer Lopez's New Album 'A.K.A.'|url=http://www.fuse.tv/2014/04/jennifer-lopez-first-love-album-guide|website=[[Fuse (TV channel)|Fuse.tv]]|publisher=Fuse Networks|access-date=January 26, 2015|date=May 5, 2014}}</ref> A [[sing-along]] lyric video for the song, described by ''[[The Huffington Post]]'' as having "colorful and energetic scenes", was uploaded to Lopez's official [[YouTube]] channel.<ref>{{cite web|last=Lopez|first=Kristina|title=Jennifer Lopez and Pitbull release their new song 'Live It Up'&nbsp;– Listen|url=http://www.ontheredcarpet.com/Jennifer-Lopez-and-Pitbull-release-their-new-song-Live-It-Up---Listen/9094964|publisher=[[On The Red Carpet]] ([[KABC-TV]])|access-date=May 9, 2013|date=May 8, 2013|archive-url=https://web.archive.org/web/20140522162202/http://www.ontheredcarpet.com/Jennifer-Lopez-and-Pitbull-release-their-new-song-Live-It-Up---Listen/9094964|archive-date=May 22, 2014|url-status=dead}}</ref><ref>{{cite web|title=Pitbull And Jennifer Lopez Release 'Live It Up' Single (Lyric Video)|url=http://www.huffingtonpost.com/2013/05/10/pitbull-jennifer-lopez-live-it-up_n_3254181.html|work=[[The Huffington Post]]|publisher=The Huffington Post, Inc.|access-date=May 16, 2013|date=May 10, 2013}}</ref>  The release of Lopez's new music coincides with her 3D concert film ''[[Jennifer Lopez: Dance Again]]'', which documents her first world tour, 2012's [[Dance Again World Tour]].<ref name="DA3D">{{cite web|last=Corner|first=Lewis|title=Jennifer Lopez reveals plans for 3D tour movie: "It's a special thing"|url=http://www.digitalspy.com.au/music/news/a479673/jennifer-lopez-reveals-plans-for-3d-tour-movie-its-a-special-thing.html|publisher=Digital Spy (Hearst Magazines UK)|access-date=May 8, 2013|date=May 8, 2013}}</ref> The solo version of "Live It Up" premiered on June 5, 2013.<ref name="Now Comes In A Nearly Pitbull-Free Mix">{{cite web|author=Sam Lansky |url=http://idolator.com/7461832/jennifer-lopez-live-it-up-solo-version-listen |archive-url=https://archive.today/20130630215044/http://idolator.com/7461832/jennifer-lopez-live-it-up-solo-version-listen |url-status=dead |archive-date=June 30, 2013 |title=Jennifer Lopez's "Live It Up" Now Comes In A Nearly Pitbull-Free Mix: Listen  |publisher=Idolator (SpinMedia) |date=June 5, 2013 |access-date=June 18, 2013}}</ref>
+
+== Composition ==
+{{Listen
+|pos=left
+|filename=Live It Up.ogg
+|title="Live It Up"
+|description=A 25-second sample of the song's final chorus and [[breakdown (music)|breakdown]]. The chorus contains inspirational lyrics about "doing anything we want" and "living it up" over a "thumping" [[Electro (music)|electro]]-[[Dance music|dance]] beat.<ref name="Rap It Up" /><ref name="Billboard review" /> Its lyrical [[Hook (music)|hook]] ("Let's hook tonight") is also featured.<ref name="Spy 2" />
+|format=[[Ogg]]
+}}
+
+"Live It Up" is an uptempo [[dance-pop]] and [[Europop]]<ref name="LAT" /><ref name="Idolator Review">{{cite web|last=Lansky|first=Sam|title=Jennifer Lopez & Pitbull's "#LiveItUp": Listen To The Obvious Summer Smash|url=http://idolator.com/7457088/jennifer-lopez-pitbull-live-it-up-listen#comment-14651131|archive-url=https://archive.today/20130629114937/http://idolator.com/7457088/jennifer-lopez-pitbull-live-it-up-listen#comment-14651131|url-status=dead|archive-date=June 29, 2013|publisher=Idolator (SpinMedia)|access-date=May 8, 2013|date=May 8, 2013}}</ref> song with a duration of four minutes and three seconds (4:03). The [[Club music|party]]-themed track was produced by [[RedOne]] and [[Alex P]],<ref name="Snippet" /><ref name="DA3D" /><ref>{{cite web|title=TEAM RED|url=http://www.redoneprod.com/team-red/|publisher=Redoneprod.com|access-date=14 March 2014|archive-url=https://web.archive.org/web/20140319135656/http://www.redoneprod.com/team-red/|archive-date=19 March 2014|url-status=dead}}</ref> who also wrote it alongside Björn Djupström, Viktor Svensson, Pitbull, Achraf Janussi and Bilal "The Chef" Hajji. Carl Williot of the website [[Idolator (website)|Idolator]] noted its "club-ready chorus" and prominent [[Electronic dance music|EDM]] breakdown, while comparing the "fierceness" in Lopez's vocals during the song's bridge to [[Beyoncé]]'s song "[[Run the World (Girls)]]".<ref name="Snippet" /> The "high-energy" track utilizes a [[drum]]-patterned "fist-pumping" [[Electro (music)|electro]] beat, as well as heavy [[Synthesizer|synths]].<ref name="LAT">{{cite news|last=Kennedy|first=Gerrick D.|title=Jennifer Lopez joins RedOne's label, issues 'Live It Up' single|url=http://www.latimes.com/entertainment/music/posts/la-et-ms-jennifer-lopez-redone-20130508,0,4308073.story|newspaper=[[The Los Angeles Times]]|publisher=[[Tribune Company]]|access-date=May 9, 2013|date=May 8, 2013}}</ref><ref name="Rap It Up">{{cite web|title=New Music: Jennifer Lopez f/ Pitbull &nbsp;– 'Live It Up'|url=http://www.rap-up.com/2013/05/08/new-music-jennifer-lopez-f-pitbull-live-it-up/|archive-url=https://web.archive.org/web/20130623181256/http://www.rap-up.com/2013/05/08/new-music-jennifer-lopez-f-pitbull-live-it-up/|url-status=dead|archive-date=June 23, 2013|work=Rap-Up|publisher=SpinMedia|access-date=May 8, 2013}}</ref> The song contains the "[[Sonic boom|sonic]] disruptions" of [[dubstep]] in the breakdown.<ref name="NYDaily review">{{cite news|last=Farber|first=Jim|title=Jennifer Lopez and Pitbull's 'Live It Up': Could it be the song of the summer?|url=http://www.nydailynews.com/entertainment/music-arts/lo-pitbull-live-song-summer-article-1.1338269|newspaper=[[The New York Daily News]]|publisher=[[The New York Times Company]]|access-date=May 9, 2013|date=May 8, 2013}}</ref> Pitbull's lyrics have a recurring theme of [[feminism]].<ref name="She Knows">{{cite web|last=Shankar|first=Natasha|title=Music review: Jennifer Lopez feat. Pitbull "Live It Up"|url=http://www.sheknows.com/entertainment/articles/993715/music-review-jennifer-lopez-featuring-pitbull-live-it-up|publisher=She Knows Entertainment|access-date=May 15, 2013|date=May 14, 2013}}</ref>
+
+"Live It Up" opens with Pitbull's [[bilingual]] verse, which contains lyrics such as "[[Jenny from the Block]], let's rock" and "She's screaming [[YOLO (motto)|YOLO]]", as well as "We don't believe in defeat, what's why we're back for a threepeat", which references the duo collaborating once again.<ref name="Rap It Up" /> Lopez arrives with [[lust]]y lyrics about "things blowing and spots being hit". A pre-chorus occurs before a "shouty" [[euphoria|euphoric]]-themed chorus, where Lopez sings about living it up, and "doing anything we want" as well not "stopping 'till we're done". The song's [[hook (music)|hook]] then occurs, [[Günther (singer)|Günther]] states "Make love, don't fight. Let's hook tonight", followed by a thunderous "noisy beat" dance breakdown.<ref name="Spy 2" /><ref name="Idolator Review" /> Lopez' lyrics in the second verse include, "Turn up this mother, and let it play/ I know you like my bumper, don't be ashamed/ Don't even wonder, it's just a game/We're rocking body to body let's go insane".<ref name="E!">{{cite web|last=Macatee|first=Rebecca|title=Jennifer Lopez and Pitbull Debut New Song "#LIVEITUP"—Listen Now!|url=http://au.eonline.com/news/416142/jennifer-lopez-and-pitbull-debut-new-song-liveitup-listen-now|publisher=E! Online|access-date=May 9, 2013|date=May 8, 2013}}</ref> According to Amy Sciarretto of PopCrush, "Live It Up" is a "full-on club banger" that would "fit quite nicely" on a [[David Guetta]] album.<ref name="PopCrush review">{{cite web|last=Sciaretto|first=Amy|title=Jennifer Lopez, 'Live It Up' Feat. Pitbull&nbsp;– Song Review|url=http://popcrush.com/jennifer-lopez-live-it-up-pitbull/|publisher=PopCrush ([[Townsquare Media]]|access-date=May 9, 2013|date=May 8, 2013}}</ref>
+
+== Critical response ==
+The song received generally positive reviews. When the solo version of "Live It Up" was released, Lansky commented that it should be made the "official version" of the song.<ref name="Now Comes In A Nearly Pitbull-Free Mix"/> He wrote that it should be "law" that if "your song features Pitbull, [[will.i.am]] or [[Flo Rida]], you are legally mandated to release a solo version so nobody has to suffer".<ref name="Now Comes In A Nearly Pitbull-Free Mix"/> Jason Lipshutz of ''[[Billboard (magazine)|Billboard]]'' called the song a "dance-ready summer anthem", writing that Lopez "seems to be having a blast" in the song, "tossing out inspirational phrases about doing anything we want, living it up, not stopping, and going". He also noted, "Like graham crackers, marshmallows and chocolate, the combination of Jennifer Lopez, Pitbull and producer RedOne has proven to be endlessly winning".<ref name="Billboard review">{{cite magazine|last=Lipshutz|first=Jason|title=Jennifer Lopez, Pitbull 'Live It Up' on New Single: Listen|url=https://www.billboard.com/music/music-news/jennifer-lopez-pitbull-live-it-up-on-new-single-listen-1560819/|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=May 9, 2013|date=May 8, 2013}}</ref> Gerrick D. Kennedy of the ''[[Los Angeles Times]]'' called the song a "typical Euro-pop jam that RedOne probably weaves in his sleep" that sounds "perfect for summer".<ref name="LAT" /> Writing for She Knows Entertainment, Natasha Shankar thought the chorus was "forced", but however described the song as "catchy" and "vivacious and strong, just like the songstress herself".<ref name="She Knows" />
+
+Amy Sciarretto of PopCrush wrote that while the song will get its "fair share" of remixes and club play, it will also "find a home on the radio and in mall clothing stores".<ref name="PopCrush review"/> According to Sciarretto, the production "makes you think if there ever was a song that sounds like Miami, this is it".<ref name="PopCrush review"/> Sciarretto wrote that while the song is in typical Lopez and Pitbull fashion, but "they've switched it up this time on the production end of things, thanks to the multiple layers of synthy beats".<ref name="PopCrush review"/> She concluded that in September 2013, "Live It Up" will be "one of those songs that defines the three months that came before it".<ref name="PopCrush review"/> ''[[The New York Daily News]]'' felt that "Live It Up" was strikingly similar to "[[Dance Again]]", but stated that it had potential to be a summer hit, praising its "make love, don't fight/let's hook tonight".<ref name="NYDaily review" /> Similarly, [[Digital Spy]]'s Robert Copsey said the song felt "very by-numbers" until [[Günther (singer)|Günther]] announces "Make love, don't fight/ Let's hook tonight", which he said allowed it to become "something we never dreamed possible: a colourful and completely bonkers number that, by comparison, makes [[Nicki Minaj]]'s '[[Starships (song)|Starships]]' sound pedestrian".<ref name="Spy 2">{{cite web|last=Copsey|first=Robert|title=Jennifer Lopez ft. Pitbull: 'Live It Up'&nbsp;– Single review|url=http://www.digitalspy.com.au/music/singlesreviews/a481032/jennifer-lopez-ft-pitbull-live-it-up-single-review.html|publisher=[[Digital Spy]] (Hearst Magazines UK)|access-date=May 14, 2013|date=May 14, 2013}}</ref> Additionally, Copsey noted that there is an "argument that says once you've heard one J Lo/Pitbull/RedOne collaboration then you've heard them all". He, however, disagreed, and wrote that "you won't hear us complaining if it turns into an annual tradition".<ref name="Spy 2" />
+
+Sugey Palomares of ''[[Latina (magazine)|Latina]]'' stated, "This is the third time J.Lo has joined forces with the hit-making producer and Mr. 305, which is no surprise considering the success they garnered in the past. We definitely think third times a charm".<ref>{{cite web|last=Palomares|first=Sugey|title=Jennifer Lopez Premieres Single With Pitbull Live It Up|url=http://www.latina.com/entertainment/music/jlo-pitbull-live-it-up-premiere|work=Latina|publisher=Latina Media Ventures, LLC|access-date=May 9, 2013|date=May 8, 2013}}</ref> Nate Jones of the website PopDust found the fact that Lopez collaborated with Pitbull once again "odd", and wrote that "For artists who aren’t married, and never were in any sort of band together, this is a pretty rare thing". Jones concluded that "If you’re looking for [an] analogue for Pitbull and Jennifer Lopez’s relationship, it’s helpful to think of Pitbull as a nerdy teenage boy and Lopez as his friend’s hot older sister".<ref>{{cite web|last=Jones|first=Nate|title=Just Friends: "Live It Up" and the Odd, Sweet Friendship Between Pitbull and J. Lo|url=http://popdust.com/2013/05/09/just-friends-liveitup-and-the-odd-sweet-friendship-between-pitbull-and-j-lo/|publisher=Pop Dust, Inc.|access-date=May 10, 2013|date=May 9, 2013}}</ref> Katie Hasty of [[HitFix]] was negative, however, and called the song a  "cheap [...] seasonal drug store-bought toy". She wrote that the song fits the "general guidelines" for a "summer jam", but that is disposable and interchangeable.<ref>{{cite news|last=Hasty|first=Katie|title=Jennifer Lopez and Pitbull's new song 'Live It Up': Lab-made, and listen here|url=http://www.hitfix.com/immaculate-noise/jennifer-lopez-and-pitbulls-new-song-live-it-up-lab-made-and-listen-here|archive-url=https://web.archive.org/web/20130726065919/http://www.hitfix.com/immaculate-noise/jennifer-lopez-and-pitbulls-new-song-live-it-up-lab-made-and-listen-here|url-status=dead|archive-date=July 26, 2013|work=[[HitFix]]|access-date=May 15, 2013|date=May 8, 2013}}</ref>
+
+== Commercial performance ==
+"Live It Up" has experienced moderate success, but not to the extent of "On the Floor" or "Dance Again". For the week of May 13, 2013, it entered the US [[Billboard magazine|''Billboard'']] [[Pop Songs]] chart at number 33 and the US [[Billboard Hot 100|''Billboard'' Hot 100]] at number 73, becoming the second highest debut for the week on both charts.<ref name="pop song debut">{{cite magazine|last=Trust|first=Gary|title=Chart Highlights: Mariah Carey, Miguel Blast Onto Radio Rankings With '#Beautiful'|url=https://www.billboard.com/pro/chart-highlights-mariah-carey-miguel-blast-onto-radio-rankings/|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=May 14, 2013|date=May 13, 2013}}</ref><ref name="73 debut">{{cite web|last=Grein|first=Paul|title=Week Ending May 12, 2013. Songs: #Letdown|url=http://music.yahoo.com/blogs/chart-watch/week-ending-may-12-2013-songs-letdown-205153774.html|publisher=Yahoo! Music: Chart Watch|access-date=May 16, 2013|date=May 16, 2013}}</ref> To date, the song is Lopez's 23rd entry on the Hot 100, excluding featured singles.<ref name="DEC" /> "Live It Up" also charted on the US [[Dance/Electronic Digital Songs]] chart at number eleven,<ref name="DEC">{{cite web|url={{BillboardURLbyName|artist=Jennifer Lopez|chart=Dance/Electronic Digital Songs}}|title=Jennifer Lopez Album & Song Chart History|work=Billboard [[Dance/Electronic Digital Songs]] for Jennifer Lopez|publisher=Prometheus Global Media|access-date=May 16, 2013}}</ref> with first-week sales of 43,000 downloads, which also allowed it enter the [[Hot Digital Songs]] at number 43.<ref>{{cite magazine|last=Trust|first=Gary|title=Weekly Chart Notes|url=https://www.billboard.com/pro/weekly-chart-notes-mariah-carey-adds-to-hot-100-legacy/|magazine=Billboard|publisher=Prometheus Global Media|access-date=May 17, 2013|date=May 16, 2013}}</ref> The next week, sales of the single rose by 53%, bringing its total to 135,000 digital downloads sold in the US.<ref>{{cite web|last=Mansfiel|first=Bryan|title=New 'Idol' downloads lag behind previous winners|url=https://www.usatoday.com/story/idolchatter/2013/05/22/new-idol-download-lag-behind/2351937/|work=USA Today|access-date=May 26, 2013|date=May 22, 2013}}</ref> "Live it Up" peaked at number 60 on the Hot 100.<ref name="BB Hot 100" /> Though performing unsuccessfully on the US ''Billboard'' Hot 100, "Live It Up" managed to top the US ''Billboard'' [[Hot Dance Club Songs]] chart, making it her tenth consecutive number one dance hit, as well as her fourteenth number one overall.<ref name="Dance1" />
+
+"Live It Up" has been more successful in the international music market, having entered the top twenty in eleven countries. The song marks her twenty-first chart entry on the [[Canadian Hot 100]], where it debuted at number 81 and has since peaked at number 16.<ref name="Can Chart" /> In Australia, it debuted at number 20 on the [[ARIA Charts]] for the week ending June 2, 2013.<ref name="Oz" /> This marked an improvement in comparison to "Dance Again", which debuted at number 44 and peaked at just 28, failing to enter the top twenty.<ref>{{cite web|title=Australian-charts.com&nbsp;– Jennifer Lopez feat. Pitbull&nbsp;– Dance Again|url=http://www.australian-charts.com/showitem.asp?interpret=Jennifer+Lopez+feat.+Pitbull&titel=Dance+Again&cat=s|publisher=[[ARIA Top 50 Singles]]. Hung Medien}}</ref> It fared better on the Australian Urban Singles Chart, where it has met a peak of number five.<ref name="Oz" /> "Live It Up" entered the [[Gaon Chart|South Korean International Gaon Chart]] at number four, its highest debut.<ref name="SK" /> In Belgium, the single has peaked at number five in [[Wallonia]]<ref name="BEL WA Chart" /> and number three in [[Flanders]].<ref name="BEL FL Chart" /> It also debuted at number 19 in Spain.<ref name="Spa Chart" /> In the United Kingdom, "Live It Up" made its entry at number 17 on the [[UK Singles Chart]],<ref>{{cite web|author=Robin Thicke scores first UK number one |url=http://www.thestar.ie/star/robin-thicke-scores-first-uk-number-one/ |title=Robin Thicke scores first UK number one &#124; Irish Daily Star |publisher=Thestar.ie |date=June 2, 2013 |access-date=June 18, 2013}}</ref> while also peaking at number three on the [[UK R&B Chart]].<ref name="UKRB" />
+
+== Music video ==
+=== Development ===
+The music video for "Live It Up" is, in Lopez's own words, "one of the more fun videos that I've ever done".<ref name="fun" /> Soon after she teased the release of the single, writing "Are you ready for what's coming?" on social networking website [[Twitter]], choreographer Casper Smart announced that he was holding auditions for the music video alongside choreographers JR Taylor and Lyle Beniga.<ref>{{cite web|last=Copsey|first=Robert|title=Jennifer Lopez teases new RedOne-produced single: "Are you ready?"|url=http://www.digitalspy.com/music/news/a473899/jennifer-lopez-teases-new-redone-produced-single-are-you-ready.html|publisher=Digital Spy (Hearst Magazines UK)|access-date=April 17, 2013|date=April 17, 2013}}</ref> The official music video for "Live It Up" was directed by [[Jessy Terrero]].<ref>{{cite web|last=Labuda|first=Tommy|title=Jennifer Lopez f/ Pitbull "Live It Up" (Jessy Terrero, dir.)|url=http://www.videostatic.com/production/2013/04/29/jlo-live-it-jessy-terrero-dir|publisher=VideoStatic|access-date=May 4, 2013|date=April 30, 2013}}</ref> While Lopez was being interviewed on the music video's set by ''[[Entertainment Tonight]]''’s [[Rob Marciano]], [[shooting|gun shots]] were fired close to its location, although security officials confirmed that the entertainer was secured inside her vehicle.<ref>{{cite news|last=Caceres|first=Melissa|title=Police respond to call of shots fired near filming of Jennifer Lopez music video|url=http://www.miamiherald.com/2013/05/05/3382524/police-respond-to-call-of-shots.html#storylink=cpy|access-date=May 6, 2013|newspaper=[[The Miami Herald]]|publisher=Miami Herald Media Co|date=May 5, 2013}}</ref> The incident, unrelated to the filming of the music video, occurred less than 400 meters away.<ref>{{cite web|title=The singer is 'scrambled away' by security into a nearby vehicle...|url=http://www.mtv.com.au/news/gun-shots-fired-during-jennifer-lopez-pitbull-music-video-shoot-florida-666306d8/|archive-url=https://web.archive.org/web/20130913070806/http://www.mtv.com.au/news/gun-shots-fired-during-jennifer-lopez-pitbull-music-video-shoot-florida-666306d8/|url-status=dead|archive-date=September 13, 2013|publisher=MTV Networks|access-date=May 16, 2013|date=May 7, 2013}}</ref> No one was injured, and police reportedly detained multiple people.<ref>{{cite web|title=Jennifer Lopez's 'Live It Up' Music Video Shoot Disrupted By Nearby Gunshots|url=http://www.huffingtonpost.com/2013/05/06/jennifer-lopez-live-it-up-music-video-shoot-gunshots_n_3222191.html?ir=Entertainment|work=The Huffington Post|access-date=May 7, 2013|date=May 6, 2013}}</ref> Starting May 13, 2013, ''Entertainment Tonight'' aired its "J.Lo week", which featured Marciano's interview with Lopez and behind-the-scenes making of the video clips as well as exclusive sneak peeks.<ref name="fun">{{cite web|title=Exclusive: J.Lo & Pitbull 'Live it Up' in Miami|url=http://www.etonline.com/tv/133975_Jennifer_Lopez_on_the_Set_of_Live_it_Up_with_Pitbull_in_Miami/index.html|publisher=[[ETonline]] (CBS Studios Inc.)|access-date=May 14, 2013|date=May 13, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130514110820/http://www.etonline.com/tv/133975_Jennifer_Lopez_on_the_Set_of_Live_it_Up_with_Pitbull_in_Miami/index.html|archive-date=May 14, 2013}}</ref> Instantly following [[#Live performances|Lopez's performance]] of the song on ''American Idol'', the singer posted a sneak peek of the music video on Twitter.<ref>{{cite web|last=Lopez|first=Jennifer|title=Jennifer Lopez (@JLo) status—Here's a sneak peek at #LIVEITUP music video @123unodostresch|url=https://twitter.com/JLo/status/335212843496534019|publisher=[[Twitter]]|access-date=May 17, 2013|date=May 16, 2013}}</ref><ref>{{cite web|last=Lansky|first=Sam|title=Jennifer Lopez & Pitbull Tease "Live It Up" Video With Sneak Peek: Watch|url=http://idolator.com/7458923/jennifer-lopez-pitbull-live-it-up-video-sneak-peek|archive-url=https://archive.today/20130615064823/http://idolator.com/7458923/jennifer-lopez-pitbull-live-it-up-video-sneak-peek|url-status=dead|archive-date=June 15, 2013|publisher=Idolator (SpinMedia)|access-date=May 18, 2013|date=May 17, 2013}}</ref> The full-length music video premiered on ''Entertainment Tonight'' and was uploaded to Lopez's [[Vevo]] account on May 17, 2013.<ref name="Video ET">{{cite web|title=Jennifer Lopez's 'Live it Up' Video Premiere|url=http://www.etonline.com/music/134173_Jennifer_Lopez_Pit_Bull_Live_it_Up_Video_Premiere/index.html|publisher=[[ETonline]]|access-date=May 18, 2013|date=May 17, 2013|archive-date=May 18, 2013|archive-url=https://web.archive.org/web/20130518014129/http://www.etonline.com/music/134173_Jennifer_Lopez_Pit_Bull_Live_it_Up_Video_Premiere/index.html|url-status=dead}}</ref> In the clip, Lopez shows "all sides of herself" from "runway fashionista" to "beach babe".<ref name="Video ET" />
+
+=== Fashion ===
+Lopez sports a variety of different "risque" costumes in the music video for "Live It Up".<ref>{{cite web|last=Copsey|first=Robert|title=Jennifer Lopez teases 'Live It Up' video&nbsp;– watch|url=http://www.digitalspy.com.au/music/news/a482037/jennifer-lopez-teases-live-it-up-video-watch.html|publisher=Digital Spy (Hearst Magazines UK)|access-date=May 16, 2013|date=May 16, 2013}}</ref><ref name="Risque" /> ''[[The Huffington Post]]'' noted that Lopez went for a "bronze goddess" look.<ref name="Huffington Post">{{cite web|title=Jennifer Lopez's Nude Swimsuit Will Make You Do A Double Take|url=http://www.huffingtonpost.com/2013/05/06/jennifer-lopez-nude-swimsuit_n_3224387.html|work=[[The Huffington Post]]|access-date=May 7, 2013|date=May 6, 2013}}</ref> She also wore a chunky Egyptian style gold choker at one stage. ''Entertainment Tonight'' described another costume, a black "edgy" feathered frock.<ref name="Risque">{{cite web|title=Exclusive Sneak Peek: Watch J.Lo 'Live it Up'|url=http://www.etonline.com/music/134105_Behind_the_Scenes_of_Jennifer_Lopez_s_Live_it_Up_Music_Video/index.html|publisher=[[ETonline]] (CBS Studios Inc.)|access-date=May 16, 2013|date=May 15, 2013}}</ref>
+
+=== Synopsis ===
+<!-- Commented out: [[File:Live It Up (video).png|thumb|right|Lopez, wearing a ''[[Black Swan (film)|Black Swan]]''-esque feathered frock, in the music video for "Live It Up", during a high fashion show where she dances on the catwalk.<ref name="HPV" />{{deletable image-caption|Wednesday, 24 November 2021|PROD}}]] -->
+
+The clip for "Live It Up" begins in Paris, France. Lopez is clothed in a black-feathered frock and preparing for a fashion show with several other models.<ref name="Risque" /> Pitbull is partying on the beach in Saint-Tropez and texts Lopez using a [[Nokia Lumia 920|Nokia smartphone]], asking him to join her.<ref>{{cite web|url=http://wmpoweruser.com/nokia-lumia-920-gets-product-placement-in-latest-j-lo-video/ |title=Nokia Lumia 920 gets product placement in latest J-Lo video |date=18 May 2013 |publisher=WMPoweruser |access-date=June 2, 2013}}</ref> One of the models seen readying themselves for the fashion show is ''[[America's Next Top Model]]'' alum [[Eva Marcille]].<ref name="Video Rap-Up" /> Lopez soon takes center spotlight on the catwalk runway where she dances to a choreographed routine that is a reminiscent of her music video for "[[I'm Glad]]".<ref name="Video Rap-Up" /> Present on the catwalk are [[Playground|trapeze rings]].<ref name="HPV">{{cite web|title=Jennifer Lopez's 'Live It Up' Video Has The Singer Performing With Pitbull|url=http://www.huffingtonpost.com/2013/05/18/jennifer-lopez-live-it-up-video-pitbull_n_3298302.html?ncid=edlinkusaolp00000003|work=The Huffington Post|access-date=May 19, 2013|date=May 18, 2013}}</ref> Viewers of the fashion show gaze, cry and clap for the singer in awe, as she later greets them. Moments later, she reappears on the catwalk, now wearing a red-leather bodysuit with a blonde fringe continuing to dance to the music. Soon, these scenes are inter cut with the singer lying on a beach chair overlooking the shore with wet hair, an orange swimsuit and vibrant orange lipstick.<ref name="Huffington Post" /> After the fashion show, Lopez now appears on the beach in Saint-Tropez, partying and dancing with Pitbull and everyone else, now clothed in a loose green kaftan. Towards the end of the clip, more settings are shown. In one, Lopez and her dancers are performing intricate choreography in a green laser-filled club. The video ends with a shot of Lopez on the beach.
+
+=== Reception ===
+''[[Rap-Up]]'' called the music video "sizzling" and "celebratory", praising the "feel-good" visuals directed by Terraro.<ref name="Video Rap-Up">{{cite web|title=Video: Jennifer Lopez f/ Pitbull&nbsp;– 'Live It Up'|url=http://www.rap-up.com/2013/05/17/video-jennifer-lopez-f-pitbull-live-it-up/|archive-url=https://web.archive.org/web/20140101080755/http://www.rap-up.com/2013/05/17/video-jennifer-lopez-f-pitbull-live-it-up/|url-status=dead|archive-date=January 1, 2014|work=Rap-Up|publisher=SpinMedia|access-date=May 18, 2013|date=May 17, 2013}}</ref> ''[[The New York Daily News]]'' writer Victoria Taylor praised Lopez's physicality in the music video, stating: "The 43-year-old mother of twins proves she's still a fly girl as she bares her toned midriff [in the video]", also lauding the costumes she wore in it.<ref>{{cite news|last=Taylor|first=Victoria|title=Jennifer Lopez shows off flat abs, parties with Pitbull on the beach in 'Live It Up' video|url=http://www.nydailynews.com/entertainment/music-arts/jennifer-lopez-shows-abs-parties-pitbull-new-video-article-1.1347837|newspaper=[[New York Daily News]]|publisher=[[The New York Times Company]]|access-date=May 19, 2013|date=May 18, 2013}}</ref> Christina Lee of [[Idolator (website)|Idolator]] commented that the music video is "a flashy clip showing that even if Pitbull calls (okay, texts) and ''America’s Next Top Model'' alumnus Eva Marcille appears, J. Lo will still steal the show", while also stating that Lopez channels her "inner Baby" during the choreography.<ref>{{cite web|last=Lee|first=Christina|title=Jennifer Lopez's "Live It Up" Video: Watch It In Full|url=http://idolator.com/7458968/jennifer-lopez-pitbull-live-it-up-video|archive-url=https://archive.today/20130615064801/http://idolator.com/7458968/jennifer-lopez-pitbull-live-it-up-video|url-status=dead|archive-date=June 15, 2013|publisher=Idolator (SpinMedia)|access-date=May 19, 2013|date=May 18, 2013}}</ref>
+
+Peggy Truong of [[Celebuzz]] stated that the clip had a "dose of fabulousness" and a "handful of [[product placement]]s", referring to the video's promotion of Ice-Watch, [[Nokia]] and [[Swarovski]].<ref name="Celeb">{{cite web|last=Truong|first=Peggy|title=Watch Jennifer Lopez and Pitbull 'Live It Up' With Beach Parties, Runways and Yellow Lipstick|url=http://www.celebuzz.com/2013-05-18/watch-jennifer-lopez-and-pitbull-live-it-up-with-beach-parties-runways-and-yellow-lipstick/|publisher=[[Celebuzz]] (Spin Media)|access-date=May 19, 2013|date=May 18, 2013}}</ref> Similarly, Dave Lewis of [[HitFix]] said it "features more product placements than you can count. Well, not if you can count beyond 6 or so, but still it's a lot of blatant product placements for some pretty extravagant products".<ref>{{cite news|last=Lewis|first=Dave|title=Jennifer Lopez and Pitbull 'Live It Up' together in new video: Watch|url=http://www.hitfix.com/news/jennifer-lopez-and-pitbull-live-it-up-together-in-new-video-watch|archive-url=https://web.archive.org/web/20130611060948/http://www.hitfix.com/news/jennifer-lopez-and-pitbull-live-it-up-together-in-new-video-watch|url-status=dead|archive-date=June 11, 2013|work=HitFix|access-date=May 19, 2013|date=May 18, 2013}}</ref> Michael Smith of The Guardian Express also praised Lopez's beauty and physicality, writing: "43 year-old mother of two, Jennifer Lopez is proving that she’s not getting older, she’s getting fitter as she shows off some seriously flat abs". Smith also commented that "Jennifer aka J-Lo from back in the day she lived on the block, knows how to jumpstart the summer season with a sexy, kicking music video to accompany her new single".<ref>{{cite web|last=Smith|first=Michael|title=Jennifer Lopez Flat Abs and Pitbull Video|url=http://guardianlv.com/2013/05/jennifer-lopez-flat-abs-and-pitbull-video/|work=The Guardian Express|access-date=May 19, 2013|date=May 18, 2013}}</ref> Kristina Lopez of the website [[On The Red Carpet]] called the music video "fun" and "flashy".<ref>{{cite web|last=Lopez|first=Kristina|title=Jennifer Lopez debuts 'Live It Up' video featuring Pitbull|url=http://www.ontheredcarpet.com/Jennifer-Lopez-debuts-Live-It-Up-video-featuring-Pitbull/9107278|publisher=[[OnTheRedCarpet.com]]|access-date=May 19, 2013|date=May 18, 2013}}</ref> In July 2013, the music video received an [[MTV Video Music Award]] nomination for Best Choreography.<ref>{{cite web|last=Montgomery|first=James|title=2013 Video Music Award Nominations: Get The Full List!|url=http://www.mtv.com/news/articles/1710689/vma-nominations-list-2013.jhtml|archive-url=https://web.archive.org/web/20130718183305/http://www.mtv.com/news/articles/1710689/vma-nominations-list-2013.jhtml|url-status=dead|archive-date=July 18, 2013|publisher=MTV News. Viacom International, Inc.|access-date=July 17, 2013|date=July 17, 2013}}</ref>
+
+== Live performances ==
+Lopez and Pitbull performed the song for the first time on the May 16, 2013 finale episode of ''[[American Idol]]'', where she was previously a judge on seasons [[American Idol (season 10)|10]] and [[American Idol (season 11)|11]], and received a standing ovation from judge [[Mariah Carey]].<ref>{{cite web|last=Williot|first=Carl|title=Jennifer Lopez Returning To 'American Idol' For Live Finale Performance|url=http://idolator.com/7455771/jennifer-lopez-american-idol-finale-performance|archive-url=https://archive.today/20130615105827/http://idolator.com/7455771/jennifer-lopez-american-idol-finale-performance|url-status=dead|archive-date=June 15, 2013|publisher=[[Idolator (website)|Idolator]] (SpinMedia)|access-date=May 4, 2013|date=May 1, 2013}}</ref> Prior to Pitbull opening the performance, a [[monologue]] by Lopez was heard, in which she exclaimed, "Don't have regrets because at one time, everything you did was exactly what you wanted".<ref name="Perform1" /> [[HollywoodLife]]'s Jenny Pickard called it a "dance-heavy" performance, stating: "[Lopez] perfectly balanced showing off her seductive dance moves and singing the lyrics to the song".<ref name="Perform1" /> She wore a "skimpy" white dress with knee-high boots. Her back-up dancers performed [[acrobatics]] on swings lining the stage. Pickard noted that she was given the "prime performance spot right before the big reveal" of the season's winner.<ref name="Perform1">{{cite web|last=Pickard|first=Jenny|title=Mariah Carey vs. Jennifer Lopez&nbsp;— Who Had The Better Performance?|url=http://hollywoodlife.com/2013/05/16/jennifer-lopez-mariah-carey-american-idol-finale-performance/|publisher=[[HollywoodLife]]|access-date=May 17, 2013|date=May 16, 2013}}</ref> ''[[The Belfast Telegraph]]'' called it a "show-stopping performance".<ref>{{cite news|title=Mariah Carey fails to stand for JLo|url=http://www.belfasttelegraph.co.uk/entertainment/news/mariah-carey-fails-to-stand-for-jlo-29274762.html|newspaper=[[The Belfast Telegraph]]|publisher=INM|access-date=May 17, 2013|date=May 17, 2013}}</ref> Lopez and Pitbull performed the song at the [[2013 Billboard Music Awards]] on May 19, 2013.<ref>{{cite magazine|url=http://www.billboard.com/articles/events/bbma-2013/1560507/jennifer-lopez-lil-wayne-nicki-minaj-chris-brown-join-billboard |title=Jennifer Lopez, Lil Wayne, Nicki Minaj & Chris Brown Join Billboard Music Awards Lineup |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=May 2, 2013 |access-date=May 16, 2013}}</ref><ref>{{cite web|title=Justin Bieber, will.i.am, Nicki Minaj also take the stage...|url=http://www.mtv.com.au/news/selena-gomez-taylor-swift-jennifer-lopez-perform-at-2013-billboard-music-awards-ee128893/|archive-url=https://web.archive.org/web/20130913070617/http://www.mtv.com.au/news/selena-gomez-taylor-swift-jennifer-lopez-perform-at-2013-billboard-music-awards-ee128893/|url-status=dead|archive-date=September 13, 2013|publisher=MTV Australia (MTV Networks)|access-date=May 20, 2013|date=May 20, 2013}}</ref> Dressed in a "fiery" red outfit, she sported a sequined red leotard with feather sleeves and a matching pair of thigh-high peep-toe boots; this was a replica of one of the outfits worn in the music video.<ref>{{cite web|last=Mahlmeister|first=Chrissy|title=Jennifer Lopez Or Adam Lambert: Who Looked Fiercer In Fuzzy Sleeves By The Blonds?|url=http://style.mtv.com/2013/05/19/jennifer-lopez-adam-lambert-billboard-awards/|publisher=MTV Style (MTV Networks)|access-date=May 20, 2013|date=May 19, 2013|url-status=dead|archive-url=https://web.archive.org/web/20130523215817/http://style.mtv.com/2013/05/19/jennifer-lopez-adam-lambert-billboard-awards/|archive-date=May 23, 2013}}</ref> Jessica Sager of PopCrush said she showed off her "legendary legs and "derriere" during the performance, describing the "dancing, fashion and music" as "appropriately fierce, and no one could stop dancing".<ref>{{cite web|last=Sager|first=Jessica|title=Jennifer Lopez + Pitbull 'Live it Up' at the 2013 Billboard Music Awards [Video]|url=http://popcrush.com/2013-billboard-music-awards-jennifer-lopez-pitbull-live-it-up-video/|publisher=PopCrush (Townsqaure Media)|access-date=May 20, 2013|date=May 19, 2013}}</ref> Furthermore, the performance received widespread praise.<ref>{{cite web|last=Unterberger|first=Andrew|title=Billboard Music Awards Review: Jennifer Lopez feat. Pitbull, "Live It Up"|url=http://popdust.com/2013/05/19/instant-billboard-music-awards-review-jennifer-lopez-feat-pitbull-live-it-up/|publisher=Pop Dust, Inc.|access-date=May 20, 2013|date=May 19, 2013}}</ref><ref>{{cite web|last=Nessif|first=Bruno|title=2013 Billboard Music Awards|url=http://au.eonline.com/news/420576/2013-billboard-music-awards-taylor-swift-justin-bieber-chris-brown-and-more-best-worst-moments-from-the-show|publisher=E! Online|access-date=May 20, 2013|date=May 19, 2013}}</ref><ref>{{cite web|last=Geller|first=Wendy|title=Jennifer Lopez Channels Cartoon Character With Daring Outfit at Billboard Music Awards|url=http://music.yahoo.com/blogs/stop-the-presses/jennifer-lopez-channels-cartoon-character-daring-outfit-billboard-025338031.html|publisher=Yahoo! Music|access-date=May 20, 2013|date=May 19, 2013}}</ref><ref>{{cite web|last=Swift|first=Andy|title=Jennifer Lopez Performs 'Live It Up' At 2013 Billboard Music Awards|url=http://hollywoodlife.com/2013/05/19/jennifer-lopez-performance-billboard-awards-2013-live-it-up/|publisher=HollywoodLife (PMC)|access-date=May 20, 2013|date=May 19, 2013|archive-date=June 7, 2013|archive-url=https://web.archive.org/web/20130607051045/http://hollywoodlife.com/2013/05/19/jennifer-lopez-performance-billboard-awards-2013-live-it-up/|url-status=dead}}</ref> Lopez performed the song at the [[2013 Premios Juventud]] with Pitbull on July 18, 2013, also she received the Icono Mundial award.<ref>{{cite web|title=Con todo y chapuzón fue la apertura de Premios Juventud a cargo de J.Lo y Pitbull con los temas: On The Floor, Don't Stop the Party, Dance Again y Live it Up.|url=http://musica.univision.com/premios-juventud/chismes/article/2013-07-11/jennifer-lopez-y-pitbull-dueto-premios-juventud-2013?ftloc=channel7639:wcmWidgetUimStage&ftpos=channel7639:wcmWidgetUimStage:1|publisher=[[Univisión]]|access-date=July 19, 2013}}</ref>
+
+=== Controversy ===
+Lopez performed the song on the second semi final of ''[[Britain's Got Talent]]'' on May 28, 2013. Unlike her previous performances of "Live It Up", however, Lopez's provocative attire and dance moves during the family-friendly show performance garnered worldwide media controversy, considered overtly sexual for prime-time television in the UK and "raunchy".<ref>{{cite web|url=http://www.hollywoodreporter.com/news/britains-got-talent-jennifer-lopez-559858 |title='Britain's Got Talent': Jennifer Lopez Sparks Outrage With Raunchy Performance (Video) |publisher=The Hollywood Reporter. (Prometheus Global Media) |date=May 29, 2013 |access-date=June 2, 2013}}</ref><ref>{{cite web|author=Eleanore Hutch |url=http://hollywoodlife.com/2013/05/29/jennfifer-lopez-performance-britains-got-talent-outfit/ |title=[VIDEO&#93; Jennifer Lopez Performance On Britain's Got Talent&nbsp;— Too Sexy? |publisher=Hollywood Life. (PMC) |date=May 29, 2013 |access-date=June 2, 2013}}</ref><ref>{{cite web|url=https://www.standard.co.uk/showbiz/celebrity-news/its-a-family-show-viewers-complain-to-ofcom-over-jennifer-lopezs-disgusting-britains-got-talent-routine-8635426.html |title=I'd be ashamed: Viewers in uproar over Jennifer Lopez's 'disgusting' routine on Britain's Got Talent |publisher=London Evening Standard. Standard.co.uk |date=May 29, 2013 |access-date=June 2, 2013}}</ref><ref>{{cite web |url=http://www.heraldsun.com.au/entertainment/television/jennifer-lopezs-raunchy-performance-on-britains-got-talent-sparks-outrage/story-fni0cc2a-1226653650039 |title=Jennifer Lopez's raunchy performance on Britain's Got Talent sparks outrage &#124; Herald Sun |website=www.heraldsun.com.au |access-date=2 February 2022 |archive-url=https://archive.today/20130615122246/http://www.heraldsun.com.au/entertainment/television/jennifer-lopezs-raunchy-performance-on-britains-got-talent-sparks-outrage/story-fni0cc2a-1226653650039 |archive-date=15 June 2013 |url-status=dead}}</ref><ref>{{cite web |author=Loading... |url=http://www.entertainmentwise.com/photos/116318/1/Jennifer-Lopez-Covers-Up-Looks-Glum-Following-Britains-Got-Talent-Complaints-PHOTO |title=Jennifer Lopez Covers Up & Looks Glum Following Britain's Got Talent Complaints (Photo) |publisher=Entertainmentwise |access-date=June 2, 2013 |archive-url=https://web.archive.org/web/20130607215920/http://www.entertainmentwise.com/photos/116318/1/Jennifer-Lopez-Covers-Up-Looks-Glum-Following-Britains-Got-Talent-Complaints-PHOTO |archive-date=June 7, 2013 |url-status=dead }}</ref> Media regulator [[Ofcom]] confirmed that they had received over 100 complaints over the performance in 24 hours.<ref>{{cite news|author=Daisy Wyatt |url=https://www.independent.co.uk/arts-entertainment/tv/news/britains-got-talent-2013-jennifer-lopez-calls-outfit-tame-after-backlash-over-risqu-performance-8637432.html |title=Britain's Got Talent 2013: Jennifer Lopez calls outfit 'tame' after backlash over risqué performance&nbsp;– News&nbsp;– TV & Radio |newspaper=The Independent |date=May 29, 2013 |access-date=June 2, 2013}}</ref> Although the television series judges such as [[Simon Cowell]] were "blown away", the performance drew complaints for viewers for being too "sexed-up" as she "flashed a whole lot of her famous figure".<ref>{{cite web|url=http://www.eonline.com/news/423753/jennifer-lopez-s-sexy-britain-s-got-talent-performance-draws-complaints-from-viewers |title=Jennifer Lopez's Sexy Britain's Got Talent Performance Draws Complaints From Viewers |publisher=E! Online |date=May 29, 2013 |access-date=June 2, 2013}}</ref><ref>{{cite web|url=http://www.nydailynews.com/entertainment/tv-movies/jennifer-lopez-britain-talent-performance-outfit-angers-viewers-article-1.1357287 |title=Jennifer Lopez performance draws outrage, criticism for revealing outfit on family-friendly 'Britain's Got Talent' |publisher=New York Daily News. (Mortimer Zuckerman) |date=May 29, 2013 |access-date=June 2, 2013}}</ref><ref>{{cite web|author=Tom Bryant |url=https://www.mirror.co.uk/tv/tv-news/jennifer-lopezs-britains-talent-performance-1920612 |title=Jennifer Lopez's Britain's Got Talent performance receives complaints&nbsp;– Mirror Online |publisher=Daily Mirror. (Trinity Media)|date=May 29, 2013 |access-date=June 2, 2013}}</ref> In defense of her performance Lopez stated "I don’t think I’m racier than any other female pop artist."<ref>{{cite web|last=Stephens|first=Hallie|title=Jennifer Lopez Defends Her Racy 'Britain's Got Talent' Costume|url=http://omg.yahoo.com/blogs/celeb-news/jennifer-lopez-defends-her-racy-britain-got-talent-222948865.html|publisher=Yahoo!|access-date=October 10, 2013|date=June 19, 2013}}</ref>
+
+== Track listings ==
+*;Digital download<ref name="Amazon FR">{{cite web|url=https://www.amazon.fr/gp/product/B00CQEU8UA |title=Live It Up [feat. Pitbull&#93;: Jennifer Lopez: Amazon.fr: Téléchargements MP3 |publisher=Amazon.fr |date=January 1, 1970 |access-date=October 8, 2013}}</ref>
+#"Live It Up" (featuring [[Pitbull (rapper)|Pitbull]])&nbsp;– 4:04
+
+*;Digital download<ref name="Amazon US">{{cite web|url=https://www.amazon.com/Live-It-Up/dp/B00DMW7SEE |title=Live It Up: Jennifer Lopez: MP3 Downloads |website=Amazon |access-date=October 8, 2013}}</ref>
+#"Live It Up"&nbsp;– 3:40
+
+*;Indian CD single<ref name="credits">{{cite AV media notes |title=Live It Up |others=[[Jennifer Lopez]] featuring [[Pitbull (rapper)|Pitbull]] |date=2013 |type=liner notes |publisher=[[Universal Music Group]] |id=6025 374 6759}}</ref>
+#"Live It Up" (featuring Pitbull)&nbsp;– 4:03
+#"Live It Up" (instrumental)&nbsp;– 4:03
+
+== Credits and personnel ==
+{{col-begin}}
+{{col-2}}
+*[[RedOne]] – songwriter, producer
+*[[Alex P]]apaconstantinou – songwriter, producer
+*Björn Djupström – songwriter
+*Viktor Svensson – songwriter, co-producer
+*Jennifer Lopez – lead vocals
+*[[Pitbull (rapper)|Armando Perez]] – songwriter
+*[[AJ Junior|Achraf Janussi]] – songwriter
+*[[Bilal Hajji|Bilal "The Chef" Hajji]] – songwriter
+*[[Kuk Harrell]] – audio production, recording
+{{col-2}}
+*Anthony Falcone – engineer
+*Peter Marc Stahl – engineer
+*Trevor Muzzy – mix engineer, recording
+*Gene Grimaldi – mastering
+*Josh Gudwin – recording
+*Chris "TEK" O'Ryan – recording
+*Al Burna – recording
+{{col-end}}
+
+Credits adapted from CD single liner notes.<ref name="credits"/>
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders"
+|+Weekly chart performance for "Live It Up"
+! Chart (2013–2014)
+	
+! Peak<br />position	
+|-
+{{single chart|Australia|20|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|refname="Oz"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Austria|23|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Flanders Tip|2|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|refname="BEL FL Chart"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Wallonia|32|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|refname="BEL WA Chart"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Billboardcanadianhot100|16|artist=Jennifer Lopez|song=Live It Up|refname="Can Chart"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Billboardcanadachrtop40|28|artist=Jennifer Lopez|rowheader=true|access-date=August 21, 2019}}
+|-
+{{single chart|Billboardcanadahotac|40|artist=Jennifer Lopez|rowheader=true|access-date=October 17, 2019}}
+|-
+{{single chart|Czech Republic|20|year=2013|week=28|rowheader=true|access-date=March 27, 2014}}
+|-
+!scope="row"|[[Euro Digital Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/artist/jennifer-lopez/chart-history/ids/|title= Jennifer Lopez Chart History – Euro Digital Songs |magazine= Billboard |access-date= August 19, 2019}}</ref>
+|align="center"|17
+|-
+!scope="row"|Finland ([[Suomen virallinen lista|Suomen virallinen latauslista]])<ref>{{cite web |url=http://www.ifpi.fi/tilastot/virallinen-lista/artistit/jennifer+lopez/live+it+up+%28feat.+pitbull%29|title=IFPI – Jennifer Lopez feat. Pitbull: Live It Up |publisher=[[Suomen virallinen lista]] |access-date=June 10, 2014}}</ref>
+| style="text-align:center;"|12
+|-
+{{single chart|France|67|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|refname="Fra Chart"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Germany|36|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|songid=1142482|rowheader=true|access-date=October 22, 2018}}
+|-
+!scope="row"|Global Dance Tracks (''[[Billboard Magazine|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/artist/jennifer-lopez/chart-history/dgl/|title= Jennifer Lopez – Global Dance Songs |magazine= Billboard |access-date= October 28, 2019}}</ref>
+| style="text-align:center;"|33
+|-	
+!scope="row"|Greece ([[IFPI Greece]])<ref>{{cite magazine | url = http://www.billboard.com/biz/charts/2013-05-25/greece | magazine = [[Billboard (magazine)|Billboard]]| title = Digital Singles Charts&nbsp;– Greece}}</ref>
+| style="text-align:center;"|7
+|-
+! scope="row"|Greece Digital Songs (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/music/Jennifer-Lopez/chart-history/greece-digital-song-sales|archive-url=https://web.archive.org/web/20190819135430/https://www.billboard.com/music/jennifer-lopez/chart-history/greece-digital-song-sales|url-status=dead|archive-date=August 19, 2019|magazine = [[Billboard (magazine)|Billboard]]|access-date=August 21, 2019|title=Jennifer Lopez Chart History – Greece Digital Songs}}</ref>
+|align="center"| 6
+|-
+{{single chart|Hungarydance|26|artist=Jennifer Lopez|song=Live It Up|year=2013|week=36|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Hungary|29|artist=Jennifer Lopez|song=Live It Up|year=2013|week=37|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Ireland|13|artist=Jennifer Lopez|song=Live It Up|year=2013|week=22|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Israelairplay|7|year=2013|week=22|artist=Jennifer Lopez|song=Live It Up|rowheader=true|access-date=March 27, 2014}}
+|-
+!scope="row"|Italy ([[Federazione Industria Musicale Italiana|FIMI]])<ref>{{cite web|url=https://www.fimi.it/top-of-the-music/history.kl#/history|title=History|language=it|publisher=[[Federazione Industria Musicale Italiana|FIMI]]|access-date=June 3, 2022}} With "Ricerca per" set on "Titolo", search "Live It Up" and then click "Classifiche".</ref>
+| style="text-align:center;"|36
+|-
+!scope="row"| Japan ([[Japan Hot 100|Hot 100 Singles]])<ref>{{cite web |url=http://www.allmusic.com/artist/jennifer-lopez-mn0000317865/awards |title=Artist / Jennifer Lopez / Awards |website=[[AllMusic]]|access-date=July 12, 2013}}</ref>
+| style="text-align:center;"| 59
+|-
+!scope="row"|Lebanon ([[The Official Lebanese Top 20]])<ref>{{Cite web|url=http://www.olt20.com/Jennifer-Lopez|title=The official Lebanese Top 20 - Jennifer Lopez|website=Olt20.com|access-date=17 November 2021}}</ref>
+|style="text-align:center;"|9
+|-
+!scope="row"| Mexico ([[Mexico Airplay|''Billboard'' Mexican Airplay]])<ref>{{cite magazine|url=https://www.billboard.com/artist/jennifer-lopez/chart-history/mex/|title=Jennifer Lopez Chart History: Mexico Airplay|date=October 17, 2019|magazine=Billboard|publisher=Prometheus Global Media}}</ref>
+|align="center"|48
+|-
+!scope="row"| Mexico Anglo ([[Monitor Latino]])<ref>{{cite web|url=http://charts.monitorlatino.com/top20/Print/Mexico/Anglo/20130624|title=Top 20 Inglés Del 24 al 30 de Junio, 2013|date=2013-06-30|work=Monitor Latinoaccessdate=2018-05-02}}</ref>
+| style="text-align:center;"| 15
+|-
+{{single chart|New Zealand|27|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Poland|3|chartid=1048|year=2013|rowheader=true|access-date=March 27, 2014}}
+|-
+! scope="row"|Poland ([[Polish Music Charts|Video Chart]])<ref>{{cite web|url=http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2013&typ=tv&idlisty=1045#title|archive-url=https://web.archive.org/web/20140924041755/http://bestsellery.zpav.pl/airplays/pozostale/archiwum.php?year=2013&typ=tv&idlisty=1045#title|url-status=dead|archive-date=September 24, 2014|title=Top 5 Airplay TV|publisher=[[ZPAV]]|work=[[Polish Video Chart]] |access-date=2017-02-05}}</ref>
+| align=center|3
+|-
+! scope="row"| Romania ([[Airplay 100 (Romania)|Airplay 100]])<!--Please do not change this to Romanian Top 100 or Media Forest. The Airplay 100 is Romania's national singles chart from 2012 onwards. For further information, see WP:GOODCHARTS--><ref>{{cite news|url=https://www.kissfm.ro/emisiuni/54/Airplay-100-Cristi-Nitzu|title=Airplay 100 – Cristi Nitzu {{!}} Kiss FM – July 7, 2013|access-date=27 January 2018|publisher=[[Kiss FM (Romania)|Kiss FM]]|url-status=live|archive-url=https://web.archive.org/web/20180127090412/https://www.kissfm.ro/emisiuni/54/Airplay-100-Cristi-Nitzu|archive-date=27 January 2018}} ''Note: User may scroll down the 'Podcasturi' menu to play or download the respective podcast.''</ref>
+| style="text-align:center;" |52
+|-
+{{single chart|Scotland|13|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|date=2012-06-08|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Slovakia|4|year=2013|week=30|rowheader=true|access-date=March 27, 2014}}
+|-
+!scope="row"| South Korea ([[Gaon Chart|International Chart]])<ref name="SK">{{cite web|url=http://gaonchart.co.kr/main/section/search/list.gaon?Search_str=LIve+it+Up+Jennifer+Lopez&x=-1099&y=-37 |title=:: 가온차트와 함께하세요 :: |publisher=Gaonchart.co.kr |access-date=May 24, 2013}}</ref>
+| style="text-align:center;"|4
+|-
+{{single chart|Spain|10|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|refname="Spa Chart"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Sweden|49|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Switzerland|33|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|UK|17|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|date=2012-06-08|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|UKrandb|3|artist=Jennifer Lopez feat. Pitbull|song=Live It Up|date=2012-06-08|refname="UKRB"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Billboardhot100|60|artist=Jennifer Lopez|song=Live It Up|refname="BB Hot 100"|rowheader=true|access-date=March 27, 2014}}
+|-
+{{single chart|Billboardpopsongs|26|artist=Jennifer Lopez|song=Live It Up|refname="BB Pop"|rowheader=true|access-date=March 27, 2014}}
+|-
+!scope="row"| US [[Hot Dance Club Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref name="Dance1">{{cite magazine|title=Chart Highlights: Tim McGraw, Taylor Swift Take 'Highway' To No.1 On Country Airplay|url=https://www.billboard.com/pro/chart-highlights-tim-mcgraw-taylor-swift-take-highway-to-no-1-on/|magazine=Billboard}}</ref>
+| style="text-align:center;"| 1
+|-
+!scope="row"| US [[Dance/Electronic Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=http://www.billboard.com/charts/dance-electronic-songs?page=1 |title=Dance/Electronic Songs : Page 2 |magazine=Billboard |access-date=June 18, 2013}}</ref> <!--- this isn't a component chart, it is an actual chart. ---><!--- Leave this ref until official peak .--->
+| style="text-align:center;"| 11
+|-
+!scope="row"{{single chart|Billboardlatinairplay|22|artist=Jennifer Lopez}}
+|-
+!scope="row"{{single chart|Billboardrhythmic|39|artist=Jennifer Lopez}}
+|-
+|}
+
+{{col-2}}
+
+=== Year-end charts ===
+{| class="wikitable sortable plainrowheaders"
+|+Year-end chart performance for "Live It Up"
+! Chart (2013)	
+! Position
+|-
+!scope="row"| Spain ([[PROMUSICAE]])<ref>{{cite web|url=http://www.promusicae.es/estaticos/view/21-listas-anuales |title=Top 50 Canciones Anual 2013 |publisher=Promuiscae.es |access-date=2014-02-03}}</ref>
+| style="text-align:center;"|49
+|-
+! scope="row"| US [[Dance Club Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=https://www.billboard.com/charts/year-end/2013/dance-club-songs|title=Dance Club Songs – Year-End 2013|magazine=Billboard|access-date=2019-09-12}}</ref>
+| style="text-align:center;"|49
+|-
+!scope="row"|US [[Dance/Electronic Songs]] (''[[Billboard (magazine)|Billboard]]'')<ref>{{cite magazine|url=http://www.billboard.com/charts/year-end/2013/hot-dance-electronic--songs|title=Hot Dance/Electronic Songs – Year-End 2013|magazine=Billboard|access-date=2019-09-12}}</ref>
+| style="text-align:center;"|24
+|}
+
+{{col-end}}
+
+== Certifications ==
+{{Certification Table Top|caption=Certifications for "Live It Up"}}
+{{Certification Table Entry|access-date = July 21, 2013|artist = Jennifer Lopez|certyear = 2013|region = Australia|award = Gold|title = Live It Up|type = single|relyear = 2013}}
+{{Certification Table Entry|region=Brazil|title=Live It Up|artist=Jennifer Lopez|award=Gold|type=single|certyear=2024|relyear=2013|access-date=June 25, 2024}}
+{{certification Table Entry|type=single|region=Canada|artist=Jennifer Lopez|title=Live It Up|award=Gold|certyear=2013|relyear=2013|access-date=August 21, 2013|digital=true}}
+{{Certification Table Bottom| streaming=true}}
+
+== Release history ==
+{| class="wikitable plainrowheaders"
+|+Release dates for "Live It Up"
+! scope="col"| Country
+! scope="col"| Date
+! scope="col"| Format
+! scope="col"| Label
+|-
+
+! scope="row"| France<ref>{{cite web |url=http://fr.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; Téléchargements MP3 7digital France |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520215832/http://fr.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+| rowspan="11"| May 8, 2013
+| rowspan="13"| [[music download|Digital download]]
+| rowspan="12"| [[Universal Music Group|Universal]]
+|-
+
+! scope="row"| Finland<ref>{{cite web |url=http://fi.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital Suomi |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220950/http://fi.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Germany<ref>{{cite web |url=http://de.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Musikdownloads 7digital Deutschland |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220950/http://de.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Italy<ref>{{cite web |url=http://it.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; Downloads di MP3 7digital Italia |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220427/http://it.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Luxembourg<ref>{{cite web |url=http://lu.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; Téléchargements MP3 7digital Luxembourg |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520221725/http://lu.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Netherlands<ref>{{cite web |url=http://nl.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 downloads 7digital Nederland |access-date=2014-05-20 |url-status=dead |archive-url=https://archive.today/20140520114509/http://nl.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| New Zealand<ref>{{cite web |url=http://nz.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital New Zealand |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220608/http://nz.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Norway<ref>{{cite web |url=http://no.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez &#124; High Quality Music Downloads &#124; 7digital Norge |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20160309163010/https://no.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2016-03-09 }}</ref>
+|-
+
+! scope="row"| Spain<ref>{{cite web |url=http://es.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; Descargas de MP3 7digital España |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220948/http://es.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Sweden<ref>{{cite web |url=http://se.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital Sverige |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220732/http://se.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Switzerland<ref>{{cite web |url=http://de-ch.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Musikdownloads 7digital Schweiz |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520215743/http://de-ch.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+|-
+
+! scope="row"| Canada<ref>{{Cite web |url=http://ca.7digital.com/artist/jennifer-lopez/release/live-it-up |title=Live It up (2013) &#124; Jennifer Lopez &#124; MP3 Downloads 7digital Canada |access-date=2014-05-20 |archive-date=2014-02-19 |archive-url=https://web.archive.org/web/20140219090717/http://ca.7digital.com/artist/jennifer-lopez/release/live-it-up |url-status=dead }}</ref>
+| rowspan="2"| May 14, 2013
+|-
+
+! scope="row"| United States<ref>{{cite web |url=http://us.7digital.com/artist/jennifer-lopez/release/live-it-up-1 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital United States |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220948/http://us.7digital.com/artist/jennifer-lopez/release/live-it-up-1 |archive-date=2014-05-20 }}</ref>
+| rowspan="2"| {{flat list|
+*[[2101 Records|2101]]
+*[[Capitol Records|Capitol]]
+}}
+|-
+
+! scope="row"| United States<ref>{{cite web|title=Top 40/M Future Releases (Archived) |url=http://www.allaccess.com/top40-mainstream/future-releases |publisher=All Access Music Group |access-date=May 10, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130430152925/http://www.allaccess.com/top40-mainstream/future-releases |archive-date=April 30, 2013 }}</ref>
+| May 21, 2013
+| [[Contemporary hit radio]]
+|-
+
+! scope="row"| Ireland<ref>{{cite web |url=http://ie.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital Ireland |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520220850/http://ie.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+| May 24, 2013
+| rowspan="2"| Digital download
+| rowspan="2"| Capitol
+|-
+
+! scope="row"| United Kingdom<ref>{{cite web |url=http://www.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |title=Live It up (2013) &#124; Jennifer Lopez / Pitbull &#124; MP3 Downloads 7digital United Kingdom |access-date=2014-05-20 |url-status=dead |archive-url=https://web.archive.org/web/20140520221237/http://www.7digital.com/artist/jennifer-lopez/release/live-it-up-2 |archive-date=2014-05-20 }}</ref>
+| May 26, 2013
+|-
+
+|}
+
+==See also==
+* [[List of number-one dance singles of 2013 (U.S.)]]
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Jennifer Lopez songs}}
+{{Pitbull songs}}
+
+{{authority control}}
+
+[[Category:Jennifer Lopez songs]]
+[[Category:Pitbull (rapper) songs]]
+[[Category:2013 singles]]
+[[Category:2013 songs]]
+[[Category:Dance-pop songs]]
+[[Category:2101 Records singles]]
+[[Category:Song recordings produced by RedOne]]
+[[Category:Music videos directed by Jessy Terrero]]
+[[Category:Songs written by Alex P]]
+[[Category:Songs written by Bilal Hajji]]
+[[Category:Songs written by AJ Junior]]
+[[Category:Songs written by Pitbull (rapper)]]
+[[Category:Songs written by Björn Djupström]]

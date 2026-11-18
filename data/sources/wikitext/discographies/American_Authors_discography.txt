@@ -1,0 +1,696 @@
+{{Short description|none}}
+{{Use mdy dates|date=August 2024}}
+{{Infobox artist discography
+| Artist          = [[American Authors]]
+| Image           = American Authors at Heaven London, 2014 (1).jpg 
+| Caption         = American Authors performing at London's nightclub [[Heaven (nightclub)|Heaven]] in November 2014
+| Alt             = 
+| Studio          = 5
+| EP              = 7
+| Singles         = 16
+| Music videos    = 19
+| Option          = 8
+| Option name     = Promotional singles
+}}
+
+New York-based rock band '''[[American Authors]]''' have released 5 studio albums, 7 EPs, and 16 singles, 8 of which were promotional singles, in their 13-year tenure as a band. Their discography also includes 19 music videos, 3 headlining tours, and three supporting tours for [[OneRepublic]], [[the Fray]], and [[the Revivalists]] respectively.
+
+The band's first EP and first two studio albums recorded under the name American Authors have been major label releases on [[Universal Music Group]] subsidiary, [[Island Records]]. However, much of the band's early material was released independently under the name the Blue Pages.
+
+==Albums==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected details, chart positions, and certifications
+! scope="col" rowspan="2" style="width:9em;"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="7"| Peak chart positions
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Sales
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums">{{cite web | url={{BillboardURLbyName|artist=american authors|chart=Billboard 200}} |title=American Authors – Chart History: Billboard 200 |work=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Top Rock Albums|US<br />Rock]]<br /><ref name="US-Rock-albums">{{cite web | url={{BillboardURLbyName|artist=american authors|chart=Rock Albums}} |title=American Authors – Chart History: Top Rock Albums |work=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web |url=http://australian-charts.com/showinterpret.asp?interpret=American+Authors |title=Discography American Authors |publisher=australian-charts.com. Hung Medien |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web |url=https://austriancharts.at/showinterpret.asp?interpret=American+Authors |title=Discographie American Authors |publisher=austriancharts.at. Hung Medien |accessdate=May 14, 2014 |language=German}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CAN-albums">{{cite web | url={{BillboardURLbyName|artist=american authors|chart=Canadian Albums}} |title=American Authors – Chart History: Canadian Albums |work=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Media Control Charts|GER]]<br/><ref name="GER">{{cite web |url=http://www.officialcharts.de/artist.asp?name=American+Authors&country=de |archive-url=https://web.archive.org/web/20140714182919/http://www.officialcharts.de/artist.asp?name=American+Authors&country=de |url-status=dead |archive-date=July 14, 2014 |title=Discographie American Authors |publisher=charts.de. Hung Medien |accessdate=May 14, 2014 |language=German}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">{{cite web |url=http://www.officialcharts.com/artist/_/american%20authors/ |title=American Authors |publisher=[[Official Charts Company]] |accessdate=May 14, 2014}}</ref>
+|-
+! scope="row"| ''[[Oh, What a Life (album)|Oh, What a Life]]''
+|
+* Released: March 3, 2014
+* Label: [[Island Records|Island]], Dirty Canvas
+* Formats: [[Compact disc|CD]], [[Music download|digital download]], [[Music streaming service|streaming]]
+| 15 || 3 || 35 || 58 || 12 || 68 || 26
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{cite certification|region=United States|title=|artist=American Authors|type=|access-date=November 14, 2025}}</ref>
+* [[Music Canada|MC]]: Gold<ref name="MC">{{cite certification|region=Canada|artist=American Authors|access-date=March 27, 2023}}</ref>
+|
+* US: 115,000<ref>{{cite web |archiveurl = https://web.archive.org/web/20160415182124/http://hitsdailydouble.com/new_album_releases|archivedate= April 15, 2016 |url=http://hitsdailydouble.com/new_album_releases |title=Upcoming Releases |website=Hits Daily Double |publisher=HITS Digital Ventures }}</ref>
+|-
+! scope="row"| ''[[What We Live For]]''
+|
+* Released: July 1, 2016
+* Label: Island, Dirty Canvas
+* Formats: CD, digital download, streaming
+| 60 || 6 || — || — || — || — || —
+|
+|
+|-
+! scope="row"| ''Seasons''
+|
+* Released: February 1, 2019
+* Label: Island, Dirty Canvas
+* Formats: CD, digital download, [[LP record|LP]], streaming
+| — || — || — || — || — || — || —
+|
+|
+|-
+! scope="row"| ''[[Best Night of My Life (American Authors album)|Best Night of My Life]]''
+|
+* Released: February 10, 2023
+* Label: French Poet Society
+* Formats: CD, LP, digital download, streaming
+| — || — || — || — || — || — || —
+| 
+| 
+|-
+! scope="row"| ''Call Your Mother''
+|
+* Released: October 18, 2024
+* Label: French Poet Society
+* Formats: LP, digital download, streaming
+|  — || — || — || — || — || — || —
+| 
+| 
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Extended plays==
+
+===As the Blue Pages===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of extended plays, with selected details and chart positions
+! scope="col"| Title and details
+! scope="col"| Track listing
+|-
+! scope="row"| ''Surrounded by Wolves''<ref>{{cite web|author= |url=http://ourstage.com/profile/thebluepages |archive-url=https://web.archive.org/web/20151222123352/http://ourstage.com/profile/thebluepages |url-status=usurped |archive-date=December 22, 2015 |title=The Blue Pages |website=Ourstage.com |date= |accessdate=2016-03-04}}</ref><ref>{{cite web|url=https://www.last.fm/music/The+Blue+Pages/Surrounded+by+Wolves+EP |title=Surrounded by Wolves EP - The Blue Pages — Listen and discover music at |website=Last.fm |date= |accessdate=2016-03-04}}</ref>
+* Released: 2007
+* Label: N/A
+|
+{{Track listing
+| title1  = Speed of Light
+| length1 = 3:30
+
+| title2  = It's a Shame
+| length2 = 4:08
+
+| title3  = 10 Years Behind
+| length3 = 3:27
+
+| title4  = Love Like This
+| length4 = 4:11
+}}
+
+|-
+! scope="row"| ''Bear Fight''<ref name=":0">{{cite web |url=http://www.berkleegroove.com/2009/09/30/the-blue-pages-vans-fans-warped-tour-and-being-the-next-berklee-band-to-break-out/ |title=The Blue Pages: Vans, Fans, Warped Tour, and Being the Next Berklee Band to Break Out &#124; The Berklee Groove |website=Berkleegroove.com |date=2009-09-30 |accessdate=2016-03-04 |archive-url=https://web.archive.org/web/20160220194804/http://www.berkleegroove.com/2009/09/30/the-blue-pages-vans-fans-warped-tour-and-being-the-next-berklee-band-to-break-out/ |archive-date=2016-02-20 |url-status=dead }}</ref><ref>{{cite web|url=https://www.amazon.com/gp/product/B001NGT73G |title=Bear Fight: The Blue Pages: MP3 Downloads |website=Amazon.com |date= |accessdate=2016-03-04}}</ref>
+* Released: January 20, 2009
+* Label: Walking City
+|
+{{Track listing
+| title1  = Away Away
+| length1 = 3:51
+
+| title2  = 4 Out of 10
+| length2 = 3:50
+
+| title3  = Better Times
+| length3 = 4:31
+
+| title4  = Loverboy
+| note4 = [https://vimeo.com/5310312 single]
+| length4 = 3:27
+
+| title5  = There Will Be Blood
+| note5 = feat. [[Kyle Patrick]]
+| length5 = 4:19
+}}
+
+|-
+! scope="row"| ''Night Hawke''<ref>{{cite web|url=http://www.thebluepages.bigcartel.com/product/surrounded-by-wolves-ep |title=The Blue Pages Online Store — "Night Hawke" EP |website=Thebluepages.bigcartel.com |date= |accessdate=2016-03-04}}</ref>
+*Released: 2010
+*Label: Walking City
+|
+{{Track listing
+| title1  = That 850
+| length1 =
+
+| title2  = Lil' Mama 
+| length2 =
+
+| title3  = Slow Down
+| length3 = 3:30
+
+| title4  = Breaking Me
+| length4 =
+
+| title5  = True Blood
+| length5 =
+
+| title6  = Say It Again
+| length6 = 
+}}
+
+|-
+! scope="row"| ''Anthropology''<ref>{{cite web|url=https://thebluepagesmusic.bandcamp.com/album/anthropology |title=Anthropology &#124; The Blue Pages |website=Thebluepagesmusic.bandcamp.com |date=2011-02-01 |accessdate=2016-03-04}}</ref>
+*Released: February 1, 2011
+*Label: C*Medice Productions
+|
+{{Track listing
+| title1  = Run Back Home
+| note1 = [https://www.youtube.com/watch?v=-P7hkAoTSpI single]
+| length1 = 3:45
+
+| title2  = Love You Fear 
+| length2 = 4:09
+
+| title3  = Best I Could Do
+| length3 = 3:08
+
+| title4  = Keep Me Dreaming
+| note4 = [https://www.youtube.com/watch?v=_SoGzIMfgkQ single]
+| length4 = 4:10
+
+| title5  = Fight for You
+| length5 = 3:33
+}}
+
+|-
+! scope="row"| ''Rich with Love''<ref>{{cite web|url=https://thebluepagesmusic.bandcamp.com/album/rich-with-love |title=Rich With Love &#124; The Blue Pages |website=Thebluepagesmusic.bandcamp.com |date= |accessdate=2016-03-04}}</ref>
+*Released: December 22, 2012
+*Label: C*Medice Productions
+|
+{{Track listing
+| title1  = Rich with Love
+| length1 = 3:26
+
+| title2  = Lonely Life
+| length2 = 3:32
+
+| title3  = Tell Me How You Feel
+| length3 = 4:01
+
+| title4  = All in the Fire
+| length4 = 3:30
+
+| title5  = Couldn't Get It Right
+| length5 = 4:22
+
+| title6  = Time and Time Again
+| length6 = 3:54
+}}
+|}
+
+===As American Authors===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" rowspan="2" style="width:9em;"| Title
+! scope="col" rowspan="2"| Details
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard 200|US]]<br /><ref name="US-albums"/>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Top Rock Albums|US<br />Rock]]<br /><ref name="US-Rock-albums"/>
+|-
+! scope="row"| ''American Authors''
+|
+* Released: August 27, 2013 
+* Label: Island, Dirty Canvas
+* Formats: digital download
+| 156 || 42
+|-
+! scope="row"| ''Counting Down''
+|
+* Released: September 18, 2020<ref>{{cite web|url=https://music.apple.com/nz/album/counting-down-ep/1530478720|title=Counting Down – EP by American Authors on Apple Music|work=Apple Music (NZ)|accessdate=September 17, 2020}}</ref>
+* Label: Island, [[Universal Music Group]]
+* Formats: digital download, streaming
+| — || —
+|-
+| colspan="14" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Singles==
+
+===As lead artist===
+
+====2010s====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions<!--Do not surpass 10 charts.-->
+! scope="col" rowspan="2"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US100">{{cite web |url={{BillboardURLbyName|artist=american authors|chart=Hot 100}} |title=American Authors – Chart History: The Hot 100 |work=Billboard |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Adult Top 40|US<br />Adult]]<br /><ref name="USAdultPopSongs">{{cite web|url=https://www.billboard.com/artist/american-authors/chart-history/atf/ |title=American Authors – Chart History: Adult Pop Songs |work=Billboard |access-date=February 22, 2023}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Rock Songs|US<br />Rock]]<br /><ref name="USRockSongs">{{cite web |url={{BillboardURLbyName|artist=american authors|chart=Rock Songs}} |title=American Authors – Chart History: Hot Rock Songs |work=Billboard |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CANSongs">{{cite web|url={{BillboardURLbyName|artist=american authors|chart=Billboard Canadian Hot 100}} |title=American Authors – Chart History: Billboard Canadian Hot 100 |work=Billboard |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:2.5em;font-size:90%;"| [[Recorded Music NZ|NZ]]<br /><ref name="NZ">{{cite web |url=https://charts.nz/showinterpret.asp?interpret=American+Authors |title=Discography American Authors |publisher=charts.nz. Hung Medien |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web |url=https://swedishcharts.com/showinterpret.asp?interpret=American+Authors |title=Discography American Authors |publisher=swedishcharts.com. Hung Medien |accessdate=May 14, 2014}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row"| "[[Believer (American Authors song)|Believer]]"<ref>{{cite web|url=http://www.huffingtonpost.com/jon-chattman/a-sides-with-jon-chattman_b_2331026.html|title=A-Sides with Jon Chattman: Tres! American Authors, Hunter Valentine, and Clementine & The Galaxy|work=The Huffington Post}}</ref>
+| rowspan="2"| 2013
+| —{{efn|group=upper-alpha|"Believer" did not enter the ''Billboard'' Hot 100, but peaked at number 21 on the [[Bubbling Under Hot 100 Singles]] chart, which acts as a quasi-extension to the Hot 100.<ref name="US-Bubbling-singles">{{cite web |url=https://www.billboard.com/artist/american-authors/chart-history/hbu/ |title=American Authors – Chart History: Bubbling Under Hot 100 |work=Billboard |accessdate=July 24, 2018}}</ref>}} || 12 || 12 || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+| rowspan="3"| ''Oh, What a Life''
+|-
+! scope="row"| "[[Best Day of My Life]]"
+| 11 || 1 || 2 || 10 || 20 || 5 || 34 || 13 || 10 || 17
+|
+* RIAA: 6× Platinum<ref name="RIAA" />
+* [[Australian Recording Industry Association|ARIA]]: 4× Platinum<ref name="ARIA-2021-singles">{{cite certification|region=Australia|certyear=2021|type=single}}</ref>
+* [[British Phonographic Industry|BPI]]: 2× Platinum<ref name="BPI Certifications">{{cite certification|region=United Kingdom|artist=American Authors|access-date=March 4, 2023}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Platinum<ref>{{cite certification|region=Germany|artist=American Authors|access-date=April 7, 2023}}</ref>
+* [[Swedish Recording Industry Association|GLF]]: 3× Platinum<ref>{{cite certification|region=Sweden|artist=American Authors|source=artist|access-date=August 23, 2022}}</ref>
+* MC: 7× Platinum<ref name="MC" />
+|-
+! scope="row"| "Luck"
+| rowspan="2"| 2014
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[In a Big Country#American Authors version|In a Big Country]]"  
+| — || — || — || — || — || — || — || — || — || —
+|
+| {{Non-album single}}
+|-
+! scope="row"| "[[Go Big or Go Home (song)|Go Big or Go Home]]"<ref>{{cite web|title=American Authors "Go Big Or Go Home" {{!}} Republic Playbook |url=http://www.republicplaybook.com/track/american-authors-go-big-or-go-home/ |publisher=[[Republic Records]] |accessdate=May 14, 2015 |archiveurl=https://web.archive.org/web/20150514231636/http://www.republicplaybook.com/track/american-authors-go-big-or-go-home/ |archivedate=May 14, 2015 |format=Hot AC |url-status=live }}</ref>
+| rowspan="2"| 2015
+| — || 22 || 20 || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+| rowspan="4"| ''What We Live For''
+|-
+! scope="row"| "[[Pride (American Authors song)|Pride]]"
+| — || 29 || 33 || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "What We Live For"
+| 2016
+| — || 26 || 40 || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[I'm Born to Run]]"
+| rowspan="3"| 2017
+| — || — || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| "Everything Everything"
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[Born in China]]''
+|-
+! scope="row"| "Good Ol' Boys"<br />{{small|(with [[Gazzo (producer)|Gazzo]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "Do My Own Thing"
+| rowspan="3"| 2018
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Deep Water"<ref>{{cite web|url=https://itunes.apple.com/us/album/deep-water-single/1382887406|archive-url=https://web.archive.org/web/20180518204455/https://itunes.apple.com/us/album/deep-water-single/1382887406|url-status=dead|archive-date=May 18, 2018|title=Deep Water – Single by American Authors on iTunes|work=iTunes Store (US)|accessdate=May 18, 2018}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="3"| ''Seasons''
+|-
+! scope="row"| "Say Amen"<br />{{small|(featuring [[Billy Raffoul]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "Bring It On Home"<br />{{small|(original or featuring [[Phillip Phillips]] and [[Maddie Poppe]])}}
+| 2019
+| — || 34 || — || — || — || — || — || — || — || —
+|
+|-
+| colspan="14" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+====2020s====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;"| Title
+! scope="col" rowspan="2"| Year
+! colspan="2"| Peak chart positions<!--Do not surpass 10 charts.-->
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Adult Top 40|US<br />Adult]]<br /><ref name="USAdultPopSongs" />
+! scope="col" style="width:2.5em;font-size:90%;" | [[Adult Contemporary (chart)|US AC]] <br /><ref name=":0" />
+|-
+! scope="row"| "Microphone"<ref>{{cite web |title=Microphone – Single by American Authors on Apple Music |url=https://music.apple.com/nz/album/microphone-single/1494379269 |accessdate=September 3, 2020 |work=Apple Music (NZ)}}</ref>
+| rowspan="4"| 2020
+| — || —
+| rowspan="4"| ''Counting Down''
+|-
+! scope="row"| "Best I Can"<ref>{{cite web |title=Best I Can – Single by American Authors & Seeb on Apple Music |url=https://music.apple.com/us/album/best-i-can-single/1499912152 |accessdate=March 3, 2020 |work=Apple Music (US)}}</ref><br />{{small|(with [[Seeb (music producers)|Seeb]])}}
+| — || —
+|-
+! scope="row"| "Brick by Brick"<ref>{{cite web |title=Brick by Brick – Single by American Authors on Apple Music |url=https://music.apple.com/nz/album/brick-by-brick-single/1527104336 |accessdate=September 3, 2020 |work=Apple Music (NZ)}}</ref>
+| — || —
+|-
+! scope="row"| "Counting Down"<ref>{{cite web |title=Counting Down – Single by American Authors on Apple Music |url=https://music.apple.com/nz/album/counting-down-single/1529192330 |accessdate=September 3, 2020 |work=Apple Music (NZ)}}</ref>
+| — || —
+|-
+! scope="row"| "Nice and Easy"<ref>{{Cite web |date=June 25, 2021 |title=American Authors Unevil Summer Anthem "Nice & Easy" |url=https://www.broadwayworld.com/bwwmusic/article/American-Authors-Unveil-Summer-Anthem-Nice-And-Easy-20210625}}</ref><br />{{small|(featuring [[Mark McGrath]] of [[Sugar Ray]])}}
+| rowspan="2"| 2021|| 23 || —
+| rowspan="6" {{Non-album singles}}
+|-
+! scope="row"| "Favorite Time of the Year"
+| — || —
+|-
+! scope="row"| "Timeless"<br />{{small|(with Chad Tepper)}}
+| rowspan="7"| 2022
+| — || —
+|-
+! scope="row"| "One Way Up"<br />{{small|(with [[Fedde Le Grand]])}}
+| — || —
+|-
+! scope="row"| "[[Good 4 U]]"<br />{{small|([[Olivia Rodrigo]] cover)}}
+| — || —
+|-
+! scope="row"| "[[Circles (Post Malone song)|Circles]]"<br />{{small|([[Post Malone]] cover)}}
+| — || —
+|-
+! scope="row"| "Blind for Love"
+| 20 || 26
+| ''Best Night of My Life''
+|-
+! scope="row"| "Christmas Karaoke"
+| — || —
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "[[Sleigh Ride]]"<br />{{small|([[Leroy Anderson]] and [[Mitchell Parish]] cover)}}
+| — || —
+|-
+! scope="row"| "Best Night of My Life"
+| rowspan="6"| 2023
+| — || —
+| rowspan="2"| ''Best Night of My Life''
+|-
+! scope="row"| "We Happy Don't Worry"
+| — || —
+|-
+! scope="row"| "Perfectly Imperfect"<br />{{small|(featuring [[Billy Raffoul]])}}
+| — || —
+| rowspan="4" {{Non-album singles}}
+|-
+! scope="row"| "[[Sweet Caroline]]"<br />{{small|([[Neil Diamond]] cover)}}
+| — || —
+|-
+! scope="row"| "Come Home to Me"
+| — || —
+|-
+! scope="row"| "[[Christmas in Hollis]]"<br />{{small|([[Run-DMC]] cover)}}
+| — || —
+|-
+! scope="row"| "My Last Dime"
+| rowspan="8"| 2024
+| — || —
+| rowspan="7"| ''Call Your Mother''
+|-
+! scope="row"| "Daisies"
+| — || —
+|-
+! scope="row"| "[[Save Tonight]]"<br />{{small|([[Eagle-Eye Cherry]] cover)}}
+| — || —
+|-
+! scope="row"| "Can't Stand the Mourning"
+| — || —
+|-
+! scope="row"| "Something Amazing"<br />{{small|(featuring [[Rozes (musician)|Rozes]])}}
+| — || —
+|-
+! scope="row"| "Come Too Far"
+| — || —
+|-
+! scope="row"| "Bon Voyage"
+| — || —
+|-
+! scope="row"| "This Christmas Eve"
+| — || —
+| {{Non-album single}}
+|-
+! scope="row"| "Tumble Down (The Whistle Song)"
+| rowspan="3"| 2025
+| — || —
+| rowspan="3"| ''Voz Extraña''
+|-
+! scope="row"| "This Little Light of Mine"
+| — || —
+|-
+! scope="row"| "Race Car"
+| — || —
+|-
+| colspan="5" style="font-size:90%" | "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" style="width:17em;"| Title
+! scope="col"| Year
+! scope="col"| Album
+|-
+! scope="row"| "Rocketman"<br />{{small|([[Magic Giant|MAGIC GIANT]] featuring American Authors)}}
+| 2019
+| {{Non-album single}}
+|-
+! scope="row"| "Move"<br />{{small|([[Santana (band)|Santana]] featuring [[Rob Thomas (musician)|Rob Thomas]] and American Authors)}}
+| rowspan="2"| 2021
+| ''[[Blessings and Miracles]]''
+|-
+! scope="row"| "This Time Is Right"<br />{{small|([[CVBZ]] featuring American Authors)}}
+| rowspan="2" {{Non-album singles}}
+|-
+! scope="row"| "One Way Up"<br />{{small|([[Fedde Le Grand]] featuring American Authors)}}
+| rowspan="2" |2022
+|-
+! scope="row"| "The Life That I Got"<br />{{small|([[Lit (band)|Lit]] featuring American Authors)}}
+| ''[[Tastes Like Gold]]''
+|-
+! scope="row"| "Island in the Sun"<br />{{small|([[Smallpools]] featuring American Authors)}}
+| 2023
+| ''Cameras & Coastlines & Covers''
+|-
+! scope="row"| "The Best"<br />{{small|(EDVN featuring American Authors)}}
+|2024
+| rowspan="2" {{Non-album singles}}
+|-
+
+! scope="row"| "Love & Drugs"<br />{{small|(teamwork. featuring [[Kiiara]] and American Authors)}}
+|2025
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of promotional singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Rock Songs|US<br />Rock]]<br /><ref name="USRockSongs"/>
+|-
+! scope="row"| "[[Trouble (American Authors song)|Trouble]]"
+| 2014
+| 44
+| ''Oh, What a Life''
+|-
+! scope="row"| "Right Here Right Now"
+| 2016
+| —
+| ''What We Live For''
+|-
+! scope="row"| "I Wanna Go Out"
+| 2017
+| —
+| ''Seasons''
+|-
+! scope="row"| "Do My Own Thing"
+| rowspan="3"| 2018
+| —
+| {{Non-album single}}
+|-
+! scope="row"| "Say Amen"<br />{{small|(featuring [[Billy Raffoul]])}}
+| —
+| rowspan="3"| ''Seasons''
+|-
+! scope="row"| "Neighborhood"<br />{{small|(featuring [[Bear Rinehart]] of [[Needtobreathe]])}}
+| —
+|-
+! scope="row"| "Stay Around"
+| rowspan="2"| 2019
+| —
+|-
+! scope="row"| "Champion"<br />{{small|(featuring [[Beau Young Prince]])}}
+| —
+| {{Non-album single}}
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+==Music videos==
+
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col" style="width:17em;"| Title
+! scope="col" style="width:2em;"| Year
+! scope="col" style="width:18em;"| Director(s)
+|-
+! scope="row"| "Believer" (Brooklyn version)
+| rowspan="3"| 2013
+| Anthony Leonardi III and [[Brendan Walter]]
+|-
+! scope="row"| "Best Day of My Life" (Dog version)
+| Joshua Mikel
+|-
+! scope="row"| "Best Day of My Life"
+| Mark Staubach
+|-
+! scope="row"| "Believer"
+| rowspan="2"| 2014
+| Anthony Leonardi III, Brendan Walter and Chris Newhard
+|-
+! scope="row"| "Luck"
+| Taylor Cohen
+|-
+! scope="row"| "Go Big or Go Home"
+| rowspan="2"| 2015
+| Ethan Lader
+|-
+! scope="row"| "Pride"
+| Rosco Guerrero
+|-
+! scope="row"| "Pride" (radio mix / American sign language video)
+| rowspan="2"| 2016
+| Brendan Walter and Mel Soria
+|-
+! scope="row"| "What We Live For"
+| Rosco Guerrero
+|-
+! scope="row"| "I'm Born to Run"
+| rowspan="3"| 2017
+| Jesse DeFlorio
+|-
+! scope="row"| "Everything Everything"
+|
+|-
+! scope="row"| "Good Ol' Boys"
+|
+|-
+! scope="row"| "Deep Water" (Viral)
+| rowspan="4"| 2018
+| Harrison Sanborn
+|-
+! scope="row"| "Deep Water"
+| Lauren Sick
+|-
+! scope="row"| "Say Amen"
+| Jesse DeFlorio and Seth Iliff
+|-
+! scope="row"| "Neighborhood"
+| Rosco Guerrero
+|-
+! scope="row"| "Stay Around"
+| rowspan="4"| 2019
+| Spencer Kohn
+|-
+! scope="row"| "Calm Me Down"
+| Rosco Guerrero
+|-
+! scope="row"| "Before I Go"
+| Jesse DeFlorio
+|-
+! scope="row"| "Bring It On Home"
+|
+|-
+! scope="row"| "Microphone"
+| rowspan="2"| 2020
+| Spencer Kohn
+|-
+! scope="row"| "Brick by Brick"
+| Orlando Romero
+|-
+! scope="row"| "Nice and Easy"
+| rowspan="2"| 2021
+| Chris Greider
+|-
+! scope="row"| "Favorite Time of the Year"
+| Duncan Hatch
+|-
+! scope="row"| "Timeless"
+| rowspan="2"| 2022
+| Janush Libicki
+|-
+! scope="row"| "Blind for Love"  
+| Matt Sanchez and Bianca Magick
+|-
+! scope="row"| "Best Night of My Life"
+| rowspan="2"| 2023
+| rowspan="2"| Chris Greider
+|-
+! scope="row"| "We Happy Don't Worry"
+|}
+
+=== As featured artist ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:17em;"| Title
+! scope="col"| Year
+! scope="col" style="width:18em;"| Director(s)
+|-
+! scope="row"| "Rocketman" 
+| 2019
+| [[Magic Giant]]
+|-
+! scope="row"| "Move"
+| rowspan="2"| 2021
+| Joshua Mikel
+|-
+! scope="row"| "This Time Is Right"
+| Matt Wilds
+|}
+
+==Tours==
+* Three of Clubs Tour (2013)
+* [[13th Annual Honda Civic Tours]] (2014)
+* What We Live For Europe Spring Tour (2017)
+* Best Night Of My Life Tour (2023)
+* Call Your Mother Tour (2024)
+
+;Co-headlining
+* The Mighty O.A.R. Summer Tour (2019) {{small|(with [[O.A.R.]])}}
+* Band of Brothers Road Show (2020) {{small|(with [[Magic Giant]])}}
+
+;Supporting
+* [[Native Tour|Native Summer Tour]] (2014) {{small|(with [[OneRepublic]])}}
+* North America Tour (2016) {{small|(with [[the Fray]])}}
+* Take Good Care Tour (2019) {{small|(with [[the Revivalists]])}}
+* Where We Came From Tour (2022) {{small|(with [[Phillip Phillips]])}}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{American Authors}}
+
+[[Category:Discographies of American artists]]

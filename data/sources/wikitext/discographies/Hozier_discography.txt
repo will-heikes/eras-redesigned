@@ -1,0 +1,621 @@
+{{Short description|none}} <!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Infobox artist discography
+| Artist       = [[Hozier]]
+| Image        = Hozier 2015 01 (cropped).jpg
+| Caption      = Hozier performing in September 2015
+| Studio       = 3
+| EP           = 8
+| Singles      = 24
+| Music videos = 
+}}
+Irish singer-songwriter and musician [[Hozier]] has released 3 studio albums, 8 EPs, and 24 singles (including one as a featured artist). His debut studio album, ''[[Hozier (album)|Hozier]]'', was released in September 2014. The album peaked at number one on the [[Irish Albums Chart]]. The album includes the singles "[[Take Me to Church]]", "[[From Eden]]", "[[Sedated (song)|Sedated]]", "[[Work Song (Hozier song)|Work Song]]", "[[Someone New (Hozier song)|Someone New]]", "Jackie and Wilson" and "[[Cherry Wine (Hozier song)|Cherry Wine]]". "Take Me to Church" achieved widespread global popularity, topping the charts in twelve countries and reaching the top ten in twenty-one other territories. The song was nominated for the [[Grammy Award for Song of the Year]] at the [[57th Annual Grammy Awards]] and has been certified [[RIAA certification|diamond]] in the US. His second studio album, ''[[Wasteland, Baby!]]'', was released in March 2019. The album peaked at number one on the Irish Albums Chart and the US [[Billboard 200|''Billboard'' 200]]. The album includes the singles "[[Nina Cried Power]]", "[[Movement (Hozier song)|Movement]]", "[[Almost (Sweet Music)]]" and "Dinner & Diatribes". He released his third album ''[[Unreal Unearth]]'' in August 2023, which also topped the Irish Albums Chart and became his first number-one album in the UK.
+
+==Studio albums==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of studio albums, with selected details, peak chart positions, certifications and sales
+! scope="col" rowspan="2" style="width:11em;"| Title
+! scope="col" rowspan="2" style="width:17em;"| Album details
+! scope="col" colspan="10"| Peak chart positions<!--Recommended limit is 10-->
+! scope="col" rowspan="2" style="width:14em;"| [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" style="width:11em;"| Sales
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Albums Chart|IRL]]<br /><ref name="IRE">{{cite web|url=http://irish-charts.com/showinterpret.asp?interpret=Hozier|title=Discography Hozier|publisher=Irish Charts Portal. Hung Medien|access-date=14 September 2014|archive-date=8 June 2025|archive-url=https://web.archive.org/web/20250608043707/http://irish-charts.com/showinterpret.asp?interpret=Hozier|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref name="AUS">{{cite web|url=http://www.australian-charts.com/showitem.asp?interpret=Hozier&titel=Hozier&cat=a|title=Discography Hozier|publisher=Australian Charts Portal. Hung Medien|access-date=18 October 2014|archive-date=22 October 2014|archive-url=https://web.archive.org/web/20141022193244/http://www.australian-charts.com/showitem.asp?interpret=Hozier&titel=Hozier&cat=a|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="FL">{{cite web|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Hozier|title=Discografie Hozier|publisher=Belgium Charts Portal. Hung Medien|access-date=12 September 2014|archive-date=23 October 2014|archive-url=https://web.archive.org/web/20141023164700/http://www.ultratop.be/nl/showinterpret.asp?interpret=Hozier|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CANalbums">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/cna/|title=Hozier Chart History: Canadian Albums|magazine=Billboard|access-date=2 April 2024|archive-date=17 November 2021|archive-url=https://web.archive.org/web/20211117221007/https://www.billboard.com/artist/hozier/chart-history/cna/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment Charts|GER]]<br /><ref name="GER">{{cite web|url=https://www.offiziellecharts.de/|title=Discographie Hozier|publisher=GfK Entertainment|access-date=7 March 2019|language=de|archive-date=10 September 2018|archive-url=https://web.archive.org/web/20180910020036/https://www.offiziellecharts.de/suche?artist_search=Hozier&do_search=do|url-status=live|format=Type "Hozier" in the "Suchen" field}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Album Top 100|NLD]]<br /><ref name="NL">{{cite web|url=http://dutchcharts.nl/showinterpret.asp?interpret=Hozier|title=Discografie Hozier|publisher=Dutch Charts Portal. Hung Medien|language=nl|access-date=28 April 2024|archive-date=9 November 2014|archive-url=https://web.archive.org/web/20141109060722/http://www.dutchcharts.nl/showinterpret.asp?interpret=Hozier|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ">{{cite web|url=https://charts.nz/showinterpret.asp?interpret=Hozier|title=Discography Hozier|publisher=New Zealand Charts Portal. Hung Medien|access-date=30 August 2019|archive-date=16 February 2020|archive-url=https://web.archive.org/web/20200216010049/https://charts.nz/showinterpret.asp?interpret=Hozier|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI">{{cite web |url=http://swisscharts.com/artist/Hozier |title=Hozier - hitparade.ch |publisher=hitparade.ch |access-date=25 January 2021 |archive-date=6 February 2021 |archive-url=https://web.archive.org/web/20210206064026/http://swisscharts.com/artist/Hozier |url-status=live }}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Albums Chart|UK]]<br /><ref name="UK">* For all except where noted: {{cite web|url=http://www.officialcharts.com/artist/30680/hozier/|title=Hozier > UK Charts|publisher=[[Official Charts Company]]|access-date=8 November 2025|archive-date=16 August 2018|archive-url=https://web.archive.org/web/20180816112530/http://www.officialcharts.com/artist/30680/hozier/|url-status=live}}
+* For "Someone New": {{cite web|url=http://www.zobbel.de/cluk/150321cluk.txt|title=New Chart Entries: 21.03.2015|publisher=zobbel.de|access-date=22 March 2015|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303202552/http://www.zobbel.de/cluk/150321cluk.txt|url-status=live}}
+* For "Jackie & Wilson": {{cite web|url=https://www.zobbel.de/cluk/151128cluk.txt|title=New Chart Entries: 28.11.2015 (wk48)|publisher=zobbel.de|access-date=8 October 2020|archive-date=22 April 2017|archive-url=https://archive.today/20170422152208/https://www.zobbel.de/cluk/151128cluk.txt|url-status=live}}
+* For "Nina Cried Power": {{cite web|url=http://www.officialcharts.com/artist/54272/hozier-ft-mavis-staples/|title=Hozier ft Mavis Staples|publisher=Official Charts Company|access-date=15 September 2018|archive-date=14 September 2018|archive-url=https://web.archive.org/web/20180914203524/http://www.officialcharts.com/artist/54272/hozier-ft-mavis-staples/|url-status=live}}
+* For "Damage Gets Done": {{cite web|url=https://www.officialcharts.com/artist/hozierbrandi-carlile/|title=Hozier/Brandi Carlile|publisher=Official Charts Company|access-date=25 August 2023|archive-date=26 August 2023|archive-url=https://web.archive.org/web/20230826012505/https://www.officialcharts.com/artist/hozierbrandi-carlile/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/tlp/|title=Hozier Chart History: Billboard 200|magazine=[[Billboard (magazine)|Billboard]]|access-date=2 April 2024|archive-date=17 November 2021|archive-url=https://web.archive.org/web/20211117203626/https://www.billboard.com/artist/hozier/chart-history/tlp/|url-status=live}}</ref>
+|-
+! scope="row"| ''[[Hozier (album)|Hozier]]''
+| 
+* Released: 19 September 2014
+* Label: [[Rubyworks Records|Rubyworks]], [[Island Records|Island]]
+* Format: [[Compact disc|CD]], [[LP record|LP]], [[Music download|digital download]]
+| 1 || 3 || 2 || 2 || 14 || 7 || 3 || 14 || 3 || 2
+|
+* [[Irish Recorded Music Association|IRMA]]: 6× Platinum<ref name="IRE-cert">{{cite journal|url=http://www.rte.ie/ten/news/2015/0410/693231-hozier-returns-to-irish-number-one-spot/|title=Hozier dethrones James Bay to reclaim Irish No 1|journal=RTÉ News|date=10 April 2015|access-date=28 April 2015|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305071444/http://www.rte.ie/ten/news/2015/0410/693231-hozier-returns-to-irish-number-one-spot/|url-status=live}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: 2× Platinum<ref name="ARIA21">{{cite certification|region=Australia|type=single|certyear=2021|access-date=February 7, 2022}}</ref>
+* [[British Phonographic Industry|BPI]]: 3× Platinum<ref name="BPI">{{cite certification|region=United Kingdom|access-date=12 June 2026|artist=Hozier}}</ref>
+* [[Bundesverband Musikindustrie|BVMI]]: Gold<ref name="BVMI">{{cite certification|region=Germany|artist=Hozier|access-date=1 March 2023}}</ref>
+* [[Music Canada|MC]]: 7× Platinum<ref name="MC">{{cite certification|region=Canada|artist=Hozier|access-date=21 March 2019}}</ref>
+* [[NVPI]]: Platinum<ref name="NVPI">{{cite certification|region=Netherlands|artist=Hozier|access-date=6 September 2018}}</ref>
+* [[Recording Industry Association of America|RIAA]]: 5× Platinum<ref name="RIAA">{{cite certification|region=United States|artist=Hozier|access-date=20 May 2025}}</ref>
+* [[Recorded Music NZ|RMNZ]]: 7× Platinum<ref>{{cite certification|region=New Zealand|type=album|artist=Hozier|source=radioscope|access-date=7 December 2025|title=Hozier}}</ref>
+|
+* [[Nielsen SoundScan|US]]: 972,000<ref name=Debuts>{{cite magazine | url=https://www.billboard.com/pro/hozier-debuts-no-1-billboard-200-chart-wasteland-baby/ | title=Hozier Debuts at No. 1 on Billboard 200 Albums Chart With 'Wasteland, Baby!' | last=Caulfield | first=Keith | magazine=[[Billboard (magazine)|Billboard]] | date=10 March 2019 | archive-url=https://web.archive.org/web/20190327171600/https://www.billboard.com/articles/columns/chart-beat/8501829/hozier-debuts-no-1-billboard-200-chart-wasteland-baby | archive-date=27 March 2019 | url-status=live}}</ref>
+|-
+! scope="row"| ''[[Wasteland, Baby!]]''
+|
+* Released: 1 March 2019
+* Label: Rubyworks, Island
+* Format: CD, LP, digital download
+| 1 || 8 || 19 || 9 || 15 || 3 || 9 || 16 || 6 || 1
+|
+* BPI: Gold<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* RIAA: Platinum<ref name="RIAA"/>
+|
+* US: 75,000<ref name=Debuts/>
+|-
+! scope="row"| ''[[Unreal Unearth]]''
+|
+* Released: 18 August 2023<ref>{{cite magazine|url=https://www.spin.com/2023/05/hozier-new-album/|magazine=[[Spin (magazine)|Spin]]|first=Jonathan|last=Cohen|title=Hozier's First Album In Four Years Will Arrive In August|date=17 May 2023|accessdate=17 May 2023|archive-date=17 May 2023|archive-url=https://web.archive.org/web/20230517185549/https://www.spin.com/2023/05/hozier-new-album/|url-status=live}}</ref>
+* Label: Rubyworks, Island
+* Format: CD, LP, digital download, cassette
+| 1 || 13 || 7 || 7 || 4 || 2 || 2 || 5 || 1 || 3
+|
+* BPI: Gold<ref name="BPI"/>
+* RIAA: Platinum<ref name="RIAA" />
+* RMNZ: Platinum{{efn-ua|Certification for ''Unreal Unearth: Unheard''}}<ref>{{cite certification|region=New Zealand|type=album|id=2024-11-15|source=newchart|access-date=19 November 2024}}</ref>
+|
+* US: 39,000<ref>{{cite magazine|url=https://www.billboard.com/music/chart-beat/travis-scott-utopia-fourth-week-number-one-billboard-200-chart-1235401642/|title=Travis Scott's 'Utopia' Spends a Month at No. 1 on Billboard 200 Chart|magazine=Billboard|last=Caulfield|first=Keith|date=27 August 2023|access-date=29 August 2023|archive-date=28 August 2023|archive-url=https://web.archive.org/web/20230828215045/https://www.billboard.com/music/chart-beat/travis-scott-utopia-fourth-week-number-one-billboard-200-chart-1235401642/|url-status=live}}</ref>
+|}
+
+==Extended plays==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of EPs, with selected details and peak chart positions
+! scope="col" rowspan="2" style="width:9.5em;"| Title
+! scope="col" rowspan="2" style="width:15.5em;"| EP details
+! scope="col" colspan="7"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Albums Chart|CAN]]<br /><ref name="CANalbums"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Associação Fonográfica Portuguesa|POR]]<br /><ref name="POR">{{cite web|url=https://portuguesecharts.com/showinterpret.asp?interpret=Hozier| title=Discography Hozier| website=portuguesecharts.com| access-date=April 8, 2024}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard 200|US]]<br /><ref name="US"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Alternative Albums|US<br />Alt]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/alt/|title=Hozier: Chart History – Alternative Albums|magazine=Billboard|access-date=2 April 2024|archive-date=18 November 2021|archive-url=https://web.archive.org/web/20211118012917/https://www.billboard.com/artist/hozier/chart-history/alt/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Americana/Folk Albums|US<br />Folk]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/flk/|title=Hozier: Chart History – Americana/Folk Albums|magazine=Billboard|access-date=2 April 2024|archive-date=18 November 2021|archive-url=https://web.archive.org/web/20211118021106/https://www.billboard.com/artist/hozier/chart-history/flk/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Top Rock Albums|US<br />Rock]]<br /><ref>{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/rck/|title=Hozier: Chart History – Top Rock Albums|magazine=Billboard|access-date=2 April 2024|archive-date=17 November 2021|archive-url=https://web.archive.org/web/20211117203624/https://www.billboard.com/artist/hozier/chart-history/rck/|url-status=live}}</ref>
+|-
+! scope="row"| ''[[Take Me to Church]]''
+| 
+* Released: 13 September 2013
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || 107 || — || 3 || —
+|-
+! scope="row"| ''[[From Eden]]''
+| 
+* Released: 9 March 2014
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || —{{efn|group=upper-alpha|''From Eden'' did not enter the US ''Billboard'' 200 but did peak at number 184 on the US Top Current Albums chart.<ref>{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/tcl/|title=Hozier: Chart History – Top Current Albums|magazine=Billboard|access-date=2 July 2020|archive-date=24 March 2023|archive-url=https://web.archive.org/web/20230324170232/https://www.billboard.com/artist/hozier/chart-history/tcl/|url-status=live}}</ref>}} || — || 9 || —
+|-
+! scope="row"| ''Spotify Sessions London''
+| 
+* Released: 2014
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''Live in America''
+| 
+* Released: 31 July 2015
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || — || 21 || 7 || 29
+|-
+! scope="row"| ''[[Nina Cried Power EP|Nina Cried Power]]''
+|
+* Released: 7 September 2018
+* Label: Rubyworks
+* Format: Digital download
+| 33 || — || — || 60 || 5 || 2 || 8
+|-
+! scope="row"| ''Spotify Singles''
+| 
+* Released: 2019
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[Eat Your Young]]''
+|
+* Released: 17 March 2023
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || — || — || — || —
+|-
+! scope="row"| ''[[Unheard (EP)|Unheard]]''
+|
+* Released: 22 March 2024
+* Label: Rubyworks
+* Format: Digital download
+| 8 || 86 || 57 || 10 || 3 || 3 || 3
+|-
+! scope="row"| ''[[Unaired]]''
+|
+* Released: 16 August 2024<ref>{{cite web|url=https://www.instagram.com/hozierupdates/p/C-RHCKesBwl/|title=🚨''Unaired'' Hozier's new EP Coming soon🔥|via=[[Instagram]]|access-date=5 August 2024}}</ref>
+* Label: Rubyworks
+* Format: Digital download
+| — || — || — || — || — || — || —
+|-
+| colspan="10" style="font-size:85%" | "—" denotes an EP that did not chart or was not released in that territory.
+|}
+
+==Singles==
+===As lead artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles as lead artist, with selected peak chart positions and certifications
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:13em;"| Certifications
+! scope="col" rowspan="2" style="width:10em;"| Album/'''EP'''
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE"/>
+! scope="col" style="width:3em;font-size:85%;"| [[ARIA Charts|AUS]]<br /><ref>Peaks in Australia:
+* All except noted: {{cite web|url=http://australian-charts.com/showinterpret.asp?interpret=Hozier|title=australian-charts.com – Discography Hozier|publisher=Hung Medien|access-date=4 April 2015|archive-date=21 March 2015|archive-url=https://web.archive.org/web/20150321013735/http://australian-charts.com/showinterpret.asp?interpret=Hozier|url-status=live}}
+* "Northern Attitude": {{cite magazine|title=The ARIA Report: Week Commencing 20 November 2023|magazine=The ARIA Report|publisher=[[Australian Recording Industry Association]]|issue=1759|page=4|date=20 November 2023}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Ultratop|BEL<br />(FL)]]<br /><ref name="FL"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CANSongs">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/can/|title=Hozier – Chart History: Billboard Canadian Hot 100|magazine=[[Billboard (magazine)|Billboard]]|access-date=11 March 2026|archive-date=28 March 2023|archive-url=https://web.archive.org/web/20230328092038/https://www.billboard.com/artist/hozier/chart-history/can/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment charts|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Single Top 100|NLD]]<br /><ref name="NL"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref name="NZ"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US100">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/hsi/|title=Hozier Chart History: The Hot 100|magazine=Billboard|access-date=16 April 2024|archive-date=18 November 2021|archive-url=https://web.archive.org/web/20211118033150/https://www.billboard.com/artist/hozier/chart-history/hsi/|url-status=live}}</ref>
+|-
+! scope="row"| "[[Take Me to Church]]"
+| 2013
+| 2 || 2 || 1 || 2 || 2 || 2 || 2 || 1 || 2 || 2
+|
+* ARIA: 18× Platinum<ref name="ARIA24s">{{cite certification|region=Australia|type=single|certyear=2024|access-date=24 December 2024}}</ref>
+* BPI: 8× Platinum<ref name="BPI"/>
+* [[Belgian Recorded Music Association|BRMA]]: 3× Platinum<ref>{{cite certification|region=Belgium|certyear=2016|type=single|access-date=3 February 2022}}</ref>
+* BVMI: 7× Gold<ref name="BVMI"/>
+* [[IFPI Switzerland|IFPI SWI]]: Platinum<ref name="SWI" />
+* MC: Diamond<ref name="MC"/>
+* NVPI: 3× Platinum<ref name="NVPI"/>
+* RIAA: 15× Platinum<ref name="RIAA"/>
+* [[Recorded Music NZ|RMNZ]]: 11× Platinum<ref name=":0">{{cite certification|region=New Zealand|artist=Hozier|type=single|source=radioscope|access-date=2 October 2026}}</ref>
+| rowspan="7"| ''Hozier''
+|-
+! scope="row"| "[[From Eden]]"
+| rowspan="2"| 2014
+| 2 || — || —{{efn|group=upper-alpha|"From Eden" did not enter the Flanders Ultratop 50, but peaked at number 9 on the Ultratip chart.<ref name="FL"/>}} || — || — || —{{efn|group=upper-alpha|"From Eden" did not enter the Netherlands' Single Top 100 but peaked on the Netherlands' Single Tip Chart at number 8.<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2015&date=20150411|title=Netherlands Single Tip Chart – 11/04/2015|publisher=[[Mega Charts]]|date=11 April 2015|access-date=22 May 2019|archive-date=22 July 2016|archive-url=https://web.archive.org/web/20160722152100/http://dutchcharts.nl/weekchart.asp?cat=st&year=2015&date=20150411|url-status=live}}</ref>}} || — || — || 69 || —
+|
+* ARIA: Gold<ref name="ARIA-2019">{{cite certification|region=Australia|type=single|certyear=2019|access-date=19 February 2019}}</ref>
+* BPI: Platinum<ref name="BPI"/>
+* MC: Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA" />
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "[[Sedated (song)|Sedated]]"
+| 3 || — || — || — || — || — || — || — || — || — 
+|
+* RIAA: Gold<ref name="RIAA"/>
+|-
+! scope="row"| "[[Work Song (Hozier song)|Work Song]]"
+| rowspan="3"| 2015
+| 39<br /><ref>{{cite web|url=https://www.officialcharts.com/charts/irish-singles-chart/20240712/ie7501/|title=Top 100 Singles, Week Ending 12 July 2024|publisher=Official Charts Company|access-date=12 July 2024}}</ref> || — || — || 92 || — || — || —{{efn|group=upper-alpha|"Work Song" did not enter the NZ Top 40 Singles Chart, but peaked at number 27 on the NZ Catalogue Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2024-03-22|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=25 March 2024|access-date=12 April 2024}}</ref>}} || — || — || —{{efn-ua|"Work Song" did not enter the [[Billboard Hot 100|''Billboard'' Hot 100]], but peaked at number 20 on the [[Bubbling Under Hot 100]] chart.<ref name="Bubbling Under Hot 100">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/hbu/|title=Hozier Chart History – Bubbling Under Hot 100|magazine=Billboard|access-date=3 November 2025|archive-date=17 November 2021|archive-url=https://web.archive.org/web/20211117220553/https://www.billboard.com/artist/hozier/chart-history/hbu/|url-status=live}}</ref>}}
+|
+* BPI: Platinum<ref name="BPI"/>
+* MC: 5× Platinum<ref name="MC" />
+* RIAA: 4× Platinum<ref name="RIAA" />
+* RMNZ: 2× Platinum<ref name=":0" />
+|-
+! scope="row"| "[[Someone New (Hozier song)|Someone New]]"
+| 13 || 24 || —{{efn|group=upper-alpha|"Someone New" did not enter the Flanders Ultratop 50, but peaked at number 5 on the Ultratip chart.<ref name="FL"/>}} || 90 || — || —{{efn|group=upper-alpha|"Someone New" did not enter the Netherlands' Single Top 100 but peaked on the Netherlands' Single Tip Chart at number 10.<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2015&date=20150718|title=Netherlands Single Tip Chart – 18/07/2015|publisher=[[Mega Charts]]|date=18 July 2015|access-date=22 May 2019|archive-date=31 January 2020|archive-url=https://web.archive.org/web/20200131205438/https://dutchcharts.nl/weekchart.asp?cat=st&year=2015&date=20150718|url-status=live}}</ref>}} || 13 || —{{efn|group=upper-alpha|"Someone New" did not enter the Swiss Singles chart, but charted at number 77 on the Swiss Airplay chart.<ref>{{cite web|url=https://hitparade.ch/charts/airplay/20-2015|title=Schweizer Airplay Charts 20/2015 - hitparade.ch|publisher=hitparade.ch|access-date=25 February 2022|archive-date=25 February 2022|archive-url=https://web.archive.org/web/20220225163616/https://hitparade.ch/charts/airplay/20-2015|url-status=live}}</ref>}} || 19 || —{{efn-ua|"Someone New" did not enter the ''Billboard'' Hot 100, but peaked at number one on the Bubbling Under Hot 100 chart.<ref name="Bubbling Under Hot 100"/>}}
+|
+* ARIA: Platinum<ref name="ARIA-2019"/>
+* BPI: 2x Platinum<ref name="BPI"/>
+* MC: 4× Platinum<ref name="MC" />
+* RIAA: 3× Platinum<ref name="RIAA" />
+* RMNZ: 4× Platinum<ref name=":0" />
+|-
+! scope="row"| "Jackie & Wilson"<ref>{{cite web|url=https://music.apple.com/us/music-video/jackie-and-wilson/1045138753|title=Jackie and Wilson by Hozier on Apple Music|website=Apple Music|access-date=6 July 2020|archive-date=17 December 2020|archive-url=https://web.archive.org/web/20201217075148/https://music.apple.com/us/music-video/jackie-and-wilson/1045138753|url-status=live}}</ref>
+| 68 || — || — || —{{efn|group=upper-alpha|"Jackie & Wilson" did not enter the ''Billboard'' Canadian Hot 100, but peaked at number 64 on the [[Canadian Digital Song Sales]] chart.<ref name="Canada-digital">{{cite magazine |url=https://www.billboard.com/artist/hozier/chart-history/cns/ |title=Hozier: Hot Canadian Digital Songs |magazine=Billboard |access-date=22 May 2019 |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324170214/https://www.billboard.com/artist/hozier/chart-history/cns/ |url-status=live }}</ref>}} || — || — || — || — || 179 || — 
+|
+* BPI: Gold<ref name="BPI"/>
+* MC: Platinum<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "[[Cherry Wine (Hozier song)|Cherry Wine]]"
+| rowspan="2"| 2016
+| 56 || — || —{{efn|group=upper-alpha|"Cherry Wine" did not enter the Flanders Ultratop 50, but charted as an "extra tip" on the Ultratip chart.<ref name="FL"/>}} || — || — || — || — || — || — || — 
+|
+* BPI: Platinum<ref name="BPI"/>
+* MC: Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA" />
+* RMNZ: 2× Platinum<ref name=":0" />
+|-
+! scope="row"| "[[The Legend of Tarzan (film)#Soundtrack|Better Love]]" 
+| 72 || — || —{{efn|group=upper-alpha|"Better Love" did not enter the Flanders Ultratop 50, but charted as an "extra tip" on the Ultratip chart.<ref name="FL"/>}} || — || — || — || — || — || — || —
+|
+| ''[[The Legend of Tarzan (film)|The Legend of Tarzan]]''
+|-
+! scope="row"| "[[Nina Cried Power]]"<ref>{{cite web|url=https://www.allaccess.com/alternative/future-releases|archive-url=https://web.archive.org/web/20180916050354/https://www.allaccess.com/alternative/future-releases |archive-date=16 September 2018|title=Future Releases on Alternative Radio Stations, Independent Artist Song Releases – ...|date=16 September 2018|access-date=2 March 2019}}</ref><ref>{{cite web|url=http://radiodate.it/radio-date/hozier-feat-mavis-staples-nina-cried-power-178258-07-09-2018-radiodate/|title=HOZIER "Nina Cried Power" – (Radio Date: 07/09/2018)|website=Radiodate.it|access-date=2 March 2019|archive-date=23 September 2018|archive-url=https://web.archive.org/web/20180923162555/http://radiodate.it/radio-date/hozier-feat-mavis-staples-nina-cried-power-178258-07-09-2018-radiodate/|url-status=live}}</ref><br />{{small|(featuring [[Mavis Staples]])}}
+| rowspan="2"| 2018
+| 10 || — || —{{efn|group=upper-alpha|"Nine Cried Power" did not enter the Flanders Ultratop 50, but peaked at number 30 on the Ultratip chart.<ref name="FL"/>}} || — || — || —{{efn|group=upper-alpha|"Nina Cried Power" did not enter the Netherlands' Single Top 100 but peaked on the Netherlands' Single Tip Chart at number 28.<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2018&date=20181027|title=Netherlands Single Tip Chart – 27/10/2018|publisher=[[Mega Charts]]|date=27 October 2018|access-date=22 May 2019|archive-date=24 March 2023|archive-url=https://web.archive.org/web/20230324170244/https://dutchcharts.nl/weekchart.asp?cat=st&year=2018&date=20181027|url-status=live}}</ref>}} || —{{efn-ua|"Nina Cried Power" did not enter the [[Official New Zealand Music Chart|NZ Top 40 Music Chart]], but peaked at number 27 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2018-09-14|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=17 September 2018|access-date=14 September 2018|archive-date=14 September 2018|archive-url=https://web.archive.org/web/20180914094452/https://nztop40.co.nz/chart/hotsingles?chart=4523|url-status=live}}</ref>}} || — || 87 || —
+|
+* MC: Gold<ref name="MC" />
+| rowspan="4"| ''Wasteland, Baby!''
+|-
+! scope="row"| "[[Movement (Hozier song)|Movement]]"
+| 40 || — || —{{efn|group=upper-alpha|"Movement" did not enter the Flanders Ultratop 50, but peaked at number 14 on the Ultratip chart.<ref name="FL"/>}} || —{{efn|group=upper-alpha|"Movement" did not enter the ''Billboard'' Canadian Hot 100, but peaked at number 17 on the [[Canadian Digital Song Sales]] chart.<ref name="Canada-digital" />}} || — || — || —{{efn|group=upper-alpha|"Movement" did not enter the NZ Top 40 Singles Chart, but peaked at number 26 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2018-11-23|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=26 November 2018|access-date=23 November 2018|archive-date=20 January 2020|archive-url=https://web.archive.org/web/20200120161527/https://nztop40.co.nz/chart/hotsingles?chart=4561|url-status=live}}</ref>}} || — || —{{efn|group=upper-alpha|"Movement" did not enter the UK Singles Chart, but peaked at number 91 on the [[UK Singles Downloads Chart]].<ref>{{cite web |url=https://www.officialcharts.com/charts/singles-downloads-chart/20181123/7000/ |title=Official Singles Downloads Chart Top 100 – 23 November 2018 |work=Official Charts Company |date=23 November 2018 |access-date=13 May 2020 |archive-date=7 December 2020 |archive-url=https://web.archive.org/web/20201207092539/https://www.officialcharts.com/charts/singles-downloads-chart/20181123/7000/ |url-status=live }}</ref>}} || —{{efn|group=upper-alpha|"Movement" did not enter the ''Billboard'' Hot 100, but peaked at number 11 on the [[Digital Song Sales]] chart.<ref name="US-digital">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/hds/|title=Hozier Chart History – Digital Song Sales chart|magazine=Billboard|access-date=26 September 2019|archive-date=14 April 2022|archive-url=https://web.archive.org/web/20220414025740/https://www.billboard.com/artist/hozier/chart-history/hds/|url-status=live}}</ref>}}
+|
+* BPI: Silver<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* RIAA: Platinum<ref name="RIAA" />
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "[[Almost (Sweet Music)]]"
+| rowspan="4"| 2019
+| 8 || — || —{{efn|group=upper-alpha|"Almost (Sweet Music)" did not enter the Flanders Ultratop 50, but peaked at number 33 on the Ultratip chart.<ref name="FL"/>}} || — || — || — || —{{efn|group=upper-alpha|"Almost (Sweet Music)" did not enter the NZ Top 40 Singles Chart, but peaked at number 18 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2019-01-25|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=28 January 2019|access-date=25 January 2019|archive-date=25 January 2019|archive-url=https://web.archive.org/web/20190125131105/https://nztop40.co.nz/chart/hotsingles?chart=4584|url-status=live}}</ref>}} || — || 82 || —{{efn|group=upper-alpha|"Almost (Sweet Music)" did not enter the ''Billboard'' Hot 100, but peaked at number 45 on the Digital Song Sales chart.<ref name="US-digital" />}} 
+|
+* BPI: Platinum<ref name="BPI"/>
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA"/>
+* RMNZ: 2× Platinum<ref name=":0" />
+|-
+! scope="row"| "Dinner & Diatribes"
+| — || — || — || — || — || — || — || — || — || — 
+|
+|-
+! scope="row"| "[[The Bones (song)|The Bones (remix)]]"<br />{{small|(with [[Maren Morris]])}}<ref>{{cite web|url=https://music.apple.com/gb/album/the-bones-with-hozier-single/1481658953|title=The Bones (with Hozier) – Single by Maren Morris|website=iTunes|access-date=4 October 2019|archive-date=9 July 2021|archive-url=https://web.archive.org/web/20210709191433/https://music.apple.com/gb/album/the-bones-with-hozier-single/1481658953|url-status=live}}</ref>
+| — || — || — || — || — || — || — || — || — || —
+|
+| rowspan="4" {{Non-album singles}}
+|-
+! scope="row"| "Jackboot Jump"<ref>{{cite web|url=https://music.apple.com/us/album/jackboot-jump-live-single/1487701845|title=Jackboot Jump (Live) - Single by Hozier on Apple Music|website=iTunes|access-date=24 January 2021|archive-date=15 December 2020|archive-url=https://web.archive.org/web/20201215212058/https://music.apple.com/us/album/jackboot-jump-live-single/1487701845|url-status=live}}</ref>
+| —{{efn|group=upper-alpha|"Jackboot Jump" did not enter the Irish Singles Chart, but peaked at number 15 on the Irish Homegrown Top 20 chart.<ref>{{cite web | url=https://www.officialcharts.com/charts/irish-homegrown-chart/20191129/irishart/ | title=Irish Homegrown Top 20 | date=29 November 2019 | work=Official Charts Company | access-date=24 January 2021 | archive-date=24 March 2023 | archive-url=https://web.archive.org/web/20230324170215/https://www.officialcharts.com/charts/irish-homegrown-chart/20191129/irishart/ | url-status=live }}</ref>}} || — || — || — || — || — || — || — || — || —
+|
+|-
+! scope="row"| "[[The Parting Glass]]"
+| 2020
+| 44 || — || — || — || — || — || — || — || — || — 
+|
+|-
+! scope="row"| "Swan Upon Leda"<ref name="SUL">{{cite web|url=https://americansongwriter.com/hozier-announces-new-single-swan-upon-leda-shares-message-of-solidarity/|title=Hozier Announces New Single "Swan Upon Leda," Shares Message of 'Solidarity'|work=[[American Songwriter]]|last=Uitti|first=Jacob|date=4 October 2022|access-date=7 October 2022|archive-date=7 October 2022|archive-url=https://web.archive.org/web/20221007042411/https://americansongwriter.com/hozier-announces-new-single-swan-upon-leda-shares-message-of-solidarity/|url-status=live}}</ref>
+| 2022
+| 33 || — || — || — || — || — || —{{efn|group=upper-alpha|"Swan Upon Leda" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2022-10-14|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=17 October 2022|access-date=15 October 2022|archive-date=18 October 2022|archive-url=https://web.archive.org/web/20221018135910/https://nztop40.co.nz/chart/hotsingles?chart=5428|url-status=live}}</ref>}} || — || — || —
+|
+|-
+! scope="row"| "Eat Your Young"<ref>{{cite web|url=https://www.allaccess.com/triple-a/future-releases|title=Triple A Future Releases|publisher=All Access Music Group|access-date=18 March 2023|archive-date=10 January 2021|archive-url=https://web.archive.org/web/20210110230056/https://www.allaccess.com/triple-a/future-releases|url-status=live}}</ref>
+| rowspan="5"| 2023
+| 7 || — || — || 40 || —{{efn|group=upper-alpha|"Eat Your Young" did not enter the German Singles Chart, but peaked at number seven on the Deutsche Single Trend Chart.<ref>{{cite web |url=http://www.mtv.de/charts/9gtiy5/single-trending |title=Deutsche Single Trend Charts Category: Single |work=Deutsche Single Trend Charts |accessdate=24 March 2023 |archiveurl=https://web.archive.org/web/20230324201621/https://www.mtv.de/info/kj3m94/single-trending-charts |archivedate=24 March 2023 |url-status=dead }}</ref>}} || 94 || 38 || 73 || 22 || 67
+|
+* BPI: Gold<ref name="BPI"/>
+* RIAA: Platinum<ref name="RIAA"/>
+* RMNZ: Gold<ref name=":0" />
+| rowspan="4"| ''Unreal Unearth''
+|-
+! scope="row"| "Francesca"<ref>{{cite web|url=https://www.totalntertainment.com/music/hozier-releases-new-single-francesca/|title=Hozier has shared 'Francesca,' the latest single from the forthcoming album Unreal Unearth.|website=Total Ntertainment|date=19 May 2023|access-date=21 May 2023|archive-date=21 May 2023|archive-url=https://web.archive.org/web/20230521101102/https://www.totalntertainment.com/music/hozier-releases-new-single-francesca/|url-status=live}}</ref>
+| 37 || — || — || — || — || — || —{{efn|group=upper-alpha|"Francesca" did not enter the NZ Top 40 Singles Chart, but peaked at number 24 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-05-26|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=29 May 2023|access-date=27 May 2023|archive-date=26 May 2023|archive-url=https://web.archive.org/web/20230526231103/https://nztop40.co.nz/chart/hotsingles?chart=5585|url-status=live}}</ref>}} || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| "Unknown / Nth"<ref>{{cite web|url=https://themusic.com.au/news/cry-club-hozier-kee-ahn-more-this-week-s-best-new-music/kr0ohIeGiYg/23-06-23|title=Cry Club, Hozier, Kee'ahn & More: This Week's Best New Music|website=[[The Music (magazine)|The Music]]|date=23 June 2023|access-date=24 June 2023|archive-date=23 June 2023|archive-url=https://web.archive.org/web/20230623224109/https://themusic.com.au/news/cry-club-hozier-kee-ahn-more-this-week-s-best-new-music/kr0ohIeGiYg/23-06-23|url-status=live}}</ref>
+| 55 || — || — || — || — || — || —{{efn|group=upper-alpha|"Unknown / Nth" did not enter the NZ Top 40 Singles Chart, but peaked at number 10 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-06-30|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=3 July 2023|access-date=1 July 2023|archive-date=30 June 2023|archive-url=https://web.archive.org/web/20230630225834/https://nztop40.co.nz/chart/hotsingles?chart=5604|url-status=live}}</ref>}} || — || — || —
+|
+* RIAA: Gold<ref name="RIAA"/>
+* RMNZ: Gold<ref name=":0" />
+|-
+! scope="row"| "De Selby (Part 2)"
+| 30 || — || — || — || — || — || —{{efn|group=upper-alpha|"De Selby (Part 2)" did not enter the NZ Top 40 Singles Chart, but peaked at number 32 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-07-28|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=31 July 2023|access-date=29 July 2023|archive-date=28 July 2023|archive-url=https://web.archive.org/web/20230728230406/https://nztop40.co.nz/chart/hotsingles?chart=5624|url-status=live}}</ref>}} || — || — || —
+|
+|-
+! scope="row"| "[[Northern Attitude (song)|Northern Attitude]]" <br />{{small|(with [[Noah Kahan]])}}<ref>{{cite web|url=https://www.vulture.com/2023/11/noah-kahan-hozier-northern-attitude.html|title=Irish Hozier and Vermont Hozier Have the Same Attitude |website=Vulture|date=10 November 2023|access-date= 11 November 2023}}</ref>
+| 25 || 63 || — || 21 || — || —{{efn|group=upper-alpha|"Northern Attitude" did not enter the Dutch Single Top 100, but peaked at number 11 on the Single Tip chart.<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2023&date=20231125|title=Dutch Single Tip 25/11/2023|website=dutchcharts.nl|language=nl|access-date=1 December 2023}}</ref>}} || 39 || — || — || 37
+|
+* BPI: Platinum<ref name="BPI"/>
+* MC: 2× Platinum<ref name="MC" />
+* RIAA: Platinum<ref>{{cite certification|region=United States|artist=Noah Kahan|title=Northern Attitude (With Hozier)|access-date=5 December 2023}}</ref>
+* RMNZ: Platinum<ref name=":0" />
+| ''[[Stick Season (album)|Stick Season (Forever)]]''
+|-
+! scope="row"| "[[Too Sweet]]"
+| rowspan="3"| 2024
+| 1 || 1 || 15 || 2 || 10 || 9 || 1 || 5 || 1 || 1
+|
+* ARIA: 8× Platinum<ref name=ARIA25s>{{cite certification|region=Australia|type=single|certyear=2025|access-date=4 December 2025}}</ref>
+* BPI: 4× Platinum<ref name="BPI"/>
+* BRMA: Platinum<ref>{{cite certification|region=Belgium|type=single|certyear=2024|access-date=2 October 2026}}</ref>
+* BVMI: Gold<ref name="BVMI"/>
+* IFPI SWI: Platinum<ref name="SWI"/>
+* NVPI: Gold<ref name="NVPI"/>
+* RIAA: 6× Platinum<ref name="RIAA" />
+* RMNZ: 7× Platinum<ref name=":0" />
+| ''Unheard''
+|-
+! scope="row"| "Nobody's Soldier"<ref>{{cite web|url=https://ourculturemag.com/2024/08/16/hozier-releases-new-single-nobodys-soldier/|title= Hozier Releases New Single "Nobody's Soldier"|website= Our Culture Mag|date=16 August 2024|access-date=17 August 2024}}</ref>
+| 44 || — || — || 90 || — || — || —{{efn|group=upper-alpha|"Nobody's Soldier" did not enter the NZ Top 40 Singles Chart, but peaked at number seven on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-09-20|title=NZ Hot Singles Chart|publisher=[[Recorded Music NZ]]|date=26 August 2024|access-date=23 August 2024}}</ref>}} || — || 48 || —{{efn-ua|"Nobody's Soldier" did not enter the ''Billboard'' Hot 100, but peaked at number one on the Bubbling Under Hot 100 chart.<ref name="Bubbling Under Hot 100"/>}}
+|
+| ''Unaired''
+|-
+! scope="row"| "Hymn to Virgil"<ref>{{cite web|url=https://hit-channel.com/hozier-hymn-to-virgil-unreal-unearth-unending/|title= Hozier Drops New Single “Hymn To Virgil” on Unreal Unearth: Unending|website=Hit Channel|date=6 December 2024|access-date=7 December 2024}}</ref>
+| —{{efn|group=upper-alpha|"Hymn to Virgil" did not enter the Irish Singles Chart, but peaked at number five on the Irish Homegrown Top 20 chart.<ref>{{cite web | url=https://www.officialcharts.com/charts/irish-homegrown-chart/20241213/irishart/ | title=Irish Homegrown Top 20 | date=18 December 2024 | work=Official Charts Company | access-date=13 December 2024}}</ref>}} || — || — || — || — || — || — || — || — || — 
+|
+| ''Unreal Unearth: Unending''
+|-
+! scope="row"| "[[The First Time Ever I Saw Your Face]]"<br><small>(with [[Barbra Streisand]])</small>
+| rowspan="2"| 2025
+| — || — || — || — || — || — || — || — || — || —
+|
+| ''[[The Secret of Life: Partners, Volume Two]]''
+|-
+! scope="row"| "Rubber Band Man" <br><small>(with [[Mumford & Sons]])</small><ref>{{Cite web|url=https://www.noise11.com/news/mumford-and-sons-hozier-rubber-band-man-20251025|title= Mumford & Sons and Hozier Unite For Folk Epic "Rubber Band Man"|website=noise11|date=25 October 2025|access-date=25 October 2025}}</ref>
+| 52<br /><ref>{{cite web|url=https://www.irma.ie/index.cfm?page=irish-charts&chart=Singles|title=IRMA – Irish Charts (Week 45, 2025)|publisher=[[Irish Recorded Music Association]]|access-date=15 November 2025}}</ref> || — || — || 78 || — || —{{efn|group=upper-alpha|"Rubber Band Man" did not enter the Netherlands' Single Top 100 but peaked on the Netherlands' Airplay Chart at number 48.<ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=sa&year=2025&date=20251101|title=Netherlands Nationale Airplay Chart - November 1, 2025|publisher=[[Mega Charts]]|date=1 November 2025|accessdate=31 October 2025}}</ref>}} || —{{efn|group=upper-alpha|"Rubber Band Man" did not enter the NZ Top 40 Singles Chart, but peaked at number 13 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-10-31|title=Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=31 October 2025|access-date=31 October 2025}}</ref>}} || — || 64 || —{{efn-ua|"Rubber Band Man" did not enter the ''Billboard'' Hot 100, but peaked at number 20 on the Bubbling Under Hot 100 chart.<ref name="Bubbling Under Hot 100"/>}}
+| 
+| ''Prizefighter''
+|-
+| colspan="22" style="font-size:85%"| "—" denotes a single that did not chart or was not released in that territory.
+|}
+
+===As featured artist===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles as featured artist, with selected peak chart positions and certifications
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2" style="width:10em;"| Certifications
+! scope="col" rowspan="2" style="width:10em;"| Album
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE"/>
+! scope="col" style="width:3em;font-size:85%;"| [[International Federation of the Phonographic Industry|CZR]]<br /><ref>{{cite web|url=https://ifpicr.cz/hitparada/2/meduza/tell-it-to-my-heart-feat-hozier/167853|title=CZ - Radio - Tell It To My Heart (feat. Hozier)|publisher=[[International Federation of the Phonographic Industry|IFPI Czech Republic]]|accessdate=24 January 2024|language=Czech}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[GfK Entertainment|GER]]<br /><ref name="GER"/>
+! scope="col" style="width:3em;font-size:85%;"| [[IFPI Greece|GRE]]<br /><ref>{{cite web|url=https://www.ifpi.gr/digital_iel.html|title=IFPI Charts Digital Singles Chart (International) Week 44 2021|publisher=[[IFPI Greece]]|access-date=26 November 2021|archive-url=https://web.archive.org/web/20211116120838/http://www.ifpi.gr/digital_iel.html|archive-date=November 16, 2021|url-status=dead}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Federazione Industria Musicale Italiana|ITA]]<br /><ref name="Italy">{{cite web|url=https://italiancharts.com/showinterpret.asp?interpret=Hozier|title=italiancharts.com - Discography Hozier|access-date=10 March 2022|publisher=Italian-charts.com|archive-date=2 April 2022|archive-url=https://web.archive.org/web/20220402125348/https://italiancharts.com/showinterpret.asp?interpret=Hozier|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Single Top 100|NLD]]<br /><ref name="NL"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE]]<br /><ref>{{cite web|url=https://www.sverigetopplistan.se/chart/41?dspy=2021&dspp=44|title=Veckolista Singlar, vecka 44|publisher=[[Sverigetopplistan]]|access-date=5 November 2021|archive-date=9 November 2021|archive-url=https://web.archive.org/web/20211109003502/https://www.sverigetopplistan.se/chart/41?dspy=2021&dspp=44|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Global 200|WW]]<br><ref name="Global-200">{{cite magazine|title=Hozier – Chart History - Billboard Global 200|url=https://www.billboard.com/artist/hozier/chart-history/glo/|magazine=Billboard|access-date=9 November 2021|archive-date=18 November 2021|archive-url=https://web.archive.org/web/20211118032052/https://www.billboard.com/artist/hozier/chart-history/glo/|url-status=live}}</ref>
+|-
+! scope="row"| "[[Tell It to My Heart (Meduza song)|Tell It to My Heart]]"<br>{{small|([[Meduza (producers)|Meduza]] featuring Hozier)}}
+| 2021
+| 13 || 16 || 70 || 81 || 70 || 55 || 97 || 65 || 46 || 186
+|
+* BPI: Silver<ref name="BPI"/>
+* [[Federazione Industria Musicale Italiana|FIMI]]: Gold<ref>{{Cite certification|region=Italy||artist=Hozier|access-date=21 June 2022}}</ref>
+* RIAA: Gold<ref name="RIAA"/>
+* RMNZ: Gold<ref name=":0" />
+| {{Non-album single}}
+|}
+
+==Other charted and certified songs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of other charted and certified songs, with selected peak chart positions and certifications
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="10"| Peak chart positions
+! scope="col" rowspan="2"| Certifications
+! scope="col" rowspan="2"| Album/EP
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[Irish Singles Chart|IRL]]<br /><ref name="IRE"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Canadian Hot 100|CAN]]<br /><ref name="CANSongs" />
+! scope="col" style="width:3em;font-size:85%;"| [[AGATA (organization)|LTU]]<br /><ref name="LTU">{{cite web|url=https://www.agata.lt/lt/naujienos/s4-3/|title=2025 4-os savaitės klausomiausi (Top 100)|publisher=[[AGATA (organization)|AGATA]]|language=lt|date=24 January 2025|access-date=27 January 2025}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Dutch Charts|NED<br />Tip.]]<br /><ref>{{cite web|url=https://dutchcharts.nl/weekchart.asp?cat=st&year=2025&date=20250125|title=Netherlands Single Tip Chart – 25/01/2025|publisher=[[Mega Charts]]|date=25 January 2025|access-date=25 January 2025|archive-date=25 January 2025|archive-url=https://web.archive.org/web/20250125181442/https://dutchcharts.nl/weekchart.asp?cat=st&year=2025&date=20250125|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Official New Zealand Music Chart|NZ]]<br /><ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/singles/2025-01-17|title=NZ Top 40 Singles Chart|publisher=[[Recorded Music NZ]]|date=17 January 2025|access-date=17 January 2025}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Sverigetopplistan|SWE<br />Heat.]]<br /><ref>{{cite web|url=https://sverigetopplistan.se/chart/215/?dspy=2025&dspp=4|title=Veckolista Heatseeker, vecka 4|publisher=[[Sverigetopplistan]]|access-date=24 January 2025}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[UK Singles Chart|UK]]<br /><ref name="UK"/>
+! scope="col" style="width:3em;font-size:85%;"| [[Billboard Hot 100|US]]<br /><ref name="US100" />
+! scope="col" style="width:3em;font-size:85%;"| [[Hot Alternative Songs|US<br>Alt]]<br><ref name="Hot-Alt">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/avs/|title=Hozier Chart History – Hot Alternative Songs|magazine=Billboard|access-date=14 February 2025|archive-date=28 March 2023|archive-url=https://web.archive.org/web/20230328170947/https://www.billboard.com/artist/hozier/chart-history/avs/|url-status=live}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[Hot Rock Songs|US<br />Rock]]<br /><ref name="US-Rock">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/ark/|title=Hozier Chart History – Hot Rock Songs chart|magazine=Billboard|access-date=9 April 2025|archive-date=16 February 2021|archive-url=https://web.archive.org/web/20210216060705/https://www.billboard.com/music/hozier/chart-history/ARK/song/821169|url-status=live}}</ref>
+|-
+! scope="row"| "Like Real People Do"
+| rowspan="2"| 2013
+| 69 || — || — || — || —{{efn|group=upper-alpha|"Like Real People Do" did not enter the NZ Top 40 Singles Chart, but a version with added nature sounds peaked at number 32 on the NZ Hot Singles Chart in 2025.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-05-23|title=Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=23 May 2025|access-date=23 May 2025}}</ref>}} || — || — || — || —{{efn|group=upper-alpha|"Like Real People Do" did not enter the Hot Alternative Songs chart, but peaked at number 24 on the Alternative Digital Song Sales Chart.<ref name="Alt-Dig">{{cite magazine|url=https://www.billboard.com/artist/hozier/chart-history/ald/|title=Hozier Chart History – Alternative Digital Song Sales|magazine=Billboard|access-date=27 August 2024|archive-date=24 March 2023|archive-url=https://web.archive.org/web/20230324170318/https://www.billboard.com/artist/hozier/chart-history/ald/|url-status=live}}</ref>}} || 32
+|
+* BPI: Gold<ref name="BPI"/>
+* MC: 3× Platinum<ref name="MC" />
+* RIAA: 2× Platinum<ref name="RIAA" />
+* RMNZ: Platinum<ref name=":0" />
+| rowspan="2"| ''Take Me to Church'' and ''Hozier''
+|-
+! scope="row"| "Angel of Small Death & the Codeine Scene"
+| 34 || — || — || — || — || — || — || — || — || 30
+|
+* BPI: Gold<ref name="BPI"/>
+* MC: Gold<ref name="MC" />
+* RIAA: Platinum<ref name="RIAA" />
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "Arsonist's Lullabye"
+| rowspan="6" | 2014
+| — || — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Arsonist's Lullabye" did not enter the Hot Alternative Songs chart, but peaked at number 10 on the Alternative Digital Song Sales Chart.<ref name="Alt-Dig" />}} || 25
+|
+* BPI: Silver<ref name="BPI"/>
+* RIAA: Gold<ref name="RIAA" />
+* RMNZ: Gold<ref name=":0" />
+| rowspan="2"| ''From Eden'' and ''Hozier''
+|-
+! scope="row"| "To Be Alone"
+| 74 || — || — || — || — || — || — || — || — || 48
+|
+* RIAA: Gold<ref name="RIAA" />
+* MC: Gold<ref name="MC" />
+|-
+! scope="row"| "In a Week" <br/> {{small|(featuring [[Karen Cowley]])}}
+| — || — || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+| rowspan="4"| ''Hozier''
+|-
+! scope="row"| "It Will Come Back"
+| — || — || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| "Foreigner's God"
+| — || — || — || — || — || — || — || — || — || —
+|
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| "[[Do I Wanna Know?]]" <br/> {{small|(live at the BBC)}}
+| 9 || 73 || 79 || 23 || 21 || 17 || 18 || —{{efn-ua|"Do I Wanna Know?" did not enter the ''Billboard'' Hot 100, but peaked at number 6 on the Bubbling Under Hot 100 chart.<ref name="Bubbling Under Hot 100"/>}} || 9 || 13
+|
+* RMNZ: Platinum<ref name=":0" />
+|-
+! scope="row"| "NFWMB"
+| rowspan="3"| 2018
+| 27 || — || — || — || — || — || — || — || — || 34
+|
+| rowspan="2"| ''Nina Cried Power''
+|-
+! scope="row"| "Moment's Silence (Common Tongue)"
+| — || — || — || — || — || — || — || — || —{{efn|group=upper-alpha|"Moment's Silence (Common Tongue)" did not enter the Hot Alternative Songs chart, but peaked at number 24 on the Alternative Digital Song Sales Chart.<ref name="Alt-Dig" />}} || —
+|
+|-
+! scope="row"| "Shrike"
+| 31 || — || — || — || — || — || — || — || — || 30 
+|
+* MC: Platinum<ref name="MC"/>
+* RIAA: Gold<ref name="RIAA" />
+* RMNZ: Gold<ref name=":0" />
+| ''Nina Cried Power'' and ''Wasteland, Baby!''
+|-
+! scope="row"| "No Plan"
+| rowspan="4" | 2019
+| — || — || — || — || — || — || — || — || — || 44
+|
+| rowspan="4" |''Wasteland, Baby!''
+|-
+! scope="row"| "To Noise Making (Sing)"
+| 44 || — || — || — || — || — || — || — || — || 35
+|
+|-
+! scope="row"|"Would That I"
+| — || — || — || — || — || — || — || — || — || —
+|
+* BPI: Gold<ref name="BPI"/>
+* MC: Platinum<ref name="MC"/>
+* RIAA: Platinum<ref name="RIAA" />
+* RMNZ: Gold<ref name=":0" />
+|-
+! scope="row"|"Wasteland, Baby!"
+| — || — || — || — || — || — || — || — || — || —
+|
+* MC: Gold<ref name="MC"/>
+* RIAA: Gold<ref name="RIAA" />
+|-
+! scope="row"| "All Things End"
+| rowspan="13"| 2023
+| 30 || —{{efn|group=upper-alpha|"All Things End" did not enter the Canadian Hot 100, but peaked at number 36 on the [[Canadian Digital Song Sales]] chart.<ref name="Canada-digital" />}} || — || — || —{{efn|group=upper-alpha|"All Things End" did not enter the NZ Top 40 Singles Chart, but peaked at number 13 on the NZ Hot Singles Chart.<ref name="NZ032423">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-03-24|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=27 March 2023|access-date=24 March 2023|archive-date=25 March 2023|archive-url=https://web.archive.org/web/20230325225557/https://nztop40.co.nz/chart/hotsingles?chart=5527|url-status=live}}</ref>}} || — || — || —{{efn|group=upper-alpha|"All Things End" did not enter the ''Billboard'' Hot 100, but peaked at number 35 on the [[Digital Song Sales]] chart.<ref name="US-digital" />}} || 15 || 19
+|
+| rowspan="2"| ''Eat Your Young'' and ''Unreal Unearth''
+|-
+! scope="row"| "Through Me (The Flood)"
+| 40 || —{{efn|group=upper-alpha|"Through Me (The Flood)" did not enter the Canadian Hot 100, but peaked at number 33 on the Digital Song Sales chart.<ref name="Canada-digital" />}} || — || — || —{{efn|group=upper-alpha|"Through Me (The Flood)" did not enter the NZ Top 40 Singles Chart, but peaked at number 18 on the NZ Hot Singles Chart.<ref name="NZ032423" />}} || — || — || —{{efn|group=upper-alpha|"Through Me (The Flood)" did not enter the ''Billboard'' Hot 100, but peaked at number 36 on the Digital Song Sales chart.<ref name="US-digital" />}} || 17 || 22
+|
+|-
+! scope="row"| "De Selby (Part 1)"
+| 34 || — || — || — || —{{efn|group=upper-alpha|"De Selby (Part 1)" did not enter the NZ Top 40 Singles Chart, but peaked at number nine on the NZ Hot Singles Chart.<ref name="NZ092223">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2023-09-22|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=28 August 2023|access-date=26 August 2023|archive-date=2 September 2023|archive-url=https://web.archive.org/web/20230902191232/https://nztop40.co.nz/chart/hotsingles?chart=5647|url-status=live}}</ref>}} || — || — || — || 22 || 28
+|
+| rowspan="11"| ''Unreal Unearth''
+|-
+! scope="row"| "First Time"
+| —{{efn|group=upper-alpha|"First Time" did not enter the Irish Singles Chart, but peaked at number 19 on the Irish Homegrown Top 20 chart.<ref>{{cite web | url=https://www.officialcharts.com/charts/irish-homegrown-chart/20240809/irishart/ | title=Irish Homegrown Top 20 | date=9 August 2024 | work=Official Charts Company | access-date=9 August 2024}}</ref>}} || — || — || — || —{{efn|group=upper-alpha|"First Time" did not enter the NZ Top 40 Singles Chart, but peaked at number 11 on the NZ Hot Singles Chart.<ref name="NZ092223" />}} || — || — || — || 19 || 25
+|
+|-
+! scope="row"| "I, Carrion (Icarian)"
+| — || — || — || — || —{{efn|group=upper-alpha|"I, Carrion (Icarian)" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the NZ Hot Singles Chart.<ref name="NZ092223" />}} || — || — || — || 25 || 31
+|
+|-
+! scope="row"| "Damage Gets Done"<br />{{small|(with [[Brandi Carlile]])}}
+| 67 || — || — || — || —{{efn|group=upper-alpha|"Damage Gets Done" did not enter the NZ Top 40 Singles Chart, but peaked at number six on the NZ Hot Singles Chart.<ref name="NZ092223" />}} || — || 86 || — || 16 || 21
+|
+|-
+! scope="row"| "Who We Are"
+| — || — || — || — || — || — || — || — || — || 32
+|
+|-
+! scope="row"| "Son of Nyx"
+| — || — || — || — || — || — || — || — || — || 41
+|
+|-
+! scope="row"| "To Someone from a Warm Climate (Uiscefhuaraithe)"
+| — || — || — || — || — || — || — || — || — || 45
+|
+|-
+! scope="row"| "Butchered Tongue"
+| — || — || — || — || — || — || — || — || — || 49
+|
+|-
+! scope="row"| "Anything But"
+| — || — || — || — || — || — || — || — || — || 47
+|
+|-
+! scope="row"| "Abstract (Psychopomp)"
+| — || — || — || — || — || — || — || — || — || 42
+|
+|-
+! scope="row"| "First Light"
+| — || — || — || — || — || — || — || — || — || 50
+|
+|-
+! scope="row"| "Be" (Acoustic)<ref>{{cite magazine|url=https://www.rollingstone.com/music/music-news/hozier-wasteland-baby-be-acoustic-1234978947/|magazine=[[Rolling Stone]]|first=Kory|last=Grow|title=Hozier Still Wants You to 'Be As You've Always Been' Only a Little Quieter This Time|date=1 March 2024|accessdate=30 August 2024}}</ref>
+| rowspan="6"| 2024
+| — || — || — || — || —{{efn|group=upper-alpha|"Be" (Acoustic) did not enter the NZ Top 40 Singles Chart, but peaked at number 13 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-03-08|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=11 March 2024|access-date=30 August 2024}}</ref>}} || — || — || — || — || —
+|
+| ''Wasteland, Baby!'' (Special Edition)
+|-
+! scope="row"| "Wildflower and Barley"<br />{{small|(with [[Allison Russell]])}}
+| 35 || 72 || — || — || —{{efn|group=upper-alpha|"Wildflower and Barley" did not enter the NZ Top 40 Singles Chart, but peaked at number 17 on the NZ Hot Singles Chart.<ref name="NZ032924">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-03-29|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=1 April 2024|access-date=29 March 2024}}</ref>}} || — || 86 || 88 || 10 || 11
+|
+| rowspan="3"| ''Unheard''
+|-
+! scope="row"| "Empire Now"
+| 39 || 79 || — || — || —{{efn|group=upper-alpha|"Empire Now" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the NZ Hot Singles Chart.<ref name="NZ032924" />}} || — || 92 || 98 || 13 || 14
+|
+|-
+! scope="row"| "Fare Well"
+| — || — || — || — || —{{efn|group=upper-alpha|"Fare Well" did not enter the NZ Top 40 Singles Chart, but peaked at number 21 on the NZ Hot Singles Chart.<ref name="NZ032924" />}} || — || — || —{{efn-ua|"Fare Well" did not enter the ''Billboard'' Hot 100, but peaked at number eight on the Bubbling Under Hot 100 chart.<ref name="Bubbling Under Hot 100"/>}} || 15 || 19
+|
+|-
+! scope="row"| "July"
+| — || — || — || — || —{{efn|group=upper-alpha|"July" did not enter the NZ Top 40 Singles Chart, but peaked at number 11 on the NZ Hot Singles Chart.<ref name="NZ092024">{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2024-09-20|title=NZ Hot Singles Chart|publisher=Recorded Music NZ|date=26 August 2024|access-date=23 August 2024}}</ref>}} || — || — || — || —{{efn|group=upper-alpha|"July" did not enter the Hot Alternative Songs chart, but peaked at number seven on the Alternative Digital Song Sales Chart.<ref name="Alt-Dig" />}} || 40
+|
+| rowspan="2"| ''Unaired''
+|-
+! scope="row"| "That You Are"<br />{{small|(with [[Bedouine]])}}
+| — || — || — || — || —{{efn|group=upper-alpha|"That You Are" did not enter the NZ Top 40 Singles Chart, but peaked at number 15 on the NZ Hot Singles Chart.<ref name="NZ092024" />}} || — || — || — || —{{efn|group=upper-alpha|"That You Are" did not enter the Hot Alternative Songs chart, but peaked at number nine on the Alternative Digital Song Sales Chart.<ref name="Alt-Dig" />}} || 49
+|
+|-
+! scope="row"| "Bullseye"<br />{{small|(with [[Lucy Dacus]])}}
+| 2025
+| — || — || — || — || —{{efn|group=upper-alpha|"Bullseye" did not enter the NZ Top 40 Singles Chart, but peaked at number 14 on the NZ Hot Singles Chart.<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/hot-singles/2025-05-04|title=NZ Hot 40 Singles|publisher=[[Recorded Music NZ]]|date=4 April 2025|access-date=9 April 2025}}</ref>}} || — || — || — || — || 35
+|
+| ''[[Forever Is a Feeling]]''
+|-
+| colspan="17" style="font-size:85%"| "—" denotes a song that did not chart or was not released in that territory.
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Hozier}}
+
+[[Category:Discographies of Irish artists]]
