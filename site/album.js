@@ -90,6 +90,9 @@ async function load() {
   // ----- header
   document.getElementById("kicker").textContent = `${artist.name} · Studio album · US charts`;
   document.getElementById("album-title").textContent = album.title;
+  const coverEl = document.getElementById("album-cover");
+  if (album.cover) { coverEl.href = album.cover.page; coverEl.innerHTML = `<img src="${esc(album.cover.url)}" alt="${esc(album.title)} cover">`; }
+  else coverEl.remove();
   const usCert = cert(album, "United States");
   document.getElementById("album-sub").innerHTML =
     `Released <b>${fmt(album.release_date)}</b> · ${esc(album.label)} · ${album.tracklist.length} tracks · ${album.singles.length} singles${usCert ? ` · RIAA <b>${esc(usCert)}</b>` : ""}`;
@@ -119,7 +122,11 @@ async function load() {
     const cellsHtml = [["Pop", u.radio.Pop], ["Adult Pop", u.radio["Adult Pop"]], ["AC", u.radio.AC],
       ["Rhythmic", u.radio.Rhythmic], ["Digital #1", u.digital.weeks ? `${u.digital.weeks} wks` : null], ["Stream #1", u.streaming.weeks ? `${u.streaming.weeks} wk${u.streaming.weeks > 1 ? "s" : ""}` : null]]
       .map(([l, v]) => `<div><span>${l}</span>${v ?? "—"}</div>`).join("");
+    const art = song.cover
+      ? `<a class="art" href="${esc(song.cover.page)}" target="_blank" rel="noopener"><img src="${esc(song.cover.url)}" alt="${esc(song.title)} cover" loading="lazy"></a>`
+      : album.cover ? `<div class="art album-art" title="No single cover on Wikipedia, album cover shown"><img src="${esc(album.cover.url)}" alt="" loading="lazy"><span>Album art</span></div>` : "";
     return `<div class="card ${promo ? "promo" : ""}">
+      ${art}
       <div class="ord">${label}</div>
       <div class="ttl">${esc(song.title)}</div>
       <div class="dt">${fmt(date)}${promoDate ? ` · promo ${fmt(promoDate).replace(/, \d{4}$/, "")}` : ""}</div>

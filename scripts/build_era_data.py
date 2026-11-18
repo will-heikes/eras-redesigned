@@ -521,12 +521,22 @@ def original_era(period):
     return not years or min(years) < 2020
 
 
+def cover_of(ib):
+    """Wikipedia file name of the infobox cover, plus a URL that redirects to the image."""
+    name = clean(ib.get("cover", "")).strip()
+    if not name or not re.search(r"\.(png|jpe?g|gif|webp)$", name, re.I):
+        return None
+    return {"file": name, "url": "https://en.wikipedia.org/wiki/Special:FilePath/" + name.replace(" ", "_"),
+            "page": "https://en.wikipedia.org/wiki/File:" + name.replace(" ", "_")}
+
+
 def song_from_page(page, wiki):
     secs = sections(wiki)
     ib = infobox(wiki, "song")
     weekly = chart_tables(chart_section(secs, "weekly charts", "charts"))
     year_end = [{"year": p, "entries": e} for p, e in parse_tables(secs.get("year-end charts", ""))]
     return {
+        "cover": cover_of(ib),
         "release_history": parse_release_history(wiki),
         "first_release": parse_date(ib.get("released", "")),
         "infobox_type": clean(ib.get("type", "")) or None,
@@ -688,6 +698,7 @@ def main(config_path):
         "title": cfg["album"]["title"],
         "artist_id": cfg["artist"]["id"],
         "release_date": parse_date(ib.get("released", "")),
+        "cover": cover_of(ib),
         "label": clean(ib.get("label", "")) or None,
         "genre": clean(ib.get("genre", "")) or None,
         "length": clean(ib.get("length", "")) or None,

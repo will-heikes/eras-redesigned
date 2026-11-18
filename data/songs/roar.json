@@ -24,6 +24,11 @@
     "date": "2013-08-10",
     "source": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
   },
+  "cover": {
+    "file": "Katy Perry - Roar.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_-_Roar.png",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_-_Roar.png"
+  },
   "release_history": [],
   "first_release": "2013-08-10",
   "infobox_type": "single",

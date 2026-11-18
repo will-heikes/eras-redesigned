@@ -25,6 +25,11 @@
     "date": "2013-12-17",
     "source": "https://en.wikipedia.org/wiki/Prism_(Katy_Perry_album)"
   },
+  "cover": {
+    "file": "DarkHorseCover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/DarkHorseCover.png",
+    "page": "https://en.wikipedia.org/wiki/File:DarkHorseCover.png"
+  },
   "release_history": [
     {
       "region": "Various",

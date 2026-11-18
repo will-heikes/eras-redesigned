@@ -30,6 +30,7 @@ data/
 | Field | Meaning |
 | --- | --- |
 | `release_date` | ISO date of the original release |
+| `cover` | Cover art from the infobox: `file` name, `url` (Wikipedia Special:FilePath link, shown on the page) and the file's `page`. Images are linked, not stored in the repo |
 | `tracklist[]` | `track`, `song_id`, `title`, `edition` (`standard` or `deluxe`) |
 | `singles[]` | Official singles in order: `order`, `title`, `date`, `song_id` |
 | `key_peaks` | Best position on the four headline charts: `us` (Billboard 200), `uk`, `can`, `aus` |
@@ -53,6 +54,7 @@ data/
 | `weekly_charts[]` | Each Wikipedia chart table with its `period`. A remix or other version is tagged with `version` and left out of key peaks |
 | `year_end_charts[]`, `certifications[]`, `awards[]` | Same shape as the album |
 | `discography_peaks` | For album tracks without their own article: peaks from the discography's "Other charted songs" table |
+| `cover` | Single cover from the song's infobox, same shape as the album's. Songs without one show the album cover, greyed |
 | `lead` | The article's opening paragraph, for on-screen context |
 
 `null` means Wikipedia does not list that value. For example, Dark Horse has no
