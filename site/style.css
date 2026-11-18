@@ -282,3 +282,10 @@ th.grp { color: var(--ink-2); border-bottom: 1px solid var(--hair); text-align: 
   .edition-switch { display: flex; width: 100%; }
   .edition-switch button { flex: 1; height: auto; min-height: 34px; padding: 6px 8px; font-size: 11px; white-space: normal; }
 }
+
+.rx-songs { margin-top: 28px; }
+.rx-songs h2 { color: var(--rx); }
+.card.track .ttl { color: var(--ink-2); }
+.card.track .big { color: var(--ink-3); }
+.cards { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); background: none; border: 0; gap: 0; }
+.card { box-shadow: inset 0 0 0 0.5px var(--hair); }

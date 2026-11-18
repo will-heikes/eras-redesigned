@@ -160,27 +160,45 @@ async function load() {
 
   renderTimeline(album, items, runFor, us, original ? null : rx);
 
-  document.getElementById("singles").innerHTML = items.map(({ song, date, label, promo, promoDate, reissue }) => {
+  // ----- the songs: every track in album order, reissue additions split out
+  const songCard = (tr) => {
+    const song = byId[tr.song_id];
     const u = us[song.id];
     const riaa = cert(song, "United States");
     const run = runFor(song)[0];
+    const promo = !song.single && song.role === "promotional single";
+    const reissue = tr.edition === "reissue";
     const cellsHtml = [["Pop", u.radio.Pop], ["Adult Pop", u.radio["Adult Pop"]], ["AC", u.radio.AC],
-      ["Rhythmic", u.radio.Rhythmic], ["Digital #1", u.digital.weeks ? `${u.digital.weeks} wks` : null], streamingExists ? ["Stream #1", u.streaming.weeks ? `${u.streaming.weeks} wk${u.streaming.weeks > 1 ? "s" : ""}` : null] : ["Club", u.club]]
+      ["Rhythmic", u.radio.Rhythmic], ["Digital #1", u.digital.weeks ? `${u.digital.weeks} wk${u.digital.weeks > 1 ? "s" : ""}` : null], streamingExists ? ["Stream #1", u.streaming.weeks ? `${u.streaming.weeks} wk${u.streaming.weeks > 1 ? "s" : ""}` : null] : ["Club", u.club]]
       .map(([l, v]) => `<div><span>${l}</span>${v ?? "—"}</div>`).join("");
+    const albumCover = reissue && rx?.cover ? rx.cover : album.cover;
     const art = song.cover
       ? `<a class="art" href="${esc(song.cover.page)}" target="_blank" rel="noopener"><img src="${esc(song.cover.url)}" alt="${esc(song.title)} cover" loading="lazy"></a>`
-      : album.cover ? `<div class="art album-art" title="No single cover on Wikipedia, album cover shown"><img src="${esc(album.cover.url)}" alt="" loading="lazy"><span>Album art</span></div>` : "";
-    const rxLabel = reissue ? ` · <b>${esc(rx.title.replace(full.title + ": ", ""))}</b>` : "";
-    return `<div class="card ${promo ? "promo" : ""} ${reissue ? "reissue" : ""}">
+      : albumCover ? `<div class="art album-art" title="No single cover on Wikipedia, album cover shown"><img src="${esc(albumCover.url)}" alt="" loading="lazy"><span>Album art</span></div>` : "";
+    const role = song.single ? `Single ${song.single.order}` : promo ? "Promo single" : "Album track";
+    const date = song.single ? song.single.date : promo && song.promotional_release < cutoff ? song.promotional_release : null;
+    const promoDate = song.single && song.promotional_release && song.promotional_release < song.single.date ? song.promotional_release : null;
+    const big = u.hot100 ? `#${u.hot100}` : u.bubbling ? `B${u.bubbling}` : "—";
+    return `<div class="card ${song.single ? "" : promo ? "promo" : "track"} ${reissue ? "reissue" : ""}">
       ${art}
-      <div class="ord">${label}${rxLabel}</div>
+      <div class="ord">Track ${tr.track} · ${role}</div>
       <div class="ttl">${esc(song.title)}</div>
-      <div class="dt">${fmt(date)}${promoDate ? ` · promo ${fmt(promoDate).replace(/, \d{4}$/, "")}` : ""}</div>
-      <div class="big">${u.hot100 ? `#${u.hot100}` : "—"}<small>HOT 100</small></div>
+      <div class="dt">${date ? fmt(date) : `On the album ${fmt(reissue ? rx.release_date : album.release_date)}`}${promoDate ? ` · promo ${fmt(promoDate).replace(/, \d{4}$/, "")}` : ""}</div>
+      <div class="big">${big}<small>${u.hot100 || !u.bubbling ? "HOT 100" : "BUBBLING UNDER"}</small></div>
       <div class="mini-peaks">${cellsHtml}</div>
       <div class="cert">${run ? `<b>${run.weeks_in_top_ten}</b> wks top ten · ` : ""}${u.digital.best ? `best sales wk <b>${esc(u.digital.best)}</b> · ` : ""}${riaa ? `RIAA <b>${esc(riaa)}</b>` : "No RIAA cert listed"}</div>
     </div>`;
-  }).join("");
+  };
+  const mainTracks = album.tracklist.filter((tr) => tr.edition !== "reissue");
+  const rxTracks = album.tracklist.filter((tr) => tr.edition === "reissue");
+  document.getElementById("singles").innerHTML = mainTracks.map(songCard).join("");
+  const rxBand = document.getElementById("reissue-songs");
+  rxBand.hidden = !rxTracks.length;
+  if (rxTracks.length) {
+    document.getElementById("reissue-title").textContent = `Added on ${rx.title}`;
+    document.getElementById("reissue-date").textContent = fmt(rx.release_date);
+    document.getElementById("reissue-cards").innerHTML = rxTracks.map(songCard).join("");
+  }
 
   // ----- grid
   const head = `<thead>
