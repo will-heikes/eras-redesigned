@@ -1,12 +1,1479 @@
 {
   "chart": "US Billboard Hot 100",
   "years": [
+    2010,
+    2011,
+    2012,
     2013,
     2014,
     2015
   ],
   "note": "Top-ten entries come from Wikipedia's yearly top-ten lists. Dates are Billboard chart issue dates. weeks_in_top_ten counts all weeks, including any re-entry, so the end of a run is approximate.",
   "top_ten": [
+    {
+      "title": "Replay",
+      "artist": "Iyaz",
+      "entry_date": "2009-11-21",
+      "peak": 2,
+      "peak_date": "2010-01-09",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Need You Now",
+      "artist": "Lady Antebellum",
+      "entry_date": "2009-11-28",
+      "peak": 2,
+      "peak_date": "2010-03-20",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "entry_date": "2009-11-28",
+      "peak": 1,
+      "peak_date": "2010-01-02",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Sexy Bitch",
+      "artist": "David Guetta featuring Akon",
+      "entry_date": "2009-12-05",
+      "peak": 5,
+      "peak_date": "2010-02-13",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Do You Remember",
+      "artist": "Jay Sean featuring Sean Paul and Lil Jon",
+      "entry_date": "2010-01-09",
+      "peak": 10,
+      "peak_date": "2010-01-09",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "BedRock",
+      "artist": "Young Money featuring Lloyd",
+      "entry_date": "2010-01-23",
+      "peak": 2,
+      "peak_date": "2010-03-13",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Blah Blah Blah",
+      "artist": "Kesha featuring 3OH!3",
+      "entry_date": "2010-01-23",
+      "peak": 7,
+      "peak_date": "2010-01-23",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Hard",
+      "artist": "Rihanna featuring Young Jeezy",
+      "entry_date": "2010-01-23",
+      "peak": 8,
+      "peak_date": "2010-01-30",
+      "weeks_in_top_ten": 4,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "entry_date": "2010-01-30",
+      "peak": 3,
+      "peak_date": "2010-04-10",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "How Low",
+      "artist": "Ludacris",
+      "entry_date": "2010-01-30",
+      "peak": 6,
+      "peak_date": "2010-02-13",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Baby",
+      "artist": "Justin Bieber featuring Ludacris",
+      "entry_date": "2010-02-06",
+      "peak": 5,
+      "peak_date": "2010-02-06",
+      "weeks_in_top_ten": 5,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Today Was a Fairytale",
+      "artist": "Taylor Swift",
+      "entry_date": "2010-02-06",
+      "peak": 2,
+      "peak_date": "2010-02-06",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "entry_date": "2010-02-13",
+      "peak": 1,
+      "peak_date": "2010-03-06",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "In My Head",
+      "artist": "Jason Derulo",
+      "entry_date": "2010-02-27",
+      "peak": 5,
+      "peak_date": "2010-04-24",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "We Are the World 25 for Haiti",
+      "artist": "Artists for Haiti",
+      "entry_date": "2010-02-27",
+      "peak": 2,
+      "peak_date": "2010-02-27",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Say Aah",
+      "artist": "Trey Songz featuring Fabolous",
+      "entry_date": "2010-03-06",
+      "peak": 9,
+      "peak_date": "2010-03-13",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "entry_date": "2010-03-13",
+      "peak": 1,
+      "peak_date": "2010-03-27",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz featuring Ludacris",
+      "entry_date": "2010-03-20",
+      "peak": 1,
+      "peak_date": "2010-03-20",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Nothin' on You",
+      "artist": "B.o.B featuring Bruno Mars",
+      "entry_date": "2010-03-27",
+      "peak": 1,
+      "peak_date": "2010-05-01",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Telephone",
+      "artist": "Lady Gaga featuring Beyoncé",
+      "entry_date": "2010-03-27",
+      "peak": 3,
+      "peak_date": "2010-04-03",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "entry_date": "2010-04-24",
+      "peak": 1,
+      "peak_date": "2010-05-15",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Whataya Want from Me",
+      "artist": "Adam Lambert",
+      "entry_date": "2010-05-01",
+      "peak": 10,
+      "peak_date": "2010-05-01",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Your Love Is My Drug",
+      "artist": "Kesha",
+      "entry_date": "2010-05-01",
+      "peak": 4,
+      "peak_date": "2010-06-12",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Airplanes",
+      "artist": "B.o.B featuring Hayley Williams",
+      "entry_date": "2010-05-08",
+      "peak": 2,
+      "peak_date": "2010-06-05",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Young Forever",
+      "artist": "Jay-Z featuring Mr Hudson",
+      "entry_date": "2010-05-15",
+      "peak": 10,
+      "peak_date": "2010-05-15",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "My First Kiss",
+      "artist": "3OH!3 featuring Kesha",
+      "entry_date": "2010-05-22",
+      "peak": 9,
+      "peak_date": "2010-05-22",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Not Afraid",
+      "artist": "Eminem",
+      "entry_date": "2010-05-22",
+      "peak": 1,
+      "peak_date": "2010-05-22",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Alejandro",
+      "artist": "Lady Gaga",
+      "entry_date": "2010-05-29",
+      "peak": 5,
+      "peak_date": "2010-06-26",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "entry_date": "2010-05-29",
+      "peak": 1,
+      "peak_date": "2010-06-19",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Can't Be Tamed",
+      "artist": "Miley Cyrus",
+      "entry_date": "2010-06-05",
+      "peak": 8,
+      "peak_date": "2010-06-05",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Bulletproof",
+      "artist": "La Roux",
+      "entry_date": "2010-06-12",
+      "peak": 8,
+      "peak_date": "2010-06-12",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Billionaire",
+      "artist": "Travie McCoy featuring Bruno Mars",
+      "entry_date": "2010-06-19",
+      "peak": 4,
+      "peak_date": "2010-06-26",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "entry_date": "2010-06-19",
+      "peak": 9,
+      "peak_date": "2010-06-19",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Find Your Love",
+      "artist": "Drake",
+      "entry_date": "2010-06-26",
+      "peak": 5,
+      "peak_date": "2010-07-03",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Cooler Than Me",
+      "artist": "Mike Posner",
+      "entry_date": "2010-07-03",
+      "peak": 6,
+      "peak_date": "2010-07-17",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "entry_date": "2010-07-10",
+      "peak": 1,
+      "peak_date": "2010-07-31",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Ridin' Solo",
+      "artist": "Jason Derulo",
+      "entry_date": "2010-07-10",
+      "peak": 9,
+      "peak_date": "2010-07-17",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Dynamite",
+      "artist": "Taio Cruz",
+      "entry_date": "2010-07-17",
+      "peak": 2,
+      "peak_date": "2010-08-21",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "I Like It",
+      "artist": "Enrique Iglesias featuring Pitbull",
+      "entry_date": "2010-07-24",
+      "peak": 4,
+      "peak_date": "2010-08-28",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "DJ Got Us Fallin' in Love",
+      "artist": "Usher featuring Pitbull",
+      "entry_date": "2010-08-14",
+      "peak": 4,
+      "peak_date": "2010-10-09",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "entry_date": "2010-08-14",
+      "peak": 1,
+      "peak_date": "2010-09-18",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Mine",
+      "artist": "Taylor Swift",
+      "entry_date": "2010-08-21",
+      "peak": 3,
+      "peak_date": "2010-08-21",
+      "weeks_in_top_ten": 5,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "entry_date": "2010-09-04",
+      "peak": 1,
+      "peak_date": "2010-10-02",
+      "weeks_in_top_ten": 22,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Magic",
+      "artist": "B.o.B featuring Rivers Cuomo",
+      "entry_date": "2010-09-04",
+      "peak": 10,
+      "peak_date": "2010-09-04",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Right Above It",
+      "artist": "Lil Wayne featuring Drake",
+      "entry_date": "2010-09-04",
+      "peak": 6,
+      "peak_date": "2010-09-04",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Take It Off",
+      "artist": "Kesha",
+      "entry_date": "2010-09-11",
+      "peak": 8,
+      "peak_date": "2010-09-18",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Just a Dream",
+      "artist": "Nelly",
+      "entry_date": "2010-09-18",
+      "peak": 3,
+      "peak_date": "2010-10-23",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Club Can't Handle Me",
+      "artist": "Flo Rida featuring David Guetta",
+      "entry_date": "2010-09-25",
+      "peak": 9,
+      "peak_date": "2010-09-25",
+      "weeks_in_top_ten": 7,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "entry_date": "2010-10-02",
+      "peak": 1,
+      "peak_date": "2010-10-30",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Only Girl (In the World)",
+      "artist": "Rihanna",
+      "entry_date": "2010-10-02",
+      "peak": 1,
+      "peak_date": "2010-12-04",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Speak Now",
+      "artist": "Taylor Swift",
+      "entry_date": "2010-10-23",
+      "peak": 8,
+      "peak_date": "2010-10-23",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Back to December",
+      "artist": "Taylor Swift",
+      "entry_date": "2010-10-30",
+      "peak": 6,
+      "peak_date": "2010-10-30",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Bottoms Up",
+      "artist": "Trey Songz featuring Nicki Minaj",
+      "entry_date": "2010-10-30",
+      "peak": 6,
+      "peak_date": "2010-11-06",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Raise Your Glass",
+      "artist": "Pink",
+      "entry_date": "2010-11-06",
+      "peak": 1,
+      "peak_date": "2010-12-11",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "We R Who We R",
+      "artist": "Kesha",
+      "entry_date": "2010-11-13",
+      "peak": 1,
+      "peak_date": "2010-11-13",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "entry_date": "2010-11-20",
+      "peak": 1,
+      "peak_date": "2010-12-18",
+      "weeks_in_top_ten": 18,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "What's My Name?",
+      "artist": "Rihanna featuring Drake",
+      "entry_date": "2010-11-20",
+      "peak": 1,
+      "peak_date": "2010-11-20",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Teenage Dream",
+      "artist": "Glee Cast",
+      "entry_date": "2010-11-27",
+      "peak": 8,
+      "peak_date": "2010-11-27",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "Fuck You (Forget You)",
+      "artist": "Cee Lo Green",
+      "entry_date": "2010-12-04",
+      "peak": 2,
+      "peak_date": "2011-03-05",
+      "weeks_in_top_ten": 12,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "entry_date": "2010-12-11",
+      "peak": 1,
+      "peak_date": "2011-01-08",
+      "weeks_in_top_ten": 17,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "The Time (Dirty Bit)",
+      "artist": "The Black Eyed Peas",
+      "entry_date": "2010-12-11",
+      "peak": 4,
+      "peak_date": "2010-12-18",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2010"
+    },
+    {
+      "title": "6 Foot 7 Foot",
+      "artist": "Lil Wayne featuring Cory Gunz",
+      "entry_date": "2011-01-01",
+      "peak": 9,
+      "peak_date": "2011-01-01",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Black and Yellow",
+      "artist": "Wiz Khalifa",
+      "entry_date": "2011-01-08",
+      "peak": 1,
+      "peak_date": "2011-02-19",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Tonight (I'm Fuckin'/Lovin' You)",
+      "artist": "Enrique Iglesias featuring Ludacris and DJ Frank E",
+      "entry_date": "2011-01-08",
+      "peak": 4,
+      "peak_date": "2011-02-05",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Hold It Against Me",
+      "artist": "Britney Spears",
+      "entry_date": "2011-01-29",
+      "peak": 1,
+      "peak_date": "2011-01-29",
+      "weeks_in_top_ten": 5,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Hey Baby (Drop It to the Floor)",
+      "artist": "Pitbull featuring T-Pain",
+      "entry_date": "2011-02-05",
+      "peak": 7,
+      "peak_date": "2011-02-12",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Fuckin' Perfect",
+      "artist": "Pink",
+      "entry_date": "2011-02-12",
+      "peak": 2,
+      "peak_date": "2011-02-12",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Rocketeer",
+      "artist": "Far East Movement featuring Ryan Tedder",
+      "entry_date": "2011-02-12",
+      "peak": 7,
+      "peak_date": "2011-02-19",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "I Need a Doctor",
+      "artist": "Dr. Dre featuring Eminem and Skylar Grey",
+      "entry_date": "2011-02-19",
+      "peak": 4,
+      "peak_date": "2011-03-05",
+      "weeks_in_top_ten": 3,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "entry_date": "2011-02-26",
+      "peak": 1,
+      "peak_date": "2011-02-26",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "S&M",
+      "artist": "Rihanna{{ref|ArtistCredit1|1}}",
+      "entry_date": "2011-02-26",
+      "peak": 1,
+      "peak_date": "2011-04-30",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Never Say Never",
+      "artist": "Justin Bieber featuring Jaden Smith",
+      "entry_date": "2011-03-05",
+      "peak": 8,
+      "peak_date": "2011-03-05",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "entry_date": "2011-03-12",
+      "peak": 1,
+      "peak_date": "2011-04-09",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "On the Floor",
+      "artist": "Jennifer Lopez featuring Pitbull",
+      "entry_date": "2011-03-12",
+      "peak": 3,
+      "peak_date": "2011-05-21",
+      "weeks_in_top_ten": 15,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Blow",
+      "artist": "Kesha",
+      "entry_date": "2011-03-19",
+      "peak": 7,
+      "peak_date": "2011-03-19",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Till the World Ends",
+      "artist": "Britney Spears{{ref|ArtistCredit2|2}}",
+      "entry_date": "2011-03-26",
+      "peak": 3,
+      "peak_date": "2011-05-14",
+      "weeks_in_top_ten": 9,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Down on Me",
+      "artist": "Jeremih featuring 50 Cent",
+      "entry_date": "2011-04-02",
+      "peak": 4,
+      "peak_date": "2011-04-30",
+      "weeks_in_top_ten": 8,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Just Can't Get Enough",
+      "artist": "The Black Eyed Peas",
+      "entry_date": "2011-04-02",
+      "peak": 3,
+      "peak_date": "2011-04-16",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Look at Me Now",
+      "artist": "Chris Brown featuring Lil Wayne and Busta Rhymes",
+      "entry_date": "2011-04-02",
+      "peak": 6,
+      "peak_date": "2011-04-16",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Loser like Me",
+      "artist": "Glee cast",
+      "entry_date": "2011-04-02",
+      "peak": 6,
+      "peak_date": "2011-04-02",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "No Sleep",
+      "artist": "Wiz Khalifa",
+      "entry_date": "2011-04-09",
+      "peak": 6,
+      "peak_date": "2011-04-09",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "entry_date": "2011-04-16",
+      "peak": 1,
+      "peak_date": "2011-05-21",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Judas",
+      "artist": "Lady Gaga",
+      "entry_date": "2011-04-30",
+      "peak": 10,
+      "peak_date": "2011-04-30",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "The Lazy Song",
+      "artist": "Bruno Mars",
+      "entry_date": "2011-05-07",
+      "peak": 4,
+      "peak_date": "2011-06-18",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Give Me Everything",
+      "artist": "Pitbull featuring Ne-Yo, Afrojack and Nayer",
+      "entry_date": "2011-05-21",
+      "peak": 1,
+      "peak_date": "2011-07-09",
+      "weeks_in_top_ten": 17,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Just a Kiss",
+      "artist": "Lady Antebellum",
+      "entry_date": "2011-05-21",
+      "peak": 7,
+      "peak_date": "2011-05-21",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "The Edge of Glory",
+      "artist": "Lady Gaga",
+      "entry_date": "2011-05-28",
+      "peak": 3,
+      "peak_date": "2011-05-28",
+      "weeks_in_top_ten": 11,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "entry_date": "2011-06-04",
+      "peak": 1,
+      "peak_date": "2011-07-16",
+      "weeks_in_top_ten": 29,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "The Show Goes On",
+      "artist": "Lupe Fiasco",
+      "entry_date": "2011-06-04",
+      "peak": 9,
+      "peak_date": "2011-06-04",
+      "weeks_in_top_ten": 3,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "I'm on One",
+      "artist": "DJ Khaled featuring Drake, Rick Ross and Lil Wayne",
+      "entry_date": "2011-06-11",
+      "peak": 10,
+      "peak_date": "2011-06-11",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Dirt Road Anthem",
+      "artist": "Jason Aldean{{ref|ArtistCredit3|3}}",
+      "entry_date": "2011-06-25",
+      "peak": 7,
+      "peak_date": "2011-07-02",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "entry_date": "2011-06-25",
+      "peak": 3,
+      "peak_date": "2011-08-13",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "entry_date": "2011-07-02",
+      "peak": 1,
+      "peak_date": "2011-08-27",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "How to Love",
+      "artist": "Lil Wayne",
+      "entry_date": "2011-07-09",
+      "peak": 5,
+      "peak_date": "2011-08-13",
+      "weeks_in_top_ten": 11,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Moves like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "entry_date": "2011-07-09",
+      "peak": 1,
+      "peak_date": "2011-09-10",
+      "weeks_in_top_ten": 21,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Good Life",
+      "artist": "OneRepublic",
+      "entry_date": "2011-07-16",
+      "peak": 8,
+      "peak_date": "2011-07-23",
+      "weeks_in_top_ten": 7,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Tonight Tonight",
+      "artist": "Hot Chelle Rae",
+      "entry_date": "2011-07-16",
+      "peak": 7,
+      "peak_date": "2011-08-06",
+      "weeks_in_top_ten": 6,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Skyscraper",
+      "artist": "Demi Lovato",
+      "entry_date": "2011-07-30",
+      "peak": 10,
+      "peak_date": "2011-07-30",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Lighters",
+      "artist": "Bad Meets Evil featuring Bruno Mars",
+      "entry_date": "2011-08-06",
+      "peak": 4,
+      "peak_date": "2011-09-10",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "I Wanna Go",
+      "artist": "Britney Spears",
+      "entry_date": "2011-08-13",
+      "peak": 7,
+      "peak_date": "2011-08-20",
+      "weeks_in_top_ten": 4,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Pumped Up Kicks",
+      "artist": "Foster the People",
+      "entry_date": "2011-08-27",
+      "peak": 3,
+      "peak_date": "2011-09-10",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "She Will",
+      "artist": "Lil Wayne featuring Drake",
+      "entry_date": "2011-09-03",
+      "peak": 3,
+      "peak_date": "2011-09-03",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes featuring Adam Levine",
+      "entry_date": "2011-09-10",
+      "peak": 4,
+      "peak_date": "2011-10-15",
+      "weeks_in_top_ten": 15,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Someone like You",
+      "artist": "Adele",
+      "entry_date": "2011-09-17",
+      "peak": 1,
+      "peak_date": "2011-09-17",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "You Make Me Feel…",
+      "artist": "Cobra Starship featuring Sabi",
+      "entry_date": "2011-09-17",
+      "peak": 7,
+      "peak_date": "2011-10-01",
+      "weeks_in_top_ten": 9,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Yoü and I",
+      "artist": "Lady Gaga",
+      "entry_date": "2011-09-17",
+      "peak": 6,
+      "peak_date": "2011-09-17",
+      "weeks_in_top_ten": 5,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Cheers (Drink to That)",
+      "artist": "Rihanna",
+      "entry_date": "2011-09-24",
+      "peak": 7,
+      "peak_date": "2011-10-08",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "entry_date": "2011-10-08",
+      "peak": 1,
+      "peak_date": "2012-01-07",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Strange Clouds",
+      "artist": "B.o.B featuring Lil Wayne",
+      "entry_date": "2011-10-15",
+      "peak": 7,
+      "peak_date": "2011-10-15",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "entry_date": "2011-10-15",
+      "peak": 1,
+      "peak_date": "2011-11-12",
+      "weeks_in_top_ten": 23,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Without You",
+      "artist": "David Guetta featuring Usher",
+      "entry_date": "2011-10-15",
+      "peak": 4,
+      "peak_date": "2011-11-26",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Young, Wild & Free",
+      "artist": "Snoop Dogg and Wiz Khalifa featuring Bruno Mars",
+      "entry_date": "2011-10-29",
+      "peak": 7,
+      "peak_date": "2012-03-17",
+      "weeks_in_top_ten": 6,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Make Me Proud",
+      "artist": "Drake featuring Nicki Minaj",
+      "entry_date": "2011-11-05",
+      "peak": 9,
+      "peak_date": "2011-11-05",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Mr. Know It All",
+      "artist": "Kelly Clarkson",
+      "entry_date": "2011-11-12",
+      "peak": 10,
+      "peak_date": "2011-11-12",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "entry_date": "2011-11-19",
+      "peak": 3,
+      "peak_date": "2012-01-28",
+      "weeks_in_top_ten": 16,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "If This Was a Movie",
+      "artist": "Taylor Swift",
+      "entry_date": "2011-11-26",
+      "peak": 10,
+      "peak_date": "2011-11-26",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "entry_date": "2011-11-26",
+      "peak": 3,
+      "peak_date": "2011-12-10",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Take Care",
+      "artist": "Drake featuring Rihanna",
+      "entry_date": "2011-12-03",
+      "peak": 7,
+      "peak_date": "2012-03-24",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "entry_date": "2011-12-03",
+      "peak": 3,
+      "peak_date": "2012-01-07",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Niggas in Paris",
+      "artist": "Jay-Z and Kanye West",
+      "entry_date": "2011-12-17",
+      "peak": 5,
+      "peak_date": "2012-01-07",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "5 O'Clock",
+      "artist": "T-Pain featuring Wiz Khalifa and Lily Allen",
+      "entry_date": "2011-12-24",
+      "peak": 10,
+      "peak_date": "2011-12-24",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2011"
+    },
+    {
+      "title": "Dance (A$$)",
+      "artist": "Big Sean featuring Nicki Minaj",
+      "entry_date": "2012-01-07",
+      "peak": 10,
+      "peak_date": "2012-01-07",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "entry_date": "2012-01-07",
+      "peak": 1,
+      "peak_date": "2012-02-04",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "I Won't Give Up",
+      "artist": "Jason Mraz",
+      "entry_date": "2012-01-21",
+      "peak": 8,
+      "peak_date": "2012-01-21",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Rack City",
+      "artist": "Tyga",
+      "entry_date": "2012-01-28",
+      "peak": 7,
+      "peak_date": "2012-02-18",
+      "weeks_in_top_ten": 4,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Turn Me On",
+      "artist": "David Guetta featuring Nicki Minaj",
+      "entry_date": "2012-01-28",
+      "peak": 4,
+      "peak_date": "2012-02-04",
+      "weeks_in_top_ten": 10,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Domino",
+      "artist": "Jessie J",
+      "entry_date": "2012-02-04",
+      "peak": 6,
+      "peak_date": "2012-02-18",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "entry_date": "2012-02-04",
+      "peak": 1,
+      "peak_date": "2012-02-18",
+      "weeks_in_top_ten": 16,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Give Me All Your Luvin'",
+      "artist": "Madonna featuring Nicki Minaj and M.I.A.",
+      "entry_date": "2012-02-25",
+      "peak": 10,
+      "peak_date": "2012-02-25",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "entry_date": "2012-02-25",
+      "peak": 3,
+      "peak_date": "2012-03-03",
+      "weeks_in_top_ten": 2,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "entry_date": "2012-02-25",
+      "peak": 1,
+      "peak_date": "2012-03-17",
+      "weeks_in_top_ten": 22,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Part of Me",
+      "artist": "Katy Perry",
+      "entry_date": "2012-03-03",
+      "peak": 1,
+      "peak_date": "2012-03-03",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Starships",
+      "artist": "Nicki Minaj",
+      "entry_date": "2012-03-03",
+      "peak": 5,
+      "peak_date": "2012-04-07",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Turn Up the Music",
+      "artist": "Chris Brown",
+      "entry_date": "2012-03-03",
+      "peak": 10,
+      "peak_date": "2012-03-03",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Glad You Came",
+      "artist": "The Wanted",
+      "entry_date": "2012-03-10",
+      "peak": 3,
+      "peak_date": "2012-03-31",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "entry_date": "2012-03-17",
+      "peak": 1,
+      "peak_date": "2012-04-28",
+      "weeks_in_top_ten": 24,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Wild Ones",
+      "artist": "Flo Rida featuring Sia",
+      "entry_date": "2012-03-31",
+      "peak": 5,
+      "peak_date": "2012-05-19",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Boyfriend",
+      "artist": "Justin Bieber",
+      "entry_date": "2012-04-14",
+      "peak": 2,
+      "peak_date": "2012-04-14",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "entry_date": "2012-04-14",
+      "peak": 1,
+      "peak_date": "2012-06-23",
+      "weeks_in_top_ten": 23,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "What Makes You Beautiful",
+      "artist": "One Direction",
+      "entry_date": "2012-04-14",
+      "peak": 4,
+      "peak_date": "2012-04-21",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Payphone",
+      "artist": "Maroon 5 featuring Wiz Khalifa",
+      "entry_date": "2012-05-05",
+      "peak": 2,
+      "peak_date": "2012-05-26",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Drive By",
+      "artist": "Train",
+      "entry_date": "2012-05-26",
+      "peak": 10,
+      "peak_date": "2012-05-26",
+      "weeks_in_top_ten": 2,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
     {
       "title": "Home",
       "artist": "Phillip Phillips",
@@ -18,6 +1485,212 @@
       "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
     },
     {
+      "title": "Where Have You Been",
+      "artist": "Rihanna",
+      "entry_date": "2012-06-16",
+      "peak": 5,
+      "peak_date": "2012-07-07",
+      "weeks_in_top_ten": 11,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Wide Awake",
+      "artist": "Katy Perry",
+      "entry_date": "2012-06-23",
+      "peak": 2,
+      "peak_date": "2012-08-11",
+      "weeks_in_top_ten": 13,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Lights",
+      "artist": "Ellie Goulding",
+      "entry_date": "2012-07-07",
+      "peak": 2,
+      "peak_date": "2012-08-18",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Scream",
+      "artist": "Usher",
+      "entry_date": "2012-07-07",
+      "peak": 9,
+      "peak_date": "2012-08-04",
+      "weeks_in_top_ten": 6,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Titanium",
+      "artist": "David Guetta featuring Sia",
+      "entry_date": "2012-07-14",
+      "peak": 7,
+      "peak_date": "2012-07-21",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Blow Me (One Last Kiss)",
+      "artist": "Pink",
+      "entry_date": "2012-07-28",
+      "peak": 5,
+      "peak_date": "2012-09-29",
+      "weeks_in_top_ten": 11,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "entry_date": "2012-07-28",
+      "peak": 1,
+      "peak_date": "2012-08-25",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Some Nights",
+      "artist": "Fun",
+      "entry_date": "2012-08-25",
+      "peak": 3,
+      "peak_date": "2012-09-29",
+      "weeks_in_top_ten": 19,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "As Long as You Love Me",
+      "artist": "Justin Bieber featuring Big Sean",
+      "entry_date": "2012-09-01",
+      "peak": 6,
+      "peak_date": "2012-09-29",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "entry_date": "2012-09-01",
+      "peak": 1,
+      "peak_date": "2012-09-29",
+      "weeks_in_top_ten": 21,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "entry_date": "2012-09-01",
+      "peak": 1,
+      "peak_date": "2012-09-01",
+      "weeks_in_top_ten": 13,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Good Time",
+      "artist": "Owl City and Carly Rae Jepsen",
+      "entry_date": "2012-09-08",
+      "peak": 8,
+      "peak_date": "2012-09-15",
+      "weeks_in_top_ten": 7,
+      "notes": [
+        "re-entered the top ten"
+      ],
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Everybody Talks",
+      "artist": "Neon Trees",
+      "entry_date": "2012-09-15",
+      "peak": 6,
+      "peak_date": "2012-09-15",
+      "weeks_in_top_ten": 3,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Too Close",
+      "artist": "Alex Clare",
+      "entry_date": "2012-09-22",
+      "peak": 7,
+      "peak_date": "2012-10-27",
+      "weeks_in_top_ten": 10,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "entry_date": "2012-10-06",
+      "peak": 2,
+      "peak_date": "2012-10-06",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Begin Again",
+      "artist": "Taylor Swift",
+      "entry_date": "2012-10-13",
+      "peak": 7,
+      "peak_date": "2012-10-13",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "entry_date": "2012-10-20",
+      "peak": 3,
+      "peak_date": "2012-10-20",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Red",
+      "artist": "Taylor Swift",
+      "entry_date": "2012-10-20",
+      "peak": 6,
+      "peak_date": "2012-10-20",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Skyfall",
+      "artist": "Adele",
+      "entry_date": "2012-10-20",
+      "peak": 8,
+      "peak_date": "2012-10-20",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Die Young",
+      "artist": "Kesha",
+      "entry_date": "2012-10-27",
+      "peak": 2,
+      "peak_date": "2012-12-08",
+      "weeks_in_top_ten": 12,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
       "title": "I Knew You Were Trouble",
       "artist": "Taylor Swift",
       "entry_date": "2012-10-27",
@@ -26,6 +1699,66 @@
       "weeks_in_top_ten": 16,
       "notes": null,
       "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2013"
+    },
+    {
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "entry_date": "2012-11-03",
+      "peak": 1,
+      "peak_date": "2012-12-01",
+      "weeks_in_top_ten": 15,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Let Me Love You (Until You Learn to Love Yourself)",
+      "artist": "Ne-Yo",
+      "entry_date": "2012-11-03",
+      "peak": 6,
+      "peak_date": "2012-12-01",
+      "weeks_in_top_ten": 8,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Don't Wake Me Up",
+      "artist": "Chris Brown",
+      "entry_date": "2012-11-10",
+      "peak": 10,
+      "peak_date": "2012-11-10",
+      "weeks_in_top_ten": 1,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "entry_date": "2012-11-10",
+      "peak": 1,
+      "peak_date": "2012-12-22",
+      "weeks_in_top_ten": 20,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "I Cry",
+      "artist": "Flo Rida",
+      "entry_date": "2012-11-24",
+      "peak": 6,
+      "peak_date": "2012-12-22",
+      "weeks_in_top_ten": 9,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
+    },
+    {
+      "title": "Ho Hey",
+      "artist": "The Lumineers",
+      "entry_date": "2012-12-01",
+      "peak": 3,
+      "peak_date": "2012-12-29",
+      "weeks_in_top_ten": 14,
+      "notes": null,
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_top-ten_singles_in_2012"
     },
     {
       "title": "Beauty and a Beat",
@@ -1490,6 +3223,948 @@
   ],
   "number_ones": [
     {
+      "week": "2010-01-02",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-01-09",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-01-16",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-01-23",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-01-30",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-02-06",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-02-13",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-02-20",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-02-27",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-03-06",
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-03-13",
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-03-20",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz featuring Ludacris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-03-27",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-04-03",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-04-10",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-04-17",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-04-24",
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-05-01",
+      "title": "Nothin' on You",
+      "artist": "B.o.B featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-05-08",
+      "title": "Nothin' on You",
+      "artist": "B.o.B featuring Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-05-15",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-05-22",
+      "title": "Not Afraid",
+      "artist": "Eminem",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-05-29",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-06-05",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-06-12",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-06-19",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-06-26",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-07-03",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-07-10",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-07-17",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-07-24",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-07-31",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-08-07",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-08-14",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-08-21",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-08-28",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-09-04",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-09-11",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-09-18",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-09-25",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-10-02",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-10-09",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-10-16",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-10-23",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-10-30",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-11-06",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-11-13",
+      "title": "We R Who We R",
+      "artist": "Kesha",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-11-20",
+      "title": "What's My Name?",
+      "artist": "Rihanna featuring Drake",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-11-27",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-12-04",
+      "title": "Only Girl (In the World)",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-12-11",
+      "title": "Raise Your Glass",
+      "artist": "Pink",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-12-18",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2010-12-25",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2010"
+    },
+    {
+      "week": "2011-01-01",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-01-08",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-01-15",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-01-22",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-01-29",
+      "title": "Hold It Against Me",
+      "artist": "Britney Spears",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-02-05",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-02-12",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-02-19",
+      "title": "Black and Yellow",
+      "artist": "Wiz Khalifa",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-02-26",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-03-05",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-03-12",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-03-19",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-03-26",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-04-02",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-04-09",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-04-16",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-04-23",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-04-30",
+      "title": "S&M",
+      "artist": "Rihanna featuring Britney Spears",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-05-07",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-05-14",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-05-21",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-05-28",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-06-04",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-06-11",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-06-18",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-06-25",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-07-02",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-07-09",
+      "title": "Give Me Everything",
+      "artist": "Pitbull featuring Ne-Yo, Afrojack and Nayer",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-07-16",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-07-23",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-07-30",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-08-06",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-08-13",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-08-20",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-08-27",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-09-03",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-09-10",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-09-17",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-09-24",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-10-01",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-10-08",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-10-15",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-10-22",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-10-29",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-11-05",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-11-12",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-11-19",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-11-26",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-12-03",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-12-10",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-12-17",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-12-24",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2011-12-31",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2011"
+    },
+    {
+      "week": "2012-01-07",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-01-14",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-01-21",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-01-28",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-02-04",
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-02-11",
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-02-18",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-02-25",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-03-03",
+      "title": "Part of Me",
+      "artist": "Katy Perry",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-03-10",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-03-17",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-03-24",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-03-31",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-04-07",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-04-14",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-04-21",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-04-28",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-05-05",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-05-12",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-05-19",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-05-26",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-06-02",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-06-09",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-06-16",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-06-23",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-06-30",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-07-07",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-07-14",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-07-21",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-07-28",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-08-04",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-08-11",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-08-18",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-08-25",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-09-01",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-09-08",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-09-15",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-09-22",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-09-29",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-10-06",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-10-13",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-10-20",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-10-27",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-11-03",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-11-10",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-11-17",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-11-24",
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-12-01",
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-12-08",
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-12-15",
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-12-22",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
+      "week": "2012-12-29",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "source": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2012"
+    },
+    {
       "week": "2013-01-05",
       "title": "Locked Out of Heaven",
       "artist": "Bruno Mars",
@@ -2427,6 +5102,1105 @@
     }
   ],
   "digital_number_ones": [
+    {
+      "week": "2010-01-02",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "221,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-01-09",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "610,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-01-16",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "394,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-01-23",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "252,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-01-30",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "244,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-02-06",
+      "title": "Today Was a Fairytale",
+      "artist": "Taylor Swift",
+      "weekly_sales": "325,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-02-13",
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "weekly_sales": "200,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-02-20",
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "weekly_sales": "236,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-02-27",
+      "title": "We Are the World 25 for Haiti",
+      "artist": "Artists for Haiti",
+      "weekly_sales": "267,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-03-06",
+      "title": "We Are the World 25 for Haiti",
+      "artist": "Artists for Haiti",
+      "weekly_sales": "208,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-03-13",
+      "title": "Imma Be",
+      "artist": "The Black Eyed Peas",
+      "weekly_sales": "187,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-03-20",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz featuring Ludacris",
+      "weekly_sales": "273,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-03-27",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz featuring Ludacris",
+      "weekly_sales": "202,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-04-03",
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz featuring Ludacris",
+      "weekly_sales": "176,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-04-10",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "weekly_sales": "182,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-04-17",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "weekly_sales": "219,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-04-24",
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "weekly_sales": "204,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-05-01",
+      "title": "Nothin' on You",
+      "artist": "B.o.B featuring Bruno Mars",
+      "weekly_sales": "184,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-05-08",
+      "title": "Nothin' on You",
+      "artist": "B.o.B featuring Bruno Mars",
+      "weekly_sales": "179,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-05-15",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "weekly_sales": "217,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-05-22",
+      "title": "Not Afraid",
+      "artist": "Eminem",
+      "weekly_sales": "380,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-05-29",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "weekly_sales": "294,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-06-05",
+      "title": "OMG",
+      "artist": "Usher featuring will.i.am",
+      "weekly_sales": "236,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-06-12",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "weekly_sales": "269,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-06-19",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "weekly_sales": "318,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-06-26",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "weekly_sales": "359,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-07-03",
+      "title": "California Gurls",
+      "artist": "Katy Perry featuring Snoop Dogg",
+      "weekly_sales": "337,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-07-10",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "338,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-07-17",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "280,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-07-24",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "314,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-07-31",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "352,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-08-07",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "332,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-08-14",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "300,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-08-21",
+      "title": "Mine",
+      "artist": "Taylor Swift",
+      "weekly_sales": "297,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-08-28",
+      "title": "Love the Way You Lie",
+      "artist": "Eminem featuring Rihanna",
+      "weekly_sales": "254,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-09-04",
+      "title": "Right Above It",
+      "artist": "Lil Wayne featuring Drake",
+      "weekly_sales": "225,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-09-11",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "weekly_sales": "259,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-09-18",
+      "title": "Teenage Dream",
+      "artist": "Katy Perry",
+      "weekly_sales": "221,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-09-25",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "weekly_sales": "209,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-10-02",
+      "title": "Only Girl (In the World)",
+      "artist": "Rihanna",
+      "weekly_sales": "249,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-10-09",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "weekly_sales": "188,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-10-16",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "weekly_sales": "216,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-10-23",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "weekly_sales": "221,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-10-30",
+      "title": "Back to December",
+      "artist": "Taylor Swift",
+      "weekly_sales": "241,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-11-06",
+      "title": "Like a G6",
+      "artist": "Far East Movement featuring The Cataracs and Dev",
+      "weekly_sales": "204,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-11-13",
+      "title": "We R Who We R",
+      "artist": "Kesha",
+      "weekly_sales": "280,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-11-20",
+      "title": "What's My Name?",
+      "artist": "Rihanna featuring Drake",
+      "weekly_sales": "235,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-11-27",
+      "title": "Teenage Dream",
+      "artist": "Glee Cast",
+      "weekly_sales": "214,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-12-04",
+      "title": "Forget You",
+      "artist": "Glee Cast featuring Gwyneth Paltrow",
+      "weekly_sales": "192,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-12-11",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "weekly_sales": "232,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-12-18",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "weekly_sales": "212,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2010-12-25",
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "weekly_sales": "201,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2010_(U.S.)"
+    },
+    {
+      "week": "2011-01-01",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weekly_sales": "212,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-01-08",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weekly_sales": "559,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-01-15",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weekly_sales": "425,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-01-22",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weekly_sales": "275,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-01-29",
+      "title": "Hold It Against Me",
+      "artist": "Britney Spears",
+      "weekly_sales": "411,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-02-05",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "weekly_sales": "204,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-02-12",
+      "title": "Fuckin' Perfect",
+      "artist": "Pink",
+      "weekly_sales": "241,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-02-19",
+      "title": "I Need a Doctor",
+      "artist": "Dr. Dre featuring Eminem and Skylar Grey",
+      "weekly_sales": "226,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-02-26",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "weekly_sales": "448,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-03-05",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "weekly_sales": "509,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-03-12",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "weekly_sales": "286,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-03-19",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "weekly_sales": "231,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-03-26",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "216,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-04-02",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "261,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-04-09",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "254,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-04-16",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "327,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-04-23",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "323,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-04-30",
+      "title": "S&M",
+      "artist": "Rihanna featuring Britney Spears",
+      "weekly_sales": "293,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-05-07",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "344,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-05-14",
+      "title": "E.T.",
+      "artist": "Katy Perry featuring Kanye West",
+      "weekly_sales": "300,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-05-21",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "294,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-05-28",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "353,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-06-04",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "297,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-06-11",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "254,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-06-18",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "244,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-06-25",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "weekly_sales": "224,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-07-02",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "weekly_sales": "235,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-07-09",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "weekly_sales": "226,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-07-16",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "258,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-07-23",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "236,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-07-30",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "215,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-08-06",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "209,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-08-13",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "202,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-08-20",
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO featuring Lauren Bennett and GoonRock",
+      "weekly_sales": "185,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-08-27",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "weekly_sales": "219,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-09-03",
+      "title": "She Will",
+      "artist": "Lil Wayne featuring Drake",
+      "weekly_sales": "255,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-09-10",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "weekly_sales": "217,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-09-16",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "weekly_sales": "275,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-09-24",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "weekly_sales": "220,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-10-01",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "weekly_sales": "221,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-10-08",
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 featuring Christina Aguilera",
+      "weekly_sales": "233,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-10-15",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "weekly_sales": "222,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-10-22",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "weekly_sales": "218,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-10-29",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "weekly_sales": "207,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-11-05",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "weekly_sales": "231,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-11-12",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "weekly_sales": "243,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-11-19",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "weekly_sales": "236,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-11-26",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "weekly_sales": "227,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-12-03",
+      "title": "We Found Love",
+      "artist": "Rihanna featuring Calvin Harris",
+      "weekly_sales": "211,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-12-10",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "weekly_sales": "226,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-12-17",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "weekly_sales": "166,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-12-24",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "weekly_sales": "149,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2011-12-31",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "weekly_sales": "152,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2011_(U.S.)"
+    },
+    {
+      "week": "2012-01-07",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "weekly_sales": "395,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-01-14",
+      "title": "Sexy and I Know It",
+      "artist": "LMFAO",
+      "weekly_sales": "417,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-01-21",
+      "title": "I Won't Give Up",
+      "artist": "Jason Mraz",
+      "weekly_sales": "229,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-01-28",
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "weekly_sales": "193,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-02-04",
+      "title": "Turn Me On",
+      "artist": "David Guetta featuring Nicki Minaj",
+      "weekly_sales": "198,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-02-11",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "weekly_sales": "225,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-02-18",
+      "title": "Stronger (What Doesn't Kill You)",
+      "artist": "Kelly Clarkson",
+      "weekly_sales": "237,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-02-25",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "296,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-03-03",
+      "title": "Part of Me",
+      "artist": "Katy Perry",
+      "weekly_sales": "411,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-03-10",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "291,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-03-17",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "302,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-03-24",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "322,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-03-31",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "349,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-04-07",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "387,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-04-14",
+      "title": "Boyfriend",
+      "artist": "Justin Bieber",
+      "weekly_sales": "521,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-04-21",
+      "title": "We Are Young",
+      "artist": "Fun featuring Janelle Monáe",
+      "weekly_sales": "390,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-04-28",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "weekly_sales": "542,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-05-05",
+      "title": "Payphone",
+      "artist": "Maroon 5 featuring Wiz Khalifa",
+      "weekly_sales": "493,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-05-12",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "weekly_sales": "414,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-05-19",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "weekly_sales": "348,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-05-26",
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye featuring Kimbra",
+      "weekly_sales": "321,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-06-02",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "293,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-06-09",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "301,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-06-16",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "284,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-06-23",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "296,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-06-30",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "292,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-07-07",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "263,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-07-14",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "251,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-07-21",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "weekly_sales": "244,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-07-28",
+      "title": "Wide Awake",
+      "artist": "Katy Perry",
+      "weekly_sales": "205,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-08-04",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "weekly_sales": "211,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-08-11",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "weekly_sales": "237,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-08-18",
+      "title": "Home",
+      "artist": "Phillip Phillips",
+      "weekly_sales": "228,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-08-25",
+      "title": "Whistle",
+      "artist": "Flo Rida",
+      "weekly_sales": "217,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-09-01",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weekly_sales": "623,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-09-08",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weekly_sales": "307,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-09-15",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weekly_sales": "253,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-09-22",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weekly_sales": "284,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-09-29",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "weekly_sales": "226,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-10-06",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "301,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-10-13",
+      "title": "Begin Again",
+      "artist": "Taylor Swift",
+      "weekly_sales": "299,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-10-20",
+      "title": "Live While We're Young",
+      "artist": "One Direction",
+      "weekly_sales": "341,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-10-27",
+      "title": "I Knew You Were Trouble",
+      "artist": "Taylor Swift",
+      "weekly_sales": "416,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-11-03",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "229,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-11-10",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "255,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-11-17",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "226,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-11-24",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "187,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-12-01",
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "weekly_sales": "171,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-12-08",
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "weekly_sales": "229,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-12-15",
+      "title": "Scream & Shout",
+      "artist": "will.i.am featuring Britney Spears",
+      "weekly_sales": "196,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-12-22",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "weekly_sales": "197,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
+    {
+      "week": "2012-12-29",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "weekly_sales": "222,000",
+      "source": "https://en.wikipedia.org/wiki/List_of_number-one_digital_songs_of_2012_(U.S.)"
+    },
     {
       "week": "2013-01-05",
       "title": "Locked Out of Heaven",

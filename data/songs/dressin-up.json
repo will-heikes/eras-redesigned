@@ -1,0 +1,78 @@
+{
+  "id": "dressin-up",
+  "title": "Dressin' Up",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 16,
+  "edition": "reissue",
+  "featuring": null,
+  "length": "3:43",
+  "writers": [
+    "Perry",
+    "Stewart",
+    "Neuble",
+    "Matt Thiessen"
+  ],
+  "producers": [
+    "Stewart",
+    "Harrell{{ref|a|[a]}}"
+  ],
+  "single": null,
+  "cover": null,
+  "release_history": [],
+  "first_release": "2012-03-23",
+  "infobox_type": null,
+  "genre": [
+    "{{flatlist",
+    "Dance-rock",
+    "[[Electro (music)",
+    "electro]] }}"
+  ],
+  "lead": "\"Dressin' Up\" is a song by American singer Katy Perry from Teenage Dream: The Complete Confection (2012), the reissue of her third studio album, Teenage Dream (2010). It was written by Perry, Christopher \"Tricky\" Stewart, Monte Neuble, and Matt Thiessen, and produced by Stewart with vocals production from Kuk Harrell. The song was recorded in The Boom Boom Room, based in Burbank, California. Musically, \"Dressin' Up\" incorporates the styles of electro and dance-rock, along with a prominent electronic dance production.",
+  "key_peaks_original_era": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2012",
+      "entries": [
+        {
+          "chart": "UK Singles (Official Charts Company)",
+          "position": 109
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": null,
+    "AUT": null,
+    "CAN": null,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": null,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": 109
+  },
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dressin'_Up",
+    "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-18"
+}

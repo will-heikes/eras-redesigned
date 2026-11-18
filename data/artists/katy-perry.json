@@ -3,6 +3,11 @@
   "name": "Katy Perry",
   "albums": [
     {
+      "album_id": "teenage-dream",
+      "title": "Teenage Dream",
+      "release_date": "2010-08-24"
+    },
+    {
       "album_id": "prism",
       "title": "Prism",
       "release_date": "2013-10-18"

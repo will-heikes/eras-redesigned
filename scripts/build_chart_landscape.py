@@ -85,6 +85,9 @@ def number_ones(year):
         for row in wikitable_rows(body):
             hdr = [i for i, (r, h) in enumerate(row) if h and "scope" in r and "row" in r]
             if not hdr:
+                # older pages use a plain cell for the issue date
+                hdr = [i for i, c in enumerate(row) if month_day(cell_value(c[0]), year)][:1]
+            if not hdr:
                 continue
             i = hdr[0]
             week = month_day(cell_value(row[i][0]), year)

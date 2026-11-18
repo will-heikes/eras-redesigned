@@ -1,0 +1,400 @@
+{
+  "id": "wide-awake",
+  "title": "Wide Awake",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 15,
+  "edition": "reissue",
+  "featuring": null,
+  "length": "3:41",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "McKee",
+    "Henry Walter"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Cirkut"
+  ],
+  "single": {
+    "order": 8,
+    "date": "2012-05-22",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream:_The_Complete_Confection",
+    "edition": "reissue",
+    "reissue_order": 2
+  },
+  "cover": {
+    "file": "Katy Perry - Wide Awake single cover.jpg",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_-_Wide_Awake_single_cover.jpg",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_-_Wide_Awake_single_cover.jpg"
+  },
+  "release_history": [
+    {
+      "region": "United States",
+      "date": "2012-05-22",
+      "format": "Contemporary hit radio",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2012-06-08",
+      "format": "Radio airplay",
+      "label": "EMI"
+    }
+  ],
+  "first_release": "2012-05-22",
+  "infobox_type": "single",
+  "genre": [
+    "Dance-pop"
+  ],
+  "lead": "\"Wide Awake\" is a song by American singer-songwriter Katy Perry from Teenage Dream: The Complete Confection (2012), the reissue of her third studio album, Teenage Dream (2010). She co-wrote the song with Max Martin and Bonnie McKee, alongside its producers Dr. Luke and Cirkut. The song was recorded at NightBird Studios, based in West Hollywood, California. It was specifically written for Perry's autobiographical film Katy Perry: Part of Me (2012). Capitol Records released the song onto radio stations on May 22, 2012. The track is a power ballad styled in dance-pop, and features lyrics about the reality of a break up and moving forward.",
+  "key_peaks_original_era": {
+    "us": 2,
+    "uk": 9,
+    "can": 1,
+    "aus": 4
+  },
+  "key_peaks_all_time": {
+    "us": 2,
+    "uk": 9,
+    "can": 1,
+    "aus": 4
+  },
+  "weekly_charts": [
+    {
+      "period": "2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 4
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 28
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 25
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 48
+        },
+        {
+          "chart": "Brazil (Billboard Brasil Hot 100)",
+          "position": 17
+        },
+        {
+          "chart": "Brazil Hot Pop Songs",
+          "position": 3
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "Canada AC (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Canada CHR/Top 40 (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Canada Hot AC (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 26
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 24
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 33
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 39
+        },
+        {
+          "chart": "Honduras (Honduras Top 50)",
+          "position": 9
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 5
+        },
+        {
+          "chart": "Hungary (Single Top 40)",
+          "position": 4
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 6
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 11
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 79
+        },
+        {
+          "chart": "Lebanon (Lebanese Top 20)",
+          "position": 4
+        },
+        {
+          "chart": "Mexico (Billboard Mexican Airplay)",
+          "position": 4
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 41
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 6
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 13
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 21
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 9
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 52
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 2
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Billboardlatinsongs",
+          "position": 45
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 21
+        },
+        {
+          "chart": "Venezuela Pop Rock General (Record Report)",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "period": "2024",
+      "entries": [
+        {
+          "chart": "Indonesia (Billboard)",
+          "position": 23
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 35
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 28
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 16
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 64
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 77
+        },
+        {
+          "chart": "New Zealand (RIANZ)",
+          "position": 21
+        },
+        {
+          "chart": "Spain (Los 40 Principales)",
+          "position": 15
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 68
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 15
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 17
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 9
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 15
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 16
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "entries": [
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 18
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "7× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "6× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "Platinum",
+      "units_reported": "4,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Platinum",
+      "cert_year": 2014,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "2× Platinum",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Platinum",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "5× Platinum",
+      "cert_year": 2018,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2012,
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wide_Awake_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

@@ -1,0 +1,645 @@
+{{short description|None}}
+
+{{more footnotes|date=August 2011}}
+{{multiple image
+| footer    = [[Gotye]], [[Nicki Minaj]] and [[Phillip Phillips]] (''pictured in order'') [[Gotye]]'s "[[Somebody That I Used to Know]]" was number-one single for 8 weeks and the longest-running top-ten single of the year, spending twenty-four weeks in the tier. Rapper [[Nicki Minaj]] garnered five top-ten singles during the year. [[Phillip Phillips]]'s "[[Home (Phillip Phillips song)|Home]]" became the first song to enter the top ten in separate chart runs in a single calendar year when it re-entered on the weeks ending August 18, 2012 and December 8, 2012. 
+| image1    = Gotye, 2012.jpg
+| alt1      = 
+| width1     = {{#expr: (120 * 593 / 626) round 0}}
+| image2    = Nicki Minaj 3, 2012.jpg
+| alt2      = 
+| width2     = {{#expr: (120 * 1000 / 1500 ) round 0}}
+| image3    = Phillip Phillips at the American Idols Live! Tour 2012 at Seattle Center's Key Arena, July 2012.jpg
+| alt3      = 
+| width3     = {{#expr: (120 * 380 / 564 ) round 0}}
+}}
+
+This is a list of singles that charted in the top ten of the [[Billboard Hot 100|''Billboard'' Hot 100]], an all-genre singles chart, in 2012.
+
+Sixty-two singles charted in the top ten during the year. Fifty acts scored a top-ten hit, with seventeen achieving their first hits as lead or featured artists. Rapper [[Nicki Minaj]] garnered five top-ten singles during the year, the most of any artist, while [[Gotye]]'s "[[Somebody That I Used to Know]]" was the longest-running top-ten single of the year, spending twenty-four weeks in the tier.
+
+Following her death on February 11, 2012, singer [[Whitney Houston]] placed three re-entries in the top fifty of the Hot 100 on the week ending February 25, 2012, led by "[[I Will Always Love You (Whitney Houston song)|I Will Always Love You]]" at number seven.<ref name="feb252012">{{Cite magazine|url=http://www.billboard.com/articles/news/505143/whitney-houston-returns-to-hot-100s-top-10-with-i-will-always-love-you|magazine=Billboard|title=Whitney Houston Returns to Hot 100's Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-02-15|accessdate=2012-02-15}}</ref> Such re-entries of catalog songs are rare as [[Billboard (magazine)|''Billboard'']] maintains a policy deeming songs ineligible to chart due to moving to the recurrent list after twenty weeks if ranking below number fifty.<ref name="feb252012" /> After Houston's death, however, an adjustment in this policy allowed catalog songs to re-enter the chart's upper half if sales and airplay activity merit inclusion, as was the case with "I Will Always Love You", which surged after the singer's death in digital sales by 6,723% and in airplay by 915% from the previous week.<ref name="feb252012" />
+
+[[Phillip Phillips]]'s "[[Home (Phillip Phillips song)|Home]]" became the first song to enter the top ten in separate chart runs in a single calendar year when it re-entered on the weeks ending August 18, 2012 and December 8, 2012 .<ref name="askbbaug182012">{{Cite magazine|url=http://www.billboard.com/articles/chartbeat/480451/ask-billboard-phillip-phillips-goes-home-to-hot-100s-top-10|magazine=Billboard|title=Ask Billboard: Phillip Phillips Goes 'Home' To Hot 100's Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-08-14|accessdate=2012-08-14}}</ref> The song debuted at number ten on the week ending June 9, 2012 and spent a sole week in the top ten before falling off the chart three weeks later.<ref name="askbbaug182012" />
+
+==Top-ten singles==
+'''Key'''
+*{{Color box|#99FFFF|{{up-arrow}}|border=silver}} – indicates single's top 10 entry was also its Hot 100 debut
+*{{Color box|#FFFF00|{{dagger}}|border=silver}} – indicates best performing song of the year
+*{{small|(#)}} – 2012 year-end top 10 single position and rank
+*The "weeks in top ten" column reflects each song's entire chart life, not just its run during 2012. (''Exception'': Please see the note below regarding  Whitney Houston's one song that recharted in the top ten.)
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles which peaked in 2012
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br/>top ten
+! References
+|-
+! colspan=7|[[List of Billboard Hot 100 top-ten singles in 2011#2012 peaks|Singles from 2011]]
+|-
+| October 8
+| "[[Sexy and I Know It]]"
+| [[LMFAO (group)|LMFAO]]
+| align=center|1
+| January 7
+| align=center|21
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/467216/rihanna-roars-onto-hot-100-as-lmfao-get-sexy-in-top-10|magazine=[[Billboard (magazine)|Billboard]]|title=Rihanna Roars Onto Hot 100 as LMFAO Get 'Sexy' in Top 10|publisher=[[Prometheus Global Media]]|first=Gary|last=Trust|date=2011-09-28|accessdate=2011-12-30}}</ref><ref name="lmfaocharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=lmfao|chart=all}}|magazine=Billboard|title=LMFAO Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="jan72012">{{Cite magazine|url=http://www.billboard.com/articles/news/464631/lmfao-brings-sexy-to-hot-100-summit|magazine=Billboard|title=LMFAO Brings 'Sexy' To Hot 100 Summit|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-12-28|accessdate=2011-12-30}}</ref><ref name="feb252012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-feb-12-2012-songs-luv-madonna-012009756.html|title=Week Ending Feb. 12, 2012. Songs: Luv For Madonna|publisher=[[Yahoo! Inc. (1995–2017)|Yahoo! Inc.]]|first=Paul|last=Grein|date=2012-02-15|accessdate=2012-02-15}}</ref>
+|-
+| October 29
+| bgcolor = #99FFFF | "[[Young, Wild & Free]]" {{up-arrow}}{{ref label|ReEntryC|C}}{{ref label|ReEntryE|E}}{{ref label|ReEntryH|H}}
+| [[Snoop Dogg]] and [[Wiz Khalifa]] featuring [[Bruno Mars]]
+| align=center|7
+| March 17
+| align=center|6
+| align=center|<ref name="floridacharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=flo rida|chart=all}}|magazine=Billboard|title=Flo Rida Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="jan282012">{{Cite magazine|url=http://www.billboard.com/articles/news/511191/rihannas-love-scores-a-perfect-10-atop-hot-100|magazine=Billboard|title=Rihanna's 'Love' Scores A Perfect 10 Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-01-18|accessdate=2012-01-19}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-feb-26-2012-songs-clarkson-sets-012557866.html|title=Week Ending Feb. 26, 2012. Songs: Clarkson Sets "Idol" Record|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-02-29|accessdate=2012-02-29}}</ref>
+|-
+| November 19
+| "[[Good Feeling (song)|Good Feeling]]"{{ref label|ReEntryH|H}}
+| [[Flo Rida]]
+| align=center|3
+| January 28
+| align=center|16
+| {{center|{{Citation needed|date=March 2013}}}}
+|-
+| rowspan=2|December 3
+| bgcolor = #99FFFF | "[[Take Care (song)|Take Care]]" {{up-arrow}}{{ref label|ReEntryI|I}}
+| [[Drake (entertainer)|Drake]] featuring [[Rihanna]]
+| align=center|7
+| March 24
+| align=center|4
+| align=center|<ref name="dec32011">{{Cite magazine|url=http://www.billboard.com/articles/news/464987/rihannas-love-still-leads-hot-100-katy-perry-back-in-top-10|magazine=Billboard|title=Rihanna's 'Love' Still Leads Hot 100, Katy Perry Back in Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-11-23|accessdate=2011-12-30}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=drake|chart=all}}|magazine=Billboard|title=Drake Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-03-15}}</ref><ref name="mar242012">{{Cite magazine|url=http://www.billboard.com/articles/news/501894/funs-we-are-young-remains-atop-revised-hot-100|magazine=Billboard|title=Fun.'s 'We Are Young' Remains Atop Revised Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-03-14|accessdate=2012-03-14}}</ref><ref name="apr72012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-march-25-2012-songs-fun-profit-000617282.html|title=Week Ending March 25, 2012. Songs: For fun. And Profit|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-03-28|accessdate=2012-03-28}}</ref>
+|-
+| "[[The One That Got Away (Katy Perry song)|The One That Got Away]]"
+| [[Katy Perry]]
+| align=center|3
+| January 7
+| align=center|11
+| align=center|<ref name="jan72012" /><ref name="dec32011" /><ref name="katyperrycharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=katy perry|chart=all}}|magazine=Billboard|title=Katy Perry Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-jan-29-2012-songs-super-promotional-015633778.html|title=Week Ending Jan. 29, 2012. Songs: A "Super" Promotional Boost|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-02-01|accessdate=2012-02-01}}</ref>
+|-
+| December 17
+| "[[Niggas in Paris]]"
+| [[Jay-Z]] and [[Kanye West]]
+| align=center|5
+| January 7
+| align=center|8
+| align=center|<ref name="jan72012" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/42234/jay-z-kanye-west-reach-hot-100s-top-10-with-paris-rihanna-still-no-1|magazine=Billboard|title=Jay-Z, Kanye West Reach Hot 100's Top 10 with 'Paris'; Rihanna Still No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-12-07|accessdate=2011-12-30}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=jay-z|chart=all}}|magazine=Billboard|title=Jay-Z Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-jan-22-2012-songs-idol-most-051234802.html|title=Week Ending Jan. 22, 2012. Songs: The Idol With The Most|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-01-26|accessdate=2012-01-26}}</ref>
+|-
+! colspan=7| Singles from 2012
+|-
+| rowspan=2|January 7
+| "[[Dance (A$$)]]"
+| [[Big Sean]] featuring [[Nicki Minaj]]
+| align=center|10
+| January 7
+| align=center|1
+| align=center|<ref name="jan72012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=big sean|chart=all}}|magazine=Billboard|title=Big Sean Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-dec-25-2011-songs-bringing-sexy-235057906.html|title=Week Ending Dec. 25, 2011. Songs: Bringing "Sexy" Back|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2011-12-28|accessdate=2011-12-30}}</ref>
+|-
+| "[[Set Fire to the Rain]]"
+| [[Adele]]
+| align=center|1
+| February 4
+| align=center|14
+| align=center|<ref name="jan72012" /><ref name="apr72012yahoo" /><ref name="adelecharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=adele|chart=all}}|magazine=Billboard|title=Adele Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="feb42012">{{Cite magazine|url=http://www.billboard.com/articles/news/509788/adeles-fire-burns-path-to-hot-100-summit|magazine=Billboard|title=Adele's 'Fire' Burns Path to Hot 100 Summit|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-01-25|accessdate=2012-01-25}}</ref>
+|-
+| January 21
+| bgcolor = #99FFFF | "[[I Won't Give Up]]" {{up-arrow}}
+| [[Jason Mraz]]
+| align=center|8
+| January 21
+| align=center|1
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/513318/rihanna-renews-love-affair-atop-hot-100|magazine=Billboard|title=Rihanna Renews 'Love' Affair Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-01-11|accessdate=2012-01-11}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=jason mraz|chart=all}}|magazine=Billboard|title=Jason Mraz Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-04}}</ref><ref name="jan212012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-jan-8-2012-songs-she-da-013317936.html|title=Week Ending Jan. 8, 2012. Songs: She Da One|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-01-11|accessdate=2012-01-13}}</ref>
+|-
+| rowspan=2|January 28
+| "[[Rack City]]"{{ref label|ReEntryD|D}}
+| [[Tyga]]
+| align=center|7
+| February 18
+| align=center|4
+| align=center|<ref name="feb252012yahoo" /><ref name="jan282012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=tyga|chart=all}}|magazine=Billboard|title=Tyga Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="feb182012">{{Cite magazine|url=http://www.billboard.com/articles/news/506279/kelly-clarkson-drives-stronger-to-hot-100-summit|magazine=Billboard|title=Kelly Clarkson Drives 'Stronger' to Hot 100 Summit|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-02-08|accessdate=2012-02-08}}</ref>
+|-
+| "[[Turn Me On (David Guetta song)|Turn Me On]]"{{ref label|ReEntryH|H}}
+| [[David Guetta]] featuring Nicki Minaj
+| align=center|4
+| February 4
+| align=center|10
+| align=center|<ref name="jan282012" /><ref name="apr72012yahoo" /><ref name="feb42012" /><ref name="davidguettacharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=david guetta|chart=all}}|magazine=Billboard|title=David Guetta Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref>
+|-
+| rowspan=2|February 4
+| "[[Domino (Jessie J song)|Domino]]"
+| [[Jessie J]]
+| align=center|6
+| February 18
+| align=center|3
+| align=center|<ref name="feb42012" /><ref name="feb182012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=jessie j|chart=all}}|magazine=Billboard|title=Jessie J Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="feb182012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-feb-5-2012-songs-madonna-mj-024543065.html|title=Week Ending Feb. 5, 2012. Songs: Madonna & MJ|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-02-08|accessdate=2012-02-08}}</ref>
+|-
+| "[[Stronger (What Doesn't Kill You)]]" {{small|(#7)}}
+| [[Kelly Clarkson]]
+| align=center|1
+| February 18
+| align=center|16
+| align=center|<ref name="feb42012" /><ref name="feb182012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=kelly clarkson|chart=all}}|magazine=Billboard|title=Kelly Clarkson Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-04}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-may-6-2012-songs-payphone-hits-000641914.html|title=Week Ending May 6, 2012. Songs: "Payphone" Hits Paydirt|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-05-09|accessdate=2012-05-12}}</ref>
+|-
+| rowspan=3|February 25
+| "[[Give Me All Your Luvin']]"
+| [[Madonna]] featuring Nicki Minaj and [[M.I.A. (artist)|M.I.A.]]
+| align=center|10
+| February 25
+| align=center|1
+| align=center|<ref name="feb252012" /><ref name="feb252012yahoo" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=madonna|chart=all}}|magazine=Billboard|title=Madonna Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-16}}</ref>
+|-
+| "[[I Will Always Love You]]"{{ref label|ReEntryF|F}}{{small|α}}
+| [[Whitney Houston]]
+| align=center|3
+| March 3
+| align=center|2
+| align=center|<ref name="feb252012" /><ref name="mar32012">{{Cite magazine|url=http://www.billboard.com/articles/news/504485/katy-perrys-part-of-me-debuts-atop-hot-100|magazine=Billboard|title=Katy Perry's 'Part of Me' Debuts Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-02-22|accessdate=2012-02-22}}</ref><ref name="mar32012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-feb-19-2012-songs-women-charge-064735953.html|title=Week Ending Feb. 19, 2012. Songs: Women Take Charge|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-02-23|accessdate=2012-02-23}}</ref>
+|-
+| "[[We Are Young]]" {{small|(#3)}}
+| [[Fun (band)|Fun]] featuring [[Janelle Monáe]]
+| align=center|1
+| March 17
+| align=center|22
+| align=center|<ref name="feb252012" /><ref name="funcharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=fun.|chart=all}}|magazine=Billboard|title=Fun. Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-06-19}}</ref><ref name="mar172012">{{Cite magazine|url=http://www.billboard.com/articles/news/502854/fun-tastic-we-are-young-tops-hot-100|magazine=Billboard|title=Fun.-tastic! 'We Are Young' Tops Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-03-07|accessdate=2012-03-07}}</ref><ref name="jul212012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-april-8-2012-songs-jepsen-digital-001143419.html|title=Week Ending July 8, 2012. Songs: Jepsen's Digital Record|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-07-11|accessdate=2012-07-14}}</ref>
+|-
+| rowspan=3|March 3
+| bgcolor = #99FFFF | "[[Part of Me (Katy Perry song)|Part of Me]]" {{up-arrow}}
+| Katy Perry
+| align=center|1
+| March 3
+| align=center|9
+| align=center|<ref name="katyperrycharthistory" /><ref name="mar32012" /><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-april-15-2012-songs-gotye-beats-220532819.html|title=Week Ending April 15, 2012. Songs: Gotye Beats Bieber|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-04-18|accessdate=2012-04-18}}</ref>
+|-
+| bgcolor = #99FFFF | "[[Starships (song)|Starships]]" {{small|(#9)}} {{up-arrow}}
+| Nicki Minaj
+| align=center|5
+| April 7
+| align=center|21
+| align=center|<ref name="mar32012" /><ref name="jul212012yahoo" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=nicki minaj|chart=all}}|magazine=Billboard|title=Nicki Minaj Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-23}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/498734/fun-notch-fourth-week-atop-hot-100|magazine=Billboard|title=Fun. Notch Fourth Week Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-03-28|accessdate=2012-03-28}}</ref>
+|-
+| bgcolor = #99FFFF | "[[Turn Up the Music (Chris Brown song)|Turn Up the Music]]" {{up-arrow}}
+| [[Chris Brown]]
+| align=center|10
+| March 3
+| align=center|1
+| align=center|<ref name="mar32012" /><ref name="mar32012yahoo" /><ref name="chrisbrowncharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=chris brown|chart=all}}|magazine=Billboard|title=Chris Brown Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-23}}</ref>
+|-
+| March 10
+| "[[Glad You Came]]" {{small|(#6)}}
+| [[The Wanted]]
+| align=center|3
+| March 31
+| align=center|15
+| align=center|<ref name="mar102012">{{Cite magazine|url=http://www.billboard.com/articles/news/502983/kelly-clarkson-returns-to-hot-100-peak-the-wanted-hit-top-10|magazine=Billboard|title=Kelly Clarkson Returns to Hot 100 Peak, The Wanted Hit Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-02-29|accessdate=2012-02-29}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=the wanted|chart=all}}|magazine=Billboard|title=The Wanted Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-06-19}}</ref><ref name="mar312012">{{Cite magazine|url=http://www.billboard.com/articles/news/499406/fun-still-no-1-on-hot-100-flo-rida-enters-top-10|magazine=Billboard|title=Fun. Still No. 1 on Hot 100, Flo Rida Enters Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-03-21|accessdate=2012-03-21}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-june-3-2012-songs-22-24-010434873.html|title=Week Ending June 3, 2012. Songs: 22 By 24|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-06-06|accessdate=2012-06-10}}</ref>
+|-
+| March 17
+|style= "background:#FFFF00" |"[[Somebody That I Used to Know]]" {{dagger}} {{small|(#1)}}
+| [[Gotye]] featuring [[Kimbra]]
+| align=center|1
+| April 28
+| align=center|24
+| align=center|<ref name="mar172012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=gotye|chart=all}}|magazine=Billboard|title=Gotye Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-07-25}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/493385/gotyes-somebody-that-i-used-to-know-roars-to-no-1-on-hot-100|magazine=Billboard|title=Gotye's 'Somebody That I Used to Know' Roars to No. 1 on Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-04-18|accessdate=2012-04-18}}</ref><ref name="aug252012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-aug-12-2012-songs-flo-rida-212614570.html|title=Week Ending Aug. 12, 2012. Songs: Flo Rida Breaks Female Lock|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-08-15|accessdate=2012-08-15}}</ref>
+|-
+| March 31
+| "[[Wild Ones (Flo Rida song)|Wild Ones]]"
+| Flo Rida featuring [[Sia]]
+| align=center|5
+| May 19
+| align=center|14
+| align=center|<ref name="floridacharthistory" /><ref name="mar312012" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/488788/gotyes-hot-100-leader-expands-multi-format-domination|magazine=Billboard|title=Gotye's Hot 100 Leader Expands Multi-Format Domination|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-05-09|accessdate=2012-05-09}}</ref><ref name="jun302012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-june-17-2012-songs-bieber-fever-204604171.html|title=Week Ending June 17, 2012. Songs: Bieber Fever Builds|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-06-20|accessdate=2012-06-20}}</ref>
+|-
+| rowspan=3|April 14
+| bgcolor = #99FFFF | "[[Boyfriend (Justin Bieber song)|Boyfriend]]" {{up-arrow}}
+| [[Justin Bieber]]
+| align=center|2
+| April 14
+| align=center|12
+| align=center|<ref name="jun302012yahoo" /><ref name="apr142012">{{Cite magazine|url=http://www.billboard.com/articles/news/502983/kelly-clarkson-returns-to-hot-100-peak-the-wanted-hit-top-10|magazine=Billboard|title=Justin Bieber's 'Boyfriend' Debuts at No. 2 on Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-04-04|accessdate=2012-04-04}}</ref><ref name="justinbiebercharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=justin bieber|chart=all}}|magazine=Billboard|title=Justin Bieber Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-04-06}}</ref>
+|-
+| "[[Call Me Maybe]]" {{small|(#2)}}
+| [[Carly Rae Jepsen]]
+| align=center|1
+| June 23
+| align=center|23
+| align=center|<ref name="apr142012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=carly rae jepsen|chart=all}}|magazine=Billboard|title=Carly Rae Jepsen Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-04-06}}</ref><ref name="jun232012">{{Cite magazine|url=http://www.billboard.com/articles/news/483316/carly-rae-jepsen-hits-no-1-call-connects-atop-hot-100|magazine=Billboard|title=Carly Rae Jepsen Hits No. 1: 'Call' Connects Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-06-13|accessdate=2012-06-13}}</ref><ref name="sep152012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-sept-2-2012-songs-215603683.html|title=Week Ending Sept. 2, 2012. Songs: Jepsen Tops .fun|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-09-05|accessdate=2012-09-12}}</ref>
+|-
+| "[[What Makes You Beautiful]]" {{small|(#10)}}
+| [[One Direction]]
+| align=center|4
+| April 21
+| align=center|13
+| align=center|<ref name="apr142012" /><ref name="onedirectioncharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=one direction|chart=all}}|magazine=Billboard|title=One Direction Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-07-25}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/496322/hot-100-fun-makes-digital-sales-history-in-sixth-week-at-no-1|magazine=Billboard|title=Hot 100: Fun. Makes Digital Sales History in Sixth Week at No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-04-11|accessdate=2012-04-11}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-june-24-2012-songs-elton-peas-214235458.html|title=Week Ending June 24, 2012. Songs: Elton & The Peas|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-06-27|accessdate=2012-06-28}}</ref>
+|-
+| May 5
+| bgcolor = #99FFFF | "[[Payphone (song)|Payphone]]" {{small|(#4)}} {{up-arrow}}
+| [[Maroon 5]] featuring Wiz Khalifa
+| align=center|2
+| May 26
+| align=center|19
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/490669/maroon-5s-payphone-charges-onto-hot-100|magazine=Billboard|title=Maroon 5's 'Payphone' Charges Onto Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-04-25|accessdate=2012-04-25}}</ref><ref name="maroon5charthistory">{{Cite magazine|url={{BillboardURLbyName|artist=maroon 5|chart=all}} |magazine=Billboard |title=Maroon 5 Album & Song Chart History |publisher=Prometheus Global Media |accessdate=2012-04-26 |url-status=dead |archiveurl=https://web.archive.org/web/20070410174725/http://%7b%7bbillboardurlbyname%7cartist=maroon/ |archivedate=2007-04-10}}</ref><ref name="may262012">{{Cite magazine|url=http://www.billboard.com/articles/news/488416/trains-drive-by-completes-trip-to-hot-100s-top-10|magazine=Billboard|title=Train's 'Drive By' Completes Trip to Hot 100's Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-05-16|accessdate=2012-05-16}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-aug-26-2012-songs-taylor-vs-192400813.html|title=Week Ending Aug. 26, 2012. Songs: Taylor vs. Gaga, Week 2|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-08-29|accessdate=2012-08-29}}</ref>
+|-
+| May 26
+| "[[Drive By (song)|Drive By]]"
+| [[Train (band)|Train]]
+| align=center|10
+| May 26
+| align=center|2
+| align=center|<ref name="may262012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=train|chart=all}}|magazine=Billboard|title=Train Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-05-17}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-may-20-2012-songs-j-lo-025409975.html|title=Week Ending May 20, 2012. Songs: J.Lo's Song Sputters|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-05-23|accessdate=2012-05-23}}</ref>
+|-
+| June 16
+| "[[Where Have You Been]]"
+| Rihanna
+| align=center|5
+| July 7
+| align=center|11
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/483810/rihanna-scores-22nd-hot-100-top-10-gotye-no-1-for-eighth-week|magazine=Billboard|title=Rihanna Scores 22nd Hot 100 Top 10, Gotye No. 1 for Eighth Week|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-06-06|accessdate=2012-06-06}}</ref><ref name="rihannacharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=rihanna|chart=all}} |magazine=Billboard |title=Rihanna Album & Song Chart History |publisher=Prometheus Global Media |accessdate=2012-01-31 |url-status=dead |archiveurl=https://www.webcitation.org/6421XVwUP?url=http://www.billboard.com/#/song/rihanna/rehab/11472607 |archivedate=2011-12-18 }}</ref><ref name="jul72012">{{Cite magazine|url=http://www.billboard.com/articles/news/482543/usher-ellie-goulding-hit-hot-100s-top-10-carly-rae-jepsen-still-no-1|magazine=Billboard|title=Usher, Ellie Goulding Hit Hot 100's Top 10; Carly Rae Jepsen Still No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-06-27|accessdate=2012-06-27}}</ref><ref name="aug252012yahoo" />
+|-
+| June 23
+| "[[Wide Awake (Katy Perry song)|Wide Awake]]"
+| Katy Perry
+| align=center|2
+| August 11
+| align=center|13
+| align=center|<ref name="katyperrycharthistory" /><ref name="jun232012" /><ref name="sep152012yahoo" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/480666/carly-rae-jepsen-ties-gotye-for-hot-100s-longest-rule-this-year|magazine=Billboard|title=Carly Rae Jepsen Ties Gotye for Hot 100's Longest Rule This Year|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-08-01|accessdate=2012-08-01}}</ref>
+|-
+| rowspan=2|July 7
+| "[[Lights (Ellie Goulding song)|Lights]]" {{small|(#5)}}
+| [[Ellie Goulding]]
+| align=center|2
+| August 18
+| align=center|14
+| align=center|<ref name="jul72012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=ellie goulding|chart=all}}|magazine=Billboard|title=Ellie Goulding Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-06-29}}</ref><ref name="aug182012">{{Cite magazine|url=http://www.billboard.com/articles/news/480541/carly-rae-jepsen-claims-longest-hot-100-no-1-run-of-2012|magazine=Billboard|title=Carly Rae Jepsen Claims Longest Hot 100 No. 1 Run of 2012|publisher=Prometheus Global Media|first=Silvio|last=Pietroluongo|date=2012-08-08|accessdate=2012-08-08}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-sept-23-2012-songs-song-sweeping-015634675.html|title=Week Ending Sept. 23, 2012. Songs: The Song That Is Sweeping The Globe|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-09-26|accessdate=2012-09-26}}</ref>
+|-
+| "[[Scream (Usher song)|Scream]]"
+| [[Usher (musician)|Usher]]
+| align=center|9
+| August 4
+| align=center|6
+| align=center|<ref name="jul72012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=usher|chart=all}}|magazine=Billboard|title=Usher Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-06-29}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/480787/carly-rae-jepsens-call-me-maybe-spends-seventh-week-atop-hot-100|magazine=Billboard|title=Carly Rae Jepsen's 'Call Me Maybe' Spends Seventh Week Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-07-25|accessdate=2012-07-25}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-july-29-2012-songs-6-million-214342419.html|title=Week Ending July 29, 2012. Songs: 6 Million In Record Time|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-08-01|accessdate=2012-08-02}}</ref>
+|-
+| July 14
+| "[[Titanium (David Guetta song)|Titanium]]"
+| David Guetta featuring Sia
+| align=center|7
+| July 21
+| align=center|8
+| align=center|<ref name="davidguettacharthistory" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/482110/long-distance-call-carly-rae-jepsen-still-atop-hot-100|magazine=Billboard|title=Long-Distance 'Call': Carly Rae Jepsen Still Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-07-04|accessdate=2012-07-04}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/481748/carly-rae-jepsen-still-no-1-nicki-minaj-makes-history-on-hot-100|magazine=Billboard|title=Carly Rae Jepsen Still No. 1, Nicki Minaj Makes History On Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-07-11|accessdate=2012-07-14}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-aug-19-2012-songs-swift-set-203143800.html|title=Week Ending Aug. 19, 2012. Songs: Swift Makes Digital History|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-08-22|accessdate=2012-08-22}}</ref>
+|-
+| rowspan=2|July 28
+| "[[Blow Me (One Last Kiss)]]"{{ref label|ReEntryK|K}}
+| [[Pink (singer)|Pink]]
+| align=center|5
+| September 29
+| align=center|11
+| align=center|<ref name="jul282012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=p!nk|chart=all}}|magazine=Billboard|title=P!nk Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-07-25}}</ref><ref name="sep292012">{{Cite magazine|url=http://www.billboard.com/articles/news/475016/maroon-5-reaches-no-1-on-hot-100-with-one-more-night|magazine=Billboard|title=Maroon 5 Reaches No. 1 on Hot 100 with 'One More Night'|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-09-19|accessdate=2012-09-19}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-oct-21-2012-songs-maroon-5-211420641.html|title=Week Ending Oct. 21, 2012. Songs: Maroon 5′s "Nixon Moment"|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-10-24|accessdate=2012-10-24}}</ref>
+|-
+| "[[Whistle (Flo Rida song)|Whistle]]"
+| Flo Rida
+| align=center|1
+| August 25
+| align=center|12
+| align=center|<ref name="floridacharthistory" /><ref name="jul282012">{{Cite magazine|url=http://www.billboard.com/articles/news/481252/pink-plants-a-big-kiss-in-hot-100s-top-10|magazine=Billboard|title=Pink Plants a Big 'Kiss' in Hot 100's Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-07-18|accessdate=2012-07-18}}</ref><ref name="aug252012">{{Cite news|url=http://www.billboard.com/articles/news/480425/flo-ridas-whistle-works-way-to-top-of-hot-100|title=Flo Rida's 'Whistle' Works Way to Top of Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-08-15|accessdate=2012-08-15}}</ref><ref name="oct132012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-sept-30-2012-songs-real-horserace-192228889.html|title=Week Ending Sept. 30, 2012. Songs: A Real Horserace For #1|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-10-03|accessdate=2012-10-03}}</ref>
+|-
+| August 25
+| "[[Some Nights (song)|Some Nights]]"
+| Fun
+| align=center|3
+| September 29
+| align=center|19
+| align=center|<ref name="funcharthistory" /><ref name="sep292012" /><ref name="aug252012" /><ref name="dec292012yahoo" />
+|-
+| rowspan=3|September 1
+| "[[As Long as You Love Me (Justin Bieber song)|As Long as You Love Me]]"
+| Justin Bieber featuring Big Sean
+| align=center|6
+| September 29
+| align=center|12
+| align=center|<ref name="justinbiebercharthistory" /><ref name="sep292012" /><ref name="sep12012" /><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-nov-4-2012-songs-power-voice-222837557.html|title=Week Ending Nov. 4, 2012. Songs: The Power Of "The Voice"|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-11-07|accessdate=2012-11-09}}</ref>
+|-
+| "[[One More Night (Maroon 5 song)|One More Night]]"
+| Maroon 5
+| align=center|1
+| September 29
+| align=center|21
+| align=center|<ref name="maroon5charthistory" /><ref name="sep292012" /><ref name="dec292012yahoo" /><ref name="sep12012" />
+|-
+| "[[We Are Never Ever Getting Back Together]]"{{ref label|ReEntryM|M}}
+| [[Taylor Swift]]
+| align=center|1
+| September 1
+| align=center|13
+| align=center|<ref name="sep12012">{{Cite magazine|url=http://www.billboard.com/articles/news/480315/taylor-swift-scores-first-hot-100-no-1|magazine=Billboard|title=Taylor Swift Scores First Hot 100 No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-08-22|accessdate=2012-08-22}}</ref><ref name="taylorswiftcharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=taylor swift|chart=all}}|magazine=Billboard|title=Taylor Swift Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-08-23}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-nov-18-2012-songs-rihanna-ties-213422610.html|title=Week Ending Nov. 18, 2012. Songs: Rihanna Ties Madonna|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-11-21|accessdate=2012-11-28}}</ref>
+|-
+| September 8
+| "[[Good Time (Owl City and Carly Rae Jepsen song)|Good Time]]"{{ref label|ReEntryL|L}}
+| [[Owl City]] and Carly Rae Jepsen
+| align=center|8
+| September 15
+| align=center|7
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/475355/taylor-swifts-never-ever-fever-persists-at-no-1-on-hot-100|magazine=Billboard|title=Taylor Swift's 'Never Ever' Fever Persists At No. 1 On Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-08-29|accessdate=2012-08-29}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=owl city|chart=all}}|magazine=Billboard|title=Owl City Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-09-05}}</ref><ref name="sep152012">{{Cite magazine|url=http://www.billboard.com/articles/news/475269/flo-ridas-whistle-returns-to-no-1-on-hot-100|magazine=Billboard|title=Flo Rida's 'Whistle' Returns to No. 1 on Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-09-05|accessdate=2012-09-05}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-oct-14-2012-songs-taylor-swift-210922823.html|title=Week Ending Oct. 14, 2012. Songs: Taylor Swift's Digital Record|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-10-17|accessdate=2012-10-20}}</ref>
+|-
+| September 15
+| "[[Everybody Talks]]"
+| [[Neon Trees]]
+| align=center|6
+| September 15
+| align=center|3
+| align=center|<ref name="sep152012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=neon trees|chart=all}}|magazine=Billboard|title=Neon Trees Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-09-12}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-sept-16-2012-songs-mindless-fun-022236621.html|title=Week Ending Sept. 16, 2012. Songs: Novelty Hit Of The Year|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-09-19|accessdate=2012-09-26}}</ref>
+|-
+| September 22
+| "[[Too Close (Alex Clare song)|Too Close]]"
+| [[Alex Clare]]
+| align=center|7
+| October 27
+| align=center|10
+| align=center|<ref name="sep222012">{{Cite magazine|url=http://www.billboard.com/articles/news/475154/taylor-swifts-never-is-hot-100s-longest-leading-country-song-since-1980|magazine=Billboard|title=Taylor Swift's 'Never' Is Hot 100's Longest-Leading Country Song Since 1980|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-09-12|accessdate=2012-09-12}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=alex clare|chart=all}}|magazine=Billboard|title=Alex Clare Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-09-19}}</ref><ref name="oct272012">{{Cite news|url=http://www.billboard.com/articles/news/474594/psy-still-stuck-at-no-2-as-maroon-5-tops-hot-100|title=PSY Still Stuck At No. 2 as Maroon 5 Tops Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-10-17|accessdate=2012-10-17}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-nov-11-2012-songs-9-weeks-194853574.html|title=Week Ending Nov. 11, 2012. Songs: Maroon 5 Ties Year's Record|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-11-14|accessdate=2012-11-14}}</ref>
+|-
+| October 6
+| "[[Gangnam Style]]"
+| [[Psy (rapper)|Psy]]
+| align=center|2
+| October 6
+| align=center|12
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474916/maroon-5-still-tops-hot-100-psy-one-step-from-no-1|magazine=Billboard|title=Maroon 5 Still Tops Hot 100, PSY One Step From No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-09-26|accessdate=2012-09-26}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=psy|chart=all}}|magazine=Billboard|title=PSY Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-09-29}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-dec-2-2012-songs-brit-225430921.html|title=Week Ending Dec. 2, 2012. Songs: will & Brit|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-12-05|accessdate=2012-12-12}}</ref>
+|-
+| October 13
+| bgcolor = #99FFFF | "[[Begin Again (Taylor Swift song)|Begin Again]]" {{up-arrow}}
+| Taylor Swift
+| align=center|7
+| October 13
+| align=center|1
+| align=center|<ref name="oct132012yahoo" /><ref name="taylorswiftcharthistory" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474810/psy-cant-beat-maroon-5-in-close-race-for-hot-100s-top-spot|magazine=Billboard|title=PSY Can't Beat Maroon 5 in Close Race For Hot 100's Top Spot|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-10-03|accessdate=2012-10-03}}</ref>
+|-
+| rowspan=3|October 20
+| bgcolor = #99FFFF | "[[Live While We're Young]]" {{up-arrow}}
+| One Direction
+| align=center|3
+| October 20
+| align=center|1
+| align=center|<ref name="onedirectioncharthistory" /><ref name="oct202012">{{Cite magazine|url=http://www.billboard.com/articles/news/474722/maroon-5-keeps-psy-out-of-hot-100s-summit-again|magazine=Billboard|title=Maroon 5 Keeps PSY Out Of Hot 100's Summit Again|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-10-10|accessdate=2012-10-10}}</ref><ref name="oct202012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-oct-7-2012-songs-one-direction-211224880.html|title=Week Ending Oct. 7, 2012. Songs: One Direction's Hot Debut (OMG!!!)|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-10-10|accessdate=2012-10-10}}</ref>
+|-
+| bgcolor = #99FFFF | "[[Red (Taylor Swift song)|Red]]" {{up-arrow}}
+| Taylor Swift
+| align=center|6
+| October 20
+| align=center|1
+| align=center|<ref name="taylorswiftcharthistory" /><ref name="oct202012" /><ref name="oct202012yahoo" />
+|-
+| bgcolor = #99FFFF | "[[Skyfall (Adele song)|Skyfall]]" {{up-arrow}}
+| Adele
+| align=center|8
+| October 20
+| align=center|1
+| align=center|<ref name="adelecharthistory" /><ref name="oct202012" /><ref name="oct202012yahoo" />
+|-
+| October 27
+| "[[Die Young]]"
+| [[Kesha]]
+| align=center|2
+| December 8
+| align=center|12
+| align=center|<ref name="dec292012yahoo" /><ref name="oct272012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=ke$ha|chart=all}}|magazine=Billboard|title=Ke$ha Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-10-20}}</ref><ref name="dec82012">{{Cite magazine|url=http://www.billboard.com/articles/news/473967/rihanna-scores-double-domination-atop-hot-100-billboard-200|magazine=Billboard|title=Rihanna Scores Double Domination Atop Hot 100, Billboard 200|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-11-28|accessdate=2012-11-28}}</ref>
+|-
+| rowspan=2|November 3
+| "[[Diamonds (Rihanna song)|Diamonds]]"
+| Rihanna
+| align=center|1
+| December 1
+| align=center|15
+| align=center|<ref name="rihannacharthistory" /><ref name="dec292012yahoo" /><ref name="nov32012">{{Cite magazine|url=http://www.billboard.com/articles/news/474494/maroon-5-spend-one-more-week-atop-hot-100|magazine=Billboard|title=Maroon 5 Spend 'One More' Week Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-10-24|accessdate=2012-10-24}}</ref><ref name="dec12012">{{Cite magazine|url=http://www.billboard.com/articles/news/474050/rihannas-diamonds-tops-hot-100-lumineers-leap-to-top-10|magazine=Billboard|title=Rihanna's 'Diamonds' Tops Hot 100, Lumineers Leap to Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-11-21|accessdate=2012-11-21}}</ref>
+|-
+| "[[Let Me Love You (Until You Learn to Love Yourself)]]"
+| [[Ne-Yo]]
+| align=center|6
+| December 1
+| align=center|8
+| align=center|<ref name="nov32012" /><ref name="dec12012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=ne-yo|chart=all}}|magazine=Billboard|title=Ne-Yo Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-10-25}}</ref>
+|-
+| rowspan=2|November 10
+| "[[Don't Wake Me Up (Chris Brown song)|Don't Wake Me Up]]"
+| Chris Brown
+| align=center|10
+| November 10
+| align=center|1
+| align=center|<ref name="chrisbrowncharthistory" /><ref name="nov102012" /><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-oct-28-2012-songs-chris-brown-213026172.html|title=Week Ending Oct. 28, 2012. Songs: Chris Brown's Comeback|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-10-31|accessdate=2012-11-01}}</ref>
+|-
+| "[[Locked Out of Heaven]]"
+| Bruno Mars
+| align=center|1
+| December 22
+| align=center|20
+| align=center|<ref name="dec292012yahoo" /><ref name="nov102012">{{Cite magazine|url=http://www.billboard.com/articles/news/474391/maroon-5-psy-spend-a-sixth-week-in-hot-100s-top-spots|magazine=Billboard|title=Maroon 5, PSY Spend a Sixth Week in Hot 100's Top Spots|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-10-31|accessdate=2012-10-31}}</ref><ref name="brunomarscharthistory">{{Cite magazine|url={{BillboardURLbyName|artist=bruno mars|chart=all}}|magazine=Billboard|title=Bruno Mars Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="dec222012">{{Cite magazine|url=http://www.billboard.com/articles/news/1481445/bruno-mars-makes-heaven-ly-ascent-to-no-1-on-hot-100|magazine=Billboard|title=Bruno Mars Makes 'Heaven'-ly Ascent To No. 1 On Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-12-12|accessdate=2012-12-12}}</ref>
+|-
+| November 24
+| "[[I Cry (Flo Rida song)|I Cry]]"
+| Flo Rida
+| align=center|6
+| December 22
+| align=center|9
+| align=center|<ref name="floridacharthistory" /><ref name="dec292012yahoo" /><ref name="dec222012" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474165/maroon-5s-one-more-night-ties-for-hot-100s-longest-lead-this-year|magazine=Billboard|title=Maroon 5's 'One More Night' Ties for Hot 100's Longest Lead This Year|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-11-14|accessdate=2012-11-14}}</ref>
+|-
+| December 1
+| "[[Ho Hey]]"
+| [[The Lumineers]]
+| align=center|3
+| December 29
+| align=center|14
+| align=center|<ref name="dec292012yahoo" /><ref name="dec12012" /><ref>{{Cite magazine|url={{BillboardURLbyName|artist=the lumineers|chart=all}}|magazine=Billboard|title=The Lumineers Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-11-28}}</ref><ref name="dec292012">{{Cite magazine|url=http://www.billboard.com/articles/news/1481307/bruno-mars-has-top-hot-100-spot-locked-up-again|magazine=Billboard|title=Bruno Mars Has Top Hot 100 Spot 'Locked' Up Again|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-12-19|accessdate=2012-12-19}}</ref>
+|}
+α "I Will Always Love You" originally entered the top ten and peaked at number one on the week ending November 28, 1992, spending 16 weeks in the tier in its first chart run.<ref>{{Cite news|url=https://pqasb.pqarchiver.com/chicagotribune/access/24328935.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Nov+24%2C+1992&author=Billboard+Magazine.&pub=Chicago+Tribune+(pre-1997+Fulltext)&edition=&startpage=9&desc=Whitney%27s+giant+leap+%60Bodyguard%27+soundtrack+number+climbs+from+12+to+1|archive-url=https://web.archive.org/web/20130324171648/http://pqasb.pqarchiver.com/chicagotribune/access/24328935.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Nov+24%2C+1992&author=Billboard+Magazine.&pub=Chicago+Tribune+(pre-1997+Fulltext)&edition=&startpage=9&desc=Whitney%27s+giant+leap+%60Bodyguard%27+soundtrack+number+climbs+from+12+to+1|url-status=dead|archive-date=March 24, 2013|work=[[Chicago Tribune]]|title=Whitney's giant leap 'Bodyguard' soundtrack number climbs from 12 to 1|publisher=[[Tribune Company]]|date=1992-11-24|accessdate=2012-02-15}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=whitney houston|chart=all}}|magazine=Billboard|title=Whitney Houston Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-02-16}}</ref><ref name="feb252012yahoo" /> See ''[[List of Billboard Hot 100 top 10 singles in 1992]]'' for more. The above entry for the single reflects its run in 2012 only.
+
+===2011 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2011}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2012 which peaked in 2011
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+! References
+|-
+| April 16
+|"[[Rolling in the Deep]]"{{ref label|ReEntryG|G}}
+| Adele
+| align=center|1
+| May 21
+| align=center|20
+| align=center|<ref name="adelecharthistory" /><ref name="mar32012yahoo" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/472182/katy-perrys-et-widens-lead-atop-hot-100|title=Katy Perry's 'E.T.' Widens Lead Atop Hot 100|magazine=Billboard|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-04-06|accessdate=2012-02-22}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/471630/adeles-rolling-in-the-deep-tops-hot-100|title=Adele's 'Rolling in the Deep' Tops Hot 100|magazine=Billboard|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-05-11|accessdate=2012-02-22}}</ref>
+|-
+| June 4
+| "[[Party Rock Anthem]]"{{ref label|ReEntryA|A}}
+| LMFAO featuring [[Lauren Bennett]] and [[GoonRock]]
+| align=center|1
+| July 16
+| align=center|29
+| align=center|<ref name="lmfaocharthistory" /><ref name="jan212012yahoo" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/471062/adele-remains-atop-hot-100-lady-gaga-makes-hair-raising-bow|title=Adele Remains Atop Hot 100, Lady Gaga Makes 'Hair'-Raising Bow|magazine=Billboard|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-05-25|accessdate=2011-12-30}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/469349/lmfao-brings-the-party-to-top-of-hot-100|title=LMFAO Brings the 'Party' to Top of Hot 100|magazine=Billboard|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-07-06|accessdate=2011-07-06}}</ref>
+|-
+| September 10
+| "[[Stereo Hearts]]"{{ref label|ReEntryB|B}}
+| [[Gym Class Heroes]] featuring [[Adam Levine]]
+| align=center|4
+| October 15
+| align=center|15
+| align=center|<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/467649/maroon-5-christina-aguileras-jagger-moves-to-no-1-on-hot-100|title=Maroon 5, Christina Aguilera's 'Jagger' Moves to No. 1 on Hot 100|magazine=Billboard|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-08-31|accessdate=2012-01-04}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=gym class heroes|chart=all}}|magazine=Billboard|title=Gym Class Heroes Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-01-31}}</ref><ref name="oct152011">{{Cite magazine|url=http://www.billboard.com/articles/news/466754/adele-reclaims-hot-100-throne-bob-blasts-into-top-10|magazine=Billboard|title=Adele Reclaims Hot 100 Throne, B.o.B Blasts Into Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-10-05|accessdate=2011-12-30}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-jan-1-2012-songs-lmfao-beats-002955103.html|title=Week Ending Jan. 1, 2012. Songs: LMFAO Beats Everybody|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-01-04|accessdate=2012-01-04}}</ref>
+|-
+| September 17
+| "[[Someone like You (Adele song)|Someone like You]]"{{ref label|ReEntryG|G}}
+| Adele
+| align=center|1
+| September 17
+| align=center|20
+| align=center|<ref name="adelecharthistory" /><ref name="mar32012yahoo" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/467566/adeles-someone-like-you-soars-to-no-1-on-hot-100|magazine=Billboard|title=Adele's 'Someone Like You' Soars To No. 1 On Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-09-07|accessdate=2011-12-30}}</ref>
+|-
+| October 15
+| "[[We Found Love]]" {{small|(#8)}}
+| Rihanna featuring [[Calvin Harris]]
+| align=center|1
+| November 12
+| align=center|23
+| align=center|<ref name="rihannacharthistory" /><ref name="oct152011" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/465364/rihannas-found-her-way-back-to-hot-100-summit|magazine=Billboard|title=Rihanna's 'Found' Her Way Back to Hot 100 Summit|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-11-02|accessdate=2011-12-30}}</ref><ref>{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-march-4-2012-songs-song-tv-010205864.html|title=Week Ending March 4, 2012. Songs: The Song That TV Made Famous|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-03-07|accessdate=2012-03-08}}</ref>
+|-
+| November 26
+| "[[It Will Rain]]"
+| Bruno Mars
+| align=center|3
+| December 10
+| align=center|13
+| align=center|<ref name="feb182012yahoo" /><ref name="brunomarscharthistory" /><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/465099/rihanna-still-atop-hot-100-taylor-swifts-movie-premieres-in-top-10|magazine=Billboard|title=Rihanna Still Atop Hot 100, Taylor Swift's 'Movie' Premieres in Top 10|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-11-16|accessdate=2011-12-30}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/464901/rihanna-remains-atop-hot-100-american-music-awards-spur-gains|magazine=Billboard|title=Rihanna Remains Atop Hot 100, American Music Awards Spur Gains|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2011-11-30|accessdate=2011-12-30}}</ref>
+|}
+
+===2013 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2013}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2012 which peaked in 2013
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+! References
+|-
+| June 9
+| bgcolor = #99FFFF | "[[Home (Phillip Phillips song)|Home]]" {{up-arrow}}{{ref label|ReEntryJ|J}}{{ref label|ReEntryN|N}}
+| [[Phillip Phillips]]
+| align=center|6
+| January 19
+| align=center|13
+| align=center|<ref name="dec292012yahoo">{{Cite web|url=http://music.yahoo.com/blogs/chart-watch/week-ending-dec-17-2012-songs-wrong-title-022636437.html|title=Week Ending Dec. 17, 2012. Songs: Wrong Title At Wrong Time|publisher=Yahoo! Inc.|first=Paul|last=Grein|date=2012-12-19|accessdate=2012-12-23}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/485449/phillip-phillips-storms-hot-100s-top-10-gotye-has-years-longest-running-no-1|magazine=Billboard|title=Phillip Phillips Storms Hot 100's Top 10, Gotye Has Year's Longest-Running No. 1|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-05-30|accessdate=2012-05-30}}</ref><ref>{{Cite magazine|url={{BillboardURLbyName|artist=phillip phillips|chart=all}}|magazine=Billboard|title=Phillip Phillips Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-07-25}}</ref><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/473844/rihanna-remains-atop-hot-100-adds-radio-songs-reign|magazine=Billboard|title=Rihanna Remains Atop Hot 100, Adds Radio Songs Reign|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-12-05|accessdate=2012-12-05}}</ref>
+|-
+|October 27
+|bgcolor = #99FFFF | "[[I Knew You Were Trouble]]" {{up-arrow}}{{ref label|ReEntryO|O}}
+|[[Taylor Swift]]
+|align=center|2
+|January 12
+|align=center|16
+| align="center" |<ref name="oct272012"/><ref name="billboard.com">{{cite magazine|url=http://www.billboard.com/articles/news/1538888/macklemore-ryan-lewis-thrift-shop-no-1-on-hot-100-for-fourth-week|title=Mackleore & Ryan Lewis' 'Thrift Shop' No. 1 On Hot 100 for Fourth Week|magazine=Billboard|date=2013-02-13|accessdate=2013-02-14}}</ref>
+<ref name="dec292012"/><ref>{{Cite magazine|url={{BillboardURLbyName|artist=taylor swift|chart=all}}|magazine=Billboard|title=Taylor Swift Album & Song Chart History|publisher=Prometheus Global Media|accessdate=2012-12-27}}</ref>
+|-
+| December 22
+| "[[Beauty and a Beat]]"
+| Justin Bieber featuring Nicki Minaj
+| align=center|5
+| January 5
+| align=center|10
+| align=center|<ref name="justinbiebercharthistory" /><ref name="dec292012yahoo" /><ref name="dec222012" /><ref name="billboard.com"/><ref>{{Cite magazine|url=http://www.billboard.com/articles/news/1481232/bruno-mars-marks-a-chart-first-with-hot-100-leader-heaven|magazine=Billboard|title=Bruno Mars Marks a Chart First With Hot 100 Leader 'Heaven'|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-12-27|accessdate=2012-12-27}}</ref>
+|}
+
+==Notes==
+:{{note label|ReEntryA|A}}The single re-entered the top ten on the week ending January 7, 2012.<ref name="jan72012" />
+:{{note label|ReEntryB|B}}The single re-entered the top ten on the week ending January 14, 2012.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/513417/lmfao-still-sexy-atop-hot-100|magazine=Billboard|title=LMFAO Still 'Sexy' Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-01-04|accessdate=2012-01-04}}</ref>
+:{{note label|ReEntryC|C}}The single re-entered the top ten on the week ending January 28, 2012.<ref name="jan282012" />
+:{{note label|ReEntryD|D}}The single re-entered the top ten on the week ending February 11, 2012.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/508236/adele-atop-hot-100-but-kelly-clarkson-getting-stronger-at-no-2|magazine=Billboard|title=Adele Atop Hot 100, But Kelly Clarkson Getting 'Stronger' at No. 2|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-02-01|accessdate=2012-02-01}}</ref>
+:{{note label|ReEntryE|E}}The single re-entered the top ten on the week ending February 18, 2012.<ref name="feb182012" />
+:{{note label|ReEntryF|F}}The single re-entered the top ten on the week ending February 25, 2012.<ref name="feb252012" />
+:{{note label|ReEntryG|G}}The single re-entered the top ten on the week ending March 3, 2012.<ref name="mar32012" />
+:{{note label|ReEntryH|H}}The single re-entered the top ten on the week ending March 10, 2012.<ref name="mar102012" />
+:{{note label|ReEntryI|I}}The single re-entered the top ten on the week ending March 24, 2012.<ref name="mar242012" />
+:{{note label|ReEntryJ|J}}The single re-entered the top ten on the week ending August 18, 2012.<ref name="aug182012" />
+:{{note label|ReEntryK|K}}The single re-entered the top ten on the week ending September 22, 2012.<ref name="sep222012" />
+:{{note label|ReEntryL|L}}The single re-entered the top ten on the week ending October 27, 2012.<ref name="oct272012" />
+:{{note label|ReEntryM|M}}The single re-entered the top ten on the week ending November 17, 2012.<ref>{{Cite magazine|url=http://www.billboard.com/articles/news/474276/maroon-5-spends-eighth-week-atop-hot-100|magazine=Billboard|title=Maroon 5 Spends Eighth Week Atop Hot 100|publisher=Prometheus Global Media|first=Gary|last=Trust|date=2012-11-07|accessdate=2012-11-07}}</ref>
+:{{note label|ReEntryN|N}}The single re-entered the top ten on the week ending December 8, 2012.<ref name="dec82012" />
+:{{note label|ReEntryO|O}}The single re-entered the top ten on the week ending December 29, 2012.<ref name="dec292012" />
+
+
+==Artists with most top-ten songs==
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ List of artists by total songs peaking in the top-ten
+! scope="col"| Artist
+! scope="col"| Numbers of songs
+|-
+! scope="row"| [[Nicki Minaj]]
+| 5
+|-
+! scope="row"| [[Adele (singer)|Adele]]
+| rowspan="4" | 4
+|-
+! scope="row"| [[Flo Rida]]
+|-
+! scope="row"| [[Rihanna]]
+|-
+! scope="row"| [[Taylor Swift]]
+|-
+! scope="row"| [[Bruno Mars]]
+| rowspan="3" | 3
+|-
+! scope="row"| [[Justin Bieber]]
+|-
+! scope="row"| [[Katy Perry]]
+|-
+! scope="row"| [[Big Sean]]
+| rowspan="10" | 2
+|-
+! scope="row"| [[Carly Rae Jepsen]]
+|-
+! scope="row"| [[Chris Brown]]
+|-
+! scope="row"| [[David Guetta]]
+|-
+! scope="row"| [[Fun (band)|Fun]]
+|-
+! scope="row"| [[LMFAO]]
+|-
+! scope="row"| [[Maroon 5]]
+|-
+! scope="row"| [[One Direction]]
+|-
+! scope="row"| [[Sia (singer)|Sia]]
+|-
+! scope="row"| [[Wiz Khalifa]]
+|-
+|}
+
+==See also==
+*[[2012 in American music]]
+*[[List of Billboard Hot 100 number ones of 2012|List of ''Billboard'' Hot 100 number ones of 2012]]
+*[[Billboard Year-End Hot 100 singles of 2012|''Billboard'' Year-End Hot 100 singles of 2012]]
+
+==References==
+{{reflist}}
+
+===General sources===
+*{{cite book|last1=Whitburn|first1=Joel|author-link=Joel Whitburn|title=Pop Annual, 1955–2011|year=2012|publisher=Record Research Inc.|isbn=0-89820-194-2<!-- refers to paperback version, hardcover version isbn=0-89820-193-4 -->|edition=8th}}<!-- book can be used to verify song's peak position, peak date, and weeks in the top ten (Note: book will only verify stats on a couple of entries from the "2011 peaks" section, but will remain listed as a source here) -->
+*Additional information obtained can be verified within ''Billboard's'' online archive services and print editions of the magazine.
+
+==External links==
+*[https://web.archive.org/web/20051031005909/http://www.billboard.com/bbcom/index.jsp Billboard.com]
+*[http://www.billboard.biz Billboard.biz]
+*[http://www.billboard.com/charts/hot-100 The ''Billboard'' Hot 100 top ten]
+
+{{USTop10s|state=expanded}}
+{{billboard}}
+
+{{italic title|string=Billboard}}
+
+[[Category:2012 record charts|United States Hot 100 Top Ten Singles]]
+[[Category:Lists of Billboard Hot 100 top-ten singles|2012]]

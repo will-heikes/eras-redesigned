@@ -1,0 +1,1103 @@
+{
+  "id": "teenage-dream",
+  "title": "Teenage Dream",
+  "artist_id": "katy-perry",
+  "release_date": "2010-08-24",
+  "cover": {
+    "file": "Katy Perry - Teenage Dream (album).png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_-_Teenage_Dream_(album).png",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_-_Teenage_Dream_(album).png"
+  },
+  "label": "Capitol",
+  "genre": "Pop",
+  "length": "46:44",
+  "producers": [
+    "Max Martin",
+    "Dr. Luke",
+    "Benny Blanco",
+    "C. \"Tricky\" Stewart",
+    "Stargate",
+    "Greg Wells",
+    "Sandy Vee",
+    "Ammo"
+  ],
+  "previous_album": "MTV Unplugged",
+  "next_album": "Teenage Dream: The Complete Confection",
+  "lead": "Teenage Dream is the third studio album by the American singer-songwriter Katy Perry. It was released on August 24, 2010, through Capitol Records and follows her second album One of the Boys (2008). Primarily a pop record, Teenage Dream also contains elements of disco, electronic, rock, funk, house, hi-NRG, and hip hop, that revolve around young love, partying, self-empowerment, and personal growth. Perry co-wrote the album, and worked with a number of producers such as Max Martin, Dr. Luke, Benny Blanco, Stargate, and Greg Wells.",
+  "tracklist": [
+    {
+      "track": 1,
+      "song_id": "teenage-dream",
+      "title": "Teenage Dream",
+      "edition": "standard"
+    },
+    {
+      "track": 2,
+      "song_id": "last-friday-night",
+      "title": "Last Friday Night (T.G.I.F.)",
+      "edition": "standard"
+    },
+    {
+      "track": 3,
+      "song_id": "california-gurls",
+      "title": "California Gurls",
+      "edition": "standard"
+    },
+    {
+      "track": 4,
+      "song_id": "firework",
+      "title": "Firework",
+      "edition": "standard"
+    },
+    {
+      "track": 5,
+      "song_id": "peacock",
+      "title": "Peacock",
+      "edition": "standard"
+    },
+    {
+      "track": 6,
+      "song_id": "circle-the-drain",
+      "title": "Circle the Drain",
+      "edition": "standard"
+    },
+    {
+      "track": 7,
+      "song_id": "the-one-that-got-away",
+      "title": "The One That Got Away",
+      "edition": "standard"
+    },
+    {
+      "track": 8,
+      "song_id": "et",
+      "title": "E.T.",
+      "edition": "standard"
+    },
+    {
+      "track": 9,
+      "song_id": "who-am-i-living-for",
+      "title": "Who Am I Living For?",
+      "edition": "standard"
+    },
+    {
+      "track": 10,
+      "song_id": "pearl",
+      "title": "Pearl",
+      "edition": "standard"
+    },
+    {
+      "track": 11,
+      "song_id": "hummingbird-heartbeat",
+      "title": "Hummingbird Heartbeat",
+      "edition": "standard"
+    },
+    {
+      "track": 12,
+      "song_id": "not-like-the-movies",
+      "title": "Not Like the Movies",
+      "edition": "standard"
+    },
+    {
+      "track": 14,
+      "song_id": "part-of-me",
+      "title": "Part of Me",
+      "edition": "reissue"
+    },
+    {
+      "track": 15,
+      "song_id": "wide-awake",
+      "title": "Wide Awake",
+      "edition": "reissue"
+    },
+    {
+      "track": 16,
+      "song_id": "dressin-up",
+      "title": "Dressin' Up",
+      "edition": "reissue"
+    },
+    {
+      "track": 19,
+      "song_id": "megasix-smash-up",
+      "title": "Tommie Sunshine's Megasix Smash-Up",
+      "edition": "reissue"
+    }
+  ],
+  "singles": [
+    {
+      "order": 1,
+      "title": "California Gurls",
+      "date": "2010-05-07",
+      "song_id": "california-gurls"
+    },
+    {
+      "order": 2,
+      "title": "Teenage Dream",
+      "date": "2010-07-23",
+      "song_id": "teenage-dream"
+    },
+    {
+      "order": 3,
+      "title": "Firework",
+      "date": "2010-10-26",
+      "song_id": "firework"
+    },
+    {
+      "order": 4,
+      "title": "E.T.",
+      "date": "2011-02-16",
+      "song_id": "et"
+    },
+    {
+      "order": 5,
+      "title": "Last Friday Night (T.G.I.F.)",
+      "date": "2011-06-06",
+      "song_id": "last-friday-night"
+    },
+    {
+      "order": 6,
+      "title": "The One That Got Away",
+      "date": "2011-09-30",
+      "song_id": "the-one-that-got-away"
+    },
+    {
+      "order": 7,
+      "title": "Part of Me",
+      "date": "2012-02-13",
+      "edition": "reissue",
+      "reissue_order": 1,
+      "song_id": "part-of-me"
+    },
+    {
+      "order": 8,
+      "title": "Wide Awake",
+      "date": "2012-05-22",
+      "edition": "reissue",
+      "reissue_order": 2,
+      "song_id": "wide-awake"
+    }
+  ],
+  "key_peaks": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 1
+  },
+  "weekly_charts": [
+    {
+      "period": "2010-2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 1
+        },
+        {
+          "chart": "Austria Albums (Ö3 Austria)",
+          "position": 1
+        },
+        {
+          "chart": "Belgium Albums (Ultratop Flanders)",
+          "position": 10
+        },
+        {
+          "chart": "Belgium Albums (Ultratop Wallonia)",
+          "position": 5
+        },
+        {
+          "chart": "Brazilian Albums (ABPD)",
+          "position": 4
+        },
+        {
+          "chart": "Canada (Billboard Canadian Albums)",
+          "position": 1
+        },
+        {
+          "chart": "Czech Albums (ČNS IFPI)",
+          "position": 8
+        },
+        {
+          "chart": "Denmark Albums (Hitlisten)",
+          "position": 14
+        },
+        {
+          "chart": "Netherlands (Album Top 100)",
+          "position": 6
+        },
+        {
+          "chart": "European Top 100 Albums (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Finnish Albums (Suomen virallinen lista)",
+          "position": 8
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 3
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 5
+        },
+        {
+          "chart": "Greek Albums (IFPI Greece)",
+          "position": 2
+        },
+        {
+          "chart": "Hungary Albums (MAHASZ)",
+          "position": 9
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 1
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 3
+        },
+        {
+          "chart": "Japanese Albums (Oricon)",
+          "position": 6
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 11
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 18
+        },
+        {
+          "chart": "Polish Albums (OLiS)",
+          "position": 7
+        },
+        {
+          "chart": "Portuguese Albums (AFP)",
+          "position": 11
+        },
+        {
+          "chart": "Russian Albums (2M)",
+          "position": 14
+        },
+        {
+          "chart": "Scotland Albums (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "South Korean Albums (Circle)",
+          "position": 32
+        },
+        {
+          "chart": "South Korean International Albums (Circle)",
+          "position": 2
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 4
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 11
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 4
+        },
+        {
+          "chart": "UK Albums (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 1
+        },
+        {
+          "chart": "BillboardTastemaker",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "period": "2025-2026",
+      "entries": [
+        {
+          "chart": "German Pop Albums (Offizielle Top 100)",
+          "position": 4
+        },
+        {
+          "chart": "Greek Albums (IFPI)",
+          "position": 31
+        },
+        {
+          "chart": "Lithuanian Albums (AGATA)",
+          "position": 53
+        },
+        {
+          "chart": "Portuguese Albums (AFP)",
+          "position": 57
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2010",
+      "entries": [
+        {
+          "chart": "Australian Albums (ARIA)",
+          "position": 10
+        },
+        {
+          "chart": "Austrian Albums (Ö3 Austria)",
+          "position": 43
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 20
+        },
+        {
+          "chart": "European Top 100 Albums (Billboard)",
+          "position": 25
+        },
+        {
+          "chart": "French Albums (SNEP)",
+          "position": 45
+        },
+        {
+          "chart": "German Albums (Offizielle Top 100)",
+          "position": 51
+        },
+        {
+          "chart": "Hungarian Albums (MAHASZ)",
+          "position": 96
+        },
+        {
+          "chart": "Italian Albums (FIMI)",
+          "position": 97
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 77
+        },
+        {
+          "chart": "New Zealand Albums (RMNZ)",
+          "position": 8
+        },
+        {
+          "chart": "Russian Albums (2M)",
+          "position": 142
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 52
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 15
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 40
+        },
+        {
+          "chart": "Worldwide Albums (IFPI)",
+          "position": 11
+        },
+        {
+          "chart": "Australian Albums (ARIA)",
+          "position": 18
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "French Albums (SNEP)",
+          "position": 49
+        },
+        {
+          "chart": "Italian Albums (FIMI)",
+          "position": 76
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 42
+        },
+        {
+          "chart": "New Zealand Albums (RMNZ)",
+          "position": 13
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 25
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 10
+        },
+        {
+          "chart": "US Digital Albums (Billboard)",
+          "position": 9
+        },
+        {
+          "chart": "Worldwide Albums (IFPI)",
+          "position": 23
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 49
+        },
+        {
+          "chart": "French Albums (SNEP)",
+          "position": 96
+        },
+        {
+          "chart": "Mexican Albums (AMPROFON)",
+          "position": 49
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 48
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 25
+        },
+        {
+          "chart": "Worldwide Albums (IFPI)",
+          "position": 50
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 135
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 127
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 166
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 109
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 76
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 77
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 60
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Wallonia)",
+          "position": 178
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 74
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 148
+        },
+        {
+          "chart": "Austrian Albums (Ö3 Austria)",
+          "position": 33
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 38
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Wallonia)",
+          "position": 113
+        },
+        {
+          "chart": "Dutch Albums (Album Top 100)",
+          "position": 56
+        },
+        {
+          "chart": "German Albums (Offizielle Top 100)",
+          "position": 87
+        },
+        {
+          "chart": "New Zealand Albums (RMNZ)",
+          "position": 31
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 53
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 48
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 128
+        },
+        {
+          "chart": "Austrian Albums (Ö3 Austria)",
+          "position": 14
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Flanders)",
+          "position": 22
+        },
+        {
+          "chart": "Belgian Albums (Ultratop Wallonia)",
+          "position": 109
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 61
+        },
+        {
+          "chart": "Dutch Albums (Album Top 100)",
+          "position": 43
+        },
+        {
+          "chart": "German Albums (Offizielle Top 100)",
+          "position": 42
+        },
+        {
+          "chart": "Portuguese Albums (AFP)",
+          "position": 119
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 21
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 44
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 111
+        },
+        {
+          "chart": "US Billboard Catalog Albums",
+          "position": 48
+        },
+        {
+          "chart": "Austrian Albums (Ö3 Austria)",
+          "position": 14
+        },
+        {
+          "chart": "Canadian Albums (Billboard)",
+          "position": 55
+        },
+        {
+          "chart": "Dutch Albums (Album Top 100)",
+          "position": 44
+        },
+        {
+          "chart": "German Albums (Offizielle Top 100)",
+          "position": 36
+        },
+        {
+          "chart": "Hungarian Albums (MAHASZ)",
+          "position": 75
+        },
+        {
+          "chart": "Swiss Albums (Schweizer Hitparade)",
+          "position": 23
+        },
+        {
+          "chart": "UK Albums (Official Charts)",
+          "position": 45
+        },
+        {
+          "chart": "US Billboard 200",
+          "position": 119
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Argentina",
+      "certification": "Gold",
+      "type": "standard"
+    },
+    {
+      "region": "Australia",
+      "certification": "7× Platinum",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Belgium",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": null,
+      "units_reported": "100,000",
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Chile",
+      "certification": "Gold",
+      "units_reported": "5,000",
+      "type": "standard"
+    },
+    {
+      "region": "Colombia",
+      "certification": "Platinum",
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "2× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "4× Platinum",
+      "units_reported": "80,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "3× Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "GCC",
+      "certification": "Gold",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "2× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "India (IMI)",
+      "certification": "2× Platinum",
+      "units_reported": "60,000",
+      "type": "standard"
+    },
+    {
+      "region": "Ireland",
+      "certification": "2× Platinum",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "3× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Japan",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Netherlands",
+      "certification": "Gold",
+      "cert_year": 2012,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "11× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Norway",
+      "certification": "5× Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "Philippines",
+      "certification": "Platinum",
+      "units_reported": "30,000",
+      "type": "standard"
+    },
+    {
+      "region": "Portugal",
+      "certification": "Gold",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Singapore",
+      "certification": "Platinum",
+      "cert_year": 2019,
+      "type": "standard"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2012,
+      "type": "standard"
+    },
+    {
+      "region": "Switzerland",
+      "certification": "2× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "7× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Europe",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "12,000,000",
+      "type": "standard"
+    }
+  ],
+  "awards": [
+    {
+      "year": 2010,
+      "award": "American Music Awards",
+      "category": "Favorite Pop/Rock Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2010,
+      "award": "Billboard Readers' Polls",
+      "category": "Favorite Album of the Year",
+      "result": "Won"
+    },
+    {
+      "year": 2010,
+      "award": "Chart Attack",
+      "category": "Best International Album",
+      "result": "Won"
+    },
+    {
+      "year": 2010,
+      "award": "IRMA Number One Awards",
+      "category": "Number-One Album",
+      "result": "Won"
+    },
+    {
+      "year": 2010,
+      "award": "The Official Specialist Number One Awards",
+      "category": "Number One Album Downloads",
+      "result": "Won"
+    },
+    {
+      "year": 2010,
+      "award": "The Official Specialist Number One Awards",
+      "category": "Number One Physical Albums",
+      "result": "Won"
+    },
+    {
+      "year": 2010,
+      "award": "Telehit Awards",
+      "category": "Best International Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2010,
+      "award": "Virgin Media Music Awards",
+      "category": "Best Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2010,
+      "award": "Z Awards",
+      "category": "Favorite Pop/Rock Album",
+      "result": "Won"
+    },
+    {
+      "year": 2011,
+      "award": "Billboard Music Awards",
+      "category": "Pop Album of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2011,
+      "award": "Brit Awards",
+      "category": "International Album of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2011,
+      "award": "Grammy Awards",
+      "category": "Album of the Year",
+      "result": "Nominated"
+    },
+    {
+      "year": 2011,
+      "award": "Grammy Awards",
+      "category": "Best Pop Vocal Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2011,
+      "award": "Juno Awards",
+      "category": "International Album of the Year",
+      "result": "Won"
+    },
+    {
+      "year": 2011,
+      "award": "Telehit Awards",
+      "category": "Best International Album",
+      "result": "Won"
+    },
+    {
+      "year": 2012,
+      "award": "Premios Oye!",
+      "category": "English Album",
+      "result": "Nominated"
+    },
+    {
+      "year": 2014,
+      "award": "ARIA Number One Chart Awards",
+      "category": "Number-One Album",
+      "result": "Won"
+    },
+    {
+      "year": 2024,
+      "award": "RIAA Diamond Awards",
+      "category": "Diamond Album",
+      "result": "Won"
+    }
+  ],
+  "reissue": {
+    "id": "complete-confection",
+    "title": "Teenage Dream: The Complete Confection",
+    "release_date": "2012-03-23",
+    "cover": {
+      "file": "TheCompleteConfectionCover.png",
+      "url": "https://en.wikipedia.org/wiki/Special:FilePath/TheCompleteConfectionCover.png",
+      "page": "https://en.wikipedia.org/wiki/File:TheCompleteConfectionCover.png"
+    },
+    "lead": "Teenage Dream: The Complete Confection is a reissue of American singer-songwriter Katy Perry's third studio album, Teenage Dream (2010). It was released on March 23, 2012, by Capitol Records, nearly two years after the original album. Perry collaborated with producers including Tricky Stewart to refine leftover material from the recording sessions at Playback Recording Studio for Teenage Dream. The final product features three newly recorded songs, which incorporate pop styles previously seen in the original album, an acoustic version of \"The One That Got Away\" and three additional official remixes featuring Missy Elliott, Kanye West, and Tommie Sunshine.",
+    "key_peaks": {
+      "us": 7,
+      "uk": null,
+      "can": null,
+      "aus": 5
+    },
+    "weekly_charts": [
+      {
+        "period": "2012",
+        "entries": [
+          {
+            "chart": "Australia (ARIA)",
+            "position": 5
+          },
+          {
+            "chart": "Belgium Albums (Ultratop Flanders)",
+            "position": 14
+          },
+          {
+            "chart": "Belgium Albums (Ultratop Wallonia)",
+            "position": 39
+          },
+          {
+            "chart": "Netherlands (Album Top 100)",
+            "position": 44
+          },
+          {
+            "chart": "Finland Albums (Suomen virallinen lista)",
+            "position": 18
+          },
+          {
+            "chart": "France (SNEP)",
+            "position": 14
+          },
+          {
+            "chart": "Oricon",
+            "position": 46
+          },
+          {
+            "chart": "New Zealand (Recorded Music NZ)",
+            "position": 2
+          },
+          {
+            "chart": "Sweden (Sverigetopplistan)",
+            "position": 24
+          },
+          {
+            "chart": "UK Albums (Official Charts)",
+            "position": 6
+          },
+          {
+            "chart": "US Billboard 200",
+            "position": 7
+          }
+        ]
+      }
+    ],
+    "year_end_charts": [
+      {
+        "year": "2012",
+        "entries": [
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 27
+          },
+          {
+            "chart": "French Albums (SNEP)",
+            "position": 96
+          },
+          {
+            "chart": "New Zealand Albums (RMNZ)",
+            "position": 22
+          },
+          {
+            "chart": "Worldwide Albums (IFPI)",
+            "position": 50
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 89
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 95
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 74
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 53
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 36
+          },
+          {
+            "chart": "Swedish Albums (Sverigetopplistan)",
+            "position": 89
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 38
+          },
+          {
+            "chart": "Swedish Albums (Sverigetopplistan)",
+            "position": 58
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 27
+          },
+          {
+            "chart": "Swedish Albums (Sverigetopplistan)",
+            "position": 42
+          },
+          {
+            "chart": "Australian Albums (ARIA)",
+            "position": 32
+          },
+          {
+            "chart": "Swedish Albums (Sverigetopplistan)",
+            "position": 37
+          }
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "region": "Australia",
+        "certification": "7× Platinum",
+        "cert_year": 2023,
+        "type": "standard"
+      },
+      {
+        "region": "Denmark",
+        "certification": "2× Platinum",
+        "cert_year": 2024,
+        "type": "standard"
+      },
+      {
+        "region": "New Zealand",
+        "certification": "4× Platinum",
+        "cert_year": 2018,
+        "type": "standard"
+      },
+      {
+        "region": "Sweden",
+        "certification": "Platinum",
+        "cert_year": 2012,
+        "type": "standard"
+      },
+      {
+        "region": "Switzerland",
+        "certification": "Platinum",
+        "cert_year": 2026,
+        "type": "standard"
+      },
+      {
+        "region": "Worldwide",
+        "certification": null,
+        "units_reported": "1,000,000",
+        "type": "standard"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Teenage_Dream:_The_Complete_Confection"
+    ]
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "https://en.wikipedia.org/wiki/Teenage_Dream:_The_Complete_Confection"
+  ],
+  "retrieved": "2026-11-18"
+}

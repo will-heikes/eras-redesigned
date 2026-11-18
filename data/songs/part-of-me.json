@@ -1,0 +1,517 @@
+{
+  "id": "part-of-me",
+  "title": "Part of Me",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 14,
+  "edition": "reissue",
+  "featuring": null,
+  "length": "3:36",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "McKee"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin",
+    "Cirkut"
+  ],
+  "single": {
+    "order": 7,
+    "date": "2012-02-13",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream:_The_Complete_Confection",
+    "edition": "reissue",
+    "reissue_order": 1
+  },
+  "cover": {
+    "file": "Part of Me cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Part_of_Me_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:Part_of_Me_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "Australia",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Austria",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Belgium",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Czech Republic",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Denmark",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Finland",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Japan",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Netherlands",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "New Zealand",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Norway",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Portugal",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Spain",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Sweden",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "Switzerland",
+      "date": "2012-02-14",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2012-02-21",
+      "format": "Contemporary hit radio",
+      "label": "Capitol"
+    },
+    {
+      "region": "Ireland",
+      "date": "2012-03-18",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2012-03-18",
+      "format": "Digital download",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2012-04-23",
+      "format": "CD",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2012-02-13",
+  "infobox_type": "single",
+  "genre": [
+    "{{hlist",
+    "Dance-pop",
+    "power pop}}"
+  ],
+  "lead": "\"Part of Me\" is a song by American singer-songwriter Katy Perry from Teenage Dream: The Complete Confection (2012), the reissue of her third studio album, Teenage Dream (2010). It was written by Perry, Dr. Luke, Max Martin, and Bonnie McKee, and produced by Dr. Luke, Martin, and Cirkut. The song was not included on the original edition of Teenage Dream because Perry felt that it did not fit the composition of the album. A demo of the song leaked online in late 2010, amid speculation that the lyrics were directed to the singer's ex-boyfriend Travie McCoy. \"Part of Me\" was re-worked and officially released as the lead single from The Complete Confection on February 13, 2012, through Capitol Records.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 5
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 1,
+    "can": 1,
+    "aus": 5
+  },
+  "weekly_charts": [
+    {
+      "period": "2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 5
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 18
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 18
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 28
+        },
+        {
+          "chart": "Bulgaria (BAMP)",
+          "position": 1
+        },
+        {
+          "chart": "Brazil",
+          "position": 25
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 99
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 17
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "Finland Download (Latauslista)",
+          "position": 26
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 13
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 20
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 6
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 5
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 9
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 14
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 22
+        },
+        {
+          "chart": "Lebanon (Lebanese Top 20)",
+          "position": 3
+        },
+        {
+          "chart": "Mexico (Billboard Mexican Airplay)",
+          "position": 8
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 27
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 28
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 11
+        },
+        {
+          "chart": "South Korea Foreign (Circle)",
+          "position": 6
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 48
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 33
+        },
+        {
+          "chart": "Turkey (Number One Top 20)",
+          "position": 11
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 59
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 18
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 22
+        },
+        {
+          "chart": "Venezuela Pop Rock General (Record Report)",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 45
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 21
+        },
+        {
+          "chart": "Canada Hot 100 (Billboard)",
+          "position": 18
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 98
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 44
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 74
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 32
+        },
+        {
+          "chart": "South Korea Foreign (Circle)",
+          "position": 86
+        },
+        {
+          "chart": "UK Singles (Official Charts)",
+          "position": 55
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 31
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 40
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 26
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 36
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 31
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 24
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "7× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "6× Platinum",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "2× Platinum",
+      "units_reported": "8,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Gold",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Gold",
+      "cert_year": 2012,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "3× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "304,829",
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "5× Platinum",
+      "cert_year": 2022,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "streaming only"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2026,
+      "type": "streaming only"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2023,
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Part_of_Me_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

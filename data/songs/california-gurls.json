@@ -1,0 +1,636 @@
+{
+  "id": "california-gurls",
+  "title": "California Gurls",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 3,
+  "edition": "standard",
+  "featuring": "Snoop Dogg",
+  "length": "3:56",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "Levin",
+    "McKee",
+    "Calvin Broadus"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Blanco",
+    "Martin"
+  ],
+  "single": {
+    "order": 1,
+    "date": "2010-05-07",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "California Gurls cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/California_Gurls_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:California_Gurls_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "Various",
+      "date": "2010-05-07",
+      "format": "{{hlist|Digital download|streaming}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2010-05-14",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Polydor"
+    },
+    {
+      "region": "United States",
+      "date": "2010-05-25",
+      "format": "{{hlist|Contemporary hit radio|rhythmic contemporary radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-06-07",
+      "format": "Hot adult contemporary radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-06-10",
+      "format": "CD",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2010-06-11",
+      "format": "CD",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-06-21",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-06-29",
+      "format": "CD",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-07-16",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "France",
+      "date": "2010-07-20",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-07-20",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2010-05-07",
+  "infobox_type": "single",
+  "genre": [
+    "{{Flat list",
+    "Disco-pop",
+    "electropop }}"
+  ],
+  "lead": "\"California Gurls\" is a song by American singer Katy Perry from her third studio album, Teenage Dream (2010). It was released as the album's lead single on May 7, 2010, through Capitol Records. The song features rap verses from Snoop Dogg. They both co-wrote \"California Gurls\" with Bonnie McKee and its producers Dr. Luke, Max Martin, and Benny Blanco. The track was recorded at Conway Recording Studios, based in Hollywood, Los Angeles. The song's mid-tempo production contains disco-pop and electropop. Its lyrics are an ode to the state of California, in which both Perry and Snoop Dogg were born and raised. According to Perry, \"California Gurls\" is an answer song to \"Empire State of Mind\" by Jay-Z and Alicia Keys.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": null,
+    "can": 1,
+    "aus": 1
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": null,
+    "can": 1,
+    "aus": 1
+  },
+  "weekly_charts": [
+    {
+      "period": "2010",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 1
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 3
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 6
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 3
+        },
+        {
+          "chart": "Bulgaria (BAMP)",
+          "position": 4
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "Canada CHR/Top 40 (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Canada Hot AC (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 31
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 1
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 6
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 5
+        },
+        {
+          "chart": "European Hot 100 Singles (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Finland (Suomen virallinen lista)",
+          "position": 2
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 5
+        },
+        {
+          "chart": "France Download (SNEP)",
+          "position": 3
+        },
+        {
+          "chart": "France Airplay (SNEP)",
+          "position": 1
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 3
+        },
+        {
+          "chart": "Hungarydance",
+          "position": 31
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 1
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 1
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 2
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 3
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 10
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 6
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 5
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 1
+        },
+        {
+          "chart": "Polish Dance Chart",
+          "position": 8
+        },
+        {
+          "chart": "Portugal Digital Songs (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 34
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 2
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 17
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 8
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 4
+        },
+        {
+          "chart": "UKsinglesbyname",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "Venezuela Pop Rock (Record Report)",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2010",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 5
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 16
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 24
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 17
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 18
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "CIS (TopHit)",
+          "position": 115
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 14
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 30
+        },
+        {
+          "chart": "Europe (European Hot 100 Singles)",
+          "position": 14
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 20
+        },
+        {
+          "chart": "Germany (Media Control AG)",
+          "position": 20
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 14
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 10
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 12
+        },
+        {
+          "chart": "Italy Airplay (EarOne)",
+          "position": 16
+        },
+        {
+          "chart": "Japan Hot 100 (Billboard)",
+          "position": 23
+        },
+        {
+          "chart": "Japan Adult Contemporary (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 10
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 17
+        },
+        {
+          "chart": "New Zealand (RIANZ)",
+          "position": 3
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 94
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 151
+        },
+        {
+          "chart": "South Korea Foreign (Circle)",
+          "position": 93
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 13
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 39
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 18
+        },
+        {
+          "chart": "UK Singles (Official Charts)",
+          "position": 8
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 4
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 17
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 15
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 17
+        },
+        {
+          "chart": "Worldwide (IFPI)",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "entries": [
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 92
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "11× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "2× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Belgium",
+      "certification": "Gold",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "2× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "2× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "2× Platinum",
+      "units_reported": "8,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Platinum",
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Japan",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "5× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Norway",
+      "certification": "3× Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "150,988",
+      "type": "standard"
+    },
+    {
+      "region": "Spain",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "Switzerland",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "3× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Diamond",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Japan",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "13,000,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/California_Gurls",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

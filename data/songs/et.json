@@ -1,0 +1,600 @@
+{
+  "id": "et",
+  "title": "E.T.",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 8,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:26",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "Joshua Coleman"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Ammo",
+    "Martin"
+  ],
+  "single": {
+    "order": 4,
+    "date": "2011-02-16",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "Katy Perry ET cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_ET_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_ET_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "United States",
+      "date": "2010-08-17",
+      "promotional": true,
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Australia",
+      "date": "2010-08-23",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Canada",
+      "date": "2011-02-11",
+      "format": "Digital download",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    },
+    {
+      "region": "France",
+      "date": "2011-02-11",
+      "format": "Digital download",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2011-02-11",
+      "format": "Digital download",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2011-02-16",
+      "format": "Digital download",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-02-18",
+      "format": "Digital download",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-03-01",
+      "format": "{{Hlist|Contemporary hit radio|rhythmic radio}}",
+      "version": "{{hlist|Original|remix featuring Kanye West}}",
+      "label": "Capitol"
+    },
+    {
+      "region": "Australia",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "Belgium",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "Canada",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "France",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2011-03-04",
+      "format": "Radio airplay",
+      "version": "Remix featuring Kanye West",
+      "label": "Polydor"
+    },
+    {
+      "region": "New Zeleand",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-03-04",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2011-03-11",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2011-03-17",
+      "format": "{{hlist|CD|maxi CD}}",
+      "version": "2-track",
+      "label": "EMI"
+    },
+    {
+      "region": "Germany",
+      "date": "2011-03-18",
+      "format": "{{hlist|CD|digital download}}",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "Switzerland",
+      "date": "2011-03-18",
+      "format": "Digital download",
+      "version": "Remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-04-11",
+      "format": "{{Hlist|AC radio|hot AC radio|modern AC radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-04-12",
+      "format": "{{Hlist|AC radio|hot AC radio|urban AC radio|urban radio}}",
+      "version": "Remix featuring Kanye West",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2011-02-11",
+  "infobox_type": "single",
+  "genre": [
+    "[[Electronic music",
+    "Electronic]]",
+    "hip-hop"
+  ],
+  "lead": "\"E.T.\" is a song by American singer-songwriter Katy Perry from her third studio album, Teenage Dream (2010). She co-wrote the song with its producers Dr. Luke, Max Martin, and Ammo, and recorded the song at Conway Recording Studios, based in Hollywood, Los Angeles. A remix version of the song features verses from American rapper Kanye West, and the remix version was later included on the reissue of Teenage Dream, Teenage Dream: The Complete Confection (2012). Musically, it is an electronic and hip-hop ballad which draws heavily from dubstep and techno, along with smaller amounts of drum and bass. According to Perry, the song lyrically speaks of \"falling in love with a foreigner\".",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 3,
+    "can": 1,
+    "aus": 5
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 3,
+    "can": 1,
+    "aus": 5
+  },
+  "weekly_charts": [
+    {
+      "period": "2010-2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 5
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 7
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 24
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 14
+        },
+        {
+          "chart": "Brazil (Billboard Brasil Hot 100) Solo version",
+          "position": 24
+        },
+        {
+          "chart": "Brazil Hot Pop Songs Solo version",
+          "position": 5
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 83
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 3
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 18
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 12
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "Finland (Suomen virallinen lista)",
+          "position": 15
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 10
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 9
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 10
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 5
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 5
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 9
+        },
+        {
+          "chart": "Japan Hot 100 (Billboard) Solo version",
+          "position": 71
+        },
+        {
+          "chart": "Luxembourg Digital Songs (Billboard)",
+          "position": 6
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 11
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 27
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 13
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 1
+        },
+        {
+          "chart": "Portugal Digital Songs (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 15
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 80
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 3
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 4
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 12
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 14
+        },
+        {
+          "chart": "Turkey (Number One Top 20)",
+          "position": 11
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 46
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 3
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 18
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Billboarddancesales",
+          "position": 1
+        },
+        {
+          "chart": "US Hot Singles Sales (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "US Hot R&B/Hip-Hop Songs (Billboard)",
+          "position": 83
+        },
+        {
+          "chart": "Billboardlatinsongs",
+          "position": 29
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 15
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 47
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 96
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 58
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 42
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 10
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 20
+        },
+        {
+          "chart": "Germany (Official German Charts)",
+          "position": 57
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 72
+        },
+        {
+          "chart": "Italy (Musica e dischi)",
+          "position": 45
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 13
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 79
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 82
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 102
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 35
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 4
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 21
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 9
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 171
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "6× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "7× Platinum",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2012,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "2× Platinum",
+      "units_reported": "8,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Gold",
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Platinum",
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "3× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "162,540",
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "2× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2026,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "13,000,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": "2010-08-17",
+  "sources": [
+    "https://en.wikipedia.org/wiki/E.T._(song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

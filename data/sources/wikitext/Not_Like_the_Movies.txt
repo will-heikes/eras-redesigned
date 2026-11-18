@@ -1,0 +1,94 @@
+{{good article}} 
+{{Infobox song
+| name          = Not Like the Movies
+| cover         = Katy Perry - Not Like the Movies.jpg
+| border        = yes
+| type          = [[Promotional recording|Promotional single]]
+| artist        = [[Katy Perry]]
+| album         = [[Teenage Dream (Katy Perry album)|Teenage Dream]]
+| released      = August 3, 2010
+| studio        = Rocket Carousel Studio<br>([[Los Angeles, California]])
+| genre         = [[Pop soul]]
+| length        = 4:01
+| label         = [[Capitol Records|Capitol]]
+| writer        = {{hlist|[[Katy Perry]]|[[Greg Wells]]}}
+| producer      = Greg Wells
+| misc          = {{External music video|header=Lyric video|{{YouTube|9ewTkrfaWtA|"Not Like the Movies"}}|type=song}}
+}}
+
+"'''Not Like the Movies'''" is a song by American singer [[Katy Perry]] from her third studio album, ''[[Teenage Dream (Katy Perry album)|Teenage Dream]]'' (2010). She co-wrote the song with its producer [[Greg Wells]]. [[Capitol Records]] released it on August 3, 2010, as the album's first [[Promotional recording|promotional single]]. The song is a [[pop soul]] power ballad from the point of view of a teenage girl. Lyrically, the girl contemplates her first time and how "it wasn't right". She realizes through that experience that her "prince" is still "out there" waiting for her. It was written when Perry first started dating her then-husband, [[Russell Brand]].
+
+Some music critics called "Not Like the Movies" a powerful and lovely song, as well a contemplative ballad, but noticed that the song's lyrics make only minimal reference to Brand. Commercially, the track peaked at number 53 on US [[Billboard Hot 100|''Billboard'' Hot 100]] chart and at number 41 on the [[Canadian Hot 100]] chart. Perry performed the song on her [[California Dreams Tour]] (2011). She also did a performance of the song along with "[[Teenage Dream (Katy Perry song)|Teenage Dream]]" at the [[53rd Annual Grammy Awards]] on February 13, 2011. The performance received positive reviews from music critics.
+
+== Conception ==
+In an interview with [[YouTube]] about ''[[Teenage Dream (Katy Perry album)|Teenage Dream]]'' in August 2010, Perry revealed that "Not Like the Movies" was the first song she wrote for the album after she finished her [[Hello Katy Tour]] (2009). Production and additional writing on the songs were done by [[Greg Wells]], who previously worked with the singer on her second studio album, ''[[One of the Boys (Katy Perry album)|One of the Boys]]'' (2008). Perry considers it to be like that of a two-part song because she had started working on "Not Like the Movies" before she met Brand, and completed it after they began dating. She stated it is a "really special" song to her because, at the first part of the track, it is a story that she needed to let out, which was claiming to know something that you do not actually know. Perry later expressed relief at being able to put all of her feelings into "Not Like the Movies".<ref name=youtube>{{cite web |url=https://www.youtube.com/watch?v=oKW2WvSUHQI  |archive-url=https://ghostarchive.org/varchive/youtube/20211215/oKW2WvSUHQI |archive-date=December 15, 2021 |url-status=live|title=Katy Perry talks "Not Like the Movies" |date=August 3, 2010 |first=Katy |last=Perry |via=[[YouTube]] |access-date=September 5, 2011}}{{cbignore}}</ref>
+
+== Composition ==
+{{listen
+ | filename     = Katy_Perry_-_Not_Like_the_Movies.ogg
+ | title        = "Not Like the Movies"
+ | description  = A 24-second sample of the song, featuring Perry singing the chorus.
+ | format       = [[Ogg]]
+ | pos          = left
+}}
+"Not Like the Movies" is a power ballad<ref name="usatoday"/> that lasts for four minutes and one second.<ref name="itunes">{{cite web|url=https://itunes.apple.com/be/album/not-like-the-movies-single/id384661761|archive-url=https://web.archive.org/web/20121112002606/https://itunes.apple.com/be/album/not-like-the-movies-single/id384661761|url-status=dead|archive-date=November 12, 2012|title=Not Like The Movies – Single by Katy Perry|work=[[Capitol Records]] |publisher=[[iTunes Store]] |date=August 8, 2010 |access-date=September 4, 2011}}</ref> The song is composed in the [[Key (music)|key]] of [[A-flat major|A{{music|flat}} major]] and is set in [[time signature]] of [[common time]], with a moderate [[tempo]] of 100 [[beats per minute]]. Perry's vocal range spans over an [[octave]], from F<sub>3</sub> to E{{music|flat}}<sub>5</sub>.<ref name="sheet">{{cite web|url=http://www.musicnotes.com/sheetmusic/mtdVPE.asp?ppn=MN0088658|title=Katy Perry Not Like the Movies – Digital Sheet Music|work=MusicNotes.com |date=22 November 2010|publisher=[[Alfred Music Publishing]] |access-date=September 4, 2011}}</ref> The song has a basic sequence of A{{music|flat}}5–Fm7–Cm–E{{music|flat}} as its [[chord progression]].<ref name="sheet"/> Lyrically, "Not Like the Movies" is a song about a love relationship where a woman does not feel in love and still waits for the man of her dreams, or "charming prince", as a Terra reviewer put it.<ref>{{cite web |url=http://en.terra.com/music/news/katy_perry_new_song_not_like_the_movies_out_now/oci36714 |title=Katy Perry New Song 'Not Like the Movies' Out Now |work=Terra |publisher=Terra Networks |access-date=September 4, 2011}}</ref> Chris Ryan from [[MTV News]] interpreted the song as largely being about how being in love does not meet your expectations and never really captures "the cinematic magic of big-screen love stories."<ref name="mtv" />
+
+Steve Leftridge from ''[[PopMatters]]'' considered the track to have a "ho-hum" [[melody]].<ref name="popmatters">{{cite web |url=https://www.popmatters.com/pm/review/130887-katy-perry-teenage-dream |title=Katy Perry: Teenage Dream |first=Steve |last=Leftridge |work=[[PopMatters]] |publisher=PopMatters, Media Inc |date=October 4, 2010 |access-date=September 4, 2011}}</ref> Its melody was compared to [[Britney Spears]]' "[[Everytime]]" (2003) and [[Evanescence]]'s "[[My Immortal (song)|My Immortal]]" (2003).<ref name="mtv">{{cite web |url=http://buzzworthy.mtv.com/2010/08/03/song-you-need-to-know-katy-perry-not-like-the-movies/ |archive-url=https://web.archive.org/web/20100805094412/http://buzzworthy.mtv.com/2010/08/03/song-you-need-to-know-katy-perry-not-like-the-movies/ |url-status=dead |archive-date=August 5, 2010 |title=Song You Need To Know: Katy Perry, 'Not Like The Movies' |publisher=[[Viacom (2005–present)|Viacom]] |work=[[MTV]] |last=Ryan |first=Chris |access-date=August 5, 2010 |date=September 4, 2011}}</ref> During the [[refrain|chorus]], Perry sings about holding out for a love that is "cinematic and dramatic/With the perfect ending" and later asks if she is a "stupid girl", according to Elysa Gardner from ''[[USA Today]]'' and an anonymous reviewer for Portrait Magazine. A reviewer for Portrait Magazine, considering it to be the slowest-paced song on ''Teenage Dream'', said it juxtaposed well with the other tracks. "It takes all the energy from the rest of the album, all the fast beating hearts and overwhelming feelings of love, and slows it all down to a song about looking for love instead," they wrote.<ref name="pm">{{cite web |url=http://www.portraitmagazine.net/reviews/albums/teenagedream.html |archive-url=https://archive.today/20130112030758/http://www.portraitmagazine.net/reviews/albums/teenagedream.html |url-status=dead |archive-date=January 12, 2013 |title=Katy Perry: Teenage Dream |publisher=Portrait Magazine |access-date=September 4, 2011 }}</ref>
+
+== Critical reception==
+{{quote box|width=25%|quote="When Katy Perry is flipping out in a ballad such as 'Not Like the Movies,' sobbing on the floor over her tragic love life, she's in a proud tradition of [[suburban]] girls who like their emotional meltdowns [[Cinema of the United States|Hollywood]]-size."|source=Rob Sheffield of ''[[Rolling Stone]]''<ref>{{cite magazine |url=https://www.rollingstone.com/music/albumreviews/teenage-dream-20100823 |title=Teenage Dream by Katy Perry – Music Review |last=Sheffield |first=Rob |magazine=[[Rolling Stone]] |date=August 23, 2010 |publisher=[[Jann Wenner|Wenner Media LLC]] |access-date=September 4, 2011 |archive-date=January 25, 2014 |archive-url=https://web.archive.org/web/20140125093925/http://www.rollingstone.com/music/albumreviews/teenage-dream-20100823 |url-status=dead }}</ref>}}
+
+Chris Ryan of [[MTV]] said the song is "rather lovely", but noted that its lyrics refer "very little" to Perry's then-husband, Russell Brand.<ref name="mtv" /> Elysa Gardner of ''USA Today'' called "Not Like the Movies" an "irresistible power ballad" and recommended readers to purchase the song.<ref name="usatoday">{{cite web |url=https://www.usatoday.com/life/music/reviews/2010-08-19-katyperry19_VA_N.htm |title=Review: Katy Perry is 'Dream'-ing of Madonna|last=Gardner |first=Elysa |work=[[USA Today]] |date=August 18, 2010 |publisher=[[Gannett Company]] |access-date=September 4, 2011}}</ref> A staff writer for Portrait Magazine stated that "Not Like the Movies" was a great way to end ''Teenage Dream'' and that it showcases the singer's voice quite well, as she has "lyrics to work for instead of ones to just play around with." The reviewer concluded that it was a "really good song."<ref name="pm" />
+
+==Commercial performance==
+Following its release as a [[promotional single]], "Not Like the Movies" managed to enter music charts based on legally paid [[music download|digital download]] sales. For the week ending August 11, 2010, "Not Like the Movies" debuted at number 53 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart,<ref name="billboarddigital">{{Cite magazine |url=https://www.billboard.com/articles/news/956910/taylor-swift-makes-sparkling-hot-100-entrance |first=Silvio |last=Pietroluongo |location=New York |title=Taylor Swift Makes Sparkling Hot 100 Entrance |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=August 11, 2010 |access-date=September 4, 2011}}</ref> and stayed on the chart for only one week. It also managed to enter another ''Billboard'' component chart, the [[Hot Digital Songs]], where the song found its peak at number 22, selling 57,000 digital downloads. On the [[Canadian Hot 100]], the song's highest position was at number forty-one.<ref>{{Cite web|url=https://allmusic.com/artist/katy-perry-p1010533/charts-awards/billboard-singles|title=Katy Perry Charts & Awards: Billboard Singles|publisher=[[Rovi Corporation]] |work=[[Allmusic]] |access-date=September 4, 2011}}</ref> The song has been certified [[RIAA certification|gold]] by the [[Recording Industry Association of America]] (RIAA) for equivalent sales of 500,000 units in the United States. The song was also certified Gold by the [[Australian Recording Industry Association]] (ARIA) for equivalent sales of 35,000 units in [[Australia]].
+== Live performances ==
+[[File:California Dreams Tour (Not Like the Movies).jpg|220px|right|thumb|Perry performing "Not Like the Movies" on the [[California Dreams Tour]] in 2011]]
+Perry included the song on her [[setlist]] for her 2011 world [[concert tour]] entitled [[California Dreams Tour]]. For performances of the song, she would sit on a flower-entwined bower swing that rises up to reveal a large white bridal train that flows out to complete the entire [[Theatrical scenery|backdrop]].<ref>{{cite web |url=https://www.nme.com/reviews/katy-perry/11946 |title=Live Review: Katy Perry |work=[[NME]] |publisher=[[IPC Media]] |first=Emily |last=MacKay |date=April 4, 2011 |access-date=August 24, 2011}}</ref> At the same time, a bubble machine started-up and the bed-sheet hanging behind her showed footage of [[cartoon]] animals falling in love. In a review of one of her concerts Ed Masley from ''[[The Arizona Republic]]'' called her performance of "Not Like the Movies" was "sweet".<ref name="tar">{{cite web |url=https://www.azcentral.com/thingstodo/music/articles/2011/08/04/20110804katy-perry-brings-her-candy-coated-california-dreams-phoenix.html |first=Ed |last=Masley |title=Katy Perry brings candy-coated California Dreams to Phoenix |work=[[The Arizona Republic]] |publisher=Gannett Company |date=August 4, 2011 |access-date=August 24, 2011 |archive-date=January 5, 2012 |archive-url=https://web.archive.org/web/20120105005659/http://www.azcentral.com/thingstodo/music/articles/2011/08/04/20110804katy-perry-brings-her-candy-coated-california-dreams-phoenix.html |url-status=dead }}</ref>
+
+The song was also performed live during the [[53rd Annual Grammy Awards]]. Dressed in a sparkly pale-pink, "princess-like" dress and wearing glittery make-up, Perry sat on a swing that continued to rise high above the stage as she sang the lyrics to "Not Like the Movies". MTV News reporter Mawuse Ziegbe called it a "heartfelt tribute".<ref name="mtvgrammy">{{cite web |url=http://www.mtv.com/news/articles/1657862/katy-perry-grammy-performance.jhtml |archive-url=https://web.archive.org/web/20110215104455/http://www.mtv.com/news/articles/1657862/katy-perry-grammy-performance.jhtml |url-status=dead |archive-date=February 15, 2011 |title=Katy Perry Shares Russell Brand Wedding Footage At Grammys  |publisher=[[MTV News]]. Viacom |first=Mawuse |last=Ziegbe |date=February 13, 2011 |access-date=September 5, 2011}}</ref> Claire Suddath of ''[[Time (magazine)|Time]]'' magazine said the "[[Valentine's Day]]–themed performance coupled with Perry's wedding footage made-up  for the swing that looked like a high school–yearbook photo backdrop". She gave it a Suddath "B+" rating.<ref name="time">{{cite magazine |url=https://content.time.com/time/specials/packages/article/0,28804,2048962_2048961_2048945,00.html |archive-url=https://web.archive.org/web/20110217201209/http://www.time.com/time/specials/packages/article/0,28804,2048962_2048961_2048945,00.html |url-status=live |archive-date=February 17, 2011 |title=Katy Perry; 'Not Like the Movies,' 'Teenage Dream' (Medley) |magazine=[[Time (magazine)|Time]] |publisher=[[Time Warner Inc]] |first=Claire |last=Suddath |date=February 14, 2011 |access-date=September 5, 2011}}</ref> Jon Bream of ''[[Star Tribune]]'' gave it a B grade.<ref>{{cite web |url=http://www.startribune.com/entertainment/blogs/116143149.html |title=Grading the Grammy performances |first=Jon |last=Bream |work=[[Star Tribune]] |publisher=Michael J. Klingensmith |date=February 14, 2011 |access-date=September 5, 2011}}</ref>
+
+"Not Like the Movies" was not included in the setlist of [[the Lifetimes Tour]] (2025), but was performed as part of the "Choose Your Own Adventure" set in few [[North America]] shows.<ref name="Billboard 2">{{cite magazine |last1=Dailey |first1=Hannah |date=April 24, 2025 |title=Katy Perry's Lifetimes Tour Setlist: Every Song From the First Show |url=https://www.billboard.com/lists/katy-perry-lifetimes-tour-setlist-every-song/ |url-status=live |archive-url=https://archive.today/20250424200845/https://www.billboard.com/lists/katy-perry-lifetimes-tour-setlist-every-song/artificial/ |archive-date=April 24, 2025 |access-date=April 24, 2025 |magazine=[[Billboard (magazine)|Billboard]] |issn=0006-2510 |oclc=732913734}}</ref><ref name="Parade 1">{{cite magazine |last1=McGahan |first1=Michelle |date=April 26, 2025 |title=Katy Perry Cries Onstage in Powerful Moment After Space Flight Backlash |url=https://parade.com/news/katy-perry-cries-onstage-pearl-performance-space-flight-backlash |url-status=live |archive-url=https://archive.today/20250427052917/https://parade.com/news/katy-perry-cries-onstage-pearl-performance-space-flight-backlash |archive-date=April 27, 2025 |access-date=April 27, 2025 |magazine=[[Parade (magazine)|Parade]] |publisher=[[Parade Media]] |oclc=1772138}}</ref>
+
+==Credits and personnel==
+Credits adapted from the ''Teenage Dream'' liner notes.<ref>{{cite AV media notes |title=Teenage Dream (Liner Notes) |title-link=Teenage Dream (Katy Perry album) |others=Katy Perry |year=2010 |first=Katy |last=Perry |author-link=Katy Perry |type=Compact Disc |publisher=Capitol Records |location=Los Angeles, California }}</ref>
+
+* Katy Perry – [[songwriting]], [[singing|lead vocals]]
+* Greg Wells – songwriting, [[record producer|producing]], [[drum kit|drums]], [[piano]], [[programming (music)|programming]]
+* Lewis Tozour – recording
+* Serban Ghenea – mixing
+* John Hanes – mix engineer
+* Tim Roberts – assistant
+
+==Charts==
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+ Chart performance for "Not Like the Movies"
+! scope="col" | Chart (2010)
+! scope="col" | Peak<br />position
+|-
+{{Single chart|Billboardcanadianhot100|41|artist=Katy Perry|rowheader=true}}
+|-
+{{Single chart|Billboardhot100|53|artist=Katy Perry|rowheader=true}}
+|}
+
+==Certifications==
+{{Certification Table Top}}
+{{Certification Table Entry|artist=Katy Perry|title=Not Like The Movies|region=Australia|relyear=2010|certyear=2025|award=Gold|type=single|access-date=July 8, 2025}}{{Certification Table Entry|region=United States|artist=Katy Perry|title=Not Like the Movies|award=Gold|type=single|certyear=2019|access-date=August 7, 2019|refname="us cert"}}
+{{Certification Table Bottom | nosales=true | noshipments=true | streaming=true}}
+
+==References==
+{{reflist|30em}}
+
+{{Katy Perry}}
+
+{{authority control}}
+
+[[Category:2010s ballads]]
+[[Category:2010 songs]]
+[[Category:Katy Perry songs]]
+[[Category:Songs written by Katy Perry]]
+[[Category:Songs written by Greg Wells]]
+[[Category:Song recordings produced by Greg Wells]]
+[[Category:Breakup songs]]
+[[Category:Pop ballads]]
+[[Category:Russell Brand]]

@@ -424,7 +424,7 @@
           "position": 21
         },
         {
-          "chart": "US Adult Top 40 (Billboard)",
+          "chart": "US Adult Pop Airplay (Billboard)",
           "position": 20
         },
         {
@@ -436,7 +436,7 @@
           "position": 42
         },
         {
-          "chart": "US Mainstream Top 40 (Billboard)",
+          "chart": "US Pop Airplay (Billboard)",
           "position": 13
         },
         {
@@ -505,7 +505,7 @@
           "position": 11
         },
         {
-          "chart": "US Adult Top 40 (Billboard)",
+          "chart": "US Adult Pop Airplay (Billboard)",
           "position": 39
         }
       ]

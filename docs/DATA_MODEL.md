@@ -12,8 +12,9 @@ date the pages were `retrieved`. Nothing is estimated or projected.
 data/
   artists/katy-perry.json      artist and their albums
   albums/prism.json            one album: tracklist, singles, charts, certs, awards
+  albums/teenage-dream.json    same, with its 2012 reissue folded in (see Reissues)
   songs/<song-id>.json         one file per track on the album
-  charts/hot100.json           Hot 100 top-ten hits and number ones, 2013-2015
+  charts/hot100.json           Hot 100 top-ten hits and number ones, 2010-2015
   sources/eras/prism.json      which Wikipedia pages feed this era
   sources/wikitext/*.txt       raw page snapshots the data was built from
 ```
@@ -38,6 +39,23 @@ data/
 | `year_end_charts[]` | `year` and `entries[]` |
 | `certifications[]` | `region`, `certification`, optional `units_reported`, `cert_year`, `type` (`standard`, or `streaming only` for streaming-only certifications) |
 | `awards[]` | `year`, `award`, `category`, `result` (`Won` or `Nominated`) |
+
+## Reissues
+
+An album reissued with new songs (Teenage Dream: The Complete Confection) stays one era.
+List the reissue page under `"reissue"` in the era source file. The build then:
+
+- adds the reissue's new tracks to `tracklist` with `edition: "reissue"` (remixes,
+  acoustic versions and other artists' songs are left out);
+- continues `singles` in order (Part of Me is single 7) with `edition: "reissue"`
+  and `reissue_order`;
+- stores the reissue's own `release_date`, `cover`, `key_peaks`, charts and
+  certifications under `album.reissue`.
+
+The album page has an Original / reissue switch. Original hides everything
+added by the reissue; the reissue view shows the full era with the reissue period
+shaded on the timeline and its tracks and singles marked in teal. Add
+`&edition=original` to the URL to open straight into the original view.
 
 ## Song
 

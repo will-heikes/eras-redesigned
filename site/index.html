@@ -12,7 +12,7 @@
 <body>
 <nav class="topbar">
   <a class="brand" href="./">Eras <b>Redesigned</b></a>
-  <div class="tabs"><a href="./" aria-current="page">Album</a><a href="redesign.html">Redesign</a></div>
+  <div class="tabs" id="tabs"><a href="./" aria-current="page">Album</a><a href="redesign.html">Redesign</a></div>
 </nav>
 
 <header class="masthead">
@@ -21,6 +21,7 @@
     <div class="kicker" id="kicker">Loading</div>
     <h1 id="album-title"></h1>
     <div class="sub" id="album-sub"></div>
+    <div class="edition-switch" id="edition-switch" hidden></div>
   </div>
   <div class="stats" id="album-stats"></div>
 </header>
@@ -32,9 +33,10 @@
       <div class="legend">
         <span><i class="sw sw-real"></i>Single</span>
         <span><i class="sw sw-promo"></i>Promo single</span>
+        <span id="legend-rx" hidden><i class="sw sw-rx"></i>Reissue single</span>
         <span><i class="sw sw-alt"></i>Hot 100 top-ten run</span>
         <span><i class="sw" style="background:var(--digital)"></i>No. 1 Digital Songs week</span>
-        <span><i class="sw" style="background:var(--stream)"></i>No. 1 Streaming Songs week</span>
+        <span id="legend-stream"><i class="sw" style="background:var(--stream)"></i>No. 1 Streaming Songs week</span>
       </div>
     </div>
     <div id="timeline" class="timeline"></div>
@@ -65,7 +67,7 @@
       <div class="tbl"><table id="album-certs"></table></div>
     </div>
     <div>
-      <div class="band-head"><h2>US awards, 2013–2015</h2></div>
+      <div class="band-head"><h2 id="awards-title">US awards</h2></div>
       <div class="stats" id="awards-summary" style="margin-bottom:16px"></div>
       <div class="tbl"><table id="awards"></table></div>
     </div>

@@ -1,0 +1,83 @@
+{
+  "id": "hummingbird-heartbeat",
+  "title": "Hummingbird Heartbeat",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 11,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:32",
+  "writers": [
+    "Perry",
+    "Stewart",
+    "Stacy Barthe",
+    "Neuble"
+  ],
+  "producers": [
+    "Stewart",
+    "Harrell{{ref|a|[a]}}"
+  ],
+  "single": null,
+  "cover": null,
+  "release_history": [],
+  "first_release": "2010-08-24",
+  "infobox_type": "song",
+  "genre": [
+    "Hard rock",
+    "pop rock"
+  ],
+  "lead": "\"Hummingbird Heartbeat\" is a song recorded by American singer Katy Perry for her third studio album, Teenage Dream (2010). It was written by Perry, Christopher \"Tricky\" Stewart, Stacy Barthe, and Monte Neuble. Stewart handled the production of the song, while Kuk Harrell produced Perry's vocals. The song was recorded in 2009, at both the Boom Boom Boom, based in Burbank, California, and Henson Recording Studios, based in Los Angeles. \"Hummingbird Heartbeat\" was inspired by Perry's boyfriend at the time, Russell Brand. Musically, it is a 1980s-styled hard rock and pop rock song that contains a mixture of elements from electronica and rock music. Lyrically, the song compares the feeling of being in love to the speed of a hummingbird's heartbeat.",
+  "key_peaks_original_era": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2010",
+      "entries": [
+        {
+          "chart": "South Korea International Download (Gaon)",
+          "position": 124
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "Gold",
+      "cert_year": 2023,
+      "type": "standard"
+    }
+  ],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": null,
+    "AUT": null,
+    "CAN": null,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": null,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": null
+  },
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hummingbird_Heartbeat",
+    "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-18"
+}

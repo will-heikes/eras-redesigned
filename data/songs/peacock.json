@@ -1,0 +1,105 @@
+{
+  "id": "peacock",
+  "title": "Peacock",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 5,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:51",
+  "writers": [
+    "Perry",
+    "Eriksen",
+    "Hermansen",
+    "Dean"
+  ],
+  "producers": null,
+  "single": null,
+  "cover": {
+    "file": "Katy Perry - Peacock (2012).jpg",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_-_Peacock_(2012).jpg",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_-_Peacock_(2012).jpg"
+  },
+  "release_history": [],
+  "first_release": "2012-03-26",
+  "infobox_type": "promo",
+  "genre": [
+    "Dance-pop"
+  ],
+  "lead": "\"Peacock\" is a song by American singer Katy Perry, taken from her third studio album, Teenage Dream (2010). The song was written by Perry alongside Ester Dean and Stargate, the latter group also producing the song. Because the dance-pop song was filled with suggestive lyrics pertaining to male genitalia, Capitol Records initially opposed the idea of including it on her record. Similar to what happened with another song of hers – \"I Kissed a Girl\" (2008) – she refused to withdraw it from the record. The song was initially released as a Radio Promotional Single with focusing on the Billboard Dance Club Songs on September 6, 2010. On March 26, 2012, a remix version by Cory Enemy and Mia Moretti was later released as a promotional single on iTunes. \"Peacock\" was panned by music critics and, musically, was compared to the 1980s song \"Mickey\" by Toni Basil, and Gwen Stefani's \"Hollaback Girl\" (2005). The song charted at number 52 in the Czech Republic, number 56 in Canada, number 101 in South Korea, number 152 in the United Kingdom, and number 1 on the US Dance Club Songs chart. It has also received platinum certifications in Australia, Canada, and the United States. Perry has performed \"Peacock\" on several occasions, including during her 2011 world tour California Dreams Tour. When performing the track, the singer usually wears colorful or glittery clothing.",
+  "key_peaks_original_era": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": null,
+    "uk": null,
+    "can": null,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2010",
+      "entries": [
+        {
+          "chart": "US Bubbling Under Hot 100 (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Platinum",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Platinum",
+      "cert_year": 2014,
+      "type": "standard"
+    }
+  ],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": 5,
+    "AUT": null,
+    "CAN": 56,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": null,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": 125
+  },
+  "role": "promotional single",
+  "promotional_release": "2012-03-26",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Peacock_(song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-18"
+}

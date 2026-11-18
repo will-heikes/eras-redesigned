@@ -1,0 +1,554 @@
+{
+  "id": "the-one-that-got-away",
+  "title": "The One That Got Away",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 7,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:47",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin"
+  ],
+  "single": {
+    "order": 6,
+    "date": "2011-09-30",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "The One That Got Away cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/The_One_That_Got_Away_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:The_One_That_Got_Away_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "France",
+      "date": "2011-09-30",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Universal"
+    },
+    {
+      "region": "United States",
+      "date": "2011-10-11",
+      "format": "{{Hlist|Contemporary hit radio|rhythmic contemporary radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2011-10-28",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "{{hlist|EMI|Polydor}}"
+    },
+    {
+      "region": "United States",
+      "date": "2011-10-31",
+      "format": "{{Hlist|Adult contemporary radio|hot adult contemporary radio|modern adult contemporary}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2011-12-02",
+      "format": "Digital download",
+      "version": "The remixes",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-12-15",
+      "format": "{{hlist|Contemporary hit radio|rhythmic contemporary radio}}",
+      "version": "Remix featuring B.o.B",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2011-12-20",
+      "format": "Digital download",
+      "version": "Remix featuring B.o.B",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2012-01-16",
+      "format": "Digital download",
+      "version": "Acoustic",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2011-09-30",
+  "infobox_type": "single",
+  "genre": [
+    "[[Pop music",
+    "Pop]]"
+  ],
+  "lead": "\"The One That Got Away\" is a song by American singer-songwriter Katy Perry from her third studio album, Teenage Dream (2010). She co-wrote the track with its producers Dr. Luke and Max Martin. The song was recorded in Conway Recording Studios, based in Hollywood, California, and is a mid-tempo pop ballad about a lost love.",
+  "key_peaks_original_era": {
+    "us": 3,
+    "uk": 18,
+    "can": 2,
+    "aus": 27
+  },
+  "key_peaks_all_time": {
+    "us": 3,
+    "uk": 18,
+    "can": 2,
+    "aus": 27
+  },
+  "weekly_charts": [
+    {
+      "period": "2011-2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 27
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 19
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 33
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 44
+        },
+        {
+          "chart": "Brazil (Billboard Brasil Hot 100)",
+          "position": 27
+        },
+        {
+          "chart": "Brazil Hot Pop Songs",
+          "position": 10
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 2
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 45
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 47
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 30
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 34
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 3
+        },
+        {
+          "chart": "Indonesia (Official Southeast Asia Charts)",
+          "position": 10
+        },
+        {
+          "chart": "Iceland (Tónlistinn)",
+          "position": 16
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 13
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 39
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 62
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 8
+        },
+        {
+          "chart": "Mexico (Billboard Mexican Airplay)",
+          "position": 23
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 21
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 66
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 12
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 75
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 47
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 17
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 7
+        },
+        {
+          "chart": "South Korea (Circle)",
+          "position": 78
+        },
+        {
+          "chart": "South Korea International Download Singles (Gaon)",
+          "position": 2
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 42
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 48
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 33
+        },
+        {
+          "chart": "Turkey (Number One Top 20)",
+          "position": 17
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 18
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 20
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 3
+        },
+        {
+          "chart": "US Bubbling Under R&B/Hip-Hop Songs (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "US Dance Singles Sales (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "Billboardlatinairplay",
+          "position": 36
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 19
+        },
+        {
+          "chart": "Venezuela Pop Rock (Record Report)",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "period": "2026",
+      "entries": [
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 9
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 24
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 16
+        },
+        {
+          "chart": "Billboard Global 200",
+          "position": 23
+        },
+        {
+          "chart": "Greece International (IFPI)",
+          "position": 23
+        },
+        {
+          "chart": "Indonesia (IFPI)",
+          "position": 10
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 28
+        },
+        {
+          "chart": "Lithuania (AGATA)",
+          "position": 83
+        },
+        {
+          "chart": "Luxembourg (Billboard)",
+          "position": 9
+        },
+        {
+          "chart": "Malaysia (IFPI)",
+          "position": 2
+        },
+        {
+          "chart": "Malaysia International (RIM)",
+          "position": 2
+        },
+        {
+          "chart": "Norway (IFPI Norge)",
+          "position": 70
+        },
+        {
+          "chart": "Philippines (IFPI)",
+          "position": 15
+        },
+        {
+          "chart": "Philippines (Philippines Hot 100)",
+          "position": 12
+        },
+        {
+          "chart": "Portugal (AFP)",
+          "position": 29
+        },
+        {
+          "chart": "Singapore (RIAS)",
+          "position": 7
+        },
+        {
+          "chart": "Slovakia (Singles Digitál Top 100)",
+          "position": 39
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 54
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 22
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 24
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2011",
+      "entries": [
+        {
+          "chart": "UK Singles (Official Charts)",
+          "position": 153
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 20
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 154
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 56
+        },
+        {
+          "chart": "UK Singles (Official Charts Company)",
+          "position": 123
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 55
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 41
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 10
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 15
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 21
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 24
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 14
+        },
+        {
+          "chart": "US Radio Songs (Billboard)",
+          "position": 20
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "7× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "3× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "7× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "2× Platinum",
+      "units_reported": "8,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Gold",
+      "cert_year": 2014,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "4× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea (Gaon)",
+      "certification": null,
+      "units_reported": "285,939",
+      "type": "standard"
+    },
+    {
+      "region": "Spain",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "3× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "5× Platinum",
+      "cert_year": 2022,
+      "type": "standard"
+    },
+    {
+      "region": "Greece",
+      "certification": "Platinum",
+      "cert_year": 2026,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "6,500,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_One_That_Got_Away_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

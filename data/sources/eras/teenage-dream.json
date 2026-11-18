@@ -1,0 +1,29 @@
+{
+  "artist": {"id": "katy-perry", "name": "Katy Perry", "page": "Katy_Perry", "discography_page": "Katy_Perry_discography"},
+  "album": {"id": "teenage-dream", "title": "Teenage Dream", "page": "Teenage_Dream"},
+  "reissue": {"id": "complete-confection", "title": "Teenage Dream: The Complete Confection", "page": "Teenage_Dream:_The_Complete_Confection"},
+  "songs": [
+    {"id": "teenage-dream", "title": "Teenage Dream", "page": "Teenage_Dream_(Katy_Perry_song)"},
+    {"id": "last-friday-night", "title": "Last Friday Night (T.G.I.F.)", "page": "Last_Friday_Night_(T.G.I.F.)"},
+    {"id": "california-gurls", "title": "California Gurls", "page": "California_Gurls"},
+    {"id": "firework", "title": "Firework", "page": "Firework_(song)"},
+    {"id": "peacock", "title": "Peacock", "page": "Peacock_(song)"},
+    {"id": "circle-the-drain", "title": "Circle the Drain", "page": "Circle_the_Drain_(Katy_Perry_song)"},
+    {"id": "the-one-that-got-away", "title": "The One That Got Away", "page": "The_One_That_Got_Away_(Katy_Perry_song)"},
+    {"id": "et", "title": "E.T.", "page": "E.T._(song)"},
+    {"id": "who-am-i-living-for", "title": "Who Am I Living For?"},
+    {"id": "pearl", "title": "Pearl"},
+    {"id": "hummingbird-heartbeat", "title": "Hummingbird Heartbeat", "page": "Hummingbird_Heartbeat"},
+    {"id": "not-like-the-movies", "title": "Not Like the Movies", "page": "Not_Like_the_Movies"},
+    {"id": "part-of-me", "title": "Part of Me", "page": "Part_of_Me_(Katy_Perry_song)"},
+    {"id": "wide-awake", "title": "Wide Awake", "page": "Wide_Awake_(Katy_Perry_song)"},
+    {"id": "dressin-up", "title": "Dressin' Up", "page": "Dressin'_Up"},
+    {"id": "megasix-smash-up", "title": "Tommie Sunshine's Megasix Smash-Up"}
+  ],
+  "extra_pages": [
+    "List_of_Billboard_Hot_100_top-ten_singles_in_2010", "List_of_Billboard_Hot_100_top-ten_singles_in_2011", "List_of_Billboard_Hot_100_top-ten_singles_in_2012",
+    "List_of_Billboard_Hot_100_number_ones_of_2010", "List_of_Billboard_Hot_100_number_ones_of_2011", "List_of_Billboard_Hot_100_number_ones_of_2012",
+    "List_of_number-one_digital_songs_of_2010_(U.S.)", "List_of_number-one_digital_songs_of_2011_(U.S.)", "List_of_number-one_digital_songs_of_2012_(U.S.)"
+  ],
+  "retrieved": "2026-11-18"
+}

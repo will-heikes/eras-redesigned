@@ -1,0 +1,78 @@
+{
+  "id": "not-like-the-movies",
+  "title": "Not Like the Movies",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 12,
+  "edition": "standard",
+  "featuring": null,
+  "length": "4:01",
+  "writers": [
+    "Perry",
+    "Wells"
+  ],
+  "producers": null,
+  "single": null,
+  "cover": {
+    "file": "Katy Perry - Not Like the Movies.jpg",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Katy_Perry_-_Not_Like_the_Movies.jpg",
+    "page": "https://en.wikipedia.org/wiki/File:Katy_Perry_-_Not_Like_the_Movies.jpg"
+  },
+  "release_history": [],
+  "first_release": "2010-08-03",
+  "infobox_type": "Promotional single",
+  "genre": [
+    "Pop soul"
+  ],
+  "lead": "\"Not Like the Movies\" is a song by American singer Katy Perry from her third studio album, Teenage Dream (2010). She co-wrote the song with its producer Greg Wells. Capitol Records released it on August 3, 2010, as the album's first promotional single. The song is a pop soul power ballad from the point of view of a teenage girl. Lyrically, the girl contemplates her first time and how \"it wasn't right\". She realizes through that experience that her \"prince\" is still \"out there\" waiting for her. It was written when Perry first started dating her then-husband, Russell Brand.",
+  "key_peaks_original_era": {
+    "us": 53,
+    "uk": null,
+    "can": 41,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": 53,
+    "uk": null,
+    "can": 41,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2010",
+      "entries": [
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 41
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 53
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Gold",
+      "cert_year": 2019,
+      "type": "standard"
+    }
+  ],
+  "awards": [],
+  "role": "promotional single",
+  "promotional_release": "2010-08-03",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Not_Like_the_Movies",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

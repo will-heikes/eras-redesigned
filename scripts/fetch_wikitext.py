@@ -31,7 +31,7 @@ def fetch(title):
 def main(config_path):
     with open(config_path) as f:
         cfg = json.load(f)
-    pages = [cfg["album"]["page"]] + [s["page"] for s in cfg["songs"] if s.get("page")]
+    pages = [cfg["album"]["page"]] + ([cfg["reissue"]["page"]] if cfg.get("reissue") else []) + [s["page"] for s in cfg["songs"] if s.get("page")]
     pages += cfg.get("extra_pages", [])
     os.makedirs(OUT, exist_ok=True)
     for title in pages:

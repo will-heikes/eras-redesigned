@@ -1,0 +1,592 @@
+{
+  "id": "firework",
+  "title": "Firework",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 4,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:47",
+  "writers": [
+    "Perry",
+    "Mikkel S. Eriksen",
+    "Tor Erik Hermansen",
+    "Sandy Wilhelm",
+    "Ester Dean"
+  ],
+  "producers": [
+    "Stargate",
+    "Sandy Vee"
+  ],
+  "single": {
+    "order": 3,
+    "date": "2010-10-26",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "Firework cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Firework_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:Firework_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "United States",
+      "date": "2010-10-26",
+      "format": "Contemporary hit radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-11-02",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-11-16",
+      "format": "Rhythmic contemporary radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-11-22",
+      "format": "Hot adult contemporary radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-12-02",
+      "format": "CD",
+      "version": "{{hlist|Original|Instrumental}}",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2010-12-03",
+      "format": "CD",
+      "version": "{{hlist|Original|Instrumental}}",
+      "label": "Capitol"
+    },
+    {
+      "region": "France",
+      "date": "2011-01-24",
+      "format": "CD",
+      "version": "Original",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2010-10-26",
+  "infobox_type": "single",
+  "genre": [
+    "Dance-pop"
+  ],
+  "lead": "\"Firework\" is a song by American singer Katy Perry from her third studio album, Teenage Dream (2010). She co-wrote the song with Ester Dean and the song's producers Stargate and Sandy Vee. The track was mostly recorded at StarRoc's Roc the Mic Studios, based in New York City, New York. It is a dance-pop self-empowerment anthem with inspirational lyrics, and Perry's favorite track on the album. Capitol Records released \"Firework\" as the third Teenage Dream single on October 26, 2010.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 3,
+    "can": 1,
+    "aus": 3
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 3,
+    "can": 1,
+    "aus": 3
+  },
+  "weekly_charts": [
+    {
+      "period": "2010-2012",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 3
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 3
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 5
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 5
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 59
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 6
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 4
+        },
+        {
+          "chart": "Czech Republic (Singles Digitál Top 100)",
+          "position": 95
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 14
+        },
+        {
+          "chart": "Europe (European Hot 100 Singles)",
+          "position": 9
+        },
+        {
+          "chart": "Finland (Suomen virallinen lista)",
+          "position": 18
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 7
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 4
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 2
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 2
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 3
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 4
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 27
+        },
+        {
+          "chart": "Luxembourg Digital Song Sales (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "Mexico (Billboard Mexican Airplay)",
+          "position": 4
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 8
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 6
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Norway (VG-lista)",
+          "position": 2
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 3
+        },
+        {
+          "chart": "Portugal Digital Songs (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 15
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 69
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 3
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 2
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 14
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 4
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 3
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 3
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 5
+        },
+        {
+          "chart": "Venezuela Pop Rock (Record Report)",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "period": "2013",
+      "entries": [
+        {
+          "chart": "South Korea International Singles (Gaon)",
+          "position": 139
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 89
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2010",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 24
+        },
+        {
+          "chart": "Germany (Official German Charts)",
+          "position": 88
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 94
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 9
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 75
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 17
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "year": "2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 28
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 37
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 57
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 32
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 14
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 8
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 50
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 34
+        },
+        {
+          "chart": "Germany (Official German Charts)",
+          "position": 53
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 26
+        },
+        {
+          "chart": "Italy (Musica e dischi)",
+          "position": 40
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 38
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 31
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 88
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 32
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 43
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 36
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 65
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 3
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 2
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 6
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 19
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 8
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "France (SNEP)",
+          "position": 133
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 187
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "16× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "2× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Belgium",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2023,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Platinum",
+      "cert_year": 2022,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "3× Platinum",
+      "units_reported": "12,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Diamond",
+      "cert_year": 2022,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Platinum",
+      "cert_year": 2018,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "2× Platinum",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "Japan",
+      "certification": "Gold",
+      "cert_year": 2018,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Platinum+Gold",
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "5× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Norway",
+      "certification": "4× Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "Portugal",
+      "certification": "Gold",
+      "cert_year": 2020,
+      "type": "standard"
+    },
+    {
+      "region": "Spain",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Switzerland",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "4× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "12× Platinum",
+      "cert_year": 2020,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2025,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "17,000,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Firework_(song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

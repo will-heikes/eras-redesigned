@@ -18,6 +18,7 @@ DATA = os.path.join(ROOT, "data")
 # {{single chart|CODE|...}} / {{album chart|CODE|...}} codes -> display name.
 CHART_NAMES = {
     "Billboardhot100": "US Billboard Hot 100",
+    "Billboardbubbling100": "US Bubbling Under Hot 100 (Billboard)",
     "Billboard200": "US Billboard 200",
     "Billboardpopsongs": "US Pop Airplay (Billboard)",
     "Billboardadultpopsongs": "US Adult Pop Airplay (Billboard)",
@@ -284,6 +285,21 @@ def to_int(v):
     return int(v) if m else None
 
 
+# older articles name Billboard's charts by their names at the time
+US_ALIASES = {
+    "US Mainstream Top 40 (Billboard)": "US Pop Airplay (Billboard)",
+    "US Pop Songs (Billboard)": "US Pop Airplay (Billboard)",
+    "US Adult Top 40 (Billboard)": "US Adult Pop Airplay (Billboard)",
+    "US Adult Pop Songs (Billboard)": "US Adult Pop Airplay (Billboard)",
+    "US Rhythmic (Billboard)": "US Rhythmic Airplay (Billboard)",
+    "US Rhythmic Songs (Billboard)": "US Rhythmic Airplay (Billboard)",
+    "US Hot Dance Club Songs (Billboard)": "US Dance Club Songs (Billboard)",
+    "US Dance Club Play (Billboard)": "US Dance Club Songs (Billboard)",
+    "US Dance/Mix Show Airplay": "US Dance/Mix Show Airplay (Billboard)",
+    "US Dance Mix/Show Airplay (Billboard)": "US Dance/Mix Show Airplay (Billboard)",
+}
+
+
 def parse_tables(section_text):
     """Yield (period, [rows]) for each wikitable in a chart section.
 
@@ -300,10 +316,10 @@ def parse_tables(section_text):
         pending = None
         for line in lines:
             s = line.strip()
-            tm2 = re.search(r"\{\{\s*(single|album) chart\s*\|", s, re.I)
+            tm2 = re.search(r"\{\{\s*(single|album) ?chart\s*\|", s, re.I)
             if tm2:
                 is_album = tm2.group(1).lower() == "album"
-                body = next(find_templates(s[tm2.start():], r"(?:single|album) chart"), None)
+                body = next(find_templates(s[tm2.start():], r"(?:single|album) ?chart"), None)
                 if body is None:
                     continue
                 pos, _ = template_params(body)
@@ -326,7 +342,7 @@ def parse_tables(section_text):
         out = []
         for r in rows:
             n = to_int(r["value"])
-            out.append({"chart": r["chart"], "position": n if n is not None else r["value"]})
+            out.append({"chart": US_ALIASES.get(r["chart"], r["chart"]), "position": n if n is not None else r["value"]})
         if out:
             yield period, out
 
@@ -558,6 +574,8 @@ def parse_tracklist(album_wiki):
     for tl in find_templates(body, "track listing"):
         _, p = template_params(tl)
         edition = clean(p.get("headline", "Standard edition")) or "Standard edition"
+        if re.search(r"exclusive|vinyl|teenager|anniversary|japan", edition, re.I):
+            continue  # later or regional pressings are not part of the original era
         n = 1
         while True:
             # track numbers continue across editions, so scan forward
@@ -568,10 +586,17 @@ def parse_tracklist(album_wiki):
             for n in nums:
                 writers = [clean(w) for w in re.findall(r"^\*\s*(.+)$", p.get(f"writer{n}", ""), re.M)]
                 producers = [clean(w) for w in re.findall(r"^\*\s*(.+)$", p.get(f"extra{n}", ""), re.M)]
+                note = clean(p.get(f"note{n}", ""))
+                title = clean(p[f"title{n}"])
+                # remixes, alternate versions and other artists' songs featuring the artist
+                if re.search(r"\bremix|\bmix\b|acoustic|version|featuring katy perry|edit\b", note, re.I):
+                    continue
+                if any(t["title"].lower() == title.lower() for t in tracks):
+                    continue
                 tracks.append({
                     "track": n,
-                    "title": clean(p[f"title{n}"]),
-                    "note": clean(p.get(f"note{n}", "")) or None,
+                    "title": title,
+                    "note": note or None,
                     "length": clean(p.get(f"length{n}", "")) or None,
                     "writers": writers or None,
                     "producers": producers or None,
@@ -643,6 +668,34 @@ def main(config_path):
                 r["chart"] = "UK Albums (OCC)"
     year_end = [{"year": p, "entries": e} for p, e in parse_tables(secs.get("year-end charts", ""))]
 
+    # ---- reissue (e.g. Teenage Dream: The Complete Confection): new tracks and singles join the era
+    reissue = None
+    if cfg.get("reissue"):
+        rpage = cfg["reissue"]["page"]
+        r_wiki = read(rpage)
+        r_secs = sections(r_wiki)
+        r_ib = infobox(r_wiki, "album")
+        have = {t["title"].lower() for t in tracks}
+        for t in parse_tracklist(r_wiki):
+            if t["title"].lower() not in have:
+                tracks.append({**t, "edition": "reissue"})
+        r_singles = album_singles(r_ib)
+        for i, sg in enumerate(r_singles, 1):
+            singles.append({"order": len(singles) + 1, "title": sg["title"], "date": sg["date"], "edition": "reissue", "reissue_order": i})
+        r_weekly = [{"period": p, "entries": e} for p, e in parse_tables(r_secs.get("weekly charts", ""))]
+        reissue = {
+            "id": cfg["reissue"]["id"],
+            "title": cfg["reissue"]["title"],
+            "release_date": parse_date(r_ib.get("released", "")),
+            "cover": cover_of(r_ib),
+            "lead": lead_paragraph(r_wiki),
+            "key_peaks": key_peaks(r_weekly, KEY_ALBUM_CHARTS),
+            "weekly_charts": r_weekly,
+            "year_end_charts": [{"year": p, "entries": e} for p, e in parse_tables(r_secs.get("year-end charts", ""))],
+            "certifications": parse_certifications(r_wiki),
+            "sources": [wiki_url(rpage)],
+        }
+
     # ---- discography (album tracks without their own article)
     disc_wiki = read(cfg["artist"]["discography_page"])
     disc_headers, disc_rows = discography_other_charted(disc_wiki, cfg["album"]["title"])
@@ -670,6 +723,8 @@ def main(config_path):
         }
         sg = single_by_title.get(s["title"].lower())
         rec["single"] = {"order": sg["order"], "date": sg["date"], "source": wiki_url(apage)} if sg else None
+        if sg and sg.get("edition") == "reissue":
+            rec["single"].update({"edition": "reissue", "reissue_order": sg["reissue_order"], "source": wiki_url(cfg["reissue"]["page"])})
         sources = [wiki_url(apage)]
         if s.get("page"):
             data = song_from_page(s["page"], read(s["page"]))
@@ -713,7 +768,8 @@ def main(config_path):
         "year_end_charts": year_end,
         "certifications": parse_certifications(album_wiki),
         "awards": parse_awards(album_wiki),
-        "sources": [wiki_url(apage)],
+        "reissue": reissue,
+        "sources": [wiki_url(apage)] + (reissue["sources"] if reissue else []),
         "retrieved": cfg.get("retrieved"),
     }
     os.makedirs(os.path.join(DATA, "albums"), exist_ok=True)

@@ -1,0 +1,77 @@
+{
+  "id": "circle-the-drain",
+  "title": "Circle the Drain",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 6,
+  "edition": "standard",
+  "featuring": null,
+  "length": "4:32",
+  "writers": [
+    "Perry",
+    "Christopher Stewart",
+    "Monte Neuble"
+  ],
+  "producers": [
+    "Stewart",
+    "Kuk Harrell{{ref|a|[a]}}"
+  ],
+  "single": null,
+  "cover": {
+    "file": "circlethedraincover.jpeg",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/circlethedraincover.jpeg",
+    "page": "https://en.wikipedia.org/wiki/File:circlethedraincover.jpeg"
+  },
+  "release_history": [],
+  "first_release": "2010-08-10",
+  "infobox_type": "promo",
+  "genre": [
+    "{{flat list",
+    "[[Dance-rock",
+    "Disco-rock]]",
+    "gothic rock",
+    "hard rock}}"
+  ],
+  "lead": "\"Circle the Drain\" is a song by American singer Katy Perry, from her third studio album, Teenage Dream (2010). It was written by Perry, Christopher \"Tricky\" Stewart and Monte Neuble. Stewart would also produce the song. Lyrically, \"Circle the Drain\" candidly focuses on a former lover's drug-addiction and the strains it put on both of them. Following its release, several media outlets reported it to have been inspired by her former relationship with Travie McCoy. Capitol Records released the track as a promotional single two weeks before the album's release on August 10.",
+  "key_peaks_original_era": {
+    "us": 58,
+    "uk": null,
+    "can": 30,
+    "aus": null
+  },
+  "key_peaks_all_time": {
+    "us": 58,
+    "uk": null,
+    "can": 30,
+    "aus": null
+  },
+  "weekly_charts": [
+    {
+      "period": "2010",
+      "entries": [
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 30
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 36
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 58
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [],
+  "awards": [],
+  "role": "promotional single",
+  "promotional_release": "2010-08-10",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Circle_the_Drain_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

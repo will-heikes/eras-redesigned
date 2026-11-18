@@ -1,0 +1,438 @@
+{
+  "id": "teenage-dream",
+  "title": "Teenage Dream",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 1,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:47",
+  "writers": [
+    "Katy Perry",
+    "Lukasz Gottwald",
+    "Max Martin",
+    "Benjamin Levin",
+    "Bonnie McKee"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Benny Blanco",
+    "Martin"
+  ],
+  "single": {
+    "order": 2,
+    "date": "2010-07-23",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "Teenage Dream single cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Teenage_Dream_single_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:Teenage_Dream_single_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "Canada",
+      "date": "2010-07-23",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-07-23",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Australia",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Austria",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "France",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "New Zealand",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Norway",
+      "date": "2010-07-28",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-08-03",
+      "format": "Contemporary hit radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2010-08-24",
+      "format": "Rhythmic contemporary radio",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-08-30",
+      "format": "Digital download",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2010-09-03",
+      "format": "Digital download",
+      "version": "Remix EP",
+      "label": "Capitol"
+    },
+    {
+      "region": "Germany",
+      "date": "2010-09-03",
+      "format": "CD",
+      "version": "{{hlist|Original|Instrumental}}",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2010-10-08",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "Polydor"
+    },
+    {
+      "region": "United Kingdom",
+      "date": "2010-10-26",
+      "format": "CD",
+      "version": "{{hlist|Original|Instrumental}}",
+      "label": "EMI"
+    }
+  ],
+  "first_release": "2010-07-23",
+  "infobox_type": "single",
+  "genre": [
+    "Electropop",
+    "power pop"
+  ],
+  "lead": "\"Teenage Dream\" is a song by American singer Katy Perry. It was released as the second single from her third studio album of the same name on July 23, 2010. She and Bonnie McKee co-wrote the track with its producers Dr. Luke, Max Martin, and Benny Blanco. The track was recorded at Conway Recording Studios, based in Hollywood, Los Angeles, and Playback Recording Studios, based in Santa Barbara, California. McKee describes \"Teenage Dream\" as a throwback song to the euphoric feelings of being in love as a teenager while Perry described the song as reminiscent of her youth. Musically, \"Teenage Dream\" is a mid-tempo pop song with a retro sound. It is styled in the genres of power pop and electropop, while taking influence from other genres such as disco and pop rock. Perry starts the song in a high-pitched voice while her vocals grow stronger as the song progresses. Lyrically, \"Teenage Dream\" discusses being with a lover who makes one feel young again.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 2,
+    "can": 2,
+    "aus": 2
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 2,
+    "can": 2,
+    "aus": 2
+  },
+  "weekly_charts": [
+    {
+      "period": "2010-2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 2
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 2
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 14
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 15
+        },
+        {
+          "chart": "Bulgaria (BAMP)",
+          "position": 5
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 2
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 61
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 8
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 13
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "Finland (Suomen virallinen lista)",
+          "position": 14
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 75
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 6
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 22
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 1
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 5
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 9
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 19
+        },
+        {
+          "chart": "Luxembourg Digital Songs (Billboard)",
+          "position": 3
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 4
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 17
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 1
+        },
+        {
+          "chart": "Portugal Digital Songs (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 83
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 1
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 1
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 12
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 21
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 8
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 2
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 8
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "11× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "Platinum",
+      "units_reported": "4,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Gold",
+      "cert_year": 2010,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "4× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "74,645",
+      "type": "standard"
+    },
+    {
+      "region": "Spain",
+      "certification": "Gold",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Sweden",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "3× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Greece",
+      "certification": "Gold",
+      "cert_year": 2026,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "12,000,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teenage_Dream_(Katy_Perry_song)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

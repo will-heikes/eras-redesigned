@@ -1,0 +1,615 @@
+{{short description|None}}
+
+{{no footnotes|date=January 2016}}
+This is a list of singles that have peaked in the Top 10 of the [[Billboard Hot 100|''Billboard'' Hot 100]] during 2010 (see [[2010 in music]]). The date is when the song entered the top 10 for the first time.
+
+Fifty-seven singles reached the top ten in 2010. Fifty acts scored a US top ten hit during the year, with nineteen acts reaching the top ten for the first time either as a lead artist or featured artist.
+
+[[Kesha]] scored six top-ten singles during the year—"[[Tik Tok (song)|Tik Tok]]" (entered the top 10 on November 28, 2009), "[[Blah Blah Blah (Kesha song)|Blah Blah Blah]]" (featuring [[3OH!3]]), "[[Your Love Is My Drug]]", "[[My First Kiss (song)|My First Kiss]]" ([[3OH!3]] featuring [[Kesha]]), "[[Take It Off (Kesha song)|Take It Off]]", and "[[We R Who We R]]"—the most among all other artists. She is also the 11th female solo artist to garner four top-ten songs from a debut album. [[Rihanna]] had the second most top-ten singles in 2010, with five.
+
+The single with the longest run in the top ten was "[[Just the Way You Are (Bruno Mars song)|Just the Way You Are]]" by [[Bruno Mars]] which was his debut single, spending twenty-two consecutive weeks in the top ten. It spent four consecutive weeks at number one. The longest time that a 2010 single spent at number one was nine weeks by "[[Tik Tok (song)|Tik Tok]]" by Kesha, and seven weeks by "[[Love the Way You Lie]]" by [[Eminem]] featuring [[Rihanna]]. [[Train (band)|Train]] and [[The Black Eyed Peas]] were the only bands to get a top 10 single. "[[Hey, Soul Sister]]" by Train spent 19 weeks in the top 10 and spent a total of 55 weeks on the Hot 100.
+
+== Top-ten singles ==
+[[File:Kesha 2011 profile.jpg|thumb|right|upright|[[Kesha]] scored the most top ten hits in 2010 with six, including two number ones.]]
+;Key
+*{{Color box|#99FFFF|{{up-arrow}}|border=silver}} – indicates single's top 10 entry was also its Hot 100 debut
+*{{Color box|#FFFF00|{{dagger}}|border=silver}} – indicates Best performing song of the year
+*<small>(#)</small> – 2010 year-end top 10 single position and rank
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles which peaked in 2010
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! data-sort-type="number" | Peak
+! Peak date
+! data-sort-type="number" | Weeks in<br />top ten
+|-
+! colspan=7| [[List of Billboard Hot 100 top-ten singles in 2009#2010 peaks|Singles from 2009]]
+|-
+|November 21
+| "[[Replay (Iyaz song)|Replay]]"
+| [[Iyaz]]
+| align=center| 2
+| January 9
+| align=center|14
+|-
+| rowspan="2"|November 28
+| "[[Need You Now (Lady Antebellum song)|Need You Now]]" <small>(#2)</small>
+| [[Lady Antebellum]]
+| align=center| 2
+| March 20
+| align=center|16
+|-
+|style= "background:#FFFF00" |"[[Tik Tok (song)|Tik Tok]]" {{dagger}} <small>(#1)</small>
+| [[Kesha]]
+| align=center| 1
+| January 2
+| align=center|20
+|-
+| December 5
+| "[[Sexy Bitch]]"
+| [[David Guetta]] featuring [[Akon]]
+| align=center| 5
+| February 13
+| align=center|13
+|-
+! colspan=6| Singles from 2010
+|-
+| January 9
+| "[[Do You Remember (Jay Sean song)|Do You Remember]]"
+| [[Jay Sean]] featuring [[Sean Paul]] and [[Lil Jon]]
+| align=center| 10
+| January 9
+| align=center|1
+|-
+| rowspan="3"|January 23
+| bgcolor = #99FFFF | "[[Blah Blah Blah (Kesha song)|Blah Blah Blah]]" {{up-arrow}}
+| Kesha featuring [[3OH!3]]
+| align=center| 7
+| January 23
+| align=center|1
+|-
+| "[[BedRock (song)|BedRock]]"
+| [[Young Money Entertainment|Young Money]] featuring [[Lloyd (singer)|Lloyd]]
+| align=center| 2
+| March 13
+| align=center| 13
+|-
+| "[[Hard (Rihanna song)|Hard]]"
+| [[Rihanna]] featuring [[Young Jeezy]]
+| align=center| 8
+| January 30
+| align=center|4
+|-
+| rowspan="2"|January 30
+| "[[Hey, Soul Sister]]" <small>(#3)</small> {{ref label|RE|A|}}
+| [[Train (band)|Train]]
+| align=center| 3
+| April 10
+| align=center|19
+|-
+| "[[How Low]]"
+| [[Ludacris]]
+| align=center| 6
+| February 13
+| align=center|7
+|-
+| rowspan="2"|February 6
+| bgcolor = #99FFFF | "[[Baby (Justin Bieber song)|Baby]]" {{up-arrow}}
+| [[Justin Bieber]] featuring Ludacris
+| align=center| 5
+| February 6
+| align=center| 5
+|-
+| bgcolor = #99FFFF | "[[Today Was a Fairytale]]" {{up-arrow}}
+| [[Taylor Swift]]
+| align=center| 2
+| February 6
+| align=center|1
+|-
+| February 13
+| "[[Imma Be]]"
+| [[The Black Eyed Peas]]
+| align=center| 1
+| March 6
+| align=center|11
+|-
+| rowspan="2"|February 27
+| bgcolor = #99FFFF | "[[We Are the World 25 for Haiti]]" {{up-arrow}}
+| Artists for Haiti
+| align=center| 2
+| February 27
+| align=center|2
+|-
+| "[[In My Head (Jason Derülo song)|In My Head]]" {{ref label|RE|B|}}
+| [[Jason Derulo]]
+| align=center| 5
+| April 24
+| align=center|10
+|-
+| March 6
+| "[[Say Aah]]"
+| [[Trey Songz]] featuring [[Fabolous]]
+| align=center| 9
+| March 13
+| align=center|2
+|-
+| March 13
+| "[[Rude Boy (Rihanna song)|Rude Boy]]"
+| Rihanna
+| align=center| 1
+| March 27
+| align=center|13
+|-
+| March 20
+| "[[Break Your Heart (Taio Cruz song)|Break Your Heart]]" <small>(#10)</small>
+| [[Taio Cruz]] featuring Ludacris
+| align=center| 1
+| March 20
+| align=center|16
+|-
+| rowspan="2"|March 27
+| "[[Nothin' on You]]"
+| [[B.o.B]] featuring [[Bruno Mars]]
+| align=center| 1
+| May 1
+| align=center|13
+|-
+| "[[Telephone (song)|Telephone]]"
+| [[Lady Gaga]] featuring [[Beyoncé Knowles|Beyoncé]]
+| align=center| 3
+| April 3
+| align=center|7
+|-
+| April 24
+| "[[OMG (Usher song)|OMG]]" <small>(#5)</small>
+| [[Usher (entertainer)|Usher]] featuring [[will.i.am]]
+| align=center| 1
+| May 15
+| align=center|17
+|-
+| rowspan="2"|May 1
+| "[[Whataya Want from Me]]"
+| [[Adam Lambert]]
+| align=center| 10
+| May 1
+| align=center|1
+|-
+| "[[Your Love Is My Drug]]"
+| Kesha
+| align=center| 4
+| June 12
+| align=center|11
+|-
+| May 8
+| "[[Airplanes (song)|Airplanes]]" <small>(#6)</small>
+| B.o.B featuring [[Hayley Williams]]
+| align=center|2
+| June 5
+| align=center|17
+|-
+| May 15
+| "[[Young Forever]]"
+| [[Jay-Z]] featuring [[Mr Hudson]]
+| align=center|10
+| May 15
+| align=center|1
+|-
+| rowspan="2"|May 22
+| bgcolor = #99FFFF | "[[Not Afraid]]" {{up-arrow}} {{ref label|RE|C|}}{{ref label|RE|D|}}
+| [[Eminem]]
+| align=center|1
+| May 22
+| align=center|7
+|-
+| bgcolor = #99FFFF | "[[My First Kiss (song)|My First Kiss]]" {{up-arrow}}
+| 3OH!3 featuring Kesha
+| align=center|9
+| May 22
+| align=center|1
+|-
+| rowspan="2"|May 29
+| bgcolor = #99FFFF | "[[California Gurls]]" <small>(#4)</small> {{up-arrow}}
+| [[Katy Perry]] featuring [[Snoop Dogg]]
+| align=center|1
+| June 19
+| align=center|17
+|-
+| "[[Alejandro (song)|Alejandro]]"
+| Lady Gaga
+| align=center|5
+| June 26
+| align=center|7
+|-
+| June 5
+| bgcolor = #99FFFF | "[[Can't Be Tamed (song)|Can't Be Tamed]]" {{up-arrow}}
+| [[Miley Cyrus]]
+| align=center|8
+| June 5
+| align=center|1
+|-
+| June 12
+| "[[Bulletproof (La Roux song)|Bulletproof]]"
+| [[La Roux]]
+| align=center|8
+| June 12
+| align=center|2
+|-
+| rowspan="2"|June 19
+| "[[Billionaire (song)|Billionaire]]"
+| [[Travie McCoy]] featuring Bruno Mars
+| align=center|4
+| June 26
+| align=center|9
+|-
+| "[[Rock That Body]]"
+| The Black Eyed Peas
+| align=center|9
+| June 19
+| align=center|2
+|-
+| June 26
+| "[[Find Your Love]]"
+| [[Drake (musician)|Drake]]
+| align=center|5
+| July 3
+| align=center|7
+|-
+| July 3
+| "[[Cooler Than Me]]"
+| [[Mike Posner]]
+| align=center|6
+| July 17
+| align=center|11
+|-
+| rowspan="2"|July 10
+| bgcolor = #99FFFF | "[[Love the Way You Lie]]" <small>(#7)</small> {{up-arrow}}
+| Eminem featuring Rihanna
+| align=center|1
+| July 31
+| align=center|16
+|-
+| "[[Ridin' Solo]]" {{ref label|RE|E|}}
+| Jason Derulo
+| align=center|9
+| July 17
+| align=center|7
+|-
+| July 17
+| "[[Dynamite (Taio Cruz song)|Dynamite]]" <small>(#9)</small>
+| Taio Cruz
+| align=center|2
+| August 21
+| align=center|18
+|-
+| July 24
+| "[[I Like It (Enrique Iglesias song)|I Like It]]"
+| [[Enrique Iglesias]] featuring [[Pitbull (rapper)|Pitbull]]
+| align=center|4
+| August 28
+| align=center|13
+|-
+| rowspan="2"|August 14
+| "[[DJ Got Us Fallin' in Love]]"
+| Usher featuring Pitbull
+| align=center|4
+| October 9
+| align=center|15
+|-
+| "[[Teenage Dream (Katy Perry song)|Teenage Dream]]"
+| Katy Perry
+| align=center|1
+| September 18
+| align=center|14
+|-
+| August 21
+| bgcolor = #99FFFF | "[[Mine (Taylor Swift song)|Mine]]" {{up-arrow}} {{ref label|RE|F|}}
+| Taylor Swift
+| align=center|3
+| August 21
+| align=center|5
+|-
+| rowspan="3"|September 4
+| bgcolor = #99FFFF | "[[Right Above It]]" {{up-arrow}}
+| [[Lil Wayne]] featuring Drake
+| align=center|6
+| September 4
+| align=center|1
+|-
+| "[[Just the Way You Are (Bruno Mars song)|Just the Way You Are]]"
+| Bruno Mars
+| align=center|1
+| October 2
+| align=center|22
+|-
+| "[[Magic (B.o.B song)|Magic]]"
+| B.o.B featuring [[Rivers Cuomo]]
+| align=center|10
+| September 4
+| align=center|1
+|-
+| September 11
+| "[[Take It Off (Kesha song)|Take It Off]]"
+| Kesha
+| align=center|8
+| September 18
+| align=center|3
+|-
+| September 18
+| "[[Just a Dream (Nelly song)|Just a Dream]]"
+| [[Nelly]]
+| align=center|3 
+| October 23
+| align=center|17
+|-
+| September 25
+| "[[Club Can't Handle Me]]"
+| [[Flo Rida]] featuring David Guetta
+| align=center|9
+| September 25
+| align=center|7
+|-
+| rowspan="2"|October 2
+| "[[Like a G6]]"
+| [[Far East Movement]] featuring [[The Cataracs]] and [[Dev (singer)|Dev]]
+| align=center|1
+| October 30
+| align=center|11
+|-
+| "[[Only Girl (In the World)]]"
+| Rihanna 
+| align=center|1
+| December 4
+| align=center|15
+|-
+| October 23
+| bgcolor = #99FFFF | "[[Speak Now (song)|Speak Now]]" {{up-arrow}}
+| rowspan="2" |Taylor Swift
+| align=center|8
+| October 23
+| align=center|1
+|-
+| rowspan="2"|October 30
+| bgcolor = #99FFFF | "[[Back to December]]" {{up-arrow}}
+| align=center|6
+| October 30
+| align=center|1
+|-
+| "[[Bottoms Up (Trey Songz song)|Bottoms Up]]" {{ref label|RE|G|}}
+| Trey Songz featuring [[Nicki Minaj]]
+| align=center|6
+| November 6
+| align=center|9
+|-
+| November 6
+| "[[Raise Your Glass]]"
+| [[Pink (singer)|Pink]]
+| align=center|1
+| December 11
+| align=center|14
+|-
+| November 13
+| bgcolor = #99FFFF | "[[We R Who We R]]" {{up-arrow}}
+| Kesha
+| align=center|1
+| November 13
+| align=center|14
+|-
+| rowspan="2"|November 20
+| "[[Firework (Katy Perry song)|Firework]]"
+| Katy Perry
+| align=center|1
+| December 18
+| align=center|18
+|-
+| "[[What's My Name? (Rihanna song)|What's My Name?]]"
+| Rihanna featuring Drake
+| align=center|1
+| November 20
+| align=center|14
+|-
+| November 27
+| bgcolor = #99FFFF | "[[Teenage Dream (Katy Perry song)#Glee version|Teenage Dream]]" {{up-arrow}}
+| [[Glee songs discography|''Glee'' Cast]]
+| align=center|8
+| November 27
+| align=center|1
+|-
+| December 11
+| "[[The Time (Dirty Bit)]]"
+| The Black Eyed Peas
+| align=center|4
+| December 18
+| align=center|10
+|} 
+'''Notes''':
+* {{note label|RE|A|}} The single re-entered the Top 10 on the week ending 12 June 2010.
+* {{note label|RE|B|}} The single re-entered the Top 10 on the week ending 17 April 2010.
+* {{note label|RE|C|}} The single re-entered the Top 10 on the week ending 26 June 2010.
+* {{note label|RE|D|}} The single re-entered the Top 10 on the week ending 17 July 2010.
+* {{note label|RE|E|}} The single re-entered the Top 10 on the week ending 21 August 2010.
+* {{note label|RE|F|}} The single re-entered the Top 10 on the week ending 11 September 2010.
+* {{note label|RE|G|}} The single re-entered the Top 10 on the week ending 18 December 2010.
+ 
+===2009 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2009}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2010 which peaked in 2009
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+|-
+| June 27
+| bgcolor = #99FFFF | "[[I Gotta Feeling]]" {{up-arrow}}
+| The Black Eyed Peas
+| align=center| 1
+| July 11
+| align=center | 22
+|-
+| August 15
+| "[[Down (Jay Sean song)|Down]]"
+| Jay Sean featuring Lil Wayne
+| align=center| 1
+| October 17
+| align=center| 24
+|- 
+| August 29
+| bgcolor = #99FFFF | "[[Party in the U.S.A.]]" {{up-arrow}}
+| Miley Cyrus
+| align=center| 2
+| August 29
+| align=center| 16
+|- 
+| September 19
+| "[[Whatcha Say]]"
+| Jason Derulo
+| align=center| 1
+| November 14
+| align=center| 18
+|- 
+| October 3
+| "[[Empire State of Mind]]"
+| Jay-Z featuring [[Alicia Keys]]
+| align=center| 1
+| November 28
+| align=center| 16
+|-
+| rowspan="2"|October 24
+| bgcolor = #99FFFF | "[[3 (Britney Spears song)|3]]" {{up-arrow}}
+| [[Britney Spears]]
+| align=center| 1
+| October 24
+| align=center| 11
+|-
+| "[[Fireflies (Owl City song)|Fireflies]]"
+| [[Owl City]]
+| align=center| 1
+| November 7
+| align=center| 15
+|-
+| October 31
+| "[[Meet Me Halfway]]"
+| The Black Eyed Peas
+| align=center| 7
+| November 7
+| align=center | 6
+|-
+| November 14
+| bgcolor = #99FFFF | "[[Bad Romance]]" <small>(#8)</small> {{up-arrow}}
+| Lady Gaga
+| align=center| 2
+| December 5
+| align=center | 17
+|-
+|}
+
+===2011 peaks===
+{{main|List of Billboard Hot 100 top-ten singles in 2011}}
+
+{| class="wikitable sortable"
+|+ List of ''Billboard'' Hot 100 top ten singles in 2010 which peaked in 2011
+! Top ten<br/>entry date
+! Single
+! Artist(s)
+! Peak
+! Peak date
+! Weeks in<br />top ten
+|-
+| December 4
+| "[[Fuck You (CeeLo Green song)|Fuck You (Forget You)]]"{{ref label|ReEntryD|D}}
+| [[CeeLo Green]]
+| align=center|2
+| March 5
+| align=center|12
+|-
+| December 11
+| "[[Grenade (song)|Grenade]]"
+| Bruno Mars
+| align=center|1
+| January 8
+| align=center|17
+|}
+
+==Artists with most top-ten songs==
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+ List of artists by total songs peaking in the top-ten
+! scope="col"| Artist
+! scope="col"| Numbers of songs
+|-
+! scope="row"| [[Kesha]]
+| 6
+|-
+! scope="row"| [[The Black Eyed Peas]]
+| rowspan=2 | 5
+|-
+! scope="row"| [[Rihanna]]
+|-
+! scope="row"| [[Bruno Mars]]
+| rowspan="2" | 4
+|-
+! scope="row"| [[Taylor Swift]]
+|-
+! scope="row"| [[B.o.B]]
+| rowspan="6" | 3
+|-
+! scope="row"| [[Drake (musician)|Drake]]
+|-
+! scope="row"| [[Jason Derulo]]
+|-
+! scope="row"| [[Katy Perry]]
+|-
+! scope="row"| [[Lady Gaga]]
+|-
+! scope="row"| [[Ludacris]]
+|-
+! scope="row"| [[David Guetta]]
+| rowspan="11" | 2
+|-
+! scope="row"| [[Eminem]]
+|-
+! scope="row"| [[Jay Sean]]
+|-
+! scope="row"| [[Jay-Z]]
+|-
+! scope="row"| [[Lil Wayne]]
+|-
+! scope="row"| [[Miley Cyrus]]
+|-
+! scope="row"| [[Pitbull (musician)|Pitbull]]
+|-
+! scope="row"| [[Taio Cruz]]
+|-
+! scope="row"| [[Trey Songz]]
+|-
+! scope="row"| [[Usher (singer)|Usher]]
+|-
+! scope="row"| [[3OH!3]]
+|-
+|}
+
+==See also==
+*[[2010 in music]]
+*[[List of Billboard Hot 100 number ones of 2010|List of ''Billboard'' Hot 100 number ones of 2010]]
+*[[Billboard Year-End Hot 100 singles of 2010|''Billboard'' Year-End Hot 100 singles of 2010]]
+
+==References==
+{{reflist}}
+
+===General sources===
+*{{cite book|last1=Whitburn|first1=Joel|author-link=Joel Whitburn|title=Pop Annual, 1955–2011|year=2012|publisher=Record Research Inc.|isbn=0-89820-194-2<!-- refers to paperback version, hardcover version isbn=0-89820-193-4 -->|edition=8th}}<!-- book can be used to verify song's peak position, peak date, and weeks in the top ten -->
+*Additional information obtained can be verified within ''Billboard's'' [http://www.billboard.biz online archive services] and print editions of the magazine.
+
+==External links==
+*[https://web.archive.org/web/20051031005909/http://www.billboard.com/bbcom/index.jsp Billboard.com]
+
+{{USTop10s}}
+{{billboard}}
+
+{{italic title|string=Billboard}}
+
+[[Category:Lists of Billboard Hot 100 top-ten singles|2010]]
+[[Category:2010 record charts|United States Hot 100 Top 10 Singles]]

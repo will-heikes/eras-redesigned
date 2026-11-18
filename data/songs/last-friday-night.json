@@ -1,0 +1,521 @@
+{
+  "id": "last-friday-night",
+  "title": "Last Friday Night (T.G.I.F.)",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 2,
+  "edition": "standard",
+  "featuring": null,
+  "length": "3:50",
+  "writers": [
+    "Perry",
+    "Gottwald",
+    "Martin",
+    "McKee"
+  ],
+  "producers": [
+    "Dr. Luke",
+    "Martin"
+  ],
+  "single": {
+    "order": 5,
+    "date": "2011-06-06",
+    "source": "https://en.wikipedia.org/wiki/Teenage_Dream"
+  },
+  "cover": {
+    "file": "Last Friday Night cover.png",
+    "url": "https://en.wikipedia.org/wiki/Special:FilePath/Last_Friday_Night_cover.png",
+    "page": "https://en.wikipedia.org/wiki/File:Last_Friday_Night_cover.png"
+  },
+  "release_history": [
+    {
+      "region": "United States",
+      "date": "2011-06-06",
+      "format": "{{Hlist|Contemporary hit radio|rhythmic contemporary radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Italy",
+      "date": "2011-06-17",
+      "format": "Radio airplay",
+      "version": "Original",
+      "label": "EMI"
+    },
+    {
+      "region": "United States",
+      "date": "2011-06-27",
+      "format": "{{Hlist|Adult contemporary radio|hot adult contemporary radio|modern contemporary radio}}",
+      "version": "Original",
+      "label": "Capitol"
+    },
+    {
+      "region": "Various",
+      "date": "2011-08-08",
+      "format": "Digital download",
+      "version": "Remix featuring Missy Elliott",
+      "label": "Capitol"
+    },
+    {
+      "region": "United States",
+      "date": "2011-08-08",
+      "format": "Contemporary hit radio",
+      "version": "Remix featuring Missy Elliott",
+      "label": "Capitol"
+    }
+  ],
+  "first_release": "2011-06-06",
+  "infobox_type": "single",
+  "genre": [
+    "Dance-pop",
+    "[[New wave music",
+    "new wave]]"
+  ],
+  "lead": "\"Last Friday Night (T.G.I.F.)\" is a song by American singer Katy Perry from her third studio album, Teenage Dream. She and Bonnie McKee co-wrote the song with its producers Dr. Luke and Max Martin. It was recorded at Conway Recording Studios and eightysevenfourteen in Los Angeles, California and Playback Recording Studio in Santa Barbara, California. Perry stated that she was inspired to write the track after a night of wild partying and streaking.",
+  "key_peaks_original_era": {
+    "us": 1,
+    "uk": 9,
+    "can": 1,
+    "aus": 5
+  },
+  "key_peaks_all_time": {
+    "us": 1,
+    "uk": 9,
+    "can": 1,
+    "aus": 5
+  },
+  "weekly_charts": [
+    {
+      "period": "2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 5
+        },
+        {
+          "chart": "Austria (Ö3 Austria Top 40)",
+          "position": 7
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 22
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Wallonia)",
+          "position": 25
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 1
+        },
+        {
+          "chart": "CIS Airplay (TopHit)",
+          "position": 37
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 2
+        },
+        {
+          "chart": "Czech Republic (Rádio Top 100)",
+          "position": 1
+        },
+        {
+          "chart": "Denmark (Tracklisten)",
+          "position": 34
+        },
+        {
+          "chart": "Euro Digital Songs (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "Finland Download (Latauslista)",
+          "position": 25
+        },
+        {
+          "chart": "France (SNEP)",
+          "position": 22
+        },
+        {
+          "chart": "Germany (GfK)",
+          "position": 15
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 5
+        },
+        {
+          "chart": "Iceland (Tónlistinn)",
+          "position": 7
+        },
+        {
+          "chart": "Ireland (IRMA)",
+          "position": 2
+        },
+        {
+          "chart": "Israel (Media Forest)",
+          "position": 15
+        },
+        {
+          "chart": "Italy (FIMI)",
+          "position": 9
+        },
+        {
+          "chart": "Japan (Japan Hot 100)",
+          "position": 48
+        },
+        {
+          "chart": "Lebanon (OLT20)",
+          "position": 3
+        },
+        {
+          "chart": "Luxembourg Digital Song Sales (Billboard)",
+          "position": 9
+        },
+        {
+          "chart": "Mexico (Billboard Mexican Airplay)",
+          "position": 2
+        },
+        {
+          "chart": "Mexico Anglo (Monitor Latino)",
+          "position": 2
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 7
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 24
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 4
+        },
+        {
+          "chart": "Peru (UNIMPRO)",
+          "position": 8
+        },
+        {
+          "chart": "Poland (Polish Airplay Top 100)",
+          "position": 5
+        },
+        {
+          "chart": "Romania (Romanian Top 100)",
+          "position": 56
+        },
+        {
+          "chart": "Russia Airplay (TopHit)",
+          "position": 39
+        },
+        {
+          "chart": "Scotland (OCC)",
+          "position": 7
+        },
+        {
+          "chart": "Slovakia (Rádio Top 100)",
+          "position": 1
+        },
+        {
+          "chart": "South Korea International (Gaon)",
+          "position": 7
+        },
+        {
+          "chart": "Spain (PROMUSICAE)",
+          "position": 38
+        },
+        {
+          "chart": "Sweden (Sverigetopplistan)",
+          "position": 33
+        },
+        {
+          "chart": "Switzerland (Schweizer Hitparade)",
+          "position": 20
+        },
+        {
+          "chart": "Turkey (Number One Top 20)",
+          "position": 19
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 11
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 9
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 1
+        },
+        {
+          "chart": "US Adult Contemporary (Billboard)",
+          "position": 17
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Bubbling Under R&B/Hip-Hop Songs (Billboard)",
+          "position": 10
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 1
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 7
+        },
+        {
+          "chart": "Venezuela (Record Report) Pop/Rock",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "period": "2026",
+      "entries": [
+        {
+          "chart": "Billboard Global 200",
+          "position": 184
+        },
+        {
+          "chart": "Portugal (AFP)",
+          "position": 158
+        }
+      ]
+    }
+  ],
+  "year_end_charts": [
+    {
+      "year": "2011",
+      "entries": [
+        {
+          "chart": "Australia (ARIA)",
+          "position": 31
+        },
+        {
+          "chart": "Belgium (Ultratop 50 Flanders)",
+          "position": 86
+        },
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 13
+        },
+        {
+          "chart": "Canada (Canadian Hot 100)",
+          "position": 12
+        },
+        {
+          "chart": "Croatia International Airplay (HRT)",
+          "position": 9
+        },
+        {
+          "chart": "Germany (Official German Charts)",
+          "position": 88
+        },
+        {
+          "chart": "Hungary (Rádiós Top 40)",
+          "position": 45
+        },
+        {
+          "chart": "Italy (Musica e dischi)",
+          "position": 27
+        },
+        {
+          "chart": "Netherlands (Dutch Top 40)",
+          "position": 34
+        },
+        {
+          "chart": "Netherlands (Single Top 100)",
+          "position": 87
+        },
+        {
+          "chart": "New Zealand (Recorded Music NZ)",
+          "position": 24
+        },
+        {
+          "chart": "Ukraine Airplay (TopHit)",
+          "position": 70
+        },
+        {
+          "chart": "UK Singles (OCC)",
+          "position": 45
+        },
+        {
+          "chart": "US Billboard Hot 100",
+          "position": 14
+        },
+        {
+          "chart": "US Pop Airplay (Billboard)",
+          "position": 4
+        },
+        {
+          "chart": "US Adult Pop Airplay (Billboard)",
+          "position": 11
+        },
+        {
+          "chart": "US Dance Club Songs (Billboard)",
+          "position": 6
+        },
+        {
+          "chart": "US Dance/Mix Show Airplay (Billboard)",
+          "position": 48
+        },
+        {
+          "chart": "US Rhythmic Airplay (Billboard)",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "year": "2012",
+      "entries": [
+        {
+          "chart": "Brazil (Crowley)",
+          "position": 17
+        }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "region": "Australia",
+      "certification": "11× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Austria",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Brazil",
+      "certification": "3× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Canada",
+      "certification": "Diamond",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "2× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Finland",
+      "certification": "3× Platinum",
+      "units_reported": "12,000",
+      "type": "standard"
+    },
+    {
+      "region": "France",
+      "certification": "Diamond",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Germany",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "Italy",
+      "certification": "Platinum",
+      "cert_year": 2011,
+      "type": "standard"
+    },
+    {
+      "region": "Mexico",
+      "certification": "Gold",
+      "cert_year": 2013,
+      "type": "standard"
+    },
+    {
+      "region": "New Zealand",
+      "certification": "5× Platinum",
+      "cert_year": 2026,
+      "type": "standard"
+    },
+    {
+      "region": "Norway",
+      "certification": "4× Platinum",
+      "cert_year": 2021,
+      "type": "standard"
+    },
+    {
+      "region": "South Korea",
+      "certification": null,
+      "units_reported": "189,389",
+      "type": "standard"
+    },
+    {
+      "region": "Spain",
+      "certification": "Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Switzerland",
+      "certification": "Gold",
+      "cert_year": 2012,
+      "type": "standard"
+    },
+    {
+      "region": "United Kingdom",
+      "certification": "3× Platinum",
+      "cert_year": 2025,
+      "type": "standard"
+    },
+    {
+      "region": "United States",
+      "certification": "6× Platinum",
+      "cert_year": 2024,
+      "type": "standard"
+    },
+    {
+      "region": "Denmark",
+      "certification": "Gold",
+      "cert_year": 2011,
+      "type": "streaming only"
+    },
+    {
+      "region": "Greece",
+      "certification": "Platinum",
+      "cert_year": 2025,
+      "type": "streaming only"
+    },
+    {
+      "region": "Worldwide",
+      "certification": null,
+      "units_reported": "9,400,000",
+      "type": "streaming only"
+    }
+  ],
+  "awards": [],
+  "role": "single",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Last_Friday_Night_(T.G.I.F.)",
+    "https://en.wikipedia.org/wiki/Teenage_Dream"
+  ],
+  "retrieved": "2026-11-18"
+}

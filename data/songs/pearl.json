@@ -1,0 +1,46 @@
+{
+  "id": "pearl",
+  "title": "Pearl",
+  "artist_id": "katy-perry",
+  "album_id": "teenage-dream",
+  "track": 10,
+  "edition": "standard",
+  "featuring": null,
+  "length": "4:07",
+  "writers": [
+    "Perry",
+    "Greg Wells",
+    "Stewart"
+  ],
+  "producers": [
+    "Wells"
+  ],
+  "single": null,
+  "first_release": "2010-08-24",
+  "lead": null,
+  "weekly_charts": [],
+  "year_end_charts": [],
+  "certifications": [],
+  "awards": [],
+  "discography_peaks": {
+    "US Bub.": null,
+    "AUT": null,
+    "CAN": null,
+    "CZR": null,
+    "GER": null,
+    "KOR Intl.": null,
+    "NOR": null,
+    "POL": null,
+    "SVK": null,
+    "UK": null
+  },
+  "key_peaks_original_era": null,
+  "key_peaks_all_time": null,
+  "role": "album track",
+  "promotional_release": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Teenage_Dream",
+    "https://en.wikipedia.org/wiki/Katy_Perry_discography#Other_charted_or_certified_songs"
+  ],
+  "retrieved": "2026-11-18"
+}
