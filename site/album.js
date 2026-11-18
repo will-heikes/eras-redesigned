@@ -179,7 +179,7 @@ async function load() {
     const art = song.cover
       ? `<div class="art"><img src="${esc(song.cover.url)}" alt="${esc(song.title)} cover" loading="lazy"></div>`
       : albumCover ? `<div class="art album-art" title="No single cover on Wikipedia, album cover shown"><img src="${esc(albumCover.url)}" alt="" loading="lazy"><span>Album art</span></div>` : "";
-    const role = song.single ? `Single ${song.single.order}` : promo ? "Promo single" : "Album track";
+    const role = roleLabel(song);
     const date = song.single ? song.single.date : promo && song.promotional_release < cutoff ? song.promotional_release : null;
     const promoDate = song.single && song.promotional_release && song.promotional_release < song.single.date ? song.promotional_release : null;
     const big = u.hot100 ? `#${u.hot100}` : u.bubbling ? `B${u.bubbling}` : "—";
@@ -187,7 +187,7 @@ async function load() {
       ${art}
       <div class="ord">Track ${tr.track} · ${role}</div>
       <div class="ttl">${esc(song.title)}</div>
-      <div class="dt">${date ? fmt(date) : `On the album ${fmt(reissue ? rx.release_date : album.release_date)}`}${promoDate ? ` · promo ${fmt(promoDate).replace(/, \d{4}$/, "")}` : ""}</div>
+      <div class="dt">${promoDate ? `Promo ${fmt(promoDate)}<br>Single ${fmt(date)}` : date ? fmt(date) : `On the album ${fmt(reissue ? rx.release_date : album.release_date)}`}${song.single?.version ? `<br>${esc(song.single.version)}` : ""}</div>
       <div class="big">${big}<small>${u.hot100 || !u.bubbling ? "HOT 100" : "BUBBLING UNDER"}</small></div>
       <div class="mini-peaks">${cellsHtml}</div>
       <div class="cert">${run ? `<b>${run.weeks_in_top_ten}</b> wks top ten · ` : ""}${u.digital.best ? `best sales wk <b>${esc(u.digital.best)}</b> · ` : ""}${riaa ? `RIAA <b>${esc(riaa)}</b>` : "No RIAA cert listed"}</div>
@@ -222,7 +222,7 @@ async function load() {
     const s = byId[tr.song_id];
     const u = us[s.id];
     const later = laterCharting(s);
-    const role = s.single ? `<span class="role single">Single ${s.single.order}</span>`
+    const role = s.single ? `<span class="role single">${roleLabel(s)}</span>`
       : s.role === "promotional single" ? `<span class="role promo">Promo</span>` : `<span class="role">Album track</span>`;
     const hot = u.hot100 == null && u.bubbling != null ? `<td class="cell t100">B${u.bubbling}</td>` : cell(u.hot100);
     const dig = u.digital.weeks ? ones(u.digital.weeks) : u.popDigital ? `<td class="cell t100" title="Pop Digital Songs">PD ${u.popDigital}</td>` : ones(0);
@@ -364,6 +364,13 @@ function renderTimeline(album, items, runFor, us, rx) {
   document.getElementById("timeline").innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Singles and their Hot 100 top-ten runs">${parts.join("")}</svg>`;
 }
 
+// "Single 4", "Promo single", or "Promo, then single 4" when a promo release came first (E.T.)
+function roleLabel(song) {
+  const promoFirst = song.single && song.promotional_release && song.promotional_release < song.single.date;
+  if (song.single) return promoFirst ? `Promo, then single ${song.single.order}` : `Single ${song.single.order}`;
+  return song.role === "promotional single" ? "Promo single" : "Album track";
+}
+
 // ---------------------------------------------------------------- song detail panel
 let ctx = null;
 const chartLabel = (c) => c.replace(/^US /, "").replace(/ \(Billboard\)$/, "").replace(/^Billboard /, "");
@@ -378,7 +385,7 @@ function openDetail(id) {
   const reissue = tr?.edition === "reissue";
   const runs = runFor(song);
   const run = runs[0];
-  const role = song.single ? `Single ${song.single.order}` : song.role === "promotional single" ? "Promo single" : "Album track";
+  const role = roleLabel(song);
   const cover = song.cover || (reissue ? rx?.cover : album.cover);
 
   // every US chart in the original release window, best position per chart
@@ -395,8 +402,8 @@ function openDetail(id) {
     .filter((e) => +String(e.year).slice(0, 4) < 2020);
   const yeRows = yearEnd.map((e) => `<tr><td>${esc(e.year)} · ${esc(chartLabel(e.chart))}</td><td class="n">${esc(e.position)}</td></tr>`).join("");
 
-  const usRelease = (song.release_history || []).filter((r) => /United States|Various|Worldwide/.test(r.region || "") && (!r.version || /original/i.test(r.version)))
-    .map((r) => `<tr><td class="mono">${fmt(r.date)}</td><td>${esc(hlist(r.format))}</td></tr>`).join("");
+  const usRelease = (song.release_history || []).filter((r) => /United States|Various|Worldwide/.test(r.region || ""))
+    .map((r) => `<tr><td class="mono">${fmt(r.date)}</td><td>${esc(hlist(r.format))}${r.promotional ? " · promo" : ""}</td><td class="mono">${esc(hlist(r.version) || "")}</td></tr>`).join("");
 
   const usCerts = (song.certifications || []).filter((c) => c.region === "United States")
     .map((c) => `<tr><td>RIAA${c.type === "streaming only" ? " (streaming)" : ""}</td><td>${esc(c.certification || "—")}${c.units_reported ? ` <span class="mono">· ${esc(c.units_reported)}</span>` : ""}</td></tr>`).join("");
@@ -413,10 +420,14 @@ function openDetail(id) {
         <div class="kicker">Track ${tr?.track ?? "—"} · ${role}${reissue ? ` · ${esc(rx.title.replace(full.title + ": ", ""))}` : ""}</div>
         <h3>${esc(song.title)}</h3>
         ${song.featuring ? `<div class="mono">feat. ${esc(song.featuring)}</div>` : ""}
-        <div class="sub">${song.single ? "Released as a single" : song.role === "promotional single" ? "Promo release" : "On the album"} <b>${fmt(firstDate)}</b>${song.length ? ` · ${esc(song.length)}` : ""}</div>
+        <div class="sub">${song.length ? esc(song.length) : ""}</div>
       </div>
     </div>
     <div class="dfacts">
+      ${song.promotional_release && (!song.single || song.promotional_release < song.single.date) ? fact("Promo release", fmt(song.promotional_release)) : ""}
+      ${song.single ? fact("Single release", fmt(song.single.date)) : ""}
+      ${song.single?.version ? fact("Single version", esc(song.single.version)) : ""}
+      ${!song.single && !song.promotional_release ? fact("Album release", fmt(firstDate)) : ""}
       ${fact("Hot 100 peak", u.hot100 ? `#${u.hot100}` : u.bubbling ? `Bubbling Under #${u.bubbling}` : "Did not chart")}
       ${fact("Peak date", run ? fmt(run.peak_date) : "—")}
       ${fact("Weeks in top ten", run ? run.weeks_in_top_ten + (runs.length > 1 ? "+" : "") : "—")}
@@ -428,14 +439,12 @@ function openDetail(id) {
       ${fact("RIAA", esc(cert(song, "United States") || "—"))}
       ${fact("Current streams", `<span class="muted">Not in the data yet</span>`)}
     </div>
-    ${ones.length ? `<p class="fine">No. 1 on the Hot 100: ${ones.map(fmt).join(", ")}</p>` : ""}
-    ${later.length ? `<p class="fine">Charted again in ${esc(later.join(", "))}.</p>` : ""}
+    ${ones.length ? `<h4>Weeks at No. 1, Hot 100</h4><div class="dweeks">${ones.map((w) => `<span>${fmt(w)}</span>`).join("")}</div>` : ""}
     <h4>US chart peaks</h4>
     ${peakRows ? `<table class="dtable">${peakRows}</table>` : `<p class="fine">No US chart entries on Wikipedia.</p>`}
     ${usRelease ? `<h4>US release</h4><table class="dtable">${usRelease}</table>` : ""}
     ${yeRows ? `<h4>US year-end</h4><table class="dtable">${yeRows}</table>` : ""}
     ${usCerts ? `<h4>Certification</h4><table class="dtable">${usCerts}</table>` : ""}
-    ${song.lead ? `<h4>About</h4><p class="lead">${esc(song.lead)}</p>` : ""}
     <p class="fine"><a href="${esc((song.sources || [])[0] || "#")}" target="_blank" rel="noopener">Wikipedia article</a>${cover ? ` · <a href="${esc(cover.page)}" target="_blank" rel="noopener">cover file</a>` : ""}</p>`;
   const d = document.getElementById("detail");
   d.hidden = false;

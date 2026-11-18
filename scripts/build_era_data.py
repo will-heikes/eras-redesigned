@@ -747,6 +747,12 @@ def main(config_path):
         if not s.get("page"):
             rec["key_peaks_original_era"] = None
             rec["key_peaks_all_time"] = None
+        if rec.get("single"):
+            # the version released as the single, when it differs from the album cut (E.T.'s Kanye West remix)
+            v = next((r.get("version") for r in rec.get("release_history", []) if r.get("date") == rec["single"]["date"] and not r.get("promotional")), None)
+            v = clean(v or "")
+            if v and not re.fullmatch(r"original|album version|single", v, re.I):
+                rec["single"]["version"] = v
         promo = any(r.get("promotional") for r in rec.get("release_history", [])) or (rec.get("infobox_type") or "").lower().startswith("promo")
         rec["role"] = "single" if sg else ("promotional single" if promo else "album track")
         rec["promotional_release"] = next((r["date"] for r in rec.get("release_history", []) if r.get("promotional")), None) or (rec.get("first_release") if promo and not sg else None)
