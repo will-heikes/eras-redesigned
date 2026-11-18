@@ -90,6 +90,22 @@ python3 scripts/add_release_dates.py --fetch
 
 Discographies for new artists go in `data/sources/wikitext/discographies/`.
 
+## Billboard weekly recaps (`charts/billboard_weekly.json`)
+
+Billboard's weekly Hot 100 recap articles (the ones Wikipedia cites) for Aug
+2013 to Dec 2014, one or more per chart week. For each song an article
+discusses, the positions it gives on the Hot 100, Digital Songs, Streaming
+Songs, Radio Songs and On-Demand Songs, the previous week's position where
+stated, and units (downloads, U.S. streams, radio audience). Each fact keeps
+the clause it was read from. Extraction is pattern matching over prose, so it
+covers the songs each article talks about, not the whole chart, and can miss
+unusual phrasings.
+
+```
+python3 scripts/fetch_billboard_recaps.py 2013-08-01 2014-12-31   # article text stays local, git-ignored
+python3 scripts/extract_billboard_facts.py
+```
+
 ### Competition lookup
 
 `site/lib/competition.js` answers "what would a single released on this date be

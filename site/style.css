@@ -219,3 +219,10 @@ th.grp { color: var(--ink-2); border-bottom: 1px solid var(--hair); text-align: 
 .status.str-medium { color: var(--ink); }
 .status.str-low { color: var(--ink-3); }
 .comp td.mono { white-space: nowrap; }
+.stepper { display: flex; gap: 6px; }
+.stepper button { height: 30px; padding: 4px 10px; font-size: 11px; }
+.recap-cell b { font: 600 15px var(--mono); }
+.recap-cell .mono { font-size: 11px; color: var(--ink-3); }
+.up { color: #4ade80; font: 500 11px var(--mono); }
+.down { color: var(--ink-3); font: 500 11px var(--mono); }
+.fine a { color: var(--ink-2); }

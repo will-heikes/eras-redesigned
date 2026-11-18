@@ -18,6 +18,7 @@ const state = {
   sel: { lane: "alt", i: 0 },
   lookahead: 12,
   peerWindow: 8,
+  recapOffset: 0,
 };
 
 async function j(path) {
@@ -30,8 +31,9 @@ function storeGet() { try { return JSON.parse(localStorage.getItem(STORE_KEY)); 
 function storeSet(v) { try { localStorage.setItem(STORE_KEY, JSON.stringify(v)); } catch { /* ignore */ } }
 
 async function load() {
-  const [album, hot100, index, peers] = await Promise.all([j(`albums/${ALBUM_ID}.json`), j("charts/hot100.json"), j("eras/index.json"), j("charts/peer_singles.json")]);
+  const [album, hot100, index, peers, bbw] = await Promise.all([j(`albums/${ALBUM_ID}.json`), j("charts/hot100.json"), j("eras/index.json"), j("charts/peer_singles.json"), j("charts/billboard_weekly.json").catch(() => null)]);
   state.peers = peers;
+  state.bbw = bbw;
   state.album = album;
   state.hot100 = hot100;
   state.artist = await j(`artists/${album.artist_id}.json`);
@@ -268,6 +270,8 @@ function renderCompetition() {
     <div class="section-title"><h2>In the top ten that week</h2></div>
     ${compRows(r.in_top_ten, r.chart_week)}
 
+    ${recapSection(r.chart_week)}
+
     <div class="section-title"><h2>Released around the same time</h2>
       <label class="field"><span>Window</span>
         <select id="peerwin">${[4, 6, 8, 12].map((n) => `<option value="${n}" ${n === state.peerWindow ? "selected" : ""}>±${n} weeks</option>`).join("")}</select>
@@ -283,8 +287,42 @@ function renderCompetition() {
     <div class="section-title"><h2>No. 1s in the window</h2></div>
     <div class="mono">${ones.map((w) => `${esc(w.title)} (${fmt(w.week)})`).join(" → ") || "—"}</div>
   `;
+  el.querySelectorAll("[data-recap]").forEach((b) => b.addEventListener("click", () => { state.recapOffset += +b.dataset.recap; renderCompetition(); }));
   el.querySelector("#peerwin").addEventListener("change", (e) => { state.peerWindow = +e.target.value; renderCompetition(); });
   el.querySelector("#lookahead").addEventListener("change", (e) => { state.lookahead = +e.target.value; renderTimeline(); renderCompetition(); });
+}
+
+const RECAP_CHARTS = [["Hot 100", "Hot 100"], ["Digital Songs", "Digital"], ["Streaming Songs", "Streaming"], ["Radio Songs", "Radio"]];
+function fmtUnits(n, chart) {
+  if (!n) return "";
+  const v = n >= 1e6 ? `${(n / 1e6).toFixed(1).replace(/\.0$/, "")}M` : `${Math.round(n / 1000)}K`;
+  return chart === "Digital Songs" ? `${v} sold` : chart === "Radio Songs" ? `${v} aud.` : `${v} streams`;
+}
+
+function recapSection(baseWeek) {
+  if (!state.bbw) return "";
+  const wk = iso(t(baseWeek) + state.recapOffset * 7 * DAY);
+  const w = state.bbw.weeks[wk];
+  const off = state.recapOffset;
+  const head = `<div class="section-title"><h2>Billboard recap · chart week ${fmt(wk)}${off ? ` (${off > 0 ? "+" : ""}${off}w)` : ""}</h2>
+    <div class="stepper"><button type="button" data-recap="-1">◀ Week</button><button type="button" data-recap="1">Week ▶</button></div></div>`;
+  if (!w) return head + `<div class="empty">No Billboard recap saved for this week.</div>`;
+  const artist = state.artist.name;
+  const ownTitles = new Set(Object.values(state.songs).map((s) => s.title.toLowerCase()));
+  const rows = Object.entries(w.songs).map(([title, facts]) => {
+    const by = Object.fromEntries(facts.map((f) => [f.chart, f]));
+    const h = by["Hot 100"]?.position ?? 999;
+    return { title, by, h, own: ownTitles.has(title.toLowerCase()) };
+  }).sort((a, b) => a.h - b.h);
+  const cell = (f, chart) => {
+    if (!f) return `<td class="n mono">—</td>`;
+    const move = f.previous ? (f.previous > f.position ? `<span class="up">▲${f.previous}</span>` : f.previous < f.position ? `<span class="down">▼${f.previous}</span>` : "") : "";
+    return `<td class="n recap-cell" title="${esc(f.clause)}"><b>${f.position}</b> ${move}<div class="mono">${fmtUnits(f.units, chart)}</div></td>`;
+  };
+  return head + `<div class="tbl"><table class="comp recap"><thead><tr><th>Song</th>${RECAP_CHARTS.map(([, l]) => `<th class="n">${l}</th>`).join("")}</tr></thead><tbody>
+    ${rows.map((r) => `<tr class="${r.own ? "same" : ""}"><td class="title">${esc(r.title)}</td>${RECAP_CHARTS.map(([c]) => cell(r.by[c], c)).join("")}</tr>`).join("")}
+  </tbody></table></div>
+  <p class="fine">Pulled automatically from ${w.articles.map((a) => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>`).join(", ")}. Covers the songs that article discusses, not the full chart. Hover a number to see the sentence it came from.</p>`;
 }
 
 function peerRows(list, r) {
@@ -305,7 +343,7 @@ function peerRows(list, r) {
 }
 
 function renderAll() { renderSingles(); renderTimeline(); renderCompetition(); }
-function select(lane, i) { state.sel = { lane, i }; renderAll(); }
+function select(lane, i) { state.sel = { lane, i }; state.recapOffset = 0; renderAll(); }
 
 // ---------- events
 document.getElementById("singles-body").addEventListener("click", (e) => {
