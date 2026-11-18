@@ -5,7 +5,9 @@ Usage: python3 scripts/build_era_data.py data/sources/eras/prism.json
 Only facts stated on the Wikipedia pages are written. Every record carries the
 URL of the page it came from. Run fetch_wikitext.py first to refresh snapshots.
 """
+import hashlib
 import json
+import urllib.parse
 import os
 import re
 import sys
@@ -542,7 +544,12 @@ def cover_of(ib):
     name = clean(ib.get("cover", "")).strip()
     if not name or not re.search(r"\.(png|jpe?g|gif|webp)$", name, re.I):
         return None
+    fn = name.replace(" ", "_")
+    fn = fn[0].upper() + fn[1:]
+    h = hashlib.md5(fn.encode("utf-8")).hexdigest()
     return {"file": name, "url": "https://en.wikipedia.org/wiki/Special:FilePath/" + name.replace(" ", "_"),
+            # direct file URL (served with CORS headers), used to sample the cover's colors
+            "direct": f"https://upload.wikimedia.org/wikipedia/en/{h[0]}/{h[:2]}/{urllib.parse.quote(fn)}",
             "page": "https://en.wikipedia.org/wiki/File:" + name.replace(" ", "_")}
 
 

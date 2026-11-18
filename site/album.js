@@ -1,4 +1,5 @@
 import { lastTopTenWeek } from "./lib/competition.js";
+import { coverAccent, applyAccent } from "./lib/palette.js";
 
 const DATA = "../data/";
 const params = new URLSearchParams(location.search);
@@ -112,6 +113,8 @@ async function load() {
   if (album.cover) {
     coverEl.outerHTML = `<div class="album-cover ${rx && !original ? "pair" : ""}" id="album-cover">${coverImg(album.cover, album.title)}${rx && !original ? coverImg(rx.cover, rx.title, "rx") : ""}</div>`;
   } else coverEl.remove();
+  coverAccent(full.cover?.direct).then((a) => applyAccent(a));
+  if (rx) coverAccent(rx.cover?.direct).then((a) => applyAccent(a && { ...a, l: 0.36 }, "--rx"));
   const usCert = cert(album, "United States");
   const added = full.tracklist.filter((tr) => tr.edition === "reissue").length;
   const addedSingles = full.singles.filter((s) => s.edition === "reissue").length;
@@ -158,6 +161,7 @@ async function load() {
   const runs = hot100.top_ten.filter((r) => r.artist.includes(artist.name));
   const runFor = (song) => runs.filter((r) => r.title.toLowerCase() === song.title.toLowerCase());
 
+  ctx = { byId, us, runFor, album, full, rx, original, streamingExists, artist };
   renderTimeline(album, items, runFor, us, original ? null : rx);
 
   // ----- the songs: every track in album order, reissue additions split out
@@ -173,13 +177,13 @@ async function load() {
       .map(([l, v]) => `<div><span>${l}</span>${v ?? "—"}</div>`).join("");
     const albumCover = reissue && rx?.cover ? rx.cover : album.cover;
     const art = song.cover
-      ? `<a class="art" href="${esc(song.cover.page)}" target="_blank" rel="noopener"><img src="${esc(song.cover.url)}" alt="${esc(song.title)} cover" loading="lazy"></a>`
+      ? `<div class="art"><img src="${esc(song.cover.url)}" alt="${esc(song.title)} cover" loading="lazy"></div>`
       : albumCover ? `<div class="art album-art" title="No single cover on Wikipedia, album cover shown"><img src="${esc(albumCover.url)}" alt="" loading="lazy"><span>Album art</span></div>` : "";
     const role = song.single ? `Single ${song.single.order}` : promo ? "Promo single" : "Album track";
     const date = song.single ? song.single.date : promo && song.promotional_release < cutoff ? song.promotional_release : null;
     const promoDate = song.single && song.promotional_release && song.promotional_release < song.single.date ? song.promotional_release : null;
     const big = u.hot100 ? `#${u.hot100}` : u.bubbling ? `B${u.bubbling}` : "—";
-    return `<div class="card ${song.single ? "" : promo ? "promo" : "track"} ${reissue ? "reissue" : ""}">
+    return `<div class="card ${song.single ? "" : promo ? "promo" : "track"} ${reissue ? "reissue" : ""}" data-song="${song.id}" tabindex="0" role="button" aria-label="Details for ${esc(song.title)}">
       ${art}
       <div class="ord">Track ${tr.track} · ${role}</div>
       <div class="ttl">${esc(song.title)}</div>
@@ -222,7 +226,7 @@ async function load() {
       : s.role === "promotional single" ? `<span class="role promo">Promo</span>` : `<span class="role">Album track</span>`;
     const hot = u.hot100 == null && u.bubbling != null ? `<td class="cell t100">B${u.bubbling}</td>` : cell(u.hot100);
     const dig = u.digital.weeks ? ones(u.digital.weeks) : u.popDigital ? `<td class="cell t100" title="Pop Digital Songs">PD ${u.popDigital}</td>` : ones(0);
-    return sep + `<tr class="${s.single || s.role === "promotional single" ? "" : "album-track"} ${tr.edition === "reissue" ? "rx-row" : ""}">
+    return sep + `<tr class="${s.single || s.role === "promotional single" ? "" : "album-track"} ${tr.edition === "reissue" ? "rx-row" : ""}" data-song="${s.id}">
       <td class="n">${tr.track}</td>
       <td class="title">${esc(s.title)}${s.featuring ? ` <span class="mono">feat. ${esc(s.featuring)}</span>` : ""}${tr.edition === "deluxe" ? ` <span class="mono">deluxe</span>` : ""}${later.length ? ` <span class="role later">Charted again ${esc(later[0])}</span>` : ""}</td>
       <td>${role}</td>
@@ -327,6 +331,7 @@ function renderTimeline(album, items, runFor, us, rx) {
   items.forEach((it, k) => {
     const y = top + k * rowH;
     const xx = x(t(it.date));
+    parts.push(`<g class="tl-row" data-song="${it.song.id}"><rect x="${L}" y="${y - rowH / 2}" width="${W - L - R}" height="${rowH}" fill="transparent"/>`);
     parts.push(`<line x1="${L}" x2="${W - R}" y1="${y}" y2="${y}" stroke="var(--hair)" stroke-dasharray="2 4"/>`);
     for (const r of runFor(it.song)) {
       const x1 = x(t(r.entry_date) - 3.5 * DAY), x2 = x(t(lastTopTenWeek(r)) + 3.5 * DAY), xp = x(t(r.peak_date));
@@ -353,9 +358,107 @@ function renderTimeline(album, items, runFor, us, rx) {
     const anchorX = it.promoDate ? x(t(it.promoDate)) : xx;
     const left = anchorX - 14 - lw > L;
     parts.push(`<text x="${left ? anchorX - 14 : xx + 14}" y="${y + 4}" font-size="13" font-weight="600" text-anchor="${left ? "end" : "start"}" fill="${it.promo ? "var(--ink-2)" : "var(--ink)"}">${esc(label)}</text>`);
+    parts.push(`</g>`);
   });
 
   document.getElementById("timeline").innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Singles and their Hot 100 top-ten runs">${parts.join("")}</svg>`;
 }
+
+// ---------------------------------------------------------------- song detail panel
+let ctx = null;
+const chartLabel = (c) => c.replace(/^US /, "").replace(/ \(Billboard\)$/, "").replace(/^Billboard /, "");
+const hlist = (v) => String(v || "").replace(/\{\{\s*(?:hlist|flatlist|ubl)\s*\|/gi, "").replace(/\}\}/g, "").split("|").map((x) => x.trim()).filter(Boolean).join(", ");
+
+function openDetail(id) {
+  const { byId, us, runFor, album, full, rx, streamingExists, artist } = ctx;
+  const song = byId[id];
+  if (!song) return;
+  const u = us[id];
+  const tr = full.tracklist.find((t) => t.song_id === id);
+  const reissue = tr?.edition === "reissue";
+  const runs = runFor(song);
+  const run = runs[0];
+  const role = song.single ? `Single ${song.single.order}` : song.role === "promotional single" ? "Promo single" : "Album track";
+  const cover = song.cover || (reissue ? rx?.cover : album.cover);
+
+  // every US chart in the original release window, best position per chart
+  const best = {};
+  for (const tb of originalTables(song)) for (const e of tb.entries) {
+    if (!/^US /.test(e.chart) || !Number.isInteger(e.position)) continue;
+    if (best[e.chart] == null || e.position < best[e.chart]) best[e.chart] = e.position;
+  }
+  if (u.hot100 && best["US Billboard Hot 100"] == null) best["US Billboard Hot 100"] = u.hot100;
+  const peakRows = Object.entries(best).sort((a, b) => (b[0] === "US Billboard Hot 100") - (a[0] === "US Billboard Hot 100") || a[1] - b[1] || a[0].localeCompare(b[0]))
+    .map(([c, p]) => `<tr><td>${esc(chartLabel(c))}</td><td class="cell ${tier(p)}">${p}</td></tr>`).join("");
+
+  const yearEnd = (song.year_end_charts || []).flatMap((y) => y.entries.filter((e) => /^US /.test(e.chart)).map((e) => ({ ...e, year: y.year })))
+    .filter((e) => +String(e.year).slice(0, 4) < 2020);
+  const yeRows = yearEnd.map((e) => `<tr><td>${esc(e.year)} · ${esc(chartLabel(e.chart))}</td><td class="n">${esc(e.position)}</td></tr>`).join("");
+
+  const usRelease = (song.release_history || []).filter((r) => /United States|Various|Worldwide/.test(r.region || "") && (!r.version || /original/i.test(r.version)))
+    .map((r) => `<tr><td class="mono">${fmt(r.date)}</td><td>${esc(hlist(r.format))}</td></tr>`).join("");
+
+  const usCerts = (song.certifications || []).filter((c) => c.region === "United States")
+    .map((c) => `<tr><td>RIAA${c.type === "streaming only" ? " (streaming)" : ""}</td><td>${esc(c.certification || "—")}${c.units_reported ? ` <span class="mono">· ${esc(c.units_reported)}</span>` : ""}</td></tr>`).join("");
+
+  const fact = (label, value) => `<div class="dfact"><span>${label}</span><b>${value ?? "—"}</b></div>`;
+  const firstDate = song.single?.date || song.promotional_release || (reissue ? rx.release_date : album.release_date);
+  const ones = u.hot100One.list.map((w) => w.week);
+  const later = laterCharting(song);
+
+  document.getElementById("detail-body").innerHTML = `
+    <div class="dhead">
+      ${cover ? `<img src="${esc(cover.url)}" alt="">` : ""}
+      <div>
+        <div class="kicker">Track ${tr?.track ?? "—"} · ${role}${reissue ? ` · ${esc(rx.title.replace(full.title + ": ", ""))}` : ""}</div>
+        <h3>${esc(song.title)}</h3>
+        ${song.featuring ? `<div class="mono">feat. ${esc(song.featuring)}</div>` : ""}
+        <div class="sub">${song.single ? "Released as a single" : song.role === "promotional single" ? "Promo release" : "On the album"} <b>${fmt(firstDate)}</b>${song.length ? ` · ${esc(song.length)}` : ""}</div>
+      </div>
+    </div>
+    <div class="dfacts">
+      ${fact("Hot 100 peak", u.hot100 ? `#${u.hot100}` : u.bubbling ? `Bubbling Under #${u.bubbling}` : "Did not chart")}
+      ${fact("Peak date", run ? fmt(run.peak_date) : "—")}
+      ${fact("Weeks in top ten", run ? run.weeks_in_top_ten + (runs.length > 1 ? "+" : "") : "—")}
+      ${fact("Top-ten entry", run ? fmt(run.entry_date) : "—")}
+      ${fact("Weeks at No. 1", ones.length || "—")}
+      ${fact("Digital Songs No. 1", u.digital.weeks ? `${u.digital.weeks} wk${u.digital.weeks > 1 ? "s" : ""}` : "—")}
+      ${fact("Best sales week", u.digital.best ? esc(u.digital.best) : "—")}
+      ${streamingExists ? fact("Streaming Songs No. 1", u.streaming.weeks ? `${u.streaming.weeks} wk${u.streaming.weeks > 1 ? "s" : ""}` : "—") : fact("Streaming Songs", "Chart began 2013")}
+      ${fact("RIAA", esc(cert(song, "United States") || "—"))}
+      ${fact("Current streams", `<span class="muted">Not in the data yet</span>`)}
+    </div>
+    ${ones.length ? `<p class="fine">No. 1 on the Hot 100: ${ones.map(fmt).join(", ")}</p>` : ""}
+    ${later.length ? `<p class="fine">Charted again in ${esc(later.join(", "))}.</p>` : ""}
+    <h4>US chart peaks</h4>
+    ${peakRows ? `<table class="dtable">${peakRows}</table>` : `<p class="fine">No US chart entries on Wikipedia.</p>`}
+    ${usRelease ? `<h4>US release</h4><table class="dtable">${usRelease}</table>` : ""}
+    ${yeRows ? `<h4>US year-end</h4><table class="dtable">${yeRows}</table>` : ""}
+    ${usCerts ? `<h4>Certification</h4><table class="dtable">${usCerts}</table>` : ""}
+    ${song.lead ? `<h4>About</h4><p class="lead">${esc(song.lead)}</p>` : ""}
+    <p class="fine"><a href="${esc((song.sources || [])[0] || "#")}" target="_blank" rel="noopener">Wikipedia article</a>${cover ? ` · <a href="${esc(cover.page)}" target="_blank" rel="noopener">cover file</a>` : ""}</p>`;
+  const d = document.getElementById("detail");
+  d.hidden = false;
+  document.body.classList.add("detail-open");
+  document.querySelectorAll("[data-song].on").forEach((x) => x.classList.remove("on"));
+  document.querySelectorAll(`[data-song="${id}"]`).forEach((x) => x.classList.add("on"));
+  d.querySelector(".dclose").focus({ preventScroll: true });
+}
+
+function closeDetail() {
+  document.getElementById("detail").hidden = true;
+  document.body.classList.remove("detail-open");
+  document.querySelectorAll("[data-song].on").forEach((x) => x.classList.remove("on"));
+}
+
+document.addEventListener("click", (e) => {
+  if (e.target.closest(".dclose") || e.target.id === "detail-scrim") return closeDetail();
+  const el = e.target.closest("[data-song]");
+  if (el && !e.target.closest("a, button")) openDetail(el.dataset.song);
+});
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") closeDetail();
+  if ((e.key === "Enter" || e.key === " ") && e.target.matches?.(".card[data-song]")) { e.preventDefault(); openDetail(e.target.dataset.song); }
+});
 
 load().catch((e) => { document.getElementById("kicker").textContent = "Could not load data: " + e.message; });
